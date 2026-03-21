@@ -1,7 +1,9 @@
 import Parser from "rss-parser";
 import fs from "fs";
 
-const parser = new Parser();
+const parser = new Parser({
+  timeout: 10000, // avoid hanging requests
+});
 
 const OUTPUT_PATH = "./data/feed.json";
 const MAX_ITEMS = 100;
@@ -30,17 +32,21 @@ function cleanText(text) {
     .trim();
 }
 
-// transform item
+// transform item safely
 function normalizeItem(item, sourceId) {
-  return {
-    id: `${sourceId}-${item.link}`,
-    source: sourceId,
-    title: item.title || "",
-    url: item.link,
-    publishedAt: item.isoDate || item.pubDate || null,
-    summary: cleanText(item.contentSnippet || item.content || ""),
-    image: null,
-  };
+  try {
+    return {
+      id: `${sourceId}-${item.link || Math.random()}`,
+      source: sourceId,
+      title: item.title || "",
+      url: item.link || "",
+      publishedAt: item.isoDate || item.pubDate || null,
+      summary: cleanText(item.contentSnippet || item.content || ""),
+      image: null,
+    };
+  } catch (err) {
+    return null; // skip broken item
+  }
 }
 
 async function run() {
@@ -52,22 +58,34 @@ async function run() {
   for (const feed of feeds) {
     console.log(`Fetching: ${feed.id}`);
 
-    const parsed = await parser.parseURL(feed.url);
+    try {
+      const parsed = await parser.parseURL(feed.url);
 
-    // normalize + limit per source
-    const normalizedItems = parsed.items
-      .map((item) => normalizeItem(item, feed.id))
-      .slice(0, 10);
+      if (!parsed || !parsed.items || !Array.isArray(parsed.items)) {
+        console.warn(`Skipping ${feed.id}: invalid response`);
+        continue;
+      }
 
-    normalizedItems.forEach((item) => {
-      map.set(item.id, item);
-    });
+      const normalizedItems = parsed.items
+        .map((item) => normalizeItem(item, feed.id))
+        .filter(Boolean) // remove nulls
+        .slice(0, 10);
 
-    console.log(`Fetched ${normalizedItems.length} items (limited to 10)`);
+      normalizedItems.forEach((item) => {
+        map.set(item.id, item);
+      });
+
+      console.log(`Fetched ${normalizedItems.length} items (limited to 10)`);
+    } catch (err) {
+      console.error(`Failed: ${feed.id}`);
+      console.error(err.message);
+      continue; // 🔹 move on to next feed
+    }
   }
 
   // sort + global limit
   const allItems = Array.from(map.values())
+    .filter((item) => item.publishedAt) // avoid invalid dates
     .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt))
     .slice(0, MAX_ITEMS);
 
@@ -82,6 +100,6 @@ run()
     process.exit(0);
   })
   .catch((err) => {
-    console.error(err);
+    console.error("Fatal error:", err);
     process.exit(1);
   });
