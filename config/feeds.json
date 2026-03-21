@@ -25,11 +25,6 @@
     "type": "rss"
   },
   {
-    "id": "alternative-press",
-    "url": "https://www.altpress.com/feed/",
-    "type": "rss"
-  },
-  {
     "id": "rolling-stone",
     "url": "https://www.rollingstone.com/feed/",
     "type": "rss"
