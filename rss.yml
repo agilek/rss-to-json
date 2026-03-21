@@ -1,0 +1,33 @@
+name: Update RSS feeds
+
+on:
+  schedule:
+    - cron: "0 */2 * * *" # every 2 hours
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: checkout repo
+        uses: actions/checkout@v4
+
+      - name: setup node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: install deps
+        run: npm install
+
+      - name: run script
+        run: node scripts/fetch-feeds.js
+
+      - name: commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data/feed.json
+          git diff --cached --quiet || git commit -m "update feeds"
+          git push

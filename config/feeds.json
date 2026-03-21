@@ -1,0 +1,47 @@
+[
+  {
+    "id": "kerrang",
+    "url": "https://www.kerrang.com/feed.rss",
+    "type": "rss"
+  },
+  {
+    "id": "nme",
+    "url": "https://nme.com/feed",
+    "type": "rss"
+  },
+  {
+    "id": "billboard",
+    "url": "https://www.billboard.com/feed/",
+    "type": "rss"
+  },
+  {
+    "id": "loudwire",
+    "url": "https://loudwire.com/feed/",
+    "type": "rss"
+  },
+  {
+    "id": "uncut",
+    "url": "https://www.uncut.co.uk/feed/",
+    "type": "rss"
+  },
+  {
+    "id": "alternative-press",
+    "url": "https://www.altpress.com/feed/",
+    "type": "rss"
+  },
+  {
+    "id": "rolling-stone",
+    "url": "https://www.rollingstone.com/feed/",
+    "type": "rss"
+  },
+  {
+    "id": "pitchfork",
+    "url": "https://pitchfork.com/feed/feed-news/rss",
+    "type": "rss"
+  },
+  {
+    "id": "louder-than-war",
+    "url": "https://louderthanwar.com/feed/",
+    "type": "rss"
+  }
+]
