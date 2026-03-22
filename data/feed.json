@@ -1,5 +1,14 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/rock/mark-hoppus-violent-soho-sydney-1236204028/",
+    "source": "billboard",
+    "title": "Mark Hoppus Says Violent Soho Are Getting Back Together",
+    "url": "https://www.billboard.com/music/rock/mark-hoppus-violent-soho-sydney-1236204028/",
+    "publishedAt": "2026-03-22T06:40:57.000Z",
+    "summary": "The blink-182 bassist brought out Luke Boerdam and James Tidswell for an acoustic 'Dammit' during his Fahrenheit-182 storytelling tour in Sydney.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/music-news/tokischa-shaves-head-live-stage-madison-square-garden-nyc-1236203978/",
     "source": "billboard",
     "title": "Tokischa Shaves Her Head Live on Stage at New York’s Madison Square Garden",
@@ -888,15 +897,6 @@
     "url": "https://loudwire.com/ginger-wildheart-cancer-diagnosis/",
     "publishedAt": "2026-03-19T19:56:40.000Z",
     "summary": "The band plans to continue touring for now. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/acdc-stevie-young-hospitalized-march-2026/",
-    "source": "loudwire",
-    "title": "Stevie Young of AC/DC Hospitalized After Concert",
-    "url": "https://loudwire.com/acdc-stevie-young-hospitalized-march-2026/",
-    "publishedAt": "2026-03-19T19:48:47.000Z",
-    "summary": "He's currently undergoing tests in Buenos Aires. Continue reading…",
     "image": null
   }
 ]
