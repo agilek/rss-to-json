@@ -1,5 +1,14 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/music-news/tokischa-shaves-head-live-stage-madison-square-garden-nyc-1236203978/",
+    "source": "billboard",
+    "title": "Tokischa Shaves Her Head Live on Stage at New York’s Madison Square Garden",
+    "url": "https://www.billboard.com/music/music-news/tokischa-shaves-head-live-stage-madison-square-garden-nyc-1236203978/",
+    "publishedAt": "2026-03-22T03:13:00.000Z",
+    "summary": "The Dominican artist was the supporting act ahead of FKA Twigs' set Saturday night (March 21).",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/music-news/chappell-roan-jorginho-daughter-security-harassment-brazil-1236203965/",
     "source": "billboard",
     "title": "Soccer Star Jorginho Claims Chappell Roan’s ‘Aggressive’ Security Left 11-Year-Old Daughter ‘In Tears’ Over Breakfast Encounter",
@@ -888,15 +897,6 @@
     "url": "https://loudwire.com/acdc-stevie-young-hospitalized-march-2026/",
     "publishedAt": "2026-03-19T19:48:47.000Z",
     "summary": "He's currently undergoing tests in Buenos Aires. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/at-the-gates-final-album-tomas-lindberg/",
-    "source": "loudwire",
-    "title": "'You Inspired Us in Everything' - At the Gates Reflect",
-    "url": "https://loudwire.com/at-the-gates-final-album-tomas-lindberg/",
-    "publishedAt": "2026-03-19T18:09:05.000Z",
-    "summary": "At the Gates share the emotional journey of finishing their final album before the death of vocalist Tomas Lindberg Continue reading…",
     "image": null
   }
 ]
