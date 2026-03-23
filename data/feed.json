@@ -1,5 +1,23 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/concerts/jennie-debuts-dracula-china-1236204156/",
+    "source": "billboard",
+    "title": "In Her Solo Era, Jennie Debuts ‘Dracula’ Live at First Solo China Show",
+    "url": "https://www.billboard.com/music/concerts/jennie-debuts-dracula-china-1236204156/",
+    "publishedAt": "2026-03-23T05:03:55.000Z",
+    "summary": "Jennie performs at the Governors Ball on June 7.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/product-recommendations/lifestyle/andrew-scott-redbreast-irish-whiskey-unhidden-campaign-film-1235534000/",
+    "source": "rolling-stone",
+    "title": "Andrew Scott Speaks Up for Short Films (and Irish Whiskey) With New Redbreast Partnership",
+    "url": "https://www.rollingstone.com/product-recommendations/lifestyle/andrew-scott-redbreast-irish-whiskey-unhidden-campaign-film-1235534000/",
+    "publishedAt": "2026-03-23T03:27:58.000Z",
+    "summary": "The actor helped to unveil this year's Redbreast Unhidden Award, presented to an emerging short film director at SXSW",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/product-recommendations/lifestyle/funko-bts-toy-story-tiny-tan-buy-online-1235135956/",
     "source": "rolling-stone",
     "title": "BTS’ ‘Toy Story’ Funko Figures Get Restocked On Heels of New Album and New Pixar Movie Drop",
@@ -879,24 +897,6 @@
     "url": "https://www.rollingstone.com/product-recommendations/style/adidas-away-kit-jersey-event-baby-keem-kaytranada-1235534968/",
     "publishedAt": "2026-03-20T22:13:59.000Z",
     "summary": "Adidas shut down a tunnel under downtown L.A. for its away jersey unveiling ahead of the tournament this summer",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/erykah-badu-jay-z-headline-roots-picnic-2026-lineup-1235535143/",
-    "source": "rolling-stone",
-    "title": "Erykah Badu to Join Jay-Z as a Headliner at 2026 Roots Picnic",
-    "url": "https://www.rollingstone.com/music/music-news/erykah-badu-jay-z-headline-roots-picnic-2026-lineup-1235535143/",
-    "publishedAt": "2026-03-20T22:10:16.000Z",
-    "summary": "Kehlani, Brandy, and T.I. are among the artists performing at the Philadelphia festival in May",
-    "image": null
-  },
-  {
-    "id": "nme-https://www.nme.com/news/film/spider-man-brand-new-day-trailer-breaks-record-set-by-grand-theft-auto-6-3935799?utm_source=rss&utm_medium=rss&utm_campaign=spider-man-brand-new-day-trailer-breaks-record-set-by-grand-theft-auto-6",
-    "source": "nme",
-    "title": "‘Spider-Man: Brand New Day’ trailer breaks record set by ‘Grand Theft Auto 6’",
-    "url": "https://www.nme.com/news/film/spider-man-brand-new-day-trailer-breaks-record-set-by-grand-theft-auto-6-3935799?utm_source=rss&utm_medium=rss&utm_campaign=spider-man-brand-new-day-trailer-breaks-record-set-by-grand-theft-auto-6",
-    "publishedAt": "2026-03-20T22:05:38.000Z",
-    "summary": "After days of teasers, the trailer for the latest instalment of the Marvel Cinematic Universe was received to huge fanfare The post ‘Spider-Man: Brand New Day’ trailer breaks record set by ‘Grand Theft Auto 6’ appeared first on NME.",
     "image": null
   }
 ]
