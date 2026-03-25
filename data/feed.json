@@ -1,5 +1,32 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/awards/ivor-novello-awards-nominations-2026-1236205573/",
+    "source": "billboard",
+    "title": "Olivia Dean, Lola Young & Coldplay Lead the Ivors 2026 Nominations: See Full List",
+    "url": "https://www.billboard.com/music/awards/ivor-novello-awards-nominations-2026-1236205573/",
+    "publishedAt": "2026-03-25T07:00:00.000Z",
+    "summary": "The prestigious trophies will be awarded at a ceremony in London this coming May.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/tv-movies/tv-movie-news/lord-of-the-rings-stephen-colbert-movie-peter-jackson-1235536862/",
+    "source": "rolling-stone",
+    "title": "‘Lord of the Rings’ Superfan Stephen Colbert to Write New Movie for Peter Jackson",
+    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/lord-of-the-rings-stephen-colbert-movie-peter-jackson-1235536862/",
+    "publishedAt": "2026-03-25T05:49:40.000Z",
+    "summary": "The film will follow Lord of the Rings: Hunt for Gollum, which is being directed by Andy Serkis",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/cardi-b-sold-out-msg-concerts-interview-fallon-1236206318/",
+    "source": "billboard",
+    "title": "‘I’m Just So Overwhelmed’: Cardi B Talks Sold-Out MSG Concerts on ‘Fallon’",
+    "url": "https://www.billboard.com/music/rb-hip-hop/cardi-b-sold-out-msg-concerts-interview-fallon-1236206318/",
+    "publishedAt": "2026-03-25T05:32:48.000Z",
+    "summary": "Cardi stopped by Jimmy Fallon's late-night show to discuss her concerts, her career, and her new haircare and beauty line, Grow-Good.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/pop/bts-comeback-live-18-4-million-views-netflix-1236206297/",
     "source": "billboard",
     "title": "BTS’s ‘Comeback Live’ Special Drew 18.4 Million Views on Netflix",
@@ -870,33 +897,6 @@
     "url": "https://www.rollingstone.com/music/music-news/jay-z-talks-sexual-assault-lawsuit-new-music-interview-1235536237/",
     "publishedAt": "2026-03-24T14:36:53.000Z",
     "summary": "For the first time, the rap mogul spoke about the “uncontrollable anger” he felt over the suit (which has been dropped) and why he couldn’t channel those feelings into new music",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/news/jay-z-opens-up-about-kendrick-drake-beef-in-first-interview-in-years/",
-    "source": "pitchfork",
-    "title": "Jay-Z Opens Up About Kendrick-Drake Beef in Rare Interview",
-    "url": "https://pitchfork.com/news/jay-z-opens-up-about-kendrick-drake-beef-in-first-interview-in-years/",
-    "publishedAt": "2026-03-24T14:35:15.000Z",
-    "summary": "Billionaires, Bad Bunny, and rap feuds are discussed at length in the new GQ feature",
-    "image": null
-  },
-  {
-    "id": "nme-https://www.nme.com/news/tv/hannah-montana-20th-anniversary-special-every-song-3936405?utm_source=rss&utm_medium=rss&utm_campaign=hannah-montana-20th-anniversary-special-every-song",
-    "source": "nme",
-    "title": "Every song in the ‘Hannah Montana 20th Anniversary Special’",
-    "url": "https://www.nme.com/news/tv/hannah-montana-20th-anniversary-special-every-song-3936405?utm_source=rss&utm_medium=rss&utm_campaign=hannah-montana-20th-anniversary-special-every-song",
-    "publishedAt": "2026-03-24T14:29:38.000Z",
-    "summary": "Including tracks 'The Climb' and 'The Best Of Both Worlds' The post Every song in the ‘Hannah Montana 20th Anniversary Special’ appeared first on NME.",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/march-madness-tournment-rock-metal-bands-decades-round-2/",
-    "source": "loudwire",
-    "title": "March Madness - Vote for Best Band of the '70s, '80s, '90s + '00s",
-    "url": "https://loudwire.com/march-madness-tournment-rock-metal-bands-decades-round-2/",
-    "publishedAt": "2026-03-24T14:14:10.000Z",
-    "summary": "Now, 16 rock and metal bands remain as Round 2 of Loudwire's March Madness: Decades of Destruction tournament is here. Vote now! Continue reading…",
     "image": null
   }
 ]
