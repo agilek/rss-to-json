@@ -1,5 +1,32 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/pro/music-industry-politicians-queensland-parliament-house/",
+    "source": "billboard",
+    "title": "‘Success Is Not About a Race to the Top’: Music Industry, Politicians Gather For Pre-Olympics Pow-Wow at Queensland’s Parliament House",
+    "url": "https://www.billboard.com/pro/music-industry-politicians-queensland-parliament-house/",
+    "publishedAt": "2026-03-26T04:46:55.000Z",
+    "summary": "The first Queensland Parliamentary Friends of the Music Industry event for 2026 was presented Wednesday night at The Speaker's Green.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/chappell-roan-pascal-duvier-security-guard-hotel-incident-1235537461/",
+    "source": "rolling-stone",
+    "title": "Security Guard Takes ‘Full Responsibility’ in Chappell Roan Hotel Fiasco",
+    "url": "https://www.rollingstone.com/music/music-news/chappell-roan-pascal-duvier-security-guard-hotel-incident-1235537461/",
+    "publishedAt": "2026-03-26T04:06:31.000Z",
+    "summary": "Pascal Duvier said he was not part of the pop star's security team following allegations from Brazilian soccer player Jorginho",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/2026-aam-awards-nominations/",
+    "source": "billboard",
+    "title": "2026 AAM Awards: See the Nominations",
+    "url": "https://www.billboard.com/pro/2026-aam-awards-nominations/",
+    "publishedAt": "2026-03-26T03:03:37.000Z",
+    "summary": "The Association of Artist Managers’ fifth annual awards returns to Sydney’s Crowbar.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/pop/bts-tonight-show-photo-inside-jimmy-fallon-interview-1236207029/",
     "source": "billboard",
     "title": "Go Inside BTS ‘Tonight Show’ Taping, From Fan Jump-Scares to Jimmy Fallon Angling to Be ‘The 8th Member’",
@@ -870,33 +897,6 @@
     "url": "https://www.rollingstone.com/music/music-features/audrey-hobert-interview-sue-me-1235527209/",
     "publishedAt": "2026-03-25T13:00:00.000Z",
     "summary": "The co-writer of “That’s So True” has followed her singular pop instincts to a string of solo hits, and she’s got plenty more in store",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/bunt-edm-interview-coachella-1235527231/",
-    "source": "rolling-stone",
-    "title": "Bunt.: Inside the Mind of an EDM Superstar in Waiting",
-    "url": "https://www.rollingstone.com/music/music-features/bunt-edm-interview-coachella-1235527231/",
-    "publishedAt": "2026-03-25T13:00:00.000Z",
-    "summary": "German producer Levi Wijk calls us from a beach in Thailand, one of many stops on a world tour that also includes a Coachella set he can't wait to play",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/dexter-in-the-newsagent-new-music-interview-1235528036/",
-    "source": "rolling-stone",
-    "title": "How Dexter in the Newsagent Realized ‘Anything Is Possible’",
-    "url": "https://www.rollingstone.com/music/music-features/dexter-in-the-newsagent-new-music-interview-1235528036/",
-    "publishedAt": "2026-03-25T13:00:00.000Z",
-    "summary": "She’s been making eclectic dance pop in her south London bedroom, and the world is tuning in",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/ink-interview-beyonce-kendrick-1235528572/",
-    "source": "rolling-stone",
-    "title": "Ink Is Making the Country Music She Wants to Hear",
-    "url": "https://www.rollingstone.com/music/music-features/ink-interview-beyonce-kendrick-1235528572/",
-    "publishedAt": "2026-03-25T13:00:00.000Z",
-    "summary": "The songwriter has collaborated with Kendrick Lamar and Beyoncé — and now she's got her eye on Nashville",
     "image": null
   }
 ]
