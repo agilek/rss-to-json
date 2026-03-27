@@ -1,8 +1,89 @@
 [
   {
+    "id": "pitchfork-https://pitchfork.com/news/kanye-west-releases-bully/",
+    "source": "pitchfork",
+    "title": "Kanye West Releases Bully",
+    "url": "https://pitchfork.com/news/kanye-west-releases-bully/",
+    "publishedAt": "2026-03-27T05:21:32.000Z",
+    "summary": "He first announced the Vultures 2 follow-up in 2024",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/charlie-puth-whatevers-clever-stream-it-now-1236206315/",
+    "source": "billboard",
+    "title": "Charlie Puth’s ‘Incredibly Honest’ Album ‘Whatever’s Clever!’ Has Arrived: Stream It Now",
+    "url": "https://www.billboard.com/music/pop/charlie-puth-whatevers-clever-stream-it-now-1236206315/",
+    "publishedAt": "2026-03-27T04:49:47.000Z",
+    "summary": "Puth’s ambition was to “make a rich, warm, and big-sounding record.”",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/miley-cyrus-shares-new-hannah-montana-song/",
+    "source": "pitchfork",
+    "title": "Miley Cyrus Shares New Hannah Montana Song",
+    "url": "https://pitchfork.com/news/miley-cyrus-shares-new-hannah-montana-song/",
+    "publishedAt": "2026-03-27T04:22:44.000Z",
+    "summary": "She previewed “Younger You” in the Hannah Montana 20th Anniversary Special on March 24",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/miley-cyrus-hannah-montana-iheartradio-music-awards-2026-1235537991/",
+    "source": "rolling-stone",
+    "title": "Miley Cyrus Honors Hannah Montana in Heartfelt iHeartRadio Music Awards Speech: ‘This Really Is the Life’",
+    "url": "https://www.rollingstone.com/music/music-news/miley-cyrus-hannah-montana-iheartradio-music-awards-2026-1235537991/",
+    "publishedAt": "2026-03-27T04:20:58.000Z",
+    "summary": "The superstar took home the Innovator Award during Thursday night's ceremony",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/actress-and-suzanne-ciani-release-collaborative-live-album/",
+    "source": "pitchfork",
+    "title": "Actress and Suzanne Ciani Release Collaborative Live Album",
+    "url": "https://pitchfork.com/news/actress-and-suzanne-ciani-release-collaborative-live-album/",
+    "publishedAt": "2026-03-27T04:16:41.000Z",
+    "summary": "Concrète Waves documents two improvised sets at London’s Barbican Theatre and Barcelona’s Sónar Festival",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/che-drops-new-ep/",
+    "source": "pitchfork",
+    "title": "Che Drops New EP",
+    "url": "https://pitchfork.com/news/che-drops-new-ep/",
+    "publishedAt": "2026-03-27T04:05:10.000Z",
+    "summary": "The five-track release marks his first new music since REST IN BASS: ENCORE",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rock/flea-debut-solo-album-honora-stream-it-now-1236208219/",
+    "source": "billboard",
+    "title": "Flea Jazzes up For Debut Solo Album ‘Honora’: Stream It Now",
+    "url": "https://www.billboard.com/music/rock/flea-debut-solo-album-honora-stream-it-now-1236208219/",
+    "publishedAt": "2026-03-27T04:03:47.000Z",
+    "summary": "Flea teams up with Nick Cave, Thom Yorke and others for his debut album.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/melanie-martinez-hades-stream-it-now-1236208272/",
+    "source": "billboard",
+    "title": "Melanie Martinez Takes us to ‘HADES’: Stream It Now",
+    "url": "https://www.billboard.com/music/pop/melanie-martinez-hades-stream-it-now-1236208272/",
+    "publishedAt": "2026-03-27T04:01:55.000Z",
+    "summary": "Martinez returns with her fourth studio album, \"HADES,\" the songwriter and alternative pop artist's social commentary on today’s world.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/2026-hard-rock-metal-album-release-calendar/",
+    "source": "loudwire",
+    "title": "The New Rock + Metal Albums Out Today",
+    "url": "https://loudwire.com/2026-hard-rock-metal-album-release-calendar/",
+    "publishedAt": "2026-03-27T04:01:48.000Z",
+    "summary": "See all the new releases coming each week of 2026. Continue reading…",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/taylor-swift-artist-of-the-year-2026-iheartradio-awards-1235537980/",
     "source": "rolling-stone",
-    "title": "Taylor Swift Nabs Artist of the Year at iHeartRadio Music Awards: ‘Nurture Your Hobby’",
+    "title": "Taylor Swift Says She Feels ‘Happy, Confident, and Free’ Because of Travis Kelce During iHeartRadio Music Awards Speech",
     "url": "https://www.rollingstone.com/music/music-news/taylor-swift-artist-of-the-year-2026-iheartradio-awards-1235537980/",
     "publishedAt": "2026-03-27T02:37:10.000Z",
     "summary": "The pop superstar made history with seven wins at the annual ceremony",
@@ -816,87 +897,6 @@
     "url": "https://www.nme.com/news/music/nme-magazine-march-april-2026-issue-how-to-buy-3936081?utm_source=rss&utm_medium=rss&utm_campaign=nme-magazine-march-april-2026-issue-how-to-buy",
     "publishedAt": "2026-03-26T14:00:22.000Z",
     "summary": "It comes bundled with MusicTech Magazine featuring KÁRYYN The post The NME Magazine March/April 2026 issue with Mon Rovîa on the cover is now on sale appeared first on NME.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/awards/david-vanacore-ascap-golden-note-award-survivor-composer-1236207014/",
-    "source": "billboard",
-    "title": "‘Survivor’ Composer David Vanacore to Receive ASCAP Golden Note Award",
-    "url": "https://www.billboard.com/music/awards/david-vanacore-ascap-golden-note-award-survivor-composer-1236207014/",
-    "publishedAt": "2026-03-26T14:00:00.000Z",
-    "summary": "Vanacore has scored all 50 seasons of the reality competition series, among other shows.",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/tv-movies/tv-movie-reviews/they-will-kill-you-review-zazie-beetz-1235534102/",
-    "source": "rolling-stone",
-    "title": "‘They Will Kill You’ Has a Massive Tarantino Fetish",
-    "url": "https://www.rollingstone.com/tv-movies/tv-movie-reviews/they-will-kill-you-review-zazie-beetz-1235534102/",
-    "publishedAt": "2026-03-26T14:00:00.000Z",
-    "summary": "Zazie Beetz goes HAM on the billionaire class in this vintage-exploitation-cinema mixtape of a revenge movie",
-    "image": null
-  },
-  {
-    "id": "nme-https://www.nme.com/news/music/lauryn-hill-announces-diaspora-calling-festival-milton-keynes-wyclef-jean-3936793?utm_source=rss&utm_medium=rss&utm_campaign=lauryn-hill-announces-diaspora-calling-festival-milton-keynes-wyclef-jean",
-    "source": "nme",
-    "title": "Lauryn Hill announces massive Diaspora Calling! festival for Milton Keynes with Wyclef Jean and more",
-    "url": "https://www.nme.com/news/music/lauryn-hill-announces-diaspora-calling-festival-milton-keynes-wyclef-jean-3936793?utm_source=rss&utm_medium=rss&utm_campaign=lauryn-hill-announces-diaspora-calling-festival-milton-keynes-wyclef-jean",
-    "publishedAt": "2026-03-26T13:53:20.000Z",
-    "summary": "The festival will make its UK debut at Milton Keynes National Bowl on Friday, August 7 The post Lauryn Hill announces massive Diaspora Calling! festival for Milton Keynes with Wyclef Jean and more appeared first on NME.",
-    "image": null
-  },
-  {
-    "id": "nme-https://www.nme.com/news/music/watch-lime-garden-cover-new-orders-classic-age-of-consent-at-abbey-road-3936813?utm_source=rss&utm_medium=rss&utm_campaign=watch-lime-garden-cover-new-orders-classic-age-of-consent-at-abbey-road",
-    "source": "nme",
-    "title": "Watch Lime Garden cover New Order’s classic ‘Age Of Consent’ at Abbey Road",
-    "url": "https://www.nme.com/news/music/watch-lime-garden-cover-new-orders-classic-age-of-consent-at-abbey-road-3936813?utm_source=rss&utm_medium=rss&utm_campaign=watch-lime-garden-cover-new-orders-classic-age-of-consent-at-abbey-road",
-    "publishedAt": "2026-03-26T13:40:28.000Z",
-    "summary": "“New Order were a major influence on the feel of our new album,” said singer Chloe Howard, discussing forthcoming record ‘Maybe Not Tonight’ The post Watch Lime Garden cover New Order’s classic ‘Age Of Consent’ at Abbey Road appeared first on NME.",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/bruce-springsteen-land-of-hope-and-dreams-political-tour-1235537482/",
-    "source": "rolling-stone",
-    "title": "Bruce Springsteen Says His Upcoming Land of Hope and Dreams Tour ‘Is Going to Be Political’",
-    "url": "https://www.rollingstone.com/music/music-news/bruce-springsteen-land-of-hope-and-dreams-political-tour-1235537482/",
-    "publishedAt": "2026-03-26T13:20:55.000Z",
-    "summary": "Artist will kick off the tour in Minneapolis on Tuesday",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/bmg-2025-profit-streaming-revenue-grew-total-revenue-slips/",
-    "source": "billboard",
-    "title": "BMG’s 2025 Profit, Streaming Subscription Revenue Grows, Total Revenue Slips",
-    "url": "https://www.billboard.com/pro/bmg-2025-profit-streaming-revenue-grew-total-revenue-slips/",
-    "publishedAt": "2026-03-26T13:09:01.000Z",
-    "summary": "EBITDA margins hit all-time highs for Lily Allen and Jason Aldean's record label, but divestments from non-core businesses presented a drag on total revenue.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/latin/rosalia-cuts-concert-milan-short-food-poisoning-1236207259/",
-    "source": "billboard",
-    "title": "Rosalía Pulls Plug on Milan Concert Halfway Through Due to ‘Food Poisoning’: ‘I’m Feeling Extremely Sick’",
-    "url": "https://www.billboard.com/music/latin/rosalia-cuts-concert-milan-short-food-poisoning-1236207259/",
-    "publishedAt": "2026-03-26T13:02:03.000Z",
-    "summary": "The singer was forced to stop her performance at the Unipol Forum halfway through the show.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/megan-thee-stallion-interview-flamin-hot-cheetos-nickelback-1236189781/",
-    "source": "billboard",
-    "title": "Megan Thee Stallion Talks Broadway Debut, Juvenile Remix & ‘Figuring Out How to Meg-ify Nickelback’ for New Flamin’ Hot Cheetos Song",
-    "url": "https://www.billboard.com/music/music-news/megan-thee-stallion-interview-flamin-hot-cheetos-nickelback-1236189781/",
-    "publishedAt": "2026-03-26T13:00:00.000Z",
-    "summary": "The Grammy-winning rapper also tells Billboard about a \"new alter ego\" on her Megan: Act III album, which she says will drop this year.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/latin/ryan-castro-agua-bendita-awaa-collection-1236205926/",
-    "source": "billboard",
-    "title": "Ryan Castro & Agua Bendita: The Vibrant World of the AWAA Collection",
-    "url": "https://www.billboard.com/music/latin/ryan-castro-agua-bendita-awaa-collection-1236205926/",
-    "publishedAt": "2026-03-26T13:00:00.000Z",
-    "summary": "The Colombian star exclusively reveals his new partnership with Agua Bendita, set to launch March. 26.",
     "image": null
   }
 ]
