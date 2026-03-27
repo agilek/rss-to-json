@@ -1,7 +1,7 @@
 [
   {
     "id": "kerrang",
-    "url": "https://www.kerrang.com/feed.rss",
+    "url": "https://news.google.com/rss/search?q=site:kerrang.com&hl=en-US&gl=US&ceid=US:en",
     "type": "rss"
   },
   {
