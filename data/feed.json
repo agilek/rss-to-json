@@ -1,11 +1,146 @@
 [
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/miley-cyrus-younger-you-video-hannah-montana-1236208440/",
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/breland-in-my-truck-50-cent-in-da-club-1235538116/",
+    "source": "rolling-stone",
+    "title": "Will This Country Take on 50 Cent Be the Song of the Summer?",
+    "url": "https://www.rollingstone.com/music/music-country/breland-in-my-truck-50-cent-in-da-club-1235538116/",
+    "publishedAt": "2026-03-27T16:52:09.000Z",
+    "summary": "Breland recasts the blockbuster \"In Da Club\" as \"In My Truck,\" with irresistible results",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/jessie-reyez-surprise-ep-still-paid-1235538198/",
+    "source": "rolling-stone",
+    "title": "Jessie Reyez Drops Surprise EP ‘$till Paid’",
+    "url": "https://www.rollingstone.com/music/music-news/jessie-reyez-surprise-ep-still-paid-1235538198/",
+    "publishedAt": "2026-03-27T16:43:16.000Z",
+    "summary": "The project commemorates one year since the release of her third studio album, Paid in Memories",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/love-story-top-four-february-2026-top-tv-songs-chart-1236208541/",
     "source": "billboard",
-    "title": "Miley Cyrus Receives a Message From Her Teenage Self in Emotional ‘Younger You’ Music Video: ‘Don’t Forget About Me’",
-    "url": "https://www.billboard.com/music/music-news/miley-cyrus-younger-you-video-hannah-montana-1236208440/",
-    "publishedAt": "2026-03-27T14:49:43.000Z",
-    "summary": "The track and visual come as part of the Hannah Montana 20th Anniversary Special.",
+    "title": "‘Love Story’ Premieres With Top Four on February 2026 Top TV Songs Chart",
+    "url": "https://www.billboard.com/music/chart-beat/love-story-top-four-february-2026-top-tv-songs-chart-1236208541/",
+    "publishedAt": "2026-03-27T16:16:46.000Z",
+    "summary": "The new FX series occupies seven of the chart's 10 positions, led by Mazzy Star's \"Fade Into You.\"",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/features/leigh-anne-caribbean-rookie-of-the-month-march-interview-1236207833/",
+    "source": "billboard",
+    "title": "Here’s How Leigh-Anne Made History by Listening to Her ‘Ego’: ‘I Believe in Myself, And I Believe in This Music’",
+    "url": "https://www.billboard.com/music/features/leigh-anne-caribbean-rookie-of-the-month-march-interview-1236207833/",
+    "publishedAt": "2026-03-27T16:11:50.000Z",
+    "summary": "The British-Jamaican Little Mix alumna is Billboard’s Caribbean Rookie of the Month for March.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/photos/2026-iheartradio-music-awards-behind-the-scenes-best-photos-1236208476/",
+    "source": "billboard",
+    "title": "2026 iHeartRadio Music Awards: Best Photos From Behind-the-Scenes",
+    "url": "https://www.billboard.com/photos/2026-iheartradio-music-awards-behind-the-scenes-best-photos-1236208476/",
+    "publishedAt": "2026-03-27T16:11:01.000Z",
+    "summary": "From Taylor Swift to Alysa Liu and more, stars posed for snaps at the ceremony.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/listen-to-empress-ofs-new-song-dream-house/",
+    "source": "pitchfork",
+    "title": "Listen to Empress Of’s New Song “Dream House”",
+    "url": "https://pitchfork.com/news/listen-to-empress-ofs-new-song-dream-house/",
+    "publishedAt": "2026-03-27T16:04:03.000Z",
+    "summary": "Written after Lorely Rodriguez’s home was destroyed in the California wildfires",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/latin/bts-arirang-world-tour-latin-america-venues-1236208475/",
+    "source": "billboard",
+    "title": "BTS Reveals Where Exactly They’ll Be Playing Its Latin America Tour Dates",
+    "url": "https://www.billboard.com/music/latin/bts-arirang-world-tour-latin-america-venues-1236208475/",
+    "publishedAt": "2026-03-27T16:02:20.000Z",
+    "summary": "The K-pop global sensation will visit Bogotá and Buenos Aires for the first time on the group's tour.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/belly-gang-kushington-billboard-hip-hop-rookie-march-2026-1236208180/",
+    "source": "billboard",
+    "title": "Belly Gang Kushington Is Bringing the Motivation Back to Atlanta Rap: ‘This S–t Is Bliss for Me Right Now’",
+    "url": "https://www.billboard.com/music/rb-hip-hop/belly-gang-kushington-billboard-hip-hop-rookie-march-2026-1236208180/",
+    "publishedAt": "2026-03-27T16:01:51.000Z",
+    "summary": "The Atlanta native is Billboard Hip-Hop's Rookie of the Month for March.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-album-reviews/raye-this-music-may-contain-hope-album-review-1235538055/",
+    "source": "rolling-stone",
+    "title": "Raye Goes for Broke on the Wildly Ambitious ‘This Music May Contain Hope’",
+    "url": "https://www.rollingstone.com/music/music-album-reviews/raye-this-music-may-contain-hope-album-review-1235538055/",
+    "publishedAt": "2026-03-27T15:51:00.000Z",
+    "summary": "The British star delivers a 73-minute autobiography of romantic despair and nonstop emotional turmoil. It's a lot — and all the better for it",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/megan-thee-stallion-adopts-dog-kill-shelters-1236208518/",
+    "source": "billboard",
+    "title": "Megan Thee Stallion Adopts Dog on Euthanasia List After Learning Kill Shelters Exist: ‘That Is Insane’",
+    "url": "https://www.billboard.com/music/music-news/megan-thee-stallion-adopts-dog-kill-shelters-1236208518/",
+    "publishedAt": "2026-03-27T15:50:07.000Z",
+    "summary": "The rapper named her new “son” Tyger.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/fcukers-interview-debut-album-release-harry-styles-tour-1236206748/",
+    "source": "billboard",
+    "title": "Today, Fcukers Releases a Debut Album the Duo Wasn’t Sure It’d Make",
+    "url": "https://www.billboard.com/music/music-news/fcukers-interview-debut-album-release-harry-styles-tour-1236206748/",
+    "publishedAt": "2026-03-27T15:43:24.000Z",
+    "summary": "The New York City live electronic duo's debut LP Ö comes ahead of a major headlining tour and a summer gig opening for Harry Styles.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/megan-thee-stallion-moulin-rouge-musical-tickets-broadway-1236187799/",
+    "source": "billboard",
+    "title": "Megan Thee Stallion is Driving Record-Breaking Sales for Broadway Debut in ‘Moulin Rouge! The Musical’ – Here’s Where to Get Tickets",
+    "url": "https://www.billboard.com/culture/product-recommendations/megan-thee-stallion-moulin-rouge-musical-tickets-broadway-1236187799/",
+    "publishedAt": "2026-03-27T15:42:02.000Z",
+    "summary": "The rapper plays Zidler, a traditionally male character and owner of the Moulin Rouge nightclub in the show.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/robyn-debuts-sexistential-london-release-party-1235538036/",
+    "source": "rolling-stone",
+    "title": "Robyn Debuts ‘Sexistential’ Tracks at London Release Party",
+    "url": "https://www.rollingstone.com/music/music-news/robyn-debuts-sexistential-london-release-party-1235538036/",
+    "publishedAt": "2026-03-27T15:40:02.000Z",
+    "summary": "The Swedish pop singer is celebrating the release of her long-awaited ninth LP",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/latin/shakira-expands-spain-residency-madrid-new-dates-1236204996/",
+    "source": "billboard",
+    "title": "Shakira Adds 2 More Shows in Madrid, Bringing Her European Residency to 11 Dates",
+    "url": "https://www.billboard.com/music/latin/shakira-expands-spain-residency-madrid-new-dates-1236204996/",
+    "publishedAt": "2026-03-27T15:07:00.000Z",
+    "summary": "The new dates have been added after selling more than 450,000 tickets in just a few hours.",
+    "image": null
+  },
+  {
+    "id": "uncut-https://www.uncut.co.uk/reviews/live/the-delines-and-chris-eckman-live-at-club-uncut-tender-literary-tales-of-underdog-america-153868/",
+    "source": "uncut",
+    "title": "The Delines and Chris Eckman live at Club Uncut: tender, literary tales of underdog America",
+    "url": "https://www.uncut.co.uk/reviews/live/the-delines-and-chris-eckman-live-at-club-uncut-tender-literary-tales-of-underdog-america-153868/",
+    "publishedAt": "2026-03-27T14:56:59.000Z",
+    "summary": "Club Uncut returns with a superb double bill at London's Union Chapel The post The Delines and Chris Eckman live at Club Uncut: tender, literary tales of underdog America appeared first on UNCUT.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/new-albums-2026-calendar-new-music-releases-this-year/",
+    "source": "billboard",
+    "title": "Looking Ahead: A Release Calendar of Upcoming Albums in 2026",
+    "url": "https://www.billboard.com/lists/new-albums-2026-calendar-new-music-releases-this-year/",
+    "publishedAt": "2026-03-27T14:55:13.000Z",
+    "summary": "We'll be updating our list as musicians announce their new music, so keep checking back for the latest!",
     "image": null
   },
   {
@@ -24,6 +159,15 @@
     "url": "https://pitchfork.com/news/skrillex-and-young-miko-join-forces-for-duro/",
     "publishedAt": "2026-03-27T14:28:36.000Z",
     "summary": "The producer and Puerto Rican singer-rapper debuted the song at last year’s Ultra Miami Music Festival",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/guns-n-roses-2026-lineup-change/",
+    "source": "loudwire",
+    "title": "Guns N' Roses Announce Lineup Change for 2026 World Tour",
+    "url": "https://loudwire.com/guns-n-roses-2026-lineup-change/",
+    "publishedAt": "2026-03-27T14:20:03.000Z",
+    "summary": "They'll be down one key reunion-era member. Continue reading…",
     "image": null
   },
   {
@@ -90,21 +234,21 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/rock/yellowcard-blippi-go-go-go-song-music-video-1236206900/",
-    "source": "billboard",
-    "title": "Blippi Goes Pop-Punk: Watch Yellowcard Team Up With the Preschool Fave for ‘Go Go Go’ Song & Music Video",
-    "url": "https://www.billboard.com/music/rock/yellowcard-blippi-go-go-go-song-music-video-1236206900/",
-    "publishedAt": "2026-03-27T13:00:00.000Z",
-    "summary": "“Our kids have been watching Blippi for years, so getting to make a song together felt pretty surreal for us as dads,” said Yellowcard.",
+    "id": "nme-https://news.google.com/rss/articles/CBMingFBVV95cUxOQTk0SllkaXNfTktWTk81Ny1sWlZFUlJlR05nb2x0c0R1Z2dIUVZWR19zYVdGMGFhRTQzUVNweTJ4Zm1DRnhYd2JUa0xUdkNuSThmb0NNOWVOUTg4d0QtSmxOY3dIV0pYS1lFQ3U4ZzNjREdPNEk4ckFyZ3hmNkdfOThTY3ZHNENKdi1kWEE4UHBCaWhJSW81SWpGYm9xUQ?oc=5",
+    "source": "nme",
+    "title": "Jack White announces summer 2026 European tour - NME",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQTk0SllkaXNfTktWTk81Ny1sWlZFUlJlR05nb2x0c0R1Z2dIUVZWR19zYVdGMGFhRTQzUVNweTJ4Zm1DRnhYd2JUa0xUdkNuSThmb0NNOWVOUTg4d0QtSmxOY3dIV0pYS1lFQ3U4ZzNjREdPNEk4ckFyZ3hmNkdfOThTY3ZHNENKdi1kWEE4UHBCaWhJSW81SWpGYm9xUQ?oc=5",
+    "publishedAt": "2026-03-27T12:43:51.000Z",
+    "summary": "Jack White announces summer 2026 European tour NME",
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/latin/zhamira-interview-march-2026-latin-artist-on-the-rise-1236207942/",
-    "source": "billboard",
-    "title": "After Feeling Lost, Zhamira Regains Her Power in the Music Scene: ‘I Never Had a Plan B’",
-    "url": "https://www.billboard.com/music/latin/zhamira-interview-march-2026-latin-artist-on-the-rise-1236207942/",
-    "publishedAt": "2026-03-27T13:00:00.000Z",
-    "summary": "In honor of Women's History Month, meet Billboard's Latin Artist on the Rise for March.",
+    "id": "nme-https://news.google.com/rss/articles/CBMi0gFBVV95cUxOM2I5em9oeUFFc0pYSDRNOWFlZWFsa1dvR2YxanVXMW9KTHpWbmI0bGg2XzJhUTV0Rk9fc2RDa0lkUmo2VlZpdTQ0YTRKV19iR0VMcFA3azY5VXpZVEZ6cF9meTFpQnpRNDZhUDBlalA2cFdlbmpXRzJZVTlkX29LZkJOUl9MRFBrT3lka2YwbWtTaUNoV0FMZXVueHczNHUzQnJIUXU0YkdEeVd2SWlCR2ZwLS1xcmpYSWI4UGNJSlhqa09HLWtBeFdRR2hDR29zLVE?oc=5",
+    "source": "nme",
+    "title": "Reading & Leeds 2026: Loyle Carner, Maisie Peters, Violet Grohl lead 60+ new line-up names with new dance venue The Warehouse announced - NME",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOM2I5em9oeUFFc0pYSDRNOWFlZWFsa1dvR2YxanVXMW9KTHpWbmI0bGg2XzJhUTV0Rk9fc2RDa0lkUmo2VlZpdTQ0YTRKV19iR0VMcFA3azY5VXpZVEZ6cF9meTFpQnpRNDZhUDBlalA2cFdlbmpXRzJZVTlkX29LZkJOUl9MRFBrT3lka2YwbWtTaUNoV0FMZXVueHczNHUzQnJIUXU0YkdEeVd2SWlCR2ZwLS1xcmpYSWI4UGNJSlhqa09HLWtBeFdRR2hDR29zLVE?oc=5",
+    "publishedAt": "2026-03-27T12:13:25.000Z",
+    "summary": "Reading & Leeds 2026: Loyle Carner, Maisie Peters, Violet Grohl lead 60+ new line-up names with new dance venue The Warehouse announced NME",
     "image": null
   },
   {
@@ -207,24 +351,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/hilltop-hoods-auction-95000-cancer-charity-1236208387/",
-    "source": "billboard",
-    "title": "Hilltop Hoods’ Auction Raises $95,000 For Cancer Charity",
-    "url": "https://www.billboard.com/music/music-news/hilltop-hoods-auction-95000-cancer-charity-1236208387/",
-    "publishedAt": "2026-03-27T09:54:25.000Z",
-    "summary": "“Lion Hearts Learning can now open a new Playgroup/Preschool in the north of Adelaide, giving so many more children in need access to their services,” reads a statement.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/bts-20-performance-tonight-show-watch-1236208379/",
-    "source": "billboard",
-    "title": "BTS Shine With Slick Performance of ‘2.0’ For ‘Tonight Show’: Watch",
-    "url": "https://www.billboard.com/music/chart-beat/bts-20-performance-tonight-show-watch-1236208379/",
-    "publishedAt": "2026-03-27T09:25:56.000Z",
-    "summary": "After performing “SWIM” on Wednesday night, the septet was back at New York’s iconic Guggenheim Museum, this time hitting “2.0” from their new album \"ARIRANG.\"",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/oh-doom-release-new-single-and-video/",
     "source": "louder-than-war",
     "title": "Oh Doom! release new single and video",
@@ -252,15 +378,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/pop/raye-this-music-may-contain-hope-stream-it-now-1236208364/",
-    "source": "billboard",
-    "title": "RAYE Returns With ‘This Music May Contain Hope’: Stream It Now",
-    "url": "https://www.billboard.com/music/pop/raye-this-music-may-contain-hope-stream-it-now-1236208364/",
-    "publishedAt": "2026-03-27T08:45:11.000Z",
-    "summary": "Collaborators on RAYE's new album include Hans Zimmer, Al Green and her sisters Amma and Absolutely.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/zayn-sideways-konnakol-single-release-1235538022/",
     "source": "rolling-stone",
     "title": "Zayn Reflects on Past Intimacy on R&B-Inspired Single ‘Sideways’",
@@ -279,42 +396,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/snoop-dogg-stop-counting-my-poccets-single-video-1235538016/",
-    "source": "rolling-stone",
-    "title": "Snoop Dogg Is a West Coast Gangster in His ‘Stop Counting My Poccets’ Video",
-    "url": "https://www.rollingstone.com/music/music-news/snoop-dogg-stop-counting-my-poccets-single-video-1235538016/",
-    "publishedAt": "2026-03-27T08:13:40.000Z",
-    "summary": "The rapper will release his new album, 10 Til’ Midnight, in April",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWWhVVWNGTmlGdzJPYlRFNEpoTVk3RUYwSjdPSlpXeDhsWGQzUWZfeWRnNHNMbHBSaXFOZWJsaTZoMFk0SWNHMVl5b2NSc09OWGxnSmJWdmJSLWwxQ3JkdDB6WXZtUUdZZDh4VG5qajV2MmV5cmt3dWNQdnRuRUdQbGpSb2tUU3lO?oc=5",
-    "source": "nme",
-    "title": "RAYE – ‘This Music May Contain Hope’ review: showstopping musical maximalism at its grandest - NME",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWWhVVWNGTmlGdzJPYlRFNEpoTVk3RUYwSjdPSlpXeDhsWGQzUWZfeWRnNHNMbHBSaXFOZWJsaTZoMFk0SWNHMVl5b2NSc09OWGxnSmJWdmJSLWwxQ3JkdDB6WXZtUUdZZDh4VG5qajV2MmV5cmt3dWNQdnRuRUdQbGpSb2tUU3lO?oc=5",
-    "publishedAt": "2026-03-27T08:00:42.000Z",
-    "summary": "RAYE – ‘This Music May Contain Hope’ review: showstopping musical maximalism at its grandest NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://www.nme.com/news/music/president-release-new-single-mercy-listen-3936915?utm_source=rss&utm_medium=rss&utm_campaign=president-release-new-single-mercy-listen",
-    "source": "nme",
-    "title": "Listen to President’s huge new single ‘Mercy’",
-    "url": "https://www.nme.com/news/music/president-release-new-single-mercy-listen-3936915?utm_source=rss&utm_medium=rss&utm_campaign=president-release-new-single-mercy-listen",
-    "publishedAt": "2026-03-27T07:54:09.000Z",
-    "summary": "\"It’s an attempt to understand that on a human level – how belief can both guide and divide, often at great cost\" The post Listen to President’s huge new single ‘Mercy’ appeared first on NME.",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/bts-2-0-performance-fallon-1235538012/",
-    "source": "rolling-stone",
-    "title": "Watch BTS Showcase Dynamic Rendition of ‘2.0’ on ‘Fallon’",
-    "url": "https://www.rollingstone.com/music/music-news/bts-2-0-performance-fallon-1235538012/",
-    "publishedAt": "2026-03-27T07:49:39.000Z",
-    "summary": "The band took over the late-night show on Wednesday night to perform “Swim” in New York’s Guggenheim Museum",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/bugeye-comfortably-numb-new-single-and-album-announcement/",
     "source": "louder-than-war",
     "title": "Bugeye: Comfortably Numb – New Single and Album Announcement",
@@ -324,48 +405,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/bts-no-1-aria-chart-arirang-1236208347/",
-    "source": "billboard",
-    "title": "BTS Blasts to No. 1 on ARIA Chart With ‘ARIRANG’",
-    "url": "https://www.billboard.com/music/chart-beat/bts-no-1-aria-chart-arirang-1236208347/",
-    "publishedAt": "2026-03-27T06:30:40.000Z",
-    "summary": "BTS leads the ARIA Albums Chart, and claim the highest debut on the national singles tally.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/pop/miley-cyrus-raye-charlie-puth-new-music-friday-guide-1236207383/",
-    "source": "billboard",
-    "title": "Miley Cyrus, Raye, Charlie Puth & More: New Music Friday Guide",
-    "url": "https://www.billboard.com/music/pop/miley-cyrus-raye-charlie-puth-new-music-friday-guide-1236207383/",
-    "publishedAt": "2026-03-27T06:01:40.000Z",
-    "summary": "Check out the must-hear releases of the week.",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/miley-cyrus-younger-you-video-hannah-montana-fans-1235537999/",
-    "source": "rolling-stone",
-    "title": "Miley Cyrus’ ‘Younger You’ Video Hits ‘Hannah Montana’ Fans With Wave of Nostalgia",
-    "url": "https://www.rollingstone.com/music/music-news/miley-cyrus-younger-you-video-hannah-montana-fans-1235537999/",
-    "publishedAt": "2026-03-27T05:46:59.000Z",
-    "summary": "“I know your story isn’t done, but do you love who you’ve become?” the star sings on the soaring track",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/news/kanye-west-releases-bully/",
     "source": "pitchfork",
     "title": "Kanye West Premieres Bully",
     "url": "https://pitchfork.com/news/kanye-west-releases-bully/",
     "publishedAt": "2026-03-27T05:21:32.000Z",
-    "summary": "He first announced the Vultures 2 follow-up in 2024",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/pop/charlie-puth-whatevers-clever-stream-it-now-1236206315/",
-    "source": "billboard",
-    "title": "Charlie Puth’s ‘Incredibly Honest’ Album ‘Whatever’s Clever!’ Has Arrived: Stream It Now",
-    "url": "https://www.billboard.com/music/pop/charlie-puth-whatevers-clever-stream-it-now-1236206315/",
-    "publishedAt": "2026-03-27T04:49:47.000Z",
-    "summary": "Puth’s ambition was to “make a rich, warm, and big-sounding record.”",
+    "summary": "The rapper posted a livestream of the new album to YouTube before taking it down",
     "image": null
   },
   {
@@ -375,15 +420,6 @@
     "url": "https://pitchfork.com/news/miley-cyrus-shares-new-hannah-montana-song/",
     "publishedAt": "2026-03-27T04:22:44.000Z",
     "summary": "She previewed “Younger You” in the Hannah Montana 20th Anniversary Special on March 24",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/miley-cyrus-hannah-montana-iheartradio-music-awards-2026-1235537991/",
-    "source": "rolling-stone",
-    "title": "Miley Cyrus Honors Hannah Montana in iHeartRadio Music Awards Speech: ‘This Really Is the Life’",
-    "url": "https://www.rollingstone.com/music/music-news/miley-cyrus-hannah-montana-iheartradio-music-awards-2026-1235537991/",
-    "publishedAt": "2026-03-27T04:20:58.000Z",
-    "summary": "The superstar took home the Innovator Award during Thursday night’s ceremony",
     "image": null
   },
   {
@@ -402,15 +438,6 @@
     "url": "https://pitchfork.com/news/che-drops-new-ep/",
     "publishedAt": "2026-03-27T04:05:10.000Z",
     "summary": "The five-track release marks his first new music since REST IN BASS: ENCORE",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rock/flea-debut-solo-album-honora-stream-it-now-1236208219/",
-    "source": "billboard",
-    "title": "Flea Jazzes up For Debut Solo Album ‘Honora’: Stream It Now",
-    "url": "https://www.billboard.com/music/rock/flea-debut-solo-album-honora-stream-it-now-1236208219/",
-    "publishedAt": "2026-03-27T04:03:47.000Z",
-    "summary": "Flea teams up with Nick Cave, Thom Yorke and others for his debut album.",
     "image": null
   },
   {
@@ -495,15 +522,6 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/news/dash-crofts-singer-guitarist-in-soft-rock-duo-seals-and-crofts-dies-at-85/",
-    "source": "pitchfork",
-    "title": "Dash Crofts, Singer-Guitarist in Soft-Rock Duo Seals and Crofts, Dies at 85",
-    "url": "https://pitchfork.com/news/dash-crofts-singer-guitarist-in-soft-rock-duo-seals-and-crofts-dies-at-85/",
-    "publishedAt": "2026-03-26T16:27:02.000Z",
-    "summary": "Their hits “Summer Breeze” and “Diamond Girl” were pop culture mainstays in the 1970s",
-    "image": null
-  },
-  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMilAFBVV95cUxOT0dldTZaTEJuOTkxZDlJUUwxTWVaN1A4eDVZcmFSNnB3TXUxUUxSNVBJUVhZeDBsRE1GSDdPbTRLNkZkQ05jUWdYRjRoRDRFT2FuRmYyZkxIQVRmamlLSUZrYnNUdGFzV2NMelktME5hUWtIdGhtQkhsTm54aEJJS3B1T2pwZWUzc0gwZ3k4N0lHZk9T?oc=5",
     "source": "kerrang",
     "title": "PRESIDENT have released a new single, Mercy - Kerrang!",
@@ -519,15 +537,6 @@
     "url": "https://www.uncut.co.uk/news/paul-mccartney-shares-days-we-left-behind-from-new-album-the-boys-of-dungeon-lane-153828/",
     "publishedAt": "2026-03-26T15:04:18.000Z",
     "summary": "“This is very much a memory song for me” The post Paul McCartney shares “Days We Left Behind” from new album The Boys Of Dungeon Lane appeared first on UNCUT.",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/80s-cover-songs-90s-rock-metal-bands/",
-    "source": "loudwire",
-    "title": "11 Best Covers of '80s Songs By '90s Rock + Metal Bands",
-    "url": "https://loudwire.com/80s-cover-songs-90s-rock-metal-bands/",
-    "publishedAt": "2026-03-26T14:10:15.000Z",
-    "summary": "Bands like Nine Inch Nails, Sublime and Deftones have dipped back into the past to give a hit from the '80s a second life. Continue reading…",
     "image": null
   },
   {
@@ -612,6 +621,15 @@
     "image": null
   },
   {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMivgFBVV95cUxNZHo4QTZQUHBFR0Nza0dva0N5SHN5d0wxa0tER2ttTDdWOUM1bXpiQ1RlcndIcGhWc1pDUHlJUVA3VWpPNnRSZDFZM3FlVFRrMlBtYmgzaEJvX3RIcC1ZZjY3T3c5QkJaTkViSmw5NHM0emZuRmxWSllNSWFYVGNtUkd1MnQzR1dEWEl0bXRZOVE3bXlzanJpYnZiYm43YmluRHJkMDRzdW5xdWtvZGlQVmtXXzYwdWVuWGFBcHlB?oc=5",
+    "source": "kerrang",
+    "title": "Skindred announce nu-metal tour with Alien Ant Farm, Spineshank and Orgy - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZHo4QTZQUHBFR0Nza0dva0N5SHN5d0wxa0tER2ttTDdWOUM1bXpiQ1RlcndIcGhWc1pDUHlJUVA3VWpPNnRSZDFZM3FlVFRrMlBtYmgzaEJvX3RIcC1ZZjY3T3c5QkJaTkViSmw5NHM0emZuRmxWSllNSWFYVGNtUkd1MnQzR1dEWEl0bXRZOVE3bXlzanJpYnZiYm43YmluRHJkMDRzdW5xdWtvZGlQVmtXXzYwdWVuWGFBcHlB?oc=5",
+    "publishedAt": "2026-03-25T15:51:59.000Z",
+    "summary": "Skindred announce nu-metal tour with Alien Ant Farm, Spineshank and Orgy Kerrang!",
+    "image": null
+  },
+  {
     "id": "uncut-https://www.uncut.co.uk/news/mouse-on-mars-announce-last-official-album-project-of-lee-scratch-perry-153805/",
     "source": "uncut",
     "title": "Mouse On Mars announce Spatial, No Problem – the last official album project of Lee “Scratch” Perry",
@@ -636,15 +654,6 @@
     "url": "https://www.uncut.co.uk/publications/uncut-may-2026-153776/",
     "publishedAt": "2026-03-25T12:52:35.000Z",
     "summary": "Tom Waits, Queen, Tori Amos, Pixies, Jack White, Kurt Vile, a 15-track CD and more! The post Uncut May 2026 appeared first on UNCUT.",
-    "image": null
-  },
-  {
-    "id": "uncut-https://www.uncut.co.uk/news/new-tom-waits-covers-comp-bruce-springsteen-robert-plant-lucinda-williams-153796/",
-    "source": "uncut",
-    "title": "New Tom Waits covers comp to feature Bruce Springsteen, Robert Plant, Lucinda Williams and more",
-    "url": "https://www.uncut.co.uk/news/new-tom-waits-covers-comp-bruce-springsteen-robert-plant-lucinda-williams-153796/",
-    "publishedAt": "2026-03-25T12:26:51.000Z",
-    "summary": "Where The Willow And The Dogwood Grow – Words And Music: Tom Waits And Kathleen Brennan will be released in May The post New Tom Waits covers comp to feature Bruce Springsteen, Robert Plant, Lucinda Williams and more appeared first on UNCUT.",
     "image": null
   },
   {
@@ -708,15 +717,6 @@
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaTNGUGhvbWc2TTc0Q3hCdGFWdlNJTEJzLTVJUXJhUmJ6OWJyQjBET1FvcHplbmpITFl5bU5sM3BEVEhSSGUzMTFJMkRFaU5OakF1aEpkbFhsXzljb2VYNDVYSTVDOVlpV1FqTmQ2ZHVCWVRxUFU5VzBQdmcxR0c0c1JJMjRzVnFmYlJQaVdibG5relRPS1d3R19ZcXNIR01wRWpFMUZqVVRvcnBCb3RrdjdPQU1lZU9fLTktRjdUdmQ4VHpY?oc=5",
     "publishedAt": "2026-03-24T15:30:37.000Z",
     "summary": "Fighting the brainrot: The importance of listening to albums in full and why they’re good for our health Kerrang!",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMiogFBVV95cUxNcXFCTldhRjgyM2VHNFR1NzZNek0wdzhUN0xJb2djclJ1c3JzUnA5OU9ONlZNbmNLUUlCejBZQ2dabXNHUjdPT05feFBzeXJiRzUzMTNHM3VaNXQ4Y3o0TFlYX0RyMlZQUlZjZWhQTE5PUThPZy1sVFBYYmNFT183TXFZQVFUbVFaMzZsLTdnUDlDZjNIeFA1Ny1sem5RMF9veFE?oc=5",
-    "source": "kerrang",
-    "title": "Weezer are teasing a new single, Shine Again, coming this week - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcXFCTldhRjgyM2VHNFR1NzZNek0wdzhUN0xJb2djclJ1c3JzUnA5OU9ONlZNbmNLUUlCejBZQ2dabXNHUjdPT05feFBzeXJiRzUzMTNHM3VaNXQ4Y3o0TFlYX0RyMlZQUlZjZWhQTE5PUThPZy1sVFBYYmNFT183TXFZQVFUbVFaMzZsLTdnUDlDZjNIeFA1Ny1sem5RMF9veFE?oc=5",
-    "publishedAt": "2026-03-24T10:25:32.000Z",
-    "summary": "Weezer are teasing a new single, Shine Again, coming this week Kerrang!",
     "image": null
   }
 ]
