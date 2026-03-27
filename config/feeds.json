@@ -6,7 +6,7 @@
   },
   {
     "id": "nme",
-    "url": "https://www.nme.com/news/music/feed",
+    "url": "https://news.google.com/rss/search?q=site:nme.com&hl=en-US&gl=US&ceid=US:en",
     "type": "rss"
   },
   {
