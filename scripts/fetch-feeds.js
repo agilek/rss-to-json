@@ -6,7 +6,8 @@ const parser = new Parser({
 });
 
 const OUTPUT_PATH = "./data/feed.json";
-const MAX_ITEMS = 100;
+const MIN_PER_SOURCE = 5;
+const MAX_PER_SOURCE = 10;
 
 // load feeds config
 const feeds = JSON.parse(fs.readFileSync("./config/feeds.json", "utf-8"));
@@ -83,14 +84,35 @@ async function run() {
     }
   }
 
-  // sort + global limit
-  const allItems = Array.from(map.values())
-    .filter((item) => item.publishedAt) // avoid invalid dates
-    .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt))
-    .slice(0, MAX_ITEMS);
+  // group by source, sorted by date descending
+  const bySource = new Map();
+  for (const item of map.values()) {
+    if (!item.publishedAt) continue;
+    if (!bySource.has(item.source)) bySource.set(item.source, []);
+    bySource.get(item.source).push(item);
+  }
+  for (const items of bySource.values()) {
+    items.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
+  }
+
+  // guarantee up to MIN_PER_SOURCE per source first
+  const guaranteed = [];
+  const overflow = [];
+  for (const items of bySource.values()) {
+    guaranteed.push(...items.slice(0, MIN_PER_SOURCE));
+    overflow.push(...items.slice(MIN_PER_SOURCE, MAX_PER_SOURCE));
+  }
+
+  // fill remaining slots from overflow, sorted by date
+  overflow.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
+  const allItems = [...guaranteed, ...overflow];
+  allItems.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
 
   save(allItems);
 
+  const perSource = {};
+  allItems.forEach((i) => { perSource[i.source] = (perSource[i.source] || 0) + 1; });
+  console.log("Items per source:", perSource);
   console.log(`Saved ${allItems.length} items to ${OUTPUT_PATH}`);
 }
 
