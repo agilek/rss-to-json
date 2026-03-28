@@ -1,5 +1,14 @@
 [
   {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/trump-signature-us-dollars-jack-white-1235538509/",
+    "source": "rolling-stone",
+    "title": "Jack White Slams Trump’s Signature on U.S. Dollars Amid America’s Rising Cost of Living",
+    "url": "https://www.rollingstone.com/music/music-news/trump-signature-us-dollars-jack-white-1235538509/",
+    "publishedAt": "2026-03-28T03:55:15.000Z",
+    "summary": "Trump will be the first sitting U.S. president with a signature appearing on currency",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/culture/product-recommendations/laguna-beach-reunion-viral-jennie-tiktok-trend-watch-1236209067/",
     "source": "billboard",
     "title": "‘Laguna Beach’ Stars Reunite & Take On Viral JENNIE TikTok Trend: Watch",
@@ -261,15 +270,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-album-reviews/raye-this-music-may-contain-hope-album-review-1235538055/",
-    "source": "rolling-stone",
-    "title": "Raye Goes for Broke on the Wildly Ambitious ‘This Music May Contain Hope’",
-    "url": "https://www.rollingstone.com/music/music-album-reviews/raye-this-music-may-contain-hope-album-review-1235538055/",
-    "publishedAt": "2026-03-27T15:51:00.000Z",
-    "summary": "The British star delivers a 73-minute autobiography of romantic despair and nonstop emotional turmoil. It's a lot — and all the better for it",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/reviews/live/the-delines-and-chris-eckman-live-at-club-uncut-tender-literary-tales-of-underdog-america-153868/",
     "source": "uncut",
     "title": "The Delines and Chris Eckman live at Club Uncut: tender, literary tales of underdog America",
@@ -414,6 +414,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMijwFBVV95cUxPWmhSakdIRVFpVHVoSWhQdHFqMGVIOXhKSG5sMEpFZ2hyWmg4UVRZTUlPQi1hVXoxTGRkY1E1YlJfTm9RM3RTMFZXS1R4ODYxNzFUWmNWTHdORFZIQVZ0Z2FOMzFPaG90aUlDOEhYczVEcUpUR05xejV2TDkyNHc5RWh1WHVTM1lUY2sxdWd1QQ?oc=5",
+    "source": "nme",
+    "title": "‘BTS: The Return’ review: illuminating fly-on-the-wall look at the group’s big comeback - NME",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWmhSakdIRVFpVHVoSWhQdHFqMGVIOXhKSG5sMEpFZ2hyWmg4UVRZTUlPQi1hVXoxTGRkY1E1YlJfTm9RM3RTMFZXS1R4ODYxNzFUWmNWTHdORFZIQVZ0Z2FOMzFPaG90aUlDOEhYczVEcUpUR05xejV2TDkyNHc5RWh1WHVTM1lUY2sxdWd1QQ?oc=5",
+    "publishedAt": "2026-03-27T11:05:45.000Z",
+    "summary": "‘BTS: The Return’ review: illuminating fly-on-the-wall look at the group’s big comeback NME",
+    "image": null
+  },
+  {
     "id": "nme-https://www.nme.com/news/music/robyn-debuts-sexistential-new-songs-album-intimate-london-show-setlist-watch-footage-3936950?utm_source=rss&utm_medium=rss&utm_campaign=robyn-debuts-sexistential-new-songs-album-intimate-london-show-setlist-watch-footage",
     "source": "nme",
     "title": "Watch Robyn debut ‘Sexistential’ songs and deliver the bangers at intimate London album launch show",
@@ -447,15 +456,6 @@
     "url": "https://www.nme.com/news/music/bring-me-the-horizons-oli-sykes-launches-live-production-company-patient-zero-after-debuting-visuals-with-illenium-at-las-vegas-sphere-3936932?utm_source=rss&utm_medium=rss&utm_campaign=bring-me-the-horizons-oli-sykes-launches-live-production-company-patient-zero-after-debuting-visuals-with-illenium-at-las-vegas-sphere",
     "publishedAt": "2026-03-27T09:59:24.000Z",
     "summary": "The show set \"a new benchmark in hybrid live performance, combining cinematic storytelling, real-time animation, and large-scale audiovisual design\" The post Bring Me The Horizon’s Oli Sykes launches live production company Patient Zero after debuting visuals with Illenium at Las Vegas Sphere appeared first on NME.",
-    "image": null
-  },
-  {
-    "id": "nme-https://www.nme.com/news/music/watch-manic-street-preachers-cover-the-cure-rarities-teenage-cancer-trust-shows-setlist-footage-3936951?utm_source=rss&utm_medium=rss&utm_campaign=watch-manic-street-preachers-cover-the-cure-rarities-teenage-cancer-trust-shows-setlist-footage",
-    "source": "nme",
-    "title": "Watch Manic Street Preachers cover The Cure’s ‘Close To Me’ and air rarities for Robert Smith’s Teenage Cancer Trust shows at Royal Albert Hall",
-    "url": "https://www.nme.com/news/music/watch-manic-street-preachers-cover-the-cure-rarities-teenage-cancer-trust-shows-setlist-footage-3936951?utm_source=rss&utm_medium=rss&utm_campaign=watch-manic-street-preachers-cover-the-cure-rarities-teenage-cancer-trust-shows-setlist-footage",
-    "publishedAt": "2026-03-27T09:55:55.000Z",
-    "summary": "They also broke out covers of Echo & The Bunnymen and The The as part of the charity series The post Watch Manic Street Preachers cover The Cure’s ‘Close To Me’ and air rarities for Robert Smith’s Teenage Cancer Trust shows at Royal Albert Hall appeared first on NME.",
     "image": null
   },
   {
