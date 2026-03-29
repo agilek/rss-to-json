@@ -1,5 +1,23 @@
 [
   {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/bts-arirang-first-week-sales-record-1235538129/",
+    "source": "rolling-stone",
+    "title": "BTS Are Back on Top With Record-Breaking First-Week ‘Arirang’ Sales",
+    "url": "https://www.rollingstone.com/music/music-news/bts-arirang-first-week-sales-record-1235538129/",
+    "publishedAt": "2026-03-29T19:47:37.000Z",
+    "summary": "The supergroup's comeback album Arirang, their first full-length LP in six years, moved 641,000 total copies, including 532,000 in pure album sales",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/bts-arirang-no1-billboard-200-albums-chart-1236209566/",
+    "source": "billboard",
+    "title": "BTS Earns 7th No. 1 Album on Billboard 200 With ‘ARIRANG’",
+    "url": "https://www.billboard.com/music/chart-beat/bts-arirang-no1-billboard-200-albums-chart-1236209566/",
+    "publishedAt": "2026-03-29T19:00:10.000Z",
+    "summary": "Plus, Luke Combs captures his seventh top 10 album with The Way I Am.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/lists/eric-prydz-swedish-house-mafia-ultra-miami-2026-setlist/",
     "source": "billboard",
     "title": "Every Song Played During the Eric Prydz & Swedish House Mafia Reunion at Ultra Music Festival 2026",
@@ -47,10 +65,10 @@
   {
     "id": "billboard-https://www.billboard.com/music/awards/juno-award-winners-2026-tate-mcrae-1236209462/",
     "source": "billboard",
-    "title": "Juno Award Winners 2026: Tate McRae Was the Big Winner at the Industry Gala Despite Being a No-Show",
+    "title": "Alex Cuba gana nueva categoría latina en los Juno Awards 2026: Lista completa",
     "url": "https://www.billboard.com/music/awards/juno-award-winners-2026-tate-mcrae-1236209462/",
     "publishedAt": "2026-03-29T16:40:45.000Z",
-    "summary": "Other winners included Daniel Caesar, Karan Aujla, Sarah McLachlan, Aysanabee, Alex Cuba and more.",
+    "summary": "Tate McRae es la gran ganadora de la noche con cuatro premios.",
     "image": null
   },
   {
@@ -279,15 +297,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/how-to-watch-saturday-night-live-uk-online-free-1236203547/",
-    "source": "billboard",
-    "title": "‘Saturday Night Live UK’: Where to Watch the British Version of the Sketch Comedy Show Online for Free",
-    "url": "https://www.billboard.com/culture/product-recommendations/how-to-watch-saturday-night-live-uk-online-free-1236203547/",
-    "publishedAt": "2026-03-28T17:00:07.000Z",
-    "summary": "SNL UK has Jamie Dornan as host and Wolf Alice as musical guest.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/pussy-riot-protest-tech-company-ubiquiti-russian-war-crimes-1235538540/",
     "source": "rolling-stone",
     "title": "Pussy Riot Stage Protest Against Tech Company for ‘Powering Russian War Crimes’",
@@ -384,15 +393,6 @@
     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOX1dpdG5aU20taEk1ajh3TENKa01oUFZXMm5waHhNQk8zYk5idlZEVGwxczhpMEVZN0ZGT3diTTdtTVVmWVJ3RXJvUzFOZWlESGZOTVlKNHR6NGJsc2M5OWdVRVo0QmVTY2FvbnZETzF1RVZJY2RTbW5LTmR2NHJIdkZMQmtRNWQ0SHhXbFM3YjZ0WjVrQ3dYRE5iTnk3MzJhbm9maXlKcHdMbWltS1FPczg5TVNFcEQ2NFhQMUp3YWg5emJzeDZPUHFrQldOcVFtbTdxU1Z2cEtwUE1Sczcw?oc=5",
     "publishedAt": "2026-03-28T09:15:00.000Z",
     "summary": "Watch Chvrches debut heavy new song 'Conman' at Robert Smith's Teenage Cancer Trust shows at Royal Albert Hall NME",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/trump-signature-us-dollars-jack-white-1235538509/",
-    "source": "rolling-stone",
-    "title": "Jack White Slams Trump’s Signature on U.S. Dollars Amid America’s Rising Cost of Living",
-    "url": "https://www.rollingstone.com/music/music-news/trump-signature-us-dollars-jack-white-1235538509/",
-    "publishedAt": "2026-03-28T03:55:15.000Z",
-    "summary": "Trump will be the first sitting U.S. president with a signature appearing on currency",
     "image": null
   },
   {
@@ -578,19 +578,19 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMieEFVX3lxTE1PZGwxcFVlMF92MklmZGFxTXlXNHU0RW9NSEZhdU4xNldIdFRsdEh2bW1LUmFKMC0tRmRkYmZ0VW4wemloTGE5UDZZNi1RcGRlOGlmT1NLb1VvZVdGSzBKTm5Db3JsVXNvUkNMWHpvNUZ2V1dqY2RVTQ?oc=5",
     "source": "kerrang",
-    "title": "Album review: Defying Decay – Synthetic Sympathy - kerrang.com",
+    "title": "Album review: Defying Decay – Synthetic Sympathy - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PZGwxcFVlMF92MklmZGFxTXlXNHU0RW9NSEZhdU4xNldIdFRsdEh2bW1LUmFKMC0tRmRkYmZ0VW4wemloTGE5UDZZNi1RcGRlOGlmT1NLb1VvZVdGSzBKTm5Db3JsVXNvUkNMWHpvNUZ2V1dqY2RVTQ?oc=5",
     "publishedAt": "2026-03-27T10:04:03.000Z",
-    "summary": "Album review: Defying Decay – Synthetic Sympathy kerrang.com",
+    "summary": "Album review: Defying Decay – Synthetic Sympathy Kerrang!",
     "image": null
   },
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMihAFBVV95cUxPU0k2VFZ0OHBTVXh4dmJneVVoYkhDM19yZnZBZ284eTByaFFXSWJCU3RaOWpJMzhTR243TlM0cmVMcTV3MUYzaktBOGE4QTJlc1FNQ0JzbXhzQXZvMDY0UFV4bjI2QjVTZVdfTTZlVUNpRHlDSTY3VDhDdzdSXy1laFJVbnM?oc=5",
     "source": "kerrang",
-    "title": "Album review: Black Label Society – Engines Of Demolition - kerrang.com",
+    "title": "Album review: Black Label Society – Engines Of Demolition - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU0k2VFZ0OHBTVXh4dmJneVVoYkhDM19yZnZBZ284eTByaFFXSWJCU3RaOWpJMzhTR243TlM0cmVMcTV3MUYzaktBOGE4QTJlc1FNQ0JzbXhzQXZvMDY0UFV4bjI2QjVTZVdfTTZlVUNpRHlDSTY3VDhDdzdSXy1laFJVbnM?oc=5",
     "publishedAt": "2026-03-27T08:34:03.000Z",
-    "summary": "Album review: Black Label Society – Engines Of Demolition kerrang.com",
+    "summary": "Album review: Black Label Society – Engines Of Demolition Kerrang!",
     "image": null
   },
   {
@@ -623,10 +623,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMilAFBVV95cUxOT0dldTZaTEJuOTkxZDlJUUwxTWVaN1A4eDVZcmFSNnB3TXUxUUxSNVBJUVhZeDBsRE1GSDdPbTRLNkZkQ05jUWdYRjRoRDRFT2FuRmYyZkxIQVRmamlLSUZrYnNUdGFzV2NMelktME5hUWtIdGhtQkhsTm54aEJJS3B1T2pwZWUzc0gwZ3k4N0lHZk9T?oc=5",
     "source": "kerrang",
-    "title": "PRESIDENT have released a new single, Mercy - kerrang.com",
+    "title": "PRESIDENT have released a new single, Mercy - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOT0dldTZaTEJuOTkxZDlJUUwxTWVaN1A4eDVZcmFSNnB3TXUxUUxSNVBJUVhZeDBsRE1GSDdPbTRLNkZkQ05jUWdYRjRoRDRFT2FuRmYyZkxIQVRmamlLSUZrYnNUdGFzV2NMelktME5hUWtIdGhtQkhsTm54aEJJS3B1T2pwZWUzc0gwZ3k4N0lHZk9T?oc=5",
     "publishedAt": "2026-03-26T16:03:56.000Z",
-    "summary": "PRESIDENT have released a new single, Mercy kerrang.com",
+    "summary": "PRESIDENT have released a new single, Mercy Kerrang!",
     "image": null
   },
   {
@@ -668,10 +668,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMia0FVX3lxTE5mOVpKdm02NDRXYktvZHUzblhjWVpuUThEQU9fQ3RWdFFyQ0dGN19LN09jelBORDJISnlhYUV0cFVHeUFwRDJYQ2pCdVhmM3htWnJBWi1meExkU3dQeFdQQlFUVWh0Q2NqY0tJ?oc=5",
     "source": "kerrang",
-    "title": "Album review: Tigers Jaw – Lost On You - kerrang.com",
+    "title": "Album review: Tigers Jaw – Lost On You - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mOVpKdm02NDRXYktvZHUzblhjWVpuUThEQU9fQ3RWdFFyQ0dGN19LN09jelBORDJISnlhYUV0cFVHeUFwRDJYQ2pCdVhmM3htWnJBWi1meExkU3dQeFdQQlFUVWh0Q2NqY0tJ?oc=5",
     "publishedAt": "2026-03-26T08:31:09.000Z",
-    "summary": "Album review: Tigers Jaw – Lost On You kerrang.com",
+    "summary": "Album review: Tigers Jaw – Lost On You Kerrang!",
     "image": null
   },
   {
@@ -686,10 +686,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMivgFBVV95cUxNZHo4QTZQUHBFR0Nza0dva0N5SHN5d0wxa0tER2ttTDdWOUM1bXpiQ1RlcndIcGhWc1pDUHlJUVA3VWpPNnRSZDFZM3FlVFRrMlBtYmgzaEJvX3RIcC1ZZjY3T3c5QkJaTkViSmw5NHM0emZuRmxWSllNSWFYVGNtUkd1MnQzR1dEWEl0bXRZOVE3bXlzanJpYnZiYm43YmluRHJkMDRzdW5xdWtvZGlQVmtXXzYwdWVuWGFBcHlB?oc=5",
     "source": "kerrang",
-    "title": "Skindred announce nu-metal tour with Alien Ant Farm, Spineshank and Orgy - kerrang.com",
+    "title": "Skindred announce nu-metal tour with Alien Ant Farm, Spineshank and Orgy - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZHo4QTZQUHBFR0Nza0dva0N5SHN5d0wxa0tER2ttTDdWOUM1bXpiQ1RlcndIcGhWc1pDUHlJUVA3VWpPNnRSZDFZM3FlVFRrMlBtYmgzaEJvX3RIcC1ZZjY3T3c5QkJaTkViSmw5NHM0emZuRmxWSllNSWFYVGNtUkd1MnQzR1dEWEl0bXRZOVE3bXlzanJpYnZiYm43YmluRHJkMDRzdW5xdWtvZGlQVmtXXzYwdWVuWGFBcHlB?oc=5",
     "publishedAt": "2026-03-25T15:51:59.000Z",
-    "summary": "Skindred announce nu-metal tour with Alien Ant Farm, Spineshank and Orgy kerrang.com",
+    "summary": "Skindred announce nu-metal tour with Alien Ant Farm, Spineshank and Orgy Kerrang!",
     "image": null
   },
   {
@@ -704,19 +704,19 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV0VEcl96UUU0NHllR2pFR1ZzcUtTVzdOckZ0Q1hzcWJHUGdoamRxUk5ucDhrRHg5UHoxMk1rNTZwMmpHYUQ2dHhZVHpEUkZPS1pnRWpnZGd3T1ZfYlctSmowNTFMVEdxdTF6SXNiX1phY083cGpxek9nNDhCTnBwc1ExY1daaFphVWxpRlVEdlFBWi1yVnBLTEFYdjllRVlSU0VFVGVsSUkyajNlTVJreVpsakV1Um44?oc=5",
     "source": "kerrang",
-    "title": "MAPHRA’s viral BMTH cover is Number One in Billboard’s Hot Hard Rock Songs chart - kerrang.com",
+    "title": "MAPHRA’s viral BMTH cover is Number One in Billboard’s Hot Hard Rock Songs chart - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV0VEcl96UUU0NHllR2pFR1ZzcUtTVzdOckZ0Q1hzcWJHUGdoamRxUk5ucDhrRHg5UHoxMk1rNTZwMmpHYUQ2dHhZVHpEUkZPS1pnRWpnZGd3T1ZfYlctSmowNTFMVEdxdTF6SXNiX1phY083cGpxek9nNDhCTnBwc1ExY1daaFphVWxpRlVEdlFBWi1yVnBLTEFYdjllRVlSU0VFVGVsSUkyajNlTVJreVpsakV1Um44?oc=5",
     "publishedAt": "2026-03-25T11:22:25.000Z",
-    "summary": "MAPHRA’s viral BMTH cover is Number One in Billboard’s Hot Hard Rock Songs chart kerrang.com",
+    "summary": "MAPHRA’s viral BMTH cover is Number One in Billboard’s Hot Hard Rock Songs chart Kerrang!",
     "image": null
   },
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMifkFVX3lxTE9sX1BBYmNSU2lIMlN1ckdESFRwa3JkNXZDeG5zaE5LX29HN1VQLXRXTTJtOVRZUjN2cFN3dUhGQUtkWmVlQWItSjJhYk1ZVmVvV1B1c2YxMzkyTE82U2lvdEI0OWszRlI1UUlFZEZSVG83eVpCU3d5Sk1YRmdUQQ?oc=5",
     "source": "kerrang",
-    "title": "Album review: Mallavora – What If Better Never Comes? - kerrang.com",
+    "title": "Album review: Mallavora – What If Better Never Comes? - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sX1BBYmNSU2lIMlN1ckdESFRwa3JkNXZDeG5zaE5LX29HN1VQLXRXTTJtOVRZUjN2cFN3dUhGQUtkWmVlQWItSjJhYk1ZVmVvV1B1c2YxMzkyTE82U2lvdEI0OWszRlI1UUlFZEZSVG83eVpCU3d5Sk1YRmdUQQ?oc=5",
     "publishedAt": "2026-03-25T11:01:24.000Z",
-    "summary": "Album review: Mallavora – What If Better Never Comes? kerrang.com",
+    "summary": "Album review: Mallavora – What If Better Never Comes? Kerrang!",
     "image": null
   }
 ]
