@@ -1,11 +1,74 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/lists/eric-prydz-swedish-house-mafia-ultra-miami-2026-setlist/",
+    "source": "billboard",
+    "title": "Every Song Played During the Eric Prydz & Swedish House Mafia Reunion at Ultra Music Festival 2026",
+    "url": "https://www.billboard.com/lists/eric-prydz-swedish-house-mafia-ultra-miami-2026-setlist/",
+    "publishedAt": "2026-03-29T18:44:05.000Z",
+    "summary": "The 17-minute set marked the first time that the Swedish House Mafia founding members played together in 20 years.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-live-reviews/paul-mccartney-fonda-theatre-hollywood-second-night-1235538592/",
+    "source": "rolling-stone",
+    "title": "Paul McCartney Delights at Intimate, Rare Show at the Fonda Theatre",
+    "url": "https://www.rollingstone.com/music/music-live-reviews/paul-mccartney-fonda-theatre-hollywood-second-night-1235538592/",
+    "publishedAt": "2026-03-29T18:24:21.000Z",
+    "summary": "The legendary musician spanned eras in joyous 25-song set at second night of small shows in Hollywood",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/watch-wolf-alice-perform-on-snl-uk/",
+    "source": "pitchfork",
+    "title": "Watch Wolf Alice Perform on Saturday Night Live UK",
+    "url": "https://pitchfork.com/news/watch-wolf-alice-perform-on-snl-uk/",
+    "publishedAt": "2026-03-29T17:30:20.000Z",
+    "summary": "They played ‘White Horses’ and ‘Leaning Against the Wall’ on the new series’ second episode",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/guns-n-roses-2026-tour-setlist-mexico/",
+    "source": "billboard",
+    "title": "Guns N’ Roses Kick Off 2026 World Tour in Mexico: Here Is the Complete Setlist",
+    "url": "https://www.billboard.com/lists/guns-n-roses-2026-tour-setlist-mexico/",
+    "publishedAt": "2026-03-29T17:28:42.000Z",
+    "summary": "The trek started on March 28 at the Tecate Pa’l Norte festival in Monterrey.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/benson-boone-wanted-man-arena-tour-dates-1235538587/",
+    "source": "rolling-stone",
+    "title": "Benson Boone Bakes Up ‘Wanted Man’ Arena Tour",
+    "url": "https://www.rollingstone.com/music/music-news/benson-boone-wanted-man-arena-tour-dates-1235538587/",
+    "publishedAt": "2026-03-29T17:06:09.000Z",
+    "summary": "Just weeks after wrapping American Heart Tour, singer announces 39-date trek for this summer",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/awards/juno-award-winners-2026-tate-mcrae-1236209462/",
+    "source": "billboard",
+    "title": "Juno Award Winners 2026: Tate McRae Was the Big Winner at the Industry Gala Despite Being a No-Show",
+    "url": "https://www.billboard.com/music/awards/juno-award-winners-2026-tate-mcrae-1236209462/",
+    "publishedAt": "2026-03-29T16:40:45.000Z",
+    "summary": "Other winners included Daniel Caesar, Karan Aujla, Sarah McLachlan, Aysanabee, Alex Cuba and more.",
+    "image": null
+  },
+  {
     "id": "louder-than-war-https://louderthanwar.com/micko-the-mellotronics-parked-card-single-review/",
     "source": "louder-than-war",
     "title": "Micko & The Mellotronics – Parked card – Single Review",
     "url": "https://louderthanwar.com/micko-the-mellotronics-parked-card-single-review/",
     "publishedAt": "2026-03-29T16:28:48.000Z",
     "summary": "Micko & The Mellotronics Parked Car Out 31 March 2026 – DL There is a something quintessential British about Micko & The Mellotronics, from the way frontman Micko Westmorland dresses, his quirky lyrics of everyday life and strange encounters, to the deliberately detailed and descriptive words and phrases, delivered in a homegrown accent. I […] The post Micko & The Mellotronics – Parked card – Single Review appeared first on Louder Than War.",
+    "image": null
+  },
+  {
+    "id": "louder-than-war-https://louderthanwar.com/micko-the-mellotronics-parked-car-single-review/",
+    "source": "louder-than-war",
+    "title": "Micko & The Mellotronics – Parked Car – Single Review",
+    "url": "https://louderthanwar.com/micko-the-mellotronics-parked-car-single-review/",
+    "publishedAt": "2026-03-29T16:28:48.000Z",
+    "summary": "Micko & The Mellotronics Parked Car Out 31 March 2026 – DL There is a something quintessential British about Micko & The Mellotronics, from the way frontman Micko Westmorland dresses, his quirky lyrics of everyday life and strange encounters, to the deliberately detailed and descriptive words and phrases, delivered in a homegrown accent. I […] The post Micko & The Mellotronics – Parked Car – Single Review appeared first on Louder Than War.",
     "image": null
   },
   {
@@ -54,6 +117,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMi4wFBVV95cUxORWNzdFNQYnVYNHhEUG91ajlqWXo0N2JEcEZvaFRlWTJhZDBONmI0d0V0VmZhdXBPeHV6V2tYbERiNDZkOEtpUVZjaVZjVEhISWY4TjR5RXoybFpTTjAtdHdxczhyNFd2bUg3UXYzejVyaFFVZzRxZzFQTXVnVkNiazdmYmlqVS1SZjhIYVJqWU9POFdGX3hkLTlMRVktY0hvWmlsYWlmQ3JBVnR4VUhobXB0LURJWUpIQVpXMFBYak01aUtlajI0SGdUSEJqbVcwYjRjWTNBekxiakZlelJTWDBGOA?oc=5",
+    "source": "nme",
+    "title": "Garbage cover The Cure and Placebo roll out fan favourites for Robert Smith's Teenage Cancer Trust gigs at Royal Albert Hall - NME",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORWNzdFNQYnVYNHhEUG91ajlqWXo0N2JEcEZvaFRlWTJhZDBONmI0d0V0VmZhdXBPeHV6V2tYbERiNDZkOEtpUVZjaVZjVEhISWY4TjR5RXoybFpTTjAtdHdxczhyNFd2bUg3UXYzejVyaFFVZzRxZzFQTXVnVkNiazdmYmlqVS1SZjhIYVJqWU9POFdGX3hkLTlMRVktY0hvWmlsYWlmQ3JBVnR4VUhobXB0LURJWUpIQVpXMFBYak01aUtlajI0SGdUSEJqbVcwYjRjWTNBekxiakZlelJTWDBGOA?oc=5",
+    "publishedAt": "2026-03-29T13:48:36.000Z",
+    "summary": "Garbage cover The Cure and Placebo roll out fan favourites for Robert Smith's Teenage Cancer Trust gigs at Royal Albert Hall NME",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/tlcs-chilli-not-maga-michelle-obama-conspiracy-trump-donation-1235538569/",
     "source": "rolling-stone",
     "title": "TLC’s Chilli Says She’s ‘Not MAGA,’ Accidentally Reposted Michelle Obama Conspiracy",
@@ -78,6 +150,15 @@
     "url": "https://louderthanwar.com/andy-blade-interviewed-i-was-always-a-punk-its-in-my-nature/",
     "publishedAt": "2026-03-29T12:01:08.000Z",
     "summary": "The Andy Blade Interview 2026 Punk at 50, Rebellion, podcasts, the Brian James EP, gigs and Death Awaits It has become increasingly obvious that I was always ‘a punk’, it’s in my nature to be rebellious, contrary & averse to phoneys… Punk Survivor and Eater frontman, in both 1976 and 2026, Andy Blade has had […] The post Andy Blade interviewed: I was always ‘a punk’, it’s in my nature… appeared first on Louder Than War.",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTERnU3pwTDc4ZmNHcGZySm1Pd2pjQ3ZRcHNTY2dZaHFHQnNRVlZWeF9aaXFFNXRxdVVBenhfdExFbDNNd1M5UGo1bkUwVzNCLS1vOHo3WXFSVTVETW9adlVFem9HYTBIbTVzWE1jZlNvTDVqa0xFT2oxRXk0TndlcXZoZ0U2RFc0T2RnYjRBeGNBY3VpS254dzNybEdHUEE1V2FCYi1veEh4WmNmUm1IODhmZ0ZtVUlRYl9uU1dSQVVORlE5dnc3QmpuVDFXeXFPX3FYeHFJTTViY2c?oc=5",
+    "source": "nme",
+    "title": "Brittany Furlan granted restraining order against Falling In Reverse's Ronnie Radke after catfish scandal - NME",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTERnU3pwTDc4ZmNHcGZySm1Pd2pjQ3ZRcHNTY2dZaHFHQnNRVlZWeF9aaXFFNXRxdVVBenhfdExFbDNNd1M5UGo1bkUwVzNCLS1vOHo3WXFSVTVETW9adlVFem9HYTBIbTVzWE1jZlNvTDVqa0xFT2oxRXk0TndlcXZoZ0U2RFc0T2RnYjRBeGNBY3VpS254dzNybEdHUEE1V2FCYi1veEh4WmNmUm1IODhmZ0ZtVUlRYl9uU1dSQVVORlE5dnc3QmpuVDFXeXFPX3FYeHFJTTViY2c?oc=5",
+    "publishedAt": "2026-03-29T11:51:47.000Z",
+    "summary": "Brittany Furlan granted restraining order against Falling In Reverse's Ronnie Radke after catfish scandal NME",
     "image": null
   },
   {
@@ -216,33 +297,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/latin/ca7riel-paco-amoroso-free-spirits-nyc-uplifting-moments-1236209160/",
-    "source": "billboard",
-    "title": "CA7RIEL & Paco Amoroso Bring ‘Free Spirits’ to Life at NYC Spotify Show & More Uplifting Moments in Latin Music",
-    "url": "https://www.billboard.com/music/latin/ca7riel-paco-amoroso-free-spirits-nyc-uplifting-moments-1236209160/",
-    "publishedAt": "2026-03-28T15:07:07.000Z",
-    "summary": "Plus, Karol G lives a full-circle moment, singing a duet with Alicia Keys on the same song she covered 16 years ago.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/shaboozey-jelly-roll-multi-week-number-one-collab-1236208789/",
-    "source": "billboard",
-    "title": "‘Amen’ Again: Shaboozey & Jelly Roll Earn a Rare Multi-Week No. 1 Collab",
-    "url": "https://www.billboard.com/music/chart-beat/shaboozey-jelly-roll-multi-week-number-one-collab-1236208789/",
-    "publishedAt": "2026-03-28T15:00:13.000Z",
-    "summary": "The song tops Country Airplay for a second week.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/latin/mana-vivir-sin-aire-tour-miami-concert-highlights-1236209164/",
-    "source": "billboard",
-    "title": "Maná Proves Why It’s Rock en Español Royalty During Miami Stop of Vivir Sin Aire Tour",
-    "url": "https://www.billboard.com/music/latin/mana-vivir-sin-aire-tour-miami-concert-highlights-1236209164/",
-    "publishedAt": "2026-03-28T14:18:39.000Z",
-    "summary": "The Mexican group will wrap its extensive Vivir Sin Aire trek that kicked off in 2025 on Nov. 8 at the Moody Center in Austin.",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/features/interviews/its-not-at-all-grubby-and-yankified-the-making-of-come-down-in-time-by-elton-john-153843/",
     "source": "uncut",
     "title": "‘It’s not at all grubby and Yankified’ – The Making of Come Down In Time by Elton John",
@@ -333,39 +387,12 @@
     "image": null
   },
   {
-    "id": "louder-than-war-https://louderthanwar.com/wax-head-gnat-album-review/",
-    "source": "louder-than-war",
-    "title": "Wax Head: GNAT – Album Review",
-    "url": "https://louderthanwar.com/wax-head-gnat-album-review/",
-    "publishedAt": "2026-03-28T08:42:47.000Z",
-    "summary": "Wax Head: GNAT (Sour Grapes) LP | DL Out 1st April, 2026 Debut album by Manchester garage-noise rockers Wax Head makes a claim for best garage album of the year, best debut, hell…best album! Hyperbole is only hype when it is bullshit. Wax Head have a debut album that smokes most other bands’ output. […] The post Wax Head: GNAT – Album Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/trump-signature-us-dollars-jack-white-1235538509/",
     "source": "rolling-stone",
     "title": "Jack White Slams Trump’s Signature on U.S. Dollars Amid America’s Rising Cost of Living",
     "url": "https://www.rollingstone.com/music/music-news/trump-signature-us-dollars-jack-white-1235538509/",
     "publishedAt": "2026-03-28T03:55:15.000Z",
     "summary": "Trump will be the first sitting U.S. president with a signature appearing on currency",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/drake-kendrick-lamar-not-like-us-umg-defamation-appeal-1235530267/",
-    "source": "rolling-stone",
-    "title": "Drake’s Label Fires Back at Rapper in Appeals Court: ‘Astoundingly Hypocritical’",
-    "url": "https://www.rollingstone.com/music/music-news/drake-kendrick-lamar-not-like-us-umg-defamation-appeal-1235530267/",
-    "publishedAt": "2026-03-28T00:37:40.000Z",
-    "summary": "Universal Music Group says Kendrick Lamar's lyrics calling Drake a pedophile represent \"classic opinion,\" and Drake's attempt to revive his defamation lawsuit should fail",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/kanye-west-bully-album-best-songs-ye-1235538475/",
-    "source": "rolling-stone",
-    "title": "The 6 Best Songs From Ye’s ‘Bully’ Album",
-    "url": "https://www.rollingstone.com/music/music-news/kanye-west-bully-album-best-songs-ye-1235538475/",
-    "publishedAt": "2026-03-27T23:24:52.000Z",
-    "summary": "The long-awaited project premiered during an online listening party held by Ye",
     "image": null
   },
   {
@@ -504,15 +531,6 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT1A4SmFienY0QWFvbDhUWFA0OVRoU0phRThZZWE5OGZaVDV2MFBmZDhVR1dNaURsYjVjZENtcENFa05BM2ZxcExqTzZUVVZFNGVMQV9DTE1NOEZKUl9zT0lGaVUwZ2Y3QXZsNERZcTQ3QV9Pdno3cXZiVFJRdzJoUXFwSXR6NXNnLVlqZkdvYzZuZ2RIZmFtbWRWU011bDNhUjhVMnA1SUt6QnVTNVMzamFRQ1VZanZWMUhlNEM3SE1PUGlWaFhJMVltd1lBQ3Y0aHdZ?oc=5",
-    "source": "nme",
-    "title": "Westside Cowboy announce biggest UK and European headline tour to date for autumn 2026 - NME",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT1A4SmFienY0QWFvbDhUWFA0OVRoU0phRThZZWE5OGZaVDV2MFBmZDhVR1dNaURsYjVjZENtcENFa05BM2ZxcExqTzZUVVZFNGVMQV9DTE1NOEZKUl9zT0lGaVUwZ2Y3QXZsNERZcTQ3QV9Pdno3cXZiVFJRdzJoUXFwSXR6NXNnLVlqZkdvYzZuZ2RIZmFtbWRWU011bDNhUjhVMnA1SUt6QnVTNVMzamFRQ1VZanZWMUhlNEM3SE1PUGlWaFhJMVltd1lBQ3Y0aHdZ?oc=5",
-    "publishedAt": "2026-03-27T13:50:44.000Z",
-    "summary": "Westside Cowboy announce biggest UK and European headline tour to date for autumn 2026 NME",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/news/12-new-albums-you-should-listen-to-now-robyn-snail-mail-chief-keef/",
     "source": "pitchfork",
     "title": "12 New Albums You Should Listen to Now: Robyn, Snail Mail, Chief Keef, and More",
@@ -528,15 +546,6 @@
     "url": "https://www.uncut.co.uk/features/blogs/inside-the-new-free-uncut-cd-curated-by-kurt-vile-153860/",
     "publishedAt": "2026-03-27T13:26:48.000Z",
     "summary": "Songs In The Chest Of My Soul features Sun Ra, Royal Trux, Kim Gordon, Jessica Pratt, Caroline Polachek, Steve Gunn and Kurt Vile himself The post Inside the new FREE Uncut CD, curated by Kurt Vile! appeared first on UNCUT.",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMingFBVV95cUxOQTk0SllkaXNfTktWTk81Ny1sWlZFUlJlR05nb2x0c0R1Z2dIUVZWR19zYVdGMGFhRTQzUVNweTJ4Zm1DRnhYd2JUa0xUdkNuSThmb0NNOWVOUTg4d0QtSmxOY3dIV0pYS1lFQ3U4ZzNjREdPNEk4ckFyZ3hmNkdfOThTY3ZHNENKdi1kWEE4UHBCaWhJSW81SWpGYm9xUQ?oc=5",
-    "source": "nme",
-    "title": "Jack White announces summer 2026 European tour - NME",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQTk0SllkaXNfTktWTk81Ny1sWlZFUlJlR05nb2x0c0R1Z2dIUVZWR19zYVdGMGFhRTQzUVNweTJ4Zm1DRnhYd2JUa0xUdkNuSThmb0NNOWVOUTg4d0QtSmxOY3dIV0pYS1lFQ3U4ZzNjREdPNEk4ckFyZ3hmNkdfOThTY3ZHNENKdi1kWEE4UHBCaWhJSW81SWpGYm9xUQ?oc=5",
-    "publishedAt": "2026-03-27T12:43:51.000Z",
-    "summary": "Jack White announces summer 2026 European tour NME",
     "image": null
   },
   {
@@ -569,19 +578,19 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMieEFVX3lxTE1PZGwxcFVlMF92MklmZGFxTXlXNHU0RW9NSEZhdU4xNldIdFRsdEh2bW1LUmFKMC0tRmRkYmZ0VW4wemloTGE5UDZZNi1RcGRlOGlmT1NLb1VvZVdGSzBKTm5Db3JsVXNvUkNMWHpvNUZ2V1dqY2RVTQ?oc=5",
     "source": "kerrang",
-    "title": "Album review: Defying Decay – Synthetic Sympathy - Kerrang!",
+    "title": "Album review: Defying Decay – Synthetic Sympathy - kerrang.com",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PZGwxcFVlMF92MklmZGFxTXlXNHU0RW9NSEZhdU4xNldIdFRsdEh2bW1LUmFKMC0tRmRkYmZ0VW4wemloTGE5UDZZNi1RcGRlOGlmT1NLb1VvZVdGSzBKTm5Db3JsVXNvUkNMWHpvNUZ2V1dqY2RVTQ?oc=5",
     "publishedAt": "2026-03-27T10:04:03.000Z",
-    "summary": "Album review: Defying Decay – Synthetic Sympathy Kerrang!",
+    "summary": "Album review: Defying Decay – Synthetic Sympathy kerrang.com",
     "image": null
   },
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMihAFBVV95cUxPU0k2VFZ0OHBTVXh4dmJneVVoYkhDM19yZnZBZ284eTByaFFXSWJCU3RaOWpJMzhTR243TlM0cmVMcTV3MUYzaktBOGE4QTJlc1FNQ0JzbXhzQXZvMDY0UFV4bjI2QjVTZVdfTTZlVUNpRHlDSTY3VDhDdzdSXy1laFJVbnM?oc=5",
     "source": "kerrang",
-    "title": "Album review: Black Label Society – Engines Of Demolition - Kerrang!",
+    "title": "Album review: Black Label Society – Engines Of Demolition - kerrang.com",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU0k2VFZ0OHBTVXh4dmJneVVoYkhDM19yZnZBZ284eTByaFFXSWJCU3RaOWpJMzhTR243TlM0cmVMcTV3MUYzaktBOGE4QTJlc1FNQ0JzbXhzQXZvMDY0UFV4bjI2QjVTZVdfTTZlVUNpRHlDSTY3VDhDdzdSXy1laFJVbnM?oc=5",
     "publishedAt": "2026-03-27T08:34:03.000Z",
-    "summary": "Album review: Black Label Society – Engines Of Demolition Kerrang!",
+    "summary": "Album review: Black Label Society – Engines Of Demolition kerrang.com",
     "image": null
   },
   {
@@ -612,21 +621,12 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/news/actress-and-suzanne-ciani-release-collaborative-live-album/",
-    "source": "pitchfork",
-    "title": "Actress and Suzanne Ciani Release Collaborative Live Album",
-    "url": "https://pitchfork.com/news/actress-and-suzanne-ciani-release-collaborative-live-album/",
-    "publishedAt": "2026-03-27T04:16:41.000Z",
-    "summary": "Concrète Waves documents two improvised sets at London’s Barbican Theatre and Barcelona’s Sónar Festival",
-    "image": null
-  },
-  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMilAFBVV95cUxOT0dldTZaTEJuOTkxZDlJUUwxTWVaN1A4eDVZcmFSNnB3TXUxUUxSNVBJUVhZeDBsRE1GSDdPbTRLNkZkQ05jUWdYRjRoRDRFT2FuRmYyZkxIQVRmamlLSUZrYnNUdGFzV2NMelktME5hUWtIdGhtQkhsTm54aEJJS3B1T2pwZWUzc0gwZ3k4N0lHZk9T?oc=5",
     "source": "kerrang",
-    "title": "PRESIDENT have released a new single, Mercy - Kerrang!",
+    "title": "PRESIDENT have released a new single, Mercy - kerrang.com",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOT0dldTZaTEJuOTkxZDlJUUwxTWVaN1A4eDVZcmFSNnB3TXUxUUxSNVBJUVhZeDBsRE1GSDdPbTRLNkZkQ05jUWdYRjRoRDRFT2FuRmYyZkxIQVRmamlLSUZrYnNUdGFzV2NMelktME5hUWtIdGhtQkhsTm54aEJJS3B1T2pwZWUzc0gwZ3k4N0lHZk9T?oc=5",
     "publishedAt": "2026-03-26T16:03:56.000Z",
-    "summary": "PRESIDENT have released a new single, Mercy Kerrang!",
+    "summary": "PRESIDENT have released a new single, Mercy kerrang.com",
     "image": null
   },
   {
@@ -668,10 +668,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMia0FVX3lxTE5mOVpKdm02NDRXYktvZHUzblhjWVpuUThEQU9fQ3RWdFFyQ0dGN19LN09jelBORDJISnlhYUV0cFVHeUFwRDJYQ2pCdVhmM3htWnJBWi1meExkU3dQeFdQQlFUVWh0Q2NqY0tJ?oc=5",
     "source": "kerrang",
-    "title": "Album review: Tigers Jaw – Lost On You - Kerrang!",
+    "title": "Album review: Tigers Jaw – Lost On You - kerrang.com",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mOVpKdm02NDRXYktvZHUzblhjWVpuUThEQU9fQ3RWdFFyQ0dGN19LN09jelBORDJISnlhYUV0cFVHeUFwRDJYQ2pCdVhmM3htWnJBWi1meExkU3dQeFdQQlFUVWh0Q2NqY0tJ?oc=5",
     "publishedAt": "2026-03-26T08:31:09.000Z",
-    "summary": "Album review: Tigers Jaw – Lost On You Kerrang!",
+    "summary": "Album review: Tigers Jaw – Lost On You kerrang.com",
     "image": null
   },
   {
@@ -686,10 +686,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMivgFBVV95cUxNZHo4QTZQUHBFR0Nza0dva0N5SHN5d0wxa0tER2ttTDdWOUM1bXpiQ1RlcndIcGhWc1pDUHlJUVA3VWpPNnRSZDFZM3FlVFRrMlBtYmgzaEJvX3RIcC1ZZjY3T3c5QkJaTkViSmw5NHM0emZuRmxWSllNSWFYVGNtUkd1MnQzR1dEWEl0bXRZOVE3bXlzanJpYnZiYm43YmluRHJkMDRzdW5xdWtvZGlQVmtXXzYwdWVuWGFBcHlB?oc=5",
     "source": "kerrang",
-    "title": "Skindred announce nu-metal tour with Alien Ant Farm, Spineshank and Orgy - Kerrang!",
+    "title": "Skindred announce nu-metal tour with Alien Ant Farm, Spineshank and Orgy - kerrang.com",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZHo4QTZQUHBFR0Nza0dva0N5SHN5d0wxa0tER2ttTDdWOUM1bXpiQ1RlcndIcGhWc1pDUHlJUVA3VWpPNnRSZDFZM3FlVFRrMlBtYmgzaEJvX3RIcC1ZZjY3T3c5QkJaTkViSmw5NHM0emZuRmxWSllNSWFYVGNtUkd1MnQzR1dEWEl0bXRZOVE3bXlzanJpYnZiYm43YmluRHJkMDRzdW5xdWtvZGlQVmtXXzYwdWVuWGFBcHlB?oc=5",
     "publishedAt": "2026-03-25T15:51:59.000Z",
-    "summary": "Skindred announce nu-metal tour with Alien Ant Farm, Spineshank and Orgy Kerrang!",
+    "summary": "Skindred announce nu-metal tour with Alien Ant Farm, Spineshank and Orgy kerrang.com",
     "image": null
   },
   {
@@ -704,19 +704,19 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV0VEcl96UUU0NHllR2pFR1ZzcUtTVzdOckZ0Q1hzcWJHUGdoamRxUk5ucDhrRHg5UHoxMk1rNTZwMmpHYUQ2dHhZVHpEUkZPS1pnRWpnZGd3T1ZfYlctSmowNTFMVEdxdTF6SXNiX1phY083cGpxek9nNDhCTnBwc1ExY1daaFphVWxpRlVEdlFBWi1yVnBLTEFYdjllRVlSU0VFVGVsSUkyajNlTVJreVpsakV1Um44?oc=5",
     "source": "kerrang",
-    "title": "MAPHRA’s viral BMTH cover is Number One in Billboard’s Hot Hard Rock Songs chart - Kerrang!",
+    "title": "MAPHRA’s viral BMTH cover is Number One in Billboard’s Hot Hard Rock Songs chart - kerrang.com",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV0VEcl96UUU0NHllR2pFR1ZzcUtTVzdOckZ0Q1hzcWJHUGdoamRxUk5ucDhrRHg5UHoxMk1rNTZwMmpHYUQ2dHhZVHpEUkZPS1pnRWpnZGd3T1ZfYlctSmowNTFMVEdxdTF6SXNiX1phY083cGpxek9nNDhCTnBwc1ExY1daaFphVWxpRlVEdlFBWi1yVnBLTEFYdjllRVlSU0VFVGVsSUkyajNlTVJreVpsakV1Um44?oc=5",
     "publishedAt": "2026-03-25T11:22:25.000Z",
-    "summary": "MAPHRA’s viral BMTH cover is Number One in Billboard’s Hot Hard Rock Songs chart Kerrang!",
+    "summary": "MAPHRA’s viral BMTH cover is Number One in Billboard’s Hot Hard Rock Songs chart kerrang.com",
     "image": null
   },
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMifkFVX3lxTE9sX1BBYmNSU2lIMlN1ckdESFRwa3JkNXZDeG5zaE5LX29HN1VQLXRXTTJtOVRZUjN2cFN3dUhGQUtkWmVlQWItSjJhYk1ZVmVvV1B1c2YxMzkyTE82U2lvdEI0OWszRlI1UUlFZEZSVG83eVpCU3d5Sk1YRmdUQQ?oc=5",
     "source": "kerrang",
-    "title": "Album review: Mallavora – What If Better Never Comes? - Kerrang!",
+    "title": "Album review: Mallavora – What If Better Never Comes? - kerrang.com",
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sX1BBYmNSU2lIMlN1ckdESFRwa3JkNXZDeG5zaE5LX29HN1VQLXRXTTJtOVRZUjN2cFN3dUhGQUtkWmVlQWItSjJhYk1ZVmVvV1B1c2YxMzkyTE82U2lvdEI0OWszRlI1UUlFZEZSVG83eVpCU3d5Sk1YRmdUQQ?oc=5",
     "publishedAt": "2026-03-25T11:01:24.000Z",
-    "summary": "Album review: Mallavora – What If Better Never Comes? Kerrang!",
+    "summary": "Album review: Mallavora – What If Better Never Comes? kerrang.com",
     "image": null
   }
 ]
