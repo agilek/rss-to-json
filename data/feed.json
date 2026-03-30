@@ -1,5 +1,86 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/culture/politics/nick-cannon-calls-democrats-party-kkk-supports-trump-1236209741/",
+    "source": "billboard",
+    "title": "Nick Cannon Dubs Democrats the ‘Party of the KKK’ While Revealing MAGA Pivot: ‘I F–k With Trump’",
+    "url": "https://www.billboard.com/culture/politics/nick-cannon-calls-democrats-party-kkk-supports-trump-1236209741/",
+    "publishedAt": "2026-03-30T14:58:11.000Z",
+    "summary": "\"People don't know that the Republicans are the party that freed the slaves,\" he added.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/future-islands-announce-tour-of-north-carolina/",
+    "source": "pitchfork",
+    "title": "Future Islands Announce Tour of… North Carolina",
+    "url": "https://pitchfork.com/news/future-islands-announce-tour-of-north-carolina/",
+    "publishedAt": "2026-03-30T14:46:02.000Z",
+    "summary": "Samuel Herring and the band will make an 8-show jaunt around the state before a finale in Baltimore",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/lisa-blackpink-las-vegas-residency-1235538653/",
+    "source": "rolling-stone",
+    "title": "Blackpink’s Lisa Will Be the First K-Pop Star to Stage a Las Vegas Residency",
+    "url": "https://www.rollingstone.com/music/music-news/lisa-blackpink-las-vegas-residency-1235538653/",
+    "publishedAt": "2026-03-30T14:39:20.000Z",
+    "summary": "The rapper-singer will hit Caesars Palace this fall",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/concerts/blackpink-lisa-viva-la-lisa-las-vegas-residency-dates-1236209765/",
+    "source": "billboard",
+    "title": "BLACKPINK’s LISA Announces Viva La Lisa 2026 Las Vegas Residency",
+    "url": "https://www.billboard.com/music/concerts/blackpink-lisa-viva-la-lisa-las-vegas-residency-dates-1236209765/",
+    "publishedAt": "2026-03-30T14:38:51.000Z",
+    "summary": "The November gigs at the Colosseum at Caesars Palace will mark the first Sin City residency by a K-pop artist.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/president-2026-north-american-headline-tour/",
+    "source": "loudwire",
+    "title": "President Announce First Headlining North American Tour",
+    "url": "https://loudwire.com/president-2026-north-american-headline-tour/",
+    "publishedAt": "2026-03-30T14:36:18.000Z",
+    "summary": "President have booked their first even North American headline tour for fall 2026. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/gary-holt-best-metal-album/",
+    "source": "loudwire",
+    "title": "'The Best Metal Album Ever Made,' According to Gary Holt",
+    "url": "https://loudwire.com/gary-holt-best-metal-album/",
+    "publishedAt": "2026-03-30T14:15:11.000Z",
+    "summary": "Exodus and Slayer guitarist Gary Holt names metal's greatest albums and says his band \"crushes\" Metallica these days. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/latin/becky-g-joy-julieta-venegas-honored-latin-women-music-2026-1236209693/",
+    "source": "billboard",
+    "title": "Becky G, Joy & Julieta Venegas are the First Honorees Announced for Billboard Latin Women in Music 2026",
+    "url": "https://www.billboard.com/music/latin/becky-g-joy-julieta-venegas-honored-latin-women-music-2026-1236209693/",
+    "publishedAt": "2026-03-30T14:00:00.000Z",
+    "summary": "The two-hour event will broadcast live on Telemundo on April 23.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/blackpinks-lisa-books-first-k-pop-vegas-residency/",
+    "source": "pitchfork",
+    "title": "Blackpink’s Lisa Books First K-Pop Vegas Residency",
+    "url": "https://pitchfork.com/news/blackpinks-lisa-books-first-k-pop-vegas-residency/",
+    "publishedAt": "2026-03-30T13:47:36.000Z",
+    "summary": "The Colosseum at Caesars Palace will host Viva la Lisa for four nights this November",
+    "image": null
+  },
+  {
+    "id": "uncut-https://www.uncut.co.uk/features/ian-dury-on-his-favourite-things-21876/",
+    "source": "uncut",
+    "title": "Ian Dury on his favourite things…",
+    "url": "https://www.uncut.co.uk/features/ian-dury-on-his-favourite-things-21876/",
+    "publishedAt": "2026-03-30T13:34:06.000Z",
+    "summary": "The chief Blockhead on why there's more to life than sex and drugs and rock'n'roll The post Ian Dury on his favourite things… appeared first on UNCUT.",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-features/bots-streaming-fraud-music-protection-1235537602/",
     "source": "rolling-stone",
     "title": "Are Bots Taking Over Music?",
@@ -65,7 +146,7 @@
   {
     "id": "billboard-https://www.billboard.com/music/music-news/marquee-skydeck-at-edge-reopen-benny-benassi-cassian-1236207614/",
     "source": "billboard",
-    "title": "Marquee Skydeck at Edge Reopening With Benny Benassi, MK Cassian & More",
+    "title": "Marquee Skydeck at Edge Reopening With Benny Benassi, MK, Cassian & More",
     "url": "https://www.billboard.com/music/music-news/marquee-skydeck-at-edge-reopen-benny-benassi-cassian-1236207614/",
     "publishedAt": "2026-03-30T12:00:00.000Z",
     "summary": "The elevated nightlife experience in New York returns for its second season in May.",
@@ -162,24 +243,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/ticketek-refunds-multiple-wu-tang-clan-members-miss-australian-tour-1236209714/",
-    "source": "billboard",
-    "title": "Wu-Tang Clan Fans Offered Refunds After Several Members Absent From Australian ‘Final’ Shows",
-    "url": "https://www.billboard.com/music/rb-hip-hop/ticketek-refunds-multiple-wu-tang-clan-members-miss-australian-tour-1236209714/",
-    "publishedAt": "2026-03-30T06:07:03.000Z",
-    "summary": "Wu-Tang Clan shared an Instagram Story indicating Method Man would not be travelling to Australia — but made no announcement about the other missing members.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/concerts/kylie-minogue-headline-2026-afl-grand-final-1236209704/",
-    "source": "billboard",
-    "title": "Kylie Minogue Confirmed as 2026 AFL Grand Final Headline Act",
-    "url": "https://www.billboard.com/music/concerts/kylie-minogue-headline-2026-afl-grand-final-1236209704/",
-    "publishedAt": "2026-03-30T04:07:46.000Z",
-    "summary": "As a Melburnian, I'm so excited to be coming home for the biggest day in the Aussie sporting calendar,\" the singer said.",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/news/watch-joni-mitchell-perform-accept-lifetime-achievement-award-at-2026-junos/",
     "source": "pitchfork",
     "title": "Watch Joni Mitchell Perform, Accept Lifetime Achievement Award at 2026 Junos",
@@ -203,7 +266,7 @@
     "title": "Watch Rush Play Live With New Drummer Anika Nilles for the First Time",
     "url": "https://www.rollingstone.com/music/music-news/watch-rush-play-live-new-drummer-anika-nilles-first-time-1235538613/",
     "publishedAt": "2026-03-30T01:24:19.000Z",
-    "summary": "Geddy Lee, Alex Lifeson, and new drummer Anika Nilles roared through \"Finding My Way\" at a surprise Juno Awards performance",
+    "summary": "Geddy Lee, Alex Lifeson, and new drummer Anika Nilles roared through “Finding My Way” at a surprise Juno Awards performance",
     "image": null
   },
   {
@@ -213,15 +276,6 @@
     "url": "https://loudwire.com/rush-2026-juno-awards-reunion/",
     "publishedAt": "2026-03-30T00:27:45.000Z",
     "summary": "Rush performed live at the Juno Awards on March 29, 2026. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/tecate-pal-norte-2026-grupo-frontera-among-best-of-day-2/",
-    "source": "billboard",
-    "title": "Grupo Frontera, Guns N’ Roses & Turnstile Among Best of Day 2 of Tecate Pa’l Norte 2026",
-    "url": "https://www.billboard.com/lists/tecate-pal-norte-2026-grupo-frontera-among-best-of-day-2/",
-    "publishedAt": "2026-03-29T23:05:08.000Z",
-    "summary": "Los Fabulosos Cadillacs and The Warning were also among the highlights on the second day of the festival in Monterrey, Mexico.",
     "image": null
   },
   {
@@ -338,7 +392,7 @@
     "title": "Cowboy Country Music Is Hot Again, and Josh Weathers Knows It",
     "url": "https://www.rollingstone.com/music/music-features/josh-weathers-cowboy-country-music-1235538579/",
     "publishedAt": "2026-03-29T15:41:21.000Z",
-    "summary": "The Texas songwriter is following in the footsteps of bona fide cowboys like Cody Johnson on his latest album Neon Never Fades",
+    "summary": "The Texas songwriter is following in the footsteps of bona fide cowboys like Cody Johnson on his latest album, Neon Never Fades",
     "image": null
   },
   {
@@ -375,15 +429,6 @@
     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORWNzdFNQYnVYNHhEUG91ajlqWXo0N2JEcEZvaFRlWTJhZDBONmI0d0V0VmZhdXBPeHV6V2tYbERiNDZkOEtpUVZjaVZjVEhISWY4TjR5RXoybFpTTjAtdHdxczhyNFd2bUg3UXYzejVyaFFVZzRxZzFQTXVnVkNiazdmYmlqVS1SZjhIYVJqWU9POFdGX3hkLTlMRVktY0hvWmlsYWlmQ3JBVnR4VUhobXB0LURJWUpIQVpXMFBYak01aUtlajI0SGdUSEJqbVcwYjRjWTNBekxiakZlelJTWDBGOA?oc=5",
     "publishedAt": "2026-03-29T13:48:36.000Z",
     "summary": "Garbage cover The Cure and Placebo roll out fan favourites for Robert Smith's Teenage Cancer Trust gigs at Royal Albert Hall NME",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/tlcs-chilli-not-maga-michelle-obama-conspiracy-trump-donation-1235538569/",
-    "source": "rolling-stone",
-    "title": "TLC’s Chilli Says She’s ‘Not MAGA,’ Accidentally Reposted Michelle Obama Conspiracy",
-    "url": "https://www.rollingstone.com/music/music-news/tlcs-chilli-not-maga-michelle-obama-conspiracy-trump-donation-1235538569/",
-    "publishedAt": "2026-03-29T13:33:46.000Z",
-    "summary": "A new report finds singer also donated to Trump reelection efforts, but she insists she didn't \"read the fine print\" and thought she was giving to military veterans",
     "image": null
   },
   {
@@ -522,48 +567,12 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/march-madness-tournment-rock-metal-bands-decades-round-3/",
-    "source": "loudwire",
-    "title": "March Madness Rd 3 - Vote for Best '70s, '80s, '90s + '00s Bands",
-    "url": "https://loudwire.com/march-madness-tournment-rock-metal-bands-decades-round-3/",
-    "publishedAt": "2026-03-27T18:19:42.000Z",
-    "summary": "Vote now in the third round of Loudwire's March Madness: Decades of Destruction tournament Continue reading…",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/turnstile-birds-baltimore-orioles-2026-hype-video/",
-    "source": "loudwire",
-    "title": "Grammy-Winning Metal Song Used in Baseball Team’s 2026 Hype Video",
-    "url": "https://loudwire.com/turnstile-birds-baltimore-orioles-2026-hype-video/",
-    "publishedAt": "2026-03-27T17:13:50.000Z",
-    "summary": "Turnstile's Grammy-winning 'Birds' soundtracks the 2026 Baltimore Orioles hype video. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/news/listen-to-empress-ofs-new-song-dream-house/",
-    "source": "pitchfork",
-    "title": "Listen to Empress Of’s New Song “Dream House”",
-    "url": "https://pitchfork.com/news/listen-to-empress-ofs-new-song-dream-house/",
-    "publishedAt": "2026-03-27T16:04:03.000Z",
-    "summary": "Written after Lorely Rodriguez’s home was destroyed in the California wildfires",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/reviews/live/the-delines-and-chris-eckman-live-at-club-uncut-tender-literary-tales-of-underdog-america-153868/",
     "source": "uncut",
     "title": "The Delines and Chris Eckman live at Club Uncut: tender, literary tales of underdog America",
     "url": "https://www.uncut.co.uk/reviews/live/the-delines-and-chris-eckman-live-at-club-uncut-tender-literary-tales-of-underdog-america-153868/",
     "publishedAt": "2026-03-27T14:56:59.000Z",
     "summary": "Club Uncut returns with a superb double bill at London's Union Chapel The post The Delines and Chris Eckman live at Club Uncut: tender, literary tales of underdog America appeared first on UNCUT.",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/news/skrillex-and-young-miko-join-forces-for-duro/",
-    "source": "pitchfork",
-    "title": "Skrillex and Young Miko Join Forces for “Duro”",
-    "url": "https://pitchfork.com/news/skrillex-and-young-miko-join-forces-for-duro/",
-    "publishedAt": "2026-03-27T14:28:36.000Z",
-    "summary": "The producer and Puerto Rican singer-rapper debuted the song at last year’s Ultra Miami Music Festival",
     "image": null
   },
   {
@@ -699,15 +708,6 @@
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZHo4QTZQUHBFR0Nza0dva0N5SHN5d0wxa0tER2ttTDdWOUM1bXpiQ1RlcndIcGhWc1pDUHlJUVA3VWpPNnRSZDFZM3FlVFRrMlBtYmgzaEJvX3RIcC1ZZjY3T3c5QkJaTkViSmw5NHM0emZuRmxWSllNSWFYVGNtUkd1MnQzR1dEWEl0bXRZOVE3bXlzanJpYnZiYm43YmluRHJkMDRzdW5xdWtvZGlQVmtXXzYwdWVuWGFBcHlB?oc=5",
     "publishedAt": "2026-03-25T15:51:59.000Z",
     "summary": "Skindred announce nu-metal tour with Alien Ant Farm, Spineshank and Orgy Kerrang!",
-    "image": null
-  },
-  {
-    "id": "uncut-https://www.uncut.co.uk/news/mouse-on-mars-announce-last-official-album-project-of-lee-scratch-perry-153805/",
-    "source": "uncut",
-    "title": "Mouse On Mars announce Spatial, No Problem – the last official album project of Lee “Scratch” Perry",
-    "url": "https://www.uncut.co.uk/news/mouse-on-mars-announce-last-official-album-project-of-lee-scratch-perry-153805/",
-    "publishedAt": "2026-03-25T15:01:52.000Z",
-    "summary": "Watch a video for first single \"Rockcurry\" now The post Mouse On Mars announce Spatial, No Problem – the last official album project of Lee “Scratch” Perry appeared first on UNCUT.",
     "image": null
   },
   {
