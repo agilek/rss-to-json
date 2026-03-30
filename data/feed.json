@@ -1,20 +1,119 @@
 [
   {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/kanye-west-ye-wireless-fest-london-2026-1236210378/",
+    "id": "billboard-https://www.billboard.com/culture/tv-film/megan-thee-stallion-daniel-radcliffe-fall-rise-reggie-dinkins-1236210458/",
     "source": "billboard",
-    "title": "Ye to Headline Three Nights at Wireless Fest 2026 in London",
-    "url": "https://www.billboard.com/music/rb-hip-hop/kanye-west-ye-wireless-fest-london-2026-1236210378/",
-    "publishedAt": "2026-03-30T20:50:09.000Z",
-    "summary": "Yeezy is about to touch down in London town.",
+    "title": "Megan Thee Stallion & Daniel Radcliffe Continue Flirting in ‘The Fall & Rise of Reggie Dinkins’: ‘I Got Keys to A Lot of Package Rooms’",
+    "url": "https://www.billboard.com/culture/tv-film/megan-thee-stallion-daniel-radcliffe-fall-rise-reggie-dinkins-1236210458/",
+    "publishedAt": "2026-03-30T22:14:03.000Z",
+    "summary": "Another new episode airs on NBC at 8:30 p.m. ET Monday night (March 30).",
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/brandy-star-hollywood-walk-fame-ceremony-1236210423/",
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/best-on-ear-headphones-2026-1236201877/",
     "source": "billboard",
-    "title": "Brandy Celebrates Her Star on Hollywood Walk of Fame With Babyface & Issa Rae: ‘Dreams Don’t Have an Expiration Date’",
-    "url": "https://www.billboard.com/music/rb-hip-hop/brandy-star-hollywood-walk-fame-ceremony-1236210423/",
-    "publishedAt": "2026-03-30T20:38:57.000Z",
-    "summary": "Monica, Kehlani & the Moesha cast also joined Monday's celebration.",
+    "title": "Our Picks for The Best On-Ear Headphones 2026",
+    "url": "https://www.billboard.com/culture/product-recommendations/best-on-ear-headphones-2026-1236201877/",
+    "publishedAt": "2026-03-30T21:55:54.000Z",
+    "summary": "ShopBillboard's ecommerce writer Amina Ayoud tested on-ear headphones to find the best of the best.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/celine-dion-paris-comeback-shows-1235539161/",
+    "source": "rolling-stone",
+    "title": "Céline Dion to Return to the Stage This Fall in Paris, Her First Headlining Shows in Six Years",
+    "url": "https://www.rollingstone.com/music/music-news/celine-dion-paris-comeback-shows-1235539161/",
+    "publishedAt": "2026-03-30T21:52:00.000Z",
+    "summary": "“Over these last few years, every day that’s gone by, I’ve felt your prayers and support, your kindness and love,\" singer says",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/mtv-lawsuit-nick-cannon-rap-battle-show-move-ahead-judge/",
+    "source": "billboard",
+    "title": "MTV Lawsuit Over Nick Cannon’s New Rap Battle Show Can Move Ahead, Judge Says",
+    "url": "https://www.billboard.com/pro/mtv-lawsuit-nick-cannon-rap-battle-show-move-ahead-judge/",
+    "publishedAt": "2026-03-30T21:38:45.000Z",
+    "summary": "The case claims Bad vs. Wild, released by streamer Zeus Network, is illegally \"cosplaying\" as the successor to Cannon's longtime celebrity guest show.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/taylor-swift-life-of-a-showgirl-trademark-lawsuit/",
+    "source": "billboard",
+    "title": "Taylor Swift Sued: Performer Says ‘The Life of a Showgirl’ Infringes ‘Confessions of a Showgirl’",
+    "url": "https://www.billboard.com/pro/taylor-swift-life-of-a-showgirl-trademark-lawsuit/",
+    "publishedAt": "2026-03-30T21:33:55.000Z",
+    "summary": "Las Vegas entertainer Maren Wade claims Swift's latest album has \"overtaken\" her brand recognition.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/best-laptop-bags-2026-1236196910/",
+    "source": "billboard",
+    "title": "Stylish, Functional & Commuter-Proof: The Best Laptop Bags of 2026",
+    "url": "https://www.billboard.com/culture/product-recommendations/best-laptop-bags-2026-1236196910/",
+    "publishedAt": "2026-03-30T21:30:15.000Z",
+    "summary": "ShopBillboard tested out laptop bags from a variety of brands to see which ones lived up to our standards.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/james-blake-ye-remove-bully-songwriting-credit-1235539201/",
+    "source": "rolling-stone",
+    "title": "James Blake Asks Ye to Remove ‘Bully’ Production Credit, But Insists It’s ‘Not Personal’",
+    "url": "https://www.rollingstone.com/music/music-news/james-blake-ye-remove-bully-songwriting-credit-1235539201/",
+    "publishedAt": "2026-03-30T21:26:46.000Z",
+    "summary": "The musician/producer said he felt like “the spirit” of his contributions to the “This One Here” were no longer present on the final cut",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/madonna-gracie-abrams-ice-detention-center-closure-letter-1236210519/",
+    "source": "billboard",
+    "title": "Madonna, Gracie Abrams, John Legend & More Stars Call for ‘Immediate Closure’ of ICE Detention Center",
+    "url": "https://www.billboard.com/music/music-news/madonna-gracie-abrams-ice-detention-center-closure-letter-1236210519/",
+    "publishedAt": "2026-03-30T21:25:14.000Z",
+    "summary": "\"Children belong in schools and on playgrounds, not in detention centers,\" reads their open letter.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/venu-hires-investor-relations-head-madison-square-garden/",
+    "source": "billboard",
+    "title": "VENU Hires Head of Investor Relations From Madison Square Garden Entertainment",
+    "url": "https://www.billboard.com/pro/venu-hires-investor-relations-head-madison-square-garden/",
+    "publishedAt": "2026-03-30T21:23:27.000Z",
+    "summary": "Sarah Rothschild is charged with deepening the company's relationships with institutional investors as it aims to open several new amphitheaters by year's end.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/cardi-b-little-miss-drama-tour-surprise-guests/",
+    "source": "billboard",
+    "title": "Cardi B’s Little Miss Drama Tour: Here Are All the Surprise Guests (So Far)",
+    "url": "https://www.billboard.com/lists/cardi-b-little-miss-drama-tour-surprise-guests/",
+    "publishedAt": "2026-03-30T21:20:00.000Z",
+    "summary": "The Grammy winner kicked off her first arena headlining trek on Feb. 11 in California.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/caribbean-fresh-picks-masicka-teejay-shenseea-protohe-jah9/",
+    "source": "billboard",
+    "title": "Caribbean Fresh Picks: Shemmy J, Jah9, Sharon Marley, Adam O, Masicka & More",
+    "url": "https://www.billboard.com/lists/caribbean-fresh-picks-masicka-teejay-shenseea-protohe-jah9/",
+    "publishedAt": "2026-03-30T21:17:08.000Z",
+    "summary": "Listen to 10 new must-hear reggae, dancehall and soca songs from artists like Problem Child & Teejay.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/2026-femmy-awards-recap-lp-giobbi-sara-landry-john-summit/",
+    "source": "billboard",
+    "title": "Ultra Naté, Sara Landry, Tokimonta, John Summit & More: Six Best Moments From the 2026 Femmy Awards",
+    "url": "https://www.billboard.com/lists/2026-femmy-awards-recap-lp-giobbi-sara-landry-john-summit/",
+    "publishedAt": "2026-03-30T21:12:29.000Z",
+    "summary": "Produced by LP Giobbi and Hermixalot's Femme House organization, the awards returned to Miami Music Week on March 26 amid a flurry of Femme House-hosted events.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/disclosure-share-video-for-new-song-the-sun-comes-up-tremendous/",
+    "source": "pitchfork",
+    "title": "Disclosure Share Video for New Song “The Sun Comes Up Tremendous”",
+    "url": "https://pitchfork.com/news/disclosure-share-video-for-new-song-the-sun-comes-up-tremendous/",
+    "publishedAt": "2026-03-30T20:54:43.000Z",
+    "summary": "Howard Lawrence gives a rare lead vocal turn on the duo’s first single of 2026",
     "image": null
   },
   {
@@ -27,39 +126,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/pro/bob-marley-cannabis-fraud-lawsuit-estate-sues-marijuana/",
-    "source": "billboard",
-    "title": "Bob Marley Estate Launches $11M Lawsuit Over Marijuana Brand: ‘Scheme to Defraud’",
-    "url": "https://www.billboard.com/pro/bob-marley-cannabis-fraud-lawsuit-estate-sues-marijuana/",
-    "publishedAt": "2026-03-30T20:26:13.000Z",
-    "summary": "The Jamaican music icon's heirs claim cannabis company Tilray owes licensing fees for the Marley Natural brand.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/latin/on-the-radar-emerging-artists-march-2026-1236209762/",
-    "source": "billboard",
-    "title": "Las Posada, Odalys Velasco & More Emerging Latin Artists on Our Radar",
-    "url": "https://www.billboard.com/music/latin/on-the-radar-emerging-artists-march-2026-1236209762/",
-    "publishedAt": "2026-03-30T20:12:15.000Z",
-    "summary": "In celebration of Women's History Month, these are the rising female artists we've discovered in March who should be on your radar.",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/better-guitar-great-angus-young-vs-tony-iommi/",
     "source": "loudwire",
     "title": "POLL: Better Guitar Great - Angus Young vs. Tony Iommi",
     "url": "https://loudwire.com/better-guitar-great-angus-young-vs-tony-iommi/",
     "publishedAt": "2026-03-30T20:04:01.000Z",
     "summary": "In this week's Chuck's Fight Club, we're asking you to pick the better guitar great - AC/DC's Angus Young or Black Sabbath's Tony Iommi. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/tv-film/zendaya-rue-on-the-run-euphoria-season-3-trailer-1236210225/",
-    "source": "billboard",
-    "title": "Zendaya’s Rue Is on the Run in New ‘Euphoria’ Season 3 Trailer",
-    "url": "https://www.billboard.com/culture/tv-film/zendaya-rue-on-the-run-euphoria-season-3-trailer-1236210225/",
-    "publishedAt": "2026-03-30T19:56:04.000Z",
-    "summary": "Season three returns on April 12.",
     "image": null
   },
   {
@@ -72,30 +144,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/lists/tecate-pal-norte-2026-best-moments-killers-zoe-halsey-day-3/",
-    "source": "billboard",
-    "title": "The Killers, Zoé, Halsey & More Best Performances of Day 3 of Tecate Pa’l Norte 2026",
-    "url": "https://www.billboard.com/lists/tecate-pal-norte-2026-best-moments-killers-zoe-halsey-day-3/",
-    "publishedAt": "2026-03-30T19:40:14.000Z",
-    "summary": "Djo and Panteón Rococó also shined at the Monterrey festival.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/taylor-swift-sued-trademark-infringement-life-of-a-showgirl-1235539092/",
     "source": "rolling-stone",
     "title": "Showgirl Showdown: Vegas Performer Sues Taylor Swift Over ‘Life of a Showgirl’ Trademark",
     "url": "https://www.rollingstone.com/music/music-news/taylor-swift-sued-trademark-infringement-life-of-a-showgirl-1235539092/",
     "publishedAt": "2026-03-30T19:39:20.000Z",
     "summary": "Maren Wade argues the U.S. Patent and Trademark Office refused Swift’s application over similarities with her own decade-old “Confessions of a Showgirl” mark",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/enhypen-host-hybe-spotify-podcast-show-stana-blood-diary-1236210108/",
-    "source": "billboard",
-    "title": "ENHYPEN to Host First Series of HYBE’s New Spotify Video Podcast Show",
-    "url": "https://www.billboard.com/music/music-news/enhypen-host-hybe-spotify-podcast-show-stana-blood-diary-1236210108/",
-    "publishedAt": "2026-03-30T19:39:19.000Z",
-    "summary": "The Blood Diary will be a mystery show inviting fans to help the band members identify a liar among them.",
     "image": null
   },
   {
@@ -108,15 +162,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/celine-dion-comeback-shows-paris-residency-dates-video-1236210308/",
-    "source": "billboard",
-    "title": "Celine Dion Announces 2026 Paris Residency Dates, Says She’s Feeling ‘Strong’ After Health Battle",
-    "url": "https://www.billboard.com/music/music-news/celine-dion-comeback-shows-paris-residency-dates-video-1236210308/",
-    "publishedAt": "2026-03-30T19:35:40.000Z",
-    "summary": "\"I’ve felt your prayers and support, your kindness and love,\" the singer said.",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/news/kali-uchis-announces-for-the-girls-tour-with-mariah-the-scientist/",
     "source": "pitchfork",
     "title": "Kali Uchis Announces For The Girls Tour with Mariah the Scientist",
@@ -126,30 +171,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/lists/latin-music-biggest-lawsuits-bad-bunny-daddy-yankee/",
-    "source": "billboard",
-    "title": "Here Are Latin Music’s Biggest Lawsuits & Legal Cases, Including Bad Bunny, Daddy Yankee & More",
-    "url": "https://www.billboard.com/lists/latin-music-biggest-lawsuits-bad-bunny-daddy-yankee/",
-    "publishedAt": "2026-03-30T19:29:21.000Z",
-    "summary": "Latin music stars are facing big legal battles, including a massive reggaeton case, a nasty divorce-turned-RICO-suit and a looming fight over a leaked sex tape.",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/army-investigating-helicopter-incident-kid-rock/",
     "source": "loudwire",
     "title": "Army Investigating Helicopter Incident Outside Kid Rock's Home",
     "url": "https://loudwire.com/army-investigating-helicopter-incident-kid-rock/",
     "publishedAt": "2026-03-30T19:02:31.000Z",
     "summary": "The U.S. Army has launched an investigation into the circumstances surrounding why two Apache attack helicopters were hovering outside of Kid Rock's Tennessee mansion. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/bts-swim-number-1-global-charts-debut-1236210219/",
-    "source": "billboard",
-    "title": "BTS’ ‘Swim’ Is No. 1 as Songs From ‘ARIRANG’ Make Historic Start on Billboard Global Charts",
-    "url": "https://www.billboard.com/music/chart-beat/bts-swim-number-1-global-charts-debut-1236210219/",
-    "publishedAt": "2026-03-30T18:46:12.000Z",
-    "summary": "The group adds its record-extending eighth No. 1 on both the Global 200 and Global Excl. U.S.",
     "image": null
   },
   {
@@ -225,15 +252,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/justin-bieber-first-us-concert-four-years-watch-videos-1235538722/",
-    "source": "rolling-stone",
-    "title": "Justin Bieber Delivers ‘Daisies’ and ‘Yukon’ at First U.S. Show in Four Years",
-    "url": "https://www.rollingstone.com/music/music-news/justin-bieber-first-us-concert-four-years-watch-videos-1235538722/",
-    "publishedAt": "2026-03-30T15:48:22.000Z",
-    "summary": "Ahead of his headlining Coachella set, the pop star performed an invite-only club gig for fans that exclusively featured songs from Swag and Swag II",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/news/robyn-jessie-ware-nia-archives-che-this-weeks-pitchfork-selects-playlist/",
     "source": "pitchfork",
     "title": "Jessie Ware, Nia Archives, Robyn, and More: This Week’s Pitchfork Selects Playlist",
@@ -249,15 +267,6 @@
     "url": "https://pitchfork.com/news/future-islands-announce-tour-of-north-carolina/",
     "publishedAt": "2026-03-30T14:46:02.000Z",
     "summary": "Samuel Herring and the band will make an eight-show jaunt around the state before a finale in Baltimore",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/lisa-blackpink-las-vegas-residency-1235538653/",
-    "source": "rolling-stone",
-    "title": "Blackpink’s Lisa Will Be the First K-Pop Star to Stage a Las Vegas Residency",
-    "url": "https://www.rollingstone.com/music/music-news/lisa-blackpink-las-vegas-residency-1235538653/",
-    "publishedAt": "2026-03-30T14:39:20.000Z",
-    "summary": "The rapper-singer will hit Caesars Palace this fall",
     "image": null
   },
   {
@@ -438,15 +447,6 @@
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUm40d3hHZ3gwZ29BazlqQ0VHX0hOd3VtZHAtblRFNHkzLUxsNU1BV0VnVXA3S0M4M3dWZ0ZGZ042ejExek1CeTdZcEEzTXB3LVRfaGptMUNNU2EtdGoxUEVIbVNoZlZRdTJYOThkSGFtZFJOQnF5V3hDZWVPUzliMGZMNHZnQlRvT2VyeW42SjNEX0xw?oc=5",
     "publishedAt": "2026-03-29T19:38:53.000Z",
     "summary": "‘Something Very Bad Is Going To Happen’ ending explained: does Rachel die? NME",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/news/watch-wolf-alice-perform-on-snl-uk/",
-    "source": "pitchfork",
-    "title": "Watch Wolf Alice Perform on Saturday Night Live UK",
-    "url": "https://pitchfork.com/news/watch-wolf-alice-perform-on-snl-uk/",
-    "publishedAt": "2026-03-29T17:30:20.000Z",
-    "summary": "They played ‘White Horses’ and ‘Leaning Against the Wall’ on the new series’ second episode",
     "image": null
   },
   {
