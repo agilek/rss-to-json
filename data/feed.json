@@ -1,5 +1,41 @@
 [
   {
+    "id": "pitchfork-https://pitchfork.com/news/bob-dylan-launched-a-patreon-for-some-reason/",
+    "source": "pitchfork",
+    "title": "Bob Dylan Launched a Patreon for Some Reason",
+    "url": "https://pitchfork.com/news/bob-dylan-launched-a-patreon-for-some-reason/",
+    "publishedAt": "2026-03-30T02:18:48.000Z",
+    "summary": "It includes letters and essays that appear to have utilized AI",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/watch-rush-play-live-new-drummer-anika-nilles-first-time-1235538613/",
+    "source": "rolling-stone",
+    "title": "Watch Rush Play Live With New Drummer Anika Nilles for the First Time",
+    "url": "https://www.rollingstone.com/music/music-news/watch-rush-play-live-new-drummer-anika-nilles-first-time-1235538613/",
+    "publishedAt": "2026-03-30T01:24:19.000Z",
+    "summary": "Geddy Lee, Alex Lifeson, and new drummer Anika Nilles roared through \"Finding My Way\" at a surprise Juno Awards performance",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/rush-2026-juno-awards-reunion/",
+    "source": "loudwire",
+    "title": "Watch Rush Reunion Lineup's Live Debut at 2026 Juno Awards",
+    "url": "https://loudwire.com/rush-2026-juno-awards-reunion/",
+    "publishedAt": "2026-03-30T00:27:45.000Z",
+    "summary": "Rush performed live at the Juno Awards on March 29, 2026. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/tecate-pal-norte-2026-grupo-frontera-among-best-of-day-2/",
+    "source": "billboard",
+    "title": "Grupo Frontera, Guns N’ Roses & Turnstile Among Best of Day 2 of Tecate Pa’l Norte 2026",
+    "url": "https://www.billboard.com/lists/tecate-pal-norte-2026-grupo-frontera-among-best-of-day-2/",
+    "publishedAt": "2026-03-29T23:05:08.000Z",
+    "summary": "Los Fabulosos Cadillacs and The Warning were also among the highlights on the second day of the festival in Monterrey, Mexico.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/music-news/dj-dan-death-1236209595/",
     "source": "billboard",
     "title": "DJ Dan, Legendary West Coast House Producer, Confirmed Dead",
@@ -24,6 +60,15 @@
     "url": "https://pitchfork.com/news/chuquimamani-condori-confirms-new-los-thuthanaka-music-shares-unreleased-songs/",
     "publishedAt": "2026-03-29T21:04:36.000Z",
     "summary": "The duo’s next project, Waq'a, is out on April 3",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMinAFBVV95cUxQWlA0Q181eHc2cG53SmZKcUU4SHhHS0NhUU1TVWNycG1KWXlNRTBSVUF5LXQ2RlJfTEhiRExvSnFzVURnQXdKYUZ0aGZ0cDRaNlc5V1FaVnc4OGZqcTJQMzA4bzhjbjJxcUI4WTNKdjNNTVc1S24xMWdxM0dac3VhWXVaZVltZnV6OThrUWZiU2F0X2dnbHZRRFJpUl8?oc=5",
+    "source": "nme",
+    "title": "Benson Boone announces ‘Wanted Man’ US tour for summer 2026 - NME",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWlA0Q181eHc2cG53SmZKcUU4SHhHS0NhUU1TVWNycG1KWXlNRTBSVUF5LXQ2RlJfTEhiRExvSnFzVURnQXdKYUZ0aGZ0cDRaNlc5V1FaVnc4OGZqcTJQMzA4bzhjbjJxcUI4WTNKdjNNTVc1S24xMWdxM0dac3VhWXVaZVltZnV6OThrUWZiU2F0X2dnbHZRRFJpUl8?oc=5",
+    "publishedAt": "2026-03-29T20:00:28.000Z",
+    "summary": "Benson Boone announces ‘Wanted Man’ US tour for summer 2026 NME",
     "image": null
   },
   {
@@ -261,15 +306,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/kanye-west-father-video-bully-album-stream-1236209300/",
-    "source": "billboard",
-    "title": "Ye Returns With ‘Father’ Video, Featuring Travis Scott and Directed by Bianca Censori",
-    "url": "https://www.billboard.com/music/music-news/kanye-west-father-video-bully-album-stream-1236209300/",
-    "publishedAt": "2026-03-28T23:31:23.000Z",
-    "summary": "The track is from Ye's just-released Bully album, streaming now.",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMi0wFBVV95cUxQalduVGdSVVhudXV3T25iS2hFSG96RUhySksyekNlMmtyTG9leXV4YnlhQl9zTUNtc1RXdkk3SVh2Zk9vQzIzTjl2OWtaUzYzbXNSVEphYjNhV29uR3pQSERQVFhXZnZLYjdxVXQ5SGE2NHk1RXlsQVdvd0VUd0FJZmc1ZWVSS0hqQ3FJWHlHN2NRM2FPQk5SNW5BZjlncV9sLU5xbmtoYWpqbGRpT0hPRzgwajRRdE1oUGNZSUEtQk8zN0oxeUJrZEFBVGpTcUxjTjlF?oc=5",
     "source": "nme",
     "title": "James Blake requests for name to be taken off credits for Kanye West's 'Bully': \"It's not what I created\" - NME",
@@ -330,15 +366,6 @@
     "url": "https://www.uncut.co.uk/features/interviews/its-not-at-all-grubby-and-yankified-the-making-of-come-down-in-time-by-elton-john-153843/",
     "publishedAt": "2026-03-28T14:00:00.000Z",
     "summary": "\"Tumbleweed Connection came about because we heard The Band's Music From Big Pink, which changed our lives,\" Elton John tells Uncut as he reflects on the genesis of his third studio album, October 1970's Tumbleweed Connection. \"It changed the way we wrote songs, the way we listened to songs. We've always loved Americana, but The […] The post ‘It’s not at all grubby and Yankified’ – The Making of Come Down In Time by Elton John appeared first on UNCUT.",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/weezer-rooftop-gig-the-gathering-tour-1235538525/",
-    "source": "rolling-stone",
-    "title": "Weezer Play Pop-Up Rooftop Gig to Mark ‘The Gathering’ Tour",
-    "url": "https://www.rollingstone.com/music/music-news/weezer-rooftop-gig-the-gathering-tour-1235538525/",
-    "publishedAt": "2026-03-28T13:37:22.000Z",
-    "summary": "Band will release new single \"Shine Again\" on April 1 ahead of fall arena tour",
     "image": null
   },
   {
@@ -495,15 +522,6 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMigwJBVV95cUxPU2wyMXZ5QkZ0QkRXT2JMNTNZTkNqdHlRVmR3ZzNnRzI0dm1KMnJZZ2QxRm5HMGU4QkdoZnRsUEJMUGxKZmZxXzlzbEpHQzVDZlZyVmNwYmN0bG1ER0pVcHhuOTE5a3hiSnByU28wVFBfZmNCaHl1eDFVQ01nQkFWTW9yelRiTk1Db1RSWEdBVUt6MGxqcWdpYmlyUnFZMVU3OXFVSjVyZDVxc0Y5LWRURmt3alc2WjNHTkxiVlJnVER3SnhMZTdBb2NjMi1mcUVJWGVpNkJGMEYxY3NqcGh6NDdydkhrMVBiXzRwTFBOcFBsVWRCdmNzejRUamRvY1piWlhr?oc=5",
-    "source": "nme",
-    "title": "Paris Jackson challenges father's biopic and estate spending, as co-executors call her claims \"meritless\" and accuse her of \"media campaign\" - NME",
-    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPU2wyMXZ5QkZ0QkRXT2JMNTNZTkNqdHlRVmR3ZzNnRzI0dm1KMnJZZ2QxRm5HMGU4QkdoZnRsUEJMUGxKZmZxXzlzbEpHQzVDZlZyVmNwYmN0bG1ER0pVcHhuOTE5a3hiSnByU28wVFBfZmNCaHl1eDFVQ01nQkFWTW9yelRiTk1Db1RSWEdBVUt6MGxqcWdpYmlyUnFZMVU3OXFVSjVyZDVxc0Y5LWRURmt3alc2WjNHTkxiVlJnVER3SnhMZTdBb2NjMi1mcUVJWGVpNkJGMEYxY3NqcGh6NDdydkhrMVBiXzRwTFBOcFBsVWRCdmNzejRUamRvY1piWlhr?oc=5",
-    "publishedAt": "2026-03-27T15:01:38.000Z",
-    "summary": "Paris Jackson challenges father's biopic and estate spending, as co-executors call her claims \"meritless\" and accuse her of \"media campaign\" NME",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/reviews/live/the-delines-and-chris-eckman-live-at-club-uncut-tender-literary-tales-of-underdog-america-153868/",
     "source": "uncut",
     "title": "The Delines and Chris Eckman live at Club Uncut: tender, literary tales of underdog America",
@@ -567,15 +585,6 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/new-rock-metal-tours-announced-march-20-26-2026/",
-    "source": "loudwire",
-    "title": "17 New Rock + Metal Tours Announced This Past Week",
-    "url": "https://loudwire.com/new-rock-metal-tours-announced-march-20-26-2026/",
-    "publishedAt": "2026-03-27T12:00:37.000Z",
-    "summary": "Tours featuring 311 and The Dirty Heads, Coheed and Cambria, Corrosion of Conformity and the Summer Slaughter tour were all announced this past week. Continue reading…",
-    "image": null
-  },
-  {
     "id": "kerrang-http://www.kerrang.com/nova-twins-win-best-alternative-music-act-mobo-awards-2026-manchester-ceremony-speech",
     "source": "kerrang",
     "title": "Nova Twins win Best Alternative Music Act at MOBO Awards 2026",
@@ -587,19 +596,19 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMieEFVX3lxTE1PZGwxcFVlMF92MklmZGFxTXlXNHU0RW9NSEZhdU4xNldIdFRsdEh2bW1LUmFKMC0tRmRkYmZ0VW4wemloTGE5UDZZNi1RcGRlOGlmT1NLb1VvZVdGSzBKTm5Db3JsVXNvUkNMWHpvNUZ2V1dqY2RVTQ?oc=5",
     "source": "kerrang",
-    "title": "Album review: Defying Decay – Synthetic Sympathy - kerrang.com",
+    "title": "Album review: Defying Decay – Synthetic Sympathy - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PZGwxcFVlMF92MklmZGFxTXlXNHU0RW9NSEZhdU4xNldIdFRsdEh2bW1LUmFKMC0tRmRkYmZ0VW4wemloTGE5UDZZNi1RcGRlOGlmT1NLb1VvZVdGSzBKTm5Db3JsVXNvUkNMWHpvNUZ2V1dqY2RVTQ?oc=5",
     "publishedAt": "2026-03-27T10:04:03.000Z",
-    "summary": "Album review: Defying Decay – Synthetic Sympathy kerrang.com",
+    "summary": "Album review: Defying Decay – Synthetic Sympathy Kerrang!",
     "image": null
   },
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMihAFBVV95cUxPU0k2VFZ0OHBTVXh4dmJneVVoYkhDM19yZnZBZ284eTByaFFXSWJCU3RaOWpJMzhTR243TlM0cmVMcTV3MUYzaktBOGE4QTJlc1FNQ0JzbXhzQXZvMDY0UFV4bjI2QjVTZVdfTTZlVUNpRHlDSTY3VDhDdzdSXy1laFJVbnM?oc=5",
     "source": "kerrang",
-    "title": "Album review: Black Label Society – Engines Of Demolition - kerrang.com",
+    "title": "Album review: Black Label Society – Engines Of Demolition - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU0k2VFZ0OHBTVXh4dmJneVVoYkhDM19yZnZBZ284eTByaFFXSWJCU3RaOWpJMzhTR243TlM0cmVMcTV3MUYzaktBOGE4QTJlc1FNQ0JzbXhzQXZvMDY0UFV4bjI2QjVTZVdfTTZlVUNpRHlDSTY3VDhDdzdSXy1laFJVbnM?oc=5",
     "publishedAt": "2026-03-27T08:34:03.000Z",
-    "summary": "Album review: Black Label Society – Engines Of Demolition kerrang.com",
+    "summary": "Album review: Black Label Society – Engines Of Demolition Kerrang!",
     "image": null
   },
   {
@@ -612,21 +621,21 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/news/kanye-west-releases-bully/",
-    "source": "pitchfork",
-    "title": "Kanye West Releases Bully",
-    "url": "https://pitchfork.com/news/kanye-west-releases-bully/",
-    "publishedAt": "2026-03-27T05:21:32.000Z",
-    "summary": "The long-delayed album is now available to stream",
+    "id": "kerrang-https://news.google.com/rss/articles/CBMiekFVX3lxTE5Mc3BEMTNlbkNsRVE0ek1HV1BWSUdYRFVXXzFyU2RIdmM1dS1SQ21ISW1janFfTVlSZGRPYkMzLW9FWC1Zbl9VcjJ2NV9CNXkwSjVvYndKeXp6b1U0SUcwRGxkZmNXS2lJOHF1VHJaUEU4YzA5cjBVQWpB0gF_QVVfeXFMTWdFbF8xQlpGOXpGakRseUdTb1JuVVFobUoxVmdoemJrU3JTV2o3bHYyZlpfN0ZKRkRkUHltOXp2b1NCdHUwRFd4Q201UTI2by14aFFFOGM2SkVjWlNaTkVfQkh5S0FneFpNdWpGcEI1aWZScm1GQWFoUzJ3eE5fVQ?oc=5",
+    "source": "kerrang",
+    "title": "The Kerrang! Chart: The best new music this week - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Mc3BEMTNlbkNsRVE0ek1HV1BWSUdYRFVXXzFyU2RIdmM1dS1SQ21ISW1janFfTVlSZGRPYkMzLW9FWC1Zbl9VcjJ2NV9CNXkwSjVvYndKeXp6b1U0SUcwRGxkZmNXS2lJOHF1VHJaUEU4YzA5cjBVQWpB0gF_QVVfeXFMTWdFbF8xQlpGOXpGakRseUdTb1JuVVFobUoxVmdoemJrU3JTV2o3bHYyZlpfN0ZKRkRkUHltOXp2b1NCdHUwRFd4Q201UTI2by14aFFFOGM2SkVjWlNaTkVfQkh5S0FneFpNdWpGcEI1aWZScm1GQWFoUzJ3eE5fVQ?oc=5",
+    "publishedAt": "2026-03-27T07:00:00.000Z",
+    "summary": "The Kerrang! Chart: The best new music this week Kerrang!",
     "image": null
   },
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMilAFBVV95cUxOT0dldTZaTEJuOTkxZDlJUUwxTWVaN1A4eDVZcmFSNnB3TXUxUUxSNVBJUVhZeDBsRE1GSDdPbTRLNkZkQ05jUWdYRjRoRDRFT2FuRmYyZkxIQVRmamlLSUZrYnNUdGFzV2NMelktME5hUWtIdGhtQkhsTm54aEJJS3B1T2pwZWUzc0gwZ3k4N0lHZk9T?oc=5",
     "source": "kerrang",
-    "title": "PRESIDENT have released a new single, Mercy - kerrang.com",
+    "title": "PRESIDENT have released a new single, Mercy - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOT0dldTZaTEJuOTkxZDlJUUwxTWVaN1A4eDVZcmFSNnB3TXUxUUxSNVBJUVhZeDBsRE1GSDdPbTRLNkZkQ05jUWdYRjRoRDRFT2FuRmYyZkxIQVRmamlLSUZrYnNUdGFzV2NMelktME5hUWtIdGhtQkhsTm54aEJJS3B1T2pwZWUzc0gwZ3k4N0lHZk9T?oc=5",
     "publishedAt": "2026-03-26T16:03:56.000Z",
-    "summary": "PRESIDENT have released a new single, Mercy kerrang.com",
+    "summary": "PRESIDENT have released a new single, Mercy Kerrang!",
     "image": null
   },
   {
@@ -668,10 +677,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMia0FVX3lxTE5mOVpKdm02NDRXYktvZHUzblhjWVpuUThEQU9fQ3RWdFFyQ0dGN19LN09jelBORDJISnlhYUV0cFVHeUFwRDJYQ2pCdVhmM3htWnJBWi1meExkU3dQeFdQQlFUVWh0Q2NqY0tJ?oc=5",
     "source": "kerrang",
-    "title": "Album review: Tigers Jaw – Lost On You - kerrang.com",
+    "title": "Album review: Tigers Jaw – Lost On You - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mOVpKdm02NDRXYktvZHUzblhjWVpuUThEQU9fQ3RWdFFyQ0dGN19LN09jelBORDJISnlhYUV0cFVHeUFwRDJYQ2pCdVhmM3htWnJBWi1meExkU3dQeFdQQlFUVWh0Q2NqY0tJ?oc=5",
     "publishedAt": "2026-03-26T08:31:09.000Z",
-    "summary": "Album review: Tigers Jaw – Lost On You kerrang.com",
+    "summary": "Album review: Tigers Jaw – Lost On You Kerrang!",
     "image": null
   },
   {
@@ -704,19 +713,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV0VEcl96UUU0NHllR2pFR1ZzcUtTVzdOckZ0Q1hzcWJHUGdoamRxUk5ucDhrRHg5UHoxMk1rNTZwMmpHYUQ2dHhZVHpEUkZPS1pnRWpnZGd3T1ZfYlctSmowNTFMVEdxdTF6SXNiX1phY083cGpxek9nNDhCTnBwc1ExY1daaFphVWxpRlVEdlFBWi1yVnBLTEFYdjllRVlSU0VFVGVsSUkyajNlTVJreVpsakV1Um44?oc=5",
     "source": "kerrang",
-    "title": "MAPHRA’s viral BMTH cover is Number One in Billboard’s Hot Hard Rock Songs chart - kerrang.com",
+    "title": "MAPHRA’s viral BMTH cover is Number One in Billboard’s Hot Hard Rock Songs chart - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV0VEcl96UUU0NHllR2pFR1ZzcUtTVzdOckZ0Q1hzcWJHUGdoamRxUk5ucDhrRHg5UHoxMk1rNTZwMmpHYUQ2dHhZVHpEUkZPS1pnRWpnZGd3T1ZfYlctSmowNTFMVEdxdTF6SXNiX1phY083cGpxek9nNDhCTnBwc1ExY1daaFphVWxpRlVEdlFBWi1yVnBLTEFYdjllRVlSU0VFVGVsSUkyajNlTVJreVpsakV1Um44?oc=5",
     "publishedAt": "2026-03-25T11:22:25.000Z",
-    "summary": "MAPHRA’s viral BMTH cover is Number One in Billboard’s Hot Hard Rock Songs chart kerrang.com",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMifkFVX3lxTE9sX1BBYmNSU2lIMlN1ckdESFRwa3JkNXZDeG5zaE5LX29HN1VQLXRXTTJtOVRZUjN2cFN3dUhGQUtkWmVlQWItSjJhYk1ZVmVvV1B1c2YxMzkyTE82U2lvdEI0OWszRlI1UUlFZEZSVG83eVpCU3d5Sk1YRmdUQQ?oc=5",
-    "source": "kerrang",
-    "title": "Album review: Mallavora – What If Better Never Comes? - kerrang.com",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sX1BBYmNSU2lIMlN1ckdESFRwa3JkNXZDeG5zaE5LX29HN1VQLXRXTTJtOVRZUjN2cFN3dUhGQUtkWmVlQWItSjJhYk1ZVmVvV1B1c2YxMzkyTE82U2lvdEI0OWszRlI1UUlFZEZSVG83eVpCU3d5Sk1YRmdUQQ?oc=5",
-    "publishedAt": "2026-03-25T11:01:24.000Z",
-    "summary": "Album review: Mallavora – What If Better Never Comes? kerrang.com",
+    "summary": "MAPHRA’s viral BMTH cover is Number One in Billboard’s Hot Hard Rock Songs chart Kerrang!",
     "image": null
   }
 ]
