@@ -1,5 +1,32 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/culture/tv-film/american-idol-elimination-postponed-record-voter-turnout-1236211054/",
+    "source": "billboard",
+    "title": "‘American Idol’ Elimination Postponed After Record Voter Turnout",
+    "url": "https://www.billboard.com/culture/tv-film/american-idol-elimination-postponed-record-voter-turnout-1236211054/",
+    "publishedAt": "2026-03-31T09:26:29.000Z",
+    "summary": "The unprecedented development occurred after a high volume of viewer votes flooded in during the Top 14's live performances.",
+    "image": null
+  },
+  {
+    "id": "louder-than-war-https://louderthanwar.com/mandy-indiana-rough-trade-liverpool-live-review/",
+    "source": "louder-than-war",
+    "title": "Mandy, Indiana: Rough Trade, Liverpool – Live Review",
+    "url": "https://louderthanwar.com/mandy-indiana-rough-trade-liverpool-live-review/",
+    "publishedAt": "2026-03-31T09:21:35.000Z",
+    "summary": "Mandy, Indiana Liverpool, Rough Trade March 29th As part of their brief, UK tour before reaching Europe, Manchester’s Mandy, Indiana, bring their new album, URGH, to Liverpool. By Ryan-Lewis Walker. It’s not insignificant that Alex Macdougall, drummer of Manchester’s Mandy, Indiana, should be wearing a My Bloody Valentine t-shirt. Between the subtle snaps of a […] The post Mandy, Indiana: Rough Trade, Liverpool – Live Review appeared first on Louder Than War.",
+    "image": null
+  },
+  {
+    "id": "louder-than-war-https://louderthanwar.com/powersolo-st-marys-creative-chester/",
+    "source": "louder-than-war",
+    "title": "POWERSOLO: St Marys, Creative, Chester – Live Review",
+    "url": "https://louderthanwar.com/powersolo-st-marys-creative-chester/",
+    "publishedAt": "2026-03-31T09:06:23.000Z",
+    "summary": "POWERSOLO St Marys, Creative, Chester Thursday 26th March 2026 POWERSOLO brought their self-defined ‘Donkey Punk’ to the elegant confines of St. Mary’s Creative Space, Chester – the juxtaposition couldn’t have been any more glaring, the venue is a Grade 1 decommissioned church dating from the 14th century. Frontman and guitarist Kim Jeppesn, an original ‘Railthin […] The post POWERSOLO: St Marys, Creative, Chester – Live Review appeared first on Louder Than War.",
+    "image": null
+  },
+  {
     "id": "louder-than-war-https://louderthanwar.com/lambrini-girls/",
     "source": "louder-than-war",
     "title": "Lambrini Girls announce new single and tour",
@@ -132,15 +159,6 @@
     "url": "https://www.billboard.com/pro/mtv-lawsuit-nick-cannon-rap-battle-show-move-ahead-judge/",
     "publishedAt": "2026-03-30T21:38:45.000Z",
     "summary": "The case claims Bad vs. Wild, released by streamer Zeus Network, is illegally \"cosplaying\" as the successor to Cannon's longtime celebrity guest show.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/taylor-swift-life-of-a-showgirl-trademark-lawsuit/",
-    "source": "billboard",
-    "title": "Taylor Swift Sued: Performer Says ‘The Life of a Showgirl’ Infringes ‘Confessions of a Showgirl’",
-    "url": "https://www.billboard.com/pro/taylor-swift-life-of-a-showgirl-trademark-lawsuit/",
-    "publishedAt": "2026-03-30T21:33:55.000Z",
-    "summary": "Las Vegas entertainer Maren Wade claims Swift's latest album has \"overtaken\" her brand recognition.",
     "image": null
   },
   {
@@ -540,24 +558,6 @@
     "image": null
   },
   {
-    "id": "louder-than-war-https://louderthanwar.com/andy-blade-interviewed-i-was-always-a-punk-its-in-my-nature/",
-    "source": "louder-than-war",
-    "title": "Andy Blade interviewed: I was always ‘a punk’, it’s in my nature…",
-    "url": "https://louderthanwar.com/andy-blade-interviewed-i-was-always-a-punk-its-in-my-nature/",
-    "publishedAt": "2026-03-29T12:01:08.000Z",
-    "summary": "The Andy Blade Interview 2026 Punk at 50, Rebellion, podcasts, the Brian James EP, gigs and Death Awaits It has become increasingly obvious that I was always ‘a punk’, it’s in my nature to be rebellious, contrary & averse to phoneys… Punk Survivor and Eater frontman, in both 1976 and 2026, Andy Blade has had […] The post Andy Blade interviewed: I was always ‘a punk’, it’s in my nature… appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "louder-than-war-https://louderthanwar.com/alt-blk-era-the-john-robb-interview-fast-rising-new-nottingham-band-talk-about-how-they-crossed-metal-with-pop/",
-    "source": "louder-than-war",
-    "title": "Alt Blk Era: The John Robb interview",
-    "url": "https://louderthanwar.com/alt-blk-era-the-john-robb-interview-fast-rising-new-nottingham-band-talk-about-how-they-crossed-metal-with-pop/",
-    "publishedAt": "2026-03-29T11:40:28.000Z",
-    "summary": "Alt Blk Era: The John Robb interview The post Alt Blk Era: The John Robb interview appeared first on Louder Than War.",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/features/interviews/its-not-at-all-grubby-and-yankified-the-making-of-come-down-in-time-by-elton-john-153843/",
     "source": "uncut",
     "title": "‘It’s not at all grubby and Yankified’ – The Making of Come Down In Time by Elton John",
@@ -614,10 +614,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMihAFBVV95cUxPU0k2VFZ0OHBTVXh4dmJneVVoYkhDM19yZnZBZ284eTByaFFXSWJCU3RaOWpJMzhTR243TlM0cmVMcTV3MUYzaktBOGE4QTJlc1FNQ0JzbXhzQXZvMDY0UFV4bjI2QjVTZVdfTTZlVUNpRHlDSTY3VDhDdzdSXy1laFJVbnM?oc=5",
     "source": "kerrang",
-    "title": "Album review: Black Label Society – Engines Of Demolition - Kerrang!",
+    "title": "Album review: Black Label Society – Engines Of Demolition - kerrang.com",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU0k2VFZ0OHBTVXh4dmJneVVoYkhDM19yZnZBZ284eTByaFFXSWJCU3RaOWpJMzhTR243TlM0cmVMcTV3MUYzaktBOGE4QTJlc1FNQ0JzbXhzQXZvMDY0UFV4bjI2QjVTZVdfTTZlVUNpRHlDSTY3VDhDdzdSXy1laFJVbnM?oc=5",
     "publishedAt": "2026-03-27T08:34:03.000Z",
-    "summary": "Album review: Black Label Society – Engines Of Demolition Kerrang!",
+    "summary": "Album review: Black Label Society – Engines Of Demolition kerrang.com",
     "image": null
   },
   {
@@ -632,10 +632,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMiekFVX3lxTE5Mc3BEMTNlbkNsRVE0ek1HV1BWSUdYRFVXXzFyU2RIdmM1dS1SQ21ISW1janFfTVlSZGRPYkMzLW9FWC1Zbl9VcjJ2NV9CNXkwSjVvYndKeXp6b1U0SUcwRGxkZmNXS2lJOHF1VHJaUEU4YzA5cjBVQWpB0gF_QVVfeXFMTWdFbF8xQlpGOXpGakRseUdTb1JuVVFobUoxVmdoemJrU3JTV2o3bHYyZlpfN0ZKRkRkUHltOXp2b1NCdHUwRFd4Q201UTI2by14aFFFOGM2SkVjWlNaTkVfQkh5S0FneFpNdWpGcEI1aWZScm1GQWFoUzJ3eE5fVQ?oc=5",
     "source": "kerrang",
-    "title": "The Kerrang! Chart: The best new music this week - Kerrang!",
+    "title": "The Kerrang! Chart: The best new music this week - kerrang.com",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Mc3BEMTNlbkNsRVE0ek1HV1BWSUdYRFVXXzFyU2RIdmM1dS1SQ21ISW1janFfTVlSZGRPYkMzLW9FWC1Zbl9VcjJ2NV9CNXkwSjVvYndKeXp6b1U0SUcwRGxkZmNXS2lJOHF1VHJaUEU4YzA5cjBVQWpB0gF_QVVfeXFMTWdFbF8xQlpGOXpGakRseUdTb1JuVVFobUoxVmdoemJrU3JTV2o3bHYyZlpfN0ZKRkRkUHltOXp2b1NCdHUwRFd4Q201UTI2by14aFFFOGM2SkVjWlNaTkVfQkh5S0FneFpNdWpGcEI1aWZScm1GQWFoUzJ3eE5fVQ?oc=5",
     "publishedAt": "2026-03-27T07:00:00.000Z",
-    "summary": "The Kerrang! Chart: The best new music this week Kerrang!",
+    "summary": "The Kerrang! Chart: The best new music this week kerrang.com",
     "image": null
   },
   {
@@ -650,10 +650,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMilAFBVV95cUxOT0dldTZaTEJuOTkxZDlJUUwxTWVaN1A4eDVZcmFSNnB3TXUxUUxSNVBJUVhZeDBsRE1GSDdPbTRLNkZkQ05jUWdYRjRoRDRFT2FuRmYyZkxIQVRmamlLSUZrYnNUdGFzV2NMelktME5hUWtIdGhtQkhsTm54aEJJS3B1T2pwZWUzc0gwZ3k4N0lHZk9T?oc=5",
     "source": "kerrang",
-    "title": "PRESIDENT have released a new single, Mercy - Kerrang!",
+    "title": "PRESIDENT have released a new single, Mercy - kerrang.com",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOT0dldTZaTEJuOTkxZDlJUUwxTWVaN1A4eDVZcmFSNnB3TXUxUUxSNVBJUVhZeDBsRE1GSDdPbTRLNkZkQ05jUWdYRjRoRDRFT2FuRmYyZkxIQVRmamlLSUZrYnNUdGFzV2NMelktME5hUWtIdGhtQkhsTm54aEJJS3B1T2pwZWUzc0gwZ3k4N0lHZk9T?oc=5",
     "publishedAt": "2026-03-26T16:03:56.000Z",
-    "summary": "PRESIDENT have released a new single, Mercy Kerrang!",
+    "summary": "PRESIDENT have released a new single, Mercy kerrang.com",
     "image": null
   },
   {
@@ -695,10 +695,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMia0FVX3lxTE5mOVpKdm02NDRXYktvZHUzblhjWVpuUThEQU9fQ3RWdFFyQ0dGN19LN09jelBORDJISnlhYUV0cFVHeUFwRDJYQ2pCdVhmM3htWnJBWi1meExkU3dQeFdQQlFUVWh0Q2NqY0tJ?oc=5",
     "source": "kerrang",
-    "title": "Album review: Tigers Jaw – Lost On You - Kerrang!",
+    "title": "Album review: Tigers Jaw – Lost On You - kerrang.com",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mOVpKdm02NDRXYktvZHUzblhjWVpuUThEQU9fQ3RWdFFyQ0dGN19LN09jelBORDJISnlhYUV0cFVHeUFwRDJYQ2pCdVhmM3htWnJBWi1meExkU3dQeFdQQlFUVWh0Q2NqY0tJ?oc=5",
     "publishedAt": "2026-03-26T08:31:09.000Z",
-    "summary": "Album review: Tigers Jaw – Lost On You Kerrang!",
+    "summary": "Album review: Tigers Jaw – Lost On You kerrang.com",
     "image": null
   },
   {
@@ -713,10 +713,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMivgFBVV95cUxNZHo4QTZQUHBFR0Nza0dva0N5SHN5d0wxa0tER2ttTDdWOUM1bXpiQ1RlcndIcGhWc1pDUHlJUVA3VWpPNnRSZDFZM3FlVFRrMlBtYmgzaEJvX3RIcC1ZZjY3T3c5QkJaTkViSmw5NHM0emZuRmxWSllNSWFYVGNtUkd1MnQzR1dEWEl0bXRZOVE3bXlzanJpYnZiYm43YmluRHJkMDRzdW5xdWtvZGlQVmtXXzYwdWVuWGFBcHlB?oc=5",
     "source": "kerrang",
-    "title": "Skindred announce nu-metal tour with Alien Ant Farm, Spineshank and Orgy - Kerrang!",
+    "title": "Skindred announce nu-metal tour with Alien Ant Farm, Spineshank and Orgy - kerrang.com",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZHo4QTZQUHBFR0Nza0dva0N5SHN5d0wxa0tER2ttTDdWOUM1bXpiQ1RlcndIcGhWc1pDUHlJUVA3VWpPNnRSZDFZM3FlVFRrMlBtYmgzaEJvX3RIcC1ZZjY3T3c5QkJaTkViSmw5NHM0emZuRmxWSllNSWFYVGNtUkd1MnQzR1dEWEl0bXRZOVE3bXlzanJpYnZiYm43YmluRHJkMDRzdW5xdWtvZGlQVmtXXzYwdWVuWGFBcHlB?oc=5",
     "publishedAt": "2026-03-25T15:51:59.000Z",
-    "summary": "Skindred announce nu-metal tour with Alien Ant Farm, Spineshank and Orgy Kerrang!",
+    "summary": "Skindred announce nu-metal tour with Alien Ant Farm, Spineshank and Orgy kerrang.com",
     "image": null
   }
 ]
