@@ -1,26 +1,161 @@
 [
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/john-summit-experts-only-festival-2026-lineup-phase-one-1236200718/",
+    "id": "billboard-https://www.billboard.com/pro/universal-music-latin-america-new-executive-appointments/",
     "source": "billboard",
-    "title": "John Summit’s Experts Only Festival 2026 Announces Phase One Lineup",
-    "url": "https://www.billboard.com/music/music-news/john-summit-experts-only-festival-2026-lineup-phase-one-1236200718/",
-    "publishedAt": "2026-03-31T15:04:30.000Z",
-    "summary": "The festival happens in September at New York's Randall's Island Park.",
+    "title": "Universal Music Latin America Unveils Executive Appointments for its ‘Next Phase of Evolution’ ",
+    "url": "https://www.billboard.com/pro/universal-music-latin-america-new-executive-appointments/",
+    "publishedAt": "2026-03-31T17:00:48.000Z",
+    "summary": "Alfredo Delgadillo has been named CEO & President of Universal Music Latin Entertainment. See more promotions below.",
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/bts-swim-live-clip-ii-performance-video-swimming-pool-1236211235/",
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-album-reviews/ye-kanye-west-bully-1235538611/",
+    "source": "rolling-stone",
+    "title": "Ye Aims for a Career Reset With ‘Bully’",
+    "url": "https://www.rollingstone.com/music/music-album-reviews/ye-kanye-west-bully-1235538611/",
+    "publishedAt": "2026-03-31T16:56:49.000Z",
+    "summary": "But does he get there? The troubled star's latest album offers plenty of fan service, but little substance",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/luke-combs-the-way-i-am-number-1-debut-top-country-albums-1236211351/",
     "source": "billboard",
-    "title": "Watch BTS Suit Up for a Day at the Pool With Splashy New ‘Live Clip II’ Performance Video of ‘SWIM’",
-    "url": "https://www.billboard.com/music/music-news/bts-swim-live-clip-ii-performance-video-swimming-pool-1236211235/",
-    "publishedAt": "2026-03-31T15:00:52.000Z",
-    "summary": "The visual comes as \"SWIM\" spends its first week at No. 1 on the Billboard Hot 100.",
+    "title": "Luke Combs’ ‘The Way I Am’ Debuts at No. 1 on Top Country Albums Chart",
+    "url": "https://www.billboard.com/music/chart-beat/luke-combs-the-way-i-am-number-1-debut-top-country-albums-1236211351/",
+    "publishedAt": "2026-03-31T16:54:13.000Z",
+    "summary": "The set opens at No. 2 on the Billboard 200 and drives 14 entries on Hot Country Songs.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/christopher-north-death-keyboardist-ambrosia-dies-obituary-1236211368/",
+    "source": "billboard",
+    "title": "Christopher North, Keyboardist For ‘Biggest Part Of Me’ Band Ambrosia Dead at 75",
+    "url": "https://www.billboard.com/music/pop/christopher-north-death-keyboardist-ambrosia-dies-obituary-1236211368/",
+    "publishedAt": "2026-03-31T16:47:14.000Z",
+    "summary": "The founding member of the 1970s Los Angeles soft rock band died on Monday (March 30) after a long battle with cancer.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/best-songs-2006-greatest-pop-stars-podcast-discussion-1236211485/",
+    "source": "billboard",
+    "title": "What Does Our Staff’s 2006 Best Songs List Say About the State of Pop Stardom 20 Years Ago?",
+    "url": "https://www.billboard.com/music/pop/best-songs-2006-greatest-pop-stars-podcast-discussion-1236211485/",
+    "publishedAt": "2026-03-31T16:47:04.000Z",
+    "summary": "This bonus 'Greatest Pop Stars' podcast episode looks at our staff's recently published 100 Best Songs of 2006 list.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/wyclef-jean-teases-unreleased-fugees-music-the-score-era-1236211300/",
+    "source": "billboard",
+    "title": "Wyclef Jean Teases Unreleased Fugees Music From ‘The Score’ Era: ‘I Think It Would Be Pretty Amazing’",
+    "url": "https://www.billboard.com/music/rb-hip-hop/wyclef-jean-teases-unreleased-fugees-music-the-score-era-1236211300/",
+    "publishedAt": "2026-03-31T16:43:50.000Z",
+    "summary": "\"I think fans will enjoy some of the outtakes and some of the freestyles,\" he said on The Jennifer Hudson Show.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/bts-2-0-music-video-teaser-rm-boss-1236211388/",
+    "source": "billboard",
+    "title": "RM Is All Business in BTS’ ‘Official Teaser’ for ‘2.0’ Music Video",
+    "url": "https://www.billboard.com/music/music-news/bts-2-0-music-video-teaser-rm-boss-1236211388/",
+    "publishedAt": "2026-03-31T16:39:03.000Z",
+    "summary": "It looks like the track will be the next single from ARIRANG.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/bobby-weir-award-music-sustainability-alliance-summit/",
+    "source": "billboard",
+    "title": "Music Sustainability Alliance Debuts Award Honoring the Late Bobby Weir",
+    "url": "https://www.billboard.com/pro/bobby-weir-award-music-sustainability-alliance-summit/",
+    "publishedAt": "2026-03-31T16:28:04.000Z",
+    "summary": "Honoring members of the music industry with a legacy of sustainability-focused work, the award will be presented at the Music Sustainability Summit in Los Angeles on April 14.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/marc-anthony-nathy-peluso-como-en-el-idilio-tropical-chart-1236211359/",
+    "source": "billboard",
+    "title": "Marc Anthony & Nathy Peluso’s ‘Como En El Idilio’ Reigns on Tropical Airplay Chart",
+    "url": "https://www.billboard.com/music/chart-beat/marc-anthony-nathy-peluso-como-en-el-idilio-tropical-chart-1236211359/",
+    "publishedAt": "2026-03-31T16:22:04.000Z",
+    "summary": "Anthony earns his chart-leading 39th ruler.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rock/bruce-springsteen-streets-of-minneapolis-ice-minnesota-1236211258/",
+    "source": "billboard",
+    "title": "How Minnesotans Feel About Bruce Springsteen’s ‘Streets of Minneapolis’ & Anti-ICE Activism",
+    "url": "https://www.billboard.com/music/rock/bruce-springsteen-streets-of-minneapolis-ice-minnesota-1236211258/",
+    "publishedAt": "2026-03-31T16:20:27.000Z",
+    "summary": "“It paints a picture of exactly what we saw,” says a local kindergarten teacher attending the Boss' tour kickoff in Minneapolis.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/bts-swim-number-1-diplo-talks-new-album-arirang-hot-100-show/",
+    "source": "billboard",
+    "title": "BTS ‘Swim’ Hits No. 1: Diplo Breaks Down Their Comeback Album ‘ARIRANG’ | Hot 100 Show",
+    "url": "https://www.billboard.com/video/bts-swim-number-1-diplo-talks-new-album-arirang-hot-100-show/",
+    "publishedAt": "2026-03-31T16:06:59.000Z",
+    "summary": "BTS scores its seventh No.1 on the Billboard Hot 100 with “Swim,” and producer Diplo joins Billboard to discuss his extensive work on the group’s comeback album, ARIRANG. Diplo takes us inside the two-month studio process at Conway Studios in Los Angeles, where he worked with all seven BTS members to create their highly anticipated […]",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/journey-farewell-tour-interview-1235538787/",
+    "source": "rolling-stone",
+    "title": "Inside the Drama and Excitement of Journey’s Farewell Tour",
+    "url": "https://www.rollingstone.com/music/music-features/journey-farewell-tour-interview-1235538787/",
+    "publishedAt": "2026-03-31T16:00:00.000Z",
+    "summary": "To draw its wildly successful touring career to a close, the band has had to sort through decades of complicated history",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/jeff-parker-announces-eta-ivtet-album-happy-today/",
+    "source": "pitchfork",
+    "title": "Jeff Parker Announces ETA IVtet Album Happy Today",
+    "url": "https://pitchfork.com/news/jeff-parker-announces-eta-ivtet-album-happy-today/",
+    "publishedAt": "2026-03-31T15:58:21.000Z",
+    "summary": "The jazz quartet will celebrate the LP with four shows in Los Angeles",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/babymetal-2026-world-tour-halestorm-more/",
+    "source": "loudwire",
+    "title": "Babymetal Announce 2026 North American Tour Dates With Halestorm",
+    "url": "https://loudwire.com/babymetal-2026-world-tour-halestorm-more/",
+    "publishedAt": "2026-03-31T15:56:42.000Z",
+    "summary": "Babymetal have booked out their 2026 with North American and Latin American tour dates with Halestorm and Violent Vira. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-album-reviews/yeat-adl-album-review-1235539354/",
+    "source": "rolling-stone",
+    "title": "After Conquering the Internet Underground, Yeat Goes for Stadium Status on ‘ADL’",
+    "url": "https://www.rollingstone.com/music/music-album-reviews/yeat-adl-album-review-1235539354/",
+    "publishedAt": "2026-03-31T15:41:34.000Z",
+    "summary": "The platinum rapper trades his punkish early work for more enunciation and less velocity. Does it work? Sort of",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/jbls-immersive-livebrary-brought-sound-life-sxsw-1235538420/",
+    "source": "rolling-stone",
+    "title": "JBL’s Immersive LIVEbrary Brought Sound to Life at SXSW",
+    "url": "https://www.rollingstone.com/music/music-news/jbls-immersive-livebrary-brought-sound-life-sxsw-1235538420/",
+    "publishedAt": "2026-03-31T15:28:07.000Z",
+    "summary": "The audio brand teamed up with Rolling Stone for an immersive experience at SXSW 2026 in Austin.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/kid-rock-talks-helicopter-flyover-nashville-interview-1235539457/",
+    "source": "rolling-stone",
+    "title": "Kid Rock Says Army Helicopter Pilots Will Be ‘Alright’ After Controversial Visit: ‘My Buddy Is the Commander-in-Chief’",
+    "url": "https://www.rollingstone.com/music/music-news/kid-rock-talks-helicopter-flyover-nashville-interview-1235539457/",
+    "publishedAt": "2026-03-31T15:14:50.000Z",
+    "summary": "The singer boasted about his friendship with Donald Trump during an interview with a local Nashville news station",
     "image": null
   },
   {
     "id": "pitchfork-https://pitchfork.com/news/billy-strings-sets-fall-2026-us-tour/",
     "source": "pitchfork",
-    "title": "Billy Strings Sets Fall 2026 US Tour",
+    "title": "Billy Strings Sets Fall 2026 U.S. Tour",
     "url": "https://pitchfork.com/news/billy-strings-sets-fall-2026-us-tour/",
     "publishedAt": "2026-03-31T14:59:49.000Z",
     "summary": "The bluegrass savant will stop in Denver, Los Angeles, Baltimore, and more",
@@ -51,15 +186,6 @@
     "url": "https://pitchfork.com/news/beth-orton-returns-with-the-ground-above/",
     "publishedAt": "2026-03-31T14:48:45.000Z",
     "summary": "The singer-songwriter is readying a new phase after 2022’s Weather Alive",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/shakira-zoo-number-2-top-movie-songs-chart-february-2026-1236211232/",
-    "source": "billboard",
-    "title": "Shakira’s ‘Zoo’ Nears No. 1 on Top Movie Songs Chart",
-    "url": "https://www.billboard.com/music/chart-beat/shakira-zoo-number-2-top-movie-songs-chart-february-2026-1236211232/",
-    "publishedAt": "2026-03-31T14:47:35.000Z",
-    "summary": "The Zootopia 2 cut made further inroads against KPop Demon Hunters' dominance in February 2026.",
     "image": null
   },
   {
@@ -162,30 +288,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/lists/laura-pausini-kicks-off-yo-canto-world-tour-full-setlist/",
-    "source": "billboard",
-    "title": "Laura Pausini Kicks Off Her Yo Canto World Tour: Full Setlist",
-    "url": "https://www.billboard.com/lists/laura-pausini-kicks-off-yo-canto-world-tour-full-setlist/",
-    "publishedAt": "2026-03-31T14:14:26.000Z",
-    "summary": "With covers of hits by Ricky Martin, Shakira and more, the Italian star pays tribute to musicians that have inspired her while also performing her own biggest hits.",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/disturbed-dan-donegan-1575-million-illinois-home-photos-video/",
     "source": "loudwire",
-    "title": "Disturbed Guitarist Lists Home for $1.575 Million - See Video",
+    "title": "Disturbed Guitarist Lists Home for $1.575 Million - See Inside",
     "url": "https://loudwire.com/disturbed-dan-donegan-1575-million-illinois-home-photos-video/",
     "publishedAt": "2026-03-31T14:13:59.000Z",
     "summary": "Take a closer look at the $1.575 million home that Disturbed guitarist Dan Donegan has put on the market. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/farruko-signs-co-management-deal-wk-entertainment/",
-    "source": "billboard",
-    "title": "Farruko Signs Co-Management Deal With WK Entertainment & Massivo for a ‘Stronger Structure’",
-    "url": "https://www.billboard.com/pro/farruko-signs-co-management-deal-wk-entertainment/",
-    "publishedAt": "2026-03-31T14:00:00.000Z",
-    "summary": "The news comes on the heels of the Puerto Rican artist performing his hit \"Pepas\" at the Ultra Music Festival.",
     "image": null
   },
   {
@@ -243,48 +351,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/pop/taylor-swift-elizabeth-taylor-video-1236211162/",
-    "source": "billboard",
-    "title": "Taylor Swift Drops Lush ‘Elizabeth Taylor’ Video Paying Homage to Legendary Screen Star",
-    "url": "https://www.billboard.com/music/pop/taylor-swift-elizabeth-taylor-video-1236211162/",
-    "publishedAt": "2026-03-31T13:14:17.000Z",
-    "summary": "The montage of clips from the Oscar-winning actress' most iconic films is available on Spotify and Apple Music.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/awards/2026-webby-awards-nominations-1236210652/",
-    "source": "billboard",
-    "title": "Sabrina Carpenter, Bad Bunny, Taylor Swift & More Nominated for 2026 Webby Awards",
-    "url": "https://www.billboard.com/music/awards/2026-webby-awards-nominations-1236210652/",
-    "publishedAt": "2026-03-31T13:00:00.000Z",
-    "summary": "The 30th edition of the annual awards ceremony will be hosted by comedian Josh Johnson and held on May 11 in New York City.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/bts-returns-no-1-artist-100-debuts-13-songs-hot-100-arirang-1236211170/",
-    "source": "billboard",
-    "title": "BTS Returns to No. 1 on Artist 100, Debuts 13 Songs on Hot 100 From ‘ARIRANG’",
-    "url": "https://www.billboard.com/music/chart-beat/bts-returns-no-1-artist-100-debuts-13-songs-hot-100-arirang-1236211170/",
-    "publishedAt": "2026-03-31T12:57:29.000Z",
-    "summary": "Four songs from the album debut in the Hot 100’s top 40, led by “Swim” at No. 1.",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/frogfest-announce-dark-wave-post-punk-bill/",
     "source": "louder-than-war",
     "title": "Frogfest announces post punk, darkwave, EBM festival in Liverpool",
     "url": "https://louderthanwar.com/frogfest-announce-dark-wave-post-punk-bill/",
     "publishedAt": "2026-03-31T12:52:53.000Z",
     "summary": "Frogfest is a mini all-day festival inspired by European festivals such as Grauzone and Wave-Gotik-Treffen, which takes place on Saturday 15th August 2026 at District Liverpool and Lost Art in the Baltic Triangle area of Liverpool. Tickets are a very reasonable £35 + booking fee via See Tickets/Fatsoma. Payable in 4 Monthly Instalments of £10 […] The post Frogfest announces post punk, darkwave, EBM festival in Liverpool appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/donald-glover-hints-childish-gambino-return-love-making-music-1236211165/",
-    "source": "billboard",
-    "title": "Donald Glover Eases Door Open on Potential Childish Gambino Return: ‘I Still Really Love Making Music’",
-    "url": "https://www.billboard.com/music/rb-hip-hop/donald-glover-hints-childish-gambino-return-love-making-music-1236211165/",
-    "publishedAt": "2026-03-31T12:51:02.000Z",
-    "summary": "The actor/rapper had previously hinted that he was done making music under this rap alter ego after the release of 2024's \"Bando Stone & the New World\" album.",
     "image": null
   },
   {
@@ -306,6 +378,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMirgFBVV95cUxNNjhVZExlTnp2a2w0VXVqcWNFdy1uc21kLU5Md01seGY2aXpTM1pCa1JvQTNCSFhpZmk1WFQwRTRaWm4tMXJqM2lXRkNGN04yZVc3ZkNja3YwM0YwNHpmb3FrX08yd19LdzBlYUJHcFBqQmZHdlVjWW84dWlHd0haQk5ISWxxWWhRV2xmMEVCZG5ldVlfTUpmNWtOTERDbTRCNkV0V0FWcVlaRVMtVkE?oc=5",
+    "source": "nme",
+    "title": "Lola Young shares health update with \"drugs recovery\" an \"ongoing process\" - NME",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNjhVZExlTnp2a2w0VXVqcWNFdy1uc21kLU5Md01seGY2aXpTM1pCa1JvQTNCSFhpZmk1WFQwRTRaWm4tMXJqM2lXRkNGN04yZVc3ZkNja3YwM0YwNHpmb3FrX08yd19LdzBlYUJHcFBqQmZHdlVjWW84dWlHd0haQk5ISWxxWWhRV2xmMEVCZG5ldVlfTUpmNWtOTERDbTRCNkV0V0FWcVlaRVMtVkE?oc=5",
+    "publishedAt": "2026-03-31T12:31:23.000Z",
+    "summary": "Lola Young shares health update with \"drugs recovery\" an \"ongoing process\" NME",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/taylor-swift-elizabeth-taylor-music-video-1235539333/",
     "source": "rolling-stone",
     "title": "Taylor Swift Honors a Legend With New ‘Elizabeth Taylor’ Music Video",
@@ -321,15 +402,6 @@
     "url": "https://louderthanwar.com/watch-this-hugo-race-fatalists-born-to-fly/",
     "publishedAt": "2026-03-31T12:11:15.000Z",
     "summary": "Hugo Race Fatalists return with new album I Made It All Up For You, out now via Gustaff Records/Helixed on CD, LP, and digital formats. After decades of exploration across genres ranging from folk, to world music and everything in between, as well as being known for both his work as part of Nick Cave’s […] The post Watch This! Hugo Race Fatalists: Born To Fly appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/eurovision-song-contest-expanding-asian-edition-2026-bangkok-1236211155/",
-    "source": "billboard",
-    "title": "Eurovision Song Contest Launching Asian Edition in 2026",
-    "url": "https://www.billboard.com/music/music-news/eurovision-song-contest-expanding-asian-edition-2026-bangkok-1236211155/",
-    "publishedAt": "2026-03-31T11:57:13.000Z",
-    "summary": "The inaugural Eurovision Song Contest Asia will take place in Bangkok on Nov. 14.",
     "image": null
   },
   {
@@ -378,24 +450,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/ice-detention-center-madonna-maren-morris-pedro-pascal-letter-1235539325/",
-    "source": "rolling-stone",
-    "title": "Madonna, Maren Morris, Pedro Pascal, and More Call for Shut Down of Notorious ICE Detention Center",
-    "url": "https://www.rollingstone.com/music/music-news/ice-detention-center-madonna-maren-morris-pedro-pascal-letter-1235539325/",
-    "publishedAt": "2026-03-31T02:45:08.000Z",
-    "summary": "Dozens of stars signed an open letter urging the federal government to shutter the Dilley Immigration Processing Center in Texas",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/cardi-b-lawsuit-enough-miami-reservation-dogs-song-1235539284/",
-    "source": "rolling-stone",
-    "title": "Cardi B Shuts Down Lawsuit Claiming ‘Enough (Miami)’ Used Beats From ‘Reservation Dogs’ Song",
-    "url": "https://www.rollingstone.com/music/music-news/cardi-b-lawsuit-enough-miami-reservation-dogs-song-1235539284/",
-    "publishedAt": "2026-03-31T00:32:43.000Z",
-    "summary": "A federal judge in Texas ruled it would be “futile” for the producers to try again with a third amended complaint",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/news/madonna-gracie-abrams-muna-sign-petition-to-close-ice-detention-center/",
     "source": "pitchfork",
     "title": "Madonna, Gracie Abrams, Muna Sign Petition to Close ICE Detention Center",
@@ -405,39 +459,12 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/celine-dion-paris-comeback-shows-1235539161/",
-    "source": "rolling-stone",
-    "title": "Céline Dion to Return to the Stage This Fall in Paris, Her First Headlining Shows in Six Years",
-    "url": "https://www.rollingstone.com/music/music-news/celine-dion-paris-comeback-shows-1235539161/",
-    "publishedAt": "2026-03-30T21:52:00.000Z",
-    "summary": "“Over these last few years, every day that’s gone by, I’ve felt your prayers and support, your kindness and love,\" singer says",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/james-blake-ye-remove-bully-songwriting-credit-1235539201/",
-    "source": "rolling-stone",
-    "title": "James Blake Asks Ye to Remove ‘Bully’ Production Credit, But Insists It’s ‘Not Personal’",
-    "url": "https://www.rollingstone.com/music/music-news/james-blake-ye-remove-bully-songwriting-credit-1235539201/",
-    "publishedAt": "2026-03-30T21:26:46.000Z",
-    "summary": "The musician/producer said he felt like “the spirit” of his contributions to the “This One Here” were no longer present on the final cut",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/news/disclosure-share-video-for-new-song-the-sun-comes-up-tremendous/",
     "source": "pitchfork",
     "title": "Disclosure Share Video for New Song “The Sun Comes Up Tremendous”",
     "url": "https://pitchfork.com/news/disclosure-share-video-for-new-song-the-sun-comes-up-tremendous/",
     "publishedAt": "2026-03-30T20:54:43.000Z",
     "summary": "Howard Lawrence gives a rare lead vocal turn on the duo’s first single of 2026",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/dennis-wilson-rainbows-dtf-st-louis-project-hail-mary-1235538779/",
-    "source": "rolling-stone",
-    "title": "From ‘DTF St. Louis’ to ‘Project Hail Mary,’ This Dennis Wilson Song Is Having a Moment",
-    "url": "https://www.rollingstone.com/music/music-news/dennis-wilson-rainbows-dtf-st-louis-project-hail-mary-1235538779/",
-    "publishedAt": "2026-03-30T20:29:29.000Z",
-    "summary": "“Rainbows,” off the late Beach Boys member’s only solo album, Pacific Ocean Blue, is getting overdue appreciation",
     "image": null
   },
   {
@@ -477,15 +504,6 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/news/kali-uchis-announces-for-the-girls-tour-with-mariah-the-scientist/",
-    "source": "pitchfork",
-    "title": "Kali Uchis Announces For The Girls Tour with Mariah the Scientist",
-    "url": "https://pitchfork.com/news/kali-uchis-announces-for-the-girls-tour-with-mariah-the-scientist/",
-    "publishedAt": "2026-03-30T19:34:02.000Z",
-    "summary": "They will trek across the U.S. starting in May.",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/army-investigating-helicopter-incident-kid-rock/",
     "source": "loudwire",
     "title": "Army Investigating Helicopter Incident Outside Kid Rock's Home",
@@ -522,12 +540,12 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/gary-holt-best-metal-album/",
-    "source": "loudwire",
-    "title": "'The Best Metal Album Ever Made,' According to Gary Holt",
-    "url": "https://loudwire.com/gary-holt-best-metal-album/",
-    "publishedAt": "2026-03-30T14:15:11.000Z",
-    "summary": "Exodus and Slayer guitarist Gary Holt names metal's greatest albums and says his band \"crushes\" Metallica these days. Continue reading…",
+    "id": "nme-https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYmVOelhyOUNMWWJ0MXZORjJKMGx6c1loSFVlUjh5THpkREM1eWp3c3V2MzNfTTJ4b3hTTExQc1Rja09rVlAwLVBSQWRQWXAzeVpGRnhzRlExbWlkRGNQMnhkMHc4bzRILWVER2ZIQnNoU21PTWFRRFBkeE93cDNQdEpQNU9PRFFrWS1teWVnSmVRU2dmTFM0dFc5aVd6WUpiZlpSekRUVXZvWU5WN3Z0Y3lSR0dsUGZpTmo1YTlHWF8xQQ?oc=5",
+    "source": "nme",
+    "title": "Paul McCartney temporarily banned from Reddit for posting photos from his own concert - NME",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYmVOelhyOUNMWWJ0MXZORjJKMGx6c1loSFVlUjh5THpkREM1eWp3c3V2MzNfTTJ4b3hTTExQc1Rja09rVlAwLVBSQWRQWXAzeVpGRnhzRlExbWlkRGNQMnhkMHc4bzRILWVER2ZIQnNoU21PTWFRRFBkeE93cDNQdEpQNU9PRFFrWS1teWVnSmVRU2dmTFM0dFc5aVd6WUpiZlpSekRUVXZvWU5WN3Z0Y3lSR0dsUGZpTmo1YTlHWF8xQQ?oc=5",
+    "publishedAt": "2026-03-30T14:17:28.000Z",
+    "summary": "Paul McCartney temporarily banned from Reddit for posting photos from his own concert NME",
     "image": null
   },
   {
@@ -609,24 +627,6 @@
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ25mbXZON0hpTHozeWxJUG5fVHduZ2dpc0pMa3FOdFpGZXFGS1ZBX2dMd3NjQ1czMnN2RXp5dGxWdUZzUVJCUW83RlM5bFdqSmNMcmFsSUdMVU9HclRCRnZwQmtwV19Qb1dreC1HOXZnZUdBNW9NdC1WLTlWWTdYUWNVY0NpcmhrVnRUTm84RXFYbWxIaHdaWG5YZjNRaUd2OGdBenQzYXBVc2IydHN3VEc3T2xIQVE?oc=5",
     "publishedAt": "2026-03-29T16:08:01.000Z",
     "summary": "TLC’s Chilli says she is “not MAGA” after reports of donations to Trump campaign NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMipwFBVV95cUxQWjdBQ2dJR256dS1vQ2JJSi1RUUpTcHJiOVhvODZpQXZOdzYwekcwVEFqLXRNcVVaU0ExNTQ4TGdJYjdndzBndElSaU9XejR4UTRPM2J2N3lvMHZjc2cxamstSFI0QkpvNXZjUXlJU0pGbXp4VDRxcnZ4R2Y4WEd1eFpBSnV0YnVOVUMybUNFOC02QjJ2d2Q2WmtWbGFGd19fcnRIVVZrbw?oc=5",
-    "source": "nme",
-    "title": "Man accused of stalking Billie Eilish killed by train in New York - NME",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWjdBQ2dJR256dS1vQ2JJSi1RUUpTcHJiOVhvODZpQXZOdzYwekcwVEFqLXRNcVVaU0ExNTQ4TGdJYjdndzBndElSaU9XejR4UTRPM2J2N3lvMHZjc2cxamstSFI0QkpvNXZjUXlJU0pGbXp4VDRxcnZ4R2Y4WEd1eFpBSnV0YnVOVUMybUNFOC02QjJ2d2Q2WmtWbGFGd19fcnRIVVZrbw?oc=5",
-    "publishedAt": "2026-03-29T15:26:37.000Z",
-    "summary": "Man accused of stalking Billie Eilish killed by train in New York NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMi4wFBVV95cUxORWNzdFNQYnVYNHhEUG91ajlqWXo0N2JEcEZvaFRlWTJhZDBONmI0d0V0VmZhdXBPeHV6V2tYbERiNDZkOEtpUVZjaVZjVEhISWY4TjR5RXoybFpTTjAtdHdxczhyNFd2bUg3UXYzejVyaFFVZzRxZzFQTXVnVkNiazdmYmlqVS1SZjhIYVJqWU9POFdGX3hkLTlMRVktY0hvWmlsYWlmQ3JBVnR4VUhobXB0LURJWUpIQVpXMFBYak01aUtlajI0SGdUSEJqbVcwYjRjWTNBekxiakZlelJTWDBGOA?oc=5",
-    "source": "nme",
-    "title": "Garbage cover The Cure and Placebo roll out fan favourites for Robert Smith's Teenage Cancer Trust gigs at Royal Albert Hall - NME",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORWNzdFNQYnVYNHhEUG91ajlqWXo0N2JEcEZvaFRlWTJhZDBONmI0d0V0VmZhdXBPeHV6V2tYbERiNDZkOEtpUVZjaVZjVEhISWY4TjR5RXoybFpTTjAtdHdxczhyNFd2bUg3UXYzejVyaFFVZzRxZzFQTXVnVkNiazdmYmlqVS1SZjhIYVJqWU9POFdGX3hkLTlMRVktY0hvWmlsYWlmQ3JBVnR4VUhobXB0LURJWUpIQVpXMFBYak01aUtlajI0SGdUSEJqbVcwYjRjWTNBekxiakZlelJTWDBGOA?oc=5",
-    "publishedAt": "2026-03-29T13:48:36.000Z",
-    "summary": "Garbage cover The Cure and Placebo roll out fan favourites for Robert Smith's Teenage Cancer Trust gigs at Royal Albert Hall NME",
     "image": null
   },
   {
