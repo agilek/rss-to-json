@@ -1,5 +1,86 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/latin/shakira-2026-us-tour-dates-las-mujeres-ya-no-lloran-tour-1236212574/",
+    "source": "billboard",
+    "title": "Shakira Adds Limited Run of U.S. Shows for Las Mujeres Ya No Lloran World Tour: Here Are the Dates",
+    "url": "https://www.billboard.com/music/latin/shakira-2026-us-tour-dates-las-mujeres-ya-no-lloran-tour-1236212574/",
+    "publishedAt": "2026-04-01T15:01:57.000Z",
+    "summary": "The Colombian megastar will kick off her 13-show trek stateside in June.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/inside-ryan-tedder-runner-music-hits-bts-new-album/",
+    "source": "billboard",
+    "title": "Inside Runner Music, the Indie Publisher Making Hits for BTS’ New Album & More: ‘We Have Great Ambitions’",
+    "url": "https://www.billboard.com/pro/inside-ryan-tedder-runner-music-hits-bts-new-album/",
+    "publishedAt": "2026-04-01T15:00:17.000Z",
+    "summary": "The three-year-old company has also crafted hits for Rosalía, Kane Brown and Tate McRae. Now, they're ready to talk about it.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/cass-mccombs-and-hand-habits-team-up-for-new-split-7/",
+    "source": "pitchfork",
+    "title": "Cass McCombs and Hand Habits Team Up for New Split 7\"",
+    "url": "https://pitchfork.com/news/cass-mccombs-and-hand-habits-team-up-for-new-split-7/",
+    "publishedAt": "2026-04-01T14:51:14.000Z",
+    "summary": "His contribution to the record, “Seeing the Elephant,” is out now with a music video",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/justin-bieber-coachella-sneak-preview-1235540010/",
+    "source": "rolling-stone",
+    "title": "Justin Bieber Shares a ‘Little Sneak Preview’ of Coachella Performance",
+    "url": "https://www.rollingstone.com/music/music-news/justin-bieber-coachella-sneak-preview-1235540010/",
+    "publishedAt": "2026-04-01T14:44:26.000Z",
+    "summary": "The star posted a clip from his secret Roxy Theater performance ahead of the festival",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/watch-tems-perform-what-you-need-on-fallon/",
+    "source": "pitchfork",
+    "title": "Watch Tems Perform “What You Need” on Fallon",
+    "url": "https://pitchfork.com/news/watch-tems-perform-what-you-need-on-fallon/",
+    "publishedAt": "2026-04-01T14:36:21.000Z",
+    "summary": "A ballad off her 2025 EP Love Is a Kingdom",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/montreux-jazz-festival-2026-raye-zara-pinkpantheress-1235540013/",
+    "source": "rolling-stone",
+    "title": "Montreux Jazz Festival 2026: Raye, Zara Larsson, PinkPantheress Lead Lineup",
+    "url": "https://www.rollingstone.com/music/music-news/montreux-jazz-festival-2026-raye-zara-pinkpantheress-1235540013/",
+    "publishedAt": "2026-04-01T14:21:20.000Z",
+    "summary": "From July 3 through 18, more than three dozen artists will perform at the Swiss two-venue event including Lewis Capaldi, Dermot Kennedy, Tyla, Conan Gray, John Legend, Young Miko, and more",
+    "image": null
+  },
+  {
+    "id": "louder-than-war-https://louderthanwar.com/song-of-the-day-kate-couriel-debut-single/",
+    "source": "louder-than-war",
+    "title": "Song of the day! Debut single from Kate Couriel ‘Patriarchy’s Dead’",
+    "url": "https://louderthanwar.com/song-of-the-day-kate-couriel-debut-single/",
+    "publishedAt": "2026-04-01T14:06:01.000Z",
+    "summary": "Song of the day! Kate Couriel debut single The post Song of the day! Debut single from Kate Couriel ‘Patriarchy’s Dead’ appeared first on Louder Than War.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/biggest-billboard-texas-hits/",
+    "source": "billboard",
+    "title": "From Abilene to Waco, The Biggest Billboard Texas Hits",
+    "url": "https://www.billboard.com/lists/biggest-billboard-texas-hits/",
+    "publishedAt": "2026-04-01T14:00:00.000Z",
+    "summary": "Ella Langley’s “Choosin’ Texas” continues a supersize tradition.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/rochelle-jordan-shares-chic-doing-it-too-video/",
+    "source": "pitchfork",
+    "title": "Rochelle Jordan Shares Chic “Doing It Too” Video",
+    "url": "https://pitchfork.com/news/rochelle-jordan-shares-chic-doing-it-too-video/",
+    "publishedAt": "2026-04-01T13:43:00.000Z",
+    "summary": "A collaboration with director-choreographer Fullout Cortland",
+    "image": null
+  },
+  {
     "id": "pitchfork-https://pitchfork.com/news/megan-thee-stallion-hospitalized-during-moulin-rouge-broadway-performance/",
     "source": "pitchfork",
     "title": "Megan Thee Stallion Hospitalized During Moulin Rouge! Broadway Performance",
@@ -81,12 +162,21 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVU9mX1BDMWlWSVZXaWpxX2RQWlhfc2JDcnB0dHhRZFdOdVh3RzZ4NUlQQUlkQTg1RUNxblMxMEhnZUU0S3NkNVhyc2phSnMxbE0wVUlIYzZ5T1pTcjNtQzRVeGc3b0ZqYTBwNTdmTDlhdGkzM1dKamdlcWw2MElTaXRkRWdEblFRdDVSTXhuYTdDZEUyUUE2aTI0LVJ5aHRDNkFKdHhfb0ZyaTBXbV9uMllTcDVaY0JHa2Q0Q2otU1RhOU1TNVpGUw?oc=5",
+    "source": "nme",
+    "title": "Viral duo Angine de Poitrine announce more 2026 UK and European tour dates due to phenomenal demand - NME",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVU9mX1BDMWlWSVZXaWpxX2RQWlhfc2JDcnB0dHhRZFdOdVh3RzZ4NUlQQUlkQTg1RUNxblMxMEhnZUU0S3NkNVhyc2phSnMxbE0wVUlIYzZ5T1pTcjNtQzRVeGc3b0ZqYTBwNTdmTDlhdGkzM1dKamdlcWw2MElTaXRkRWdEblFRdDVSTXhuYTdDZEUyUUE2aTI0LVJ5aHRDNkFKdHhfb0ZyaTBXbV9uMllTcDVaY0JHa2Q0Q2otU1RhOU1TNVpGUw?oc=5",
+    "publishedAt": "2026-04-01T12:34:04.000Z",
+    "summary": "Viral duo Angine de Poitrine announce more 2026 UK and European tour dates due to phenomenal demand NME",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-live-reviews/bruce-springsteen-tour-opener-minneapolis-set-list-1235539982/",
     "source": "rolling-stone",
     "title": "Bruce Springsteen Declares ‘War’ Against Trump at Defiant Tour Opener in Minneapolis",
     "url": "https://www.rollingstone.com/music/music-live-reviews/bruce-springsteen-tour-opener-minneapolis-set-list-1235539982/",
     "publishedAt": "2026-04-01T12:30:32.000Z",
-    "summary": "\"The America that I love, that's been a beacon of hope and liberty around the world, is in the hands of a corrupt, incompetent, racist, reckless, and treasonous administration,\" Springsteen said",
+    "summary": "“The America that I love, that’s been a beacon of hope and liberty around the world, is in the hands of a corrupt, incompetent, racist, reckless, and treasonous administration,” Springsteen said",
     "image": null
   },
   {
@@ -135,12 +225,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/pro/australia-parliament-copyright-bill-unlocks-orphan-works/",
-    "source": "billboard",
-    "title": "Australia’s Parliament Passes Copyright Bill That Unlocks Orphan Works",
-    "url": "https://www.billboard.com/pro/australia-parliament-copyright-bill-unlocks-orphan-works/",
-    "publishedAt": "2026-04-01T09:35:40.000Z",
-    "summary": "The Copyright Amendment Bill 2026 introduces for the first time an “orphan works” scheme.",
+    "id": "nme-https://news.google.com/rss/articles/CBMimwFBVV95cUxPRk9FSTVnaWxZS3lEUXFObGhvRHUxLVNtRXVNMHBwS0JaUEwzeHAtblZwQXBQdjdRdFdnajRKaFZKd1ZUOFpUSkdSc01pV2RjVklwaGVmMDh2akZKOGhuNGlwZlEzNEladVB1SlBreUd4dElMVVhrV3AydXVzclV3YWNuRVgyZ2k1Q3RkdUxSVEJwcEdENjBJbFNhOA?oc=5",
+    "source": "nme",
+    "title": "The Strokes tease return with new music: “We’ll be in touch” - NME",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRk9FSTVnaWxZS3lEUXFObGhvRHUxLVNtRXVNMHBwS0JaUEwzeHAtblZwQXBQdjdRdFdnajRKaFZKd1ZUOFpUSkdSc01pV2RjVklwaGVmMDh2akZKOGhuNGlwZlEzNEladVB1SlBreUd4dElMVVhrV3AydXVzclV3YWNuRVgyZ2k1Q3RkdUxSVEJwcEdENjBJbFNhOA?oc=5",
+    "publishedAt": "2026-04-01T10:05:25.000Z",
+    "summary": "The Strokes tease return with new music: “We’ll be in touch” NME",
     "image": null
   },
   {
@@ -153,30 +243,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/tems-late-night-performance-what-you-need-watch-1236212474/",
-    "source": "billboard",
-    "title": "Tems Strips It Right Back For Late-Night Performance of ‘What You Need’: Watch",
-    "url": "https://www.billboard.com/music/music-news/tems-late-night-performance-what-you-need-watch-1236212474/",
-    "publishedAt": "2026-04-01T08:16:54.000Z",
-    "summary": "Tems owned the \"Tonight Show\" stage, sparkling with Hollywood glamor in a long silver-white dress.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/bruce-springsteen-tour-minneapolis-best-moments/",
-    "source": "billboard",
-    "title": "Bruce Springsteen’s Tour Kickoff in Minneapolis: Fiery Speeches, a Prince Cover & More Best Moments",
-    "url": "https://www.billboard.com/lists/bruce-springsteen-tour-minneapolis-best-moments/",
-    "publishedAt": "2026-04-01T07:34:19.000Z",
-    "summary": "Following his protest song \"Streets of Minneapolis,\" the Boss brought his Land of Hope and Dreams American Tour to the Minnesota city.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/tems-what-you-need-performance-fallon-1235539975/",
     "source": "rolling-stone",
     "title": "Watch Tems Showcase ‘What You Need’ on ‘Fallon’",
     "url": "https://www.rollingstone.com/music/music-news/tems-what-you-need-performance-fallon-1235539975/",
     "publishedAt": "2026-04-01T07:19:36.000Z",
-    "summary": "The emotive track appeared on the singer's 2025 EP, Love Is a Kingdom",
+    "summary": "The emotive track appeared on the singer’s 2025 EP, Love Is a Kingdom",
     "image": null
   },
   {
@@ -185,7 +257,7 @@
     "title": "Lizzo Reveals She Lost Her Virginity in 2020 After Winning Three Grammys",
     "url": "https://www.rollingstone.com/music/music-news/lizzo-losing-virginity-grammy-win-interview-1235539968/",
     "publishedAt": "2026-04-01T06:53:41.000Z",
-    "summary": "\"I just promised myself when I was younger that I wouldn't have sex until I won a Grammy,\" she shared on the Friends Keep Secrets podcast",
+    "summary": "“I just promised myself when I was younger that I wouldn’t have sex until I won a Grammy,” she shared on the Friends Keep Secrets podcast",
     "image": null
   },
   {
@@ -194,7 +266,7 @@
     "title": "Bruce Springsteen Gets Political at Show in Minneapolis: ‘We Have a President Who Can’t Handle the Truth’",
     "url": "https://www.rollingstone.com/music/music-news/bruce-springsteen-trump-minneapolis-tour-opener-1235539958/",
     "publishedAt": "2026-04-01T05:41:54.000Z",
-    "summary": "During opening night of the Land of Hope and Dreams Tour with the E Street Band, Springsteen called on the audience to \"fight for the America that we love\"",
+    "summary": "During opening night of the Land of Hope and Dreams Tour with the E Street Band, Springsteen called on the audience to “fight for the America that we love”",
     "image": null
   },
   {
@@ -203,7 +275,7 @@
     "title": "Megan Thee Stallion Hospitalized After Becoming ‘Very Ill’ During ‘Moulin Rouge’ Broadway Performance",
     "url": "https://www.rollingstone.com/music/music-news/megan-thee-stallion-hospitalized-moulin-rouge-broadway-1235539940/",
     "publishedAt": "2026-04-01T03:17:30.000Z",
-    "summary": "The rapper's \"symptoms are currently being evaluated\" a spokesperson said in a statement",
+    "summary": "The rapper’s “symptoms are currently being evaluated” a spokesperson said in a statement",
     "image": null
   },
   {
@@ -288,30 +360,12 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/kid-rock-helicopter-aircrew-suspended-army-1235539583/",
-    "source": "rolling-stone",
-    "title": "U.S. Army Suspends Aircrew that Flew Attack Helicopters Near Kid Rock’s Home",
-    "url": "https://www.rollingstone.com/music/music-news/kid-rock-helicopter-aircrew-suspended-army-1235539583/",
-    "publishedAt": "2026-03-31T17:17:16.000Z",
-    "summary": "The singer shared a video of himself saluting one of the aircrafts on Saturday, which the Army identified as AH-64 Apache helicopters",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/news/fucked-ups-damian-abraham-is-now-making-movies/",
     "source": "pitchfork",
     "title": "Fucked Up’s Damian Abraham Is Now Making Movies",
     "url": "https://pitchfork.com/news/fucked-ups-damian-abraham-is-now-making-movies/",
     "publishedAt": "2026-03-31T17:16:07.000Z",
     "summary": "The hardcore frontman is teaming with a CBC producer to develop a TV and film slate",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/christopher-north-ambrosia-organ-player-dead-obtiuary-1235539605/",
-    "source": "rolling-stone",
-    "title": "Christopher North, Ambrosia’s Soulful Organ Player With a Fiery Stage Presence, Dead at 75",
-    "url": "https://www.rollingstone.com/music/music-news/christopher-north-ambrosia-organ-player-dead-obtiuary-1235539605/",
-    "publishedAt": "2026-03-31T17:11:30.000Z",
-    "summary": "The keyboardist was a founding member of the prog- and soft-rock group, best known for hits like “Biggest Part of Me” and “You’re the Only Woman (You & I)”",
     "image": null
   },
   {
@@ -342,39 +396,12 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/news/billy-strings-sets-fall-2026-us-tour/",
-    "source": "pitchfork",
-    "title": "Billy Strings Sets Fall 2026 U.S. Tour",
-    "url": "https://pitchfork.com/news/billy-strings-sets-fall-2026-us-tour/",
-    "publishedAt": "2026-03-31T14:59:49.000Z",
-    "summary": "The bluegrass savant will stop in Denver, Los Angeles, Baltimore, and more",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/news/thaiboy-digital-details-new-album-paradise/",
-    "source": "pitchfork",
-    "title": "Thaiboy Digital Details New Album Paradise",
-    "url": "https://pitchfork.com/news/thaiboy-digital-details-new-album-paradise/",
-    "publishedAt": "2026-03-31T14:54:35.000Z",
-    "summary": "The Drain Gang rapper’s latest is a full-length collaboration with the production collective Swedm",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/march-madness-rock-metal-decades-final-4/",
     "source": "loudwire",
     "title": "March Madness, Decades of Destruction - Vote Now in the Final 4",
     "url": "https://loudwire.com/march-madness-rock-metal-decades-final-4/",
     "publishedAt": "2026-03-31T14:52:50.000Z",
     "summary": "It's Black Sabbath Vs. Metallica and Pantera Vs. Slipknot in the Final 4 of the tournament. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/news/beth-orton-returns-with-the-ground-above/",
-    "source": "pitchfork",
-    "title": "Beth Orton Returns With “The Ground Above”",
-    "url": "https://pitchfork.com/news/beth-orton-returns-with-the-ground-above/",
-    "publishedAt": "2026-03-31T14:48:45.000Z",
-    "summary": "The singer-songwriter is readying a new phase after 2022’s Weather Alive",
     "image": null
   },
   {
@@ -585,24 +612,6 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMiswFBVV95cUxOTk8xV1lremFRTlNBeWxnU192QlJXQ3FzZzVLVm5LNFY3N2RFam1zS1dTZklVZXlhZzktNHozc1dWUDVxWUVZcFZNc2RrcnZYZzFlY3UzOFFKSnctd3NGaTRkaGNwWEdjRDM5cXF5Q1ROQWR2Z0ZPOTgwd01QQUltbVZIMWxIeVlBLVhCTVFpaFVvTnVxZG1UVUdBNGVZWW1ZT0ZxM1B6OVRGWkZpWENTQVBuUQ?oc=5",
-    "source": "nme",
-    "title": "Check out Placebo’s heavier re-worked version of classic ‘Bruise Pristine’ - NME",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTk8xV1lremFRTlNBeWxnU192QlJXQ3FzZzVLVm5LNFY3N2RFam1zS1dTZklVZXlhZzktNHozc1dWUDVxWUVZcFZNc2RrcnZYZzFlY3UzOFFKSnctd3NGaTRkaGNwWEdjRDM5cXF5Q1ROQWR2Z0ZPOTgwd01QQUltbVZIMWxIeVlBLVhCTVFpaFVvTnVxZG1UVUdBNGVZWW1ZT0ZxM1B6OVRGWkZpWENTQVBuUQ?oc=5",
-    "publishedAt": "2026-03-30T19:35:32.000Z",
-    "summary": "Check out Placebo’s heavier re-worked version of classic ‘Bruise Pristine’ NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYmVOelhyOUNMWWJ0MXZORjJKMGx6c1loSFVlUjh5THpkREM1eWp3c3V2MzNfTTJ4b3hTTExQc1Rja09rVlAwLVBSQWRQWXAzeVpGRnhzRlExbWlkRGNQMnhkMHc4bzRILWVER2ZIQnNoU21PTWFRRFBkeE93cDNQdEpQNU9PRFFrWS1teWVnSmVRU2dmTFM0dFc5aVd6WUpiZlpSekRUVXZvWU5WN3Z0Y3lSR0dsUGZpTmo1YTlHWF8xQQ?oc=5",
-    "source": "nme",
-    "title": "Paul McCartney temporarily banned from Reddit for posting photos from his own concert - NME",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYmVOelhyOUNMWWJ0MXZORjJKMGx6c1loSFVlUjh5THpkREM1eWp3c3V2MzNfTTJ4b3hTTExQc1Rja09rVlAwLVBSQWRQWXAzeVpGRnhzRlExbWlkRGNQMnhkMHc4bzRILWVER2ZIQnNoU21PTWFRRFBkeE93cDNQdEpQNU9PRFFrWS1teWVnSmVRU2dmTFM0dFc5aVd6WUpiZlpSekRUVXZvWU5WN3Z0Y3lSR0dsUGZpTmo1YTlHWF8xQQ?oc=5",
-    "publishedAt": "2026-03-30T14:17:28.000Z",
-    "summary": "Paul McCartney temporarily banned from Reddit for posting photos from his own concert NME",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/tigercub-koko-london-live-review/",
     "source": "louder-than-war",
     "title": "Tigercub: KOKO, London – Live Review",
@@ -618,15 +627,6 @@
     "url": "https://louderthanwar.com/shitkid-the-moth-club-london-live-review/",
     "publishedAt": "2026-03-30T12:02:17.000Z",
     "summary": "Shitkid The Moth Club, London Friday 27th March 2026 Robyn Skinner heads to The Moth Club to review and photograph Swedish music duo Shitkids first show in six years. What a night to be at London’s Moth Club. The day before, the venue had received news that a building development that was planned adjacent to […] The post Shitkid: The Moth Club, London – Live Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "louder-than-war-https://louderthanwar.com/stickin-boy-taurus-trakker-mick-jones-musical-preview-soundtrack-album-review/",
-    "source": "louder-than-war",
-    "title": "Stickin’ Boy: Taurus Trakker / Mick Jones – Musical Preview & Soundtrack Album Review",
-    "url": "https://louderthanwar.com/stickin-boy-taurus-trakker-mick-jones-musical-preview-soundtrack-album-review/",
-    "publishedAt": "2026-03-30T11:20:17.000Z",
-    "summary": "Taurus Trakker/Mick Jones: Stickin’ Boy ‘A Punk Rock Musical’ Soho, 1977, in the historic underbelly of London. The vice trade, punk rock, addiction, obsession, violence, street humour. This is the World of Stickin’ Boy. The late Joe Strummer was a great believer in the power of positive thought and the determination of people to achieve […] The post Stickin’ Boy: Taurus Trakker / Mick Jones – Musical Preview & Soundtrack Album Review appeared first on Louder Than War.",
     "image": null
   },
   {
