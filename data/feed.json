@@ -1,5 +1,41 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/lists/bruce-springsteen-tour-minneapolis-best-moments/",
+    "source": "billboard",
+    "title": "Bruce Springsteen’s Tour Kickoff in Minneapolis: Fiery Speeches, a Prince Cover & More Best Moments",
+    "url": "https://www.billboard.com/lists/bruce-springsteen-tour-minneapolis-best-moments/",
+    "publishedAt": "2026-04-01T07:34:19.000Z",
+    "summary": "Following his protest song \"Streets of Minneapolis,\" the Boss brought his Land of Hope and Dreams American Tour to the Minnesota city.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/tems-what-you-need-performance-fallon-1235539975/",
+    "source": "rolling-stone",
+    "title": "Watch Tems Showcase ‘What You Need’ on ‘Fallon’",
+    "url": "https://www.rollingstone.com/music/music-news/tems-what-you-need-performance-fallon-1235539975/",
+    "publishedAt": "2026-04-01T07:19:36.000Z",
+    "summary": "The emotive track appeared on the singer's 2025 EP, Love Is a Kingdom",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/lizzo-losing-virginity-grammy-win-interview-1235539968/",
+    "source": "rolling-stone",
+    "title": "Lizzo Reveals She Lost Her Virginity in 2020 After Winning Three Grammys",
+    "url": "https://www.rollingstone.com/music/music-news/lizzo-losing-virginity-grammy-win-interview-1235539968/",
+    "publishedAt": "2026-04-01T06:53:41.000Z",
+    "summary": "\"I just promised myself when I was younger that I wouldn't have sex until I won a Grammy,\" she shared on the Friends Keep Secrets podcast",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/missy-higgins-joe-dolce-australia-film-and-sound-archive-1236212358/",
+    "source": "billboard",
+    "title": "Songs by Missy Higgins, Joe Dolce Added to Australia’s Film and Sound Archive",
+    "url": "https://www.billboard.com/music/music-news/missy-higgins-joe-dolce-australia-film-and-sound-archive-1236212358/",
+    "publishedAt": "2026-04-01T06:39:49.000Z",
+    "summary": "Nine works are added to the Sounds of Australia 2026 collection, a capsule that is said to span “the intimate, the everyday and the unforgettable.”",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/bruce-springsteen-trump-minneapolis-tour-opener-1235539958/",
     "source": "rolling-stone",
     "title": "Bruce Springsteen Skewers Trump at U.S. Tour Opener: ‘We Have a President Who Can’t Handle the Truth’",
@@ -90,30 +126,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/pro/salt-n-pepa-appeal-revive-umg-music-ownership-lawsuit/",
-    "source": "billboard",
-    "title": "Salt-N-Pepa Music Ownership Appeal: Rappers Say UMG Unfairly Keeping ‘Lion’s Share’ of Royalties",
-    "url": "https://www.billboard.com/pro/salt-n-pepa-appeal-revive-umg-music-ownership-lawsuit/",
-    "publishedAt": "2026-03-31T23:59:59.000Z",
-    "summary": "The iconic hip-hop duo is hoping to revive its copyright termination lawsuit against the world's biggest music company.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/kid-rock-pete-hegseth-helicopter-pilots-suspensions-lifted-1235539886/",
     "source": "rolling-stone",
     "title": "Pete Hegseth Swiftly Lifts Suspension of Pilots Who Flew by Kid Rock’s House: ‘Carry on, Patriots’",
     "url": "https://www.rollingstone.com/music/music-news/kid-rock-pete-hegseth-helicopter-pilots-suspensions-lifted-1235539886/",
     "publishedAt": "2026-03-31T23:59:46.000Z",
     "summary": "“No punishment. No investigation. Carry on, patriots,” the defense secretary posted on social media",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/kid-rock-reacts-army-investigation-helicopter-flyby-1236211951/",
-    "source": "billboard",
-    "title": "Kid Rock Brushes Off Army Investigation After Helicopter Flyby: ‘They’re Going to Be All Right, My Buddy Is the Commander-in-Chief’",
-    "url": "https://www.billboard.com/music/music-news/kid-rock-reacts-army-investigation-helicopter-flyby-1236211951/",
-    "publishedAt": "2026-03-31T22:44:01.000Z",
-    "summary": "The U.S. Army confirmed they suspended flight crews involved in the unauthorized flyby at Kid Rock's Nashville home during latest No Kings protest.",
     "image": null
   },
   {
@@ -225,15 +243,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/journey-farewell-tour-interview-1235538787/",
-    "source": "rolling-stone",
-    "title": "Power Ballads, Bad Blood, and Sold-Out Shows: Inside Journey’s Massive Farewell Tour",
-    "url": "https://www.rollingstone.com/music/music-features/journey-farewell-tour-interview-1235538787/",
-    "publishedAt": "2026-03-31T16:00:00.000Z",
-    "summary": "To draw its wildly successful touring career to a close, the band has had to sort through decades of complicated history",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/news/jeff-parker-announces-eta-ivtet-album-happy-today/",
     "source": "pitchfork",
     "title": "Jeff Parker Announces ETA IVtet Album Happy Today",
@@ -258,15 +267,6 @@
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcU95S055cDdkaXBtVjRhdUs4eTk1M2ZJRHBnelpNdDd2N0hpc2tDMDF4TXN0eXhjSVEwTXliNkR2cmVpdm81WlU3bGNKbUt4QVVJMkphMXRyMG5maGlvQlItWHo3d2o1UFo2TzVXS1NyZVN2UEVCaG9Kd0lydTF4aVlSSWNEVUJWWDlrT0JYeHpoTzJleDAyNEZkdEExYjV6a2hfS0pkaHNrSHljejVJT3FRTFVKNW53RFVB?oc=5",
     "publishedAt": "2026-03-31T15:54:29.000Z",
     "summary": "Damon Albarn reveals why Gorillaz Netflix film was abandoned – and how it inspired 'Cracker Island' NME",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-album-reviews/yeat-adl-album-review-1235539354/",
-    "source": "rolling-stone",
-    "title": "After Conquering the Internet Underground, Yeat Goes for Stadium Status on ‘ADL’",
-    "url": "https://www.rollingstone.com/music/music-album-reviews/yeat-adl-album-review-1235539354/",
-    "publishedAt": "2026-03-31T15:41:34.000Z",
-    "summary": "The platinum rapper trades his punkish early work for more enunciation and less velocity. Does it work? Sort of",
     "image": null
   },
   {
