@@ -1,5 +1,14 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/pro/demise-bluesfest-suckerpunch-australia-festivals/",
+    "source": "billboard",
+    "title": "‘They’ve Done a Lot of Damage to the Festival Scene’: How The Demise of Bluesfest Has Been a Suckerpunch For an Industry In Crisis",
+    "url": "https://www.billboard.com/pro/demise-bluesfest-suckerpunch-australia-festivals/",
+    "publishedAt": "2026-04-02T07:43:28.000Z",
+    "summary": "The beloved Easter long-weekend festival was meant to get underway today, April 2.",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/ashlee-simpson-the-masked-singer-winner-1235540553/",
     "source": "rolling-stone",
     "title": "Ashlee Simpson Revealed as the Winner of ‘The Masked Singer’",
@@ -162,15 +171,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/where-to-buy-affordable-stagecoach-2026-tickets-online-1236212650/",
-    "source": "billboard",
-    "title": "Where to Buy Affordable Stagecoach 2026 Tickets Online",
-    "url": "https://www.billboard.com/culture/product-recommendations/where-to-buy-affordable-stagecoach-2026-tickets-online-1236212650/",
-    "publishedAt": "2026-04-01T21:19:00.000Z",
-    "summary": "The country music festival's headliners include Cody Johnson, Lainey Wilson and Post Malone.",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMiugFBVV95cUxQWWx1bUV3cmlWQnJzZlp4TEp6U0hURmVDWlVQTUttbVowTDZGOVNDMkR3Qzg0Wno2SlFKTnFVMjlIREx3SU1nV1MxUC1BYUF0M2xWOTFVMFMxc3B5RkZwQmZYZW1ZQTRKY1dUS2pvQ1FycDBsbWhHNnBraW1YLTA2SzN1dW11ZWZvMWx6c0pPR3JBVHZlcHFTY3g1X1ZIMnNaZEpZQ3NqSkFyS3pwUi1pUEhfMGNESkg4eWc?oc=5",
     "source": "nme",
     "title": "Fleetwood Mac’s Lindsey Buckingham attacked by woman in Santa Monica, police says - NME",
@@ -308,7 +308,7 @@
   {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/jon-bon-jovi-james-beard-impact-award-jbj-soul-foundation-1235540083/",
     "source": "rolling-stone",
-    "title": "Jon Bon Jovi Honored With James Beard Impact Award for JBJ Soul Foundation and Restuarant",
+    "title": "Jon Bon Jovi Honored With James Beard Impact Award for JBJ Soul Foundation and Restaurant",
     "url": "https://www.rollingstone.com/music/music-news/jon-bon-jovi-james-beard-impact-award-jbj-soul-foundation-1235540083/",
     "publishedAt": "2026-04-01T15:53:32.000Z",
     "summary": "The musician’s organizations help “break the cycle of hunger, poverty, and homelessness”",
