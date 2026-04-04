@@ -1,5 +1,32 @@
 [
   {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/thundercat-distracted-interview-1235541217/",
+    "source": "rolling-stone",
+    "title": "Thundercat Is Just as ‘Distracted’ as You Are",
+    "url": "https://www.rollingstone.com/music/music-features/thundercat-distracted-interview-1235541217/",
+    "publishedAt": "2026-04-04T16:07:59.000Z",
+    "summary": "On his new album, the Grammy winner tackles grief, modern dating, and internet overload—with humor and a hard-earned perspective",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/chad-gilbert-new-found-glory-cancer-update-interview-1235539496/",
+    "source": "rolling-stone",
+    "title": "Inside Chad Gilbert’s Latest Cancer Battle: ‘I Feel Very, Very Lucky’",
+    "url": "https://www.rollingstone.com/music/music-features/chad-gilbert-new-found-glory-cancer-update-interview-1235539496/",
+    "publishedAt": "2026-04-04T15:55:46.000Z",
+    "summary": "The New Found Glory guitarist opens up about recovering from surgery to remove a brain tumor",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/latin/aitana-joins-rosalia-confessional-lux-tour-madrid-1236215415/",
+    "source": "billboard",
+    "title": "Aitana Joins Rosalía’s ‘Confessional’ to Talk About a Past Love: ‘That’s Not It, Sister’",
+    "url": "https://www.billboard.com/music/latin/aitana-joins-rosalia-confessional-lux-tour-madrid-1236215415/",
+    "publishedAt": "2026-04-04T15:19:14.000Z",
+    "summary": "The guest artist sat in the confessional on April 3 during Rosalía's third night at Madrid's Movistar Arena.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/latin/j-balvin-surprises-fan-colombia-home-upliting-moments-1236215101/",
     "source": "billboard",
     "title": "J Balvin Surprises Fan in Colombia, Plans to Renovate Her Family Home & More Uplifting Moments in Latin Music",
@@ -33,6 +60,24 @@
     "url": "https://www.uncut.co.uk/features/we-nearly-abandoned-the-song-the-making-of-once-in-a-lifetime-by-talking-heads-153962/",
     "publishedAt": "2026-04-04T13:00:00.000Z",
     "summary": "An exuberant collision of downtown New York, Nigerian Afrobeat and Brian Eno's space-age production The post “We nearly abandoned the song” – The Making of “Once In A Lifetime” by Talking Heads appeared first on UNCUT.",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMiugFBVV95cUxORFRyUzVXNUZCYWhmY3hwTEU4UTZqaGsyTlV1dmNGRVU4SF9JNUJRTmtzTFpoSjNIYm1qWmVRcUhnZ0NkTHZuZnRHOW1sTS1YU2xGVFlERUlucmVjNkw5elVZN3BRQXRubTdWZFJMdjhpX2dTUDltcjhDVUJzM05rQ0VkcnRYNGl1SzFPWDJQTUphTFRlMDhNS09Qa01vTFZhazRMd1EwSlZteXFrOXdMczZOa0hNYnlrbUE?oc=5",
+    "source": "nme",
+    "title": "50 Cent asks God to \"forgive\" his enemies for \"misunderstanding\" him on Good Friday - NME",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORFRyUzVXNUZCYWhmY3hwTEU4UTZqaGsyTlV1dmNGRVU4SF9JNUJRTmtzTFpoSjNIYm1qWmVRcUhnZ0NkTHZuZnRHOW1sTS1YU2xGVFlERUlucmVjNkw5elVZN3BRQXRubTdWZFJMdjhpX2dTUDltcjhDVUJzM05rQ0VkcnRYNGl1SzFPWDJQTUphTFRlMDhNS09Qa01vTFZhazRMd1EwSlZteXFrOXdMczZOa0hNYnlrbUE?oc=5",
+    "publishedAt": "2026-04-04T10:29:31.000Z",
+    "summary": "50 Cent asks God to \"forgive\" his enemies for \"misunderstanding\" him on Good Friday NME",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMifEFVX3lxTE9nMWluVkh4ZmdMRlV4alpwQURmN1F2VTlabTNNbXhNamdpamU3ODlRRDNFb044Mno1T0RFNW9FS3hiVDNFckMzckN0Z2tOQXFlaVM1UXZnN3V5Z1JhcDJhZ2pYTUE0NnJ3Mk4zZk4zYlJFRzdlOWRIeUh6Mm4?oc=5",
+    "source": "nme",
+    "title": "Every song on ‘The Drama’ soundtrack - NME",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9nMWluVkh4ZmdMRlV4alpwQURmN1F2VTlabTNNbXhNamdpamU3ODlRRDNFb044Mno1T0RFNW9FS3hiVDNFckMzckN0Z2tOQXFlaVM1UXZnN3V5Z1JhcDJhZ2pYTUE0NnJ3Mk4zZk4zYlJFRzdlOWRIeUh6Mm4?oc=5",
+    "publishedAt": "2026-04-04T08:56:45.000Z",
+    "summary": "Every song on ‘The Drama’ soundtrack NME",
     "image": null
   },
   {
@@ -74,10 +119,10 @@
   {
     "id": "nme-https://news.google.com/rss/articles/CBMixAFBVV95cUxNUjlpYnJxTnplOFMtY0NST1JYU3pWRDdiV0R1QnJrNjdHLVVvLXZnNW9Rd25JSW5zMVZhTGlBWDZud3RWREtGY0M1RXMxX0J2aDhoaWl4MUd6Z0J4aklKeEhsWndYYWlyWGNwM1hJc3hVR1RtaVFLYmtzMGRCVjVMTGZLal9jZ3BIZkVOUktUQ2NkZDZlc0Jka043ZkhKMmR4ZTJCM0kwWUdWdVV6NDBTVDAxVTBBYjh2VVUxU0l4dy1sYVpG?oc=5",
     "source": "nme",
-    "title": "Zara Larsson hits out at sexist Chappell Roan critics: \"You guys just hate women, actually\" - nme.com",
+    "title": "Zara Larsson hits out at sexist Chappell Roan critics: \"You guys just hate women, actually\" - NME",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUjlpYnJxTnplOFMtY0NST1JYU3pWRDdiV0R1QnJrNjdHLVVvLXZnNW9Rd25JSW5zMVZhTGlBWDZud3RWREtGY0M1RXMxX0J2aDhoaWl4MUd6Z0J4aklKeEhsWndYYWlyWGNwM1hJc3hVR1RtaVFLYmtzMGRCVjVMTGZLal9jZ3BIZkVOUktUQ2NkZDZlc0Jka043ZkhKMmR4ZTJCM0kwWUdWdVV6NDBTVDAxVTBBYjh2VVUxU0l4dy1sYVpG?oc=5",
     "publishedAt": "2026-04-04T07:43:28.000Z",
-    "summary": "Zara Larsson hits out at sexist Chappell Roan critics: \"You guys just hate women, actually\" nme.com",
+    "summary": "Zara Larsson hits out at sexist Chappell Roan critics: \"You guys just hate women, actually\" NME",
     "image": null
   },
   {
@@ -162,15 +207,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/country/morgan-wallen-sharing-sneak-peeks-new-music-soon-1236215239/",
-    "source": "billboard",
-    "title": "Morgan Wallen Says He’ll Start Sharing ‘Sneak Peeks’ of New Music Soon: ‘I’m Still in the Early Stages’",
-    "url": "https://www.billboard.com/music/country/morgan-wallen-sharing-sneak-peeks-new-music-soon-1236215239/",
-    "publishedAt": "2026-04-03T22:08:59.000Z",
-    "summary": "Morgan Wallen performed a special show in Nashville to celebrate his upcoming SiriusXM channel Morgan Wallen Radio.",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/news/james-gadson-prolific-funk-and-disco-drummer-dies-at-86/",
     "source": "pitchfork",
     "title": "James Gadson, Prolific Funk and Disco Drummer, Dies at 86",
@@ -252,24 +288,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/james-gadson-drummer-obituary-1235541434/",
-    "source": "rolling-stone",
-    "title": "James Gadson, Drummer for Diana Ross and Bill Withers, Dead at 86",
-    "url": "https://www.rollingstone.com/music/music-news/james-gadson-drummer-obituary-1235541434/",
-    "publishedAt": "2026-04-03T17:39:59.000Z",
-    "summary": "Versatile drummer backed Jackson 5, Paul McCartney, D'Angelo, Kelly Clarkson, Justin Timberlake, Beck, and many others",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/thundercat-ravyn-lenae-arlo-parks-songs-you-need-to-know-1235541450/",
-    "source": "rolling-stone",
-    "title": "Thundercat, Ravyn Lenae, Arlo Parks, and All the Songs You Need to Know This Week",
-    "url": "https://www.rollingstone.com/music/music-features/thundercat-ravyn-lenae-arlo-parks-songs-you-need-to-know-1235541450/",
-    "publishedAt": "2026-04-03T17:28:52.000Z",
-    "summary": "Looking for the week’s best new music? Check out our Songs You Need to Know playlist",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/2026-rock-metal-tour-guide/",
     "source": "loudwire",
     "title": "The Rock + Metal Bands Touring in 2026 - Tour Guide",
@@ -290,10 +308,10 @@
   {
     "id": "nme-https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN0RJWXlMaEJ0akF2cjBJZVhHbDVnV05JN0RVU2ppTnBvM21kOTJlNjJVeGVFQV9KYzZFYTZlanUwdWtuUl9FVXpUa1lfZ2xScUN1Z2xncldzZzhQQnhtZk5lYmxmOVFnaWIwVTJvUVFZUjhqNFREU0phdHJjZEJiQlNnRDJzLTJrSmhLcDN2bU4xcGtYcFhQTXRhSXdSMTNsSGwwWDhacDE4em5TT1JobUV0NVN5OWo4TTU0?oc=5",
     "source": "nme",
-    "title": "Dolly Parton donates “generational and transformational” sum to children’s hospital - nme.com",
+    "title": "Dolly Parton donates “generational and transformational” sum to children’s hospital - NME",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN0RJWXlMaEJ0akF2cjBJZVhHbDVnV05JN0RVU2ppTnBvM21kOTJlNjJVeGVFQV9KYzZFYTZlanUwdWtuUl9FVXpUa1lfZ2xScUN1Z2xncldzZzhQQnhtZk5lYmxmOVFnaWIwVTJvUVFZUjhqNFREU0phdHJjZEJiQlNnRDJzLTJrSmhLcDN2bU4xcGtYcFhQTXRhSXdSMTNsSGwwWDhacDE4em5TT1JobUV0NVN5OWo4TTU0?oc=5",
     "publishedAt": "2026-04-03T15:39:43.000Z",
-    "summary": "Dolly Parton donates “generational and transformational” sum to children’s hospital nme.com",
+    "summary": "Dolly Parton donates “generational and transformational” sum to children’s hospital NME",
     "image": null
   },
   {
@@ -380,10 +398,10 @@
   {
     "id": "nme-https://news.google.com/rss/articles/CBMizwFBVV95cUxPRF9sWHlFclFMTWRpS3pjOTBVSDU5WTRFOFNNM0h6TS1BOFpZS2w3Zks1MDVTbmhDajlRMmxpUUNLc0R2TlNVZ0lrd0FjZXBscjRiX2NyVnBLYkUwZW5oTmcta3BFX25Ld0lCQU50OVRBeWJiRVlELXlCMExUVXF2aTZCNFFiSzF6ZnJRdmc5WVdOQ3IxNngyeEdMY1NHYWNoUzY2MTVqcnNWUVVwUlFfWTFyWTVPT21qR2YzUGVZRWNYYm9YVlJndHBCX243Qnc?oc=5",
     "source": "nme",
-    "title": "Jack White warms up for 'SNL' with two new singles 'G.O.D. And The Broken Ribs' and 'Derecho Demonico' - nme.com",
+    "title": "Jack White warms up for 'SNL' with two new singles 'G.O.D. And The Broken Ribs' and 'Derecho Demonico' - NME",
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRF9sWHlFclFMTWRpS3pjOTBVSDU5WTRFOFNNM0h6TS1BOFpZS2w3Zks1MDVTbmhDajlRMmxpUUNLc0R2TlNVZ0lrd0FjZXBscjRiX2NyVnBLYkUwZW5oTmcta3BFX25Ld0lCQU50OVRBeWJiRVlELXlCMExUVXF2aTZCNFFiSzF6ZnJRdmc5WVdOQ3IxNngyeEdMY1NHYWNoUzY2MTVqcnNWUVVwUlFfWTFyWTVPT21qR2YzUGVZRWNYYm9YVlJndHBCX243Qnc?oc=5",
     "publishedAt": "2026-04-03T12:00:44.000Z",
-    "summary": "Jack White warms up for 'SNL' with two new singles 'G.O.D. And The Broken Ribs' and 'Derecho Demonico' nme.com",
+    "summary": "Jack White warms up for 'SNL' with two new singles 'G.O.D. And The Broken Ribs' and 'Derecho Demonico' NME",
     "image": null
   },
   {
@@ -443,10 +461,10 @@
   {
     "id": "nme-https://news.google.com/rss/articles/CBMigwJBVV95cUxQQ3VXYmdxdTRyMkdEakpjTWtfdlB3MU02MHN4WUNBZ0ZFSTNxZFNjNkRieFhwY1FET3FMeXROVVl1ZHRWaGRJQXhXLUNoX2NVME15ZS1tWWhFNGUyb3RxTld0UmZUSXI0dGZzbkhGMHJyemN4WTYySmlMdEgtYkxKY0g0T3RBdC1yU2ZFSGxZUHY4SW5uN3puSWU3MGNSRkpKRlRmZ0RZa1VOOGlFVXNjcmJmSVJid1k4cGRLQTg3ZzhmenF2M0VpWEVPVXV4Vzg1RmNITFNpdGllckU1Q1lQMUhkNW9Mcjg4UG0zNEpDVVJ3WUNxdF81ODRaaWRHTVVPNm53?oc=5",
     "source": "nme",
-    "title": "The Edge on U2’s surprise new EP ‘Easter Lily’: “The songs are the boss, you have to do what they say or they’ll abandon you for someone else” - nme.com",
+    "title": "The Edge on U2’s surprise new EP ‘Easter Lily’: “The songs are the boss, you have to do what they say or they’ll abandon you for someone else” - NME",
     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQQ3VXYmdxdTRyMkdEakpjTWtfdlB3MU02MHN4WUNBZ0ZFSTNxZFNjNkRieFhwY1FET3FMeXROVVl1ZHRWaGRJQXhXLUNoX2NVME15ZS1tWWhFNGUyb3RxTld0UmZUSXI0dGZzbkhGMHJyemN4WTYySmlMdEgtYkxKY0g0T3RBdC1yU2ZFSGxZUHY4SW5uN3puSWU3MGNSRkpKRlRmZ0RZa1VOOGlFVXNjcmJmSVJid1k4cGRLQTg3ZzhmenF2M0VpWEVPVXV4Vzg1RmNITFNpdGllckU1Q1lQMUhkNW9Mcjg4UG0zNEpDVVJ3WUNxdF81ODRaaWRHTVVPNm53?oc=5",
     "publishedAt": "2026-04-03T08:20:29.000Z",
-    "summary": "The Edge on U2’s surprise new EP ‘Easter Lily’: “The songs are the boss, you have to do what they say or they’ll abandon you for someone else” nme.com",
+    "summary": "The Edge on U2’s surprise new EP ‘Easter Lily’: “The songs are the boss, you have to do what they say or they’ll abandon you for someone else” NME",
     "image": null
   },
   {
@@ -456,15 +474,6 @@
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWTFoR0ZLZmlXdUZNYnNQamMwSkw3NldxRGVlT25HNnQ0TXg5RVBtWVkxb0ZWQUFoQmg4bFNMNW9wcFhPSHRyT25udTh2eW1iSm9mbEl0MDhaeWROOXNISlFkNk1HSDdSc1JZTXJIMGtiNWJiU3YxM0I0MVNWMmFRbWVCN0V6UGxMOE8zUUpHcEZsR3dzMkNMZERLYUtoUGYzNzhMUkVRYzdFclotTGUyRzMwNFBqLXFEdVNvNEFR?oc=5",
     "publishedAt": "2026-04-03T07:29:33.000Z",
     "summary": "See first look of Jamie Bell as Duke Shelby in “new era” of ‘Peaky Blinders’ set in 1950s nme.com",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMimwFBVV95cUxQSi1NUWNmenFxSVFJN0ZXRHJ2OXA2WU1iOS1FRmdNNjlNU2d0MkMyWHJIdHM4d3k0NWJDSHN3OTJoRkRGZHNBb19aQk90QjdXb2FMT0d6QUhxU2NXeV9acF9FNnV3VmI5MWhCQXJ1T2tCNDNfUDRkUUtWUDh6VEhfRW1LVHdOdnB1WHpnMXl1U2ZzX1JuTWtzc1d4UQ?oc=5",
-    "source": "nme",
-    "title": "Earl Sweatshirt, MIKE and Surf Gang – ‘Pompeii // Utility’ review - nme.com",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSi1NUWNmenFxSVFJN0ZXRHJ2OXA2WU1iOS1FRmdNNjlNU2d0MkMyWHJIdHM4d3k0NWJDSHN3OTJoRkRGZHNBb19aQk90QjdXb2FMT0d6QUhxU2NXeV9acF9FNnV3VmI5MWhCQXJ1T2tCNDNfUDRkUUtWUDh6VEhfRW1LVHdOdnB1WHpnMXl1U2ZzX1JuTWtzc1d4UQ?oc=5",
-    "publishedAt": "2026-04-03T07:15:26.000Z",
-    "summary": "Earl Sweatshirt, MIKE and Surf Gang – ‘Pompeii // Utility’ review nme.com",
     "image": null
   },
   {
@@ -483,15 +492,6 @@
     "url": "https://loudwire.com/2026-hard-rock-metal-album-release-calendar/",
     "publishedAt": "2026-04-03T04:01:48.000Z",
     "summary": "See all the new releases coming each week of 2026. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMioAFBVV95cUxPLVJvVUkwamJyenpCRGh3QVlFb2NvZm8xeFdPeThDdWJ5Mzh6UnpLUTJ0MXdVWUdEa2pvMG5RSDJ0eHQ1cWVGVHFINGVyVVMxd3M5eUpzNE0xNDBXeUU1SldqM2s5RHg4US12NWNYUkd3MGdkRHhhX1BpWm0yam9rc2pOZ0dOR09wUF9paE1MY28xdVd6eTJ4SGJSSzFZRnE0?oc=5",
-    "source": "nme",
-    "title": "U2 mark Good Friday with another surprise new EP: ‘Easter Lily’ - NME",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLVJvVUkwamJyenpCRGh3QVlFb2NvZm8xeFdPeThDdWJ5Mzh6UnpLUTJ0MXdVWUdEa2pvMG5RSDJ0eHQ1cWVGVHFINGVyVVMxd3M5eUpzNE0xNDBXeUU1SldqM2s5RHg4US12NWNYUkd3MGdkRHhhX1BpWm0yam9rc2pOZ0dOR09wUF9paE1MY28xdVd6eTJ4SGJSSzFZRnE0?oc=5",
-    "publishedAt": "2026-04-03T04:00:43.000Z",
-    "summary": "U2 mark Good Friday with another surprise new EP: ‘Easter Lily’ NME",
     "image": null
   },
   {
