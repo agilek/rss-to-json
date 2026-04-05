@@ -1,5 +1,41 @@
 [
   {
+    "id": "pitchfork-https://pitchfork.com/news/heres-what-happened-at-the-xxs-first-show-in-eight-years/",
+    "source": "pitchfork",
+    "title": "Here’s What Happened at the xx’s First Show in Eight Years",
+    "url": "https://pitchfork.com/news/heres-what-happened-at-the-xxs-first-show-in-eight-years/",
+    "publishedAt": "2026-04-05T18:36:45.000Z",
+    "summary": "The trio brought “Intro,” “Crystalised,” and more to Mexico City’s Pepsi Center on Friday night",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/jack-white-forgets-guitar-solo-jack-black-snl-country-song-1236215499/",
+    "source": "billboard",
+    "title": "Jack White Hilariously Flubs Guitar Solo in Jack Black’s ‘SNL’ Country Song Sketch: Watch",
+    "url": "https://www.billboard.com/music/music-news/jack-white-forgets-guitar-solo-jack-black-snl-country-song-1236215499/",
+    "publishedAt": "2026-04-05T18:27:45.000Z",
+    "summary": "The rocker also served as musical guest during the Black-hosted episode on April 4.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/jack-white-snl-derecho-demonico-god-and-the-broken-ribs-1236215491/",
+    "source": "billboard",
+    "title": "Jack White Electrifies With New Songs ‘Derecho Demonico’ & ‘G.O.D. And The Broken Ribs’ on ‘SNL’: Watch",
+    "url": "https://www.billboard.com/music/music-news/jack-white-snl-derecho-demonico-god-and-the-broken-ribs-1236215491/",
+    "publishedAt": "2026-04-05T17:15:45.000Z",
+    "summary": "The Detroit rocker returned as musical guest alongside host Jack Black on April 4.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/guns-n-roses-perform-bad-apples-live-first-time-1991-1235542026/",
+    "source": "rolling-stone",
+    "title": "See Guns N’ Roses Perform ‘Bad Apples’ Live for First Time Since 1991",
+    "url": "https://www.rollingstone.com/music/music-news/guns-n-roses-perform-bad-apples-live-first-time-1991-1235542026/",
+    "publishedAt": "2026-04-05T16:43:57.000Z",
+    "summary": "Band plays Use Your Illusion I track in concert for first time in 35 years... and even more surprises might be ahead for 2026 tour",
+    "image": null
+  },
+  {
     "id": "loudwire-https://loudwire.com/black-sabbath-geezer-butler-bill-ward-monsterpalooza-2026/",
     "source": "loudwire",
     "title": "Geezer Butler + Bill Ward Will Appear at Monsterpalooza 2026",
@@ -15,6 +51,15 @@
     "url": "https://www.billboard.com/music/music-news/pepsi-drops-wireless-festival-sponsorship-kanye-west-1236215480/",
     "publishedAt": "2026-04-05T15:51:34.000Z",
     "summary": "The British prime minister also called the rap star’s upcoming appearance “deeply concerning.”",
+    "image": null
+  },
+  {
+    "id": "louder-than-war-https://louderthanwar.com/pegasuses-sea-of-joy-album-review/",
+    "source": "louder-than-war",
+    "title": "Pegasuses: Sea Of Joy  – album review",
+    "url": "https://louderthanwar.com/pegasuses-sea-of-joy-album-review/",
+    "publishedAt": "2026-04-05T15:14:29.000Z",
+    "summary": "Album Review Pegasuses Sea Of Joy via Bandcamp and Streaming platforms Bespoke CD’s from the band on request Out Now! Debut album from Southampton band, described variously as ‘close-harmony superstars’ and ‘neo-vintage-gothic-country’ by reviewer Dan O’Farrell What’s your favourite sound in music? James Brown’s scream? Pete Townshend’s Rickenbacker crunch? Hope Sandoval’s whispery sigh? All these […] The post Pegasuses: Sea Of Joy – album review appeared first on Louder Than War.",
     "image": null
   },
   {
@@ -216,15 +261,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/kanye-west-lauryn-hill-travis-scott-second-la-show-sofi-1236215429/",
-    "source": "billboard",
-    "title": "Ye Welcomes Lauryn Hill and Travis Scott During Second L.A. Stadium Show",
-    "url": "https://www.billboard.com/music/music-news/kanye-west-lauryn-hill-travis-scott-second-la-show-sofi-1236215429/",
-    "publishedAt": "2026-04-04T17:10:26.000Z",
-    "summary": "Other guest appearances at the April 3 SoFi Stadium concert included North West and CeeLo Green.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-features/thundercat-distracted-interview-1235541217/",
     "source": "rolling-stone",
     "title": "Thundercat Is Just as ‘Distracted’ as You Are",
@@ -240,15 +276,6 @@
     "url": "https://www.rollingstone.com/music/music-features/chad-gilbert-new-found-glory-cancer-update-interview-1235539496/",
     "publishedAt": "2026-04-04T15:55:46.000Z",
     "summary": "The New Found Glory guitarist opens up about recovering from surgery to remove a brain tumor",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/latin/aitana-joins-rosalia-confessional-lux-tour-madrid-1236215415/",
-    "source": "billboard",
-    "title": "Aitana Joins Rosalía’s ‘Confessional’ to Talk About a Past Love: ‘That’s Not It, Sister’",
-    "url": "https://www.billboard.com/music/latin/aitana-joins-rosalia-confessional-lux-tour-madrid-1236215415/",
-    "publishedAt": "2026-04-04T15:19:14.000Z",
-    "summary": "The guest artist sat in the confessional on April 3 during Rosalía's third night at Madrid's Movistar Arena.",
     "image": null
   },
   {
@@ -414,15 +441,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/yes-postpone-european-tour-steve-howe-surgery-1235541573/",
-    "source": "rolling-stone",
-    "title": "Yes Postpone European Tour so Guitarist Steve Howe Can Undergo ‘Essential Surgery’",
-    "url": "https://www.rollingstone.com/music/music-news/yes-postpone-european-tour-steve-howe-surgery-1235541573/",
-    "publishedAt": "2026-04-03T18:52:19.000Z",
-    "summary": "\"This decision has been made to ensure that Steve can return to the stage in full health and deliver the performances that fans deserve,\" reads a statement from the band",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/features/the-edge-my-life-in-music-154003/",
     "source": "uncut",
     "title": "U2’s The Edge – My Life In Music",
@@ -474,15 +492,6 @@
     "url": "https://louderthanwar.com/things-we-didnt-know-march-2026/",
     "publishedAt": "2026-04-03T15:14:24.000Z",
     "summary": "The first quarter of 2026 is already behind us and Keith Goldhanger has a small selection of DIY Dance acts that have been appearing during this time that he recommends are worth polishing your dancing shoes for. You may or may not be aware that there are pubs around East London where you can stand […] The post Things We Didn’t Know: March 2026 appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "louder-than-war-https://louderthanwar.com/manchester-psych-fest-festival-preview-2/",
-    "source": "louder-than-war",
-    "title": "Manchester Psych Fest: Festival Preview",
-    "url": "https://louderthanwar.com/manchester-psych-fest-festival-preview-2/",
-    "publishedAt": "2026-04-03T15:11:45.000Z",
-    "summary": "Manchester Psych Fest Various Venues, Manchester 5th September 2026 Manchester’s hugely popular experimental gathering returns to the city in September, once again attracting the most headline-grabbing names to the top of its lineup, while pushing a dazzling array of underground acts to the fore. Headliners Stereolab, The Beta Band, and viral polka-dot microtonal curiosities Angie […] The post Manchester Psych Fest: Festival Preview appeared first on Louder Than War.",
     "image": null
   },
   {
@@ -591,15 +600,6 @@
     "url": "https://pitchfork.com/news/pooh-shiesty-arrested-on-robbery-kidnapping-charges-over-alleged-gucci-mane-label-dispute/",
     "publishedAt": "2026-04-02T23:34:05.000Z",
     "summary": "The rapper was arrested on April 1 along with seven other suspects",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/news/king-princess-to-star-in-aimee-manns-girl-interrupted-musical/",
-    "source": "pitchfork",
-    "title": "King Princess to Star in Aimee Mann’s Girl, Interrupted Musical",
-    "url": "https://pitchfork.com/news/king-princess-to-star-in-aimee-manns-girl-interrupted-musical/",
-    "publishedAt": "2026-04-02T21:24:23.000Z",
-    "summary": "Mikaela Straus will make her theatrical debut as Lisa, the same role Angelina Jolie played in the 1999 film",
     "image": null
   },
   {
