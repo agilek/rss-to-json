@@ -1,5 +1,32 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/lists/top-country-albums-number-ones-biggest/",
+    "source": "billboard",
+    "title": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
+    "url": "https://www.billboard.com/lists/top-country-albums-number-ones-biggest/",
+    "publishedAt": "2026-04-05T20:02:19.000Z",
+    "summary": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/guns-n-roses-bad-apples-live-first-time-35-years-sao-paulo-1236215510/",
+    "source": "billboard",
+    "title": "Guns N’ Roses Play Rare Deep Cut Live for First Time in 35 Years at São Paulo Show",
+    "url": "https://www.billboard.com/music/music-news/guns-n-roses-bad-apples-live-first-time-35-years-sao-paulo-1236215510/",
+    "publishedAt": "2026-04-05T19:46:38.000Z",
+    "summary": "The band performed the Use Your Illusion I track at Monsters of Rock Brazil on April 4.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/bts-arirang-second-week-number-one-billboard-200-chart-1236215482/",
+    "source": "billboard",
+    "title": "BTS’ ‘ARIRANG’ Spends Second Week Atop Billboard 200",
+    "url": "https://www.billboard.com/music/chart-beat/bts-arirang-second-week-number-one-billboard-200-chart-1236215482/",
+    "publishedAt": "2026-04-05T19:00:03.000Z",
+    "summary": "Plus, Ye, Melanie Martinez and Yeat debut in the top 10.",
+    "image": null
+  },
+  {
     "id": "pitchfork-https://pitchfork.com/news/heres-what-happened-at-the-xxs-first-show-in-eight-years/",
     "source": "pitchfork",
     "title": "Here’s What Happened at the xx’s First Show in Eight Years",
@@ -24,6 +51,15 @@
     "url": "https://www.billboard.com/music/music-news/jack-white-snl-derecho-demonico-god-and-the-broken-ribs-1236215491/",
     "publishedAt": "2026-04-05T17:15:45.000Z",
     "summary": "The Detroit rocker returned as musical guest alongside host Jack Black on April 4.",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVl80RXdGNEJJUkJRdWR1R3dxQ2xBcS10a080dkEwcGpGWU5VQ240dTVQdXhxczFiOUtQRms0VTNUYWJNM3g2VUlpcUNPd2VTZnpRVzBtVkdJTTVXZktObkw5dkZSRlVpYXpWdFFpVi0zb1RNeERiZ2hUVVEzVzMtSUFfX2laT29idHZqY3JfZU1ROERJelBWWjJRMXI4b0dYUVhjbGxib1N2THl0YUFpUldkOVBWZE1zRTFOYVgzWDZaaEJaSDZ2ZWkxdDhzQ3BxbUNJdmRHMy1YcklNRXF3Q2kyN3RIS0lo?oc=5",
+    "source": "nme",
+    "title": "Sky Ferreira suggests parts of Charli XCX's 'Wuthering Heights' are based on her \"old songs\": \"I have proof of everything\" - NME",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVl80RXdGNEJJUkJRdWR1R3dxQ2xBcS10a080dkEwcGpGWU5VQ240dTVQdXhxczFiOUtQRms0VTNUYWJNM3g2VUlpcUNPd2VTZnpRVzBtVkdJTTVXZktObkw5dkZSRlVpYXpWdFFpVi0zb1RNeERiZ2hUVVEzVzMtSUFfX2laT29idHZqY3JfZU1ROERJelBWWjJRMXI4b0dYUVhjbGxib1N2THl0YUFpUldkOVBWZE1zRTFOYVgzWDZaaEJaSDZ2ZWkxdDhzQ3BxbUNJdmRHMy1YcklNRXF3Q2kyN3RIS0lo?oc=5",
+    "publishedAt": "2026-04-05T16:48:44.000Z",
+    "summary": "Sky Ferreira suggests parts of Charli XCX's 'Wuthering Heights' are based on her \"old songs\": \"I have proof of everything\" NME",
     "image": null
   },
   {
@@ -144,6 +180,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMisgFBVV95cUxNRnRTc2xHZmlfdlBfWW5QTDU0RUZJTmg4UlBKS3p3VjFCVlBaWkZLWjhYWEpTbVdGWXBnQjVZbFAtUkxURGptZzRULVMxSlFQS1ZsZUdxTXBPME5hbVQzZmpmUGt5ODd0N1hiMTd6dDZBYmJnWlJoWDY5a1VaTnhySTV4QmRHMGxUNlVnRTBVcWhEa1VMU1BGT1QzeDREZzB5a285ZUpmeWlfSS1pMlRxMmV3?oc=5",
+    "source": "nme",
+    "title": "Watch Kasabian perform ‘Release the Pressure’ and ‘Great Pretender’ on ‘SNL UK’ - NME",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRnRTc2xHZmlfdlBfWW5QTDU0RUZJTmg4UlBKS3p3VjFCVlBaWkZLWjhYWEpTbVdGWXBnQjVZbFAtUkxURGptZzRULVMxSlFQS1ZsZUdxTXBPME5hbVQzZmpmUGt5ODd0N1hiMTd6dDZBYmJnWlJoWDY5a1VaTnhySTV4QmRHMGxUNlVnRTBVcWhEa1VMU1BGT1QzeDREZzB5a285ZUpmeWlfSS1pMlRxMmV3?oc=5",
+    "publishedAt": "2026-04-05T09:33:39.000Z",
+    "summary": "Watch Kasabian perform ‘Release the Pressure’ and ‘Great Pretender’ on ‘SNL UK’ NME",
+    "image": null
+  },
+  {
     "id": "uncut-https://www.uncut.co.uk/reviews/tenderness-true-reviewed-emotionally-rich-country-flecked-debut-154011/",
     "source": "uncut",
     "title": "Tenderness’ True reviewed: emotionally rich, country‑flecked debut",
@@ -234,33 +279,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/yes-postpones-european-fragile-tour-steve-howe-surgery-1236215445/",
-    "source": "billboard",
-    "title": "Yes Postpones European ‘Fragile’ Tour as Guitarist Steve Howe Prepares for ‘Essential Operation’",
-    "url": "https://www.billboard.com/music/music-news/yes-postpones-european-fragile-tour-steve-howe-surgery-1236215445/",
-    "publishedAt": "2026-04-04T19:56:54.000Z",
-    "summary": "\"This decision has been made to ensure that Steve can return to the stage in full health,\" the band wrote.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/james-gadson-death-drummer-dies-diana-ross-bill-withers-1236215434/",
-    "source": "billboard",
-    "title": "Legendary Drummer James Gadson, Who Backed Diana Ross, Bill Withers & Marvin Gaye, Dies at 86",
-    "url": "https://www.billboard.com/music/music-news/james-gadson-death-drummer-dies-diana-ross-bill-withers-1236215434/",
-    "publishedAt": "2026-04-04T18:55:10.000Z",
-    "summary": "Tributes poured in from Questlove, Beck and other artists.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/how-to-watch-saturday-night-live-online-free-9546472/",
-    "source": "billboard",
-    "title": "‘Saturday Night Live’: Where to Watch the Sketch Comedy Show Online for Free",
-    "url": "https://www.billboard.com/culture/product-recommendations/how-to-watch-saturday-night-live-online-free-9546472/",
-    "publishedAt": "2026-04-04T18:00:52.000Z",
-    "summary": "Jack Black hosts and Jack White performs as musical guest on Saturday, April 4.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-features/thundercat-distracted-interview-1235541217/",
     "source": "rolling-stone",
     "title": "Thundercat Is Just as ‘Distracted’ as You Are",
@@ -339,24 +357,6 @@
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc3kzcFljOGlHV0hSUGEweDYzWFc3b1J4MmZockNHUmQ5RUJLSkxtZjJaTl96WGJfT2s0eWlqZjc3SXlHSVRDcko1UVowUGx0Q2p6QjgzcXdpQm9qUmxjUXY4Yk5aVEZJYTBSbjF6SVBoOTVSR2xLYTlEcFN1NHFkNlFOc1NyZC1lTG1GYXF4ZmEyQQ?oc=5",
     "publishedAt": "2026-04-04T09:36:30.000Z",
     "summary": "BTS unveil hidden ‘AIRIRANG’ track produced by Suga NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMifEFVX3lxTE9nMWluVkh4ZmdMRlV4alpwQURmN1F2VTlabTNNbXhNamdpamU3ODlRRDNFb044Mno1T0RFNW9FS3hiVDNFckMzckN0Z2tOQXFlaVM1UXZnN3V5Z1JhcDJhZ2pYTUE0NnJ3Mk4zZk4zYlJFRzdlOWRIeUh6Mm4?oc=5",
-    "source": "nme",
-    "title": "Every song on ‘The Drama’ soundtrack - NME",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9nMWluVkh4ZmdMRlV4alpwQURmN1F2VTlabTNNbXhNamdpamU3ODlRRDNFb044Mno1T0RFNW9FS3hiVDNFckMzckN0Z2tOQXFlaVM1UXZnN3V5Z1JhcDJhZ2pYTUE0NnJ3Mk4zZk4zYlJFRzdlOWRIeUh6Mm4?oc=5",
-    "publishedAt": "2026-04-04T08:56:45.000Z",
-    "summary": "Every song on ‘The Drama’ soundtrack NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMiygFBVV95cUxOQ2N3Q2VzTlUtLUJST3hzS0pKcmpTZHFLTDN1RWF3Nlc2dXFQLXJVaEZ1SkluS3Rzalpiel9MM1VYbmVMWHFEWWo5YlNQZVBLMWlTdDNySl9PeUh6aDFFclBLNHBhXzNuQVpRbUxPem5OUlN1cEw2MW5fNE56T3JfODY1dURFMEROUWZVZnlHNXMyeVBFOFZ4MFItbVFaM0k4OXd4U1FuREVVN09aTE9WdWhpVm5oWDVlZFdaNDlrQUo0Y3BaYTBJZFhB?oc=5",
-    "source": "nme",
-    "title": "Kanye West brings out Lauryn Hill and Travis Scott for raucous second night at SoFi Stadium - NME",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQ2N3Q2VzTlUtLUJST3hzS0pKcmpTZHFLTDN1RWF3Nlc2dXFQLXJVaEZ1SkluS3Rzalpiel9MM1VYbmVMWHFEWWo5YlNQZVBLMWlTdDNySl9PeUh6aDFFclBLNHBhXzNuQVpRbUxPem5OUlN1cEw2MW5fNE56T3JfODY1dURFMEROUWZVZnlHNXMyeVBFOFZ4MFItbVFaM0k4OXd4U1FuREVVN09aTE9WdWhpVm5oWDVlZFdaNDlrQUo0Y3BaYTBJZFhB?oc=5",
-    "publishedAt": "2026-04-04T08:51:08.000Z",
-    "summary": "Kanye West brings out Lauryn Hill and Travis Scott for raucous second night at SoFi Stadium NME",
     "image": null
   },
   {
