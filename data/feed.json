@@ -1,5 +1,32 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/lists/k-pop-albums-number-one-billboard-200-albums-full-list/",
+    "source": "billboard",
+    "title": "Here Are All the K-Pop Albums That Have Topped the Billboard 200: Full List",
+    "url": "https://www.billboard.com/lists/k-pop-albums-number-one-billboard-200-albums-full-list/",
+    "publishedAt": "2026-04-05T21:18:21.000Z",
+    "summary": "BTS was the first K-pop act to top the all-genre chart; BLACKPINK was the first female K-pop act to do so.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/lululemon-all-night-festival-bag-buy-online-1235966327/",
+    "source": "billboard",
+    "title": "Lululemon Updates Viral Festival Bag With Some Serious Streetwear Cred: Shop the Crossbody Here",
+    "url": "https://www.billboard.com/culture/product-recommendations/lululemon-all-night-festival-bag-buy-online-1235966327/",
+    "publishedAt": "2026-04-05T20:53:00.000Z",
+    "summary": "With a cozy crossbody strap and multiple ways to wear it, this bag will be your new music festival go-to.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/kanye-bully-charts-no-2-1235542052/",
+    "source": "rolling-stone",
+    "title": "Despite Controversy, Ye’s ‘Bully’ Debuts at No.2 on the Billboard 200",
+    "url": "https://www.rollingstone.com/music/music-news/kanye-bully-charts-no-2-1235542052/",
+    "publishedAt": "2026-04-05T20:48:09.000Z",
+    "summary": "Fresh off his run of sold-out shows in Los Angeles, Bully becomes the rapper's 14th top 10 album",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/lists/top-country-albums-number-ones-biggest/",
     "source": "billboard",
     "title": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
@@ -90,6 +117,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMizwFBVV95cUxPNUFEVW9ONzFYRzFFVm9KOE9WXzJEN3BWYlAyNmxVS0hSMXBvbnBONU5JMjNsemtLTE45OVhLdDRXdXhudzNUUk9ZU2R2RW1iSGpzX0NDR3I2UlFsTjlaLUp1bU5QdXpTWkRadXlIb21ZN3U3M1pINjcyVER6WUNVa092OHlGU1o1VHFlQkYxY0Y5c2c5Zk9NbnVvMGN2czBsdWkzODdyRnFfd3NSaXpHNmxEY1FEM3VqZmhCY0Y4blVBOG1NdXhIcE9JRTVubmc?oc=5",
+    "source": "nme",
+    "title": "Watch Jack Black improvise new lyrics to ‘Seven Nation Army’ with Jack White during ‘SNL’ monologue - NME",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNUFEVW9ONzFYRzFFVm9KOE9WXzJEN3BWYlAyNmxVS0hSMXBvbnBONU5JMjNsemtLTE45OVhLdDRXdXhudzNUUk9ZU2R2RW1iSGpzX0NDR3I2UlFsTjlaLUp1bU5QdXpTWkRadXlIb21ZN3U3M1pINjcyVER6WUNVa092OHlGU1o1VHFlQkYxY0Y5c2c5Zk9NbnVvMGN2czBsdWkzODdyRnFfd3NSaXpHNmxEY1FEM3VqZmhCY0Y4blVBOG1NdXhIcE9JRTVubmc?oc=5",
+    "publishedAt": "2026-04-05T15:42:30.000Z",
+    "summary": "Watch Jack Black improvise new lyrics to ‘Seven Nation Army’ with Jack White during ‘SNL’ monologue NME",
+    "image": null
+  },
+  {
     "id": "louder-than-war-https://louderthanwar.com/pegasuses-sea-of-joy-album-review/",
     "source": "louder-than-war",
     "title": "Pegasuses: Sea Of Joy  – album review",
@@ -104,7 +140,7 @@
     "title": "Watch Jack White and Jack Black Reimagine “Seven Nation Army” on SNL",
     "url": "https://pitchfork.com/news/watch-jack-white-and-jack-black-reimagine-seven-nation-army-on-snl/",
     "publishedAt": "2026-04-05T14:51:39.000Z",
-    "summary": "The Jacks whipped up a special version of the track to celebrate joining the Five-Timers club",
+    "summary": "The Jacks whipped up a special version of the track to celebrate Black’s induction into the Five-Timers Club",
     "image": null
   },
   {
@@ -252,30 +288,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/how-to-watch-uconn-illinois-final-four-game-online-1236215456/",
-    "source": "billboard",
-    "title": "UConn vs Illinois: How to Watch the March Madness Final Four Game Online for Free",
-    "url": "https://www.billboard.com/culture/product-recommendations/how-to-watch-uconn-illinois-final-four-game-online-1236215456/",
-    "publishedAt": "2026-04-04T21:42:04.000Z",
-    "summary": "The Final Four game tips off 6:09 p.m. ET.",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQVlMTjg1TjdfeGJCbFprYnBqclA0LUZsZURYdUVJbzd4T082NVg1X280VU9aaTgxSENVcXhrSmI3V2lqcUh5bFUyZHNRZGFFTkh1LS12SzFmNmFMUUV1RTlCSlJGMW9YWFVWTThNbmNjV1RTZFdyUzN4UW9KZUk0R1NyaGJnZS04b1hlV2doMW9xbWR4ZTBkYWpyc1R1a1RZS3I0czFHLXV6cDd3LWtyY1VyelJNY0lYQXkzS3phLVE4aHk1QzFUR1dPR1hpRi1taVdxWVZsQVhNNFJqeURkUDN2NUw0bUtGaDAw?oc=5",
     "source": "nme",
     "title": "Seth Rogen on the “unbelievable challenge” of making ‘The Studio’ season two without Catherine O’Hara: “We are not ignoring it” - NME",
     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQVlMTjg1TjdfeGJCbFprYnBqclA0LUZsZURYdUVJbzd4T082NVg1X280VU9aaTgxSENVcXhrSmI3V2lqcUh5bFUyZHNRZGFFTkh1LS12SzFmNmFMUUV1RTlCSlJGMW9YWFVWTThNbmNjV1RTZFdyUzN4UW9KZUk0R1NyaGJnZS04b1hlV2doMW9xbWR4ZTBkYWpyc1R1a1RZS3I0czFHLXV6cDd3LWtyY1VyelJNY0lYQXkzS3phLVE4aHk1QzFUR1dPR1hpRi1taVdxWVZsQVhNNFJqeURkUDN2NUw0bUtGaDAw?oc=5",
     "publishedAt": "2026-04-04T21:34:56.000Z",
     "summary": "Seth Rogen on the “unbelievable challenge” of making ‘The Studio’ season two without Catherine O’Hara: “We are not ignoring it” NME",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/shiloh-jolie-dayoung-music-video-cameo-whats-a-girl-to-do-1236215451/",
-    "source": "billboard",
-    "title": "Angelina Jolie’s Daughter Shiloh Makes Surprise Cameo in Dayoung’s ‘What’s a Girl to Do’ Music Video: Watch",
-    "url": "https://www.billboard.com/music/music-news/shiloh-jolie-dayoung-music-video-cameo-whats-a-girl-to-do-1236215451/",
-    "publishedAt": "2026-04-04T21:17:37.000Z",
-    "summary": "The K-pop singer’s new video drops on April 7.",
     "image": null
   },
   {
@@ -351,15 +369,6 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMikgFBVV95cUxOc3kzcFljOGlHV0hSUGEweDYzWFc3b1J4MmZockNHUmQ5RUJLSkxtZjJaTl96WGJfT2s0eWlqZjc3SXlHSVRDcko1UVowUGx0Q2p6QjgzcXdpQm9qUmxjUXY4Yk5aVEZJYTBSbjF6SVBoOTVSR2xLYTlEcFN1NHFkNlFOc1NyZC1lTG1GYXF4ZmEyQQ?oc=5",
-    "source": "nme",
-    "title": "BTS unveil hidden ‘AIRIRANG’ track produced by Suga - NME",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc3kzcFljOGlHV0hSUGEweDYzWFc3b1J4MmZockNHUmQ5RUJLSkxtZjJaTl96WGJfT2s0eWlqZjc3SXlHSVRDcko1UVowUGx0Q2p6QjgzcXdpQm9qUmxjUXY4Yk5aVEZJYTBSbjF6SVBoOTVSR2xLYTlEcFN1NHFkNlFOc1NyZC1lTG1GYXF4ZmEyQQ?oc=5",
-    "publishedAt": "2026-04-04T09:36:30.000Z",
-    "summary": "BTS unveil hidden ‘AIRIRANG’ track produced by Suga NME",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/ferocious-dog-announce-final-tour-dates/",
     "source": "louder-than-war",
     "title": "Ferocious Dog announce final tour dates",
@@ -411,15 +420,6 @@
     "url": "https://pitchfork.com/news/james-gadson-prolific-funk-and-disco-drummer-dies-at-86/",
     "publishedAt": "2026-04-03T20:49:27.000Z",
     "summary": "Gadson’s work behind the kit can be heard on hit records by Bill Withers, the Jackson 5, and Diana Ross",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/zara-larsson-chappell-roan-sexism-1235541618/",
-    "source": "rolling-stone",
-    "title": "Zara Larsson Blasts Sexist Chappell Roan Critics: ‘You Guys Just Hate Women’",
-    "url": "https://www.rollingstone.com/music/music-news/zara-larsson-chappell-roan-sexism-1235541618/",
-    "publishedAt": "2026-04-03T20:07:57.000Z",
-    "summary": "\"When a woman has boundaries, I think people freak out,\" artist says",
     "image": null
   },
   {
