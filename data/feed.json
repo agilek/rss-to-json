@@ -1,5 +1,77 @@
 [
   {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/holly-humberstone-cruel-world-meaning-song-interview-1235526335/",
+    "source": "rolling-stone",
+    "title": "Step Into Holly Humberstone’s ‘Cruel World’ With the Stories Behind Her New Songs",
+    "url": "https://www.rollingstone.com/music/music-features/holly-humberstone-cruel-world-meaning-song-interview-1235526335/",
+    "publishedAt": "2026-04-06T14:50:52.000Z",
+    "summary": "The British singer-songwriter breaks down tracks from her latest album",
+    "image": null
+  },
+  {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMiWkFVX3lxTE84R3ZvU2VxUUZfZW5UNGw2SkIyUmdGVTlkMThPZ2MzdF9qRVZmRFJpU1JCRWh5RHdXbFQ0REJyT0hQVHVsMFc4Z3loNXlWRUMxWHdwUjVsMFdhUQ?oc=5",
+    "source": "kerrang",
+    "title": "South Of Salem News - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84R3ZvU2VxUUZfZW5UNGw2SkIyUmdGVTlkMThPZ2MzdF9qRVZmRFJpU1JCRWh5RHdXbFQ0REJyT0hQVHVsMFc4Z3loNXlWRUMxWHdwUjVsMFdhUQ?oc=5",
+    "publishedAt": "2026-04-06T14:43:39.000Z",
+    "summary": "South Of Salem News Kerrang!",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/fieldy-cover-korn-songs-breaking-in-a-sequence-california/",
+    "source": "loudwire",
+    "title": "See Fieldy Cover 2 Korn Songs Onstage With Alt-Metal Band",
+    "url": "https://loudwire.com/fieldy-cover-korn-songs-breaking-in-a-sequence-california/",
+    "publishedAt": "2026-04-06T14:38:31.000Z",
+    "summary": "Reginald 'Fieldy' Arvizu played two Korn songs and a (hed)p.e. track during a show with Breaking in a Sequence over the weekend. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/charli-xcx-team-responds-sky-ferreira-wuthering-heights-1235542088/",
+    "source": "rolling-stone",
+    "title": "Charli XCX’s Team Responds to Sky Ferreira’s ‘Wuthering Heights’ Credit Claims",
+    "url": "https://www.rollingstone.com/music/music-news/charli-xcx-team-responds-sky-ferreira-wuthering-heights-1235542088/",
+    "publishedAt": "2026-04-06T14:21:49.000Z",
+    "summary": "\"All credits were finalized and formally approved,\" Charli's management said after suggestions that old Ferreira demos served as the basis for several songs on the soundtrack album",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/tool-maynard-james-keenan-support-ousted-military-general-randy-george/",
+    "source": "loudwire",
+    "title": "Tool Frontman Shares Support for Ousted Military General",
+    "url": "https://loudwire.com/tool-maynard-james-keenan-support-ousted-military-general-randy-george/",
+    "publishedAt": "2026-04-06T14:12:09.000Z",
+    "summary": "Keenan shares how the four-star general once was supportive as he decided to leave the military to pursue a career in the arts. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/charli-xcxs-team-downplays-claim-that-wuthering-heights-includes-old-sky-ferreira-demos/",
+    "source": "pitchfork",
+    "title": "Charli XCX’s Team Downplays Claim That Wuthering Heights Includes Old Sky Ferreira Demos",
+    "url": "https://pitchfork.com/news/charli-xcxs-team-downplays-claim-that-wuthering-heights-includes-old-sky-ferreira-demos/",
+    "publishedAt": "2026-04-06T14:11:40.000Z",
+    "summary": "Charli’s team clarified the crediting process after Ferreira insinuated that the album incorporates her old music",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/metallica-mohegan-sun-2026-tour-dates/",
+    "source": "loudwire",
+    "title": "Metallica Announce Only 2 Non-Sphere U.S. Tour Dates of 2026",
+    "url": "https://loudwire.com/metallica-mohegan-sun-2026-tour-dates/",
+    "publishedAt": "2026-04-06T13:41:01.000Z",
+    "summary": "Metallica's No Repeat Weekend comes to an arena with Suicidal Tendencies and Spiritbox. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/guns-n-roses-bad-apples-live/",
+    "source": "loudwire",
+    "title": "Watch Guns N' Roses Play 1991 Deep Cut for 3rd Time Ever",
+    "url": "https://loudwire.com/guns-n-roses-bad-apples-live/",
+    "publishedAt": "2026-04-06T13:10:54.000Z",
+    "summary": "It's just the third time ever that they've played the tune. Continue reading…",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/concerts/monsta-x-2026-the-x-nexus-world-tour-dates-north-america-1236215603/",
     "source": "billboard",
     "title": "Monsta X Unveils North America Dates for THE X : NEXUS World Tour",
@@ -72,6 +144,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMi8gFBVV95cUxNblYzUnVYN0tObWJPTGdoeTc1a2Z3d2ktSVhmUVVHTGR2Z0JxLWtUbXlqYmJwblNndnpvb2sxWlFIeHRidC1FQnJqNWpfaTdrNDFtYXJFSEttem9xMEs2d19La1JGZ3BoSjdNVzRpR2lFWmZLVEw5ZWdIRnZZRS1icWhwcjcwUG9YNG1DUTY0cTlCMHBaN2dPQWlsMnRxUlFjRm4yZnQ5MEY1ZWtVWk9KeS1tdFRpQWcxM0FVMVUxZkx4bXNKQUdPc3RnTVIzSlRwMkhybkRyWmgtbDk1S3RNN2xzNDRxbTUxX1ZsSmQ0QzNyZw?oc=5",
+    "source": "nme",
+    "title": "Sajid Javid \"certain\" the Home Secretary will block Kanye West from coming to UK if Wireless don't cancel his upcoming shows - NME",
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNblYzUnVYN0tObWJPTGdoeTc1a2Z3d2ktSVhmUVVHTGR2Z0JxLWtUbXlqYmJwblNndnpvb2sxWlFIeHRidC1FQnJqNWpfaTdrNDFtYXJFSEttem9xMEs2d19La1JGZ3BoSjdNVzRpR2lFWmZLVEw5ZWdIRnZZRS1icWhwcjcwUG9YNG1DUTY0cTlCMHBaN2dPQWlsMnRxUlFjRm4yZnQ5MEY1ZWtVWk9KeS1tdFRpQWcxM0FVMVUxZkx4bXNKQUdPc3RnTVIzSlRwMkhybkRyWmgtbDk1S3RNN2xzNDRxbTUxX1ZsSmQ0QzNyZw?oc=5",
+    "publishedAt": "2026-04-06T09:34:36.000Z",
+    "summary": "Sajid Javid \"certain\" the Home Secretary will block Kanye West from coming to UK if Wireless don't cancel his upcoming shows NME",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/music-news/charli-xcx-sky-ferreira-wuthering-heights-credit-statement-1236215575/",
     "source": "billboard",
     "title": "Charli xcx Management Clarifies Sky Ferreira Claims About ‘Wuthering Heights’ Credits",
@@ -122,7 +203,7 @@
     "title": "Despite Controversy, Ye’s ‘Bully’ Debuts at Number Two on the Billboard 200",
     "url": "https://www.rollingstone.com/music/music-news/kanye-bully-charts-no-2-1235542052/",
     "publishedAt": "2026-04-05T20:48:09.000Z",
-    "summary": "Fresh off his run of sold-out shows in Los Angeles, Bully becomes the rapper's 14th top 10 album",
+    "summary": "Fresh off his run of sold-out shows in Los Angeles, Bully becomes the rapper’s 14th top 10 album",
     "image": null
   },
   {
@@ -239,7 +320,7 @@
     "title": "Pepsi Pulls Wireless Sponsorship as Keir Starmer Condemns Festival Over Kanye West Booking",
     "url": "https://www.rollingstone.com/music/music-news/pepsi-pulls-wireless-sponsorship-keir-starmer-kanye-west-1235542019/",
     "publishedAt": "2026-04-05T13:54:10.000Z",
-    "summary": "\"It is deeply concerning that Kanye West has been booked to perform at Wireless despite his previous antisemitic remarks and celebration of Nazism,\" British Prime Minister said",
+    "summary": "“It is deeply concerning that Kanye West has been booked to perform at Wireless despite his previous antisemitic remarks and celebration of Nazism,” British Prime Minister said",
     "image": null
   },
   {
@@ -414,39 +495,12 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdGRZbENVaGVXeFMweF9jaVR6aWwydWQyNnczd3k5OUxMVWYwdGNUeGFjWUlBOVUzTTc4Y2tQWkJUZmZTSTRFTm5ZNXo4V2RhMUlRdnFLX3VJaW52NE9PaXVpX1dPYmRQLWdYbEdfd1FiM3BtcUhwOVBkQi1FRXRhMXlhcllmcDRlSmxIMFE2QVJmMHR3VEdBYlNyRnY3WU83dGJ0Slk5VUFYZw?oc=5",
-    "source": "nme",
-    "title": "The xx play first of three sold-out Mexico City comeback gigs – their first in eight years - NME",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdGRZbENVaGVXeFMweF9jaVR6aWwydWQyNnczd3k5OUxMVWYwdGNUeGFjWUlBOVUzTTc4Y2tQWkJUZmZTSTRFTm5ZNXo4V2RhMUlRdnFLX3VJaW52NE9PaXVpX1dPYmRQLWdYbEdfd1FiM3BtcUhwOVBkQi1FRXRhMXlhcllmcDRlSmxIMFE2QVJmMHR3VEdBYlNyRnY3WU83dGJ0Slk5VUFYZw?oc=5",
-    "publishedAt": "2026-04-04T10:52:30.000Z",
-    "summary": "The xx play first of three sold-out Mexico City comeback gigs – their first in eight years NME",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/ferocious-dog-announce-final-tour-dates/",
     "source": "louder-than-war",
     "title": "Ferocious Dog announce final tour dates",
     "url": "https://louderthanwar.com/ferocious-dog-announce-final-tour-dates/",
     "publishedAt": "2026-04-04T08:34:49.000Z",
     "summary": "Ferocious Dog announce final tour dates Folk-punks Ferocious Dog have announced their final run of tour dates; having previously confirmed that 2026 would be the final year for the band the band have recently completed a run of UK tour dates as part of the farewell celebrations – now the final dates have been announced; […] The post Ferocious Dog announce final tour dates appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/kanye-west-lauryn-hill-travis-scott-los-angeles-concert-two-1235541886/",
-    "source": "rolling-stone",
-    "title": "Kanye West Brings Out Lauryn Hill and Travis Scott for Wild Second Night in L.A.",
-    "url": "https://www.rollingstone.com/music/music-news/kanye-west-lauryn-hill-travis-scott-los-angeles-concert-two-1235541886/",
-    "publishedAt": "2026-04-04T07:49:52.000Z",
-    "summary": "North West, CeeLo Green, André Troutman, Zion Marley, and YG Marley also performed during Ye's sold-out concert at SoFi stadium",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/bts-hidden-arirang-track-come-over-1235541853/",
-    "source": "rolling-stone",
-    "title": "BTS ARMY Demands Release of Hidden ‘Arirang’ Song on Streaming Platforms",
-    "url": "https://www.rollingstone.com/music/music-news/bts-hidden-arirang-track-come-over-1235541853/",
-    "publishedAt": "2026-04-04T01:47:31.000Z",
-    "summary": "Fans online are urging the group to make \"Come Over\" widely available. The track is currently only available on the album's deluxe vinyl",
     "image": null
   },
   {
@@ -468,15 +522,6 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/arch-enemy-respond-kiko-loureiros-copyright-infringement-claim/",
-    "source": "loudwire",
-    "title": "Arch Enemy Respond to Kiko Loureiro's Copyright Claim",
-    "url": "https://loudwire.com/arch-enemy-respond-kiko-loureiros-copyright-infringement-claim/",
-    "publishedAt": "2026-04-03T19:56:12.000Z",
-    "summary": "Arch Enemy issue video response to Kiko Loureiro claims of similarity with their recently released single. Continue reading…",
-    "image": null
-  },
-  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMijgFBVV95cUxNOFdldFlIcW0yQnNnYXJtVlpGMEdLbWxyT1ZZbjNlb1d5aEVPaGpmUGViYUxhdy1RXzBLTWRiYjJWd1AwY3d4Q3ZNbG1qa05kYVY0NGotZ21oVW1yV3UyVG02aFptaTRtdHY4TElzYWhDblh6X0NKXzFTajJzY0xfcndGemNuNUtkSXU5QjVn?oc=5",
     "source": "kerrang",
     "title": "A GoFundMe has been launched in memory of Harm's Way guitarist Bo Lueders - Kerrang!",
@@ -495,15 +540,6 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/harms-way-james-pligge-bo-lueders/",
-    "source": "loudwire",
-    "title": "Harms Way Vocalist Shares Emotional Message about Bo Lueders",
-    "url": "https://loudwire.com/harms-way-james-pligge-bo-lueders/",
-    "publishedAt": "2026-04-03T18:02:58.000Z",
-    "summary": "How Harms Way vocalist James Pligge and others in the music industry are honoring late guitarist Bo Lueders who died April 2. Continue reading…",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/news/bo-lueders-harms-way-guitarist-and-hardlore-podcast-host-dies-at-38/",
     "source": "pitchfork",
     "title": "Bo Lueders, Harm’s Way Guitarist and HardLore Podcast Host, Dies at 38",
@@ -513,30 +549,12 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/2026-rock-metal-tour-guide/",
-    "source": "loudwire",
-    "title": "The Rock + Metal Bands Touring in 2026 - Tour Guide",
-    "url": "https://loudwire.com/2026-rock-metal-tour-guide/",
-    "publishedAt": "2026-04-03T17:27:37.000Z",
-    "summary": "Here are the rock and metal bands touring in 2026, when they're on the road and how to get tickets. We update this guide on a regular basis. Continue reading…",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/news/watch-paul-simon-perform-something-so-right-on-colbert/",
     "source": "pitchfork",
     "title": "Watch Paul Simon Perform “Something So Right” on Colbert",
     "url": "https://pitchfork.com/news/watch-paul-simon-perform-something-so-right-on-colbert/",
     "publishedAt": "2026-04-03T16:24:39.000Z",
     "summary": "Simon also discussed his songwriting inspirations and upcoming tour with the late-night host",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/better-than-ezra-fans-write-song/",
-    "source": "loudwire",
-    "title": "'90s Band Better Than Ezra Letting Fans Write Next Single With AI",
-    "url": "https://loudwire.com/better-than-ezra-fans-write-song/",
-    "publishedAt": "2026-04-03T14:57:35.000Z",
-    "summary": "Better Than Ezra's Kevin Griffin has revealed the band is allowing fans to sign up for a service that will help them write the song. Continue reading…",
     "image": null
   },
   {
@@ -591,15 +609,6 @@
     "url": "https://pitchfork.com/news/u2-return-with-new-ep-easter-lily/",
     "publishedAt": "2026-04-03T04:06:48.000Z",
     "summary": "The band’s second EP in as many months features Brian Eno",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/news/pooh-shiesty-arrested-on-robbery-kidnapping-charges-over-alleged-gucci-mane-label-dispute/",
-    "source": "pitchfork",
-    "title": "Pooh Shiesty Arrested on Robbery, Kidnapping Charges Over Alleged Gucci Mane Label Dispute",
-    "url": "https://pitchfork.com/news/pooh-shiesty-arrested-on-robbery-kidnapping-charges-over-alleged-gucci-mane-label-dispute/",
-    "publishedAt": "2026-04-02T23:34:05.000Z",
-    "summary": "The rapper was arrested on April 1 along with seven other suspects",
     "image": null
   },
   {
@@ -708,15 +717,6 @@
     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxON3RreGd1SkU0cWJjRFRXTWJSa2FHencyWnFIZzk3QTlORzRzWk83UElDZ2xTY0xaYmJSbzhLWWhQTmJQYmM5am1aOVp6ME9sWnZ1dEg0dWVCaV8wb0lqQ21mN3pOaUZxdXZVYXZTRzdnUjJ2Ui00X1l6WmdCWUtKT1pOVHZxV2ZwU2lCOXN2MExoOEN6QmdNZHRpNVpsUGx6TjhJdEJlV2ZHdDNyOUp1c3RtbEtyMGFYUXRRZFpKdld6RXl0WDQyM0lENzN2emtsejlVUDJYR3NGYnB2WUxPdWtBLWxKWkRFQ2t4N1Rn?oc=5",
     "publishedAt": "2026-03-31T16:31:00.000Z",
     "summary": "Connor Sweeney drops brutal debut single with his new band, TheBoyShadow Kerrang!",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRNUU2QWFEa25oZ0k5aXo2dkJXcUhZZVNxUTJFSkJROXktVU00MG5QMXhCdXFtSHRGMFZPbDM4akZxcUFMc2NvNjhTbjJ5cTlLY2tkSGgtcUVkaU9PNTZpcU5rTTNSVk0?oc=5",
-    "source": "kerrang",
-    "title": "Album review: Knumears – Directions - kerrang.com",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRNUU2QWFEa25oZ0k5aXo2dkJXcUhZZVNxUTJFSkJROXktVU00MG5QMXhCdXFtSHRGMFZPbDM4akZxcUFMc2NvNjhTbjJ5cTlLY2tkSGgtcUVkaU9PNTZpcU5rTTNSVk0?oc=5",
-    "publishedAt": "2026-03-31T08:00:00.000Z",
-    "summary": "Album review: Knumears – Directions kerrang.com",
     "image": null
   }
 ]
