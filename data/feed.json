@@ -1,5 +1,95 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/music-news/courtney-barnett-expands-2026-creature-of-habit-tour-1236217555/",
+    "source": "billboard",
+    "title": "Courtney Barnett Expands 2026 ‘Creature of Habit’ Tour, Adds Australia Swing",
+    "url": "https://www.billboard.com/music/music-news/courtney-barnett-expands-2026-creature-of-habit-tour-1236217555/",
+    "publishedAt": "2026-04-08T02:41:17.000Z",
+    "summary": "The award-winning singer and songwriter adds an Australia leg to her international tour.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/lady-gaga-madonna-timeline-feud-friends/",
+    "source": "billboard",
+    "title": "A Complete Timeline of Lady Gaga & Madonna’s Rivalry & Reconciliation",
+    "url": "https://www.billboard.com/lists/lady-gaga-madonna-timeline-feud-friends/",
+    "publishedAt": "2026-04-08T01:37:22.000Z",
+    "summary": "From enemies to frenemies to friends, here's everything we know about the pop icons' gossip-fueled rivalry.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/sara-bareilles-caa-emei-atlantic-records-music-signings/",
+    "source": "billboard",
+    "title": "Signed: Emei Inks With Atlantic/Nice Life; Sara Bareilles Jumps to CAA",
+    "url": "https://www.billboard.com/lists/sara-bareilles-caa-emei-atlantic-records-music-signings/",
+    "publishedAt": "2026-04-08T01:34:17.000Z",
+    "summary": "Other recent signings include Los Gemelos de Sinaloa, Holding Absence, Henry Morris, Kathryn Gallagher and, at Warner Music, a new K-pop girl group.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/journey-neal-schon-arnel-pineda-stopped-from-leaving-band-1236217459/",
+    "source": "billboard",
+    "title": "Journey’s Neal Schon Responds to Arnel Pineda Claims He Was Stopped From Leaving the Band",
+    "url": "https://www.billboard.com/music/music-news/journey-neal-schon-arnel-pineda-stopped-from-leaving-band-1236217459/",
+    "publishedAt": "2026-04-08T01:22:12.000Z",
+    "summary": "In a new Facebook statement, Schon seemingly replied to quotes from Pineda in a Rolling Stone article on the band's complicated history.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/aubrey-oday-kanye-west-concerts-defends-criticism-1236217420/",
+    "source": "billboard",
+    "title": "Aubrey O’Day Defends Her Decision to Attend Ye’s L.A. Concerts: ‘We Consume Work From Imperfect Creators’",
+    "url": "https://www.billboard.com/music/rb-hip-hop/aubrey-oday-kanye-west-concerts-defends-criticism-1236217420/",
+    "publishedAt": "2026-04-08T01:12:45.000Z",
+    "summary": "The Danity Kane singer responded to criticism of her going to both of Ye's SoFi Stadium shows, especially after speaking out against Diddy.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/50-cent-hulu-documentary-three-parts-1236217403/",
+    "source": "billboard",
+    "title": "50 Cent Three-Part Documentary Coming to Hulu",
+    "url": "https://www.billboard.com/music/rb-hip-hop/50-cent-hulu-documentary-three-parts-1236217403/",
+    "publishedAt": "2026-04-08T00:25:20.000Z",
+    "summary": "The untitled work will take viewers through 50's humble beginnings in Queens to rap glory and becoming a business mogul.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-latin/karol-g-coachella-set-what-to-expect-1235543249/",
+    "source": "rolling-stone",
+    "title": "What to Expect from Karol G’s Headlining Coachella Set",
+    "url": "https://www.rollingstone.com/music/music-latin/karol-g-coachella-set-what-to-expect-1235543249/",
+    "publishedAt": "2026-04-08T00:00:00.000Z",
+    "summary": "From special guests to show-stopping choreography, here's what we predict the Colombian star will bring to the stage",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/umg-board-of-directors-statement-pershing-square-offer/",
+    "source": "billboard",
+    "title": "UMG Board of Directors Has ‘Complete Confidence in’ Lucian Grainge Following Pershing Square Bid",
+    "url": "https://www.billboard.com/pro/umg-board-of-directors-statement-pershing-square-offer/",
+    "publishedAt": "2026-04-07T23:59:01.000Z",
+    "summary": "In a brief statement, the board said it would \"review the proposal in accordance with its fiduciary duties and analyze its implications\" for stakeholders.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/warner-records-promotes-miles-gersh-evp-ar/",
+    "source": "billboard",
+    "title": "Warner Records Names Miles Gersh EVP of A&R",
+    "url": "https://www.billboard.com/pro/warner-records-promotes-miles-gersh-evp-ar/",
+    "publishedAt": "2026-04-07T23:24:06.000Z",
+    "summary": "The executive brought now-megastar Zach Bryan to the label in 2020.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/pharrell-williams-biggest-hits-every-hot-100-number-one/",
+    "source": "billboard",
+    "title": "Every Pharrell Williams No. 1 Hit on the Billboard Hot 100",
+    "url": "https://www.billboard.com/lists/pharrell-williams-biggest-hits-every-hot-100-number-one/",
+    "publishedAt": "2026-04-07T22:58:31.000Z",
+    "summary": "A distinct sound, a subtle signature & a long list of chart-toppers.",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-country/ray-stevens-sustains-broken-neck-recovering-new-album-1235543189/",
     "source": "rolling-stone",
     "title": "Ray Stevens Sustains Broken Neck in Fall Ahead of New Album Release",
@@ -18,12 +108,21 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/pro/lindsey-buckinghams-stalker-criminal-charges-arrest/",
-    "source": "billboard",
-    "title": "Lindsey Buckingham’s Alleged Stalker Faces Criminal Charges and Arrest Warrant",
-    "url": "https://www.billboard.com/pro/lindsey-buckinghams-stalker-criminal-charges-arrest/",
-    "publishedAt": "2026-04-07T21:47:14.000Z",
-    "summary": "Michelle Dick allegedly stalked the Fleetwood Mac frontman for years before two violent attacks last month.",
+    "id": "louder-than-war-https://louderthanwar.com/pet-shop-boys-electric-ballroom-london-live-review/",
+    "source": "louder-than-war",
+    "title": "Pet Shop Boys: Electric Ballroom – Live Review",
+    "url": "https://louderthanwar.com/pet-shop-boys-electric-ballroom-london-live-review/",
+    "publishedAt": "2026-04-07T21:35:24.000Z",
+    "summary": "Pet Shop Boys Electric Ballroom, London 6th April 2026 Legendary synth pop duo The Pet Shop Boys begin their residency inside Camden Town’s Electric Ballroom where they plan to perform some of their more obscure tracks from the past. The world is full of electronic duos in 2026 but none go back as far as the […] The post Pet Shop Boys: Electric Ballroom – Live Review appeared first on Louder Than War.",
+    "image": null
+  },
+  {
+    "id": "louder-than-war-https://louderthanwar.com/puressence-have-announced-their-biggest-show-yet-at-the-8000-capacity-outdoor-castlefield-arena-on-july-2nd/",
+    "source": "louder-than-war",
+    "title": "Puressence announce their biggest show yet with special guests the Chameleons",
+    "url": "https://louderthanwar.com/puressence-have-announced-their-biggest-show-yet-at-the-8000-capacity-outdoor-castlefield-arena-on-july-2nd/",
+    "publishedAt": "2026-04-07T21:34:56.000Z",
+    "summary": "Manchester legends have announced their biggest show yet at the 8000 capacity outdoor Castlefield Arena on July 2nd. The show marks a major triumph for a band whose on/off career might not have seen them break as big as they should of but sees them as local legends in their home city. Their dark, brooding […] The post Puressence announce their biggest show yet with special guests the Chameleons appeared first on Louder Than War.",
     "image": null
   },
   {
@@ -36,48 +135,21 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/olivia-dean-man-need-number-1-adult-rb-pop-radio-charts-1236217106/",
-    "source": "billboard",
-    "title": "Olivia Dean Is the First Woman Since Adele to Top Pop and R&B Radio Charts",
-    "url": "https://www.billboard.com/music/chart-beat/olivia-dean-man-need-number-1-adult-rb-pop-radio-charts-1236217106/",
-    "publishedAt": "2026-04-07T21:02:40.000Z",
-    "summary": "\"Man I Need\" is making history.",
+    "id": "louder-than-war-https://louderthanwar.com/courtney-barnett-where-else-margate-kent-live-review/",
+    "source": "louder-than-war",
+    "title": "Courtney Barnett: Where Else? Margate, Kent – Live Review",
+    "url": "https://louderthanwar.com/courtney-barnett-where-else-margate-kent-live-review/",
+    "publishedAt": "2026-04-07T21:03:27.000Z",
+    "summary": "Courtney Barnett Where Else?, Margate, Kent 2nd April 2026 Courtney Barnett, fresh from her recent headline set at the BBC6 Music Festival in Manchester, brought her brief Creature Of Habit UK Tour to Margate. Where Else?, on the South-East Kent coast, was lucky enough to follow Sunderland, Hebden Bridge and Bedford as Barnett closed out […] The post Courtney Barnett: Where Else? Margate, Kent – Live Review appeared first on Louder Than War.",
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/awards/oscar-2027-2028-dates-1236217176/",
-    "source": "billboard",
-    "title": "Here Are the Dates of the 2027 & 2028 Oscar Telecasts – the Last Ones Before the Show Moves to YouTube",
-    "url": "https://www.billboard.com/music/awards/oscar-2027-2028-dates-1236217176/",
-    "publishedAt": "2026-04-07T21:00:00.000Z",
-    "summary": "The Academy and ABC also announced all key dates for the 2027 awards season.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-    "source": "billboard",
-    "title": "Billboard’s Music Industry Events Calendar",
-    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-    "publishedAt": "2026-04-07T20:59:00.000Z",
-    "summary": "A complete rundown of the most important events across the music business.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/ye-west-bully-number-1-top-rb-hip-hop-albums-1236217186/",
-    "source": "billboard",
-    "title": "Ye’s ‘BULLY’ Debuts at No. 1 on Top R&B/Hip-Hop Albums Chart",
-    "url": "https://www.billboard.com/music/chart-beat/ye-west-bully-number-1-top-rb-hip-hop-albums-1236217186/",
-    "publishedAt": "2026-04-07T20:57:54.000Z",
-    "summary": "The long-teased album is Ye’s 13th No. 1, as “FATHER” leads the song debuts.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/guns-n-roses-tour-where-to-buy-tickets-online-1236216419/",
-    "source": "billboard",
-    "title": "Guns N’ Roses’ 2026 World Tour: Where to Shop Affordable Tickets Online",
-    "url": "https://www.billboard.com/culture/product-recommendations/guns-n-roses-tour-where-to-buy-tickets-online-1236216419/",
-    "publishedAt": "2026-04-07T20:49:22.000Z",
-    "summary": "The legendary rock band is hitting North and South America as well as Europe this summer.",
+    "id": "louder-than-war-https://louderthanwar.com/angine-de-poitrine-are-coming/",
+    "source": "louder-than-war",
+    "title": "Angine de Poitrine announce  European tour",
+    "url": "https://louderthanwar.com/angine-de-poitrine-are-coming/",
+    "publishedAt": "2026-04-07T20:53:53.000Z",
+    "summary": "The most unlikely hottest band in the world have broken all the rules to create a mesmerising hypnotic trip of a music that normally would remain glued in the underground. Somehow and maybe perhaps of their own innate genius, they are blowing up big, which is very, very exciting… the polka dot French Canadian band […] The post Angine de Poitrine announce European tour appeared first on Louder Than War.",
     "image": null
   },
   {
@@ -90,15 +162,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/lil-tjay-bond-offset-rat-1236217096/",
-    "source": "billboard",
-    "title": "Lil Tjay Posts Bond & Calls Offset a ‘Rat’ Following Florida Shooting of Migos Rapper",
-    "url": "https://www.billboard.com/music/rb-hip-hop/lil-tjay-bond-offset-rat-1236217096/",
-    "publishedAt": "2026-04-07T20:24:28.000Z",
-    "summary": "NBC caught the Bronx rapper leaving Broward County Jail on Tuesday (April 7) after being charged with disorderly conduct.",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/essential-90s-indie-rock-albums/",
     "source": "loudwire",
     "title": "13 Essential '90s Indie Rock Albums You Should Own on Vinyl",
@@ -108,30 +171,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/pop/sabrina-carpenter-coachella-most-ambitious-show-1236217111/",
-    "source": "billboard",
-    "title": "Sabrina Carpenter Calls Coachella ‘Most Ambitious Show I’ve Ever Done’",
-    "url": "https://www.billboard.com/music/pop/sabrina-carpenter-coachella-most-ambitious-show-1236217111/",
-    "publishedAt": "2026-04-07T20:16:19.000Z",
-    "summary": "The pop star teases her headlining set in a cover story for Perfect.",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/news/michael-jackson-estate-spent-dollar15-million-removing-child-abuse-allegation-scenes/",
     "source": "pitchfork",
     "title": "Michael Jackson Estate Spent Up to $15 Million Removing Child Abuse Allegation Scenes",
     "url": "https://pitchfork.com/news/michael-jackson-estate-spent-dollar15-million-removing-child-abuse-allegation-scenes/",
     "publishedAt": "2026-04-07T20:12:22.000Z",
     "summary": "After attorneys discovered a settlement clause with one of the singer’s accusers, the ending was replaced with scenes of Jackson at a triumphant concert",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/roc-nation-insurer-wont-pay-ceo-legal-battle-daughter/",
-    "source": "billboard",
-    "title": "Roc Nation’s Insurance Company Says It Won’t Pay for CEO’s Legal Battle With Daughter",
-    "url": "https://www.billboard.com/pro/roc-nation-insurer-wont-pay-ceo-legal-battle-daughter/",
-    "publishedAt": "2026-04-07T19:47:26.000Z",
-    "summary": "Desiree Perez, the head of Jay-Z’s business empire, is locked in a family lawsuit. The company's insurer says it has nothing to do with her role at Roc Nation.",
     "image": null
   },
   {
@@ -297,15 +342,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/wireless-festival-canceled-kanye-west-1235542926/",
-    "source": "rolling-stone",
-    "title": "Wireless Festival ‘Forced to Cancel’ After U.K. Rejects Kanye West’s Visa",
-    "url": "https://www.rollingstone.com/music/music-news/wireless-festival-canceled-kanye-west-1235542926/",
-    "publishedAt": "2026-04-07T14:36:08.000Z",
-    "summary": "The three-day festival was supposed to take place in July",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/dave-mustaine-one-thing-miss-about-metallica/",
     "source": "loudwire",
     "title": "One Thing Dave Mustaine Used to Miss About Being in Metallica",
@@ -366,6 +402,15 @@
     "url": "https://pitchfork.com/news/coachella-2026-lineup-and-schedule-all-the-set-times-you-need-to-know/",
     "publishedAt": "2026-04-07T12:20:02.000Z",
     "summary": "Find out when to catch Sabrina Carpenter, Justin Bieber, Karol G, new addition Jack White, and more at the Indio festival site",
+    "image": null
+  },
+  {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMiigFBVV95cUxQTU1OZ1RDSEN3MHAyT2ZWTHA3T05VSVlJOWdzeFA4cm44WWpVNmVDNHVWV3NTajcxc0E5NWtxdjJ0LXJ5a2tJRlExb1dRa3VQMm4weEhZZkZOWTZsQjlULUw2WW55TEZBM0lIMG51Y3VUdVNvQ3IwSW9ubXNYNnJTaEVQWGl5X1h3Y2c?oc=5",
+    "source": "kerrang",
+    "title": "Held. drop new single with High Vis’ Graham Sayle - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTU1OZ1RDSEN3MHAyT2ZWTHA3T05VSVlJOWdzeFA4cm44WWpVNmVDNHVWV3NTajcxc0E5NWtxdjJ0LXJ5a2tJRlExb1dRa3VQMm4weEhZZkZOWTZsQjlULUw2WW55TEZBM0lIMG51Y3VUdVNvQ3IwSW9ubXNYNnJTaEVQWGl5X1h3Y2c?oc=5",
+    "publishedAt": "2026-04-07T12:20:00.000Z",
+    "summary": "Held. drop new single with High Vis’ Graham Sayle Kerrang!",
     "image": null
   },
   {
@@ -441,6 +486,15 @@
     "image": null
   },
   {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMirwFBVV95cUxOYzlpVzU1SzBTZWdqbFhvM2t6dTRKcm9nY2pzRWZCbFczcnBEaXItUWU2S2RMeVVyTVNyQ0g5aE9idkxuOEpzTkFvYmdCblJnTmx5aGZwbW1ZT3dDUXNYaTA5bGktMy1Venlad3hrSkRSbGVTT2J3VDF4clRXSHJ0VV9XSVpoY0s1UjNVTmVlUzVMUk1RejdpY1NEUGxmTWhkMFctRUlYblZXZ0FndWhZ?oc=5",
+    "source": "kerrang",
+    "title": "TX2 has released a new double single - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYzlpVzU1SzBTZWdqbFhvM2t6dTRKcm9nY2pzRWZCbFczcnBEaXItUWU2S2RMeVVyTVNyQ0g5aE9idkxuOEpzTkFvYmdCblJnTmx5aGZwbW1ZT3dDUXNYaTA5bGktMy1Venlad3hrSkRSbGVTT2J3VDF4clRXSHJ0VV9XSVpoY0s1UjNVTmVlUzVMUk1RejdpY1NEUGxmTWhkMFctRUlYblZXZ0FndWhZ?oc=5",
+    "publishedAt": "2026-04-07T10:13:00.000Z",
+    "summary": "TX2 has released a new double single Kerrang!",
+    "image": null
+  },
+  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUDdQY3JjczF3X3NESk8wUFZrZ2ZoQ2NkUDE1bkVkRHBfLXFLY2d2OTcwMU9lenY4MjRGbS1UcnlCUzBiWHBYV045OW5kTjhhby1zT0NPNU1Jc2p3aUVnaFNCN1hOeWNmYnZUM044Wko4X3J4clVnZmxLTmIyX1dpOHBPU05TdW9qVVJjOUJsX1dleEdFNkUtSElKX0tHOW5nWGNUclZHZGloUnRITzRqeHBQQ0RUSUt1TXBj?oc=5",
     "source": "kerrang",
     "title": "Metallica announce non-Sphere U.S. shows with Suicidal Tendencies and Spiritbox - Kerrang!",
@@ -495,24 +549,6 @@
     "image": null
   },
   {
-    "id": "louder-than-war-https://louderthanwar.com/kekht-arakh-morning-star-album-review/",
-    "source": "louder-than-war",
-    "title": "Këkht Aräkh: Morning Star – Album Review",
-    "url": "https://louderthanwar.com/kekht-arakh-morning-star-album-review/",
-    "publishedAt": "2026-04-07T07:42:00.000Z",
-    "summary": "Këkht Aräkh: Morning Star (Sacred Bones Records) Vinyl | CD | Cassette | DL | Streaming Out Now BUY HERE Këkht Aräkh returns with Morning Star, a brutal and inventive album of melancholic black metal. Andy Brown breaks out the corpse paint for Louder Than War. Just look at that cover. Glorious. Bold, grainy […] The post Këkht Aräkh: Morning Star – Album Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "louder-than-war-https://louderthanwar.com/so-long-good-friday-liverpool-festival-review/",
-    "source": "louder-than-war",
-    "title": "So Long, Good Friday (Liverpool)- Festival Review",
-    "url": "https://louderthanwar.com/so-long-good-friday-liverpool-festival-review/",
-    "publishedAt": "2026-04-07T07:30:17.000Z",
-    "summary": "So Long, Good Friday Baltic Triangle, Liverpool 3rd April 2026 Experts in chaos Fat Dog headline a blistering line-up of talented and trail-blazing artists in Liverpool’s Baltic Triangle for the first annual So Long, Good Friday festival. Kai Marshall and Elliot Davies take a look at what’s on offer. The first annual So Long, Good […] The post So Long, Good Friday (Liverpool)- Festival Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMilAFBVV95cUxPN1NNcmNfbWZJSnAwcEpwNWJVdlV5Z3loaTJlVkdmek03VHBDaGE2NjgxcDVLZlZOQURWQ2Jlcmo4SUFrenZOc0VvbEtTWHNra2tmbTdQUmItUzNaUS12dGViMEJDQ0l2dEVoSnJWemF6VjJkeDZ0TXNMUEtmSEthT2JTd1hIdW1WWjdTeW84V3RpNjQy?oc=5",
     "source": "kerrang",
     "title": "Album review: Melvins with Napalm Death – Savage Imperial Death March - Kerrang!",
@@ -546,24 +582,6 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTEkwMUVmRHROZFhySTgxR2NnOXM4SEo2eGZNN203RHJIY2dpODhaOEY5VkFHVjhsUllyRkNRdzNmbWwtRnE1SS0zZmEzVUZQZFFQSlN5NHJNeE1xaEh5eVVxMGNBS1RVNTI4TE4xc2tMWWdNWTE0dlpCTmpkT3BqWDR1NzZ4SGp3QUloUDF6ZjhxUEgwS3BSdEdhclREbXI4QzFERUdZVklQeVY2cklOWWk3dzg?oc=5",
     "publishedAt": "2026-04-06T19:52:18.000Z",
     "summary": "Metallica announce November US shows with Suicidal Tendencies and Spiritbox NME",
-    "image": null
-  },
-  {
-    "id": "louder-than-war-https://louderthanwar.com/lost-us-indie-band-the-poppies-on-streaming-for-the-first-time/",
-    "source": "louder-than-war",
-    "title": "Lost US Indie band The Poppies on streaming for the first time…",
-    "url": "https://louderthanwar.com/lost-us-indie-band-the-poppies-on-streaming-for-the-first-time/",
-    "publishedAt": "2026-04-06T18:54:30.000Z",
-    "summary": "The Poppies: Honeybee / Demos (Self Released) Streaming Available Now After over three decades in the musical wilderness, The Poppies have released their seminal 1993 album, Honeybee, on all major streaming services. Not to be confused with the Stourbridge legends, The Poppies were the duo of Clifford Lane and Liberty Martin along with producer Roger […] The post Lost US Indie band The Poppies on streaming for the first time… appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "louder-than-war-https://louderthanwar.com/white-star-line-down-and-out-single-review/",
-    "source": "louder-than-war",
-    "title": "White Star Line: Down And Out – Single Review",
-    "url": "https://louderthanwar.com/white-star-line-down-and-out-single-review/",
-    "publishedAt": "2026-04-06T17:37:09.000Z",
-    "summary": "White Star Line: Down And Out (Self-Released) DL / Streaming Out Now Manchester based guitar-driven quartet White Star Line release their third single Down And Out. Building on their early promise its another song which fully harnesses classic Manchester musical traditions whilst also establishing another stepping stone towards forging a sound and style of their own. […] The post White Star Line: Down And Out – Single Review appeared first on Louder Than War.",
     "image": null
   },
   {
@@ -693,30 +711,12 @@
     "image": null
   },
   {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PSlVDaEd3c2dia0YxaUxHREdKVEY1ODdvaURsXzREQURBbk0wWGNYMVltVnNUT0RJM0lLczRJYW5vMnV6NVU5WlBzRlpxVENTY01LeTFnQ2tjVlQyb0V0aWxGaTVJQQ?oc=5",
-    "source": "kerrang",
-    "title": "Synthwave pioneer GosT has died - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PSlVDaEd3c2dia0YxaUxHREdKVEY1ODdvaURsXzREQURBbk0wWGNYMVltVnNUT0RJM0lLczRJYW5vMnV6NVU5WlBzRlpxVENTY01LeTFnQ2tjVlQyb0V0aWxGaTVJQQ?oc=5",
-    "publishedAt": "2026-04-02T13:44:00.000Z",
-    "summary": "Synthwave pioneer GosT has died Kerrang!",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/news/listen-to-jimmy-pages-original-home-demo-for-led-zeppelins-ten-years-gone-153956/",
     "source": "uncut",
     "title": "Listen to Jimmy Page’s original home demo for Led Zeppelin’s ‘Ten Years Gone’",
     "url": "https://www.uncut.co.uk/news/listen-to-jimmy-pages-original-home-demo-for-led-zeppelins-ten-years-gone-153956/",
     "publishedAt": "2026-04-02T11:04:06.000Z",
     "summary": "He's shared it on his official YouTube channel The post Listen to Jimmy Page’s original home demo for Led Zeppelin’s ‘Ten Years Gone’ appeared first on UNCUT.",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGUThOZk9veFJSbk0zVWItVElEcFhIWjFwemU0dDlHUFdzOEc0MGRKUzlvckJ5aGs2WGxNclVlMXVpc3NBRVU4cGRoNUZkd3NiZHZMWFUxUF9JUU1McWotMUQwTGw5QQ?oc=5",
-    "source": "kerrang",
-    "title": "Album review: LavaLove – Tan Lines - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGUThOZk9veFJSbk0zVWItVElEcFhIWjFwemU0dDlHUFdzOEc0MGRKUzlvckJ5aGs2WGxNclVlMXVpc3NBRVU4cGRoNUZkd3NiZHZMWFUxUF9JUU1McWotMUQwTGw5QQ?oc=5",
-    "publishedAt": "2026-04-02T08:00:00.000Z",
-    "summary": "Album review: LavaLove – Tan Lines Kerrang!",
     "image": null
   }
 ]
