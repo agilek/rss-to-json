@@ -1,20 +1,137 @@
 [
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/katy-perry-justin-trudeau-karma-so-rewarding-1236217733/",
+    "id": "billboard-https://www.billboard.com/pro/black-label-society-engines-of-demolition-hard-rock-albums/",
     "source": "billboard",
-    "title": "Katy Perry Says ‘Karma’ Is ‘So Rewarding’ in Upbeat Life Update Featuring Boyfriend Justin Trudeau",
-    "url": "https://www.billboard.com/music/music-news/katy-perry-justin-trudeau-karma-so-rewarding-1236217733/",
-    "publishedAt": "2026-04-08T15:09:31.000Z",
-    "summary": "The singer also might have teased a Lifetimes Tour movie.",
+    "title": "Black Label Society’s ‘Engines of Demolition’ Revs to Top Hard Rock Albums No. 1",
+    "url": "https://www.billboard.com/pro/black-label-society-engines-of-demolition-hard-rock-albums/",
+    "publishedAt": "2026-04-08T17:01:36.000Z",
+    "summary": "The band nabs its fourth ruler and first since 2018.",
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/pop/anyma-lisa-bad-angel-collaboration-coachella-aeden-1236217364/",
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/artists-denied-entry-into-the-uk-list-1235543300/",
+    "source": "rolling-stone",
+    "title": "Ye, Snoop Dogg, and Other Artists Who’ve Been Denied Entry into the U.K.",
+    "url": "https://www.rollingstone.com/music/music-features/artists-denied-entry-into-the-uk-list-1235543300/",
+    "publishedAt": "2026-04-08T16:43:32.000Z",
+    "summary": "These are not the first, nor likely the last, to be denied entry into the sovereign state",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/olivia-rodrigo-set-to-host-and-perform-on-snl/",
+    "source": "pitchfork",
+    "title": "Olivia Rodrigo to Host and Perform on SNL",
+    "url": "https://pitchfork.com/news/olivia-rodrigo-set-to-host-and-perform-on-snl/",
+    "publishedAt": "2026-04-08T16:39:51.000Z",
+    "summary": "Plus, Paul McCartney enrolls as a musical guest in an episode hosted by Will Ferrell",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/ozzy-sharon-osbourne-los-angeles-home/",
+    "source": "loudwire",
+    "title": "Ozzy and Sharon Osbourne's L.A. Home Lands on Market (PHOTOS)",
+    "url": "https://loudwire.com/ozzy-sharon-osbourne-los-angeles-home/",
+    "publishedAt": "2026-04-08T16:31:41.000Z",
+    "summary": "See behind the doors of the Osbourne's luxurious Los Angeles home that just went on the market. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/country/lainey-wilson-netflix-keepin-country-cool-doc-trailer-watch-1236217824/",
     "source": "billboard",
-    "title": "LISA & Anyma Release ‘Bad Angel’: Stream It Now",
-    "url": "https://www.billboard.com/music/pop/anyma-lisa-bad-angel-collaboration-coachella-aeden-1236217364/",
-    "publishedAt": "2026-04-08T15:03:33.000Z",
-    "summary": "The song comes ahead of Anyma's performance on the Coachella mainstage this weekend.",
+    "title": "Lainey Wilson Tracks Her ’14-Year Overnight Success’ Story in Netflix ‘Keepin’ Country Cool’ Documentary Trailer: Watch",
+    "url": "https://www.billboard.com/music/country/lainey-wilson-netflix-keepin-country-cool-doc-trailer-watch-1236217824/",
+    "publishedAt": "2026-04-08T16:31:13.000Z",
+    "summary": "Have you ever been paid in hot dogs? Lainey has.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/tv-film/taylor-swift-reputation-tour-inspired-mother-mary-director-1236217772/",
+    "source": "billboard",
+    "title": "‘Mother Mary’ Director Reveals How Taylor Swift ‘Repeatedly’ Inspired the Anne Hathaway Psycho Thriller",
+    "url": "https://www.billboard.com/culture/tv-film/taylor-swift-reputation-tour-inspired-mother-mary-director-1236217772/",
+    "publishedAt": "2026-04-08T16:30:25.000Z",
+    "summary": "“You would not believe the amount of time we were talking about Taylor,\" said David Lowery.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/bjork-will-spend-the-eclipse-raving-in-iceland/",
+    "source": "pitchfork",
+    "title": "Björk Will Spend the Eclipse Raving in Iceland",
+    "url": "https://pitchfork.com/news/bjork-will-spend-the-eclipse-raving-in-iceland/",
+    "publishedAt": "2026-04-08T16:29:54.000Z",
+    "summary": "Billed as Echolalia, the one-day festival sits in the path of totality of the August 12 solar eclipse",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/country/stagecoach-rodeo-nights-afterparty-lineup-diplo-1236217785/",
+    "source": "billboard",
+    "title": "Diplo, Marshmello & Bailey Zimmerman Lead Lineup for Stagecoach-Adjacent Rodeo Nights Parties",
+    "url": "https://www.billboard.com/music/country/stagecoach-rodeo-nights-afterparty-lineup-diplo-1236217785/",
+    "publishedAt": "2026-04-08T16:18:52.000Z",
+    "summary": "The invite-only afterparties happen at a private estate during during all three nights of the festival.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/tv-film/snl-olivia-rodrigo-host-noah-kahan-paul-mccartney-perform-1236217809/",
+    "source": "billboard",
+    "title": "Olivia Rodrigo to Make ‘Saturday Night Live’ Hosting Debut With Double-Duty Stint",
+    "url": "https://www.billboard.com/culture/tv-film/snl-olivia-rodrigo-host-noah-kahan-paul-mccartney-perform-1236217809/",
+    "publishedAt": "2026-04-08T16:00:17.000Z",
+    "summary": "Plus, Noah Kahan and Paul McCartney are locked in as musical guests in the coming weeks.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/awards/severence-composer-theodore-shapiro-bmi-icon-2026-1236217677/",
+    "source": "billboard",
+    "title": "‘Severance’ Composer Theodore Shapiro to Be Named BMI Icon at 2026 BMI Film, TV & Visual Media Awards",
+    "url": "https://www.billboard.com/music/awards/severence-composer-theodore-shapiro-bmi-icon-2026-1236217677/",
+    "publishedAt": "2026-04-08T16:00:00.000Z",
+    "summary": "The ceremony will be held in May in Beverly Hills.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/offset-reacts-lil-tjay-calling-him-rat-after-shooting-1236217765/",
+    "source": "billboard",
+    "title": "Offset Responds to Lil Tjay Following Shooting: Here’s What He Said After Being Called a ‘Rat’",
+    "url": "https://www.billboard.com/music/rb-hip-hop/offset-reacts-lil-tjay-calling-him-rat-after-shooting-1236217765/",
+    "publishedAt": "2026-04-08T15:53:28.000Z",
+    "summary": "The Atlanta rapper remained hospitalized after suffering non-life-threatening injuries as of April 7.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/bts-arirang-chairman-bang-interview-1236217554/",
+    "source": "billboard",
+    "title": "Chairman Bang Tells the Real Story Behind Making BTS’ Historic ‘ARIRANG’",
+    "url": "https://www.billboard.com/music/music-news/bts-arirang-chairman-bang-interview-1236217554/",
+    "publishedAt": "2026-04-08T15:50:34.000Z",
+    "summary": "\"BTS 2.0 shouldn’t remain an extension of the past - it had to be a declaration that opens a new chapter.\"",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/how-coachella-became-america-s-top-festival/",
+    "source": "billboard",
+    "title": "Inside the Business of Coachella — How the SoCal Show Became America’s Top Festival",
+    "url": "https://www.billboard.com/pro/how-coachella-became-america-s-top-festival/",
+    "publishedAt": "2026-04-08T15:48:24.000Z",
+    "summary": "On Billboard's On the Record podcast, Billboard reporters break down the business behind Coachella and why 60% of GA attendees used a payment plan last year.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/cardi-b-little-miss-drama-tour-surprise-guests/",
+    "source": "billboard",
+    "title": "Cardi B’s Little Miss Drama Tour: Here Are All the Surprise Guests (So Far)",
+    "url": "https://www.billboard.com/lists/cardi-b-little-miss-drama-tour-surprise-guests/",
+    "publishedAt": "2026-04-08T15:34:58.000Z",
+    "summary": "The Grammy winner kicked off her first arena headlining trek on Feb. 11 in California.",
+    "image": null
+  },
+  {
+    "id": "uncut-https://www.uncut.co.uk/features/uncuts-guide-to-the-best-of-2026s-record-store-day-releases-154044/",
+    "source": "uncut",
+    "title": "Uncut’s guide to the best of 2026’s Record Store Day releases",
+    "url": "https://www.uncut.co.uk/features/uncuts-guide-to-the-best-of-2026s-record-store-day-releases-154044/",
+    "publishedAt": "2026-04-08T15:19:01.000Z",
+    "summary": "Collectors assemble! The post Uncut’s guide to the best of 2026’s Record Store Day releases appeared first on UNCUT.",
     "image": null
   },
   {
@@ -50,7 +167,7 @@
     "title": "Bruce Springsteen and the E Street Band Cover the Clash’s ‘Clampdown’ for First Time Since 2014",
     "url": "https://www.rollingstone.com/music/music-news/bruce-springsteen-clash-clampdown-first-since-2014-1235543591/",
     "publishedAt": "2026-04-08T14:53:07.000Z",
-    "summary": "Springsteen traded off lead vocals with Tom Morello, and he placed emphasis on the line \"in these days of evil presidents\"",
+    "summary": "Springsteen traded off lead vocals with Tom Morello, and he placed emphasis on the line “in these days of evil presidents”",
     "image": null
   },
   {
@@ -59,7 +176,7 @@
     "title": "See Lainey Wilson Let Down Her Guard in New ‘Keepin’ Country Cool’ Doc Trailer",
     "url": "https://www.rollingstone.com/music/music-country/lainey-wilson-keepin-country-cool-documentary-trailer-1235543588/",
     "publishedAt": "2026-04-08T14:50:48.000Z",
-    "summary": "\"I think it is important to show people that, like, I don't have my shit all together,\" singer says",
+    "summary": "“I think it is important to show people that, like, I don’t have my shit all together,” singer says",
     "image": null
   },
   {
@@ -69,15 +186,6 @@
     "url": "https://loudwire.com/tentative-release-date-slipknot-look-outside-your-window-revealed/",
     "publishedAt": "2026-04-08T14:44:39.000Z",
     "summary": "A tentative, non-Record Store Day release date for Slipknot members' 'Look Outside Your Window' album has been revealed online. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/bruno-mars-tour-tickets-buy-online-1236156379/",
-    "source": "billboard",
-    "title": "Bruno Mars’ The Romantic Tour 2026: How to Get Affordable Last-Minute Tickets Online",
-    "url": "https://www.billboard.com/culture/product-recommendations/bruno-mars-tour-tickets-buy-online-1236156379/",
-    "publishedAt": "2026-04-08T14:30:13.000Z",
-    "summary": "The pop-funk singer is back on the road — tour dates in the United States start in Las Vegas on Friday, Apr. 10.",
     "image": null
   },
   {
@@ -117,42 +225,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/how-to-watch-the-testaments-online-1236215718/",
-    "source": "billboard",
-    "title": "Here’s How to Watch ‘The Handmaid’s Tale’ Sequel ‘The Testaments’ Online",
-    "url": "https://www.billboard.com/culture/product-recommendations/how-to-watch-the-testaments-online-1236215718/",
-    "publishedAt": "2026-04-08T14:00:00.000Z",
-    "summary": "The show is based on Margaret Atwood's 2019 novel of the same name.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/awards/laufey-2026-ascap-creative-voice-award-1236217344/",
-    "source": "billboard",
-    "title": "Laufey Set to Receive 2026 ASCAP Creative Voice Award",
-    "url": "https://www.billboard.com/music/awards/laufey-2026-ascap-creative-voice-award-1236217344/",
-    "publishedAt": "2026-04-08T14:00:00.000Z",
-    "summary": "Previous recipients include Questlove, Wyclef Jean & Lyle Lovett.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rock/radiohead-motion-picture-house-kid-amnesia-tour-tickets-coachella-1236217640/",
-    "source": "billboard",
-    "title": "Radiohead to Debut New A/V Installation at Coachella This Weekend Before Wider North American Tour – Here’s What To Expect",
-    "url": "https://www.billboard.com/music/rock/radiohead-motion-picture-house-kid-amnesia-tour-tickets-coachella-1236217640/",
-    "publishedAt": "2026-04-08T14:00:00.000Z",
-    "summary": "The audiovisual installation will head to a number of North American cities over the coming months.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/pop/former-enhypen-member-heeseung-launches-solo-era-evan-1236217673/",
-    "source": "billboard",
-    "title": "Former ENHYPEN Member HEESEUNG Launches Solo Era As EVAN",
-    "url": "https://www.billboard.com/music/pop/former-enhypen-member-heeseung-launches-solo-era-evan-1236217673/",
-    "publishedAt": "2026-04-08T13:23:22.000Z",
-    "summary": "The K-pop star says he hopes to reach fans with a new musical identity that \"fully expresses my most honest and natural self.\"",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/news/american-football-enlist-turnstiles-brendan-yates-for-new-song/",
     "source": "pitchfork",
     "title": "American Football Enlist Turnstile’s Brendan Yates for New Song",
@@ -162,30 +234,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/culture/tv-film/madonna-the-studio-fictional-revival-scrapped-biopic-1236217661/",
-    "source": "billboard",
-    "title": "Madonna’s 2-Episode Arc on ‘The Studio’ Will  Center Around Fictional Revival of Scrapped Biopic",
-    "url": "https://www.billboard.com/culture/tv-film/madonna-the-studio-fictional-revival-scrapped-biopic-1236217661/",
-    "publishedAt": "2026-04-08T13:00:34.000Z",
-    "summary": "The plot line will reportedly find star Seth Rogen's fictional Continental Studios taking the singer's life story pic to the Venice Film Festival for a splashy premiere.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/video/business-of-coachella-high-stakes-booking-ticketing/",
-    "source": "billboard",
-    "title": "The Business of Coachella: High-Stakes Booking, Ticketing and Festival Economics | On the Record",
-    "url": "https://www.billboard.com/video/business-of-coachella-high-stakes-booking-ticketing/",
-    "publishedAt": "2026-04-08T13:00:00.000Z",
-    "summary": "Coachella has become the biggest festival in America — and it rewrote the live music playbook in the process. Katie Bain, Billboard‘s senior music correspondent and director of Billboard Dance, joins Billboard On The Record to break down how a scrappy desert show founded by then-local promoter Goldenvoice turned into a global cultural force, from […]",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/pop/peter-asher-documentary-trailer-james-taylor-linda-ronstadt-1236217217/",
-    "source": "billboard",
-    "title": "Watch James Taylor, Linda Ronstadt & More Laud Peter Asher in ‘Peter Asher: Everywhere Man’ Documentary Trailer",
-    "url": "https://www.billboard.com/music/pop/peter-asher-documentary-trailer-james-taylor-linda-ronstadt-1236217217/",
-    "publishedAt": "2026-04-08T13:00:00.000Z",
-    "summary": "He’s “the legend behind music’s biggest legends,” as Asher is dubbed in the trailer, premiering below.",
+    "id": "nme-https://news.google.com/rss/articles/CBMikwFBVV95cUxNTm8tbTY1X3FKWUZFUnkyNmhOSkh0cG1NY2xvWGFMejZPTmRCQTZIT0lpaVo5c3ZqVl9fZ0NrNEo0RGlxTFEyNzB3TWk3SDd3OTZJdk5tSzd4WHZBRV90UEs3MndlalhEM0l1SGNvd2F6ZUJRcjBiYjV6eTV6R3ZDcWF2OXdsWUpNd0haNXNHa0QwTVk?oc=5",
+    "source": "nme",
+    "title": "Pink Floyd announce new ‘8-Tracks’ compilation album - NME",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTm8tbTY1X3FKWUZFUnkyNmhOSkh0cG1NY2xvWGFMejZPTmRCQTZIT0lpaVo5c3ZqVl9fZ0NrNEo0RGlxTFEyNzB3TWk3SDd3OTZJdk5tSzd4WHZBRV90UEs3MndlalhEM0l1SGNvd2F6ZUJRcjBiYjV6eTV6R3ZDcWF2OXdsWUpNd0haNXNHa0QwTVk?oc=5",
+    "publishedAt": "2026-04-08T13:00:17.000Z",
+    "summary": "Pink Floyd announce new ‘8-Tracks’ compilation album NME",
     "image": null
   },
   {
@@ -216,6 +270,24 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMipgFBVV95cUxPanVkMUd3MkJBVVNZRjNLQTlVZUt3NTEwM0M5TGx2YWNqOHN1X25seHNoSWRNak1tbXdSRGw0dWp4b1VRUzZNXzZ3cE5NaDRjaUJ1QWlITHE5Z1pubXJoMDdyTkFhUmV1X3pFZVFsRjhNYjVYWEFaWlNUeEI0QVY1WGY2R3JoS1g2RFRjRWZMUk5hR1BTSHZWblpGblkzeFY4YTZQdGhB?oc=5",
+    "source": "nme",
+    "title": "Courtney Barnett announces 2026 UK and European tour - NME",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPanVkMUd3MkJBVVNZRjNLQTlVZUt3NTEwM0M5TGx2YWNqOHN1X25seHNoSWRNak1tbXdSRGw0dWp4b1VRUzZNXzZ3cE5NaDRjaUJ1QWlITHE5Z1pubXJoMDdyTkFhUmV1X3pFZVFsRjhNYjVYWEFaWlNUeEI0QVY1WGY2R3JoS1g2RFRjRWZMUk5hR1BTSHZWblpGblkzeFY4YTZQdGhB?oc=5",
+    "publishedAt": "2026-04-08T10:52:53.000Z",
+    "summary": "Courtney Barnett announces 2026 UK and European tour NME",
+    "image": null
+  },
+  {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMijgFBVV95cUxPalAzZVFhaGNoaTNaRlZPSFJCWm1GYzk0LXA5RTdHbkFkMWVJd180bG1hOEs0d3J2Q1RCM1lDeWFubldZQklDcnVRWGp0ekM5RHVJY2N4RFBMS3Q3SlZ1Z2JOczI0ZkhSckN5LS1UMTY2Y1huRzFtckItbW96YkY1ODFaeHNabWZZUjNIQ3V3?oc=5",
+    "source": "kerrang",
+    "title": "Album review: As Everything Unfolds – DID YOU ASK TO BE SET FREE? - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPalAzZVFhaGNoaTNaRlZPSFJCWm1GYzk0LXA5RTdHbkFkMWVJd180bG1hOEs0d3J2Q1RCM1lDeWFubldZQklDcnVRWGp0ekM5RHVJY2N4RFBMS3Q3SlZ1Z2JOczI0ZkhSckN5LS1UMTY2Y1huRzFtckItbW96YkY1ODFaeHNabWZZUjNIQ3V3?oc=5",
+    "publishedAt": "2026-04-08T10:32:00.000Z",
+    "summary": "Album review: As Everything Unfolds – DID YOU ASK TO BE SET FREE? Kerrang!",
+    "image": null
+  },
+  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY2J0RGZVazNHWnAxNzg4QzNjQm1rOGhpV29UYjdQWlZJTjhVbnJXLVp2WXJYUTVoN045MWp2LUNjVURtajZaY2J4aE0xd3pzM0xzRkktN2NtcGFKLWx3SVhlWkpDTXh1WFJleU45OVFua1NKa2RzUFFGMjRiejRuNEdqUU93TUpSQnBlczBfR211ek9IckVjdWRkZThRUUhaU2hZaWFud09FU0dnWlhaeS02LTZzWlJIVDNGbGpxRHpMU1k?oc=5",
     "source": "kerrang",
     "title": "Midrift announce debut album, release opening track - Kerrang!",
@@ -240,15 +312,6 @@
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaUF0UnRzVExuTWlTVmd5ejJJbUw2R0tKS3RkRmdiYjVtTjd0djhWbnpjQlB5aUZfT2N2Qk5oV3JzZlNfUnFxa2tfUjZ5aTk5VXBtSTZWd3hIOVlxbXlvcm1sVWk1V1QxT0VIWl9vQVRMRUlxa2EwcTNITkVzZzcyOVZjdHN3ajRhZlFSYURHWWQ1YVE?oc=5",
     "publishedAt": "2026-04-08T09:43:00.000Z",
     "summary": "Ho99o9 confirm new UK summer headline shows Kerrang!",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMijgFBVV95cUxPalAzZVFhaGNoaTNaRlZPSFJCWm1GYzk0LXA5RTdHbkFkMWVJd180bG1hOEs0d3J2Q1RCM1lDeWFubldZQklDcnVRWGp0ekM5RHVJY2N4RFBMS3Q3SlZ1Z2JOczI0ZkhSckN5LS1UMTY2Y1huRzFtckItbW96YkY1ODFaeHNabWZZUjNIQ3V3?oc=5",
-    "source": "kerrang",
-    "title": "Album review: As Everything Unfolds – DID YOU ASK TO BE SET FREE? - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPalAzZVFhaGNoaTNaRlZPSFJCWm1GYzk0LXA5RTdHbkFkMWVJd180bG1hOEs0d3J2Q1RCM1lDeWFubldZQklDcnVRWGp0ekM5RHVJY2N4RFBMS3Q3SlZ1Z2JOczI0ZkhSckN5LS1UMTY2Y1huRzFtckItbW96YkY1ODFaeHNabWZZUjNIQ3V3?oc=5",
-    "publishedAt": "2026-04-08T09:42:00.000Z",
-    "summary": "Album review: As Everything Unfolds – DID YOU ASK TO BE SET FREE? Kerrang!",
     "image": null
   },
   {
@@ -405,39 +468,12 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/harry-styles-meltdown-festival-lineup-london-1235543128/",
-    "source": "rolling-stone",
-    "title": "Harry Styles’ Meltdown Festival Lineup Features Diverse Genres, Disco Occasionally",
-    "url": "https://www.rollingstone.com/music/music-news/harry-styles-meltdown-festival-lineup-london-1235543128/",
-    "publishedAt": "2026-04-07T18:11:00.000Z",
-    "summary": "“Every artist involved in this year’s Meltdown festival means so much to me, both as a fan and a musician,” singer says",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/twisted-sister-sebastian-bach-tour-dates/",
     "source": "loudwire",
     "title": "Twisted Sister Announce 2026 Tour Dates With Sebastian Bach",
     "url": "https://loudwire.com/twisted-sister-sebastian-bach-tour-dates/",
     "publishedAt": "2026-04-07T18:04:25.000Z",
     "summary": "The ex-Skid Row frontman will join the over-the-top rockers following Dee Snider's retirement. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/news/listen-to-the-strokes-auto-tuned-new-song-going-shopping/",
-    "source": "pitchfork",
-    "title": "Listen to the Strokes’ Auto-Tuned New Song “Going Shopping”",
-    "url": "https://pitchfork.com/news/listen-to-the-strokes-auto-tuned-new-song-going-shopping/",
-    "publishedAt": "2026-04-07T17:52:50.000Z",
-    "summary": "It’s the lead single off their upcoming album Reality Awaits",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/news/iceage-announce-new-album-for-love-of-grace-and-the-hereafter/",
-    "source": "pitchfork",
-    "title": "Iceage Announce New Album For Love of Grace & the Hereafter",
-    "url": "https://pitchfork.com/news/iceage-announce-new-album-for-love-of-grace-and-the-hereafter/",
-    "publishedAt": "2026-04-07T16:02:54.000Z",
-    "summary": "The follow-up to 2021’s Seek Shelter arrives next month",
     "image": null
   },
   {
@@ -558,30 +594,12 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMirgFBVV95cUxNMGEzWGctZmtCdWtSeFJzVDdUZlVRSk1WTm9KbUlwdWtrOF92TnJCVlNXNG5RdndIMjBfMTJHR3Y4M3VidEotZElfeXpVTUxYeXR5T0dKZkJpYUktX3l0V2FZUUpscTNDemc3T2hwNkREMENZVnhpaDNYZ0o0XzdNQnRpUXlxQ3gwSnBBc2VXOGpiR0pyZlBveGMxLVUtMlE1NTBkQ2taOHNLWkluaHc?oc=5",
-    "source": "nme",
-    "title": "Harry Styles shares indie-packed line-up for his curated Meltdown 2026 - NME",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMGEzWGctZmtCdWtSeFJzVDdUZlVRSk1WTm9KbUlwdWtrOF92TnJCVlNXNG5RdndIMjBfMTJHR3Y4M3VidEotZElfeXpVTUxYeXR5T0dKZkJpYUktX3l0V2FZUUpscTNDemc3T2hwNkREMENZVnhpaDNYZ0o0XzdNQnRpUXlxQ3gwSnBBc2VXOGpiR0pyZlBveGMxLVUtMlE1NTBkQ2taOHNLWkluaHc?oc=5",
-    "publishedAt": "2026-04-07T11:00:42.000Z",
-    "summary": "Harry Styles shares indie-packed line-up for his curated Meltdown 2026 NME",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/manchester-punk-festival-2/",
     "source": "louder-than-war",
     "title": "Manchester Punk Festival : Live Review",
     "url": "https://louderthanwar.com/manchester-punk-festival-2/",
     "publishedAt": "2026-04-07T10:41:53.000Z",
     "summary": "Manchester Punk Festival Various Venues in Manchester April 2026 With 140 acts playing across seven venues, Manchester Punk Festival is now in its eleventh year and has become a spectacular affair. Somehow balancing the DIY ethic that became the main driving force of the scene after its late Seventies burst into the mainstream with a […] The post Manchester Punk Festival : Live Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMingFBVV95cUxPam12WE9vdUFTRFZVemNkQkVZQXZOZ1Q5YlplbktJUktSWlItemVIaGFxVG1tbVpUcXg5Vmg2Mm5ucG0xOXlTUDk5TF9DNTlVQ2libE51ZjhKbkI2Tkg3YUpxTnZPTWNQMnctUXl6TkczcUpjUmRsX3JhbjVkX09RNFZ3WVhleXZSZ2JQdzk3WUpYeUwxNEx5UkRUaVN2UQ?oc=5",
-    "source": "nme",
-    "title": "Amanda Bynes to make \"EDM and rap\" inspired comeback to music - NME",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPam12WE9vdUFTRFZVemNkQkVZQXZOZ1Q5YlplbktJUktSWlItemVIaGFxVG1tbVpUcXg5Vmg2Mm5ucG0xOXlTUDk5TF9DNTlVQ2libE51ZjhKbkI2Tkg3YUpxTnZPTWNQMnctUXl6TkczcUpjUmRsX3JhbjVkX09RNFZ3WVhleXZSZ2JQdzk3WUpYeUwxNEx5UkRUaVN2UQ?oc=5",
-    "publishedAt": "2026-04-07T10:14:11.000Z",
-    "summary": "Amanda Bynes to make \"EDM and rap\" inspired comeback to music NME",
     "image": null
   },
   {
@@ -636,15 +654,6 @@
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN1NNcmNfbWZJSnAwcEpwNWJVdlV5Z3loaTJlVkdmek03VHBDaGE2NjgxcDVLZlZOQURWQ2Jlcmo4SUFrenZOc0VvbEtTWHNra2tmbTdQUmItUzNaUS12dGViMEJDQ0l2dEVoSnJWemF6VjJkeDZ0TXNMUEtmSEthT2JTd1hIdW1WWjdTeW84V3RpNjQy?oc=5",
     "publishedAt": "2026-04-07T07:00:00.000Z",
     "summary": "Album review: Melvins with Napalm Death – Savage Imperial Death March Kerrang!",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/vote-better-guitar-great-jimmy-page-vs-jimi-hendrix/",
-    "source": "loudwire",
-    "title": "VOTE: Better Guitar Great - Jimmy Page vs. Jimi Hendrix",
-    "url": "https://loudwire.com/vote-better-guitar-great-jimmy-page-vs-jimi-hendrix/",
-    "publishedAt": "2026-04-06T20:00:37.000Z",
-    "summary": "Will you vote for Jimmy Page or Jimi Hendrix as the better guitarist in this week's Chuck's Fight Club Loudwire Nights poll? Continue reading…",
     "image": null
   },
   {
@@ -708,15 +717,6 @@
     "url": "https://www.uncut.co.uk/news/listen-to-u2s-new-easter-lily-ep-153968/",
     "publishedAt": "2026-04-03T10:10:00.000Z",
     "summary": "It comes hot on the heels of last month's Days Of Ash EP The post Listen to U2’s new Easter Lily EP appeared first on UNCUT.",
-    "image": null
-  },
-  {
-    "id": "uncut-https://www.uncut.co.uk/features/richard-thompson-album-by-album-26243/",
-    "source": "uncut",
-    "title": "“I thought we should create our own rock’n’roll language” – Richard Thompson interviewed",
-    "url": "https://www.uncut.co.uk/features/richard-thompson-album-by-album-26243/",
-    "publishedAt": "2026-04-02T16:09:07.000Z",
-    "summary": "The master talks us through some of his finest albums, including Liege & Lief, I Want To See The Bright Lights Tonight and Rumor And Sigh The post “I thought we should create our own rock’n’roll language” – Richard Thompson interviewed appeared first on UNCUT.",
     "image": null
   }
 ]
