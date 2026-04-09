@@ -1,5 +1,23 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/pop/mitski-if-i-leave-performance-jimmy-kimmel-live-1236218685/",
+    "source": "billboard",
+    "title": "Mitski Is a Picture of Calm For ‘If I Leave’ Performance on ‘Kimmel’: Watch",
+    "url": "https://www.billboard.com/music/pop/mitski-if-i-leave-performance-jimmy-kimmel-live-1236218685/",
+    "publishedAt": "2026-04-09T09:58:46.000Z",
+    "summary": "Wearing a luxurious, faux leopard-skin coat, and a knee-length string of beads, Mitski led the way as her full band rocked out.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/keli-holiday-tour-album-interview-1236218663/",
+    "source": "billboard",
+    "title": "With North America and Europe Tour Dates to Come, Keli Holiday Has ‘Hunkered Down’ With His Next Album",
+    "url": "https://www.billboard.com/music/pop/keli-holiday-tour-album-interview-1236218663/",
+    "publishedAt": "2026-04-09T09:15:43.000Z",
+    "summary": "“I've written the majority of the next record,” he tells Billboard.",
+    "image": null
+  },
+  {
     "id": "louder-than-war-https://louderthanwar.com/bowie-live-on-the-loch-event-announced-for-7th-8th-november-2026/",
     "source": "louder-than-war",
     "title": "Bowie: Live On The Loch event announced for 7th/8th November 2026",
@@ -123,24 +141,6 @@
     "url": "https://www.rollingstone.com/music/music-news/the-sequence-gwendolyn-blondy-chisolm-dead-obituary-1235543740/",
     "publishedAt": "2026-04-08T22:56:08.000Z",
     "summary": "The rapper and singer-songwriter formed the hip-hip group with Cheryl “The Pearl” Cook and Angie Stone in 1979 and quickly scored a hit with “Funk You Up”",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/flea-honora-album-billboard-chart-debut-1236218335/",
-    "source": "billboard",
-    "title": "Flea Makes His Solo Billboard Chart Debut, With ‘Honora’ Arriving on 6 Album Charts",
-    "url": "https://www.billboard.com/music/chart-beat/flea-honora-album-billboard-chart-debut-1236218335/",
-    "publishedAt": "2026-04-08T22:51:14.000Z",
-    "summary": "The jazz set brings the Red Hot Chili Peppers bassist to the top 10 on multiple rankings.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/pooh-shiesty-denied-bail-evidence-gucci-mane-kidnapping/",
-    "source": "billboard",
-    "title": "Pooh Shiesty Denied Bail as Judge Cites ‘Credible Evidence’ in Gucci Mane Kidnapping Case",
-    "url": "https://www.billboard.com/pro/pooh-shiesty-denied-bail-evidence-gucci-mane-kidnapping/",
-    "publishedAt": "2026-04-08T22:50:43.000Z",
-    "summary": "Shiesty's lawyer counters that the case rests on \"very questionable” witness statements with no physical evidence.",
     "image": null
   },
   {
@@ -387,6 +387,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMiigFBVV95cUxONzJQam1xVF9rOWZWSFBjWFlvTzc2UXFkcjh4TE1SWlY1azVfTC1BWFBBdVBvdlpHWkczWW5fMFdDelhIWGhBajNuc1lZU20wVHV3clRyYXFNNjBRR19FMklwWm1hQjd0ek1NS0xHbnBxYmVTZHc3NFg1R0FEZEZBS3AtZVVYVXZxbEE?oc=5",
+    "source": "nme",
+    "title": "The Strokes’ delicate, sun-kissed comeback single ‘Going Shopping’ is an item you’d try on but wouldn’t buy - NME",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONzJQam1xVF9rOWZWSFBjWFlvTzc2UXFkcjh4TE1SWlY1azVfTC1BWFBBdVBvdlpHWkczWW5fMFdDelhIWGhBajNuc1lZU20wVHV3clRyYXFNNjBRR19FMklwWm1hQjd0ek1NS0xHbnBxYmVTZHc3NFg1R0FEZEZBS3AtZVVYVXZxbEE?oc=5",
+    "publishedAt": "2026-04-08T11:00:17.000Z",
+    "summary": "The Strokes’ delicate, sun-kissed comeback single ‘Going Shopping’ is an item you’d try on but wouldn’t buy NME",
+    "image": null
+  },
+  {
     "id": "nme-https://news.google.com/rss/articles/CBMipgFBVV95cUxPanVkMUd3MkJBVVNZRjNLQTlVZUt3NTEwM0M5TGx2YWNqOHN1X25seHNoSWRNak1tbXdSRGw0dWp4b1VRUzZNXzZ3cE5NaDRjaUJ1QWlITHE5Z1pubXJoMDdyTkFhUmV1X3pFZVFsRjhNYjVYWEFaWlNUeEI0QVY1WGY2R3JoS1g2RFRjRWZMUk5hR1BTSHZWblpGblkzeFY4YTZQdGhB?oc=5",
     "source": "nme",
     "title": "Courtney Barnett announces 2026 UK and European tour - NME",
@@ -564,15 +573,6 @@
     "url": "https://loudwire.com/pantera-win-march-madness-decades-destruction/",
     "publishedAt": "2026-04-07T15:37:34.000Z",
     "summary": "The \"Cowboys From Hell\" emerged over Metallica in the championship round. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMirgFBVV95cUxOa0tKenVhaXZacEM3YzFHWG5OX2hnOVVua0sxU3FEbG15YmwtOHZCZkRPTlVhdTRkY1lkVmJJQ2tNbVM3Zks2RUQwWkFBa0s3anAyZ0NsLTQya0xOa09KMV9BY1JLU09UNEh3TkFic3lkWEN5a0lnYUhtU3NGaDQ0UWFBaDVmR05VeGxaUFh0NjZrekU2Q3ZVSXc0NUI1eHFMTEJhRjNvTWk0eXpPMFE?oc=5",
-    "source": "nme",
-    "title": "‘The Boys’ season five review: superhero satire nails the endgame - NME",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa0tKenVhaXZacEM3YzFHWG5OX2hnOVVua0sxU3FEbG15YmwtOHZCZkRPTlVhdTRkY1lkVmJJQ2tNbVM3Zks2RUQwWkFBa0s3anAyZ0NsLTQya0xOa09KMV9BY1JLU09UNEh3TkFic3lkWEN5a0lnYUhtU3NGaDQ0UWFBaDVmR05VeGxaUFh0NjZrekU2Q3ZVSXc0NUI1eHFMTEJhRjNvTWk0eXpPMFE?oc=5",
-    "publishedAt": "2026-04-07T15:06:04.000Z",
-    "summary": "‘The Boys’ season five review: superhero satire nails the endgame NME",
     "image": null
   },
   {
