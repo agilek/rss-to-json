@@ -1,5 +1,77 @@
 [
   {
+    "id": "pitchfork-https://pitchfork.com/news/the-rolling-stones-prepping-new-album/",
+    "source": "pitchfork",
+    "title": "The Rolling Stones Prepping New Album",
+    "url": "https://pitchfork.com/news/the-rolling-stones-prepping-new-album/",
+    "publishedAt": "2026-04-10T14:32:31.000Z",
+    "summary": "The Hackney Diamonds follow-up is due in July, led by a single called “Rough and Twisted”",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/thirty-seconds-to-mars-a-beautiful-lie-this-is-war-albums-2027-tour/",
+    "source": "loudwire",
+    "title": "Thirty Seconds to Mars to Celebrate 2 Classic Albums on 2027 Tour",
+    "url": "https://loudwire.com/thirty-seconds-to-mars-a-beautiful-lie-this-is-war-albums-2027-tour/",
+    "publishedAt": "2026-04-10T14:00:16.000Z",
+    "summary": "Thirty Seconds to Mars promise to revisit 'A Beautiful Lie' and 'This Is War' during a celebration of the two albums on their 2027 European tour. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/acm-awards-record-holders-miranda-lambert-brooks-and-dunn/",
+    "source": "billboard",
+    "title": "Miranda Lambert, Brooks & Dunn, More ACM Awards Record-Holders",
+    "url": "https://www.billboard.com/lists/acm-awards-record-holders-miranda-lambert-brooks-and-dunn/",
+    "publishedAt": "2026-04-10T14:00:00.000Z",
+    "summary": "George Strait, Alabama & Garth Brooks are also in the ACM Awards record book.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/violet-grohl-nepo-baby-label-dont-care-1235544232/",
+    "source": "rolling-stone",
+    "title": "Violet Grohl ‘Really’ Doesn’t Care About Being a Nepo Baby: Call Me One ‘All You Want’",
+    "url": "https://www.rollingstone.com/music/music-news/violet-grohl-nepo-baby-label-dont-care-1235544232/",
+    "publishedAt": "2026-04-10T13:57:27.000Z",
+    "summary": "The 19-year-old rising singer-songwriter, whose dad is Foo Fighters frontman Dave Grohl, said she just hopes “people will give me a shot”",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/10-new-albums-you-should-listen-to-now-my-new-band-believe-mei-semones-lone/",
+    "source": "pitchfork",
+    "title": "10 New Albums You Should Listen to Now: My New Band Believe, Mei Semones, Lone, and More",
+    "url": "https://pitchfork.com/news/10-new-albums-you-should-listen-to-now-my-new-band-believe-mei-semones-lone/",
+    "publishedAt": "2026-04-10T13:45:17.000Z",
+    "summary": "Stream new releases from My New Band Believe, Mei Semones, and Lone",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/flatland-cavalry-work-of-heart-album-interview-1235544585/",
+    "source": "rolling-stone",
+    "title": "Flatland Cavalry Are All Texas Heart on a Rock-Influenced New Album",
+    "url": "https://www.rollingstone.com/music/music-features/flatland-cavalry-work-of-heart-album-interview-1235544585/",
+    "publishedAt": "2026-04-10T13:39:35.000Z",
+    "summary": "On Work of Heart, the Lubbock band turn up the guitars, wallop the drums, and lay bare their emotions",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rock/jack-white-dates-2026-tour-uk-ireland-europe-north-america-1236219780/",
+    "source": "billboard",
+    "title": "Jack White Announces Dates for 2026 Headlining Tour of U.K./Ireland, Europe and North America",
+    "url": "https://www.billboard.com/music/rock/jack-white-dates-2026-tour-uk-ireland-europe-north-america-1236219780/",
+    "publishedAt": "2026-04-10T13:32:11.000Z",
+    "summary": "The expansive outing is slated to kick off on July 10 in Washington, D.C.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/rock-stars-nicest-reputations/",
+    "source": "loudwire",
+    "title": "11 Rock Stars With the Nicest Reputations",
+    "url": "https://loudwire.com/rock-stars-nicest-reputations/",
+    "publishedAt": "2026-04-10T13:27:28.000Z",
+    "summary": "The following rock and metal musicians have always been universally known by fans and other musicians for being very nice. Continue reading…",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/pop/katseye-talk-sister-forever-manon-beyonce-inspiration-coachella-1236219762/",
     "source": "billboard",
     "title": "KATSEYE Talk ‘Sister Forever’ Manon and Beyoncé Inspiration For Coachella Debut: ‘The Most Iconic’",
@@ -15,6 +87,15 @@
     "url": "https://loudwire.com/new-rock-metal-tours-announced-april-3-9-2026/",
     "publishedAt": "2026-04-10T12:24:52.000Z",
     "summary": "Get details on new tours featuring Jack White, Billy Idol, Silverstein and Story of the Year and more. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMiywFBVV95cUxQbjJFZjV1LVBvb25hVTZoUVR1OWhEcy1MeWFfRDZDUXI1aVpYY085QlBCUklmWmFqZ05PQU1zeFpJLWVWWV9xdE9scHdxM2ZtRW1CYUx0dGRXQ3ZwWHpVdUpjUUNqQ29lY0ItTWpqN3FickRWbFhXcW5CUGp5eUtHUno3UEk1d3RRUGdqQ1Q5NGVsdnZsenExcXJBaFNSdDJiMU9rZlYwQXEtMThnc2RFX2RTX1lzYjA3SUwwT1lJV0UxR3gycm4teWxsMA?oc=5",
+    "source": "nme",
+    "title": "The Rolling Stones return: update on The Cockroaches, new music, and the chances of a 2026 tour - NME",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbjJFZjV1LVBvb25hVTZoUVR1OWhEcy1MeWFfRDZDUXI1aVpYY085QlBCUklmWmFqZ05PQU1zeFpJLWVWWV9xdE9scHdxM2ZtRW1CYUx0dGRXQ3ZwWHpVdUpjUUNqQ29lY0ItTWpqN3FickRWbFhXcW5CUGp5eUtHUno3UEk1d3RRUGdqQ1Q5NGVsdnZsenExcXJBaFNSdDJiMU9rZlYwQXEtMThnc2RFX2RTX1lzYjA3SUwwT1lJV0UxR3gycm4teWxsMA?oc=5",
+    "publishedAt": "2026-04-10T12:06:40.000Z",
+    "summary": "The Rolling Stones return: update on The Cockroaches, new music, and the chances of a 2026 tour NME",
     "image": null
   },
   {
@@ -180,15 +261,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/hilary-duff-re-records-come-clean-laguna-beach-reunion-1236219314/",
-    "source": "billboard",
-    "title": "Hilary Duff Re-Records Nostalgic Hit From Her Past for ‘Laguna Beach’ Reunion Special: Listen",
-    "url": "https://www.billboard.com/music/music-news/hilary-duff-re-records-come-clean-laguna-beach-reunion-1236219314/",
-    "publishedAt": "2026-04-10T04:02:23.000Z",
-    "summary": "The track will also appear on her Record Store Day collection of re-recorded tracks.",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/news/kehlani-recruits-missy-elliott-for-new-song-back-and-forth/",
     "source": "pitchfork",
     "title": "Kehlani Recruits Missy Elliott for New Song “Back and Forth”",
@@ -204,15 +276,6 @@
     "url": "https://loudwire.com/2026-hard-rock-metal-album-release-calendar/",
     "publishedAt": "2026-04-10T04:01:48.000Z",
     "summary": "See all the new releases coming each week of 2026. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/ella-langley-dandelion-review-songs-ranked-list/",
-    "source": "billboard",
-    "title": "Ella Langley’s ‘Dandelion’: Every Song Ranked",
-    "url": "https://www.billboard.com/lists/ella-langley-dandelion-review-songs-ranked-list/",
-    "publishedAt": "2026-04-10T04:01:00.000Z",
-    "summary": "We're choosin' our favorites on Langley's new album.",
     "image": null
   },
   {
@@ -245,10 +308,10 @@
   {
     "id": "pitchfork-https://pitchfork.com/news/anitta-teams-up-with-shakira-for-new-song-choka-choka/",
     "source": "pitchfork",
-    "title": "Anitta Teams Up With Shakira for New Song “Choka Choka”",
+    "title": "Anitta and Shakira Drop New Duet “Choka Choka”",
     "url": "https://pitchfork.com/news/anitta-teams-up-with-shakira-for-new-song-choka-choka/",
     "publishedAt": "2026-04-10T01:43:26.000Z",
-    "summary": "The Brazilian pop star’s new album, Equilibrivm, is out next Thursday, April 16",
+    "summary": "The Brazilian pop star’s new album Equilibrivm drops April 16",
     "image": null
   },
   {
@@ -333,24 +396,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/paul-cauthen-kenny-chesney-interview-1235544362/",
-    "source": "rolling-stone",
-    "title": "Paul Cauthen on Why He Addresses Kenny As ‘Mr. Chesney’",
-    "url": "https://www.rollingstone.com/music/music-country/paul-cauthen-kenny-chesney-interview-1235544362/",
-    "publishedAt": "2026-04-09T19:58:38.000Z",
-    "summary": "The big-voiced Texan once boasted about riding tractors before they were sexy. Or was that his alter-ego \"Big Velvet\" talking?",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-album-reviews/ella-langley-dandelion-review-1235544258/",
-    "source": "rolling-stone",
-    "title": "Ella Langley Shows Why She’s a Budding Country Superstar on ‘Dandelion’",
-    "url": "https://www.rollingstone.com/music/music-album-reviews/ella-langley-dandelion-review-1235544258/",
-    "publishedAt": "2026-04-09T18:53:36.000Z",
-    "summary": "After blowing up with \"Choosin' Texas,\" Langley shows off a fresh color wheel of vintage influences on her strong sophomore album",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMi4gFBVV95cUxNT0NNUFh2YnpWSmxZNVk2SVdidjZWSjhfYlBfeVM2REx0YmItSzF0aFhmVnBSd0R6TGNzYVQwdm1MNGRHYVdhLUVKNEZkMkRLV0YyM2tqRG91YnNqSXk1MFgxMGFtQmJzclc0ZzUyTmYwbGRCdXYwTzgtMW9xU2lDNmlFa2w0NTk1eWFEQ01zN1JjSHVRX0JhbjM3bkg2aVp6VWJCZWt0MzBqUW45UFVVYWNTR1lnZ1VuNGVCdGtMa2FqV1Y2TVA1b2d1QTZjWnZqX1J0T1J1Mk9VYnY4MmNNUjNn?oc=5",
     "source": "nme",
     "title": "'God Bless The Band': Courteeners announce 'best of' album with single 'Luckiest Man Alive' and 2026 arena tour - NME",
@@ -360,21 +405,12 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/news/girl-trouble-return-with-first-album-in-23-years/",
-    "source": "pitchfork",
-    "title": "Girl Trouble Return With First Album in 23 Years",
-    "url": "https://pitchfork.com/news/girl-trouble-return-with-first-album-in-23-years/",
-    "publishedAt": "2026-04-09T16:30:35.000Z",
-    "summary": "The veteran garage rockers will share As Is on June 26 via their original label home, K Records",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/news/watch-robert-plant-perform-led-zeppelins-ramble-on-on-colbert/",
-    "source": "pitchfork",
-    "title": "Watch Robert Plant Perform Led Zeppelin’s “Ramble On” on Colbert",
-    "url": "https://pitchfork.com/news/watch-robert-plant-perform-led-zeppelins-ramble-on-on-colbert/",
-    "publishedAt": "2026-04-09T16:08:31.000Z",
-    "summary": "The classic-rock figure also sat down for an interview",
+    "id": "kerrang-https://news.google.com/rss/articles/CBMigAFBVV95cUxPVVhHNG5ReUUzeFRMUlU1eXZDc1lCWmhCdThiQWxPSG9Pb0k0R2MxRGZRSFBPczY5SUpNc21RZjQ4Z18zcHgwLWhLYjNSUzkwbjBudmxTZUdZZlRadGJfM2c2RktCTDdIRzZ0YUZwaWVTTk9nQlhWMTU5QldaLW1pSg?oc=5",
+    "source": "kerrang",
+    "title": "Album review: Bodysnatcher – Hell Is Here, Hell Is Home - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVVhHNG5ReUUzeFRMUlU1eXZDc1lCWmhCdThiQWxPSG9Pb0k0R2MxRGZRSFBPczY5SUpNc21RZjQ4Z18zcHgwLWhLYjNSUzkwbjBudmxTZUdZZlRadGJfM2c2RktCTDdIRzZ0YUZwaWVTTk9nQlhWMTU5QldaLW1pSg?oc=5",
+    "publishedAt": "2026-04-09T16:25:05.000Z",
+    "summary": "Album review: Bodysnatcher – Hell Is Here, Hell Is Home Kerrang!",
     "image": null
   },
   {
@@ -486,15 +522,6 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/tim-montana-break-me-down-interview/",
-    "source": "loudwire",
-    "title": "Interview: Tim Montana's New Song, First Responders + More",
-    "url": "https://loudwire.com/tim-montana-break-me-down-interview/",
-    "publishedAt": "2026-04-09T11:37:31.000Z",
-    "summary": "Tim Montana dives into his new song, \"Break Me Down,\" why he's in therapy and so much more, including his recent efforts helping rural EMS and first responders. Continue reading…",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/features/laura-nyro-remembered-musical-force-nature-100568/",
     "source": "uncut",
     "title": "Laura Nyro remembered: “A musical force of nature”",
@@ -585,30 +612,12 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/lambrini-girls-pull-out-of-coachella-following-harrowing-injury-to-band-member/",
-    "source": "loudwire",
-    "title": "Lambrini Girls Pull Out of Coachella Following Harrowing Injury",
-    "url": "https://loudwire.com/lambrini-girls-pull-out-of-coachella-following-harrowing-injury-to-band-member/",
-    "publishedAt": "2026-04-08T19:45:14.000Z",
-    "summary": "A member of the band has been seriously injured and will need time to recover before touring again. Continue reading…",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/news/listen-to-the-lemon-twigs-new-track-2-or-3-154047/",
     "source": "uncut",
     "title": "Listen to The Lemon Twigs new track, “2 or 3”",
     "url": "https://www.uncut.co.uk/news/listen-to-the-lemon-twigs-new-track-2-or-3-154047/",
     "publishedAt": "2026-04-08T17:22:01.000Z",
     "summary": "It's the latest taster for their new album, Look For Your Mind! The post Listen to The Lemon Twigs new track, “2 or 3” appeared first on UNCUT.",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMitgFBVV95cUxPcjVzWlJ6cHFBMElWbjcxVzZVMWU3WkdPSFRDZDN0YlBrVHpIMDhZRVo1cnZkNjVyN014Y0xkMExMSVJXcnBjQWZ1cU1QZm5ieUtBUWpXajZOT0JjRnl2bUpTWDVDblU3cGZTNXVxSzN1c0NRQmFMZmUyaHcySW00QWtLLUxGT0RucHFfMWY4SWFvT2VGZG5lOUVEWkp0QmVVb212bEtES0hMNWM4dHNXaGVJUDQ3dw?oc=5",
-    "source": "nme",
-    "title": "Listen to The Prodigy’s “dirty, acid 303” remix of Sleaford Mods’ ‘Elitest G.O.A.T’ - NME",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcjVzWlJ6cHFBMElWbjcxVzZVMWU3WkdPSFRDZDN0YlBrVHpIMDhZRVo1cnZkNjVyN014Y0xkMExMSVJXcnBjQWZ1cU1QZm5ieUtBUWpXajZOT0JjRnl2bUpTWDVDblU3cGZTNXVxSzN1c0NRQmFMZmUyaHcySW00QWtLLUxGT0RucHFfMWY4SWFvT2VGZG5lOUVEWkp0QmVVb212bEtES0hMNWM4dHNXaGVJUDQ3dw?oc=5",
-    "publishedAt": "2026-04-08T15:43:27.000Z",
-    "summary": "Listen to The Prodigy’s “dirty, acid 303” remix of Sleaford Mods’ ‘Elitest G.O.A.T’ NME",
     "image": null
   },
   {
@@ -708,15 +717,6 @@
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOXphRkUyWWtscTJOcDBhOFBqa3pCM0hlRTlES0tOcXJDcDgwcEJNTEUxYXhRSWlUNlp2bU1udW1nbDNpc2JOTHVKNGpnWUxJUjRtamdQMWM4VEx4cWx2VXBYSlRudWp0NFUtbVlla0pEMjlFc19GUF9xZ2M2ck5sQXJVWkZ0UzFkTkZOTmpWeEx1TkNnMzAycm5iNjVrQl8wcVhHZGJTQTdBeHZCT2dwS1VKYWMtSXp5Ym4wQg?oc=5",
     "publishedAt": "2026-04-07T16:58:00.000Z",
     "summary": "Head Automatica reveal U.S. dates, tease third album kerrang.com",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMiigFBVV95cUxQTU1OZ1RDSEN3MHAyT2ZWTHA3T05VSVlJOWdzeFA4cm44WWpVNmVDNHVWV3NTajcxc0E5NWtxdjJ0LXJ5a2tJRlExb1dRa3VQMm4weEhZZkZOWTZsQjlULUw2WW55TEZBM0lIMG51Y3VUdVNvQ3IwSW9ubXNYNnJTaEVQWGl5X1h3Y2c?oc=5",
-    "source": "kerrang",
-    "title": "Held. drop new single with High Vis’ Graham Sayle - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTU1OZ1RDSEN3MHAyT2ZWTHA3T05VSVlJOWdzeFA4cm44WWpVNmVDNHVWV3NTajcxc0E5NWtxdjJ0LXJ5a2tJRlExb1dRa3VQMm4weEhZZkZOWTZsQjlULUw2WW55TEZBM0lIMG51Y3VUdVNvQ3IwSW9ubXNYNnJTaEVQWGl5X1h3Y2c?oc=5",
-    "publishedAt": "2026-04-07T12:20:00.000Z",
-    "summary": "Held. drop new single with High Vis’ Graham Sayle Kerrang!",
     "image": null
   }
 ]
