@@ -1,5 +1,77 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/lists/best-new-dance-songs-david-guetta-afrojack-sia/",
+    "source": "billboard",
+    "title": "Friday Dance Music Guide: The Week’s Best New Tracks From Afrojack, David Guetta & Sia & More",
+    "url": "https://www.billboard.com/lists/best-new-dance-songs-david-guetta-afrojack-sia/",
+    "publishedAt": "2026-04-10T20:36:24.000Z",
+    "summary": "Simply the best new dance tracks of the week.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/backstreet-boys-ex-manager-nsync-boy-band-confidential-1235544767/",
+    "source": "rolling-stone",
+    "title": "Backstreet Boys’ Ex Manager Admits to Undermining Band to Help ‘NSYNC: ‘I’m Going to Turn All My Guns Against You’",
+    "url": "https://www.rollingstone.com/music/music-news/backstreet-boys-ex-manager-nsync-boy-band-confidential-1235544767/",
+    "publishedAt": "2026-04-10T20:32:44.000Z",
+    "summary": "Music manager Johnny Wright makes the revelation in the new Investigation Discovery docuseries, ‘Boy Band Confidential.'",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/chris-brown-usher-raymond-brown-tour-dream-setlist/",
+    "source": "billboard",
+    "title": "Chris Brown & Usher’s R&B Tour: The Dream Setlist",
+    "url": "https://www.billboard.com/lists/chris-brown-usher-raymond-brown-tour-dream-setlist/",
+    "publishedAt": "2026-04-10T20:24:52.000Z",
+    "summary": "The R&B legends are set to take over stadiums across North America later this year.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/offset-released-from-hospital-after-shooting-1235545040/",
+    "source": "rolling-stone",
+    "title": "Offset Released From Hospital and Focused on ‘Recovery’ After Casino Shooting: ‘Life’s a Gamble’",
+    "url": "https://www.rollingstone.com/music/music-news/offset-released-from-hospital-after-shooting-1235545040/",
+    "publishedAt": "2026-04-10T20:16:48.000Z",
+    "summary": "The Migos member is up and walking after being shot in Florida on Monday, a spokesperson said",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/bini-coachella-2026-new-album-signals-interview/",
+    "source": "billboard",
+    "title": "BINI Previews ‘Big Responsibility’ of Its Coachella 2026 Set & Breaks Down New EP ‘Signals’",
+    "url": "https://www.billboard.com/lists/bini-coachella-2026-new-album-signals-interview/",
+    "publishedAt": "2026-04-10T20:12:43.000Z",
+    "summary": "Before the girl group breaks new ground for Filipino artists at the festival, the octet reflects on the historic music moment and favorite new songs.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/edgehill-doubletake-number-1-alternative-airplay-1236220226/",
+    "source": "billboard",
+    "title": "Edgehill Scores First Billboard No. 1 as ‘Doubletake’ Tops Alternative Airplay",
+    "url": "https://www.billboard.com/music/chart-beat/edgehill-doubletake-number-1-alternative-airplay-1236220226/",
+    "publishedAt": "2026-04-10T19:55:50.000Z",
+    "summary": "The band reigns with its first entry overall.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/angine-de-poitrine-demand-viral-video-canada-music-news/",
+    "source": "billboard",
+    "title": "In Canada: Live Demand for Quebec Band Angine de Poitrine Explodes After Viral KEXP Performance",
+    "url": "https://www.billboard.com/pro/angine-de-poitrine-demand-viral-video-canada-music-news/",
+    "publishedAt": "2026-04-10T19:17:16.000Z",
+    "summary": "Plus: Live Nation Canada's economic report on Toronto's Rogers Stadium and Boi-1da and Nelly Furtado's \"Electric Circus.\"",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/offset-released-from-hospital-thanks-fans-statement-1236220128/",
+    "source": "billboard",
+    "title": "Offset Released From Hospital After Shooting, Thanks Fans for Support: ‘Life’s a Gamble & I’m Still Playing to Win’",
+    "url": "https://www.billboard.com/music/rb-hip-hop/offset-released-from-hospital-thanks-fans-statement-1236220128/",
+    "publishedAt": "2026-04-10T19:04:52.000Z",
+    "summary": "The Migos rapper had been hospitalized for non-life-threatening injuries since the shooting April 6.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/rb-hip-hop/dj-clue-j-cole-clipse-jay-z-interview-1236216242/",
     "source": "billboard",
     "title": "DJ Clue Talks J. Cole, Clipse & Trying to Get Jay-Z Back in the Studio: ‘I Got a Whole Archive of Songs I’ve Never Used’",
@@ -45,42 +117,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/latin/mestiza-coachella-debut-new-album-spanish-chica-interview-1236219951/",
-    "source": "billboard",
-    "title": "Mëstiza Talk Coachella Debut and Feeling Eager to ‘Open Doors for Women Starting Out in Electronic Music’",
-    "url": "https://www.billboard.com/music/latin/mestiza-coachella-debut-new-album-spanish-chica-interview-1236219951/",
-    "publishedAt": "2026-04-10T18:20:22.000Z",
-    "summary": "The Spanish DJ duo's festival debut coincides with the release of their second album, Spanish Chica.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/kacey-musgraves-ufos-followed-plane-videos-orbs-1236220014/",
-    "source": "billboard",
-    "title": "Kacey Musgraves Recounts Being ‘Followed’ by UFOs on Recent Flight: ‘Just Didn’t Look Normal’",
-    "url": "https://www.billboard.com/music/music-news/kacey-musgraves-ufos-followed-plane-videos-orbs-1236220014/",
-    "publishedAt": "2026-04-10T17:57:08.000Z",
-    "summary": "The singer said her plane's pilots have been seeing the flying orbs \"every night.\"",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/executive-turntable-round-hill-chad-doerge-president/",
-    "source": "billboard",
-    "title": "Executive Turntable: Round Hill Music Appoints New President/Deputy CEO — Plus, Moves at Big Loud & More",
-    "url": "https://www.billboard.com/lists/executive-turntable-round-hill-chad-doerge-president/",
-    "publishedAt": "2026-04-10T17:51:52.000Z",
-    "summary": "Plus, hires and promotions at Oak View Group, Creative Artists Agency and Maverick Nashville.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/ai-music-valuation-platform-baltazar-inside-new-system/",
-    "source": "billboard",
-    "title": "Inside Baltazar, the New AI-Powered Music Valuation Platform: ‘Bloomberg Terminal for Music Assets’",
-    "url": "https://www.billboard.com/pro/ai-music-valuation-platform-baltazar-inside-new-system/",
-    "publishedAt": "2026-04-10T17:29:10.000Z",
-    "summary": "Built by Chapter Two and now partnered with Shot Tower Capital, Baltazar has ingested $2 billion worth of music statements to aid in royalty valuation and more.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/bruce-springsteen-streets-of-minneapolis-live-video-1235544991/",
     "source": "rolling-stone",
     "title": "Bruce Springsteen Leads a Rallying Cry and Honors a ‘Maestro’ in Tour Opener Videos",
@@ -96,24 +132,6 @@
     "url": "https://pitchfork.com/news/watch-bruce-springsteen-cover-purple-rain-in-high-def/",
     "publishedAt": "2026-04-10T17:07:11.000Z",
     "summary": "The Boss, the E Street Band, and guest Tom Morello saluted Prince at their Minneapolis tour opener last week",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/lady-gaga-katseye-best-new-music-this-week-poll-1236219910/",
-    "source": "billboard",
-    "title": "Which New Music Release Is Your Favorite This Week? Vote!",
-    "url": "https://www.billboard.com/music/music-news/lady-gaga-katseye-best-new-music-this-week-poll-1236219910/",
-    "publishedAt": "2026-04-10T17:05:57.000Z",
-    "summary": "Lady Gaga teamed up with Doechii, KATSEYE dropped a single and more.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/dermot-kennedy-makes-history-uk-albums-chart-third-number-1-1236219748/",
-    "source": "billboard",
-    "title": "Dermot Kennedy Makes History on U.K. Albums Chart With His Third No. 1",
-    "url": "https://www.billboard.com/music/chart-beat/dermot-kennedy-makes-history-uk-albums-chart-third-number-1-1236219748/",
-    "publishedAt": "2026-04-10T17:00:00.000Z",
-    "summary": "The Irish musician has hit the top spot with all three of his studio albums to date.",
     "image": null
   },
   {
@@ -243,6 +261,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMipgFBVV95cUxNUXhneE1DV05DaDBpQ2pyYWJQR3RpTXlWUTV3cGFNRkxfdlVmQzgyc2hlMksyclVIbFRwUVc4RDFUUWdIYzBVQkhKcGN2bUl2d3hCcm1VNzhKY3htaDJLSE5YQ3RJcVdGZm0wdHFmazhKWE1ERzhpckVFT1NqS3VXVGpreVdnWndjc3U4dmthRWZ5M0Z1SDNNV0JkNjFxTnQzR2NqQlVn?oc=5",
+    "source": "nme",
+    "title": "Violet Grohl: “Call me a ‘nepo baby’ all you want. It’s ‘whatever’ to me” - NME",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUXhneE1DV05DaDBpQ2pyYWJQR3RpTXlWUTV3cGFNRkxfdlVmQzgyc2hlMksyclVIbFRwUVc4RDFUUWdIYzBVQkhKcGN2bUl2d3hCcm1VNzhKY3htaDJLSE5YQ3RJcVdGZm0wdHFmazhKWE1ERzhpckVFT1NqS3VXVGpreVdnWndjc3U4dmthRWZ5M0Z1SDNNV0JkNjFxTnQzR2NqQlVn?oc=5",
+    "publishedAt": "2026-04-10T12:05:06.000Z",
+    "summary": "Violet Grohl: “Call me a ‘nepo baby’ all you want. It’s ‘whatever’ to me” NME",
+    "image": null
+  },
+  {
     "id": "pitchfork-https://pitchfork.com/news/coachella-2026-youtube-live-stream-schedule-and-details/",
     "source": "pitchfork",
     "title": "Coachella 2026 YouTube Live Stream Schedule & Details",
@@ -306,6 +333,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMizgFBVV95cUxQNkpBSUJ5elg0S0pEZDBxSS05Vm44bTFUN09JbFJjUUl6ejNXbkozT3o5ejI4bmxRY1RYeTFWWHhQR3cwNVE1OWxOSzFKS2RMcHlFOC1BTEFRa25PU0VyNE5Sb0k1WkxYa2RnNnBaNXlEa2kzMUZjQUVjLVcwcEVZaE1vYUxIREQtTHJKYW5fdnRCYW9oekRRa3B1emdYYVBIbThWdXlNRHF1VHk4NF9MQWJad0Rpck54UHRxajVIb21YUXNpZS1uNmdEb1BIdw?oc=5",
+    "source": "nme",
+    "title": "Tom DeLonge showed Trent Reznor a “dead alien” photo at Foo Fighters drummer Ilan Rubin's wedding - NME",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNkpBSUJ5elg0S0pEZDBxSS05Vm44bTFUN09JbFJjUUl6ejNXbkozT3o5ejI4bmxRY1RYeTFWWHhQR3cwNVE1OWxOSzFKS2RMcHlFOC1BTEFRa25PU0VyNE5Sb0k1WkxYa2RnNnBaNXlEa2kzMUZjQUVjLVcwcEVZaE1vYUxIREQtTHJKYW5fdnRCYW9oekRRa3B1emdYYVBIbThWdXlNRHF1VHk4NF9MQWJad0Rpck54UHRxajVIb21YUXNpZS1uNmdEb1BIdw?oc=5",
+    "publishedAt": "2026-04-10T08:57:33.000Z",
+    "summary": "Tom DeLonge showed Trent Reznor a “dead alien” photo at Foo Fighters drummer Ilan Rubin's wedding NME",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/foo-fighters-of-all-people-single-1235544743/",
     "source": "rolling-stone",
     "title": "Foo Fighters Reflect on Mortality on Thrashing Single ‘Of All People’",
@@ -330,15 +366,6 @@
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeEwtN1NVeC1zdGdmcjdYOFBRX3dIYWl6UGVJaHo3akZRUWVWcXNzTjMtem9nZEoxMUh5ck9NTzNjQmVodzJ2NnE5WENlSnBtejQyUm1wdzhieVJKWjJsc05NTVBXclp5NnRFOFhRaUNzOHNfY3Q3TFlUNUU0NThqRzVOaU5PdTA?oc=5",
     "publishedAt": "2026-04-10T07:00:58.000Z",
     "summary": "My New Band Believe – ‘My New Band Believe’ review: a staggering, sprawling masterpiece from the mind of Cameron Picton NME",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/kehlani-missy-elliott-back-and-forth-single-1235544728/",
-    "source": "rolling-stone",
-    "title": "Kehlani Taps Missy Elliott for Collaborative Single ‘Back and Forth’",
-    "url": "https://www.rollingstone.com/music/music-news/kehlani-missy-elliott-back-and-forth-single-1235544728/",
-    "publishedAt": "2026-04-10T07:00:32.000Z",
-    "summary": "The R&B singer’s fifth album, Kehlani, is set to arrive on April 24",
     "image": null
   },
   {
@@ -411,15 +438,6 @@
     "url": "https://loudwire.com/evanescence-sanctuary-album/",
     "publishedAt": "2026-04-10T02:36:02.000Z",
     "summary": "Evanescence have revealed that their long-awaited new album is called 'Sanctuary.' Learn more about it. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/andra-day-manager-lawsuit-1235544653/",
-    "source": "rolling-stone",
-    "title": "Andra Day Scores Win Over Ex-Manager As ‘Civil Theft’ Claim Moves Forward",
-    "url": "https://www.rollingstone.com/music/music-news/andra-day-manager-lawsuit-1235544653/",
-    "publishedAt": "2026-04-10T01:45:55.000Z",
-    "summary": "A judge ruled Day can proceed with allegations her longtime manager, Jeffrey Evans, “siphoned so much money” from her, she was left “in financial ruins”",
     "image": null
   },
   {
@@ -549,15 +567,6 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMiowFBVV95cUxQVGdvcFM4X3JUYkstWmRTRWt1eWJCSzNUaXdyeG1GdDQ1NXdQV3k0UkxYZGdIN3I3QXJkTk9OWnJULXRQT0dxLUFZU1A2NTA0ZUZXWWNGc05fTS1BT2RCVHB2UFp0U2NlN1k1ZlBQTkNLdW1EaFJrWFBibDZfTEZyTFBteVJVWXFCZkJnSE82OUlIZHhUcEwyX1dCS3RzcEY0MWRr?oc=5",
-    "source": "nme",
-    "title": "Anne Hathaway based her ‘Mother Mary’ performance on Taylor Swift - NME",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVGdvcFM4X3JUYkstWmRTRWt1eWJCSzNUaXdyeG1GdDQ1NXdQV3k0UkxYZGdIN3I3QXJkTk9OWnJULXRQT0dxLUFZU1A2NTA0ZUZXWWNGc05fTS1BT2RCVHB2UFp0U2NlN1k1ZlBQTkNLdW1EaFJrWFBibDZfTEZyTFBteVJVWXFCZkJnSE82OUlIZHhUcEwyX1dCS3RzcEY0MWRr?oc=5",
-    "publishedAt": "2026-04-09T12:11:04.000Z",
-    "summary": "Anne Hathaway based her ‘Mother Mary’ performance on Taylor Swift NME",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/taylor-momsen-spider-bite-acdc-tour/",
     "source": "loudwire",
     "title": "A Second Wild Animal Has Bitten Taylor Momsen on AC/DC Tour",
@@ -600,15 +609,6 @@
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53XzNmQTAxRk5NeEwxT3gzZGkySVhDSkNpNnJ0WFE4ZUgwa18wU1hsYzdIVEpmaFEwbmRXOERwU3JudEFCREJqYkFZODVSdjF3alVvUk9ZalVnYnloRUFjcnFRQTJrN1FWeXlQMWd0OGJVUXpuVUIw?oc=5",
     "publishedAt": "2026-04-09T10:00:00.000Z",
     "summary": "Album review: Tigercub – Nets To Catch The Wind Kerrang!",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMisgFBVV95cUxPaDBKanlBZy1QNGsxNlBTZnBOS29XRThTUkl2endieWRmbzh6X2tPbjlwbEF5VnpxYktZUjdQSktwc1NrcXcxMEFWNUZHazRnZVFSRFZEVWVZUUVUYy1lY0c4TEl4aWdHYzRjMGJjODNSQXhNOXNrQ3JzS2dncVJyVVBBVkhpbFVMbXJkVzA1bnpQV19PQTBLc19TSzJwZG9VeUcwY1dmTDE2bGx0OWdUc3RR?oc=5",
-    "source": "nme",
-    "title": "Coachella 2026 livestream will feature all seven stages and 4K resolution - NME",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaDBKanlBZy1QNGsxNlBTZnBOS29XRThTUkl2endieWRmbzh6X2tPbjlwbEF5VnpxYktZUjdQSktwc1NrcXcxMEFWNUZHazRnZVFSRFZEVWVZUUVUYy1lY0c4TEl4aWdHYzRjMGJjODNSQXhNOXNrQ3JzS2dncVJyVVBBVkhpbFVMbXJkVzA1bnpQV19PQTBLc19TSzJwZG9VeUcwY1dmTDE2bGx0OWdUc3RR?oc=5",
-    "publishedAt": "2026-04-09T09:47:46.000Z",
-    "summary": "Coachella 2026 livestream will feature all seven stages and 4K resolution NME",
     "image": null
   },
   {
