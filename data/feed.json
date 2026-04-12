@@ -1,5 +1,59 @@
 [
   {
+    "id": "pitchfork-https://pitchfork.com/news/watch-geese-cover-justin-biebers-baby-at-coachella-2026/",
+    "source": "pitchfork",
+    "title": "Watch Geese Cover Justin Bieber’s “Baby” at Coachella 2026",
+    "url": "https://pitchfork.com/news/watch-geese-cover-justin-biebers-baby-at-coachella-2026/",
+    "publishedAt": "2026-04-12T02:17:12.000Z",
+    "summary": "Bieber is headlining the festival tonight",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/sabrina-carpenter-coachella-zaghrouta-reaction-apology-1236221010/",
+    "source": "billboard",
+    "title": "Sabrina Carpenter Apologizes For Her Reaction to Crowd Chant at Coachella: ‘Now I Know What a Zaghrouta Is’",
+    "url": "https://www.billboard.com/music/music-news/sabrina-carpenter-coachella-zaghrouta-reaction-apology-1236221010/",
+    "publishedAt": "2026-04-12T02:01:17.000Z",
+    "summary": "\"Could have handled it better!\" wrote the pop star, who had said \"I don't like it\" and called the cheer \"weird\" while headlining the fest Friday (April 10).",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/addison-rae-performance-coachella-2026-1235543491/",
+    "source": "rolling-stone",
+    "title": "Addison Rae Gets Coachella Screaming With Thrilling Set",
+    "url": "https://www.rollingstone.com/music/music-news/addison-rae-performance-coachella-2026-1235543491/",
+    "publishedAt": "2026-04-12T01:51:44.000Z",
+    "summary": "The singer delivered her first full-length performance at the music festival and welcomed Maddie Ziegler to the stage",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/katseye-talks-about-performing-pinky-up-for-the-first-time-at-coachella/",
+    "source": "billboard",
+    "title": "Katseye Talks About Performing “Pinky Up” For the First Time At Coachella & “Golden” With HUNTR/X | Billboard News",
+    "url": "https://www.billboard.com/video/katseye-talks-about-performing-pinky-up-for-the-first-time-at-coachella/",
+    "publishedAt": "2026-04-12T01:45:12.000Z",
+    "summary": "KATSEYE talks about performing their new song “Pinky Up” at Coachella 2026 weekend 1, how they feel about the choreography compared to some of the other songs and performing “Golden” from Netflix’s ‘KPop Demon Hunters’ with the girls with HUNTR/X.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/latin/christian-nodal-video-un-vals-controversy-director-responds-1236221009/",
+    "source": "billboard",
+    "title": "Christian Nodal’s ‘Un Vals’ Director Responds to Controversy Over Model in Video: ‘It Was Our Mistake’",
+    "url": "https://www.billboard.com/music/latin/christian-nodal-video-un-vals-controversy-director-responds-1236221009/",
+    "publishedAt": "2026-04-12T00:39:41.000Z",
+    "summary": "The music video has sparked conversation due to the model's resemblance to both Cazzu and Ángela Aguilar.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/jack-white-performance-coachella-2026-1235543501/",
+    "source": "rolling-stone",
+    "title": "Jack White Tears Through a Hit-Laden Last-Minute Set at Coachella",
+    "url": "https://www.rollingstone.com/music/music-news/jack-white-performance-coachella-2026-1235543501/",
+    "publishedAt": "2026-04-12T00:19:02.000Z",
+    "summary": "The guitar hero revisits the desert fest to deliver a career-spanning retrospective",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/music-news/zac-brown-band-sunday-night-baseball-song-nbc-1236220984/",
     "source": "billboard",
     "title": "Zac Brown Band Steps Up to the Plate for NBC’s ‘Sunday Night Baseball’ Opening",
@@ -90,12 +144,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/lists/bts-arirang-world-tour-south-korea-best-moments/",
-    "source": "billboard",
-    "title": "BTS’ ARIRANG World Tour Launches in South Korea: Best Moments from Opening Night",
-    "url": "https://www.billboard.com/lists/bts-arirang-world-tour-south-korea-best-moments/",
-    "publishedAt": "2026-04-11T16:21:47.000Z",
-    "summary": "The K-pop superstar kicked off the trek at Goyang Stadium on April 9.",
+    "id": "nme-https://news.google.com/rss/articles/CBMiogFBVV95cUxPRm5JV1hwNU14OXBIVHIzZm9nYjF3aHR5UE1mZ3RLMHZpYzBlMDd6RDhQRGs1OHhrMFZxdnBtaDlWQkU3SXdXbUpSMU52dS1ZaUE2S3VzczBSeENaQ1pJSXB4RUhLVGZZUGE0SXNmRDhQTTRSeFg5bHN0dklzOWdPMkIwWWl3UnRuc19ZU0RKVHhUdTEwbk1rb2NYYnRab0JRMHc?oc=5",
+    "source": "nme",
+    "title": "Dolly Parton is the most popular person in America, poll finds - NME",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRm5JV1hwNU14OXBIVHIzZm9nYjF3aHR5UE1mZ3RLMHZpYzBlMDd6RDhQRGs1OHhrMFZxdnBtaDlWQkU3SXdXbUpSMU52dS1ZaUE2S3VzczBSeENaQ1pJSXB4RUhLVGZZUGE0SXNmRDhQTTRSeFg5bHN0dklzOWdPMkIwWWl3UnRuc19ZU0RKVHhUdTEwbk1rb2NYYnRab0JRMHc?oc=5",
+    "publishedAt": "2026-04-11T16:24:06.000Z",
+    "summary": "Dolly Parton is the most popular person in America, poll finds NME",
     "image": null
   },
   {
@@ -108,30 +162,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/watch-malcolm-in-the-middle-lifes-still-unfair-online-1236220486/",
-    "source": "billboard",
-    "title": "How to Watch ‘Malcolm in the Middle: Life’s Still Unfair’ Online",
-    "url": "https://www.billboard.com/culture/product-recommendations/watch-malcolm-in-the-middle-lifes-still-unfair-online-1236220486/",
-    "publishedAt": "2026-04-11T15:55:56.000Z",
-    "summary": "After nearly 20 years, Malcom and his whimsical sitcom family are back. Start streaming the four-part miniseries today, April 10.",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/david-lee-roth-teddy-swims-jump-coachella/",
     "source": "loudwire",
     "title": "David Lee Roth Makes Surprise Coachella Guest Appearance",
     "url": "https://loudwire.com/david-lee-roth-teddy-swims-jump-coachella/",
     "publishedAt": "2026-04-11T15:52:50.000Z",
     "summary": "Watch Diamond Dave deliver the Van Halen classic during his surprise appearance. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/morgan-wallen-tour-minneapolis-best-moments/",
-    "source": "billboard",
-    "title": "Morgan Wallen’s Still The Problem Tour Kickoff in Minneapolis: Best Moments",
-    "url": "https://www.billboard.com/lists/morgan-wallen-tour-minneapolis-best-moments/",
-    "publishedAt": "2026-04-11T14:45:11.000Z",
-    "summary": "An affable Wallen brought his A game to U.S. Bank Stadium.",
     "image": null
   },
   {
@@ -252,24 +288,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/bini-coachella-2026-performance-first-filipino-group-1235543475/",
-    "source": "rolling-stone",
-    "title": "Bini Become First Filipino Group to Perform at Coachella 2026",
-    "url": "https://www.rollingstone.com/music/music-news/bini-coachella-2026-performance-first-filipino-group-1235543475/",
-    "publishedAt": "2026-04-11T02:10:19.000Z",
-    "summary": "The girl group stunned as they brought their Filipino pop to the desert on Friday night",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/cardi-b-offset-tasha-k-sanctions-alleged-harassment-1235545253/",
-    "source": "rolling-stone",
-    "title": "Cardi B Wants Blogger Tasha K to Face ‘Economically Painful’ Sanctions for ‘Relentless’ Harassment",
-    "url": "https://www.rollingstone.com/music/music-news/cardi-b-offset-tasha-k-sanctions-alleged-harassment-1235545253/",
-    "publishedAt": "2026-04-11T01:06:23.000Z",
-    "summary": "Cardi claims the blogger has been using \"scantily veiled commentary and strategic provocation\" to target her online, despite agreeing to a non-disparagement deal",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/richie-tyler-rum-lad-returns-with-blistering-new-project-meeowmers/",
     "source": "louder-than-war",
     "title": "Richie Tyler (Rum Lad) returns with blistering new project Meeowmers!",
@@ -357,15 +375,6 @@
     "url": "https://loudwire.com/thirty-seconds-to-mars-a-beautiful-lie-this-is-war-albums-2027-tour/",
     "publishedAt": "2026-04-10T14:00:16.000Z",
     "summary": "Thirty Seconds to Mars promise to revisit 'A Beautiful Lie' and 'This Is War' during a celebration of the two albums on their 2027 European tour. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/news/10-new-albums-you-should-listen-to-now-my-new-band-believe-mei-semones-lone/",
-    "source": "pitchfork",
-    "title": "10 New Albums You Should Listen to Now: My New Band Believe, Mei Semones, Lone, and More",
-    "url": "https://pitchfork.com/news/10-new-albums-you-should-listen-to-now-my-new-band-believe-mei-semones-lone/",
-    "publishedAt": "2026-04-10T13:45:17.000Z",
-    "summary": "Stream new releases from My New Band Believe, Mei Semones, and Lone",
     "image": null
   },
   {
@@ -474,15 +483,6 @@
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNkpBSUJ5elg0S0pEZDBxSS05Vm44bTFUN09JbFJjUUl6ejNXbkozT3o5ejI4bmxRY1RYeTFWWHhQR3cwNVE1OWxOSzFKS2RMcHlFOC1BTEFRa25PU0VyNE5Sb0k1WkxYa2RnNnBaNXlEa2kzMUZjQUVjLVcwcEVZaE1vYUxIREQtTHJKYW5fdnRCYW9oekRRa3B1emdYYVBIbThWdXlNRHF1VHk4NF9MQWJad0Rpck54UHRxajVIb21YUXNpZS1uNmdEb1BIdw?oc=5",
     "publishedAt": "2026-04-10T08:57:33.000Z",
     "summary": "Tom DeLonge showed Trent Reznor a “dead alien” photo at Foo Fighters drummer Ilan Rubin's wedding NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMihwFBVV95cUxPeEwtN1NVeC1zdGdmcjdYOFBRX3dIYWl6UGVJaHo3akZRUWVWcXNzTjMtem9nZEoxMUh5ck9NTzNjQmVodzJ2NnE5WENlSnBtejQyUm1wdzhieVJKWjJsc05NTVBXclp5NnRFOFhRaUNzOHNfY3Q3TFlUNUU0NThqRzVOaU5PdTA?oc=5",
-    "source": "nme",
-    "title": "My New Band Believe – ‘My New Band Believe’ review: a staggering, sprawling masterpiece from the mind of Cameron Picton - NME",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeEwtN1NVeC1zdGdmcjdYOFBRX3dIYWl6UGVJaHo3akZRUWVWcXNzTjMtem9nZEoxMUh5ck9NTzNjQmVodzJ2NnE5WENlSnBtejQyUm1wdzhieVJKWjJsc05NTVBXclp5NnRFOFhRaUNzOHNfY3Q3TFlUNUU0NThqRzVOaU5PdTA?oc=5",
-    "publishedAt": "2026-04-10T07:00:58.000Z",
-    "summary": "My New Band Believe – ‘My New Band Believe’ review: a staggering, sprawling masterpiece from the mind of Cameron Picton NME",
     "image": null
   },
   {
