@@ -1,11 +1,92 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/ella-langley-choosin-texas-20th-week-no-1-1236222848/",
+    "source": "billboard",
+    "title": "Ella Langley’s ‘Choosin’ Texas’ Hits 20th Week at No. 1 on Hot Country Songs",
+    "url": "https://www.billboard.com/music/chart-beat/ella-langley-choosin-texas-20th-week-no-1-1236222848/",
+    "publishedAt": "2026-04-14T20:53:55.000Z",
+    "summary": "The song ties for ninth-longest rule in the chart’s archives.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/kanye-west-hate-speech-consequences-timeline/",
+    "source": "billboard",
+    "title": "A Timeline of the Consequences Ye Has Faced for His ‘WLM’ Shirts & Antisemitic Hate Speech",
+    "url": "https://www.billboard.com/lists/kanye-west-hate-speech-consequences-timeline/",
+    "publishedAt": "2026-04-14T20:22:13.000Z",
+    "summary": "The fallout continues for the rapper.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/awards/nashville-songwriters-honored-cma-triple-play-awards-1236222113/",
+    "source": "billboard",
+    "title": "Nashville Songwriters Honored During CMA Triple Play Awards",
+    "url": "https://www.billboard.com/music/awards/nashville-songwriters-honored-cma-triple-play-awards-1236222113/",
+    "publishedAt": "2026-04-14T20:05:37.000Z",
+    "summary": "The CMA Triple Play Awards honored top country songwriters, a top songwriter advocate and a Country Music Hall of Fame inductee-elect.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/katseye-pinky-up-merch-hot-topic-shop-online-1236222542/",
+    "source": "billboard",
+    "title": "KATSEYE Drop New ‘Pinky Up’ Merch Release — Without Manon",
+    "url": "https://www.billboard.com/culture/product-recommendations/katseye-pinky-up-merch-hot-topic-shop-online-1236222542/",
+    "publishedAt": "2026-04-14T19:53:39.000Z",
+    "summary": "The collection includes \"Pinky Up\" hoodies, pompom-adorned keychains and more.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/photos/rappers-rock-and-roll-hall-of-fame-1235026443/",
+    "source": "billboard",
+    "title": "Every Rapper in the Rock & Roll Hall of Fame",
+    "url": "https://www.billboard.com/photos/rappers-rock-and-roll-hall-of-fame-1235026443/",
+    "publishedAt": "2026-04-14T19:53:22.000Z",
+    "summary": "From Jay-Z and LL Cool J to Grandmaster Flash and the Furious Five, here's every rapper in the Rock Hall.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/mark-pitts-exits-rca-records-cofvnders-management-firm/",
+    "source": "billboard",
+    "title": "Mark Pitts Exits as President of RCA Records, Launches Multi-Media Management Firm Cofvnders",
+    "url": "https://www.billboard.com/pro/mark-pitts-exits-rca-records-cofvnders-management-firm/",
+    "publishedAt": "2026-04-14T19:49:51.000Z",
+    "summary": "The new company is involved in Usher and Chris Brown's recently announced co-headline tour.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/david-lee-roth-how-he-met-teddy-swims-coachella-1235546653/",
+    "source": "rolling-stone",
+    "title": "David Lee Roth on Hanging With Teddy Swims at Coachella: ‘We Got Along Like Pirates’",
+    "url": "https://www.rollingstone.com/music/music-features/david-lee-roth-how-he-met-teddy-swims-coachella-1235546653/",
+    "publishedAt": "2026-04-14T19:32:24.000Z",
+    "summary": "The former Van Halen frontman and perpetual showman tells us how he ended up singing “Jump” at his first Coachella",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/justin-bieber-streams-surge-coachella-1235547006/",
+    "source": "rolling-stone",
+    "title": "Justin Bieber Sees Huge Streaming Surge After Headlining Coachella",
+    "url": "https://www.rollingstone.com/music/music-news/justin-bieber-streams-surge-coachella-1235547006/",
+    "publishedAt": "2026-04-14T19:24:30.000Z",
+    "summary": "Tracks off Swag and Swag II saw big jumps, but plays of back-catalog hits like “U Smile,” “One Love,” and “Favorite Girl” enjoyed particularly big spikes",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/j-cole-chinese-basketball-league-visa-issues-1236222717/",
+    "source": "billboard",
+    "title": "J. Cole’s Chinese Basketball Association Stint Cut Short By Visa Issues",
+    "url": "https://www.billboard.com/music/rb-hip-hop/j-cole-chinese-basketball-league-visa-issues-1236222717/",
+    "publishedAt": "2026-04-14T19:23:50.000Z",
+    "summary": "The rapper and Dreamville boss originally signed on to play three games with the Nanjing Monkey Kings.",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-features/mc-lyte-rock-hall-of-fame-interview-1235546700/",
     "source": "rolling-stone",
     "title": "MC Lyte Talks ‘Surreal’ and ‘Humbling’ Rock Hall of Fame Induction",
     "url": "https://www.rollingstone.com/music/music-features/mc-lyte-rock-hall-of-fame-interview-1235546700/",
     "publishedAt": "2026-04-14T19:16:34.000Z",
-    "summary": "\"It's a testament to a career that I've worked almost four decades in now,\" Lyte as a Rock rapper says",
+    "summary": "“It’s a testament to a career that I’ve worked almost four decades in now,” Lyte as a Rock rapper says",
     "image": null
   },
   {
@@ -36,51 +117,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/justin-bieber-best-streaming-day-2026-after-coachella-set-1236222696/",
-    "source": "billboard",
-    "title": "Justin Bieber Had His Biggest Streaming Day of the Year After His Coachella Set",
-    "url": "https://www.billboard.com/music/chart-beat/justin-bieber-best-streaming-day-2026-after-coachella-set-1236222696/",
-    "publishedAt": "2026-04-14T18:35:54.000Z",
-    "summary": "The pop star enjoyed a boost of 54% in streams on April 12, the day after his performance.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/olivia-dean-man-i-need-almost-not-single-1236222610/",
-    "source": "billboard",
-    "title": "Olivia Dean Reveals ‘Man I Need’ Was Almost Not a Single Even Though She ‘Really Liked It’",
-    "url": "https://www.billboard.com/music/music-news/olivia-dean-man-i-need-almost-not-single-1236222610/",
-    "publishedAt": "2026-04-14T18:29:43.000Z",
-    "summary": "The singer shared it was rehearsing with her band that helped her change her mind.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/liv-morgan-dominik-mysterio-wrestlemania-fetty-wap-video-1236222475/",
-    "source": "billboard",
-    "title": "WWE’s Liv Morgan & Dirty Dominik Mysterio on Fetty Wap’s Genius, Why Post Malone Would Make a Great Heel",
-    "url": "https://www.billboard.com/music/rb-hip-hop/liv-morgan-dominik-mysterio-wrestlemania-fetty-wap-video-1236222475/",
-    "publishedAt": "2026-04-14T18:00:00.000Z",
-    "summary": "The lethal on-screen couple sat down for a chat with Billboard about their first WrestleMania moments and more.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/video/liv-morgan-dominik-mysterio-hometown-date-mixtape-video/",
-    "source": "billboard",
-    "title": "Liv Morgan & Dominik Mysterio’s Hometown Date Mixtape | Billboard News",
-    "url": "https://www.billboard.com/video/liv-morgan-dominik-mysterio-hometown-date-mixtape-video/",
-    "publishedAt": "2026-04-14T18:00:00.000Z",
-    "summary": "Billboard joins WWE Superstar couple Dominik Mysterio amd Liv Morgan at her hometown’s Elmwood Park Diner in New Jersey ahead of WrestleMania 42. Liv reflects on her journey to becoming Women’s World Champion, the injuries that kept her from her hometown SummerSlam moment and why she’s not done proving herself. Dominik opens up about growing […]",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/concord-partners-with-victor-victor-worldwide/",
-    "source": "billboard",
-    "title": "Concord Aims to Grow Hip-Hop Bona Fides by Partnering With Victor Victor Worldwide",
-    "url": "https://www.billboard.com/pro/concord-partners-with-victor-victor-worldwide/",
-    "publishedAt": "2026-04-14T17:55:45.000Z",
-    "summary": "The New York record label that broke artists like Pop Smoke and Ski Mask the Slump God will work with Concord to promote its artists and their legacies.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/madonna-confirms-confessions-sequel-1235546649/",
     "source": "rolling-stone",
     "title": "Madonna Confirms Her Return to the Dance Floor With ‘Confessions’ Sequel",
@@ -99,30 +135,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/bunnie-xo-poses-playboy-jelly-roll-sex-1236222638/",
-    "source": "billboard",
-    "title": "Bunnie Xo Poses for ‘Playboy,’ Talks Bonding With Jelly Roll’s Daughter, Sex After Weight Loss & More",
-    "url": "https://www.billboard.com/music/music-news/bunnie-xo-poses-playboy-jelly-roll-sex-1236222638/",
-    "publishedAt": "2026-04-14T17:46:51.000Z",
-    "summary": "The influencer touched on a number of sensitive topics in a Q&A for the publication.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/kanye-west-faces-ban-france-wireless-festival-controversy-1235546703/",
     "source": "rolling-stone",
     "title": "Kanye West Faces Potential Ban in France Amid Wireless Festival Controversy",
     "url": "https://www.rollingstone.com/music/music-news/kanye-west-faces-ban-france-wireless-festival-controversy-1235546703/",
     "publishedAt": "2026-04-14T17:43:04.000Z",
     "summary": "The rapper is currently scheduled to perform on June 11 at the Vélodrome stadium in Marseille",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/lifestyle/hailey-bieber-rihanna-fashion-inspo-matching-with-justin-baby-jack-1236222487/",
-    "source": "billboard",
-    "title": "Hailey Bieber Talks Rihanna Fashion Inspo, Matching With Justin & Mornings With Baby Jack: ‘Kids Are Just So Yummy In the Morning When They First Wake Up’",
-    "url": "https://www.billboard.com/culture/lifestyle/hailey-bieber-rihanna-fashion-inspo-matching-with-justin-baby-jack-1236222487/",
-    "publishedAt": "2026-04-14T17:33:40.000Z",
-    "summary": "The Rhode skincare founder asked for an Interview magazine cover and she got it, naturally.",
     "image": null
   },
   {
@@ -234,15 +252,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/waxahatchee-mj-lenderman-cover-choosin-texas-1235546530/",
-    "source": "rolling-stone",
-    "title": "Watch Waxahatchee and MJ Lenderman Cover ‘Choosin’ Texas’",
-    "url": "https://www.rollingstone.com/music/music-country/waxahatchee-mj-lenderman-cover-choosin-texas-1235546530/",
-    "publishedAt": "2026-04-14T14:19:54.000Z",
-    "summary": "The indie-rock collaborators duetted on Ella Langley’s chart-topper at their tour opener in Atlanta",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/news/waxahatchee-covers-this-is-loreleis-wheres-your-love-now/",
     "source": "pitchfork",
     "title": "Waxahatchee Covers This Is Lorelei’s “Where’s Your Love Now”",
@@ -258,15 +267,6 @@
     "url": "https://www.uncut.co.uk/reviews/thundercats-distracted-reviewed-surreal-humour-soft-focus-soul-and-cosmic-anxieties-collide-154126/",
     "publishedAt": "2026-04-14T14:11:49.000Z",
     "summary": "Stephen Bruner returns after six years with more humour, psych-funk and guests The post Thundercat’s Distracted reviewed: surreal humour, soft-focus soul and cosmic anxieties collide appeared first on UNCUT.",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/sam-dave-david-porter-book-hold-on-im-comin-1235545061/",
-    "source": "rolling-stone",
-    "title": "How a Bathroom Trip Led to the Soul Classic ‘Hold On, I’m Comin’",
-    "url": "https://www.rollingstone.com/music/music-news/sam-dave-david-porter-book-hold-on-im-comin-1235545061/",
-    "publishedAt": "2026-04-14T14:06:03.000Z",
-    "summary": "In his new memoir, famed soul songwriter David Porter recounts how a quick rest stop inspired an immortal soul song",
     "image": null
   },
   {
@@ -366,6 +366,15 @@
     "url": "https://www.uncut.co.uk/news/pulp-and-scritti-politti-to-play-rough-trade-50-at-london-southbank-154115/",
     "publishedAt": "2026-04-14T11:00:44.000Z",
     "summary": "Plus Caroline, My New Band Believe and a live soundtrack to Ken Loach's Kes The post Pulp and Scritti Politti to play Rough Trade 50 at London’s Southbank in July appeared first on UNCUT.",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMivAFBVV95cUxQU3Z2ZDFPeHdxb0RMUGVRVkpDb2VJX2lPRUtUY3JocFFSTkhlTEFwYVl3OGxUNVlacFdLNlJOMjVGREZvcGRTQkR2dGpPa3VOb3JxYUNyMlA1TXBoYkJsVW92VmRZMVRRZlpKNnF5UVR3ZmhoWWQ0Y25aVUlxM0NXcTQ0MVpvT0pLTUlvRWVfc05HUVhFRzJPVFhwVWZQTjA4ZHpodHlMTDBUazgwMFZlMm0yeEZtZDU1XzJ1dQ?oc=5",
+    "source": "nme",
+    "title": "Robbie Williams hits back at \"bully\" podcaster: \"I'm a real Redcoat. You're a real bully. I know which one I'd rather be” - NME",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQU3Z2ZDFPeHdxb0RMUGVRVkpDb2VJX2lPRUtUY3JocFFSTkhlTEFwYVl3OGxUNVlacFdLNlJOMjVGREZvcGRTQkR2dGpPa3VOb3JxYUNyMlA1TXBoYkJsVW92VmRZMVRRZlpKNnF5UVR3ZmhoWWQ0Y25aVUlxM0NXcTQ0MVpvT0pLTUlvRWVfc05HUVhFRzJPVFhwVWZQTjA4ZHpodHlMTDBUazgwMFZlMm0yeEZtZDU1XzJ1dQ?oc=5",
+    "publishedAt": "2026-04-14T10:06:37.000Z",
+    "summary": "Robbie Williams hits back at \"bully\" podcaster: \"I'm a real Redcoat. You're a real bully. I know which one I'd rather be” NME",
     "image": null
   },
   {
@@ -591,15 +600,6 @@
     "url": "https://louderthanwar.com/happy-mondays-bring-the-thrills-back-to-manc/",
     "publishedAt": "2026-04-13T11:12:25.000Z",
     "summary": "Happy Mondays bring the thrills back to Manc The post Happy Mondays The Farm Manchester Victoria Warehouse Live Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMipAFBVV95cUxQeEQ3V3JNa3J4TVBIOWVOODViM1dPZXRUZ08yUGpVU2NaRVZjaENpRUJJUGtKSE9hUWlqaUFnRmd3ZWd5bDgtNE02Ylhad0MwYURFYS1PNEh6OVZja3c3NjQ3R3lRdjdpOEIwanBBVDJNV1pwUjVodEs2Q3JtRXVWai03ejJydnRyWFpqZGtuX21qOU5WaHR0T0x1WFVJSmIwam40QQ?oc=5",
-    "source": "nme",
-    "title": "Bryan Cranston defends ‘Breaking Bad’ wife Skyler after fan backlash - NME",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeEQ3V3JNa3J4TVBIOWVOODViM1dPZXRUZ08yUGpVU2NaRVZjaENpRUJJUGtKSE9hUWlqaUFnRmd3ZWd5bDgtNE02Ylhad0MwYURFYS1PNEh6OVZja3c3NjQ3R3lRdjdpOEIwanBBVDJNV1pwUjVodEs2Q3JtRXVWai03ejJydnRyWFpqZGtuX21qOU5WaHR0T0x1WFVJSmIwam40QQ?oc=5",
-    "publishedAt": "2026-04-13T11:00:17.000Z",
-    "summary": "Bryan Cranston defends ‘Breaking Bad’ wife Skyler after fan backlash NME",
     "image": null
   },
   {
