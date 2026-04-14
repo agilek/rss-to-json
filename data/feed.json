@@ -1,5 +1,32 @@
 [
   {
+    "id": "uncut-https://www.uncut.co.uk/news/pulp-and-scritti-politti-to-play-rough-trade-50-at-london-southbank-154115/",
+    "source": "uncut",
+    "title": "Pulp and Scritti Politti to play Rough Trade 50 at London’s Southbank in July",
+    "url": "https://www.uncut.co.uk/news/pulp-and-scritti-politti-to-play-rough-trade-50-at-london-southbank-154115/",
+    "publishedAt": "2026-04-14T11:00:44.000Z",
+    "summary": "Plus Caroline, My New Band Believe and a live soundtrack to Ken Loach's Kes The post Pulp and Scritti Politti to play Rough Trade 50 at London’s Southbank in July appeared first on UNCUT.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/rm-interview-arirang-bts-1235544804/",
+    "source": "rolling-stone",
+    "title": "RM on the Meaning of Life and More: ‘I Try to Express Universal Things’",
+    "url": "https://www.rollingstone.com/music/music-features/rm-interview-arirang-bts-1235544804/",
+    "publishedAt": "2026-04-14T10:00:00.000Z",
+    "summary": "In our cover-story interview, BTS’ leader goes deep on figuring out his band’s identity, the music he loves, and “fighting demons”",
+    "image": null
+  },
+  {
+    "id": "louder-than-war-https://louderthanwar.com/public-image-ltd-buenos-aires-2026-live-review/",
+    "source": "louder-than-war",
+    "title": "Public Image Ltd – Buenos Aires, 2026 : Live Review",
+    "url": "https://louderthanwar.com/public-image-ltd-buenos-aires-2026-live-review/",
+    "publishedAt": "2026-04-14T09:38:03.000Z",
+    "summary": "Public Image Limited live in Argentina The post Public Image Ltd – Buenos Aires, 2026 : Live Review appeared first on Louder Than War.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/music-news/jimmy-weesa-psychic-fever-interview-1236219967/",
     "source": "billboard",
     "title": "JIMMY and WEESA of PSYCHIC FEVER on the Group’s Evolution and Strengths Discovered Overseas",
@@ -50,7 +77,7 @@
     "title": "Liam Gallagher Responds to Oasis’ Rock and Roll Hall of Fame Induction: ‘A Real Honor’",
     "url": "https://www.rollingstone.com/music/music-news/liam-gallagher-oasis-rock-hall-induction-response-1235546475/",
     "publishedAt": "2026-04-14T06:51:29.000Z",
-    "summary": "\"ever since I was a little kid and singing in the shower I’d dream about 1 day being in the RnR hall of fame,\" the musician claimed on social media",
+    "summary": "“ever since I was a little kid and singing in the shower I’d dream about 1 day being in the RnR hall of fame,” the musician claimed on social media",
     "image": null
   },
   {
@@ -261,15 +288,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/bleachers-the-van-new-single-1235545977/",
-    "source": "rolling-stone",
-    "title": "Bleachers Reminisce About House Shows and DIY Tours on New Song ‘The Van’",
-    "url": "https://www.rollingstone.com/music/music-news/bleachers-the-van-new-single-1235545977/",
-    "publishedAt": "2026-04-13T18:03:47.000Z",
-    "summary": "The Jack Antonoff-led group has also released a music video for the latest Everybody for Ten Minutes offering",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/news/hudson-williams-and-alysa-liu-are-bathing-beauties-in-laufeys-madwoman-video/",
     "source": "pitchfork",
     "title": "Hudson Williams and Alysa Liu are Bathing Beauties in Laufey’s “Madwoman” Video",
@@ -339,6 +357,15 @@
     "url": "https://pitchfork.com/news/kelela-kurt-vile-olof-dreijer-and-more-this-weeks-pitchfork-selects-playlist/",
     "publishedAt": "2026-04-13T14:52:49.000Z",
     "summary": "Our weekly playlist highlights songs that our writers, editors, and contributors are listening to on repeat",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMimwJBVV95cUxQdjlxR2J1dVZBNXd2NnpzSWp3ZjM5TmRTcjd6Z3lFby05Mks5SEdfcGZWbGozY3hoN0dZSnJiZFVfRTAwWGV2ZFkxLWk3VGR4TlBNQ3VPMjJiN21mcngwWko1OG1zeXJ6QTB1V2VEQ0h3RFhUSDUxTDR3bGpHb0dPWnhtS1FjRFBJM0pHS0F5amU5YUZPN2VURW5RN1JTdDlQclNQbVNSQ2dnd1FfMTdrd0NWVF9kbUxycXkwU2hTaTNIVFlfSUtvdUJ5Q1lvWUc4RFN6Y2pCRVM2SGZlOGlYSThNWjhwTmJGMktiT3ZZZnVDSHMwaWh2NnNkUFZlQ0VDVm5LMkgyZlQ3bXJkWWd3MEZhMXJqYjRMc3Vj?oc=5",
+    "source": "nme",
+    "title": "Kate Nash shares emotional cover of Sinéad O’Connor’s 'Famine': “I was inspired by the phrase: 'The English can't remember history, while the Irish can't forget it'\" - NME",
+    "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQdjlxR2J1dVZBNXd2NnpzSWp3ZjM5TmRTcjd6Z3lFby05Mks5SEdfcGZWbGozY3hoN0dZSnJiZFVfRTAwWGV2ZFkxLWk3VGR4TlBNQ3VPMjJiN21mcngwWko1OG1zeXJ6QTB1V2VEQ0h3RFhUSDUxTDR3bGpHb0dPWnhtS1FjRFBJM0pHS0F5amU5YUZPN2VURW5RN1JTdDlQclNQbVNSQ2dnd1FfMTdrd0NWVF9kbUxycXkwU2hTaTNIVFlfSUtvdUJ5Q1lvWUc4RFN6Y2pCRVM2SGZlOGlYSThNWjhwTmJGMktiT3ZZZnVDSHMwaWh2NnNkUFZlQ0VDVm5LMkgyZlQ3bXJkWWd3MEZhMXJqYjRMc3Vj?oc=5",
+    "publishedAt": "2026-04-13T14:00:48.000Z",
+    "summary": "Kate Nash shares emotional cover of Sinéad O’Connor’s 'Famine': “I was inspired by the phrase: 'The English can't remember history, while the Irish can't forget it'\" NME",
     "image": null
   },
   {
@@ -495,6 +522,15 @@
     "image": null
   },
   {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDX1B0NF85UHlUNlRQOWtJcHFKVXBGbGRFZ2Z6ekVWcGstSGtjRVFQMFM3VV9nWE5PLUxuMlI3MHVwM09FZXhua1k5Rm5vTVpraEk3Tk9HU2dlZG5tMHk3WGR3SXJYZw?oc=5",
+    "source": "kerrang",
+    "title": "Album review: Bilmuri – KINDA HARD - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDX1B0NF85UHlUNlRQOWtJcHFKVXBGbGRFZ2Z6ekVWcGstSGtjRVFQMFM3VV9nWE5PLUxuMlI3MHVwM09FZXhua1k5Rm5vTVpraEk3Tk9HU2dlZG5tMHk3WGR3SXJYZw?oc=5",
+    "publishedAt": "2026-04-13T08:50:00.000Z",
+    "summary": "Album review: Bilmuri – KINDA HARD Kerrang!",
+    "image": null
+  },
+  {
     "id": "uncut-https://www.uncut.co.uk/features/creedence-clearwater-revival-the-full-story-by-john-fogerty-stu-cook-and-doug-clifford-6563/",
     "source": "uncut",
     "title": "Creedence Clearwater Revival – the full story, by John Fogerty, Stu Cook and Doug Clifford",
@@ -549,30 +585,12 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMirgFBVV95cUxOclRFZUI3TF9GNDNrd3VxSmxRRWdSaVJaY2FrM2tYWkJ0cGNaalMyVHhEUTVyczJ5T1NibHVPNUlxUzlzYkNNZFFOSWhaQnNHUHdzOXpraGZvdXNhU1JZd0Y0SXhOX0NIT3FPUkVxbEZpeFRsZ0xRXzZDa1lMQlNZTVo0R2hZSEpDUFRWN09WYU5LaDdUS1BuMzdlWVF1cHhhckVRQ3U4OHhHU2tXWUE?oc=5",
-    "source": "nme",
-    "title": "No Doubt guitarist Tom Dumont reveals early onset Parkinson’s diagnosis - NME",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOclRFZUI3TF9GNDNrd3VxSmxRRWdSaVJaY2FrM2tYWkJ0cGNaalMyVHhEUTVyczJ5T1NibHVPNUlxUzlzYkNNZFFOSWhaQnNHUHdzOXpraGZvdXNhU1JZd0Y0SXhOX0NIT3FPUkVxbEZpeFRsZ0xRXzZDa1lMQlNZTVo0R2hZSEpDUFRWN09WYU5LaDdUS1BuMzdlWVF1cHhhckVRQ3U4OHhHU2tXWUE?oc=5",
-    "publishedAt": "2026-04-12T16:18:16.000Z",
-    "summary": "No Doubt guitarist Tom Dumont reveals early onset Parkinson’s diagnosis NME",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/jay-weinberg-still-doesnt-know-why-fired-slipknot/",
     "source": "loudwire",
     "title": "Jay Weinberg Still Doesn’t Know Why He Was Fired From Slipknot",
     "url": "https://loudwire.com/jay-weinberg-still-doesnt-know-why-fired-slipknot/",
     "publishedAt": "2026-04-12T14:40:40.000Z",
     "summary": "\"It was confusing then. If I’m perfectly honest, it remains confusing,\" Weinberg said of his 2023 firing from Slipknot. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "louder-than-war-https://louderthanwar.com/john-peel-faves-death-by-milkfloat-release-their-peel-sessions/",
-    "source": "louder-than-war",
-    "title": "John Peel faves dEAth bY MILKFLOAT release their Peel sessions",
-    "url": "https://louderthanwar.com/john-peel-faves-death-by-milkfloat-release-their-peel-sessions/",
-    "publishedAt": "2026-04-12T11:11:20.000Z",
-    "summary": "Based in Hull during the mid to late ’80s, art school trio Death By Milkfloat honed their juxtaposed musical stylings. Their frenetic sound was like a British art punk take on the Minutemen and I released their debut album on my Vinyl Drip label. I had first met their elastic fingered bass player way back in […] The post John Peel faves dEAth bY MILKFLOAT release their Peel sessions appeared first on Louder Than War.",
     "image": null
   },
   {
@@ -693,30 +711,12 @@
     "image": null
   },
   {
-    "id": "uncut-https://www.uncut.co.uk/features/laura-nyro-remembered-musical-force-nature-100568/",
-    "source": "uncut",
-    "title": "Laura Nyro remembered: “A musical force of nature”",
-    "url": "https://www.uncut.co.uk/features/laura-nyro-remembered-musical-force-nature-100568/",
-    "publishedAt": "2026-04-09T11:21:32.000Z",
-    "summary": "Nyro's closest collaborators tell the true story of a revolutionary singer-songwriter The post Laura Nyro remembered: “A musical force of nature” appeared first on UNCUT.",
-    "image": null
-  },
-  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMid0FVX3lxTE53XzNmQTAxRk5NeEwxT3gzZGkySVhDSkNpNnJ0WFE4ZUgwa18wU1hsYzdIVEpmaFEwbmRXOERwU3JudEFCREJqYkFZODVSdjF3alVvUk9ZalVnYnloRUFjcnFRQTJrN1FWeXlQMWd0OGJVUXpuVUIw?oc=5",
     "source": "kerrang",
     "title": "Album review: Tigercub – Nets To Catch The Wind - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53XzNmQTAxRk5NeEwxT3gzZGkySVhDSkNpNnJ0WFE4ZUgwa18wU1hsYzdIVEpmaFEwbmRXOERwU3JudEFCREJqYkFZODVSdjF3alVvUk9ZalVnYnloRUFjcnFRQTJrN1FWeXlQMWd0OGJVUXpuVUIw?oc=5",
     "publishedAt": "2026-04-09T10:00:00.000Z",
     "summary": "Album review: Tigercub – Nets To Catch The Wind Kerrang!",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdUNPUGlWQzFzTVhYbTg5eElKQVdib1VJODZlYktxWFc0MEI5RkVvMkQzNmxRUDV2TC1UV0J4dE5aX3hOSUgzbzRSVEdOOXQ5cWVaTVBySHdIdWpGdkliOFdjeWlWYjBpX2dHWlRCZVV2SExyLWlIdmVNS3g4NWwyV3AxWDMyWXFPbXJZR1pNYVlTNlVTbDBFaE4xQXZaM21RT0Rldy04c2YwZlRiU2hzeWFBTjVPR3F5bjk0R05yZElhZ1B5QkI2QTBHVUNGME5xWk1J?oc=5",
-    "source": "kerrang",
-    "title": "Lambrini Girls reschedule North American tour after Phoebe Lunny fractures neck - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdUNPUGlWQzFzTVhYbTg5eElKQVdib1VJODZlYktxWFc0MEI5RkVvMkQzNmxRUDV2TC1UV0J4dE5aX3hOSUgzbzRSVEdOOXQ5cWVaTVBySHdIdWpGdkliOFdjeWlWYjBpX2dHWlRCZVV2SExyLWlIdmVNS3g4NWwyV3AxWDMyWXFPbXJZR1pNYVlTNlVTbDBFaE4xQXZaM21RT0Rldy04c2YwZlRiU2hzeWFBTjVPR3F5bjk0R05yZElhZ1B5QkI2QTBHVUNGME5xWk1J?oc=5",
-    "publishedAt": "2026-04-09T09:24:00.000Z",
-    "summary": "Lambrini Girls reschedule North American tour after Phoebe Lunny fractures neck Kerrang!",
     "image": null
   }
 ]
