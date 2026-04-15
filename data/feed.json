@@ -1,5 +1,41 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/music-news/billboard-uk-live-the-great-escape-festival-2026-lineup-1236222136/",
+    "source": "billboard",
+    "title": "Bella Kay Joins Billboard U.K. Live at The Great Escape Festival 2026: See Full Lineup",
+    "url": "https://www.billboard.com/music/music-news/billboard-uk-live-the-great-escape-festival-2026-lineup-1236222136/",
+    "publishedAt": "2026-04-15T06:00:00.000Z",
+    "summary": "Keo will top the bill at The Deep End venue.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/tv-film/the-voice-season-29-champion-1236223242/",
+    "source": "billboard",
+    "title": "‘The Voice’ Crowns Season 29 Champion",
+    "url": "https://www.billboard.com/culture/tv-film/the-voice-season-29-champion-1236223242/",
+    "publishedAt": "2026-04-15T05:13:27.000Z",
+    "summary": "Alexia Jayy is a trailblazer, a record-maker and the hero of The Voice: Battle of Champions.\"",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/kanye-west-postpones-show-france-ban-1235547343/",
+    "source": "rolling-stone",
+    "title": "Kanye West Postpones Show in France After Facing Potential Ban: ‘My Sole Decision’",
+    "url": "https://www.rollingstone.com/music/music-news/kanye-west-postpones-show-france-ban-1235547343/",
+    "publishedAt": "2026-04-15T04:02:12.000Z",
+    "summary": "French officials publicly announced plans to block the artist amid ongoing backlash to his past antisemitic comments",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rock/joe-perry-interview-aerosmith-steven-tyler-1236223216/",
+    "source": "billboard",
+    "title": "‘There Are Certainly Other Options:’ Joe Perry Isn’t Calling Time on Aerosmith",
+    "url": "https://www.billboard.com/music/rock/joe-perry-interview-aerosmith-steven-tyler-1236223216/",
+    "publishedAt": "2026-04-15T03:20:15.000Z",
+    "summary": "The rocker exclusively shares an update on Steven Tyler, following the injury that caused Aerosmith to abandon their farewell tour.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/awards/inxs-ted-albert-2026-apra-music-awards-1236223200/",
     "source": "billboard",
     "title": "INXS to Receive Australia’s Ted Albert Award",
@@ -69,33 +105,6 @@
     "url": "https://www.billboard.com/music/music-news/lizzo-bikini-pics-whole-stomach-all-summer-1236223076/",
     "publishedAt": "2026-04-14T23:13:20.000Z",
     "summary": "Between this and an epic Coachella, the \"Rumors\" singer is gearing up to have the greatest summer ever.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/pop/dua-lipa-britney-spears-toxic-1236223020/",
-    "source": "billboard",
-    "title": "Dua Lipa Calls This Britney Spears Hit ‘One of the Greatest Pop Songs Ever Made’: ‘She’s Such an Icon’",
-    "url": "https://www.billboard.com/music/pop/dua-lipa-britney-spears-toxic-1236223020/",
-    "publishedAt": "2026-04-14T23:08:54.000Z",
-    "summary": "Dua turned her favorite songs into cocktails for Vogue's Toast to Cinema series.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/women-rock-and-roll-hall-of-fame-history-makers-list/",
-    "source": "billboard",
-    "title": "Women Who Have Made History at the Rock & Roll Hall of Fame",
-    "url": "https://www.billboard.com/lists/women-rock-and-roll-hall-of-fame-history-makers-list/",
-    "publishedAt": "2026-04-14T23:00:00.000Z",
-    "summary": "From the Queen of Soul to the Queen of Salsa, they're all here.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/luther-vandross-estate-reacts-rock-roll-hall-fame-nod-1236223029/",
-    "source": "billboard",
-    "title": "Luther Vandross Estate Reacts to Rock & Roll Hall of Fame Inclusion: ‘People Reawakened to What Luther Had to Offer’",
-    "url": "https://www.billboard.com/music/rb-hip-hop/luther-vandross-estate-reacts-rock-roll-hall-fame-nod-1236223029/",
-    "publishedAt": "2026-04-14T22:40:02.000Z",
-    "summary": "Estate manager David Gottlieb also reflects on what the late singer would have said about winning after first time being nominated.",
     "image": null
   },
   {
@@ -177,15 +186,6 @@
     "url": "https://www.rollingstone.com/music/music-news/madonna-confirms-confessions-sequel-1235546649/",
     "publishedAt": "2026-04-14T17:53:33.000Z",
     "summary": "On Tuesday, Madonna wiped her Instagram account, teased lyrics from “Hung Up,” and updated her website to have the phrase “Confessions II” flash across the screen",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/kanye-west-lawsuit-restaurant-attack-no-mistaken-identity-1235546716/",
-    "source": "rolling-stone",
-    "title": "Kanye West Sued Over ‘Cowardly’ Restaurant Punch: ‘Not a Case of Mistaken Identity’",
-    "url": "https://www.rollingstone.com/music/music-news/kanye-west-lawsuit-restaurant-attack-no-mistaken-identity-1235546716/",
-    "publishedAt": "2026-04-14T17:51:48.000Z",
-    "summary": "“Without warning, defendant punched plaintiff in the face,” the new lawsuit says",
     "image": null
   },
   {
@@ -603,6 +603,15 @@
     "image": null
   },
   {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMiigFBVV95cUxQZlJQb0tTSmVWeVlXWmlhNzl4bXA1bTBzSG9XOFk2SHlWVUNMTHFwQmtyTUtwazJmaXJ1YTRVVWxFX1NmVDdpMW1IaFZKSk9GTzd3aGE0WndXVG5CeU1RN0xZWTVhWlpGYjhpNlprbk9vbzVPb3R1b1psZ3FwNE1qTG85dFNlZF8zWWc?oc=5",
+    "source": "kerrang",
+    "title": "Album review: LØLØ – god forbid a girl spits out her feelings! - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZlJQb0tTSmVWeVlXWmlhNzl4bXA1bTBzSG9XOFk2SHlWVUNMTHFwQmtyTUtwazJmaXJ1YTRVVWxFX1NmVDdpMW1IaFZKSk9GTzd3aGE0WndXVG5CeU1RN0xZWTVhWlpGYjhpNlprbk9vbzVPb3R1b1psZ3FwNE1qTG85dFNlZF8zWWc?oc=5",
+    "publishedAt": "2026-04-13T10:00:00.000Z",
+    "summary": "Album review: LØLØ – god forbid a girl spits out her feelings! Kerrang!",
+    "image": null
+  },
+  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMizgFBVV95cUxPZ0RMTERFVTVjWFVkWjJkaUNMaGd1TFhiNDdCdVRVYWpFU1NfMDJuVjdrT3lPdHQ0SEsyWEJkNzZnbXNTX3I0R0VxbktNZWJncFJzVXFIRlY1SkoxMXNiT2xVUk9ocDhqRDZCUkZYY0NzVzh2c0V1OUlCRUhUYlp6WkRXc0ZXcjRlMEk5V3I4aW92R1VwZFVtQV9kdkJGQUFEUkZSMWZkTThKb1l1LUlxZVJRbU52WTRYM3ZERmIxMl9mVFFuWUlJZlp4a21XQQ?oc=5",
     "source": "kerrang",
     "title": "Here’s the setlist from YUNGBLUD’s UK arena tour - Kerrang!",
@@ -699,15 +708,6 @@
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVVhHNG5ReUUzeFRMUlU1eXZDc1lCWmhCdThiQWxPSG9Pb0k0R2MxRGZRSFBPczY5SUpNc21RZjQ4Z18zcHgwLWhLYjNSUzkwbjBudmxTZUdZZlRadGJfM2c2RktCTDdIRzZ0YUZwaWVTTk9nQlhWMTU5QldaLW1pSg?oc=5",
     "publishedAt": "2026-04-09T16:25:05.000Z",
     "summary": "Album review: Bodysnatcher – Hell Is Here, Hell Is Home Kerrang!",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMib0FVX3lxTFBmbFN6Z0tYbWZrQzBnbXdnNHA5SlN0V01ENFBrYWstUEN4NVdNcHdHd0Njd1AyRGRpN29SbGJ4LXVFVHE5LU9fZVhnUjBiQW5VODI5VmVUaTVfZU85WVM1dTEzRzgyMjlXNmFWYzBCUQ?oc=5",
-    "source": "kerrang",
-    "title": "Album review: Broadside – Nowhere, At Last - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmbFN6Z0tYbWZrQzBnbXdnNHA5SlN0V01ENFBrYWstUEN4NVdNcHdHd0Njd1AyRGRpN29SbGJ4LXVFVHE5LU9fZVhnUjBiQW5VODI5VmVUaTVfZU85WVM1dTEzRzgyMjlXNmFWYzBCUQ?oc=5",
-    "publishedAt": "2026-04-09T16:25:00.000Z",
-    "summary": "Album review: Broadside – Nowhere, At Last Kerrang!",
     "image": null
   },
   {
