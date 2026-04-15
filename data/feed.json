@@ -1,47 +1,101 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/awards/inxs-ted-albert-2026-apra-music-awards-1236223200/",
+    "source": "billboard",
+    "title": "INXS to Receive Australia’s Ted Albert Award",
+    "url": "https://www.billboard.com/music/awards/inxs-ted-albert-2026-apra-music-awards-1236223200/",
+    "publishedAt": "2026-04-15T02:44:23.000Z",
+    "summary": "The prestigious honor will be presented at the 2026 APRA Music Awards, set for Wednesday, April 29 at Sydney's Hordern Pavilion.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/kacey-musgraves-coachella-weekend-two-lineup-1235547328/",
+    "source": "rolling-stone",
+    "title": "Kacey Musgraves Heads to the Desert for Coachella Weekend 2",
+    "url": "https://www.rollingstone.com/music/music-news/kacey-musgraves-coachella-weekend-two-lineup-1235547328/",
+    "publishedAt": "2026-04-15T02:20:13.000Z",
+    "summary": "The country star was added as a surprise performer on Saturday",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/media/podcasts/justin-bieber-coachella-debate-pop-shop-podcast-1236221842/",
+    "source": "billboard",
+    "title": "Justin Bieber Coachella Debate Rages Over One Question: Was His Set Perfectly Minimal or Not Enough?",
+    "url": "https://www.billboard.com/media/podcasts/justin-bieber-coachella-debate-pop-shop-podcast-1236221842/",
+    "publishedAt": "2026-04-15T00:52:06.000Z",
+    "summary": "On the new Pop Shop Podcast, Katie & Keith talk about the active discourse around JB's Saturday night performance.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/rezz-cancels-coachella-weekend-2-performance-health-1236223162/",
+    "source": "billboard",
+    "title": "Rezz Cancels Coachella Weekend 2 Performance: ‘I Continued to Push Thinking It Would Be Fine’",
+    "url": "https://www.billboard.com/music/music-news/rezz-cancels-coachella-weekend-2-performance-health-1236223162/",
+    "publishedAt": "2026-04-15T00:47:39.000Z",
+    "summary": "The Ukrainian Canadian DJ and producer performed on Saturday of weekend 1 in the Sahara Tent.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/spotify-major-labels-win-music-piracy-lawsuit/",
+    "source": "billboard",
+    "title": "Spotify & the Major Labels Won a $322M Court Order Against Music Pirates. Will They Be Able to Collect?",
+    "url": "https://www.billboard.com/pro/spotify-major-labels-win-music-piracy-lawsuit/",
+    "publishedAt": "2026-04-15T00:38:48.000Z",
+    "summary": "At least for now, the court judgment is largely a symbolic victory, as no one has identified the anonymous internet users behind Anna’s Archive.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/jorginho-walks-back-chappell-roan-security-guard-allegation-1236223135/",
+    "source": "billboard",
+    "title": "Soccer Star Jorginho Now Calls Chappell Roan Brazil Incident a ‘Misunderstanding’: ‘As Far as I Am Concerned, This Matter Is Closed’",
+    "url": "https://www.billboard.com/music/pop/jorginho-walks-back-chappell-roan-security-guard-allegation-1236223135/",
+    "publishedAt": "2026-04-15T00:34:41.000Z",
+    "summary": "He has clarified that, despite his original accusation, the pop star had nothing to do with a security guard that approached his daughter last month.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/where-to-watch-2026-nba-play-in-tournament-online-1236221821/",
+    "source": "billboard",
+    "title": "Where to Watch the 2026 NBA Play-In Tournament Online for Free",
+    "url": "https://www.billboard.com/culture/product-recommendations/where-to-watch-2026-nba-play-in-tournament-online-1236221821/",
+    "publishedAt": "2026-04-15T00:21:00.000Z",
+    "summary": "The postseason tournament tips off on April 14 at 7:30 p.m. ET.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/lizzo-bikini-pics-whole-stomach-all-summer-1236223076/",
+    "source": "billboard",
+    "title": "Lizzo Shares Bikini Pics, Promises ‘Yall Gettin the Whole Stomach Out All Summer’",
+    "url": "https://www.billboard.com/music/music-news/lizzo-bikini-pics-whole-stomach-all-summer-1236223076/",
+    "publishedAt": "2026-04-14T23:13:20.000Z",
+    "summary": "Between this and an epic Coachella, the \"Rumors\" singer is gearing up to have the greatest summer ever.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/dua-lipa-britney-spears-toxic-1236223020/",
+    "source": "billboard",
+    "title": "Dua Lipa Calls This Britney Spears Hit ‘One of the Greatest Pop Songs Ever Made’: ‘She’s Such an Icon’",
+    "url": "https://www.billboard.com/music/pop/dua-lipa-britney-spears-toxic-1236223020/",
+    "publishedAt": "2026-04-14T23:08:54.000Z",
+    "summary": "Dua turned her favorite songs into cocktails for Vogue's Toast to Cinema series.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/women-rock-and-roll-hall-of-fame-history-makers-list/",
+    "source": "billboard",
+    "title": "Women Who Have Made History at the Rock & Roll Hall of Fame",
+    "url": "https://www.billboard.com/lists/women-rock-and-roll-hall-of-fame-history-makers-list/",
+    "publishedAt": "2026-04-14T23:00:00.000Z",
+    "summary": "From the Queen of Soul to the Queen of Salsa, they're all here.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/rb-hip-hop/luther-vandross-estate-reacts-rock-roll-hall-fame-nod-1236223029/",
     "source": "billboard",
     "title": "Luther Vandross Estate Reacts to Rock & Roll Hall of Fame Inclusion: ‘People Reawakened to What Luther Had to Offer’",
     "url": "https://www.billboard.com/music/rb-hip-hop/luther-vandross-estate-reacts-rock-roll-hall-fame-nod-1236223029/",
     "publishedAt": "2026-04-14T22:40:02.000Z",
     "summary": "Estate manager David Gottlieb also reflects on what the late singer would have said about winning after first time being nominated.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/awards/rock-roll-hall-fame-2026-biggest-snubs-poll-vote-1236223035/",
-    "source": "billboard",
-    "title": "Who Was the Rock & Roll Hall of Fame’s Biggest Class of 2026 Snub? Vote!",
-    "url": "https://www.billboard.com/music/awards/rock-roll-hall-fame-2026-biggest-snubs-poll-vote-1236223035/",
-    "publishedAt": "2026-04-14T22:30:16.000Z",
-    "summary": "This was the third year in a row that Mariah Carey was passed over & the second year in a row that The Black Crowes came up short.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/kanye-west-lawsuit-chateau-marmont-fight-bianca-censori/",
-    "source": "billboard",
-    "title": "Ye Sued for Punching Man at the Chateau Marmont – Then Claiming He’d Groped Bianca Censori",
-    "url": "https://www.billboard.com/pro/kanye-west-lawsuit-chateau-marmont-fight-bianca-censori/",
-    "publishedAt": "2026-04-14T22:23:08.000Z",
-    "summary": "The rapper stated on a podcast in 2024 that he hit a man for grabbing his wife inappropriately. A new lawsuit says this explanation was false.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/pop/enhypen-tour-dates-blood-saga-world-tour-1236223021/",
-    "source": "billboard",
-    "title": "ENHYPEN Announce ‘BLOOD SAGA’ World Tour With Stops in the U.S., Latin America & Europe",
-    "url": "https://www.billboard.com/music/pop/enhypen-tour-dates-blood-saga-world-tour-1236223021/",
-    "publishedAt": "2026-04-14T22:21:11.000Z",
-    "summary": "The upcoming dates will mark the K-pop group's first time in Latin America and second in Europe.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/lena-dunham-ex-jack-antonoff-relationship-teen-pop-star-1236222918/",
-    "source": "billboard",
-    "title": "Lena Dunham Felt ‘Like a Ghost’ While Dating Jack Antonoff Due to His Relationship With a ‘Teen Pop Star’",
-    "url": "https://www.billboard.com/music/music-news/lena-dunham-ex-jack-antonoff-relationship-teen-pop-star-1236222918/",
-    "publishedAt": "2026-04-14T22:05:17.000Z",
-    "summary": "The pair dated for about five years up until early 2018.",
     "image": null
   },
   {
@@ -54,57 +108,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/joey-fatone-nsync-lost-power-unable-to-pay-bill-1236222923/",
-    "source": "billboard",
-    "title": "Joey Fatone Reveals That He Lost Power After Being Unable to Pay His Bill: ‘I Was Asking People for Money’",
-    "url": "https://www.billboard.com/music/music-news/joey-fatone-nsync-lost-power-unable-to-pay-bill-1236222923/",
-    "publishedAt": "2026-04-14T21:55:50.000Z",
-    "summary": "The *NSYNC member gets vulnerable in a sneak peek of his Investigative Discovery series Boy Band Confidential.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/new-edition-rock-hall-fan-vote-inducted-1235546734/",
     "source": "rolling-stone",
     "title": "New Edition Won the Rock Hall Fan Vote, But Won’t Be Inducted — Here’s Why",
     "url": "https://www.rollingstone.com/music/music-news/new-edition-rock-hall-fan-vote-inducted-1235546734/",
     "publishedAt": "2026-04-14T21:54:56.000Z",
     "summary": "The R&B group is just the third act to win the fan ballot but fail to secure a place in the Hall",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/pinkpantheress-ugg-coachella-2026-shop-online-1236222776/",
-    "source": "billboard",
-    "title": "PinkPantheress’ UGG Shoes at Coachella Nailed One of Fashion’s Hottest Trends",
-    "url": "https://www.billboard.com/culture/product-recommendations/pinkpantheress-ugg-coachella-2026-shop-online-1236222776/",
-    "publishedAt": "2026-04-14T21:49:32.000Z",
-    "summary": "UGGs in the desert? It's not as strange as you'd think.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/major-labels-hire-supreme-court-lawyer-global-rights-case/",
-    "source": "billboard",
-    "title": "Major Labels Hire Elite Supreme Court Attorney for Battle Over Global Copyright Termination Rights",
-    "url": "https://www.billboard.com/pro/major-labels-hire-supreme-court-lawyer-global-rights-case/",
-    "publishedAt": "2026-04-14T21:23:30.000Z",
-    "summary": "As the labels seek to overturn a first-of-its-kind ruling, they'll be represented by the most prolific Supreme Court litigator of the past two decades.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/famous-survivor-fans-music/",
-    "source": "billboard",
-    "title": "Musicians Who Love ‘Survivor,’ From Billie Eilish to Sia",
-    "url": "https://www.billboard.com/lists/famous-survivor-fans-music/",
-    "publishedAt": "2026-04-14T21:07:05.000Z",
-    "summary": "The show is celebrating its 50th season in 2026.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/record-store-day-2026-best-releases/",
-    "source": "billboard",
-    "title": "Record Store Day 2026: 14 Releases Worth Digging For",
-    "url": "https://www.billboard.com/lists/record-store-day-2026-best-releases/",
-    "publishedAt": "2026-04-14T21:06:27.000Z",
-    "summary": "KPop Demon Hunters, The Cure, Bruce Springsteen and more all have special releases this year.",
     "image": null
   },
   {
@@ -132,6 +141,15 @@
     "url": "https://www.rollingstone.com/music/music-features/david-lee-roth-how-he-met-teddy-swims-coachella-1235546653/",
     "publishedAt": "2026-04-14T19:32:24.000Z",
     "summary": "The former Van Halen frontman and perpetual showman tells us how he ended up singing “Jump” at his first Coachella",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMiugFBVV95cUxObTcyaDh3aDlzY0pKVkRNc2VCcHhaZDNRWVdzU0pfbnhuVUZPWEEwV056dkFDTEJQZ1BJOWZULW4xdmtla3RhS1ltQnItQ0xkUHNkQWhLdmQ1RVZxNUZGMDBQY3FVVjFmT1VhWkNDVHo4b3R3NXZnSk8weHVKcTZ3aEQ1d0N4cmoxMEpPeFlZdzVQYmR6cTRNYkl6WERwdjN3ek4zR0hhUk9Ybkp5MVJTcUFiRzloR0VJQ1E?oc=5",
+    "source": "nme",
+    "title": "It looks like Madonna is finally about to launch ‘Confessions On A Dancefloor II’ - NME",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObTcyaDh3aDlzY0pKVkRNc2VCcHhaZDNRWVdzU0pfbnhuVUZPWEEwV056dkFDTEJQZ1BJOWZULW4xdmtla3RhS1ltQnItQ0xkUHNkQWhLdmQ1RVZxNUZGMDBQY3FVVjFmT1VhWkNDVHo4b3R3NXZnSk8weHVKcTZ3aEQ1d0N4cmoxMEpPeFlZdzVQYmR6cTRNYkl6WERwdjN3ek4zR0hhUk9Ybkp5MVJTcUFiRzloR0VJQ1E?oc=5",
+    "publishedAt": "2026-04-14T19:28:04.000Z",
+    "summary": "It looks like Madonna is finally about to launch ‘Confessions On A Dancefloor II’ NME",
     "image": null
   },
   {
@@ -168,15 +186,6 @@
     "url": "https://www.rollingstone.com/music/music-news/kanye-west-lawsuit-restaurant-attack-no-mistaken-identity-1235546716/",
     "publishedAt": "2026-04-14T17:51:48.000Z",
     "summary": "“Without warning, defendant punched plaintiff in the face,” the new lawsuit says",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/kanye-west-faces-ban-france-wireless-festival-controversy-1235546703/",
-    "source": "rolling-stone",
-    "title": "Kanye West Faces Potential Ban in France Amid Wireless Festival Controversy",
-    "url": "https://www.rollingstone.com/music/music-news/kanye-west-faces-ban-france-wireless-festival-controversy-1235546703/",
-    "publishedAt": "2026-04-14T17:43:04.000Z",
-    "summary": "The rapper is currently scheduled to perform on June 11 at the Vélodrome stadium in Marseille",
     "image": null
   },
   {
@@ -573,15 +582,6 @@
     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPYVZ2bGdZWDhYRkswX2prZmZ4anotNVh1d2Fod2gzZWNQOG9HNUNOd00xdmpPbkZ1WU02aEwyMTB4U2tfUENNbmxIZTJMWThBcFlEcEdEMXVLc0FSQlhoT3E3ajdPMGJ1eE9Sb2NCM194TEtSVndTOUhydWJqZERCcFNSV29zZDFiWm5iX0x6aHFRWGZJUDc3dXJEdXhXd1lCa1lYMlVudjJ2aGtfcHU5LWYyWGZudHpmLTZzd3ZzYXZEbDFNZ0xHNTNtUW55ZzBQZUJXcUxjR2poNkVXZ1kwbUhUQW8xa05vYy1vU0dUVWFlNzlvcUQweGZ0cEVibVZWcF9kdmR6RQ?oc=5",
     "publishedAt": "2026-04-13T12:24:51.000Z",
     "summary": "Massive Attack's Robert Del Naja shares statement and photos after \"unlawful\" arrest at Palestine Action protest: \"The sense of madness can be overcome\" NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMirwFBVV95cUxPbHRxeU9nSEROdC1QNE9kSDN2anV0LTFZc0JzUDRlTzBIa3dJeDF0bGpPOTNnVURjUkQzZGJ5UmJkTERZc2VJYkVZVEtCVnBJMFYxU3A5RW5ZSFFZRG5NbzdyRjRYVVhYcF9EUnpXSjk2bGQ1ZXVKZ0JtTEx4SXJJQmtPSjFKU2Voa0dGOFVvMzJBZzd3d3V5dWRIYzEwdExkMkVOQlBHeVc2VGcxQzhB?oc=5",
-    "source": "nme",
-    "title": "Barbie Ferreira quit ‘Euphoria’ over “diminishing” role: “It just wasn’t worth it” - NME",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbHRxeU9nSEROdC1QNE9kSDN2anV0LTFZc0JzUDRlTzBIa3dJeDF0bGpPOTNnVURjUkQzZGJ5UmJkTERZc2VJYkVZVEtCVnBJMFYxU3A5RW5ZSFFZRG5NbzdyRjRYVVhYcF9EUnpXSjk2bGQ1ZXVKZ0JtTEx4SXJJQmtPSjFKU2Voa0dGOFVvMzJBZzd3d3V5dWRIYzEwdExkMkVOQlBHeVc2VGcxQzhB?oc=5",
-    "publishedAt": "2026-04-13T11:55:06.000Z",
-    "summary": "Barbie Ferreira quit ‘Euphoria’ over “diminishing” role: “It just wasn’t worth it” NME",
     "image": null
   },
   {
