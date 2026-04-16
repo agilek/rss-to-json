@@ -1,11 +1,155 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/pop/coachella-2026-greatest-pop-stars-podcast-discussion-1236224294/",
+    "source": "billboard",
+    "title": "How Did the Greatest Pop Stars Fare at Coachella 2026?",
+    "url": "https://www.billboard.com/music/pop/coachella-2026-greatest-pop-stars-podcast-discussion-1236224294/",
+    "publishedAt": "2026-04-16T15:40:38.000Z",
+    "summary": "This Pop Star Performance Review episode of the 'Greatest Pop Stars' podcast catches up from the desert on how we felt about the big pop star performances at Coachella this year.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "source": "billboard",
+    "title": "Billboard’s Music Industry Events Calendar",
+    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "publishedAt": "2026-04-16T15:32:00.000Z",
+    "summary": "A complete rundown of the most important events across the music business.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/lady-gaga-mayhem-biggest-tour-career-400-million/",
+    "source": "billboard",
+    "title": "Lady Gaga’s The Mayhem Ball Was One of the Biggest Pop Tours Ever: By the Numbers",
+    "url": "https://www.billboard.com/pro/lady-gaga-mayhem-biggest-tour-career-400-million/",
+    "publishedAt": "2026-04-16T15:30:01.000Z",
+    "summary": "Gaga's year of Mayhem grossed more than $400 million on tour.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/rupauls-drag-race-season-18-how-to-watch-online-free-1236147604/",
+    "source": "billboard",
+    "title": "Here’s How to Watch the Season 18 Finale of ‘RuPaul’s Drag Race’ Online Free",
+    "url": "https://www.billboard.com/culture/product-recommendations/rupauls-drag-race-season-18-how-to-watch-online-free-1236147604/",
+    "publishedAt": "2026-04-16T15:28:13.000Z",
+    "summary": "Miley Cyrus is set to appear as a special guest, receiving the Giving Us Lifetime Achievement Award.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/jeannie-seely-hot-country-songs-debut-chart-rewind-1966-1236223941/",
+    "source": "billboard",
+    "title": "Chart Rewind: In 1966, There Was No Way to Skirt Jeannie Seely’s Grammy-Winning Launch",
+    "url": "https://www.billboard.com/music/chart-beat/jeannie-seely-hot-country-songs-debut-chart-rewind-1966-1236223941/",
+    "publishedAt": "2026-04-16T15:22:05.000Z",
+    "summary": "The Pennsylvania native performed on the Grand Ole Opry more than any act in history.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/fleetwood-mac-everywhere-debuts-global-200-1236224236/",
+    "source": "billboard",
+    "title": "Fleetwood Mac Charts Its First Hit From the ’80s on the Billboard Global 200",
+    "url": "https://www.billboard.com/music/chart-beat/fleetwood-mac-everywhere-debuts-global-200-1236224236/",
+    "publishedAt": "2026-04-16T15:19:15.000Z",
+    "summary": "The iconic band previously sent three ‘70s classics onto the list.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/boards-of-canada-return-with-first-new-music-in-13-years/",
+    "source": "pitchfork",
+    "title": "Boards of Canada Return With First New Music in 13 Years",
+    "url": "https://pitchfork.com/news/boards-of-canada-return-with-first-new-music-in-13-years/",
+    "publishedAt": "2026-04-16T15:12:47.000Z",
+    "summary": "After a series of cryptic posters and creepy VHS tapes, the duo has released a mysterious piece of music",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/lifestyle/muppets-rock-n-roller-coaster-hollywood-studios-celeb-cameos-1236224196/",
+    "source": "billboard",
+    "title": "Can You Picture Kelly Clarkson, Travis Barker and ‘Weird Al’ Cameos On New Muppets-Themed Rock ‘n’ Roller Coaster at Hollywood Studios?",
+    "url": "https://www.billboard.com/culture/lifestyle/muppets-rock-n-roller-coaster-hollywood-studios-celeb-cameos-1236224196/",
+    "publishedAt": "2026-04-16T15:00:52.000Z",
+    "summary": "The replacement for the Aerosmith ride will rock down the tracks to a song list including Electric Mayhem Band covers of Blur, Def Leppard and Steppenwolf.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/miley-cyrus-demi-lovato-hilary-duff-disney-2026-success-1236223814/",
+    "source": "billboard",
+    "title": "Miley Cyrus, Hilary Duff & Demi Lovato Are Helping Disney Dominate 2026: ‘This Class Is Just Unique In Music History’",
+    "url": "https://www.billboard.com/music/pop/miley-cyrus-demi-lovato-hilary-duff-disney-2026-success-1236223814/",
+    "publishedAt": "2026-04-16T15:00:34.000Z",
+    "summary": "\"Everybody’s touring right now,\" says Disney Music Group president Ken Bunt. \"So it became evident.”",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/awards/laufey-women-in-music-2026-innovator-1236223405/",
+    "source": "billboard",
+    "title": "How Laufey Got Over Impostor Syndrome, Took On Arenas — And Became More Herself Than Ever",
+    "url": "https://www.billboard.com/music/awards/laufey-women-in-music-2026-innovator-1236223405/",
+    "publishedAt": "2026-04-16T14:59:18.000Z",
+    "summary": "This past year, Billboard's Women in Music Innovator broke into the Billboard 200’s top five and played the kind of stages she’d only dreamed of.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/photos/laufey-photos-billboard-women-in-music-shoot-1236223526/",
+    "source": "billboard",
+    "title": "Laufey: Photos From the Billboard Women in Music Shoot",
+    "url": "https://www.billboard.com/photos/laufey-photos-billboard-women-in-music-shoot-1236223526/",
+    "publishedAt": "2026-04-16T14:58:45.000Z",
+    "summary": "Pics of Billboard's 2026 Women in Music Innovator.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/avril-lavigne-alanis-morissette-ironic-cover-mile-end-kicks-1235548137/",
+    "source": "rolling-stone",
+    "title": "Avril Lavigne Covers Alanis Morissette’s ‘Ironic’ for Rom-Com Soundtrack",
+    "url": "https://www.rollingstone.com/music/music-news/avril-lavigne-alanis-morissette-ironic-cover-mile-end-kicks-1235548137/",
+    "publishedAt": "2026-04-16T14:23:01.000Z",
+    "summary": "The pop punk princess covered Morissette’s hit track for Mile End Kicks",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-pictures/lip-critic-theft-saga-live-1235546580/",
+    "source": "rolling-stone",
+    "title": "Inside Lip Critic’s Wild, Chaotic Theft Saga Shows",
+    "url": "https://www.rollingstone.com/music/music-pictures/lip-critic-theft-saga-live-1235546580/",
+    "publishedAt": "2026-04-16T14:23:00.000Z",
+    "summary": "The New York noise band's live residency at three non-traditional venues were the perfect way to pique excitement for their upcoming 'Theft World' album",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/staind-replace-jelly-roll-rock-the-country-ticket-sales-struggle/",
+    "source": "loudwire",
+    "title": "Rock Band Replaces Jelly Roll as Rock the Country Sales Struggle",
+    "url": "https://loudwire.com/staind-replace-jelly-roll-rock-the-country-ticket-sales-struggle/",
+    "publishedAt": "2026-04-16T14:22:58.000Z",
+    "summary": "Staind will take over for Jelly Roll at a Rock the Country festival tour stop, while fans express their outrage over a recent festival ticketing promotion. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/from-ashes-to-new-danny-case-reflections-interview/",
+    "source": "loudwire",
+    "title": "Danny Case Interview: New From Ashes to New Album, 'Reflections'",
+    "url": "https://loudwire.com/from-ashes-to-new-danny-case-reflections-interview/",
+    "publishedAt": "2026-04-16T14:21:12.000Z",
+    "summary": "From Ashes to New's Danny Case celebrates the band's new album, 'Reflections,' and opens up about the difficult and surprising journey that led to its creation. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/def-leppard-soundtrack-disney-rock-n-roller-coaster/",
+    "source": "loudwire",
+    "title": "'80s Hair Band Featured on New Soundtrack for Iconic Disney Ride",
+    "url": "https://loudwire.com/def-leppard-soundtrack-disney-rock-n-roller-coaster/",
+    "publishedAt": "2026-04-16T14:06:51.000Z",
+    "summary": "Def Leppard are among the guest artists that appear on the new soundtrack for the Disney World ride Rock 'n' Roller Coaster Starring The Muppets. Continue reading…",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/tom-waits-massive-attack-boots-on-the-ground-new-song-1235548122/",
     "source": "rolling-stone",
     "title": "Tom Waits’ First New Music in 15 Years Is a Chilling, Macabre Protest Song",
     "url": "https://www.rollingstone.com/music/music-news/tom-waits-massive-attack-boots-on-the-ground-new-song-1235548122/",
     "publishedAt": "2026-04-16T13:18:08.000Z",
-    "summary": "\"Boots on the Ground,\" recorded with Massive Attack, targets \"federal pricks ... sittin' in a room full of army posters\"",
+    "summary": "“Boots on the Ground,” recorded with Massive Attack, targets “federal pricks ... sittin’ in a room full of army posters”",
     "image": null
   },
   {
@@ -27,21 +171,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/culture/tv-film/anne-hathaway-taylor-swift-eras-tour-inspiration-mother-mary-1236224187/",
-    "source": "billboard",
-    "title": "Anne Hathaway Says Inspiration From Taylor Swift’s Eras Tour Was ‘Like An Angel Over Our Heads’ During Filming of ‘Mother Mary’",
-    "url": "https://www.billboard.com/culture/tv-film/anne-hathaway-taylor-swift-eras-tour-inspiration-mother-mary-1236224187/",
-    "publishedAt": "2026-04-16T12:59:11.000Z",
-    "summary": "The actress also revealed the jaw-dropping \"I see you\" note she got from Taylor during an Eras show she caught in Germany while shooting the twisted pop drama.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/awards/rza-list-induct-wu-tang-clan-rock-roll-hall-fame-obama-leo-1236224178/",
-    "source": "billboard",
-    "title": "RZA’s Short List of People He’d Like to Induct Wu-Tang Clan Into Rock & Roll Hall of Fame Includes a President, Oscar-winning Director and NBA GOAT",
-    "url": "https://www.billboard.com/music/awards/rza-list-induct-wu-tang-clan-rock-roll-hall-fame-obama-leo-1236224178/",
-    "publishedAt": "2026-04-16T12:08:42.000Z",
-    "summary": "Better to aim high and miss than aim low and hit.",
+    "id": "nme-https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVk9aQWV2SUg2ZHlQTWZNS0dBcGhpSlB0V255N0RSLURBTWN6NlVqZTdlSGJRNnVKWEhqRDh0U1V2ekxydVZUQ2lmYVhQV1R6OTdyV3RGYkFMa2QydC1LOVIzbG83amQ4YTZGMDNHMG9tWEFFSkg3RUU4aE5YdDdIc1pkLWhYT3JBOUtNVnc5S2JPWHZQTnlhY1pnYngxX1VSVE9GZXFJZEs0MkFWN2c4MWNoZUQ4bzBGTWFxV19xTFdaY0NVYU9FaTRWT0NuTTd3YlplWTd0QWkwV1lFTTZtZ1ZHQkhYV0ROSjBTNzFHTFdlMEU?oc=5",
+    "source": "nme",
+    "title": "Sex Pistols team up with Marshall for pink and yellow limited edition 50th anniversary amp stack ahead of Record Store Day - NME",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVk9aQWV2SUg2ZHlQTWZNS0dBcGhpSlB0V255N0RSLURBTWN6NlVqZTdlSGJRNnVKWEhqRDh0U1V2ekxydVZUQ2lmYVhQV1R6OTdyV3RGYkFMa2QydC1LOVIzbG83amQ4YTZGMDNHMG9tWEFFSkg3RUU4aE5YdDdIc1pkLWhYT3JBOUtNVnc5S2JPWHZQTnlhY1pnYngxX1VSVE9GZXFJZEs0MkFWN2c4MWNoZUQ4bzBGTWFxV19xTFdaY0NVYU9FaTRWT0NuTTd3YlplWTd0QWkwV1lFTTZtZ1ZHQkhYV0ROSjBTNzFHTFdlMEU?oc=5",
+    "publishedAt": "2026-04-16T12:51:15.000Z",
+    "summary": "Sex Pistols team up with Marshall for pink and yellow limited edition 50th anniversary amp stack ahead of Record Store Day NME",
     "image": null
   },
   {
@@ -60,15 +195,6 @@
     "url": "https://loudwire.com/best-disney-cover-songs-punk/",
     "publishedAt": "2026-04-16T12:01:41.000Z",
     "summary": "Looking back at the best Disney covers from Fall Out Boy, Alkaline Trio, Simple Plan and other big punk acts. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/grateful-dead-subscription-streaming-service-play-dead/",
-    "source": "billboard",
-    "title": "The Grateful Dead Launches Play Dead Streaming Platform: ‘We Want to Melt Your Faces’",
-    "url": "https://www.billboard.com/pro/grateful-dead-subscription-streaming-service-play-dead/",
-    "publishedAt": "2026-04-16T11:00:00.000Z",
-    "summary": "A joint effort of nugs and Rhino Entertainment, the subscription service will offer access to all of the Dead's prior archival releases, along with new material.",
     "image": null
   },
   {
@@ -99,15 +225,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/pink-floyd-wish-you-were-here-inter-milan-sportwear-capsule-1236224167/",
-    "source": "billboard",
-    "title": "Pink Floyd Kicks Off ‘Wish You Were Here’ 50th Anniversary With Retro Inter Milan Capsule",
-    "url": "https://www.billboard.com/music/music-news/pink-floyd-wish-you-were-here-inter-milan-sportwear-capsule-1236224167/",
-    "publishedAt": "2026-04-16T09:47:32.000Z",
-    "summary": "The Pink Floyd FC collection includes two exclusive, limited-edition goodies.",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/news/massive-attacks-first-song-in-six-years-features-tom-waits/",
     "source": "pitchfork",
     "title": "Massive Attack’s First Song in Six Years Features Tom Waits",
@@ -123,6 +240,15 @@
     "url": "https://www.uncut.co.uk/publications/introducing-the-ultimate-music-guide-creedence-clearwater-revival-154177/",
     "publishedAt": "2026-04-16T09:11:37.000Z",
     "summary": "Down the road he goesDown the road he goes When I first picked up a copy of Willy & The Poor Boys in the 1980s, I’m not sure whether I ever got much further than “Fortunate Son”. The riff, the righteous self-definition, the rhythm driving the song forwards. It was excellent, and it seemed – […] The post Introducing the Ultimate Music Guide: Creedence Clearwater Revival! appeared first on UNCUT.",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMiogFBVV95cUxNWUl3blR5YWZBcUhCLTZLamczdE1VWEV3bF9CUjdVN1p1LXlNVXh6WEllc3hya29NM3hQMVljWFFuNnJwQW5PMEVBbXZrWVBqNU1ReUJ0UHhWMElESkkyNVpDbDMtZDg2eHJyQy0tSjVsRXFaRFNjSWUxWVRIUFItNll2MmMzVnE0VU81RXk2WnZ3ZXhhbzZXMlN2ZlpWRGVCT3c?oc=5",
+    "source": "nme",
+    "title": "The Great Escape announces full 2026 schedule and new artists - NME",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWUl3blR5YWZBcUhCLTZLamczdE1VWEV3bF9CUjdVN1p1LXlNVXh6WEllc3hya29NM3hQMVljWFFuNnJwQW5PMEVBbXZrWVBqNU1ReUJ0UHhWMElESkkyNVpDbDMtZDg2eHJyQy0tSjVsRXFaRFNjSWUxWVRIUFItNll2MmMzVnE0VU81RXk2WnZ3ZXhhbzZXMlN2ZlpWRGVCT3c?oc=5",
+    "publishedAt": "2026-04-16T09:05:17.000Z",
+    "summary": "The Great Escape announces full 2026 schedule and new artists NME",
     "image": null
   },
   {
@@ -153,15 +279,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/pop/katseye-coming-to-australia-1236224161/",
-    "source": "billboard",
-    "title": "KATSEYE Is Coming to Australia",
-    "url": "https://www.billboard.com/music/pop/katseye-coming-to-australia-1236224161/",
-    "publishedAt": "2026-04-16T08:29:14.000Z",
-    "summary": "To celebrate KATSEYE's first trip to these parts, fans will have the chance to attend an exclusive fan Q&A experience in Sydney on May 6.",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQldrRFZXRG5yMVQ3Sk5XOGpHZkVxNmwyRGF3Q3FqcUVMbkNLSG9SdGdjc0hRMnhVQlduQXV6ZjYxVF9FczNtX0Rzd2ZBVThETDVtUGlHOXF0VDBCVnpKdm5WVkZVR0JyR3hrOExteFNwS0F0cXJVU1ZPQVQzRlhDZ3p0TEFjbzRkT3dHMWFJaG83UG44NFpBQXFCV0huaXhsNmV2X2w5eXRKZzQyQU5IZjJHWGFQTmFZeTlqQ3lsc05VZUlzazRZa2Z1eUZuTGpQLXhKbTBMVHA3QnBOZzFydGRILVZRVmpLQVRENHdQOTNFUQ?oc=5",
     "source": "nme",
     "title": "Ticketmaster-owner Live Nation has operated as a monopoly, jury finds as senators demand scrutiny of \"suspicious\" settlement - NME",
@@ -180,15 +297,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/pop/jessie-ware-major-international-superbloom-tour-1236224147/",
-    "source": "billboard",
-    "title": "Jessie Ware Sets Major International ‘Superbloom’ Tour",
-    "url": "https://www.billboard.com/music/pop/jessie-ware-major-international-superbloom-tour-1236224147/",
-    "publishedAt": "2026-04-16T07:51:25.000Z",
-    "summary": "Ahead of her new album release, Jessie Ware announces a trans-Atlantic tour that's said to be her biggest to date, and includes her first-ever U.K. arena run.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/aaron-carter-mom-gofundme-hollywood-walk-of-fame-star-1235548100/",
     "source": "rolling-stone",
     "title": "Aaron Carter’s Mom Launches GoFundMe to Get Him a Hollywood Walk of Fame Star",
@@ -198,36 +306,9 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/warp-records-cryptic-poster-boards-of-canada-1236224138/",
-    "source": "billboard",
-    "title": "Warp Records’ Cryptic Poster Run Hints at Boards of Canada Return",
-    "url": "https://www.billboard.com/music/music-news/warp-records-cryptic-poster-boards-of-canada-1236224138/",
-    "publishedAt": "2026-04-16T04:25:03.000Z",
-    "summary": "Boards of Canada's last album release was \"Tomorrow's Harvest\" from 2013.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/the-voice-winners-every-season/",
-    "source": "billboard",
-    "title": "‘The Voice’ Winners: Which Coach & Singer Won Each Season?",
-    "url": "https://www.billboard.com/lists/the-voice-winners-every-season/",
-    "publishedAt": "2026-04-16T03:28:00.000Z",
-    "summary": "Blake Shelton has the most victories, with nine winning contestants.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rock/duran-duran-teases-nile-rodgers-free-to-love-1236224125/",
-    "source": "billboard",
-    "title": "Duran Duran Teases New Nile Rodgers Collaboration ‘Free to Love’",
-    "url": "https://www.billboard.com/music/rock/duran-duran-teases-nile-rodgers-free-to-love-1236224125/",
-    "publishedAt": "2026-04-16T03:14:11.000Z",
-    "summary": "Due out April 23, the new single sees Duran Duran stepping away from Halloween and shimmying into disco.",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/news/watch-ariana-grande-go-toe-to-toe-with-ben-stiller-in-focker-in-law-trailer/",
     "source": "pitchfork",
-    "title": "Watch Ariana Grande Go Toe-To-Toe With Ben Stiller in Focker-in-Law Trailer",
+    "title": "Watch Ariana Grande Go Toe-to-Toe With Ben Stiller in Focker-in-Law Trailer",
     "url": "https://pitchfork.com/news/watch-ariana-grande-go-toe-to-toe-with-ben-stiller-in-focker-in-law-trailer/",
     "publishedAt": "2026-04-16T03:10:19.000Z",
     "summary": "The latest film in the Meet the Parents series, which also stars Robert De Niro, is out on Thanksgiving",
@@ -243,21 +324,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/culture/tv-film/focker-in-law-trailer-ariana-grande-ben-stiller-de-niro-1236224106/",
-    "source": "billboard",
-    "title": "Watch Ariana Grande Star in First ‘Focker-in-Law’ Trailer: ‘Would You Like to Ask Me Some Questions, Greg?’",
-    "url": "https://www.billboard.com/culture/tv-film/focker-in-law-trailer-ariana-grande-ben-stiller-de-niro-1236224106/",
-    "publishedAt": "2026-04-16T01:23:51.000Z",
-    "summary": "The film will be released in theaters this Thanksgiving.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/paul-stanley-gene-simmons-detail-kiss-forever-avatar-vegas-1235548028/",
     "source": "rolling-stone",
     "title": "Kiss’ Paul Stanley Touts New Avatar Spectacular in Vegas as More Interactive ‘Antithesis’ of the Sphere",
     "url": "https://www.rollingstone.com/music/music-news/paul-stanley-gene-simmons-detail-kiss-forever-avatar-vegas-1235548028/",
     "publishedAt": "2026-04-15T23:42:02.000Z",
-    "summary": "\"We wanted to incorporate the highest of technology but we want to be the center of it,\" musician says",
+    "summary": "“We wanted to incorporate the highest of technology but we want to be the center of it,” musician says",
     "image": null
   },
   {
@@ -266,7 +338,7 @@
     "title": "Troubled Rock the Country Tour Is Slashing Prices, Losing Jelly Roll at One Stop",
     "url": "https://www.rollingstone.com/music/music-country/rock-the-country-tour-prices-drop-jelly-roll-drops-out-1235548014/",
     "publishedAt": "2026-04-15T22:41:39.000Z",
-    "summary": "\"Fuel costs are up and we want to help,\" the festival wrote to fans. \"In response to rising transportation costs, you can enjoy up to 50% off general admission passes to any of 7 small town stops\"",
+    "summary": "“Fuel costs are up and we want to help,” the festival wrote to fans. “In response to rising transportation costs, you can enjoy up to 50% off general admission passes to any of 7 small town stops”",
     "image": null
   },
   {
@@ -324,30 +396,12 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/rza-wu-tang-clan-rock-roll-hall-fame-interview-1235547094/",
-    "source": "rolling-stone",
-    "title": "RZA Wants Barack Obama to Induct Wu-Tang Clan Into the Rock & Roll Hall of Fame",
-    "url": "https://www.rollingstone.com/music/music-features/rza-wu-tang-clan-rock-roll-hall-fame-interview-1235547094/",
-    "publishedAt": "2026-04-15T18:01:10.000Z",
-    "summary": "The newest inductee talks significance of honor, his love of Phil Collins, and a dream Rage Against the Machine reunion",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/disturbed-david-draiman-billy-corgan-music-political/",
     "source": "loudwire",
     "title": "Should Music Be Political? Billy Corgan Asks David Draiman",
     "url": "https://loudwire.com/disturbed-david-draiman-billy-corgan-music-political/",
     "publishedAt": "2026-04-15T17:35:47.000Z",
     "summary": "Billy Corgan asked Disturbed frontman David Draiman whether he thinks music should be political on his podcast 'The Magnificent Others.' Continue reading…",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/slipknot-look-outside-your-window-shawn-crahan-1235534383/",
-    "source": "rolling-stone",
-    "title": "Slipknot’s M. Shawn Crahan Opens Up About His Other Band",
-    "url": "https://www.rollingstone.com/music/music-features/slipknot-look-outside-your-window-shawn-crahan-1235534383/",
-    "publishedAt": "2026-04-15T17:16:28.000Z",
-    "summary": "Look Outside Your Window, whose members also play in Slipknot, will finally release their self-titled debut, recorded in 2008, on Record Store Day",
     "image": null
   },
   {
@@ -405,15 +459,6 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/news/watch-monaleo-channel-her-inner-barbie-in-crossroads-freestyle/",
-    "source": "pitchfork",
-    "title": "Watch Monaleo Channel Her Inner Barbie in “Crossroads Freestyle”",
-    "url": "https://pitchfork.com/news/watch-monaleo-channel-her-inner-barbie-in-crossroads-freestyle/",
-    "publishedAt": "2026-04-15T14:25:57.000Z",
-    "summary": "The 24-year-old rapper released her second album, Who Did the Body, last year",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/the-pretty-reckless-taylor-momsen-hospitalized-spider-rash/",
     "source": "loudwire",
     "title": "Taylor Momsen Hospitalized, Shows Photo of Spider Rash",
@@ -423,39 +468,12 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/billy-idol-songs-rock-hall-induction-poll/",
-    "source": "loudwire",
-    "title": "What Songs Should Be Played at Billy Idol's Rock Hall Induction?",
-    "url": "https://loudwire.com/billy-idol-songs-rock-hall-induction-poll/",
-    "publishedAt": "2026-04-15T14:06:47.000Z",
-    "summary": "Vote in our poll to let us know which songs you'd like to see Billy Idol play at his Rock Hall induction. Continue reading…",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMipwFBVV95cUxQUWljOEQ5RXgxejJRWnlGUjhyeUdGVVJqZDNqbEpVV2FCMUtvVHA2eVBoWGlsQW10dkRYWEpNSkVydFJBUUdxLUI1YVF2ZGZaTC1OWWd5cmR4OGpyMnJDWGpYSkJmWEJfYmpoYlNKU2g3SFpDQll2dmxrNGZVRF9lY2xZLVJlTXc1TkdFSEpDNHVfNE50b185WTlyVHYxNG5kM3JWMHZ0MA?oc=5",
     "source": "nme",
     "title": "Jessie Ware announces 2026 UK and European arena tour - NME",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUWljOEQ5RXgxejJRWnlGUjhyeUdGVVJqZDNqbEpVV2FCMUtvVHA2eVBoWGlsQW10dkRYWEpNSkVydFJBUUdxLUI1YVF2ZGZaTC1OWWd5cmR4OGpyMnJDWGpYSkJmWEJfYmpoYlNKU2g3SFpDQll2dmxrNGZVRF9lY2xZLVJlTXc1TkdFSEpDNHVfNE50b185WTlyVHYxNG5kM3JWMHZ0MA?oc=5",
     "publishedAt": "2026-04-15T13:59:25.000Z",
     "summary": "Jessie Ware announces 2026 UK and European arena tour NME",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/dave-mustaine-influenced-every-big-4-thrash-band/",
-    "source": "loudwire",
-    "title": "Dave Mustaine Shares How He Influenced Every ‘Big 4’ Thrash Band",
-    "url": "https://loudwire.com/dave-mustaine-influenced-every-big-4-thrash-band/",
-    "publishedAt": "2026-04-15T13:50:01.000Z",
-    "summary": "The Megadeth frontman and guitarist explains the one specific way in which he influenced all four of thrash's 'Big 4' bands. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/blaze-bayley-iron-maiden-rock-and-roll-hall-of-fame/",
-    "source": "loudwire",
-    "title": "Blaze Bayley Reacts to Rock Hall Induction With Iron Maiden",
-    "url": "https://loudwire.com/blaze-bayley-iron-maiden-rock-and-roll-hall-of-fame/",
-    "publishedAt": "2026-04-15T13:28:11.000Z",
-    "summary": "Blaze Bayley's named was added to the list of Iron Maiden nominees just a couple weeks before the band was confirmed to be inducted. Continue reading…",
     "image": null
   },
   {
@@ -540,15 +558,6 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcWhITE81MEpJWXpjUkpsY2hCdkp6T2dEUHlDNU5EOExaOUFBUkwtVjFMYzVOdy1rMUU1SXdMeE9MRU00OGdWaXBOXzZacFpjYllwWi0zR0lkTmxvdjFJeEctVkhfOGNGbFN4OGRtOTVISXAwRjJ3NFNtclNWX3dBenBkNUJjeXdmSFRyY1FWMElwSjNkY19YZHkzaGc1SFpNeFc5MG9FSUpTeUMyckpZdG5BZHNwYkdOM2pXTXU4Z0hPejdMNU43QmFhTVVpaWRC?oc=5",
-    "source": "nme",
-    "title": "Kanye West makes \"sole decision\" to postpone France gig indefinitely, one week after UK Wireless ban - NME",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcWhITE81MEpJWXpjUkpsY2hCdkp6T2dEUHlDNU5EOExaOUFBUkwtVjFMYzVOdy1rMUU1SXdMeE9MRU00OGdWaXBOXzZacFpjYllwWi0zR0lkTmxvdjFJeEctVkhfOGNGbFN4OGRtOTVISXAwRjJ3NFNtclNWX3dBenBkNUJjeXdmSFRyY1FWMElwSjNkY19YZHkzaGc1SFpNeFc5MG9FSUpTeUMyckpZdG5BZHNwYkdOM2pXTXU4Z0hPejdMNU43QmFhTVVpaWRC?oc=5",
-    "publishedAt": "2026-04-15T09:32:13.000Z",
-    "summary": "Kanye West makes \"sole decision\" to postpone France gig indefinitely, one week after UK Wireless ban NME",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/andy-blade-aint-that-a-shame-video-premiere-ep-review/",
     "source": "louder-than-war",
     "title": "Andy Blade: Ain’t That A Shame – Video Premiere & EP review",
@@ -564,15 +573,6 @@
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ25iU3RoVXB2bW9rMTF5ajJLUkljN2ticzdfelVUdXB5ZUVacDNyX1J6NFY2S0p1U2wtejEzNnQzX2JkbG02UXpPNWRGOVBYZjRWX2RhYm55Z3JoSVNJWUswM0ZHNTlSMkVuc201Wk9mT2FHWmFFTzlreU1GeEcxb2ZMQ0d4NVFRQXpoTQ?oc=5",
     "publishedAt": "2026-04-15T08:00:00.000Z",
     "summary": "Album review: Teen Suicide – Nude descending staircase headless Kerrang!",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMie0FVX3lxTE9yRFF2akhRLUxaVG5iWlN3eWtPcUwybmhUN0M5SnNXSUU4WHdWUEV6Rng3bHB3RVFvMVZsSTdTVXRfcVNJNkpRbW9La2xvYm5HWHhidzA0V1dPOEFoU2d1ZnVtQ1VLQmZrU2lMelhWdGxfTmdzVHFZYkh5NA?oc=5",
-    "source": "nme",
-    "title": "Ella Langley – ‘Dandelion’ review: infectious, irresistible country pop for those who dare to dream bigger - NME",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yRFF2akhRLUxaVG5iWlN3eWtPcUwybmhUN0M5SnNXSUU4WHdWUEV6Rng3bHB3RVFvMVZsSTdTVXRfcVNJNkpRbW9La2xvYm5HWHhidzA0V1dPOEFoU2d1ZnVtQ1VLQmZrU2lMelhWdGxfTmdzVHFZYkh5NA?oc=5",
-    "publishedAt": "2026-04-15T07:30:31.000Z",
-    "summary": "Ella Langley – ‘Dandelion’ review: infectious, irresistible country pop for those who dare to dream bigger NME",
     "image": null
   },
   {
