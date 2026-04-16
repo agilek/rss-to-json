@@ -1,5 +1,59 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/pro/grateful-dead-subscription-streaming-service-play-dead/",
+    "source": "billboard",
+    "title": "The Grateful Dead Launches Play Dead Streaming Platform: ‘We Want to Melt Your Faces’",
+    "url": "https://www.billboard.com/pro/grateful-dead-subscription-streaming-service-play-dead/",
+    "publishedAt": "2026-04-16T11:00:00.000Z",
+    "summary": "A joint effort of nugs and Rhino Entertainment, the subscription service will offer access to all of the Dead's prior archival releases, along with new material.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/suga-bts-interview-arirang-hip-hop-1235544824/",
+    "source": "rolling-stone",
+    "title": "Suga: ‘I’m a Good Fit for This Job’",
+    "url": "https://www.rollingstone.com/music/music-features/suga-bts-interview-arirang-hip-hop-1235544824/",
+    "publishedAt": "2026-04-16T11:00:00.000Z",
+    "summary": "The BTS rapper and producer on helping to shape the sound of Arirang, his love for hip-hop, and the future of BTS",
+    "image": null
+  },
+  {
+    "id": "uncut-https://www.uncut.co.uk/publications/the-500-greatest-albums-of-the-1970s-ranked-2-154184/",
+    "source": "uncut",
+    "title": "The 500 Greatest Albums of the 1970s…Ranked!",
+    "url": "https://www.uncut.co.uk/publications/the-500-greatest-albums-of-the-1970s-ranked-2-154184/",
+    "publishedAt": "2026-04-16T10:31:33.000Z",
+    "summary": "Ooh La la! The deluxe, remastered editionOoh La la! The deluxe, remastered edition The 1970s was legendarily a time for rock ‘n’ roll excess, and as you’ll discover in this new magazine, we’re as vulnerable to that as any musician of that decade. We’re firm believers in giving an audience what they want, so we’ve […] The post The 500 Greatest Albums of the 1970s…Ranked! appeared first on UNCUT.",
+    "image": null
+  },
+  {
+    "id": "louder-than-war-https://louderthanwar.com/the-damned-50th-anniversary-show-ovo-arena-wembley-london-live-review/",
+    "source": "louder-than-war",
+    "title": "The Damned 50th Anniversary Show: OVO Arena Wembley, London – Live Review",
+    "url": "https://louderthanwar.com/the-damned-50th-anniversary-show-ovo-arena-wembley-london-live-review/",
+    "publishedAt": "2026-04-16T10:20:55.000Z",
+    "summary": "The Damned | Marc Almond and The Loveless | Peter Hook and the Light | The Courettes OVO Arena Wembley, London 11th April 2026 Forefathers of punk, The Damned, celebrate their 50th anniversary in style at the OVO Arena alongside a team of punk icons. Eylem Boz reviews. As the spring blossom swam around London’s […] The post The Damned 50th Anniversary Show: OVO Arena Wembley, London – Live Review appeared first on Louder Than War.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/pink-floyd-wish-you-were-here-inter-milan-sportwear-capsule-1236224167/",
+    "source": "billboard",
+    "title": "Pink Floyd Kicks Off ‘Wish You Were Here’ 50th Anniversary With Retro Inter Milan Capsule",
+    "url": "https://www.billboard.com/music/music-news/pink-floyd-wish-you-were-here-inter-milan-sportwear-capsule-1236224167/",
+    "publishedAt": "2026-04-16T09:47:32.000Z",
+    "summary": "The Pink Floyd FC collection includes two exclusive, limited-edition goodies.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/massive-attacks-first-song-in-six-years-features-tom-waits/",
+    "source": "pitchfork",
+    "title": "Massive Attack’s First Song in Six Years Features Tom Waits",
+    "url": "https://pitchfork.com/news/massive-attacks-first-song-in-six-years-features-tom-waits/",
+    "publishedAt": "2026-04-16T09:39:52.000Z",
+    "summary": "“Seen within the American emergency, this track contains pulses of callous impulse and abandoned mind,” the duo says of “Boots on the Ground”",
+    "image": null
+  },
+  {
     "id": "uncut-https://www.uncut.co.uk/publications/introducing-the-ultimate-music-guide-creedence-clearwater-revival-154177/",
     "source": "uncut",
     "title": "Introducing the Ultimate Music Guide: Creedence Clearwater Revival!",
@@ -74,10 +128,10 @@
   {
     "id": "pitchfork-https://pitchfork.com/news/watch-ariana-grande-go-toe-to-toe-with-ben-stiller-in-focker-in-law-trailer/",
     "source": "pitchfork",
-    "title": "Watch Ariana Grande Go Toe-To-Toe with Ben Stiller in Focker-In-Law Trailer",
+    "title": "Watch Ariana Grande Go Toe-To-Toe With Ben Stiller in Focker-in-Law Trailer",
     "url": "https://pitchfork.com/news/watch-ariana-grande-go-toe-to-toe-with-ben-stiller-in-focker-in-law-trailer/",
     "publishedAt": "2026-04-16T03:10:19.000Z",
-    "summary": "The latest film in the Meet The Parents series, which also stars Robert De Niro, is out on Thanksgiving",
+    "summary": "The latest film in the Meet the Parents series, which also stars Robert De Niro, is out on Thanksgiving",
     "image": null
   },
   {
@@ -123,24 +177,6 @@
     "url": "https://www.rollingstone.com/music/music-news/paul-stanley-gene-simmons-detail-kiss-forever-avatar-vegas-1235548028/",
     "publishedAt": "2026-04-15T23:42:02.000Z",
     "summary": "\"We wanted to incorporate the highest of technology but we want to be the center of it,\" musician says",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/video/taemin-on-being-first-male-k-pop-soloist-at-coachella/",
-    "source": "billboard",
-    "title": "TAEMIN on Being First Korean Male K-Pop Soloist to Perform at Coachella & More | Billboard News",
-    "url": "https://www.billboard.com/video/taemin-on-being-first-male-k-pop-soloist-at-coachella/",
-    "publishedAt": "2026-04-15T23:28:37.000Z",
-    "summary": "We caught up with TAEMIN at weekend one of Coachella 2026 where he shares how he feels about being the first male K-Pop soloist to ever play Coachella and being honored at the Grammy Museum. Tetris Kelly: I don’t think anybody at Coachella looks as good as you. Thank you! I love the style. Man, […]",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/avril-lavigne-alanis-morissette-ironic-cover-1236223977/",
-    "source": "billboard",
-    "title": "Who Would’ve Thought? Avril Lavigne Covers Alanis Morissette’s ‘Ironic’ for Canadian Rom-Com Soundtrack",
-    "url": "https://www.billboard.com/music/music-news/avril-lavigne-alanis-morissette-ironic-cover-1236223977/",
-    "publishedAt": "2026-04-15T22:54:09.000Z",
-    "summary": "Lavigne remained true to the original sound with her rendition.",
     "image": null
   },
   {
@@ -249,15 +285,6 @@
     "url": "https://www.rollingstone.com/music/music-news/the-voice-season-29-winner-alexia-jayy-makes-history-1235547657/",
     "publishedAt": "2026-04-15T16:54:18.000Z",
     "summary": "The contestant from Adam Levine’s team was crowned the winner of Season 29, having delivered knockout performances of songs from Aretha Franklin, Whitney Houston, Adele, and more",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/joy-division-new-order-hall-of-fame-finally-1235545058/",
-    "source": "rolling-stone",
-    "title": "The Hall of Fame Finally Got It Right on Joy Division/New Order",
-    "url": "https://www.rollingstone.com/music/music-features/joy-division-new-order-hall-of-fame-finally-1235545058/",
-    "publishedAt": "2026-04-15T16:50:10.000Z",
-    "summary": "After decades of inexplicable snubs, these innovative and influential acts are being recognized at last",
     "image": null
   },
   {
@@ -375,15 +402,6 @@
     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQa2I5OWNQVkwteGdzN3BYbjY1V0ZpZTFZNVFmV2c2aFAtZGJsM2JoZXdKOWlMXzVacFNCNzVMUjkzVm5FTEk0RG1CSk1aSzV0WFZlY1VwYUxuREdyNUg0TElwRU5uMHo5ZUR2MDF6aEFBZ05DSll5aTlMcEpnNEhsTm9XbFhreEVka1pldHBPM25jZVJOVDFOZWQ2WFhMbjhySTF2bXQ2Y0pMS1VPTkFWMUhhZVpMWDA1bTVNZkwtMjdPbnFXd1hnNG1SN0xGR19rSHhaS1hkamYySUlY?oc=5",
     "publishedAt": "2026-04-15T13:00:11.000Z",
     "summary": "Pink Floyd team up with Inter Milan for new fashion collection celebrating 50 years of 'Wish You Were Here’ NME",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/news/coachella-2026-weekend-2-lineup-and-schedule-all-the-set-times-you-need-to-know/",
-    "source": "pitchfork",
-    "title": "Coachella 2026 Weekend 2 Lineup & Schedule: All the Set Times You Need to Know",
-    "url": "https://pitchfork.com/news/coachella-2026-weekend-2-lineup-and-schedule-all-the-set-times-you-need-to-know/",
-    "publishedAt": "2026-04-15T12:24:51.000Z",
-    "summary": "See when Sabrina Carpenter, Justin Bieber, Karol G, and the Strokes—plus new addition Kacey Musgraves—return to the Indio stages",
     "image": null
   },
   {
@@ -603,15 +621,6 @@
     "image": null
   },
   {
-    "id": "louder-than-war-https://louderthanwar.com/fm-experiment-fly-single-review/",
-    "source": "louder-than-war",
-    "title": "FM Experiment: Fly – Single Review",
-    "url": "https://louderthanwar.com/fm-experiment-fly-single-review/",
-    "publishedAt": "2026-04-14T12:07:36.000Z",
-    "summary": "FM Experiment: Fly (FMXP Records) Out Now Jazz-tronica trio FM Experiment share the sprawling new single Fly. A striking and inventive blend of swirling electronics, inventive live instrumentation and experimental ideas, the track is at once danceable and vibrantly creative. Taken from their forthcoming conceptual album Icarus, the track finds the trio leaning deeper […] The post FM Experiment: Fly – Single Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/reviews/billy-preston-thats-the-way-god-planned-it-reviewed-child-prodigy-fifth-beatle-restless-soul-154117/",
     "source": "uncut",
     "title": "Billy Preston, That’s The Way God Planned It reviewed: child prodigy, ‘fifth Beatle’, restless soul",
@@ -636,15 +645,6 @@
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQlVHM1FVVFJzYTZSVlV5amNwaGN1OGFxV0dVWmpxRG9CYjE3MndxYUhqTzhrOWN1eGdLcFoxenRYNUM5TS01UTgyNkZoV0tyLU5YNFBTZlo2U0tBTHYxb3BUZ1c5blhpbnpIdTRJUW9GRXBJNU1fS1EzWkpwUEgyVVUwVjQycDRENEE?oc=5",
     "publishedAt": "2026-04-14T10:00:00.000Z",
     "summary": "Album review: Skindred – You Got This Kerrang!",
-    "image": null
-  },
-  {
-    "id": "uncut-https://www.uncut.co.uk/news/club-uncut-154108/",
-    "source": "uncut",
-    "title": "Stage times confirmed for Joana Serrat, Chris Eckman and Tenderness at Club Uncut",
-    "url": "https://www.uncut.co.uk/news/club-uncut-154108/",
-    "publishedAt": "2026-04-14T08:54:35.000Z",
-    "summary": "There's a few tickets left, too... The post Stage times confirmed for Joana Serrat, Chris Eckman and Tenderness at Club Uncut appeared first on UNCUT.",
     "image": null
   },
   {
