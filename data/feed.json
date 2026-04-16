@@ -1,5 +1,32 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/pro/tennessee-indie-venue-funding-bill-voted-down-state-house/",
+    "source": "billboard",
+    "title": "Tennessee Indie Venue Funding Bill Voted Down in State House",
+    "url": "https://www.billboard.com/pro/tennessee-indie-venue-funding-bill-voted-down-state-house/",
+    "publishedAt": "2026-04-16T22:41:02.000Z",
+    "summary": "The legislation would have provided grants to independent venues in the state through a 5% tax on tickets sold on the secondary market.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/g-love-bitcoin-scam-robbery-1235548628/",
+    "source": "rolling-stone",
+    "title": "G. Love Lost $440,000 in Bitcoin to Scammer: ‘Getting Robbed Is No Joke’",
+    "url": "https://www.rollingstone.com/music/music-news/g-love-bitcoin-scam-robbery-1235548628/",
+    "publishedAt": "2026-04-16T21:34:12.000Z",
+    "summary": "\"It was my own damn fault for not being more diligent,\" artist says",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/dogfish-head-grateful-dead-citrus-daydream-lager-buy-online-1236198852/",
+    "source": "billboard",
+    "title": "Dogfish Head Craft Brewery Has New Collaboration With The Grateful Dead",
+    "url": "https://www.billboard.com/culture/product-recommendations/dogfish-head-grateful-dead-citrus-daydream-lager-buy-online-1236198852/",
+    "publishedAt": "2026-04-16T21:27:38.000Z",
+    "summary": "Grateful Dead Citrus Daydream Lager is now available nationwide.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/chart-beat/justin-bieber-coachella-streams-trending-up-1236224658/",
     "source": "billboard",
     "title": "How Much Have Justin Bieber’s Streams Continued to Rise Post-Coachella?",
@@ -99,24 +126,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/jey-uso-attacks-camron-it-is-what-it-is-video-1236224453/",
-    "source": "billboard",
-    "title": "Cam’ron Attacked by WWE Superstar Jey Uso During ‘It Is What It Is’ Episode: ‘I Don’t Smell What the Uce Is Cooking’",
-    "url": "https://www.billboard.com/music/rb-hip-hop/jey-uso-attacks-camron-it-is-what-it-is-video-1236224453/",
-    "publishedAt": "2026-04-16T19:03:35.000Z",
-    "summary": "Killa Cam will be making an appearance at WrestleMania 42.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/awards/2026-rock-hall-inductions-chairman-john-sykes-q-and-a-1236224505/",
-    "source": "billboard",
-    "title": "John Sykes on 2026 Rock Hall Inductions, Why Voters Embraced So Many Acts From the 1980s & Their Curious Snub of Mariah Carey",
-    "url": "https://www.billboard.com/music/awards/2026-rock-hall-inductions-chairman-john-sykes-q-and-a-1236224505/",
-    "publishedAt": "2026-04-16T19:01:35.000Z",
-    "summary": "His top focus is on the Hall remaining relevant: \"The moment we stop dead, we become the Old Person's Hall of Fame.\"",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/news/neko-cases-thelma-and-louise-musical-to-debut-this-fall/",
     "source": "pitchfork",
     "title": "Neko Case’s Thelma & Louise Musical to Debut This Fall",
@@ -132,6 +141,15 @@
     "url": "https://www.rollingstone.com/music/music-news/victoria-beckham-breaks-silence-brooklyn-estrangement-1235548339/",
     "publishedAt": "2026-04-16T18:31:29.000Z",
     "summary": "\"We've been in the public eye for more than 30 years right now, and all we've ever tried to do is protect our children and love our children,\" former Spice Girl says",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMimgFBVV95cUxQUGNiSjkyLWcxT3lOSXBVYnpscnVyLXU4MW1IUFdsOGE4LXBXcXBqcXZsR0YtaGhoTXdmYnlLVjZnNDlSSlJKMlhUV1NPODdSUHJGam85UVRUM0dwdFE3aURqX1p3Z0E1VWd3d3l4NDJtTzlHN3NvblZSREtwalJuX2FJdDhRQS1OemdWVG9PRmhqMVpIM3FXb2pB?oc=5",
+    "source": "nme",
+    "title": "Check out Boards Of Canada’s first new music in 13 years - NME",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUGNiSjkyLWcxT3lOSXBVYnpscnVyLXU4MW1IUFdsOGE4LXBXcXBqcXZsR0YtaGhoTXdmYnlLVjZnNDlSSlJKMlhUV1NPODdSUHJGam85UVRUM0dwdFE3aURqX1p3Z0E1VWd3d3l4NDJtTzlHN3NvblZSREtwalJuX2FJdDhRQS1OemdWVG9PRmhqMVpIM3FXb2pB?oc=5",
+    "publishedAt": "2026-04-16T18:20:52.000Z",
+    "summary": "Check out Boards Of Canada’s first new music in 13 years NME",
     "image": null
   },
   {
@@ -194,7 +212,7 @@
     "title": "The Grateful Dead’s New Streaming Service Is the ‘Largest Tape-Transfer Project in Rock History’",
     "url": "https://www.rollingstone.com/music/music-news/grateful-dead-play-dead-streaming-service-1235548128/",
     "publishedAt": "2026-04-16T16:14:44.000Z",
-    "summary": "Play Dead launches with more than 300 concerts, including 20 previously unreleased vault recordings",
+    "summary": "Play Dead launches with more than 400 concerts, including 20 previously unreleased vault recordings",
     "image": null
   },
   {
@@ -252,15 +270,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/avril-lavigne-alanis-morissette-ironic-cover-mile-end-kicks-1235548137/",
-    "source": "rolling-stone",
-    "title": "Avril Lavigne Covers Alanis Morissette’s ‘Ironic’ for Rom-Com Soundtrack",
-    "url": "https://www.rollingstone.com/music/music-news/avril-lavigne-alanis-morissette-ironic-cover-mile-end-kicks-1235548137/",
-    "publishedAt": "2026-04-16T14:23:01.000Z",
-    "summary": "The pop punk princess covered Morissette’s hit track for Mile End Kicks",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/staind-replace-jelly-roll-rock-the-country-ticket-sales-struggle/",
     "source": "loudwire",
     "title": "Rock Band Replaces Jelly Roll as Rock the Country Sales Struggle",
@@ -285,6 +294,15 @@
     "url": "https://loudwire.com/def-leppard-soundtrack-disney-rock-n-roller-coaster/",
     "publishedAt": "2026-04-16T14:06:51.000Z",
     "summary": "Def Leppard are among the guest artists that appear on the new soundtrack for the Disney World ride Rock 'n' Roller Coaster Starring The Muppets. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMiqgFBVV95cUxORmNxRk1Rek93WVZPUWM0dWUyelQwUFJPQkJaUm9rVHZtMV9KMFRmempuWTJUUzdZaWpsNXFXcDdUOXlOM2h5SmtOVkJ4QjExUGZmY0k2MDlvN0lJd0NsQzlBd0J6LVNkMm40MEhyNGpIUnlFTVBoNW9RNG1JOGoyTjFzU08xS3d4Z3ZMcjJ3bV9GYUFaQU1ub1dXWktFSUVSMFRkb0JhT3RPdw?oc=5",
+    "source": "nme",
+    "title": "The Strokes add extra London O2 show to 2026 'Reality Awaits' UK tour due to phenomenal demand - NME",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORmNxRk1Rek93WVZPUWM0dWUyelQwUFJPQkJaUm9rVHZtMV9KMFRmempuWTJUUzdZaWpsNXFXcDdUOXlOM2h5SmtOVkJ4QjExUGZmY0k2MDlvN0lJd0NsQzlBd0J6LVNkMm40MEhyNGpIUnlFTVBoNW9RNG1JOGoyTjFzU08xS3d4Z3ZMcjJ3bV9GYUFaQU1ub1dXWktFSUVSMFRkb0JhT3RPdw?oc=5",
+    "publishedAt": "2026-04-16T13:54:03.000Z",
+    "summary": "The Strokes add extra London O2 show to 2026 'Reality Awaits' UK tour due to phenomenal demand NME",
     "image": null
   },
   {
@@ -411,24 +429,6 @@
     "url": "https://www.uncut.co.uk/news/hear-the-new-massive-attack-and-tom-waits-collaboration-boots-on-the-ground-154142/",
     "publishedAt": "2026-04-16T09:02:45.000Z",
     "summary": "It's Waits’ first new release since 2011's Bad As Me, and features additional vocals from his son Casey The post Hear the new single by Massive Attack and Tom Waits, “Boots On The Ground” appeared first on UNCUT.",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVmJzeUFSc1RYaTQycE9xY0pFbVoyQTF4c3owdEpZMkpsYTZ1VXAyRkhhRWtDVWM1bjRVU1pxWC1DU1RQZF9OU0dPN1JvaUJzZkprOE5jWFItVjNwTDNEZHRxNUE2NGdZYzd5VXBEUklFMmc1UTc5cTVhenozMnZna1hMYjYtZ3ZZZ3VWNkxxQVU2UENKbnlCcUdTTmJ1Y2R2RXNKZVNoeVhoNm1nNXdLTTU2RUhZOGhqNkFoX2diXzZESHo4dU9oV0JSWTdBZXVTMGVlajBkSDVjVTFaM1l0TUVjVEtJZw?oc=5",
-    "source": "nme",
-    "title": "Massive Attack and Tom Waits meet \"an atmosphere of chaos\" on the powerful, politically-charged 'Boots On The Ground' - NME",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVmJzeUFSc1RYaTQycE9xY0pFbVoyQTF4c3owdEpZMkpsYTZ1VXAyRkhhRWtDVWM1bjRVU1pxWC1DU1RQZF9OU0dPN1JvaUJzZkprOE5jWFItVjNwTDNEZHRxNUE2NGdZYzd5VXBEUklFMmc1UTc5cTVhenozMnZna1hMYjYtZ3ZZZ3VWNkxxQVU2UENKbnlCcUdTTmJ1Y2R2RXNKZVNoeVhoNm1nNXdLTTU2RUhZOGhqNkFoX2diXzZESHo4dU9oV0JSWTdBZXVTMGVlajBkSDVjVTFaM1l0TUVjVEtJZw?oc=5",
-    "publishedAt": "2026-04-16T09:00:04.000Z",
-    "summary": "Massive Attack and Tom Waits meet \"an atmosphere of chaos\" on the powerful, politically-charged 'Boots On The Ground' NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYTlDdHdPTWQ1czZrNzlvRThVbElBZnNxaEg3OVNVU3hBQTZKNkQ4LXZiU1I0VlNDTFFKV080QlNHbjJrcGVPbTVUcjlTaXNCZHUxUDR0aUdZcGF1ME4yWkZUbS00Y0gtU1RrNkQtbUpjUmUyUE81Q09mY3QxdDhRYWtqZHlzXzBqa3QxeU5KRm1Sc1RxWmxHQ1ptUF9xRDBJLWlNcy01TmFPSGkxcFpIcGYwMFZqN3loWnpsU3U3eV9Eb3N5S1JWWUxlZHNLVnhrT1RxSUF0R3RIeHdQYTJoU2RkN0tvSTZReGc4RkNyRE9XZV9L?oc=5",
-    "source": "nme",
-    "title": "Lena Dunham says she felt \"like a ghost\" while dating Jack Antonoff, seemingly referencing his relationship with \"teen pop star\" Lorde - NME",
-    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYTlDdHdPTWQ1czZrNzlvRThVbElBZnNxaEg3OVNVU3hBQTZKNkQ4LXZiU1I0VlNDTFFKV080QlNHbjJrcGVPbTVUcjlTaXNCZHUxUDR0aUdZcGF1ME4yWkZUbS00Y0gtU1RrNkQtbUpjUmUyUE81Q09mY3QxdDhRYWtqZHlzXzBqa3QxeU5KRm1Sc1RxWmxHQ1ptUF9xRDBJLWlNcy01TmFPSGkxcFpIcGYwMFZqN3loWnpsU3U3eV9Eb3N5S1JWWUxlZHNLVnhrT1RxSUF0R3RIeHdQYTJoU2RkN0tvSTZReGc4RkNyRE9XZV9L?oc=5",
-    "publishedAt": "2026-04-16T08:45:44.000Z",
-    "summary": "Lena Dunham says she felt \"like a ghost\" while dating Jack Antonoff, seemingly referencing his relationship with \"teen pop star\" Lorde NME",
     "image": null
   },
   {
