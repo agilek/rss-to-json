@@ -1,74 +1,146 @@
 [
   {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/taylor-swift-elizabeth-taylor-adult-pop-airplay-top-10-1236225745/",
+    "id": "billboard-https://www.billboard.com/music/latin/best-new-latin-music-poll-nanpa-basico-thalia-tokischa-1236225674/",
     "source": "billboard",
-    "title": "Taylor Swift Makes History on Adult Pop Airplay Chart as ‘Elizabeth Taylor’ Hits Top 10",
-    "url": "https://www.billboard.com/music/chart-beat/taylor-swift-elizabeth-taylor-adult-pop-airplay-top-10-1236225745/",
-    "publishedAt": "2026-04-17T19:00:25.000Z",
-    "summary": "The third single from The Life of a Showgirl joins “Opalite” and “The Fate of Ophelia” in the top tier.",
+    "title": "Nanpa Básico, Thalia & More: Vote for the Best New Latin Music Release This Week",
+    "url": "https://www.billboard.com/music/latin/best-new-latin-music-poll-nanpa-basico-thalia-tokischa-1236225674/",
+    "publishedAt": "2026-04-17T20:42:04.000Z",
+    "summary": "Which new Latin music release is your favorite? Vote below!",
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/video/thalia-reveals-career-defining-moment-left-her-in-tears/",
+    "id": "billboard-https://www.billboard.com/music/music-news/bts-j-hope-grandmother-death-1236225889/",
     "source": "billboard",
-    "title": "Thalia Reveals the Career-Defining Moment That Left Her in Tears | Billboard Women In Music 2026",
-    "url": "https://www.billboard.com/video/thalia-reveals-career-defining-moment-left-her-in-tears/",
-    "publishedAt": "2026-04-17T19:00:00.000Z",
-    "summary": "Billboard Women in Music 2026 Icon Award recipient Thalia talks about the heartache that helped shape her career, her lifelong love for cumbia music and what it means to receive the Billboard Women in Music Icon Award. She also breaks down her huge hits, “No Me Enseñaste,” “Entre El Mar Y Una Estrella,” “Marimar” and […]",
+    "title": "j-hope Announces Death of Grandmother Who ‘Raised Me From When I Was Little’ at BTS Concert",
+    "url": "https://www.billboard.com/music/music-news/bts-j-hope-grandmother-death-1236225889/",
+    "publishedAt": "2026-04-17T20:36:05.000Z",
+    "summary": "\"I was in complete shock and honestly didn’t know what to feel,\" the singer told ARMY in the crowd.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/eminem-grandpa-alaina-scott-1236225412/",
+    "source": "billboard",
+    "title": "Eminem Is a Grandpa Once Again As Daughter Welcomes Baby Girl: ‘She’s Everything & More’",
+    "url": "https://www.billboard.com/music/rb-hip-hop/eminem-grandpa-alaina-scott-1236225412/",
+    "publishedAt": "2026-04-17T20:29:43.000Z",
+    "summary": "Alaina Scott gave birth to her first child.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/olivia-rodrigo-new-album-everything-we-know-1235522136/",
+    "source": "rolling-stone",
+    "title": "Everything We Know About Olivia Rodrigo’s New Album",
+    "url": "https://www.rollingstone.com/music/music-features/olivia-rodrigo-new-album-everything-we-know-1235522136/",
+    "publishedAt": "2026-04-17T20:05:27.000Z",
+    "summary": "Here's all the details for the highly anticipated You Seem Pretty Sad For a Girl So in Love",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/drake-iceman-teasers-1235549175/",
+    "source": "rolling-stone",
+    "title": "Alright, Drake, What’s Going on With ‘Iceman’?",
+    "url": "https://www.rollingstone.com/music/music-features/drake-iceman-teasers-1235549175/",
+    "publishedAt": "2026-04-17T19:57:26.000Z",
+    "summary": "So far, he’s given fans mysterious livestreams, explosions, and just about everything except a new album",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/socan-reports-2025-revenue-canada-music-industry-news/",
+    "source": "billboard",
+    "title": "In Canada: SOCAN Reaches New Revenue Record in 2025, Plus the Death of a Beloved Vocal Producer",
+    "url": "https://www.billboard.com/pro/socan-reports-2025-revenue-canada-music-industry-news/",
+    "publishedAt": "2026-04-17T19:56:45.000Z",
+    "summary": "Also up north this week: An interview with Mile End Kicks director Chandler Levack.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/etsy-laufey-exclusive-collection-shop-online-1236225637/",
+    "source": "billboard",
+    "title": "Getting Ready for Festival Season? Laufey & Etsy Are Here to Help With an Exclusive Collection of ‘A Matter of Time’ Themed Goodies ",
+    "url": "https://www.billboard.com/culture/product-recommendations/etsy-laufey-exclusive-collection-shop-online-1236225637/",
+    "publishedAt": "2026-04-17T19:48:29.000Z",
+    "summary": "The curated Etsy collection features items such as accessories, apparel and trinkets, all co-designed or handpicked by the Icelandic singer.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/everything-we-know-about-drakes-new-album-iceman-1235416867/",
+    "source": "rolling-stone",
+    "title": "Everything We Know About Drake’s Upcoming Album, ‘Iceman’",
+    "url": "https://www.rollingstone.com/music/music-features/everything-we-know-about-drakes-new-album-iceman-1235416867/",
+    "publishedAt": "2026-04-17T19:45:33.000Z",
+    "summary": "Amid never-ending rap beef and lawsuits, the embattled rapper looks to reset the board with his new album",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/music-sustainability-summit-2026-recap-actions-biz-take-now/",
+    "source": "billboard",
+    "title": "2026 Music Sustainability Summit Recap: 9 Actions the Industry Can Take Right Now",
+    "url": "https://www.billboard.com/lists/music-sustainability-summit-2026-recap-actions-biz-take-now/",
+    "publishedAt": "2026-04-17T19:37:45.000Z",
+    "summary": "The third annual summit, held on Tuesday in Los Angeles, brought together leaders from across the industry. Here are nine actionable items from the day.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/buju-banton-new-song-butterflies-vp-records-return-1236225506/",
+    "source": "billboard",
+    "title": "Buju Banton Returns to VP Records, Shares New ‘Butterflies’ Single Ahead of U.S. Summer Tour",
+    "url": "https://www.billboard.com/music/music-news/buju-banton-new-song-butterflies-vp-records-return-1236225506/",
+    "publishedAt": "2026-04-17T19:36:49.000Z",
+    "summary": "The reggae icon has entered a new era and is hitting the road with Stephen Marley.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/best-new-music-poll-olivia-rodrigo-sombr-madonna-1236225630/",
+    "source": "billboard",
+    "title": "sombr, Olivia Rodrigo & Madonna: Which Is Your Favorite New Music Release This Week? Vote!",
+    "url": "https://www.billboard.com/music/music-news/best-new-music-poll-olivia-rodrigo-sombr-madonna-1236225630/",
+    "publishedAt": "2026-04-17T19:22:29.000Z",
+    "summary": "New releases from ZAYN, Nine Inch Noize, Demi Lovato and more also came out this week.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/latin/best-new-music-latin-tokischa-thalia-1236225349/",
+    "source": "billboard",
+    "title": "Tokischa’s Debut Album ‘Amor & Droga’ & More Best New Music Latin",
+    "url": "https://www.billboard.com/music/latin/best-new-music-latin-tokischa-thalia-1236225349/",
+    "publishedAt": "2026-04-17T19:17:45.000Z",
+    "summary": "Plus, check out Billboard's New Music Latin weekly playlist below!",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/olivia-rodrigo-drop-dead-robert-smith-reaction-1235549486/",
+    "source": "rolling-stone",
+    "title": "Olivia Rodrigo Didn’t Play ‘Drop Dead’ for Robert Smith: ‘I Played Him a Bunch of Other Songs’",
+    "url": "https://www.rollingstone.com/music/music-news/olivia-rodrigo-drop-dead-robert-smith-reaction-1235549486/",
+    "publishedAt": "2026-04-17T19:17:05.000Z",
+    "summary": "The pop star made the revelation during an appearance on Apple Music 1’s New Music Daily with Zane Lowe",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/best-new-dance-songs-john-summit-nine-inch-noize/",
+    "source": "billboard",
+    "title": "Friday Dance Music Guide: The Week’s Best New Tracks From John Summit, Slayyyter & More",
+    "url": "https://www.billboard.com/lists/best-new-dance-songs-john-summit-nine-inch-noize/",
+    "publishedAt": "2026-04-17T19:13:15.000Z",
+    "summary": "Simply the best new dance tracks of the week.",
     "image": null
   },
   {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/d4vd-parents-arrest-celeste-rivas-1235549458/",
     "source": "rolling-stone",
-    "title": "D4vd’s Parents ‘Sad and Disappointed’ Over Arrest, Proclaim He’s ‘Innocent,’ Family Lawyer Says",
+    "title": "D4vd’s Parents ‘Sad and Disappointed’ Over Arrest, Proclaim He’s ‘Innocent’",
     "url": "https://www.rollingstone.com/music/music-news/d4vd-parents-arrest-celeste-rivas-1235549458/",
     "publishedAt": "2026-04-17T18:58:29.000Z",
-    "summary": "The Texas-based parents learned of the arrest while still fighting grand jury subpoenas seeking to haul them in front of a panel in Los Angeles",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/d4vd-no-longer-signed-sony-music-the-team-murder-arrest/",
-    "source": "billboard",
-    "title": "D4vd No Longer Signed to Sony Music Publishing or The·Team Amid Murder Arrest",
-    "url": "https://www.billboard.com/pro/d4vd-no-longer-signed-sony-music-the-team-murder-arrest/",
-    "publishedAt": "2026-04-17T18:58:07.000Z",
-    "summary": "The singer-songwriter was dropped by both companies some time ago. He's also been scrubbed from the websites of his labels, Interscope and Darkroom.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/ella-langley-be-her-choosin-texas-country-airplay-top-10-1236225688/",
-    "source": "billboard",
-    "title": "Ella Langley Makes More History on Country Airplay Chart as ‘Be Her’ Joins ‘Choosin’ Texas’ in Top 10",
-    "url": "https://www.billboard.com/music/chart-beat/ella-langley-be-her-choosin-texas-country-airplay-top-10-1236225688/",
-    "publishedAt": "2026-04-17T18:55:56.000Z",
-    "summary": "Langley’s double is the first for a woman in the chart’s archives.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/video/azzecca-talks-performing-first-set-at-yuma-at-coachella/",
-    "source": "billboard",
-    "title": "AZZECCA Talks Performing First Set at Yuma at Coachella | Billboard News",
-    "url": "https://www.billboard.com/video/azzecca-talks-performing-first-set-at-yuma-at-coachella/",
-    "publishedAt": "2026-04-17T18:45:53.000Z",
-    "summary": "Billboard News caught up with AZZECCA after her set at Coachella 2026 where she talks about her experience at the festival and more.",
+    "summary": "The Texas parents learned of the arrest while still fighting grand-jury subpoenas seeking to haul them in front of a panel in Los Angeles",
     "image": null
   },
   {
     "id": "pitchfork-https://pitchfork.com/news/wu-lyf-postpone-us-shows/",
     "source": "pitchfork",
-    "title": "Wu Lyf Postpone U.S. Shows",
+    "title": "Wu Lyf Postpone North American Shows",
     "url": "https://pitchfork.com/news/wu-lyf-postpone-us-shows/",
     "publishedAt": "2026-04-17T18:07:52.000Z",
     "summary": "In a statement, the band cited “delays in visa processing” and wrote that they’ll “be announcing new dates as soon as possible”",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/how-to-get-hbo-max-free-trial-1235032083/",
-    "source": "billboard",
-    "title": "A Step-by-Step Guide to HBO Max: What to Watch & How to Get the Streamer for Free",
-    "url": "https://www.billboard.com/culture/product-recommendations/how-to-get-hbo-max-free-trial-1235032083/",
-    "publishedAt": "2026-04-17T18:03:36.000Z",
-    "summary": "Looking for a discount on HBO Max? Here's everything you need to know about streaming The Pitt, It: Welcome to Derry, Last of Us and Industry online for free.",
     "image": null
   },
   {
@@ -81,30 +153,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/pro/elizabeth-matthews-women-in-music-executive-of-the-year/",
-    "source": "billboard",
-    "title": "ASCAP’s Elizabeth Matthews Is Looking Out For Songwriters — And Protecting Their Futures",
-    "url": "https://www.billboard.com/pro/elizabeth-matthews-women-in-music-executive-of-the-year/",
-    "publishedAt": "2026-04-17T18:00:40.000Z",
-    "summary": "Her foresight and focus on songwriters’ needs has helped the performing rights organization generate nearly $2 billion in revenue — and, last year, pay its members $1.8 billion in royalties.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/d4vd-arrest-celeste-rivas-investigation-timeline-1235549275/",
     "source": "rolling-stone",
     "title": "D4vd Arrested After a Seven-Month Investigation: How We Got Here",
     "url": "https://www.rollingstone.com/music/music-news/d4vd-arrest-celeste-rivas-investigation-timeline-1235549275/",
     "publishedAt": "2026-04-17T17:57:22.000Z",
     "summary": "Months of secretive hearings and speculation culminated with the arrest of the singer in connection with the death of Celeste Rivas",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/zayn-malik-hospital-recovering-album-release-day-1236225582/",
-    "source": "billboard",
-    "title": "Zayn Malik Reveals He’s Been Hospitalized on Day of New Album’s Release: ‘Still Unexpectedly Recovering’",
-    "url": "https://www.billboard.com/music/music-news/zayn-malik-hospital-recovering-album-release-day-1236225582/",
-    "publishedAt": "2026-04-17T17:50:31.000Z",
-    "summary": "The pop star just dropped his latest full-length, Konnakol.",
     "image": null
   },
   {
@@ -117,30 +171,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/pop/blackpink-lisa-anyma-bad-angel-collaboration-interview-video-1236224863/",
-    "source": "billboard",
-    "title": "LISA & Anyma Discuss Their ‘Bad Angel’ Collab: ‘We Found Common Ground’",
-    "url": "https://www.billboard.com/music/pop/blackpink-lisa-anyma-bad-angel-collaboration-interview-video-1236224863/",
-    "publishedAt": "2026-04-17T17:46:10.000Z",
-    "summary": "Anyma will debut his new production, ÆDEN, on April 17 on the Coachella mainstage.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-country/miley-cyrus-lainey-wilson-younger-you-1235549016/",
     "source": "rolling-stone",
     "title": "Miley Cyrus Taps Former ‘Hannah Montana’ Impersonator, Lainey Wilson, for ‘Younger You’",
     "url": "https://www.rollingstone.com/music/music-country/miley-cyrus-lainey-wilson-younger-you-1235549016/",
     "publishedAt": "2026-04-17T17:38:07.000Z",
     "summary": "The duet marks a special, full-circle moment for Wilson",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/don-schlitz-biggest-billboard-hits/",
-    "source": "billboard",
-    "title": "‘The Gambler’ & More: Songwriter Don Schlitz’s Biggest Billboard Hits",
-    "url": "https://www.billboard.com/lists/don-schlitz-biggest-billboard-hits/",
-    "publishedAt": "2026-04-17T17:36:31.000Z",
-    "summary": "The legendary songwriter penned hits for stars including Garth Brooks, Mary Chapin Carpenter, Kenny Rogers, Randy Travis and Tanya Tucker.",
     "image": null
   },
   {
@@ -180,39 +216,12 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/vincent-neil-emerson-blue-stars-album-grand-ole-opry-1235549260/",
-    "source": "rolling-stone",
-    "title": "Vincent Neil Emerson on What Steve Earle Told Him About His Songs",
-    "url": "https://www.rollingstone.com/music/music-features/vincent-neil-emerson-blue-stars-album-grand-ole-opry-1235549260/",
-    "publishedAt": "2026-04-17T16:42:09.000Z",
-    "summary": "The East Texas songwriter is earning praise for new album Blue Stars. He'll celebrate by making his Grand Ole Opry debut",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/phil-campbell-bastard-sons-continue-band-memorial-concerts/",
     "source": "loudwire",
     "title": "Phil Campbell's Sons to Continue Band, Announce Memorial Concerts",
     "url": "https://loudwire.com/phil-campbell-bastard-sons-continue-band-memorial-concerts/",
     "publishedAt": "2026-04-17T16:38:27.000Z",
     "summary": "Phil Campbell's sons will keep their family band going in the aftermath of the guitarist's death earlier this year. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/maria-zardoya-not-for-radio-ep-bloom-1235549013/",
-    "source": "rolling-stone",
-    "title": "María Zardoya’s Not for Radio Drops Spring-Ready EP ‘Bloom’",
-    "url": "https://www.rollingstone.com/music/music-news/maria-zardoya-not-for-radio-ep-bloom-1235549013/",
-    "publishedAt": "2026-04-17T16:31:07.000Z",
-    "summary": "The project features three new alt-pop tracks, two of which the singer debuted at Coachella last week",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/don-schlitz-the-gambler-songwriter-dead-obituary-1235548975/",
-    "source": "rolling-stone",
-    "title": "Don Schlitz, Songwriter of Kenny Rogers’ ‘The Gambler,’ Dead at 73",
-    "url": "https://www.rollingstone.com/music/music-country/don-schlitz-the-gambler-songwriter-dead-obituary-1235548975/",
-    "publishedAt": "2026-04-17T16:26:27.000Z",
-    "summary": "Country Music Hall of Fame member also co-wrote hits like Randy Travis’ “Forever and Ever, Amen” and Keith Whitley’s “When You Say Nothing at All”",
     "image": null
   },
   {
@@ -243,12 +252,12 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/frank-zappa-vaulternative-records-1966-studio-session-1235549075/",
-    "source": "rolling-stone",
-    "title": "Frank Zappa Estate Revives Vaulternative Records for Unreleased 1966 Studio Session",
-    "url": "https://www.rollingstone.com/music/music-news/frank-zappa-vaulternative-records-1966-studio-session-1235549075/",
-    "publishedAt": "2026-04-17T15:29:44.000Z",
-    "summary": "Hear unearthed “Move On” from Zappa ’66: Vol. 1 – Live at TTG Studios, the first Vaulternative release since 2016",
+    "id": "nme-https://news.google.com/rss/articles/CBMiswFBVV95cUxPc01vdGYxUWFPRmhZdmZVenNMRHhYUmwtUG1JYW1WWWRQelJUVVd4cUdaYjJUbTVfdHRjb0hGRmlhTEJGc1RoRTljUnEtMVI4Ujhucm8wTjF0TjVxZU9XNmZmWVBPV1F6b0FNZkpDTjRqY1ZfYUVXcXltYm50S09zOG9VbThENVNxNHZqaWFNOXpYMFROU1JDdVA2ZkFaeENMS1IwQlpKNXlkZlh2V1Fib1FtUQ?oc=5",
+    "source": "nme",
+    "title": "Earl Slick on bringing back David Bowie's Glastonbury 2000 band: \"The best configuration of people he ever had\" - NME",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc01vdGYxUWFPRmhZdmZVenNMRHhYUmwtUG1JYW1WWWRQelJUVVd4cUdaYjJUbTVfdHRjb0hGRmlhTEJGc1RoRTljUnEtMVI4Ujhucm8wTjF0TjVxZU9XNmZmWVBPV1F6b0FNZkpDTjRqY1ZfYUVXcXltYm50S09zOG9VbThENVNxNHZqaWFNOXpYMFROU1JDdVA2ZkFaeENMS1IwQlpKNXlkZlh2V1Fib1FtUQ?oc=5",
+    "publishedAt": "2026-04-17T15:24:27.000Z",
+    "summary": "Earl Slick on bringing back David Bowie's Glastonbury 2000 band: \"The best configuration of people he ever had\" NME",
     "image": null
   },
   {
@@ -339,6 +348,15 @@
     "url": "https://loudwire.com/times-bands-named-themselves-songs/",
     "publishedAt": "2026-04-17T13:37:37.000Z",
     "summary": "Here are 15 times bands shouted themselves out in songs or referenced their moniker in another way. Some of the bands did it in more than one song. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV19Ra01xSHZjN19zc0VlNmZhbVcyNXRiSk5qbk8wX3JyNk55T2tUcjNaOVBGVGxNUkZYZ1k1MXFxc2c4eW1SVUxidmtQd1A2VEM5VTJqajBUZnZHZzJTaEVfa1AxaHNkYVEzbU9fZlV4T3hwVlFvNll0bE9Na2IyOE9oLWNrM2JJYkpkQkJVbmFkTG04X2ZNMW1rOVhXbkRObXliSGlleEhkdw?oc=5",
+    "source": "nme",
+    "title": "Watch Interpol debut another new song with the punchy ‘Wings On Fire’ - NME",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV19Ra01xSHZjN19zc0VlNmZhbVcyNXRiSk5qbk8wX3JyNk55T2tUcjNaOVBGVGxNUkZYZ1k1MXFxc2c4eW1SVUxidmtQd1A2VEM5VTJqajBUZnZHZzJTaEVfa1AxaHNkYVEzbU9fZlV4T3hwVlFvNll0bE9Na2IyOE9oLWNrM2JJYkpkQkJVbmFkTG04X2ZNMW1rOVhXbkRObXliSGlleEhkdw?oc=5",
+    "publishedAt": "2026-04-17T13:25:02.000Z",
+    "summary": "Watch Interpol debut another new song with the punchy ‘Wings On Fire’ NME",
     "image": null
   },
   {
@@ -564,24 +582,6 @@
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWFA1S1g4cXJEOWZ5emVCcWZHSnNlUHhQVzdRMDNmZk5RaXpoRTRmLVl1eGpjRWZrejVjSUc1MGg1b04wWjkxMEV6aVN5YW5hU2phNEdHUlRERkVNT0RXMVBLeDQzNmhnQkJ4MnJXU0szejlhaEJyQkNyUFRpY1UxbzVlMUlNWVNOWHhzbHFXSk1fUWwtQ1dSRFp6anpRZ3ZtM21iMTVZcS13UVVtUnlrN0E3dmY1OEdSRWlGTA?oc=5",
     "publishedAt": "2026-04-16T15:14:30.000Z",
     "summary": "Charli XCX on her new album: \"The dance floor is dead, so now we’re making rock music” NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMilAFBVV95cUxNVnFnTS1BckpBMWxVV2k3dENQaXFOTnFKSUlNb3dmWTAwTWU4eUprNmdpc0NrN3gxZEZKaGRpSERpcHo1SzFkdmdXeHJnWk9hZERLWmttUmNJYjZ3ekloV2VvZ3p0a0xXdFpNQk1tX0N0ZWxCX1NaaWVhMWFwcjhmdXh5TWpldm5TODRuTGIyYThfcG5i?oc=5",
-    "source": "nme",
-    "title": "Lana Del Rey shares gorgeous James Bond theme ‘First Light’ for new video game - NME",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVnFnTS1BckpBMWxVV2k3dENQaXFOTnFKSUlNb3dmWTAwTWU4eUprNmdpc0NrN3gxZEZKaGRpSERpcHo1SzFkdmdXeHJnWk9hZERLWmttUmNJYjZ3ekloV2VvZ3p0a0xXdFpNQk1tX0N0ZWxCX1NaaWVhMWFwcjhmdXh5TWpldm5TODRuTGIyYThfcG5i?oc=5",
-    "publishedAt": "2026-04-16T15:06:13.000Z",
-    "summary": "Lana Del Rey shares gorgeous James Bond theme ‘First Light’ for new video game NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMiqgFBVV95cUxORmNxRk1Rek93WVZPUWM0dWUyelQwUFJPQkJaUm9rVHZtMV9KMFRmempuWTJUUzdZaWpsNXFXcDdUOXlOM2h5SmtOVkJ4QjExUGZmY0k2MDlvN0lJd0NsQzlBd0J6LVNkMm40MEhyNGpIUnlFTVBoNW9RNG1JOGoyTjFzU08xS3d4Z3ZMcjJ3bV9GYUFaQU1ub1dXWktFSUVSMFRkb0JhT3RPdw?oc=5",
-    "source": "nme",
-    "title": "The Strokes add extra London O2 show to 2026 'Reality Awaits' UK tour due to phenomenal demand - NME",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORmNxRk1Rek93WVZPUWM0dWUyelQwUFJPQkJaUm9rVHZtMV9KMFRmempuWTJUUzdZaWpsNXFXcDdUOXlOM2h5SmtOVkJ4QjExUGZmY0k2MDlvN0lJd0NsQzlBd0J6LVNkMm40MEhyNGpIUnlFTVBoNW9RNG1JOGoyTjFzU08xS3d4Z3ZMcjJ3bV9GYUFaQU1ub1dXWktFSUVSMFRkb0JhT3RPdw?oc=5",
-    "publishedAt": "2026-04-16T13:54:03.000Z",
-    "summary": "The Strokes add extra London O2 show to 2026 'Reality Awaits' UK tour due to phenomenal demand NME",
     "image": null
   },
   {
