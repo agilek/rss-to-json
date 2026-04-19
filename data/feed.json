@@ -1,5 +1,77 @@
 [
   {
+    "id": "pitchfork-https://pitchfork.com/news/olivia-rodrigo-performs-with-addison-rae-at-coachella/",
+    "source": "pitchfork",
+    "title": "Olivia Rodrigo Performs with Addison Rae at Coachella",
+    "url": "https://pitchfork.com/news/olivia-rodrigo-performs-with-addison-rae-at-coachella/",
+    "publishedAt": "2026-04-19T16:38:33.000Z",
+    "summary": "The duo sang “Headphones On” together before giving Rodrigo’s new song “Drop Dead” its live debut",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/uk-charity-severs-ties-sharon-osbourne-anti-immigration-rally/",
+    "source": "loudwire",
+    "title": "U.K. Charity Cuts Ties With Osbourne Over Anti-Immigration Rally",
+    "url": "https://loudwire.com/uk-charity-severs-ties-sharon-osbourne-anti-immigration-rally/",
+    "publishedAt": "2026-04-19T16:33:28.000Z",
+    "summary": "U.K. homelessness charity Centrepoint has severed ties with Sharon Osbourne following her support for far-right activist Tommy Robinson's \"Unite the Kingdom\" rally. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/latin/andrea-bocelli-angeles-azules-opera-cumbia-mexico-zocalo-1236226531/",
+    "source": "billboard",
+    "title": "Andrea Bocelli & Los Ángeles Azules Celebrate Opera & Cumbia in Historic Show at Mexico City’s Zócalo",
+    "url": "https://www.billboard.com/music/latin/andrea-bocelli-angeles-azules-opera-cumbia-mexico-zocalo-1236226531/",
+    "publishedAt": "2026-04-19T16:12:53.000Z",
+    "summary": "The city government estimates an attendance of more than 130,000 people at an emotional evening that also featured a performance by Ximena Sariñana.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/justin-bieber-billie-eilish-sza-coachella-weekend-two-show-1235550107/",
+    "source": "rolling-stone",
+    "title": "See Justin Bieber Bring Out Billie Eilish, SZA at Second Coachella Show",
+    "url": "https://www.rollingstone.com/music/music-news/justin-bieber-billie-eilish-sza-coachella-weekend-two-show-1235550107/",
+    "publishedAt": "2026-04-19T16:01:09.000Z",
+    "summary": "Sexyy Red, Big Sean, and Dijon also stop by during singer's Weekend Two headlining gig",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/laufey-opens-up-about-touring-impostor-syndrome-independent/",
+    "source": "billboard",
+    "title": "Laufey Opens Up About Touring, Impostor Syndrome, & Being Independent | Billboard Women In Music 2026",
+    "url": "https://www.billboard.com/video/laufey-opens-up-about-touring-impostor-syndrome-independent/",
+    "publishedAt": "2026-04-19T16:00:00.000Z",
+    "summary": "Billboard Women in Music 2026 Innovator honoree Laufey shares why collaboration and innovation are central to her artistry. She explains how performing with artists from different genres, like Benson Boone, Hozier and KATSEYE, gives her the chance to hear her voice in a new light and show that she can’t be boxed into one style. […]",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/justin-bieber-brings-out-sza-billie-eilish-and-more-at-coachella/",
+    "source": "pitchfork",
+    "title": "Watch Justin Bieber Bring Out SZA, Billie Eilish, and More at Coachella",
+    "url": "https://pitchfork.com/news/justin-bieber-brings-out-sza-billie-eilish-and-more-at-coachella/",
+    "publishedAt": "2026-04-19T15:52:48.000Z",
+    "summary": "Sexy Redd, Dijon, and Big Sean also joined Bieber onstage for his Weekend Two headlining set",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/justin-bieber-billie-eilish-coachella-weekend-two-1236226510/",
+    "source": "billboard",
+    "title": "Justin Bieber Serenades Billie Eilish, Duets With SZA During Guest-Filled Coachella Weekend 2 Set",
+    "url": "https://www.billboard.com/music/music-news/justin-bieber-billie-eilish-coachella-weekend-two-1236226510/",
+    "publishedAt": "2026-04-19T15:38:40.000Z",
+    "summary": "Sexyy Red and Big Sean were among the surprise appearances at the superstar singer's April 18 performance.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/the-strokes-coachella-fiery-political-video-us-government/",
+    "source": "loudwire",
+    "title": "The Strokes End Coachella Weekend Set With Fiery Political Video",
+    "url": "https://loudwire.com/the-strokes-coachella-fiery-political-video-us-government/",
+    "publishedAt": "2026-04-19T14:52:10.000Z",
+    "summary": "The band closed their second Coachella weekend set by pairing \"Oblivius\" with a fiery video regarding the CIA, Gaza and more. Continue reading…",
+    "image": null
+  },
+  {
     "id": "pitchfork-https://pitchfork.com/news/listen-to-madonnas-new-song-i-feel-so-free/",
     "source": "pitchfork",
     "title": "Listen to Madonna’s New Song “I Feel So Free”",
@@ -45,12 +117,30 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcFdPdkZPZEw5VTRKV253ekxrZE5lUm1XNl9PUWhza3BhU0tMZFZjQmlrSGZHbVg5Q0poWWVESTFUekRhSHROU2hMckdfQ3l0UEtSRXoyWWhEOHRYdWM5ajdaemN5czdCOXlxQmEzNFdNMFpGTk5kbDQ1ckFEZDk1b1pNQU1jRkkyMkRxcGhBWE90T3JsTnRIZV8zWEU3MVFyaVYya2lCcWdNdDR5R294aFhIRGs4RmltcWhiSmpLNGhpR3kyenhreDlEelRSZlpQY1pV?oc=5",
+    "source": "nme",
+    "title": "The Strokes close Coachella set with politically charged montage calling out CIA and US government - NME",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcFdPdkZPZEw5VTRKV253ekxrZE5lUm1XNl9PUWhza3BhU0tMZFZjQmlrSGZHbVg5Q0poWWVESTFUekRhSHROU2hMckdfQ3l0UEtSRXoyWWhEOHRYdWM5ajdaemN5czdCOXlxQmEzNFdNMFpGTk5kbDQ1ckFEZDk1b1pNQU1jRkkyMkRxcGhBWE90T3JsTnRIZV8zWEU3MVFyaVYya2lCcWdNdDR5R294aFhIRGs4RmltcWhiSmpLNGhpR3kyenhreDlEelRSZlpQY1pV?oc=5",
+    "publishedAt": "2026-04-19T10:37:07.000Z",
+    "summary": "The Strokes close Coachella set with politically charged montage calling out CIA and US government NME",
+    "image": null
+  },
+  {
     "id": "nme-https://news.google.com/rss/articles/CBMipgFBVV95cUxOa0pUX2xsdmxKRlBMdk9GdTVfMlBwbXRNUFI0MXlFMDE1OGRmNXoyU0xNQW5XR1BwdkU1Ty1nWTNXUE1aWjIxTlV5cHdEZ21ScGJDV1hnM2lwaGFiU0p5SnQtQ1pPNmZqaDFKNS1KUXlrOUdIUHA4c3FzcUpEQ0h5S1lndDNUUzdIQVNyZk1mdDh3X2NIV29BTVFPZC1LS0p3cWx1VGd3?oc=5",
     "source": "nme",
     "title": "Cardi B almost cancels Atlanta show over clash with venue’s staff - NME",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOa0pUX2xsdmxKRlBMdk9GdTVfMlBwbXRNUFI0MXlFMDE1OGRmNXoyU0xNQW5XR1BwdkU1Ty1nWTNXUE1aWjIxTlV5cHdEZ21ScGJDV1hnM2lwaGFiU0p5SnQtQ1pPNmZqaDFKNS1KUXlrOUdIUHA4c3FzcUpEQ0h5S1lndDNUUzdIQVNyZk1mdDh3X2NIV29BTVFPZC1LS0p3cWx1VGd3?oc=5",
     "publishedAt": "2026-04-19T09:44:22.000Z",
     "summary": "Cardi B almost cancels Atlanta show over clash with venue’s staff NME",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMixwFBVV95cUxObThOS2Mwck5GX2ctY2pPZ2p6dGRGanl0b2JVelNpMEkzb2F6bTQwX05JM1pjd1Vkek96bXUxT1VIQ2RIUU9lbTFsRnVUYXRKdGlfVjVnaUlzbWo5WmdfZDVQYUpxeDc5Mmd6U0o3MVBHU1J5cWVOYnhwUTA4MmY5TVJqUF9nSm1rQWdXMDZSUWVjX3pIcTU4LVA4Z1ZNWVdJc05YdlhtWXdjSVpQSGx1VE9hZmhqU0gtVzZOWE1Tci1DWk01bkJV?oc=5",
+    "source": "nme",
+    "title": "Lil Wayne opens up about \"humbling experience\" of not being invited to Coachella or Grammys - NME",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObThOS2Mwck5GX2ctY2pPZ2p6dGRGanl0b2JVelNpMEkzb2F6bTQwX05JM1pjd1Vkek96bXUxT1VIQ2RIUU9lbTFsRnVUYXRKdGlfVjVnaUlzbWo5WmdfZDVQYUpxeDc5Mmd6U0o3MVBHU1J5cWVOYnhwUTA4MmY5TVJqUF9nSm1rQWdXMDZSUWVjX3pIcTU4LVA4Z1ZNWVdJc05YdlhtWXdjSVpQSGx1VE9hZmhqU0gtVzZOWE1Tci1DWk01bkJV?oc=5",
+    "publishedAt": "2026-04-19T09:09:58.000Z",
+    "summary": "Lil Wayne opens up about \"humbling experience\" of not being invited to Coachella or Grammys NME",
     "image": null
   },
   {
@@ -162,21 +252,21 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMixgFBVV95cUxPcnJaTjZ1Y0YxWVBjckswRjczcEwyTW8wNk1ITUE3UENEaHBubHpYa0hOSHBtZkI0ZEh0OGdTVmxyTDI0NjQyNU5JM3FSUXFtQ0ZCMFJyS0ZSTHozUWZKYVMwajN3a0xKZTdJX0h1NEtGdkZ1aERJY0ZTdWE0R0ZfZGxnSmZkZzB3ZFpLcFBvdGJfR2g5Y01NUS15bGVwdUU4SmhCaTVGaGVvN09EejBjalcxc2o3SUJlWUlrRXlpc0stck1ENlE?oc=5",
+    "source": "nme",
+    "title": "Sabrina Carpenter: \"I don’t think pop music would exist if it wasn’t for the queer community\" - NME",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcnJaTjZ1Y0YxWVBjckswRjczcEwyTW8wNk1ITUE3UENEaHBubHpYa0hOSHBtZkI0ZEh0OGdTVmxyTDI0NjQyNU5JM3FSUXFtQ0ZCMFJyS0ZSTHozUWZKYVMwajN3a0xKZTdJX0h1NEtGdkZ1aERJY0ZTdWE0R0ZfZGxnSmZkZzB3ZFpLcFBvdGJfR2g5Y01NUS15bGVwdUU4SmhCaTVGaGVvN09EejBjalcxc2o3SUJlWUlrRXlpc0stck1ENlE?oc=5",
+    "publishedAt": "2026-04-18T19:59:34.000Z",
+    "summary": "Sabrina Carpenter: \"I don’t think pop music would exist if it wasn’t for the queer community\" NME",
+    "image": null
+  },
+  {
     "id": "louder-than-war-https://louderthanwar.com/are-you-listening-festival-reading-2026-festival-preview/",
     "source": "louder-than-war",
     "title": "Are You Listening? Festival (Reading) 2026 – Festival Preview",
     "url": "https://louderthanwar.com/are-you-listening-festival-reading-2026-festival-preview/",
     "publishedAt": "2026-04-18T19:33:57.000Z",
     "summary": "It’s nearly May, the start of summer and therefore time for some of us to head west out of London for the annual Are You Listening? Festival, another weekend of hopping from venue to venue in the centre of Reading to catch as many acts as possible before catching the last train home. It all starts on Friday […] The post Are You Listening? Festival (Reading) 2026 – Festival Preview appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/ice-spice-mcdonalds-fight-wendys-comment-1236226248/",
-    "source": "billboard",
-    "title": "Ice Spice Jokes That Her McDonald’s Fight ‘Wouldn’t Happen at Wendy’s’",
-    "url": "https://www.billboard.com/music/music-news/ice-spice-mcdonalds-fight-wendys-comment-1236226248/",
-    "publishedAt": "2026-04-18T18:37:42.000Z",
-    "summary": "The rapper also seemingly used the altercation to tease a new song.",
     "image": null
   },
   {
@@ -204,24 +294,6 @@
     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYWg5WHQ3T2JONlNoUXB0UUdOaFUxYmdMdGUxSWoxVThhazg2UmphemJ0a0VPclktMS1nNUR1d2piYS1rc2VNV01vN0lLc0Fld2RETnRCZjBwczdVYTUzVmp6WEY1UW13U3AxbHhHSzZFQWl4SzA0a05IX3dGWWJYMGtKZUlfem9oZDQ0VzVGVHUxeGUtb0tMZ0w1Mlc0WFhUNkNDRnBta0ZoU3RNWVJ2cmZGaGdSSkd3UGNkRmNaY1ZwYkxYM1RPWHVGU1VWYWh0QkdTQTlDWUJpZXNaVTNsTHhrdFJ2R21NYk8zci1ZaGlNZzVv?oc=5",
     "publishedAt": "2026-04-18T17:03:15.000Z",
     "summary": "Zayn Malik and Louis Tomlinson Netflix documentary reportedly scrapped after claims of physical altercation between the two NME",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/business/legal/tory-lanez-sues-california-prison-system-inmate-stabbing-1236226246/",
-    "source": "billboard",
-    "title": "Tory Lanez Sues California Prison System for $100M Over Stabbing by Inmate",
-    "url": "https://www.billboard.com/business/legal/tory-lanez-sues-california-prison-system-inmate-stabbing-1236226246/",
-    "publishedAt": "2026-04-18T16:44:43.000Z",
-    "summary": "The rapper was stabbed 16 times in May 2025.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/lil-wayne-not-invited-coachella-grammys-humbling-experience-1236226240/",
-    "source": "billboard",
-    "title": "Lil Wayne Calls It a ‘Humbling Experience’ Not Being Invited to Coachella or Grammy Awards",
-    "url": "https://www.billboard.com/music/music-news/lil-wayne-not-invited-coachella-grammys-humbling-experience-1236226240/",
-    "publishedAt": "2026-04-18T16:25:17.000Z",
-    "summary": "Limp Bizkit's Fred Durst jumped into the comments to offer Weezy some encouragement.",
     "image": null
   },
   {
@@ -303,15 +375,6 @@
     "url": "https://www.rollingstone.com/music/music-news/madonna-sabrina-carpenter-coachella-2026-1235549915/",
     "publishedAt": "2026-04-18T06:57:38.000Z",
     "summary": "Carpenter brought out the pop icon for a performance that ignited Weekend Two",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/ice-spice-mcdonalds-wouldnt-happen-at-wendys-1235549917/",
-    "source": "rolling-stone",
-    "title": "Ice Spice Quips on McDonald’s Scuffle: ‘This Wouldn’t Happen at Wendy’s’",
-    "url": "https://www.rollingstone.com/music/music-news/ice-spice-mcdonalds-wouldnt-happen-at-wendys-1235549917/",
-    "publishedAt": "2026-04-18T03:23:38.000Z",
-    "summary": "The singer reposted video of the fast food debacle alongside a snippet of what seemed to be an unreleased track",
     "image": null
   },
   {
@@ -414,15 +477,6 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMiswFBVV95cUxPc01vdGYxUWFPRmhZdmZVenNMRHhYUmwtUG1JYW1WWWRQelJUVVd4cUdaYjJUbTVfdHRjb0hGRmlhTEJGc1RoRTljUnEtMVI4Ujhucm8wTjF0TjVxZU9XNmZmWVBPV1F6b0FNZkpDTjRqY1ZfYUVXcXltYm50S09zOG9VbThENVNxNHZqaWFNOXpYMFROU1JDdVA2ZkFaeENMS1IwQlpKNXlkZlh2V1Fib1FtUQ?oc=5",
-    "source": "nme",
-    "title": "Earl Slick on bringing back David Bowie's Glastonbury 2000 band: \"The best configuration of people he ever had\" - NME",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc01vdGYxUWFPRmhZdmZVenNMRHhYUmwtUG1JYW1WWWRQelJUVVd4cUdaYjJUbTVfdHRjb0hGRmlhTEJGc1RoRTljUnEtMVI4Ujhucm8wTjF0TjVxZU9XNmZmWVBPV1F6b0FNZkpDTjRqY1ZfYUVXcXltYm50S09zOG9VbThENVNxNHZqaWFNOXpYMFROU1JDdVA2ZkFaeENMS1IwQlpKNXlkZlh2V1Fib1FtUQ?oc=5",
-    "publishedAt": "2026-04-17T15:24:27.000Z",
-    "summary": "Earl Slick on bringing back David Bowie's Glastonbury 2000 band: \"The best configuration of people he ever had\" NME",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/features/the-doors-10-greatest-songs-as-chosen-by-the-band-154098/",
     "source": "uncut",
     "title": "The Doors 10 greatest songs, as chosen by the band",
@@ -495,48 +549,12 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMioAFBVV95cUxQZEpoU2tHSW1ocWl6UTVrMmpGR0poelMyb043cEFTQ1RScjUzNURaQmwxdmpVb19QME9vR0ZFODhUNWdMUGNvZVEtck9uU1I5Q3dqWE5PYVVkUm5maUJLajV2SGlueXhvSmthRGZuVmFGRWp1UXVYQ3dLMjJ4Zi1qQXlHVDg0YUhUdF93MFRDTXJoOEdoSndMTGJIdGtCX2dS?oc=5",
-    "source": "nme",
-    "title": "Jonny Greenwood names one Radiohead song he wanted to change - NME",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZEpoU2tHSW1ocWl6UTVrMmpGR0poelMyb043cEFTQ1RScjUzNURaQmwxdmpVb19QME9vR0ZFODhUNWdMUGNvZVEtck9uU1I5Q3dqWE5PYVVkUm5maUJLajV2SGlueXhvSmthRGZuVmFGRWp1UXVYQ3dLMjJ4Zi1qQXlHVDg0YUhUdF93MFRDTXJoOEdoSndMTGJIdGtCX2dS?oc=5",
-    "publishedAt": "2026-04-17T13:54:28.000Z",
-    "summary": "Jonny Greenwood names one Radiohead song he wanted to change NME",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/times-bands-named-themselves-songs/",
     "source": "loudwire",
     "title": "15 Times Bands Named Themselves in Songs",
     "url": "https://loudwire.com/times-bands-named-themselves-songs/",
     "publishedAt": "2026-04-17T13:37:37.000Z",
     "summary": "Here are 15 times bands shouted themselves out in songs or referenced their moniker in another way. Some of the bands did it in more than one song. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV19Ra01xSHZjN19zc0VlNmZhbVcyNXRiSk5qbk8wX3JyNk55T2tUcjNaOVBGVGxNUkZYZ1k1MXFxc2c4eW1SVUxidmtQd1A2VEM5VTJqajBUZnZHZzJTaEVfa1AxaHNkYVEzbU9fZlV4T3hwVlFvNll0bE9Na2IyOE9oLWNrM2JJYkpkQkJVbmFkTG04X2ZNMW1rOVhXbkRObXliSGlleEhkdw?oc=5",
-    "source": "nme",
-    "title": "Watch Interpol debut another new song with the punchy ‘Wings On Fire’ - NME",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV19Ra01xSHZjN19zc0VlNmZhbVcyNXRiSk5qbk8wX3JyNk55T2tUcjNaOVBGVGxNUkZYZ1k1MXFxc2c4eW1SVUxidmtQd1A2VEM5VTJqajBUZnZHZzJTaEVfa1AxaHNkYVEzbU9fZlV4T3hwVlFvNll0bE9Na2IyOE9oLWNrM2JJYkpkQkJVbmFkTG04X2ZNMW1rOVhXbkRObXliSGlleEhkdw?oc=5",
-    "publishedAt": "2026-04-17T13:25:02.000Z",
-    "summary": "Watch Interpol debut another new song with the punchy ‘Wings On Fire’ NME",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/from-ashes-to-new-reflections-vinyl-poster-contest/",
-    "source": "loudwire",
-    "title": "Win a From Ashes to New 'Reflections' Reflective Vinyl + Poster",
-    "url": "https://loudwire.com/from-ashes-to-new-reflections-vinyl-poster-contest/",
-    "publishedAt": "2026-04-17T12:43:18.000Z",
-    "summary": "Be sure to enter to win Loudwire Nights contest giving you a chance to receive the reflective vinyl version edition of From Ashes to New's 'Reflections' album. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/new-rock-metal-tours-announced-april-10-16-2026/",
-    "source": "loudwire",
-    "title": "7 New Rock + Metal Tours Announced This Past Week ",
-    "url": "https://loudwire.com/new-rock-metal-tours-announced-april-10-16-2026/",
-    "publishedAt": "2026-04-17T11:49:08.000Z",
-    "summary": "The Strokes and Killswitch Engage lead this week's big tour announcements. Continue reading…",
     "image": null
   },
   {
@@ -627,24 +645,6 @@
     "url": "https://pitchfork.com/news/d4vd-arrested-in-connection-with-celeste-rivas-murder/",
     "publishedAt": "2026-04-17T01:49:52.000Z",
     "summary": "The 14-year-old girl’s body was found in the singer-songwriter’s Tesla last September",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/news/massive-attacks-first-song-in-six-years-features-tom-waits/",
-    "source": "pitchfork",
-    "title": "Massive Attack’s First Song in Six Years Features Tom Waits",
-    "url": "https://pitchfork.com/news/massive-attacks-first-song-in-six-years-features-tom-waits/",
-    "publishedAt": "2026-04-16T19:12:46.000Z",
-    "summary": "“Seen within the American emergency, this track contains pulses of callous impulse and abandoned mind,” the duo says of “Boots on the Ground”",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/news/neko-cases-thelma-and-louise-musical-to-debut-this-fall/",
-    "source": "pitchfork",
-    "title": "Neko Case’s Thelma & Louise Musical to Debut This Fall",
-    "url": "https://pitchfork.com/news/neko-cases-thelma-and-louise-musical-to-debut-this-fall/",
-    "publishedAt": "2026-04-16T18:46:50.000Z",
-    "summary": "The movie’s original writer penned the book while Case wrote the music and lyrics",
     "image": null
   },
   {
