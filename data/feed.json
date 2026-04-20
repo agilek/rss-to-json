@@ -1,5 +1,32 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/music-news/madonnas-i-feel-so-free-favorite-new-music-poll-results-1236226639/",
+    "source": "billboard",
+    "title": "Fans Choose Madonna’s ‘I Feel So Free’ as This Week’s Favorite New Music",
+    "url": "https://www.billboard.com/music/music-news/madonnas-i-feel-so-free-favorite-new-music-poll-results-1236226639/",
+    "publishedAt": "2026-04-20T01:40:36.000Z",
+    "summary": "The Queen of Pop's new single brought in 40% of the vote.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/tory-lanez-sues-california-prison-system-over-inmate-stabbing/",
+    "source": "pitchfork",
+    "title": "Tory Lanez Sues California Prison System Over Inmate Stabbing",
+    "url": "https://pitchfork.com/news/tory-lanez-sues-california-prison-system-over-inmate-stabbing/",
+    "publishedAt": "2026-04-20T00:02:35.000Z",
+    "summary": "He claims they “knowingly” housed him with the maximum-security man who stabbed him 16 times",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/indigo-girls-emily-voice-cervical-dystonia-essential-tremor-1236226603/",
+    "source": "billboard",
+    "title": "Indigo Girls’ Emily Saliers Reveals Cervical Dystonia and Essential Tremor Diagnoses: ‘My Voice Will Not Be What It Was’",
+    "url": "https://www.billboard.com/music/music-news/indigo-girls-emily-voice-cervical-dystonia-essential-tremor-1236226603/",
+    "publishedAt": "2026-04-19T23:14:07.000Z",
+    "summary": "The duo posted the health update on Instagram, where support for Saliers poured in from peers and fans ahead of the Indigo Girls' tour kickoff.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/video/tate-mcrae-artistic-vision-billboard-women-in-music-2026/",
     "source": "billboard",
     "title": "Tate McRae on Manifestation, Collaboration & Finding Her Artistic Vision | Billboard Women in Music 2026",
@@ -15,6 +42,15 @@
     "url": "https://www.billboard.com/culture/tv-film/eddie-murphy-afi-lifetime-achievement-award-2026-1236226587/",
     "publishedAt": "2026-04-19T20:46:51.000Z",
     "summary": "Jennifer Hudson delivered a musical performance from 'Dreamgirls,' the 2006 film in which she co-starred with Murphy, at the American Film Institute's 2026 ceremony.",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUHYzbFVrdHZYRXNQYmJkSTE5MHAtc2JUQ190QjlmQTNVcXdkWGlaVDhOY2lRbkVsUHFrWXVzU0JBM0dMVHRTVHFqUk5JaktZdTJScWlGenllMW5Dbmc1eWs1ejVOc3R4RzFmVFVNbDRITk1HR3B3TDJmZ3dEMkFQZzM4b1hqRU9telI5bjNKU3BhY3lJbzhWSFVkTHI3eHlLSVY0V2Z2RzdOWDlaXzhjMmhkMWxmLVRLcnBFcUEySkNSZkM1TUI4ODlUbWN0OW9V?oc=5",
+    "source": "nme",
+    "title": "Little Mix's Jesy Nelson appeals for help after car containing daughters' medical equipment stolen - NME",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUHYzbFVrdHZYRXNQYmJkSTE5MHAtc2JUQ190QjlmQTNVcXdkWGlaVDhOY2lRbkVsUHFrWXVzU0JBM0dMVHRTVHFqUk5JaktZdTJScWlGenllMW5Dbmc1eWs1ejVOc3R4RzFmVFVNbDRITk1HR3B3TDJmZ3dEMkFQZzM4b1hqRU9telI5bjNKU3BhY3lJbzhWSFVkTHI3eHlLSVY0V2Z2RzdOWDlaXzhjMmhkMWxmLVRLcnBFcUEySkNSZkM1TUI4ODlUbWN0OW9V?oc=5",
+    "publishedAt": "2026-04-19T19:44:34.000Z",
+    "summary": "Little Mix's Jesy Nelson appeals for help after car containing daughters' medical equipment stolen NME",
     "image": null
   },
   {
@@ -144,15 +180,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/justin-bieber-billie-eilish-coachella-weekend-two-1236226510/",
-    "source": "billboard",
-    "title": "Justin Bieber Serenades Billie Eilish, Duets With SZA During Guest-Filled Coachella Weekend 2 Set",
-    "url": "https://www.billboard.com/music/music-news/justin-bieber-billie-eilish-coachella-weekend-two-1236226510/",
-    "publishedAt": "2026-04-19T15:38:40.000Z",
-    "summary": "Sexyy Red and Big Sean were among the surprise appearances at the superstar singer's April 18 performance.",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/the-strokes-coachella-fiery-political-video-us-government/",
     "source": "loudwire",
     "title": "The Strokes End Coachella Weekend Set With Fiery Political Video",
@@ -249,15 +276,6 @@
     "url": "https://louderthanwar.com/the-history-of-the-velvet-underground-richie-unterberger-review/",
     "publishedAt": "2026-04-19T07:34:50.000Z",
     "summary": "Richie Unterberger’s Do What You Fear Most takes a deep dive into the story of The Velvet Underground, separating myth from reality while tracing the band’s journey from avant-garde outsiders to one of the most influential groups in modern music history. The post Do What You Fear Most: The History of The Velvet Underground by Richie Unterberger – Book Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/pinkpantheress-coachella-janelle-monae-zara-larsson-1236226504/",
-    "source": "billboard",
-    "title": "PinkPantheress Brings Out Janelle Monáe, Zara Larsson & More During Coachella Set",
-    "url": "https://www.billboard.com/music/music-news/pinkpantheress-coachella-janelle-monae-zara-larsson-1236226504/",
-    "publishedAt": "2026-04-19T07:00:05.000Z",
-    "summary": "The performance also saw appearances from Australian DJ Ninajirachi, alongside actor Tyriq Withers, Chase Infiniti, Slayyyter, and Manon.",
     "image": null
   },
   {
@@ -420,15 +438,6 @@
     "url": "https://louderthanwar.com/ishango-bone-announce-new-single-ltw-new-band-faves-deliver-killer-new-track/",
     "publishedAt": "2026-04-17T21:18:00.000Z",
     "summary": "LTW new band faves, ‘Ishango Bone release new single – ‘The Agency’ 76 years after its discovery in Central Africa, the Ishango Bone is giving rise to a new wave of speculation in present-day Manchester. Ishango Bone are back with ‘The Agency’, the explosive follow-up to ‘Doughnuts Never Ending’, dropping Friday 24 April – a […] The post Ishango Bone announce new single ‘LTW new band faves deliver killer new track’ appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMiywFBVV95cUxPblAtMWRTQm5ndEVVWkNWdU1RNUhLVW1HOUpscHNrRG1SNWdrZ0pQeFJ4TmhRRWdJSGVSQ3RzeE1qZ19rY0NWcG5BdG9JcnYtdlVqOGxzVWhJcENNMmtBX185T3pEbVdKSC1seU5scGRjZ2F2aUhyQWlvNzlyVWdMOXYxLWxRM19aM2dndzhOM3hKV0NKYUh1dzJfMEszS1ZZb2RBTW1TQm1yTm5CODV4VUtKc2t4MHhqTklLXzdhSkFrZFRBNEp4UUp1Yw?oc=5",
-    "source": "nme",
-    "title": "Dave Grohl makes rare political statement on \"deeply divided\" America: \"There needs to be change\" - NME",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPblAtMWRTQm5ndEVVWkNWdU1RNUhLVW1HOUpscHNrRG1SNWdrZ0pQeFJ4TmhRRWdJSGVSQ3RzeE1qZ19rY0NWcG5BdG9JcnYtdlVqOGxzVWhJcENNMmtBX185T3pEbVdKSC1seU5scGRjZ2F2aUhyQWlvNzlyVWdMOXYxLWxRM19aM2dndzhOM3hKV0NKYUh1dzJfMEszS1ZZb2RBTW1TQm1yTm5CODV4VUtKc2t4MHhqTklLXzdhSkFrZFRBNEp4UUp1Yw?oc=5",
-    "publishedAt": "2026-04-17T18:43:21.000Z",
-    "summary": "Dave Grohl makes rare political statement on \"deeply divided\" America: \"There needs to be change\" NME",
     "image": null
   },
   {
@@ -621,6 +630,15 @@
     "image": null
   },
   {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMiekFVX3lxTE5Mc3BEMTNlbkNsRVE0ek1HV1BWSUdYRFVXXzFyU2RIdmM1dS1SQ21ISW1janFfTVlSZGRPYkMzLW9FWC1Zbl9VcjJ2NV9CNXkwSjVvYndKeXp6b1U0SUcwRGxkZmNXS2lJOHF1VHJaUEU4YzA5cjBVQWpB0gF_QVVfeXFMTWdFbF8xQlpGOXpGakRseUdTb1JuVVFobUoxVmdoemJrU3JTV2o3bHYyZlpfN0ZKRkRkUHltOXp2b1NCdHUwRFd4Q201UTI2by14aFFFOGM2SkVjWlNaTkVfQkh5S0FneFpNdWpGcEI1aWZScm1GQWFoUzJ3eE5fVQ?oc=5",
+    "source": "kerrang",
+    "title": "The Kerrang! Chart: The best new music this week - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Mc3BEMTNlbkNsRVE0ek1HV1BWSUdYRFVXXzFyU2RIdmM1dS1SQ21ISW1janFfTVlSZGRPYkMzLW9FWC1Zbl9VcjJ2NV9CNXkwSjVvYndKeXp6b1U0SUcwRGxkZmNXS2lJOHF1VHJaUEU4YzA5cjBVQWpB0gF_QVVfeXFMTWdFbF8xQlpGOXpGakRseUdTb1JuVVFobUoxVmdoemJrU3JTV2o3bHYyZlpfN0ZKRkRkUHltOXp2b1NCdHUwRFd4Q201UTI2by14aFFFOGM2SkVjWlNaTkVfQkh5S0FneFpNdWpGcEI1aWZScm1GQWFoUzJ3eE5fVQ?oc=5",
+    "publishedAt": "2026-04-17T07:00:00.000Z",
+    "summary": "The Kerrang! Chart: The best new music this week Kerrang!",
+    "image": null
+  },
+  {
     "id": "pitchfork-https://pitchfork.com/news/tyla-taps-zara-larsson-for-new-song-she-did-it-again/",
     "source": "pitchfork",
     "title": "Tyla Taps Zara Larsson for New Song “She Did It Again”",
@@ -636,15 +654,6 @@
     "url": "https://pitchfork.com/news/slayyyter-drops-new-song-broke-bitch-freedollartyle/",
     "publishedAt": "2026-04-17T04:23:55.000Z",
     "summary": "The live staple gets an official release ahead of her Coachella Weekend 2 set",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/news/olivia-rodrigo-gets-versailles-to-herself-in-new-drop-dead-video/",
-    "source": "pitchfork",
-    "title": "Olivia Rodrigo Gets Versailles to Herself in New “Drop Dead” Video",
-    "url": "https://pitchfork.com/news/olivia-rodrigo-gets-versailles-to-herself-in-new-drop-dead-video/",
-    "publishedAt": "2026-04-17T04:16:18.000Z",
-    "summary": "The lead single from You Seem Pretty Sad for a Girl So in Love is out now",
     "image": null
   },
   {
@@ -708,15 +717,6 @@
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZlJQb0tTSmVWeVlXWmlhNzl4bXA1bTBzSG9XOFk2SHlWVUNMTHFwQmtyTUtwazJmaXJ1YTRVVWxFX1NmVDdpMW1IaFZKSk9GTzd3aGE0WndXVG5CeU1RN0xZWTVhWlpGYjhpNlprbk9vbzVPb3R1b1psZ3FwNE1qTG85dFNlZF8zWWc?oc=5",
     "publishedAt": "2026-04-13T10:00:00.000Z",
     "summary": "Album review: LØLØ – god forbid a girl spits out her feelings! Kerrang!",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMizgFBVV95cUxPZ0RMTERFVTVjWFVkWjJkaUNMaGd1TFhiNDdCdVRVYWpFU1NfMDJuVjdrT3lPdHQ0SEsyWEJkNzZnbXNTX3I0R0VxbktNZWJncFJzVXFIRlY1SkoxMXNiT2xVUk9ocDhqRDZCUkZYY0NzVzh2c0V1OUlCRUhUYlp6WkRXc0ZXcjRlMEk5V3I4aW92R1VwZFVtQV9kdkJGQUFEUkZSMWZkTThKb1l1LUlxZVJRbU52WTRYM3ZERmIxMl9mVFFuWUlJZlp4a21XQQ?oc=5",
-    "source": "kerrang",
-    "title": "Here’s the setlist from YUNGBLUD’s UK arena tour - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZ0RMTERFVTVjWFVkWjJkaUNMaGd1TFhiNDdCdVRVYWpFU1NfMDJuVjdrT3lPdHQ0SEsyWEJkNzZnbXNTX3I0R0VxbktNZWJncFJzVXFIRlY1SkoxMXNiT2xVUk9ocDhqRDZCUkZYY0NzVzh2c0V1OUlCRUhUYlp6WkRXc0ZXcjRlMEk5V3I4aW92R1VwZFVtQV9kdkJGQUFEUkZSMWZkTThKb1l1LUlxZVJRbU52WTRYM3ZERmIxMl9mVFFuWUlJZlp4a21XQQ?oc=5",
-    "publishedAt": "2026-04-13T09:53:00.000Z",
-    "summary": "Here’s the setlist from YUNGBLUD’s UK arena tour Kerrang!",
     "image": null
   }
 ]
