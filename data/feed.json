@@ -1,5 +1,23 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/lil-tjay-offset-bieber-album-1236227550/",
+    "source": "billboard",
+    "title": "Lil Tjay on Offset, Justin Bieber, and Keeping His Foot on the Gas",
+    "url": "https://www.billboard.com/music/rb-hip-hop/lil-tjay-offset-bieber-album-1236227550/",
+    "publishedAt": "2026-04-21T09:03:35.000Z",
+    "summary": "The Bronx rapper briefly addressed the renewed attention surrounding his conflict with Offset before turning focus to his new single “Life On Edge” and upcoming album, They Just Ain’t You.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/brian-eno-massive-attack-sigur-ros-call-for-eurovision-2026-boycott/",
+    "source": "pitchfork",
+    "title": "Brian Eno, Massive Attack, Sigur Rós Call for Eurovision 2026 Boycott",
+    "url": "https://pitchfork.com/news/brian-eno-massive-attack-sigur-ros-call-for-eurovision-2026-boycott/",
+    "publishedAt": "2026-04-21T09:00:00.000Z",
+    "summary": "More than 1,000 artists have criticized the contest for its decision to allow Israel to compete",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/rock/violent-soho-announce-2026-australian-tour-1236227543/",
     "source": "billboard",
     "title": "Violent Soho Announce 2026 Australian Tour Following Four-Year Hiatus",
@@ -87,15 +105,6 @@
     "url": "https://www.billboard.com/pro/coachella-fined-justin-bieber-anyma-performances/",
     "publishedAt": "2026-04-20T22:30:23.000Z",
     "summary": "Both sets went past the 1:00 a.m. curfew on Friday and Saturday of the desert festival's second weekend.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/apple-ceo-tim-cook-step-down-john-ternus-successor/",
-    "source": "billboard",
-    "title": "Tim Cook Stepping Down as Apple CEO",
-    "url": "https://www.billboard.com/pro/apple-ceo-tim-cook-step-down-john-ternus-successor/",
-    "publishedAt": "2026-04-20T22:17:56.000Z",
-    "summary": "Cook, who served in the role for nearly 15 years, will remain involved with the company as executive chairman. John Ternus is set to succeed him as CEO.",
     "image": null
   },
   {
@@ -378,6 +387,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS3A0c2ZjUFpYYk03TDlLa2NsR2FZUlF1dDQ3LVltaDJ0VThjaVhGMXlaWDRydF9WSFV0bmRzTkhfSU5nQkh2ZHF2a05jbzhlTEgtR05jckp6aVVkYWJTRDZINlQ0YXZWU3BwQjF1eVE5TUk0VWNOWG1vSlRTd1N5aGNIVXduZk1UVHIxTk9PRm1Fd0J1SDJUOWNWaWdFcFF4ekF3RUlab0k2bU1mam9RZmRfb0xGSW1WZUlvLU9yc0NIeW9CREhlYlFDcGlYVnh0?oc=5",
+    "source": "nme",
+    "title": "Amy Winehouse’s father Mitch loses claim against late singer's friends over sale of her belongings - NME",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS3A0c2ZjUFpYYk03TDlLa2NsR2FZUlF1dDQ3LVltaDJ0VThjaVhGMXlaWDRydF9WSFV0bmRzTkhfSU5nQkh2ZHF2a05jbzhlTEgtR05jckp6aVVkYWJTRDZINlQ0YXZWU3BwQjF1eVE5TUk0VWNOWG1vSlRTd1N5aGNIVXduZk1UVHIxTk9PRm1Fd0J1SDJUOWNWaWdFcFF4ekF3RUlab0k2bU1mam9RZmRfb0xGSW1WZUlvLU9yc0NIeW9CREhlYlFDcGlYVnh0?oc=5",
+    "publishedAt": "2026-04-20T11:59:58.000Z",
+    "summary": "Amy Winehouse’s father Mitch loses claim against late singer's friends over sale of her belongings NME",
+    "image": null
+  },
+  {
     "id": "nme-https://news.google.com/rss/articles/CBMiqAFBVV95cUxPemY0N0ZxUkdjalYxRThmNWlYby1Qc3JaSm5LN0xIQ09vNjI3b3ZxOHpYZVJGTmJDNUdpX1JXd1lycU1uSnRzam5DRWxQQTRwNVp6R1I2YVkxSV9iTUJiSnJWNFBuRkhDRGFXNHB4dHE1WTBzY2xBbkp3aWZMdDVmc3RUd0JnM0hEd2p2RWNSZnRTX3A2TjBUWVZFUEZUTHcwSmdzcXBQNXI?oc=5",
     "source": "nme",
     "title": "K-pop’s “big four” agencies coming together to launch global festival - NME",
@@ -450,39 +468,21 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMilgFBVV95cUxOVEFLbURkZkJyME9iZ3J6aHZuejZQSnc4dUNhMEF1aGNiWnNjRElRMWg2RmJkMTF2YnZaanExekYyODlkOTZiSVQ1R2JwZFRURkxvc0E4WnBEUjBRUTFlNjFnMGYteGt5d1AwNzRlcWxTdm9RRU1FcHlmSTROSmkwa3JtNUxGdkh5MlpBTEhMdzMtU2VFa0E?oc=5",
+    "source": "nme",
+    "title": "All the winners of the BAFTA Games Awards 2026 - NME",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVEFLbURkZkJyME9iZ3J6aHZuejZQSnc4dUNhMEF1aGNiWnNjRElRMWg2RmJkMTF2YnZaanExekYyODlkOTZiSVQ1R2JwZFRURkxvc0E4WnBEUjBRUTFlNjFnMGYteGt5d1AwNzRlcWxTdm9RRU1FcHlmSTROSmkwa3JtNUxGdkh5MlpBTEhMdzMtU2VFa0E?oc=5",
+    "publishedAt": "2026-04-20T09:15:26.000Z",
+    "summary": "All the winners of the BAFTA Games Awards 2026 NME",
+    "image": null
+  },
+  {
     "id": "uncut-https://www.uncut.co.uk/news/cream-announce-a-super-deluxe-edition-of-wheels-of-fire-154258/",
     "source": "uncut",
     "title": "Cream announce a super deluxe edition of Wheels Of Fire",
     "url": "https://www.uncut.co.uk/news/cream-announce-a-super-deluxe-edition-of-wheels-of-fire-154258/",
     "publishedAt": "2026-04-20T09:13:14.000Z",
     "summary": "A hefty reissue for the Jack Bruce, Eric Clapton and Ginger Baker classic The post Cream announce a super deluxe edition of Wheels Of Fire appeared first on UNCUT.",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMinwFBVV95cUxNOTd5TGVFOS05blVsbldJbVphQktSY0IwQ19NVk4yRlJzeDNXNE00V0ctREF4eFhoaF9hc0pBaVZ2cDBRMGFGM242NVdmOHAwQlpScjdqUlVKdWczRVdhbnhralpiS1hLQXpNTXM3cnJ4MU1Lc1F1bGVRR1RVMlExYmZrSXRyZmhVcFZIVlB2WS1GQ1pmcjdtWkZjYkZGQm8?oc=5",
-    "source": "nme",
-    "title": "Hard-Fi share The Clash-inspired new single ‘Looking For Fun’ - NME",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOTd5TGVFOS05blVsbldJbVphQktSY0IwQ19NVk4yRlJzeDNXNE00V0ctREF4eFhoaF9hc0pBaVZ2cDBRMGFGM242NVdmOHAwQlpScjdqUlVKdWczRVdhbnhralpiS1hLQXpNTXM3cnJ4MU1Lc1F1bGVRR1RVMlExYmZrSXRyZmhVcFZIVlB2WS1GQ1pmcjdtWkZjYkZGQm8?oc=5",
-    "publishedAt": "2026-04-20T07:52:38.000Z",
-    "summary": "Hard-Fi share The Clash-inspired new single ‘Looking For Fun’ NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMixwFBVV95cUxQNm5mTGFJTW1UZExkTHZ5X1pWRFNvdkxydmVmSDh4S2QwUi1XMWtHWVVGY3drWUp2MWlDSnc2V3lVYzI0VFdFeEwxSkZzTU80OXh3U2k1YzJMWkRPcUpEcnItWTdWYko3d3dNc1picEIxSHpwMGFQdkJtZkUwZGxhOWNHRi0tak50UnZSOTVibEVjMHhPZ2d3VEpleDJWbUtZbEhoMXJPS1RZTmZmWnpiMkpaTmZFUlBjNjhyTTZ0WUxSdklHWXZV?oc=5",
-    "source": "nme",
-    "title": "Nicole Kidman training to become a death doula: \"I sought exploration of the human condition\" - NME",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNm5mTGFJTW1UZExkTHZ5X1pWRFNvdkxydmVmSDh4S2QwUi1XMWtHWVVGY3drWUp2MWlDSnc2V3lVYzI0VFdFeEwxSkZzTU80OXh3U2k1YzJMWkRPcUpEcnItWTdWYko3d3dNc1picEIxSHpwMGFQdkJtZkUwZGxhOWNHRi0tak50UnZSOTVibEVjMHhPZ2d3VEpleDJWbUtZbEhoMXJPS1RZTmZmWnpiMkpaTmZFUlBjNjhyTTZ0WUxSdklHWXZV?oc=5",
-    "publishedAt": "2026-04-20T07:01:16.000Z",
-    "summary": "Nicole Kidman training to become a death doula: \"I sought exploration of the human condition\" NME",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/news/tory-lanez-sues-california-prison-system-over-inmate-stabbing/",
-    "source": "pitchfork",
-    "title": "Tory Lanez Sues California Prison System Over Inmate Stabbing",
-    "url": "https://pitchfork.com/news/tory-lanez-sues-california-prison-system-over-inmate-stabbing/",
-    "publishedAt": "2026-04-20T00:02:35.000Z",
-    "summary": "Lanez claims he was “knowingly” housed with the maximum-security prisoner who stabbed him 16 times",
     "image": null
   },
   {
