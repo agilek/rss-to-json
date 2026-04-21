@@ -1,5 +1,59 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/culture/tv-film/taylor-swift-night-american-idol-top-7-singers-1236227532/",
+    "source": "billboard",
+    "title": "‘American Idol’ Announces Taylor Swift Night for Top 7 Singers",
+    "url": "https://www.billboard.com/culture/tv-film/taylor-swift-night-american-idol-top-7-singers-1236227532/",
+    "publishedAt": "2026-04-21T01:53:47.000Z",
+    "summary": "The April 27 episode -- which will feature guest judge Nikki Glaser -- will be the first night entirely dedicated to Swift's music in the show's 24 seasons.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/coachella-2027-dates-announced/",
+    "source": "pitchfork",
+    "title": "Coachella 2027 Dates Announced",
+    "url": "https://pitchfork.com/news/coachella-2027-dates-announced/",
+    "publishedAt": "2026-04-21T00:41:31.000Z",
+    "summary": "Mark your calendars if you want to attend the California music festival next year",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/justin-bieber-sabrina-carpenter-karol-g-coachella-chart-bump-1236227485/",
+    "source": "billboard",
+    "title": "Justin Bieber Lands Most Albums of His Career on Billboard 200, As Sabrina Carpenter & Karol G Also See Coachella Chart Bump",
+    "url": "https://www.billboard.com/music/chart-beat/justin-bieber-sabrina-carpenter-karol-g-coachella-chart-bump-1236227485/",
+    "publishedAt": "2026-04-21T00:36:51.000Z",
+    "summary": "Bieber leads the headliner pack on the charts.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/justin-bieber-journals-debut-billboard-200-chart-1236227490/",
+    "source": "billboard",
+    "title": "Justin Bieber’s 12-Year-Old ‘Journals’ Album Debuts on Billboard 200 After Coachella",
+    "url": "https://www.billboard.com/music/chart-beat/justin-bieber-journals-debut-billboard-200-chart-1236227490/",
+    "publishedAt": "2026-04-21T00:27:36.000Z",
+    "summary": "The set is one of a career-high seven albums from Bieber on the chart.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "source": "billboard",
+    "title": "Billboard’s Music Industry Events Calendar",
+    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "publishedAt": "2026-04-21T00:07:00.000Z",
+    "summary": "A complete rundown of the most important events across the music business.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/poof-doof-launches-record-label/",
+    "source": "billboard",
+    "title": "Poof Doof Launches Record Label: Exclusive",
+    "url": "https://www.billboard.com/pro/poof-doof-launches-record-label/",
+    "publishedAt": "2026-04-20T23:00:00.000Z",
+    "summary": "Jimi the Kween's “All I Need” is the first release through Poof Doof Records.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/music-news/justin-timberlake-reacts-justin-bieber-coachella-cover-1236227416/",
     "source": "billboard",
     "title": "Justin Timberlake Reacts to Justin Bieber Covering ‘Cry Me a River’ at Coachella: ‘I’m Proud of You — And You Should Be Proud of You Too’",
@@ -63,57 +117,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/ella-langley-artist-100-first-time-15-songs-hot-100-dandelion-1236227355/",
-    "source": "billboard",
-    "title": "Ella Langley Tops Artist 100 for First Time, Charts 15 Songs on Hot 100 From ‘Dandelion’",
-    "url": "https://www.billboard.com/music/chart-beat/ella-langley-artist-100-first-time-15-songs-hot-100-dandelion-1236227355/",
-    "publishedAt": "2026-04-20T21:34:16.000Z",
-    "summary": "Langley joins 10 other women artists this century to lead the Billboard 200 with a country album.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/where-to-buy-affordable-stagecoach-2026-tickets-online-1236212650/",
-    "source": "billboard",
-    "title": "Where to Buy Affordable Last-Minute Stagecoach 2026 Tickets Online",
-    "url": "https://www.billboard.com/culture/product-recommendations/where-to-buy-affordable-stagecoach-2026-tickets-online-1236212650/",
-    "publishedAt": "2026-04-20T21:17:59.000Z",
-    "summary": "The country music festival's headliners include Cody Johnson, Lainey Wilson and Post Malone.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/where-to-buy-billie-eilish-concert-movie-tickets-online-1236227269/",
-    "source": "billboard",
-    "title": "Watch ‘Billie Eilish – Hit Me Hard and Soft: The Tour’ in Theaters (And in 3-D!): Where to Buy Tickets Online",
-    "url": "https://www.billboard.com/culture/product-recommendations/where-to-buy-billie-eilish-concert-movie-tickets-online-1236227269/",
-    "publishedAt": "2026-04-20T21:15:01.000Z",
-    "summary": "Here's where to get tickets to early screenings and how to get the best experience for your buck.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/pop/madonna-stolen-clothes-sabrina-carpenter-coachella-1236227326/",
-    "source": "billboard",
-    "title": "Madonna Reveals Theft of Vintage Costumes After Sabrina Carpenter Coachella Set: ‘These Aren’t Just Clothes, They Are Part of My History’",
-    "url": "https://www.billboard.com/music/pop/madonna-stolen-clothes-sabrina-carpenter-coachella-1236227326/",
-    "publishedAt": "2026-04-20T21:12:01.000Z",
-    "summary": "The Queen of Pop is offering a reward for the return of her stolen items.",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/south-shore-ballad-of-rats-bay-single-review-video-premiere/",
     "source": "louder-than-war",
     "title": "South Shore: Ballad of Rats Bay – single review & video premiere",
     "url": "https://louderthanwar.com/south-shore-ballad-of-rats-bay-single-review-video-premiere/",
     "publishedAt": "2026-04-20T21:06:21.000Z",
     "summary": "single review / video premiere South Shore The Ballad of Rats Bay / Blanche Medwayish CIC Limited 7″ Vinyl / DL release date: 15 May 2026 Debut single, Double A side, released thanks to a CIC fundraiser to focus on music based on Medway folk tales. South Shore are the areas newest indie folk band, […] The post South Shore: Ballad of Rats Bay – single review & video premiere appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/drake-iceman-release-date-toronto-ice-sculpture-1236227258/",
-    "source": "billboard",
-    "title": "Drake Teases ‘Iceman’ Release Date Inside Toronto Ice Sculpture",
-    "url": "https://www.billboard.com/music/rb-hip-hop/drake-iceman-release-date-toronto-ice-sculpture-1236227258/",
-    "publishedAt": "2026-04-20T20:34:46.000Z",
-    "summary": "\"Release date inside,\" the 6 God wrote to his IG Story with a link to a location in downtown Toronto.",
     "image": null
   },
   {
@@ -474,15 +483,6 @@
     "url": "https://pitchfork.com/news/tory-lanez-sues-california-prison-system-over-inmate-stabbing/",
     "publishedAt": "2026-04-20T00:02:35.000Z",
     "summary": "Lanez claims he was “knowingly” housed with the maximum-security prisoner who stabbed him 16 times",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/news/the-strokes-close-coachella-set-with-video-denouncing-us-foreign-intervention/",
-    "source": "pitchfork",
-    "title": "The Strokes Close Coachella Set With Video Denouncing U.S. Foreign Intervention",
-    "url": "https://pitchfork.com/news/the-strokes-close-coachella-set-with-video-denouncing-us-foreign-intervention/",
-    "publishedAt": "2026-04-19T18:50:24.000Z",
-    "summary": "The band showed footage of bombings in Gaza and Iran and images of world leaders the CIA has been accused of overthrowing",
     "image": null
   },
   {
