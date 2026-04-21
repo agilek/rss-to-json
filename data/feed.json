@@ -1,5 +1,86 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/ella-langley-dandelion-five-burning-questions-1236228253/",
+    "source": "billboard",
+    "title": "Five Burning Questions About Ella Langley’s ‘Dandelion’ First Week",
+    "url": "https://www.billboard.com/music/chart-beat/ella-langley-dandelion-five-burning-questions-1236228253/",
+    "publishedAt": "2026-04-21T22:24:05.000Z",
+    "summary": "This week's Five Burning Question looks at the biggest breakout artist in country's new set, and how her chart dominance could really only be getting started.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/prince-death-anniversary-history-legal-fights-estate/",
+    "source": "billboard",
+    "title": "Prince’s Legal Legacy: Death Sparked Years-Long Battle Over Control of His $156M Estate",
+    "url": "https://www.billboard.com/pro/prince-death-anniversary-history-legal-fights-estate/",
+    "publishedAt": "2026-04-21T22:11:26.000Z",
+    "summary": "Ten years after the legend's death, Billboard is looking back at the lengthy legal battle over his estate and the lawsuits it has waged since.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/jonah-hill-rihanna-weed-1236228149/",
+    "source": "billboard",
+    "title": "Jonah Hill Says Rihanna’s Weed Got His Friend ‘So Stoned’ That It Had This Unexpected Side Effect",
+    "url": "https://www.billboard.com/music/rb-hip-hop/jonah-hill-rihanna-weed-1236228149/",
+    "publishedAt": "2026-04-21T21:57:53.000Z",
+    "summary": "\"Rihanna has that 'make your friends sh-- their pants' weed,\" the Superbad actor jokes.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "source": "billboard",
+    "title": "Billboard’s Music Industry Events Calendar",
+    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "publishedAt": "2026-04-21T21:29:00.000Z",
+    "summary": "A complete rundown of the most important events across the music business.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/madonna-coachella-costume-police-update-golf-cart-1236228316/",
+    "source": "billboard",
+    "title": "Madonna’s Missing Coachella Costume Might Have Fallen Off a Golf Cart, Police Say",
+    "url": "https://www.billboard.com/music/pop/madonna-coachella-costume-police-update-golf-cart-1236228316/",
+    "publishedAt": "2026-04-21T21:23:53.000Z",
+    "summary": "\"There is no evidence to suggest the bags were intentionally stolen,\" police tell ABC News.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/luis-fonsi-feid-cambiare-latin-airplay-chart-topper-1236228334/",
+    "source": "billboard",
+    "title": "Luis Fonsi Toasts No. 1 Comeback, As Feid Collab ‘Cambiaré’ Lands Atop Latin Airplay: ‘Gracias Feid for Adding Your Undeniable Magic’",
+    "url": "https://www.billboard.com/music/chart-beat/luis-fonsi-feid-cambiare-latin-airplay-chart-topper-1236228334/",
+    "publishedAt": "2026-04-21T21:14:42.000Z",
+    "summary": "The song marks Fonsi’s first chart-topper since 2021.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/t-mobile-doordash-home-internet-delivery-order-online-1236227998/",
+    "source": "billboard",
+    "title": "With Same-Day Delivery, Setting Up T-Mobile’s 5G Home Internet Has Never Been Easier: Here’s How",
+    "url": "https://www.billboard.com/culture/product-recommendations/t-mobile-doordash-home-internet-delivery-order-online-1236227998/",
+    "publishedAt": "2026-04-21T21:07:17.000Z",
+    "summary": "No appointments or technicians are needed for this setup.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/tv-film/colman-domingo-jennifer-hudson-show-michael-actors-jaafar-1236228248/",
+    "source": "billboard",
+    "title": "Colman Domingo Shows Off His Moonwalk, Talks Being ‘Protective’ of Young ‘Michael’ Actors on ‘Jennifer Hudson Show’",
+    "url": "https://www.billboard.com/culture/tv-film/colman-domingo-jennifer-hudson-show-michael-actors-jaafar-1236228248/",
+    "publishedAt": "2026-04-21T21:04:21.000Z",
+    "summary": "Domingo, Jaafar Jackson & Juliano Valdi appear on the show's Wednesday episode to discuss the Michael Jackson biopic.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/baauer-announces-first-album-in-six-years-shares-new-single/",
+    "source": "pitchfork",
+    "title": "Baauer’s Announces First Album in Six Years, Shares New Single",
+    "url": "https://pitchfork.com/news/baauer-announces-first-album-in-six-years-shares-new-single/",
+    "publishedAt": "2026-04-21T20:54:50.000Z",
+    "summary": "U is an ode to the dance music that shaped the UK producer’s teen years",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/bob-dylan-new-dates-rough-and-rowdy-ways-tour-1235551363/",
     "source": "rolling-stone",
     "title": "Bob Dylan Adds Even More ‘Rough and Rowdy Ways’ Tour Dates",
@@ -23,7 +104,16 @@
     "title": "Azealia Banks Skips Hearing in Ex-Manager ‘Stalking’ Case",
     "url": "https://www.rollingstone.com/music/music-news/azealia-banks-damages-trial-stalking-manager-jeff-kwatinetz-1235551400/",
     "publishedAt": "2026-04-21T20:35:52.000Z",
-    "summary": "Lawyers for the \"212\" singer's ex-manager, Jeff Kwatinetz, said he’ll testify in person at May trial",
+    "summary": "Lawyers for the “212” singer’s ex-manager, Jeff Kwatinetz, said he’ll testify in person at May trial",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMivAFBVV95cUxQbHE5SmVucWZWN251ZU1OOXpyYWd1cE4tNWp4QXZobW42RVlaY1NIWGRRNm50UjlPcEktdU1wUGxxTmdwSEZTaDFCUDNBYV8teUNsOFN3WXZjeEJPRENaNTNoOFo2MHdPbUplYmlDWVpqc3JkdnRGRHhrQlZ5ZFZHd1kzUE9rWV91QTZSdUxzVVF1MHZpNGlRX0xzWldoOHVEcW04M1hFcEVJN0JFWFhDOXgtb1c0Q0oyd3k0SA?oc=5",
+    "source": "nme",
+    "title": "The Strokes’ Julian Casablancas calls out the “white privilege” of “American Zionists” - NME",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbHE5SmVucWZWN251ZU1OOXpyYWd1cE4tNWp4QXZobW42RVlaY1NIWGRRNm50UjlPcEktdU1wUGxxTmdwSEZTaDFCUDNBYV8teUNsOFN3WXZjeEJPRENaNTNoOFo2MHdPbUplYmlDWVpqc3JkdnRGRHhrQlZ5ZFZHd1kzUE9rWV91QTZSdUxzVVF1MHZpNGlRX0xzWldoOHVEcW04M1hFcEVJN0JFWFhDOXgtb1c0Q0oyd3k0SA?oc=5",
+    "publishedAt": "2026-04-21T20:35:29.000Z",
+    "summary": "The Strokes’ Julian Casablancas calls out the “white privilege” of “American Zionists” NME",
     "image": null
   },
   {
@@ -45,39 +135,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/drake-iceman-release-date-album-1236228193/",
-    "source": "billboard",
-    "title": "Drake’s ‘Iceman’ Album Is Officially Coming Soon: See the Album’s Release Date",
-    "url": "https://www.billboard.com/music/rb-hip-hop/drake-iceman-release-date-album-1236228193/",
-    "publishedAt": "2026-04-21T20:20:52.000Z",
-    "summary": "Streamer Kishka found a folder atop the Iceman installation in Toronto, revealing the project's release date.",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/news/drake-confirms-iceman-release-date/",
     "source": "pitchfork",
     "title": "Drake Confirms Iceman Release Date",
     "url": "https://pitchfork.com/news/drake-confirms-iceman-release-date/",
     "publishedAt": "2026-04-21T20:10:18.000Z",
     "summary": "The rapper’s long-rumored new album is out on May 15",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/meghan-trainor-tour-interview-1236228174/",
-    "source": "billboard",
-    "title": "Meghan Trainor on Canceling Her Tour: ‘Do I Choose My Career or Do I Choose Being a Mom Right Now?’",
-    "url": "https://www.billboard.com/music/music-news/meghan-trainor-tour-interview-1236228174/",
-    "publishedAt": "2026-04-21T20:08:48.000Z",
-    "summary": "The Billboard Hot 100-topping pop star opens up about her difficult decision ahead of new album Toy With Me.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/country/up-and-coming-country-artist-of-the-month-owen-riegling-1236227753/",
-    "source": "billboard",
-    "title": "Owen Riegling Is Billboard’s Up-and-Coming Country Artist of the Month for April 2026",
-    "url": "https://www.billboard.com/music/country/up-and-coming-country-artist-of-the-month-owen-riegling-1236227753/",
-    "publishedAt": "2026-04-21T19:54:22.000Z",
-    "summary": "Meet Owen Riegling, Billboard’s Up-and-Coming Country Artist of the Month for April 2026. Here’s why the rising country act is breaking through.",
     "image": null
   },
   {
@@ -90,57 +153,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/lists/michael-jackson-biopic-takeaways-review/",
-    "source": "billboard",
-    "title": "Five Takeaways From ‘Michael’: ‘You’re Either a Winner or a Loser’",
-    "url": "https://www.billboard.com/lists/michael-jackson-biopic-takeaways-review/",
-    "publishedAt": "2026-04-21T19:41:08.000Z",
-    "summary": "The much-anticipated biopic opens in theaters nationwide on April 24.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/pop/aespa-lemonade-second-album-2026-2027-world-tour-1236228194/",
-    "source": "billboard",
-    "title": "aespa Announces Second Studio Album ‘LEMONADE’ & Sets 2026–27 World Tour",
-    "url": "https://www.billboard.com/music/pop/aespa-lemonade-second-album-2026-2027-world-tour-1236228194/",
-    "publishedAt": "2026-04-21T19:32:22.000Z",
-    "summary": "The 10-track set marks the SM Entertainment quartet’s first full-length album in two years.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-    "source": "billboard",
-    "title": "Billboard’s Music Industry Events Calendar",
-    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-    "publishedAt": "2026-04-21T19:18:00.000Z",
-    "summary": "A complete rundown of the most important events across the music business.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/donny-osmond-tribute-alan-brother-1235551302/",
     "source": "rolling-stone",
     "title": "Donny Osmond Pays Tribute to Older Brother Alan: ‘My Protector’",
     "url": "https://www.rollingstone.com/music/music-news/donny-osmond-tribute-alan-brother-1235551302/",
     "publishedAt": "2026-04-21T18:27:28.000Z",
     "summary": "The eldest brother in the famed family music group the Osmonds died aged 76 on Monday",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/questlove-michael-jackson-biopic-review-1236227903/",
-    "source": "billboard",
-    "title": "Questlove Says ‘Michael’ Biopic ‘Captured the Soul’ of Jackson, But He Had a Few Timeline Quibbles",
-    "url": "https://www.billboard.com/music/rb-hip-hop/questlove-michael-jackson-biopic-review-1236227903/",
-    "publishedAt": "2026-04-21T18:20:48.000Z",
-    "summary": "\"This project does the impossible: it strips away the spectacle and shows us the person,\" the Roots drummer said.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/netflix-wwe-hip-hop-wrestlemania-1236228081/",
-    "source": "billboard",
-    "title": "Rap’s And Wrestling’s Bond Is Stronger Than Ever, Thanks to WWE And Netflix",
-    "url": "https://www.billboard.com/music/rb-hip-hop/netflix-wwe-hip-hop-wrestlemania-1236228081/",
-    "publishedAt": "2026-04-21T18:15:30.000Z",
-    "summary": "The streaming powerhouse hosted an exclusive brunch on Wrestlemania weekend, where major podcasts, artists, celebrities and WWE superstars celebrated their love for wrestling.",
     "image": null
   },
   {
@@ -450,15 +468,6 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/news/coachella-2027-dates-announced/",
-    "source": "pitchfork",
-    "title": "Coachella 2027 Dates Announced",
-    "url": "https://pitchfork.com/news/coachella-2027-dates-announced/",
-    "publishedAt": "2026-04-21T00:41:31.000Z",
-    "summary": "Mark your calendars if you want to attend the California music festival next year",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/south-shore-ballad-of-rats-bay-single-review-video-premiere/",
     "source": "louder-than-war",
     "title": "South Shore: Ballad of Rats Bay – single review & video premiere",
@@ -501,15 +510,6 @@
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUmpXMEZsYmpOb3hraU9XMU10VW5KUXc3bXFwd3M2anMtZV91M3hsNG9NQUM3SThSeVg0bk1BdFBFODdPdlg4dDhia3B2MUI3bkFTblc4M21YbkJ6bEVhbmtqajE3UTlnQ1RGUFY1WG9IWmxrUmlyZ3E3ZDRILVg0THNTam9nVlNNUk5OR01CRGgxVXZBTWIxVElibGI?oc=5",
     "publishedAt": "2026-04-20T17:30:17.000Z",
     "summary": "Blossoms return with jaunty new single ‘Joke About Divorce’ NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMizwFBVV95cUxOZDBoc09TaENTdl9zSmpzVkhBbG16dkh2QW9IemtMQTZra0JRRVhEN3dIenpfY2YxZnNHVDZjcWxJdXVReHhNQnl6RWoyUVBCZFE2OEJSOG9xampWQTFjMUdLbzk0OGZBSHp1WUFacUZzRlhFa3ZHMnJvZC1ZOFVpRGlpU1ltRGZETEFZRjRYZHkzQWVnT1J0RU9LeENrZ3JFWGVEWWhWdXMyYnRudUpuU0VKV0NxSWl6bG9xc1hGZFpKM2loRllHMjV2QmpNbGc?oc=5",
-    "source": "nme",
-    "title": "Graham Coxon to release never-heard-before 2011 album 'Castle Park' as he reissues solo catalogue - NME",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZDBoc09TaENTdl9zSmpzVkhBbG16dkh2QW9IemtMQTZra0JRRVhEN3dIenpfY2YxZnNHVDZjcWxJdXVReHhNQnl6RWoyUVBCZFE2OEJSOG9xampWQTFjMUdLbzk0OGZBSHp1WUFacUZzRlhFa3ZHMnJvZC1ZOFVpRGlpU1ltRGZETEFZRjRYZHkzQWVnT1J0RU9LeENrZ3JFWGVEWWhWdXMyYnRudUpuU0VKV0NxSWl6bG9xc1hGZFpKM2loRllHMjV2QmpNbGc?oc=5",
-    "publishedAt": "2026-04-20T17:00:23.000Z",
-    "summary": "Graham Coxon to release never-heard-before 2011 album 'Castle Park' as he reissues solo catalogue NME",
     "image": null
   },
   {
