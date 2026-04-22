@@ -1,5 +1,23 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/pop/olivia-dean-man-i-need-billion-streams-spotify-1236228595/",
+    "source": "billboard",
+    "title": "Olivia Dean’s ‘Man I Need’ Passes One Billion Streams on Spotify",
+    "url": "https://www.billboard.com/music/pop/olivia-dean-man-i-need-billion-streams-spotify-1236228595/",
+    "publishedAt": "2026-04-22T04:40:29.000Z",
+    "summary": "“Man I Need” crosses the threshold with one billion plays on the Sweden-based streaming platform.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rock/dave-mason-traffic-obituary-1236228571/",
+    "source": "billboard",
+    "title": "Dave Mason, Traffic Co-Founder, Dies at 79",
+    "url": "https://www.billboard.com/music/rock/dave-mason-traffic-obituary-1236228571/",
+    "publishedAt": "2026-04-22T03:19:59.000Z",
+    "summary": "The Traffic co-founder had worked with Jimi Hendrix, George Harrison, Paul McCartney, the Rolling Stones and many other greats of contemporary music.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/pro/keith-urban-inaugural-recipient-rising-star-scholarship/",
     "source": "billboard",
     "title": "Keith Urban Names Inaugural Recipient of ‘Rising Star’ Scholarship",
@@ -96,24 +114,6 @@
     "url": "https://www.billboard.com/music/chart-beat/ella-langley-dandelion-five-burning-questions-1236228253/",
     "publishedAt": "2026-04-21T22:24:05.000Z",
     "summary": "This week's Five Burning Question looks at the biggest breakout artist in country's new set, and how her chart dominance could really only be getting started.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/prince-death-anniversary-history-legal-fights-estate/",
-    "source": "billboard",
-    "title": "Prince’s Legal Legacy: Death Sparked Years-Long Battle Over Control of His $156M Estate",
-    "url": "https://www.billboard.com/pro/prince-death-anniversary-history-legal-fights-estate/",
-    "publishedAt": "2026-04-21T22:11:26.000Z",
-    "summary": "Ten years after the legend's death, Billboard is looking back at the lengthy legal battle over his estate and the lawsuits it has waged since.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/jonah-hill-rihanna-weed-1236228149/",
-    "source": "billboard",
-    "title": "Jonah Hill Says Rihanna’s Weed Got His Friend ‘So Stoned’ That It Had This Unexpected Side Effect",
-    "url": "https://www.billboard.com/music/rb-hip-hop/jonah-hill-rihanna-weed-1236228149/",
-    "publishedAt": "2026-04-21T21:57:53.000Z",
-    "summary": "\"Rihanna has that 'make your friends sh-- their pants' weed,\" the Superbad actor jokes.",
     "image": null
   },
   {
@@ -294,6 +294,15 @@
     "url": "https://pitchfork.com/news/karol-g-readies-a-year-long-world-tour/",
     "publishedAt": "2026-04-21T16:40:52.000Z",
     "summary": "The singer will bring Tropicoqueta to over 39 stadiums across North America, South America, and Europe",
+    "image": null
+  },
+  {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQXhNUFItMDh3ZC1jVG9WNU9LME5yX000RlNzVXl1TnRnc2tidEhoQ0lONjd0UTNzNGZWTFg1aGltRVVOSHlPMUFnaGdaRjhqMUg1VHppZXdXTFZKbXBpT2p6b2VQWTl5bnE5YTRiYzE5VGhMYkZWU21HcVNkMVo4Qm1NRGF1TFZWcG1JNFpFeExKT0Fob09LZlNuMnpWb1V6b3g0MEQ4OGtUZGpMRC1LUjlaT1NneDNRczN1WlZmVkZwUk5NS29uREl3VEh3bmlCdkZXRQ?oc=5",
+    "source": "kerrang",
+    "title": "mgk and Fred Durst join forces on nu-metal banger, FIX UR FACE - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQXhNUFItMDh3ZC1jVG9WNU9LME5yX000RlNzVXl1TnRnc2tidEhoQ0lONjd0UTNzNGZWTFg1aGltRVVOSHlPMUFnaGdaRjhqMUg1VHppZXdXTFZKbXBpT2p6b2VQWTl5bnE5YTRiYzE5VGhMYkZWU21HcVNkMVo4Qm1NRGF1TFZWcG1JNFpFeExKT0Fob09LZlNuMnpWb1V6b3g0MEQ4OGtUZGpMRC1LUjlaT1NneDNRczN1WlZmVkZwUk5NS29uREl3VEh3bmlCdkZXRQ?oc=5",
+    "publishedAt": "2026-04-21T16:17:00.000Z",
+    "summary": "mgk and Fred Durst join forces on nu-metal banger, FIX UR FACE Kerrang!",
     "image": null
   },
   {
@@ -708,15 +717,6 @@
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ25iU3RoVXB2bW9rMTF5ajJLUkljN2ticzdfelVUdXB5ZUVacDNyX1J6NFY2S0p1U2wtejEzNnQzX2JkbG02UXpPNWRGOVBYZjRWX2RhYm55Z3JoSVNJWUswM0ZHNTlSMkVuc201Wk9mT2FHWmFFTzlreU1GeEcxb2ZMQ0d4NVFRQXpoTQ?oc=5",
     "publishedAt": "2026-04-15T08:00:00.000Z",
     "summary": "Album review: Teen Suicide – Nude descending staircase headless Kerrang!",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMiigFBVV95cUxNQlVHM1FVVFJzYTZSVlV5amNwaGN1OGFxV0dVWmpxRG9CYjE3MndxYUhqTzhrOWN1eGdLcFoxenRYNUM5TS01UTgyNkZoV0tyLU5YNFBTZlo2U0tBTHYxb3BUZ1c5blhpbnpIdTRJUW9GRXBJNU1fS1EzWkpwUEgyVVUwVjQycDRENEE?oc=5",
-    "source": "kerrang",
-    "title": "Album review: Skindred – You Got This - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQlVHM1FVVFJzYTZSVlV5amNwaGN1OGFxV0dVWmpxRG9CYjE3MndxYUhqTzhrOWN1eGdLcFoxenRYNUM5TS01UTgyNkZoV0tyLU5YNFBTZlo2U0tBTHYxb3BUZ1c5blhpbnpIdTRJUW9GRXBJNU1fS1EzWkpwUEgyVVUwVjQycDRENEE?oc=5",
-    "publishedAt": "2026-04-14T10:00:00.000Z",
-    "summary": "Album review: Skindred – You Got This Kerrang!",
     "image": null
   }
 ]
