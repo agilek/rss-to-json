@@ -1,5 +1,86 @@
 [
   {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/man-arrested-planning-mass-shooting-new-orleans-jazz-fest-1235553063/",
+    "source": "rolling-stone",
+    "title": "Man Arrested After Allegedly Making Plans for Mass Shooting at New Orleans Jazz Fest",
+    "url": "https://www.rollingstone.com/music/music-news/man-arrested-planning-mass-shooting-new-orleans-jazz-fest-1235553063/",
+    "publishedAt": "2026-04-23T22:45:17.000Z",
+    "summary": "Former North Carolina police officer charged with making \"terroristic threats,\" arrested in Florida en route to music fest this weekend",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/tv-film/kevin-hart-camron-interview-dame-dash-1236230310/",
+    "source": "billboard",
+    "title": "Kevin Hart Comically Walks Off Cam’ron Interview After Being Asked About Dame Dash",
+    "url": "https://www.billboard.com/culture/tv-film/kevin-hart-camron-interview-dame-dash-1236230310/",
+    "publishedAt": "2026-04-23T22:21:26.000Z",
+    "summary": "Hart & Cam'ron appeared in the Dash-produced Paper Soldiers film back in 2002.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/charlotte-macinnes-suing-rebel-wilson-defamation-album-1235552913/",
+    "source": "rolling-stone",
+    "title": "Woman at Center of Rebel Wilson Defamation Trial Is Releasing an Album",
+    "url": "https://www.rollingstone.com/music/music-news/charlotte-macinnes-suing-rebel-wilson-defamation-album-1235552913/",
+    "publishedAt": "2026-04-23T22:07:49.000Z",
+    "summary": "Charlotte MacInnes debuted her single “Celestial” Thursday ahead of the release of her Atlantic debut, Highwater, on June 5",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/latin/quevedo-talks-new-album-el-baifo-tribute-canary-islands-1236228854/",
+    "source": "billboard",
+    "title": "Quevedo Presents a Portrait of Identity & Memory With ‘El Baifo’: ‘I Would Love for People to Understand Where I Come From’",
+    "url": "https://www.billboard.com/music/latin/quevedo-talks-new-album-el-baifo-tribute-canary-islands-1236228854/",
+    "publishedAt": "2026-04-23T22:00:00.000Z",
+    "summary": "For his third studio album, the Spanish artist blends reggaeton & merengue with elements linked to the Canary Islands.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/music-publisher-rankings-2025-sony-no-1-kendrick-lamar/",
+    "source": "billboard",
+    "title": "Sony Dominates 2025 Publisher Rankings With Hits by Leon Thomas, Kendrick Lamar & Alex Warren",
+    "url": "https://www.billboard.com/pro/music-publisher-rankings-2025-sony-no-1-kendrick-lamar/",
+    "publishedAt": "2026-04-23T21:49:32.000Z",
+    "summary": "The publisher finished at No. 1 on both the Hot 100 and Radio Airplay tallies last year, besting runner-up Warner Chappell by substantial margins.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/hilton-santa-barbara-beachfront-resort-sale-book-online-1236229489/",
+    "source": "billboard",
+    "title": "Hilton’s Santa Barbara Beachfront Resort Is a Paradise for Music Lovers — Here’s Why",
+    "url": "https://www.billboard.com/culture/product-recommendations/hilton-santa-barbara-beachfront-resort-sale-book-online-1236229489/",
+    "publishedAt": "2026-04-23T21:39:47.000Z",
+    "summary": "Enjoy coastal charm, iconic concert venues & music festivals during this California escape.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/zara-larsson-whether-deserved-play-arenas-over-tate-mcrae-1236230324/",
+    "source": "billboard",
+    "title": "Zara Larsson Addresses Fans Who Tried to Pit Her Against Tourmate Tate McRae: It’s ‘How People Speak About Girls in Pop’",
+    "url": "https://www.billboard.com/music/pop/zara-larsson-whether-deserved-play-arenas-over-tate-mcrae-1236230324/",
+    "publishedAt": "2026-04-23T21:35:47.000Z",
+    "summary": "Larsson sat down with Call Her Daddy ahead of both pop stars being honored at Billboard's 2026 Women in Music event next week.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/jack-harlow-drake-best-rapper-alive-1236230309/",
+    "source": "billboard",
+    "title": "Jack Harlow Pinpoints the Moment He Decided Drake Was the ‘Best Rapper Alive’",
+    "url": "https://www.billboard.com/music/rb-hip-hop/jack-harlow-drake-best-rapper-alive-1236230309/",
+    "publishedAt": "2026-04-23T21:24:19.000Z",
+    "summary": "The Kentucky rapper also talked about his experience in the studio with Drake and seeing his \"skillset in real time.\"",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/diana-ross-scenes-michael-jackson-movie-cut-kat-graham-1236230326/",
+    "source": "billboard",
+    "title": "Here’s Why Kat Graham’s Scenes as Diana Ross Were Cut From Michael Jackson Biopic",
+    "url": "https://www.billboard.com/music/music-news/diana-ross-scenes-michael-jackson-movie-cut-kat-graham-1236230326/",
+    "publishedAt": "2026-04-23T21:15:19.000Z",
+    "summary": "The actress explains why her scenes are no longer in the buzzy Michael film.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/culture/product-recommendations/the-strokes-2026-tour-tickets-buy-online-1236229873/",
     "source": "billboard",
     "title": "The Strokes ‘Reality Awaits’ Tour 2026: Where to Get Affordable Concert Tickets Online",
@@ -27,15 +108,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/business/legal/new-orleans-jazz-fest-ex-police-officer-arrest-mass-shooting-1236230293/",
-    "source": "billboard",
-    "title": "Ahead of New Orleans Jazz Fest, Former Police Officer Arrested for Plan to Kill Black People in a Mass Shooting",
-    "url": "https://www.billboard.com/business/legal/new-orleans-jazz-fest-ex-police-officer-arrest-mass-shooting-1236230293/",
-    "publishedAt": "2026-04-23T19:53:17.000Z",
-    "summary": "Festival reps said they worked closely with law enforcement & applauded their efforts.",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/turnstile-night-baltimore-orioles/",
     "source": "loudwire",
     "title": "Turnstile Get Their Own Promotional Night With Baltimore Orioles",
@@ -45,66 +117,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/nikki-glaser-good-girl-how-to-watch-online-free-1236229746/",
-    "source": "billboard",
-    "title": "Here’s How to Watch ‘Nikki Glaser: Good Girl’ Online",
-    "url": "https://www.billboard.com/culture/product-recommendations/nikki-glaser-good-girl-how-to-watch-online-free-1236229746/",
-    "publishedAt": "2026-04-23T19:37:31.000Z",
-    "summary": "The standup comedian's newest comedy special drops Friday -- and you can watch it for free.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/smokey-robinson-defamation-sexual-assault-lawsuit-tossed/",
-    "source": "billboard",
-    "title": "Smokey Robinson’s Defamation Claims Thrown Out in Sexual Assault Legal Battle",
-    "url": "https://www.billboard.com/pro/smokey-robinson-defamation-sexual-assault-lawsuit-tossed/",
-    "publishedAt": "2026-04-23T19:32:05.000Z",
-    "summary": "A judge says there isn’t sufficient evidence for the Motown legend’s accusers to face defamation liability. It’s not a ruling on the veracity of the rape claims.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/taylor-swift-grammy-nominations-song-of-the-year-full-list/",
-    "source": "billboard",
-    "title": "Taylor Swift Has a Record-Tying 8 Grammy Nods for Song of the Year, But Has Yet to Win: Will 2027 Be Her Year?",
-    "url": "https://www.billboard.com/lists/taylor-swift-grammy-nominations-song-of-the-year-full-list/",
-    "publishedAt": "2026-04-23T19:32:04.000Z",
-    "summary": "Swift’s not having won a Grammy for song of the year is notable, because more than a few people regard her as the songwriter of her generation.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/pride/trixie-mattel-taylor-swift-fan-life-of-a-showgirl-1236228285/",
-    "source": "billboard",
-    "title": "Trixie Mattel Says She’s Finally a Taylor Swift Fan Thanks to ‘Life of a Showgirl,’ Defends Chappell Roan",
-    "url": "https://www.billboard.com/culture/pride/trixie-mattel-taylor-swift-fan-life-of-a-showgirl-1236228285/",
-    "publishedAt": "2026-04-23T19:25:58.000Z",
-    "summary": "The drag artist also revealed which Gen Z pop star she wants to play her in a biopic.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/taylor-swift-fan-book-story-of-us-olivia-levin-where-to-buy-1236230093/",
-    "source": "billboard",
-    "title": "This Swiftie’s Best-Selling Book Offers an Insider’s Look at Taylor Swift’s Fanbase",
-    "url": "https://www.billboard.com/culture/product-recommendations/taylor-swift-fan-book-story-of-us-olivia-levin-where-to-buy-1236230093/",
-    "publishedAt": "2026-04-23T19:14:18.000Z",
-    "summary": "The book is written by Olivia Levin, the creator behind the popular Instagram account @SwiftiesForEternity.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/travis-barker-documentary-louder-than-fear-hulu-summer-1235552855/",
     "source": "rolling-stone",
     "title": "Travis Barker’s Doc ‘Louder Than Fear’ to Premiere This Summer: ‘It’s an Unfiltered Look at My Journey’",
     "url": "https://www.rollingstone.com/music/music-news/travis-barker-documentary-louder-than-fear-hulu-summer-1235552855/",
     "publishedAt": "2026-04-23T18:55:33.000Z",
     "summary": "Film will focus on Blink-182 drummer’s life and career as well as his recovery following 2008 private plane crash",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/nascar-talladega-speedway-race-2026-watch-livestream-online-1236230053/",
-    "source": "billboard",
-    "title": "NASCAR Heads to Talladega: Here’s How to Stream This Weekend’s Races Online for Free",
-    "url": "https://www.billboard.com/culture/product-recommendations/nascar-talladega-speedway-race-2026-watch-livestream-online-1236230053/",
-    "publishedAt": "2026-04-23T18:45:56.000Z",
-    "summary": "Talladega races are some of the most competitive & exciting to watch, thanks to the tightly packed lineup navigating the longest track on the circuit.",
     "image": null
   },
   {
@@ -132,6 +150,15 @@
     "url": "https://loudwire.com/korn-family-values-tour-lineups/",
     "publishedAt": "2026-04-23T17:59:44.000Z",
     "summary": "How many of these do you remember from Korn's massive Family Values Tours? Continue reading…",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMivgFBVV95cUxPd0o4MHZsMHpkNXhGZFpCd09KVHlRamZ5YWdEbHlwMDRNeldSUGx1bnVOSFdvUlV6U0pkYkJJN2pkaTdDanFkYWkxbldXWUs1dnVlUlBBbG5nM2plZUc1SFB1dlZqellNeEtraXVhOUlycG1xOExycXRoU2p6VkdGY2RwNkhiUkVQVm1seTdUb0xVQkE0eGNoa1B3dW5UZHVSVllvSGI2VFVUWlFCd1hWM0VEYlRGM2t2d0d3a2J3?oc=5",
+    "source": "nme",
+    "title": "Horsegiirl announces debut album ‘Nature Is Healing’ with hypnotic ‘Earth Is Turning’ - NME",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd0o4MHZsMHpkNXhGZFpCd09KVHlRamZ5YWdEbHlwMDRNeldSUGx1bnVOSFdvUlV6U0pkYkJJN2pkaTdDanFkYWkxbldXWUs1dnVlUlBBbG5nM2plZUc1SFB1dlZqellNeEtraXVhOUlycG1xOExycXRoU2p6VkdGY2RwNkhiUkVQVm1seTdUb0xVQkE0eGNoa1B3dW5UZHVSVllvSGI2VFVUWlFCd1hWM0VEYlRGM2t2d0d3a2J3?oc=5",
+    "publishedAt": "2026-04-23T17:59:39.000Z",
+    "summary": "Horsegiirl announces debut album ‘Nature Is Healing’ with hypnotic ‘Earth Is Turning’ NME",
     "image": null
   },
   {
@@ -306,24 +333,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/michael-jackson-abuse-allegations-biopic-explainer-1235552096/",
-    "source": "rolling-stone",
-    "title": "Why the Michael Jackson Movie Doesn’t Cover Sexual-Abuse Allegations",
-    "url": "https://www.rollingstone.com/music/music-news/michael-jackson-abuse-allegations-biopic-explainer-1235552096/",
-    "publishedAt": "2026-04-23T13:00:00.000Z",
-    "summary": "An early storyline in Michael centered on allegations made by 13-year-old Jordan Chandler. It was nixed after filmmakers learned it violated terms of a $20 million settlement",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/david-byrne-fka-twigs-coachella-interview-clip-1235552145/",
-    "source": "rolling-stone",
-    "title": "David Byrne Teaches FKA Twigs His Signature Moves in Coachella’s New ‘Artist on Artist’ Series",
-    "url": "https://www.rollingstone.com/music/music-news/david-byrne-fka-twigs-coachella-interview-clip-1235552145/",
-    "publishedAt": "2026-04-23T13:00:00.000Z",
-    "summary": "The series debuts today with a conversation between Armin van Buuren and Adam Beyer, while Twigs and Byrne’s episode will air next week",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/slayer-los-angeles-2026-tour-date/",
     "source": "loudwire",
     "title": "Slayer Announce ANOTHER 40th Anniversary 'Reign in Blood' Show",
@@ -393,6 +402,15 @@
     "url": "https://louderthanwar.com/bishi-announces-new-album-tour/",
     "publishedAt": "2026-04-23T09:29:37.000Z",
     "summary": "Bishi anounces new album and dates The post BISHI announces the release of her fourth studio album and dates appeared first on Louder Than War.",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ3JKS1RyZXhSSXZ6MFdwbHNBb0V4UTZFdk1QdTlxUk1WT01tbkN4ZEkwd1AtOWowUl9ZXzhYOEs1TDJ2dW5EQ3lyeHJEa1JtbDVVQ2l2OWdqSnhEWUFkMUxJLVEzclBHMnJraktYVk1KXy11NDhHdjdiZjM4aGxQUGJYRnBvZC1pdWNEd29rM2IwOHJKMXhIbHJFSTVEZ2dKNngwY1FFSGcwaUJtMFFVM2FyNGpvM3E2d3hwUm16RVU2N2NUazlQSy03X01LcEFuYk04aXVsWjZiQjhJNms4?oc=5",
+    "source": "nme",
+    "title": "D4vd collaborations with Laufey, Damiano David, Kali Uchis and more have been removed from streaming services - NME",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ3JKS1RyZXhSSXZ6MFdwbHNBb0V4UTZFdk1QdTlxUk1WT01tbkN4ZEkwd1AtOWowUl9ZXzhYOEs1TDJ2dW5EQ3lyeHJEa1JtbDVVQ2l2OWdqSnhEWUFkMUxJLVEzclBHMnJraktYVk1KXy11NDhHdjdiZjM4aGxQUGJYRnBvZC1pdWNEd29rM2IwOHJKMXhIbHJFSTVEZ2dKNngwY1FFSGcwaUJtMFFVM2FyNGpvM3E2d3hwUm16RVU2N2NUazlQSy03X01LcEFuYk04aXVsWjZiQjhJNms4?oc=5",
+    "publishedAt": "2026-04-23T08:38:23.000Z",
+    "summary": "D4vd collaborations with Laufey, Damiano David, Kali Uchis and more have been removed from streaming services NME",
     "image": null
   },
   {
@@ -504,15 +522,6 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMi9gFBVV95cUxNa0s2UWswNjNIRnFPc3VnamdScktkSmpCRU1GQWEzZzJNSkxOVDhzMzl0N1d6XzdxTXlsamVOLVhNaGxtT0U4V0s4aE9ITUZFNjZnQnpueV84ZzF5dzVudTZkSlFQVDg4VEh0ek9UenhIVTQ1Z0VtS18tR0dqWll2Y21wRGhrdVdEM01KRHp3aVJ4WHdqdkhNbjVQZDBIeGRSOU43clA1d1Bud0ZZZVdRX3UwM0oydXFjTVJvcGlMd0RxT21kcnJIQUhiWEhYVXRuQnk0VGZfcEZFZVR5cG55UzFqbnpjdWNqN3plXzRsX1BiM3VtSmc?oc=5",
-    "source": "nme",
-    "title": "Tricky announces new album 'Different When It’s Silent' with paranoid single 'Out Of Place' and summer UK and European tour dates - NME",
-    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNa0s2UWswNjNIRnFPc3VnamdScktkSmpCRU1GQWEzZzJNSkxOVDhzMzl0N1d6XzdxTXlsamVOLVhNaGxtT0U4V0s4aE9ITUZFNjZnQnpueV84ZzF5dzVudTZkSlFQVDg4VEh0ek9UenhIVTQ1Z0VtS18tR0dqWll2Y21wRGhrdVdEM01KRHp3aVJ4WHdqdkhNbjVQZDBIeGRSOU43clA1d1Bud0ZZZVdRX3UwM0oydXFjTVJvcGlMd0RxT21kcnJIQUhiWEhYVXRuQnk0VGZfcEZFZVR5cG55UzFqbnpjdWNqN3plXzRsX1BiM3VtSmc?oc=5",
-    "publishedAt": "2026-04-22T15:41:52.000Z",
-    "summary": "Tricky announces new album 'Different When It’s Silent' with paranoid single 'Out Of Place' and summer UK and European tour dates NME",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/news/smerz-reveal-new-easy-ep-and-song-spring-summer/",
     "source": "pitchfork",
     "title": "Smerz Reveal New Easy EP and Song “Spring Summer”",
@@ -537,15 +546,6 @@
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONk1MNDNRWlJSNDM1LTFQM3p0LWhtMzd4TElUc2ZfODBuZDduLXhSVUl1Mk1ocXFEbVJONVhpamVjM1E1VnhvNWlaSmdldWVsajIySkhhTTdCQzU1QmJQWjNKUmxTeWJELTFkZnBxR00xNHl2OVRFS1lTTkJsdUpubV9ILTJBQi1RMjBCNk5PR0Vkb0FqOXNobXFvbE1iZjNlbjJiMC1reEQ?oc=5",
     "publishedAt": "2026-04-22T14:50:00.000Z",
     "summary": "Evanescence: “A lot of the album is the quest for humanity and being… Kerrang!",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMiogJBVV95cUxOVk9KdFVoUHFhTG5HTzBSdUNEUmhWb0pOQkdvVjFDbjVzN0sxTEhhNGZ3eFlJbF9OY0cyZ3NtbXk4UnF6SnRvS0UxbUZtNTlSTGxDQnhkanRKODJyTGo4RHpmT1dSTHctQlRGeThzd2VobTVhLXN6dGNTbjRtWWQzYnVzbVBzZC10N21iNV82Q3dxV2N6ZXViTGlCS2ZYUnNUR1lZeHM0MUVmbWN6MHdRVzB4MUdFNE1xVmktczhsZzdTNG1ZN3VuOGEtZ1IyT0tIekxnNlUwOXNIMkYzUWo3eW1oMDVtVW12NTdVYTBhM0otNDJZYUJrRWV1c0dFcjBOUFFkVmdVR2Joa0x6UTRtU0dXR19VbXdrbWd5S0pTOEp2QQ?oc=5",
-    "source": "nme",
-    "title": "Tributes paid after death of The Delta 72 frontman Gregg Foreman, also of Cat Power and The Gossip, age 53: \"He lived a life that others only claim to have lived\" - NME",
-    "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOVk9KdFVoUHFhTG5HTzBSdUNEUmhWb0pOQkdvVjFDbjVzN0sxTEhhNGZ3eFlJbF9OY0cyZ3NtbXk4UnF6SnRvS0UxbUZtNTlSTGxDQnhkanRKODJyTGo4RHpmT1dSTHctQlRGeThzd2VobTVhLXN6dGNTbjRtWWQzYnVzbVBzZC10N21iNV82Q3dxV2N6ZXViTGlCS2ZYUnNUR1lZeHM0MUVmbWN6MHdRVzB4MUdFNE1xVmktczhsZzdTNG1ZN3VuOGEtZ1IyT0tIekxnNlUwOXNIMkYzUWo3eW1oMDVtVW12NTdVYTBhM0otNDJZYUJrRWV1c0dFcjBOUFFkVmdVR2Joa0x6UTRtU0dXR19VbXdrbWd5S0pTOEp2QQ?oc=5",
-    "publishedAt": "2026-04-22T14:29:13.000Z",
-    "summary": "Tributes paid after death of The Delta 72 frontman Gregg Foreman, also of Cat Power and The Gossip, age 53: \"He lived a life that others only claim to have lived\" NME",
     "image": null
   },
   {
