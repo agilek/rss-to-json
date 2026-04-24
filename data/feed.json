@@ -1,38 +1,119 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/bts-arih-noodles-beverage-line-walmart-shop-online-1236231230/",
+    "source": "billboard",
+    "title": "BTS Is Selling Snacks & Energy Drinks at Walmart Now? Everything You Need to Know",
+    "url": "https://www.billboard.com/culture/product-recommendations/bts-arih-noodles-beverage-line-walmart-shop-online-1236231230/",
+    "publishedAt": "2026-04-24T20:40:57.000Z",
+    "summary": "The new line includes noodles, soda & energy drinks.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/best-cheap-tickets-sites-1235380283/",
+    "source": "billboard",
+    "title": "The Best Ticketing Sites to Find Affordable Tickets to Ariana Grande, Foo Fighters & ENHYPEN",
+    "url": "https://www.billboard.com/culture/product-recommendations/best-cheap-tickets-sites-1235380283/",
+    "publishedAt": "2026-04-24T20:36:14.000Z",
+    "summary": "Whether you're a fan of pop, rock, country or all of the above, these resale sites will have discounted tickets to shows.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/mga-mrs-green-apple-beginners-guide-1236231376/",
+    "source": "billboard",
+    "title": "Who Are MGA, aka Mrs. GREEN APPLE? A Beginner’s Guide to Japan’s Monster Band",
+    "url": "https://www.billboard.com/music/music-news/mga-mrs-green-apple-beginners-guide-1236231376/",
+    "publishedAt": "2026-04-24T20:32:18.000Z",
+    "summary": "MGA (outside Japan, Mrs. GREEN APPLE goes by MGA) stood out as the only Japanese act to appear on the IFPI's 2026 Global Artist Chart, landing at No. 13.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/cher-elijah-allman-emergency-conservatorship-denied-1235553443/",
+    "source": "rolling-stone",
+    "title": "Judge Denies Cher’s Bid for Emergency Conservatorship Over Son Elijah Blue Allman",
+    "url": "https://www.rollingstone.com/music/music-news/cher-elijah-allman-emergency-conservatorship-denied-1235553443/",
+    "publishedAt": "2026-04-24T20:32:03.000Z",
+    "summary": "“She’s out here trying to help him, trying to make sure he’s in a position to become the person who she knows and loves,” Cher's lawyer told the court at a Friday hearing",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/chance-the-rapper-lawyer-pat-the-manager-trial-interview/",
+    "source": "billboard",
+    "title": "How Chance the Rapper’s Lawyer Helped Him ‘Stand on Principle’ — and Win — in Pat the Manager Contract Trial",
+    "url": "https://www.billboard.com/pro/chance-the-rapper-lawyer-pat-the-manager-trial-interview/",
+    "publishedAt": "2026-04-24T20:27:25.000Z",
+    "summary": "Precious Jacobs-Perry, who helped Chance win what she describes as a “decisive outcome” at trial, tells Billboard about her team’s approach.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/gloria-trevi-young-miko-becky-g-reveal-latina-muse/",
+    "source": "billboard",
+    "title": "Gloria Trevi, Young Miko, Becky G & More Reveal Their Latina Muse | Billboard News",
+    "url": "https://www.billboard.com/video/gloria-trevi-young-miko-becky-g-reveal-latina-muse/",
+    "publishedAt": "2026-04-24T20:18:45.000Z",
+    "summary": "Who is the Latina muse of Gloria Trevi, Chiquis, Young Miko and Becky G? We caught up with the Latina stars on the red carpet of the Billboard Latin Women in Music 2026, and they shared who they admire in the industry — from Karol G to Jessie Reyez and more. Ingrid Fajardo: Who is […]",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/ryo-asai-in-the-megachurch-billboard-japan-book-hot-100-1236231364/",
+    "source": "billboard",
+    "title": "Ryo Asai’s ‘In the Megachurch’ Tops Billboard Japan Book Hot 100 in Its 25th Week",
+    "url": "https://www.billboard.com/music/chart-beat/ryo-asai-in-the-megachurch-billboard-japan-book-hot-100-1236231364/",
+    "publishedAt": "2026-04-24T20:15:43.000Z",
+    "summary": "Tatsuya Endo's SPY×FAMILY Vol. 17 stays in the top 3 for a third consecutive week at No. 2.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/ticketmaster-caps-ticket-resale-ontario-canada-music-news/",
+    "source": "billboard",
+    "title": "In Canada: Ticketmaster Caps Resale Ticket Prices at Face Value in Ontario After Province Cracks Down on Scalpers",
+    "url": "https://www.billboard.com/pro/ticketmaster-caps-ticket-resale-ontario-canada-music-news/",
+    "publishedAt": "2026-04-24T20:07:26.000Z",
+    "summary": "Also this week: What will the Live Nation antitrust verdict in the U.S. mean for Canada's concert industry?",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/best-new-music-poll-vote-releases-noah-kahan-kehlani-1236231275/",
+    "source": "billboard",
+    "title": "Which New Music Release Is Your Favorite This Week? Vote!",
+    "url": "https://www.billboard.com/music/pop/best-new-music-poll-vote-releases-noah-kahan-kehlani-1236231275/",
+    "publishedAt": "2026-04-24T19:54:34.000Z",
+    "summary": "Both Noah Kahan and Kehlani dropped new albums.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rock/iron-maiden-documentary-interview-1236231322/",
+    "source": "billboard",
+    "title": "Iron Maiden Talks Career-Spanning Documentary, Famous Fans (Like Javier Bardem) & Rock Hall",
+    "url": "https://www.billboard.com/music/rock/iron-maiden-documentary-interview-1236231322/",
+    "publishedAt": "2026-04-24T19:49:01.000Z",
+    "summary": "Bardem, Lars Ulrich, Chuck D, Tom Morello, Gene Simmons, Scott Ian and Simon Gallup all appear in Iron Maiden: Burning Ambition.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/marilyn-manson-sobriety-speech/",
+    "source": "loudwire",
+    "title": "Marilyn Manson Halts Concert For 'Confession' About Sobriety",
+    "url": "https://loudwire.com/marilyn-manson-sobriety-speech/",
+    "publishedAt": "2026-04-24T19:47:37.000Z",
+    "summary": "The speech came during the first stop on Marilyn Manson's current U.S. tour. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/executive-turntable-wmc-india-umg-china/",
+    "source": "billboard",
+    "title": "Executive Turntable: Warner Chappell Launches Direct Operations in India, Roc Nation Ups Chris Knight",
+    "url": "https://www.billboard.com/lists/executive-turntable-wmc-india-umg-china/",
+    "publishedAt": "2026-04-24T19:08:20.000Z",
+    "summary": "Sam Hu has also been named managing director of Universal Music China, while other promotions and hires took place at Roc Nation, Danny Wimmer Presents and more.",
+    "image": null
+  },
+  {
     "id": "uncut-https://www.uncut.co.uk/publications/introducing-uncut-greats-willie-nelson-154402/",
     "source": "uncut",
     "title": "Introducing Uncut Greats…Willie Nelson!",
     "url": "https://www.uncut.co.uk/publications/introducing-uncut-greats-willie-nelson-154402/",
     "publishedAt": "2026-04-24T18:56:12.000Z",
     "summary": "Crazy!Crazy! Welcome to Uncut Greats! We’re the latest addition to the Uncut family of music titles. In this new magazine we’re taking what you might call a greatest hits approach – offering all the quality and expertise you’d expect from Uncut, while cutting straight to the chase. Like it says on the cover: the life […] The post Introducing Uncut Greats…Willie Nelson! appeared first on UNCUT.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/latin/best-new-music-latin-poll-trueno-quevedo-karol-g-releases-1236231139/",
-    "source": "billboard",
-    "title": "Trueno’s ‘TURR4ZO’ Album & More: Vote for the Best New Latin Music Release This Week",
-    "url": "https://www.billboard.com/music/latin/best-new-music-latin-poll-trueno-quevedo-karol-g-releases-1236231139/",
-    "publishedAt": "2026-04-24T18:50:30.000Z",
-    "summary": "Which new Latin music release is your favorite? Vote below!",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/how-to-get-peacock-free-trial-online-1236231069/",
-    "source": "billboard",
-    "title": "Here’s How to Get Peacock for Free",
-    "url": "https://www.billboard.com/culture/product-recommendations/how-to-get-peacock-free-trial-online-1236231069/",
-    "publishedAt": "2026-04-24T18:46:39.000Z",
-    "summary": "Thinking about joining Peacock? Here's the best way to score access for free.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/abercrombie-amp-fitch-band-tees-sale-shop-online-1236231015/",
-    "source": "billboard",
-    "title": "Abercrombie & Fitch’s Vintage-Inspired Band Tees From Selena Gomez to Red Hot Chili Peppers Are 15% Off for a Limited Time",
-    "url": "https://www.billboard.com/culture/product-recommendations/abercrombie-amp-fitch-band-tees-sale-shop-online-1236231015/",
-    "publishedAt": "2026-04-24T18:43:53.000Z",
-    "summary": "The sale tees are 100% cotton and come in a stylish oversized fit.",
     "image": null
   },
   {
@@ -45,39 +126,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/pro/live-nation-lawsuit-exec-fired-flagging-misconduct/",
-    "source": "billboard",
-    "title": "Live Nation Sued by Former Exec Claiming He Was Fired for Flagging ‘Serious Corporate Misconduct’",
-    "url": "https://www.billboard.com/pro/live-nation-lawsuit-exec-fired-flagging-misconduct/",
-    "publishedAt": "2026-04-24T18:36:13.000Z",
-    "summary": "Live Nation says the allegations are \"without merit,\" and that former executive vp Michael Rumanes was properly terminated for \"failing to meet expectations.\"",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-country/kacey-musgraves-szas-kill-bill-cover-bbc-live-lounge-1235553452/",
     "source": "rolling-stone",
     "title": "Kacey Musgraves Delivers Bewitching Rendition of SZA’s ‘Kill Bill’",
     "url": "https://www.rollingstone.com/music/music-country/kacey-musgraves-szas-kill-bill-cover-bbc-live-lounge-1235553452/",
     "publishedAt": "2026-04-24T18:25:35.000Z",
     "summary": "The singer also sang her raunchy hit \"Dry Spell\" during her appearance on BBC 1 Live Lounge",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/video/billboard-latin-women-in-music-2026-recap/",
-    "source": "billboard",
-    "title": "Billboard Latin Women In Music 2026 Recap: Gloria Trevi’s Performance, Becky G’s Selena Tribute & More | Billboard News",
-    "url": "https://www.billboard.com/video/billboard-latin-women-in-music-2026-recap/",
-    "publishedAt": "2026-04-24T18:16:59.000Z",
-    "summary": "Presented by Lexus, Billboard Latin Women In Music 2026 was all about celebrating Latinas who’ve made an impact in the music industry. We got to see Becky G tribute Selena Quintanilla’s “Dreaming of You,” Gloria Trevi accept the Musical Trajectory honor, Young Miko’s Unstoppable Artist honor and more! Keep watching to see everything you missed! […]",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/luke-combs-history-country-airplay-chart-1236231170/",
-    "source": "billboard",
-    "title": "Luke Combs Makes History Again at Nos. 1 & 2 on Country Airplay Chart",
-    "url": "https://www.billboard.com/music/chart-beat/luke-combs-history-country-airplay-chart-1236231170/",
-    "publishedAt": "2026-04-24T18:08:55.000Z",
-    "summary": "Plus, moves for Josh Ross and Stella Lefty.",
     "image": null
   },
   {
@@ -90,48 +144,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/pop/nmixx-members-world-tour-new-music-interview-1236223874/",
-    "source": "billboard",
-    "title": "NMIXX Talk First Tour, Recording a Single For Anderson .Paak’s ‘K-Pops!’ Film & ‘Experimenting’ on New Music",
-    "url": "https://www.billboard.com/music/pop/nmixx-members-world-tour-new-music-interview-1236223874/",
-    "publishedAt": "2026-04-24T18:01:44.000Z",
-    "summary": "“Last time was a showcase, so I feel like it was a taste of NMIXX,” Lily says of prior live performances. “This time is the whole meal.”",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/black-sabbath-settle-dispute-earth-demos-ownership-1235553436/",
     "source": "rolling-stone",
     "title": "Black Sabbath Settle Dispute Over Early Demos, Regain Ownership of Earth Tapes",
     "url": "https://www.rollingstone.com/music/music-news/black-sabbath-settle-dispute-earth-demos-ownership-1235553436/",
     "publishedAt": "2026-04-24T17:27:38.000Z",
     "summary": "Sharon Osbourne reveals band's first manager returned 1969 recordings back to the band: \"All of that stuff should be theirs. So it all ended well\"",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-    "source": "billboard",
-    "title": "Billboard’s Music Industry Events Calendar",
-    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-    "publishedAt": "2026-04-24T17:27:00.000Z",
-    "summary": "A complete rundown of the most important events across the music business.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/anne-murray-now-and-forever-chart-rewind-1986-1236230392/",
-    "source": "billboard",
-    "title": "Chart Rewind: In 1986, Anne Murray’s Fellow Canadians Cemented Her ‘Forever’ Legacy",
-    "url": "https://www.billboard.com/music/chart-beat/anne-murray-now-and-forever-chart-rewind-1986-1236230392/",
-    "publishedAt": "2026-04-24T17:25:01.000Z",
-    "summary": "The smooth alto vocalist topped Hot Country Songs with “Now and Forever (You & Me).”",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/olivia-rodrigo-new-album-about-first-big-girl-relationship-1236231064/",
-    "source": "billboard",
-    "title": "Olivia Rodrigo Says New Album Is About ‘Jealousy’ & ‘Longing’ She Felt in Her First ‘Big Girl’ Relationship",
-    "url": "https://www.billboard.com/music/music-news/olivia-rodrigo-new-album-about-first-big-girl-relationship-1236231064/",
-    "publishedAt": "2026-04-24T17:12:06.000Z",
-    "summary": "\"Writing a song about happiness is a lot harder than writing a song about heartbreak,\" she said.",
     "image": null
   },
   {
@@ -387,15 +405,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/ella-langley-morgan-wallen-new-song-i-cant-love-you-anymore-1235553151/",
-    "source": "rolling-stone",
-    "title": "Ella Langley and Morgan Wallen Release Duet ‘I Can’t Love You Anymore’",
-    "url": "https://www.rollingstone.com/music/music-news/ella-langley-morgan-wallen-new-song-i-cant-love-you-anymore-1235553151/",
-    "publishedAt": "2026-04-24T04:58:34.000Z",
-    "summary": "The country artists debuted the track last week during Wallen’s show in Tuscaloosa, Alabama",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/news/listen-to-lucy-dacus-new-song-planting-tomatoes/",
     "source": "pitchfork",
     "title": "Listen to Lucy Dacus’ New Song “Planting Tomatoes”",
@@ -492,15 +501,6 @@
     "url": "https://louderthanwar.com/bowie-odyssey-76-by-simon-goddard-book-review/",
     "publishedAt": "2026-04-23T18:20:58.000Z",
     "summary": "Simon Goddard “Bowie Odyssey 76! (Omnibus 2025) Published by Omnibus – out now Simon Goddard’s books tracing Bowie’s life and music from 1970 onwards are essential reading for any serious Bowie fan. In addition, the books are characterised by some very sharply observed digressions into the history and feel of the times. I can genuinely […] The post Bowie Odyssey 76: By Simon Goddard – Book Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/korn-family-values-tour-lineups/",
-    "source": "loudwire",
-    "title": "Looking Back at the 43 Bands Who Played Korn's Family Values Tour",
-    "url": "https://loudwire.com/korn-family-values-tour-lineups/",
-    "publishedAt": "2026-04-23T17:59:44.000Z",
-    "summary": "How many of these do you remember from Korn's massive Family Values Tours? Continue reading…",
     "image": null
   },
   {
