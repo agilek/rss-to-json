@@ -1,5 +1,23 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/video/le-sserafims-celebration-kicks-off-a-new-personal-era/",
+    "source": "billboard",
+    "title": "LE SSERAFIM’s ‘CELEBRATION’ Kicks Off a New & Personal Era | Billboard News",
+    "url": "https://www.billboard.com/video/le-sserafims-celebration-kicks-off-a-new-personal-era/",
+    "publishedAt": "2026-04-24T21:19:51.000Z",
+    "summary": "Tetris Kelly caught up with LE SSERAFIM in Seoul, South Korea, and the girls have a “CELEBRATION” that launches them into a new era. They tease what to expect from their upcoming studio album, their experience of their first VR concert, the surprise they felt when “SPAGHETTI” popped off, working with BTS’ J-HOPE on the […]",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/allison-jones-exec-vp-aampr-big-machine-records/",
+    "source": "billboard",
+    "title": "Allison Jones Named EVP of A&R at Big Machine Records/Nashville Harbor Records & Entertainment",
+    "url": "https://www.billboard.com/pro/allison-jones-exec-vp-aampr-big-machine-records/",
+    "publishedAt": "2026-04-24T21:02:37.000Z",
+    "summary": "The executive has played a key role in signing artists including Thomas Rhett, Florida Georgia Line, Riley Green, Carly Pearce and Midland.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/culture/product-recommendations/bts-arih-noodles-beverage-line-walmart-shop-online-1236231230/",
     "source": "billboard",
     "title": "BTS Is Selling Snacks & Energy Drinks at Walmart Now? Everything You Need to Know",
@@ -81,30 +99,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/rock/iron-maiden-documentary-interview-1236231322/",
-    "source": "billboard",
-    "title": "Iron Maiden Talks Career-Spanning Documentary, Famous Fans (Like Javier Bardem) & Rock Hall",
-    "url": "https://www.billboard.com/music/rock/iron-maiden-documentary-interview-1236231322/",
-    "publishedAt": "2026-04-24T19:49:01.000Z",
-    "summary": "Bardem, Lars Ulrich, Chuck D, Tom Morello, Gene Simmons, Scott Ian and Simon Gallup all appear in Iron Maiden: Burning Ambition.",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/marilyn-manson-sobriety-speech/",
     "source": "loudwire",
     "title": "Marilyn Manson Halts Concert For 'Confession' About Sobriety",
     "url": "https://loudwire.com/marilyn-manson-sobriety-speech/",
     "publishedAt": "2026-04-24T19:47:37.000Z",
     "summary": "The speech came during the first stop on Marilyn Manson's current U.S. tour. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/executive-turntable-wmc-india-umg-china/",
-    "source": "billboard",
-    "title": "Executive Turntable: Warner Chappell Launches Direct Operations in India, Roc Nation Ups Chris Knight",
-    "url": "https://www.billboard.com/lists/executive-turntable-wmc-india-umg-china/",
-    "publishedAt": "2026-04-24T19:08:20.000Z",
-    "summary": "Sam Hu has also been named managing director of Universal Music China, while other promotions and hires took place at Roc Nation, Danny Wimmer Presents and more.",
     "image": null
   },
   {
@@ -123,6 +123,15 @@
     "url": "https://pitchfork.com/news/lcd-soundsystem-announce-even-more-north-american-tour-dates/",
     "publishedAt": "2026-04-24T18:42:07.000Z",
     "summary": "James Murphy and co. will perform in cities including Minneapolis, Atlanta, and Vancouver",
+    "image": null
+  },
+  {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMingFBVV95cUxOemk4RmtWT3ZUak9tYjhBNG9zazgwRGs2NzRpLTlUdmpLOWstZlY0V3FfSlNXcjUzZTYyV1FRajFJOU1KRDR4YVlsbEpiNVhzTHItc1hvWlVGQ0JfVWFDUjgtN0dMeTQ1bnJhWklWZlJwS0J1eHo1YkJUVGhFMlZiV0tUSFF4Z0xGMjhSYnBNUndrOWVLbnFWOEhpRkNHZw?oc=5",
+    "source": "kerrang",
+    "title": "Slam Dunk Festival director to “step down from operations” amid allegations - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOemk4RmtWT3ZUak9tYjhBNG9zazgwRGs2NzRpLTlUdmpLOWstZlY0V3FfSlNXcjUzZTYyV1FRajFJOU1KRDR4YVlsbEpiNVhzTHItc1hvWlVGQ0JfVWFDUjgtN0dMeTQ1bnJhWklWZlJwS0J1eHo1YkJUVGhFMlZiV0tUSFF4Z0xGMjhSYnBNUndrOWVLbnFWOEhpRkNHZw?oc=5",
+    "publishedAt": "2026-04-24T18:30:00.000Z",
+    "summary": "Slam Dunk Festival director to “step down from operations” amid allegations Kerrang!",
     "image": null
   },
   {
@@ -708,15 +717,6 @@
     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQXhNUFItMDh3ZC1jVG9WNU9LME5yX000RlNzVXl1TnRnc2tidEhoQ0lONjd0UTNzNGZWTFg1aGltRVVOSHlPMUFnaGdaRjhqMUg1VHppZXdXTFZKbXBpT2p6b2VQWTl5bnE5YTRiYzE5VGhMYkZWU21HcVNkMVo4Qm1NRGF1TFZWcG1JNFpFeExKT0Fob09LZlNuMnpWb1V6b3g0MEQ4OGtUZGpMRC1LUjlaT1NneDNRczN1WlZmVkZwUk5NS29uREl3VEh3bmlCdkZXRQ?oc=5",
     "publishedAt": "2026-04-21T16:17:00.000Z",
     "summary": "mgk and Fred Durst join forces on nu-metal banger, FIX UR FACE Kerrang!",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMiakFVX3lxTE9BMzhwRmk4bXN4VTJuMEI0NnUyRGRmdW91V1ZPMWpDV0N2MllCcDBMQjAtNzhaZkFFSkVVM0N2V081MF9FQ2EtMnE5dkpuZThRM0QwdjhnbXNFR3NmZ2lObm5sSGhRUzJFcXc?oc=5",
-    "source": "kerrang",
-    "title": "Album review: Failure – Location Lost - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BMzhwRmk4bXN4VTJuMEI0NnUyRGRmdW91V1ZPMWpDV0N2MllCcDBMQjAtNzhaZkFFSkVVM0N2V081MF9FQ2EtMnE5dkpuZThRM0QwdjhnbXNFR3NmZ2lObm5sSGhRUzJFcXc?oc=5",
-    "publishedAt": "2026-04-21T12:00:00.000Z",
-    "summary": "Album review: Failure – Location Lost Kerrang!",
     "image": null
   }
 ]
