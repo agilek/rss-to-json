@@ -1,20 +1,128 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/rock/godsmack-sully-erna-interview-1236230469/",
+    "source": "billboard",
+    "title": "‘Definitely There’s Gonna be a New Record:’ Godsmack Crushes Retirement Talk",
+    "url": "https://www.billboard.com/music/rock/godsmack-sully-erna-interview-1236230469/",
+    "publishedAt": "2026-04-24T02:29:00.000Z",
+    "summary": "Godsmack's frontman Sully Erna tells Billboard that there is indeed more to come.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/noah-kahan-great-divide-album-review-tracks-ranked/",
+    "source": "billboard",
+    "title": "Noah Kahan’s ‘The Great Divide’: All 17 Tracks Ranked",
+    "url": "https://www.billboard.com/lists/noah-kahan-great-divide-album-review-tracks-ranked/",
+    "publishedAt": "2026-04-24T02:17:25.000Z",
+    "summary": "The anticipated album is a lyrically layered, musically rich follow-up to the folk-rocker's breakout set Stick Season.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/young-miko-shouts-out-feid-amp-shares-what-motivates-her/",
+    "source": "billboard",
+    "title": "Young Miko Shouts Out Feid & Shares What Motivates Her | Billboard Latin Women in Music 2026",
+    "url": "https://www.billboard.com/video/young-miko-shouts-out-feid-amp-shares-what-motivates-her/",
+    "publishedAt": "2026-04-24T02:08:36.000Z",
+    "summary": "Young Miko chatted with Billboard’s Ingrid Fajardo and Jessica Roiz ahead of Billboard Latin Women in Music 2026.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/villano-antillano-talks-new-single-pichersita-new-album/",
+    "source": "billboard",
+    "title": "Villano Antillano Talks New Single, “Pichersita,” & New Album | Billboard Latin Women in Music 2026",
+    "url": "https://www.billboard.com/video/villano-antillano-talks-new-single-pichersita-new-album/",
+    "publishedAt": "2026-04-24T02:01:42.000Z",
+    "summary": "Villano Antillano chatted with Billboard’s Ingrid Fajardo and Jessica Roiz ahead of Billboard Latin Women in Music 2026.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/photos/billboard-latin-women-in-music-2026-red-carpet-photos-1236230506/",
+    "source": "billboard",
+    "title": "Becky G, Young Miko, Chiquis & More on Billboard Latin Women in Music 2026 Red Carpet: Best Photos",
+    "url": "https://www.billboard.com/photos/billboard-latin-women-in-music-2026-red-carpet-photos-1236230506/",
+    "publishedAt": "2026-04-24T02:01:16.000Z",
+    "summary": "Returning for its fourth annual gala, the intimate awards ceremony celebrates the Latina artists who are redefining the music industry.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/natalia-lafourcade-inspired-julieta-venegas-tour-bblatinwim/",
+    "source": "billboard",
+    "title": "Natalia Lafourcade On Being Inspired By Julieta Venegas & Talks Being On Tour | Billboard Latin Women in Music 2026",
+    "url": "https://www.billboard.com/video/natalia-lafourcade-inspired-julieta-venegas-tour-bblatinwim/",
+    "publishedAt": "2026-04-24T01:47:16.000Z",
+    "summary": "Natalia Lafourcade chatted with Billboard’s Ingrid Fajardo and Jessica Roiz ahead of Billboard Latin Women in Music 2026.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/gloria-trevi-talks-her-show-in-la-recording-a-music-video/",
+    "source": "billboard",
+    "title": "Gloria Trevi Talks About Her Show In LA, Recording a Music Video For Her New Single & More | Billboard Latin Women in Music 2026",
+    "url": "https://www.billboard.com/video/gloria-trevi-talks-her-show-in-la-recording-a-music-video/",
+    "publishedAt": "2026-04-24T01:39:18.000Z",
+    "summary": "Gloria Trevi chatted with Billboard’s Ingrid Fajardo and Jessica Roiz ahead of Billboard Latin Women in Music 2026.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/latin/ivy-queen-pioneer-award-billboard-latin-women-in-music-2026-1236230559/",
+    "source": "billboard",
+    "title": "Ivy Queen Accepts Pioneer Award From Feid After Kicking Off Billboard Latin Women in Music 2026",
+    "url": "https://www.billboard.com/music/latin/ivy-queen-pioneer-award-billboard-latin-women-in-music-2026-1236230559/",
+    "publishedAt": "2026-04-24T01:38:09.000Z",
+    "summary": "The legendary Puerto Rican artist delivered a masterclass in female Latin urban power.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/becky-g-homage-selena-quintanilla-new-track-bblatinwim2026/",
+    "source": "billboard",
+    "title": "Becky G On Paying Homage To Selena Quintanilla & Her New Track ‘MARATHON’ | Billboard Latin Women in Music 2026",
+    "url": "https://www.billboard.com/video/becky-g-homage-selena-quintanilla-new-track-bblatinwim2026/",
+    "publishedAt": "2026-04-24T01:28:43.000Z",
+    "summary": "Becky G chatted with Billboard’s Ingrid Fajardo and Jessica Roiz ahead of Billboard Latin Women in Music 2026.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/david-bisbal-teases-new-album/",
+    "source": "billboard",
+    "title": "David Bisbal Teases New Album & New Latin American Tour, Talks “Vivir Así Es Morir De Amor” | Billboard Latin Women in Music 2026",
+    "url": "https://www.billboard.com/video/david-bisbal-teases-new-album/",
+    "publishedAt": "2026-04-24T01:19:07.000Z",
+    "summary": "David Bisbal chatted with Billboard’s Ingrid Fajardo and Jessica Roiz ahead of Billboard Latin Women in Music 2026.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/cher-son-elijah-conservatorship-bid-opposed-1235553145/",
+    "source": "rolling-stone",
+    "title": "Cher’s Son Elijah Blue Allman Opposes Conservatorship Bid Amid Criminal Charges",
+    "url": "https://www.rollingstone.com/music/music-news/cher-son-elijah-conservatorship-bid-opposed-1235553145/",
+    "publishedAt": "2026-04-24T01:10:04.000Z",
+    "summary": "The star is seeking a conservatorship over her son's finances, claiming he is \"gravely disabled\" following arrests in New Hampshire",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/former-police-officer-arrested-over-planned-shooting-at-louisiana-music-festival/",
+    "source": "pitchfork",
+    "title": "Former Police Officer Arrested Over Planned Shooting At Louisiana Music Festival",
+    "url": "https://pitchfork.com/news/former-police-officer-arrested-over-planned-shooting-at-louisiana-music-festival/",
+    "publishedAt": "2026-04-23T23:02:10.000Z",
+    "summary": "Christopher Gillum's family reported him missing in North Carolina after he had reportedly threatened to harm Black people",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/news/what-critics-are-saying-michael-movie-reviews/",
+    "source": "pitchfork",
+    "title": "What Critics Are Saying About Michael: “Like Being Frog-Marched Through a Wax Museum”",
+    "url": "https://pitchfork.com/news/news/what-critics-are-saying-michael-movie-reviews/",
+    "publishedAt": "2026-04-23T22:55:22.000Z",
+    "summary": "The reviews are damning, though there is praise for lead actor Jaafar Jackson",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/man-arrested-planning-mass-shooting-new-orleans-jazz-fest-1235553063/",
     "source": "rolling-stone",
     "title": "Man Arrested After Allegedly Making Plans for Mass Shooting at New Orleans Jazz Fest",
     "url": "https://www.rollingstone.com/music/music-news/man-arrested-planning-mass-shooting-new-orleans-jazz-fest-1235553063/",
     "publishedAt": "2026-04-23T22:45:17.000Z",
     "summary": "Former North Carolina police officer charged with making \"terroristic threats,\" arrested in Florida en route to music fest this weekend",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/tv-film/kevin-hart-camron-interview-dame-dash-1236230310/",
-    "source": "billboard",
-    "title": "Kevin Hart Comically Walks Off Cam’ron Interview After Being Asked About Dame Dash",
-    "url": "https://www.billboard.com/culture/tv-film/kevin-hart-camron-interview-dame-dash-1236230310/",
-    "publishedAt": "2026-04-23T22:21:26.000Z",
-    "summary": "Hart & Cam'ron appeared in the Dash-produced Paper Soldiers film back in 2002.",
     "image": null
   },
   {
@@ -27,93 +135,21 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/latin/quevedo-talks-new-album-el-baifo-tribute-canary-islands-1236228854/",
-    "source": "billboard",
-    "title": "Quevedo Presents a Portrait of Identity & Memory With ‘El Baifo’: ‘I Would Love for People to Understand Where I Come From’",
-    "url": "https://www.billboard.com/music/latin/quevedo-talks-new-album-el-baifo-tribute-canary-islands-1236228854/",
-    "publishedAt": "2026-04-23T22:00:00.000Z",
-    "summary": "For his third studio album, the Spanish artist blends reggaeton & merengue with elements linked to the Canary Islands.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/music-publisher-rankings-2025-sony-no-1-kendrick-lamar/",
-    "source": "billboard",
-    "title": "Sony Dominates 2025 Publisher Rankings With Hits by Leon Thomas, Kendrick Lamar & Alex Warren",
-    "url": "https://www.billboard.com/pro/music-publisher-rankings-2025-sony-no-1-kendrick-lamar/",
-    "publishedAt": "2026-04-23T21:49:32.000Z",
-    "summary": "The publisher finished at No. 1 on both the Hot 100 and Radio Airplay tallies last year, besting runner-up Warner Chappell by substantial margins.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/hilton-santa-barbara-beachfront-resort-sale-book-online-1236229489/",
-    "source": "billboard",
-    "title": "Hilton’s Santa Barbara Beachfront Resort Is a Paradise for Music Lovers — Here’s Why",
-    "url": "https://www.billboard.com/culture/product-recommendations/hilton-santa-barbara-beachfront-resort-sale-book-online-1236229489/",
-    "publishedAt": "2026-04-23T21:39:47.000Z",
-    "summary": "Enjoy coastal charm, iconic concert venues & music festivals during this California escape.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/pop/zara-larsson-whether-deserved-play-arenas-over-tate-mcrae-1236230324/",
-    "source": "billboard",
-    "title": "Zara Larsson Addresses Fans Who Tried to Pit Her Against Tourmate Tate McRae: It’s ‘How People Speak About Girls in Pop’",
-    "url": "https://www.billboard.com/music/pop/zara-larsson-whether-deserved-play-arenas-over-tate-mcrae-1236230324/",
-    "publishedAt": "2026-04-23T21:35:47.000Z",
-    "summary": "Larsson sat down with Call Her Daddy ahead of both pop stars being honored at Billboard's 2026 Women in Music event next week.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/jack-harlow-drake-best-rapper-alive-1236230309/",
-    "source": "billboard",
-    "title": "Jack Harlow Pinpoints the Moment He Decided Drake Was the ‘Best Rapper Alive’",
-    "url": "https://www.billboard.com/music/rb-hip-hop/jack-harlow-drake-best-rapper-alive-1236230309/",
-    "publishedAt": "2026-04-23T21:24:19.000Z",
-    "summary": "The Kentucky rapper also talked about his experience in the studio with Drake and seeing his \"skillset in real time.\"",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/diana-ross-scenes-michael-jackson-movie-cut-kat-graham-1236230326/",
-    "source": "billboard",
-    "title": "Here’s Why Kat Graham’s Scenes as Diana Ross Were Cut From Michael Jackson Biopic",
-    "url": "https://www.billboard.com/music/music-news/diana-ross-scenes-michael-jackson-movie-cut-kat-graham-1236230326/",
-    "publishedAt": "2026-04-23T21:15:19.000Z",
-    "summary": "The actress explains why her scenes are no longer in the buzzy Michael film.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/the-strokes-2026-tour-tickets-buy-online-1236229873/",
-    "source": "billboard",
-    "title": "The Strokes ‘Reality Awaits’ Tour 2026: Where to Get Affordable Concert Tickets Online",
-    "url": "https://www.billboard.com/culture/product-recommendations/the-strokes-2026-tour-tickets-buy-online-1236229873/",
-    "publishedAt": "2026-04-23T20:42:05.000Z",
-    "summary": "The iconic indie rock band hits the road, with tour dates throughout the U.S. starting June 12.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/tax-season-mess-touring-music-artists/",
-    "source": "billboard",
-    "title": "How Tax Season Becomes a Mess for Touring Musicians",
-    "url": "https://www.billboard.com/pro/tax-season-mess-touring-music-artists/",
-    "publishedAt": "2026-04-23T20:38:58.000Z",
-    "summary": "Touring musicians often have to file taxes for each state they performed in — and no, their wardrobe might not qualify for a deduction.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/charlie-puth-setlist-songs-whatevers-clever-tour/",
-    "source": "billboard",
-    "title": "Charlie Puth Kicks Off Whatever’s Clever! Tour With Career-Spanning Setlist: Every Song He Played",
-    "url": "https://www.billboard.com/lists/charlie-puth-setlist-songs-whatevers-clever-tour/",
-    "publishedAt": "2026-04-23T20:20:46.000Z",
-    "summary": "The singer's show included throwback hits and tracks from his latest album.",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/turnstile-night-baltimore-orioles/",
     "source": "loudwire",
     "title": "Turnstile Get Their Own Promotional Night With Baltimore Orioles",
     "url": "https://loudwire.com/turnstile-night-baltimore-orioles/",
     "publishedAt": "2026-04-23T19:42:41.000Z",
     "summary": "Hardcore music may have reached a new level with the Baltimore Orioles upcoming promotional night. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMi1AFBVV95cUxOd2Q4b3UtQlh1NmR4d05mSzBRa3dIaXIwbXE2MF9YS0RTS3BfVXhPazEyOEpXaWFzOF93cXVzc3AwWnFFWTZwM0Y0cjJfMDd2OW4yb0Rac2R0NEsyNUxZdUpsZUhrU0haV1dURzJpc2hRNXpLUnNVNTNJTFdGdldnaVRxSHVPR1FfWUFzN25vakpVSXZHanRseHZ2NVVSRVh0Vl9Qck5BYXNRTDFfVUxsUEc0TWpWYzBEQXc2TnIxajNnVzY3aWJLa0NyTzVJSmJEVlRkaQ?oc=5",
+    "source": "nme",
+    "title": "D4vd was allegedly in possession of “a significant amount of child pornography”, the court heard today - NME",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOd2Q4b3UtQlh1NmR4d05mSzBRa3dIaXIwbXE2MF9YS0RTS3BfVXhPazEyOEpXaWFzOF93cXVzc3AwWnFFWTZwM0Y0cjJfMDd2OW4yb0Rac2R0NEsyNUxZdUpsZUhrU0haV1dURzJpc2hRNXpLUnNVNTNJTFdGdldnaVRxSHVPR1FfWUFzN25vakpVSXZHanRseHZ2NVVSRVh0Vl9Qck5BYXNRTDFfVUxsUEc0TWpWYzBEQXc2TnIxajNnVzY3aWJLa0NyTzVJSmJEVlRkaQ?oc=5",
+    "publishedAt": "2026-04-23T19:22:19.000Z",
+    "summary": "D4vd was allegedly in possession of “a significant amount of child pornography”, the court heard today NME",
     "image": null
   },
   {
@@ -180,21 +216,21 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/geese-2026-north-american-tour-dates-getting-killed-1235552647/",
-    "source": "rolling-stone",
-    "title": "Geese Are Going on Tour and ‘Getting Killed’ Again This Fall",
-    "url": "https://www.rollingstone.com/music/music-news/geese-2026-north-american-tour-dates-getting-killed-1235552647/",
-    "publishedAt": "2026-04-23T17:00:00.000Z",
-    "summary": "The band has announced a fresh slate of dates starting in September and wrapping in November",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/news/geese-set-2026-north-american-tour-dates/",
     "source": "pitchfork",
     "title": "Geese Set 2026 North American Tour Dates",
     "url": "https://pitchfork.com/news/geese-set-2026-north-american-tour-dates/",
     "publishedAt": "2026-04-23T17:00:00.000Z",
     "summary": "Prepare for Getting Killed Again with Cameron Winter and co.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/geese-2026-north-american-tour-dates-getting-killed-1235552647/",
+    "source": "rolling-stone",
+    "title": "Geese Are Going on Tour and ‘Getting Killed’ Again This Fall",
+    "url": "https://www.rollingstone.com/music/music-news/geese-2026-north-american-tour-dates-getting-killed-1235552647/",
+    "publishedAt": "2026-04-23T17:00:00.000Z",
+    "summary": "The band has announced a fresh slate of dates starting in September and wrapping in November",
     "image": null
   },
   {
@@ -297,15 +333,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/baz-halpin-tour-taylor-swift-no-doubt-sphere-1235525919/",
-    "source": "rolling-stone",
-    "title": "Inside Baz Halpin’s Spectacular Visions for Taylor Swift, No Doubt, and More",
-    "url": "https://www.rollingstone.com/music/music-features/baz-halpin-tour-taylor-swift-no-doubt-sphere-1235525919/",
-    "publishedAt": "2026-04-23T14:00:00.000Z",
-    "summary": "The Irish producer and director talks about his approach to staging some of music’s biggest live events",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMirAFBVV95cUxOS0tkTXRWLU9fc2ozVGJ3T2xKR0VFdkRJSmR0LUFqMENvTjFiekJmakM5bEUwLWpJRk9zSTNIMUUwQ0lVTE1FcXdsTXdLS3pkTVJfdG1rdm4zeWp4WmtqbkNYTGNHd2F6eERNWXo5VGR0T25FS24wVWRYbVVLbTlVWk55VElXQ3RxbWxlSFREck92WXRxaTRIa0ZydTVVZnBHRmNaamFvV1FkUy16?oc=5",
     "source": "nme",
     "title": "These are Spotify’s most streamed artists, songs and albums of all time - NME",
@@ -339,6 +366,15 @@
     "url": "https://loudwire.com/slayer-los-angeles-2026-tour-date/",
     "publishedAt": "2026-04-23T12:37:53.000Z",
     "summary": "Slayer have five dates in total booked for 2026 now. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMilgFBVV95cUxQVlBid1d1enJ6Uy1LdldtX3VBdUdJTjZOdzVDUHp0eHY1SHl5NmdodFhyVGhxRzdKbnJNS3U2V215MVE3TXduZlpfTGlCQnBmQWlqM1ZvTzAwTlpIU2psNXNsRmpvWnFnTUI5cno2RjhOWEFmc3h5dm50LUY5OVRuYXg0T2o2SzdRSHk1bTFXTG9TeUtCMnc?oc=5",
+    "source": "kerrang",
+    "title": "Album review: Armed For Apocalypse – The Earth Is Breathing Beneath Me - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVlBid1d1enJ6Uy1LdldtX3VBdUdJTjZOdzVDUHp0eHY1SHl5NmdodFhyVGhxRzdKbnJNS3U2V215MVE3TXduZlpfTGlCQnBmQWlqM1ZvTzAwTlpIU2psNXNsRmpvWnFnTUI5cno2RjhOWEFmc3h5dm50LUY5OVRuYXg0T2o2SzdRSHk1bTFXTG9TeUtCMnc?oc=5",
+    "publishedAt": "2026-04-23T12:00:00.000Z",
+    "summary": "Album review: Armed For Apocalypse – The Earth Is Breathing Beneath Me Kerrang!",
     "image": null
   },
   {
@@ -450,15 +486,6 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMipAFBVV95cUxPdExyNGRxZldkT2o0Z1M1STQ4TEdZNUxlOG43UWlDLXdHeDhNQVpzRmQwcG4yZTIwTUtqRFpGZi1YWC0zbGFCN2luQUVXRlV2TklWa0szMDg0THZhZk1walc2ajJOS2JhZTdwSUNSUnZPNzcxOGlQNUc3NzRyZW52NDFBMVhoS0VBb3pYTUdYS1NnYzNHeTdsTGhoOWdmQU1HN1ZRUg?oc=5",
-    "source": "nme",
-    "title": "Boards Of Canada announce ‘Inferno’ – their first album in 13 years - NME",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdExyNGRxZldkT2o0Z1M1STQ4TEdZNUxlOG43UWlDLXdHeDhNQVpzRmQwcG4yZTIwTUtqRFpGZi1YWC0zbGFCN2luQUVXRlV2TklWa0szMDg0THZhZk1walc2ajJOS2JhZTdwSUNSUnZPNzcxOGlQNUc3NzRyZW52NDFBMVhoS0VBb3pYTUdYS1NnYzNHeTdsTGhoOWdmQU1HN1ZRUg?oc=5",
-    "publishedAt": "2026-04-22T20:11:22.000Z",
-    "summary": "Boards Of Canada announce ‘Inferno’ – their first album in 13 years NME",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/mgk-diss-yungblud-osbournes-fix-ur-face/",
     "source": "loudwire",
     "title": "Did mgk Just Diss Yungblud + The Osbournes on New Song? ",
@@ -519,24 +546,6 @@
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUkZmZlpmNlZwdkxwbllQd1pwZFR0VVprSUgzdHZmRUxCRktfUHVTSHoxQUl6YmRpczNUT3VNaVhxS0w0UXA4OGxuTWtnYnc2UGZKYy04dm5wcmFZTjk2RVpRWi04ZUhrVFY2T2w3MlRGQW8tUlZROHBPYm9FOEZGMGpueWhlUmJwSkpOLXoyeXRVNTBzaDh0cGQtVWt6Ui1GSm5nN2VZSmFybnJ1M1VsZmtSRlJMWXZDQUZMRjZR?oc=5",
     "publishedAt": "2026-04-22T16:07:00.000Z",
     "summary": "Airbourne announce new, self-titled album via a letter to Lemmy Kerrang!",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/news/smerz-reveal-new-easy-ep-and-song-spring-summer/",
-    "source": "pitchfork",
-    "title": "Smerz Reveal New Easy EP and Song “Spring Summer”",
-    "url": "https://pitchfork.com/news/smerz-reveal-new-easy-ep-and-song-spring-summer/",
-    "publishedAt": "2026-04-22T15:41:18.000Z",
-    "summary": "The Norwegian duo return with another dose of postmodern pop, due out next month",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/news/grouper-lines-up-mini-us-tour/",
-    "source": "pitchfork",
-    "title": "Grouper Lines Up Mini North American Tour",
-    "url": "https://pitchfork.com/news/grouper-lines-up-mini-us-tour/",
-    "publishedAt": "2026-04-22T15:30:33.000Z",
-    "summary": "The singer will play six shows in the fall",
     "image": null
   },
   {
@@ -708,15 +717,6 @@
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9pTHdOdklaaDBBQzdrcFYxam5EbXl6MVlzbnpYQ284a1l3cGgxSTZzTnJnVE1tbGYzbjhGaFZnbE5aYXFWWUpSSjRPUnpCa3hPRVY1eEdsRGVRVmNveGNFSUhhTDFjMnllNXYxTVlLNWw?oc=5",
     "publishedAt": "2026-04-21T07:00:00.000Z",
     "summary": "Album review: Roman Candle – Unadulterated Kerrang!",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMidEFVX3lxTFBnS2VXQXZqWHI1NVpMcm1oaUprS1VfXzNiU0RzelUxVDdfZDdFZ2xtTTc4bXFGNVdTYy1CVllheVUtWjZLc3dKQjV1VjRoVnRZOE5KN29CNGFQajRfVnd1dUJYZmRQWFpQc3BLMHBxZ1lzbkIx?oc=5",
-    "source": "kerrang",
-    "title": "Album review: Atreyu – The End Is Not The End - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBnS2VXQXZqWHI1NVpMcm1oaUprS1VfXzNiU0RzelUxVDdfZDdFZ2xtTTc4bXFGNVdTYy1CVllheVUtWjZLc3dKQjV1VjRoVnRZOE5KN29CNGFQajRfVnd1dUJYZmRQWFpQc3BLMHBxZ1lzbkIx?oc=5",
-    "publishedAt": "2026-04-20T09:27:00.000Z",
-    "summary": "Album review: Atreyu – The End Is Not The End Kerrang!",
     "image": null
   }
 ]
