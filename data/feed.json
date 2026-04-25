@@ -1,5 +1,23 @@
 [
   {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/ashlee-simpson-la-la-3oh3-emo-nite-stagecoach-1235553666/",
+    "source": "rolling-stone",
+    "title": "Ashlee Simpson Brings the Y2K Nostalgia to Emo Nite at Stagecoach",
+    "url": "https://www.rollingstone.com/music/music-news/ashlee-simpson-la-la-3oh3-emo-nite-stagecoach-1235553666/",
+    "publishedAt": "2026-04-25T07:05:14.000Z",
+    "summary": "3OH!3 also performed at Diplo’s Honky Tonk and had the crowd singing along to their breakout hit \"Don't Trust Me\"",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/concerts/xaviersobased-australia-tour-2026-1236231414/",
+    "source": "billboard",
+    "title": "Xaviersobased Announces Debut Australia Tour With Vivid LIVE Date",
+    "url": "https://www.billboard.com/music/concerts/xaviersobased-australia-tour-2026-1236231414/",
+    "publishedAt": "2026-04-25T06:11:37.000Z",
+    "summary": "The upcoming Australian dates will feature support from ksuuvi and Backend.",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/bigxthaplug-ella-langley-stagecoach-performance-1235552532/",
     "source": "rolling-stone",
     "title": "BigXthaPlug Leads a Sing-a-Long to Ella Langley’s ‘Choosin’ Texas,’ Delivers the Hits to Stagecoach",
@@ -126,15 +144,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/ryo-asai-in-the-megachurch-billboard-japan-book-hot-100-1236231364/",
-    "source": "billboard",
-    "title": "Ryo Asai’s ‘In the Megachurch’ Tops Billboard Japan Book Hot 100 in Its 25th Week",
-    "url": "https://www.billboard.com/music/chart-beat/ryo-asai-in-the-megachurch-billboard-japan-book-hot-100-1236231364/",
-    "publishedAt": "2026-04-24T20:15:43.000Z",
-    "summary": "Tatsuya Endo's SPY×FAMILY Vol. 17 stays in the top 3 for a third consecutive week at No. 2.",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/marilyn-manson-sobriety-speech/",
     "source": "loudwire",
     "title": "Marilyn Manson Halts Concert For 'Confession' About Sobriety",
@@ -225,15 +234,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/noah-kahan-kehlani-lucy-dacus-songs-you-need-to-know-1235553287/",
-    "source": "rolling-stone",
-    "title": "Noah Kahan, Kehlani, Lucy Dacus, and All the Songs You Need to Know This Week",
-    "url": "https://www.rollingstone.com/music/music-features/noah-kahan-kehlani-lucy-dacus-songs-you-need-to-know-1235553287/",
-    "publishedAt": "2026-04-24T16:38:08.000Z",
-    "summary": "Looking for the week’s best new music? Check out our Songs You Need to Know playlist",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/kid-mero-tool-lateralus-review/",
     "source": "loudwire",
     "title": "'This S—t Is A—' - Comedian Slams Tool's Biggest Album",
@@ -249,6 +249,15 @@
     "url": "https://pitchfork.com/news/stagecoach-2026-livestream-schedule-and-details/",
     "publishedAt": "2026-04-24T16:10:31.000Z",
     "summary": "Find out when to see Post Malone, Lainey Wilson, Cody Johnson, and more",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV3Nwc1E1cUFVbEtacUZoQzFWRHhldFhEQXRTa0l0QnFFVDA5YnNLR1FoSTBmbUtITVl1NVhXZkwtbVg4d2hHYnIxdmpoeTdiaXp5enNraWo5UkpSd2lqZ3lFUkpXTWtwWWk2VWc3MDRVVG9XakhDbGJRMHVybjVidk0tbVYzSHAwZkNFaS1ETzg1WXd4eEtTZ3pZZS0wQnQtMDJTQXBNbnZLQUxTalpXOXNFckNucTFKV3JmNjhIRVE?oc=5",
+    "source": "nme",
+    "title": "Manic Street Preachers and Suede announce 2026 co-headline UK arena tour - NME",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV3Nwc1E1cUFVbEtacUZoQzFWRHhldFhEQXRTa0l0QnFFVDA5YnNLR1FoSTBmbUtITVl1NVhXZkwtbVg4d2hHYnIxdmpoeTdiaXp5enNraWo5UkpSd2lqZ3lFUkpXTWtwWWk2VWc3MDRVVG9XakhDbGJRMHVybjVidk0tbVYzSHAwZkNFaS1ETzg1WXd4eEtTZ3pZZS0wQnQtMDJTQXBNbnZLQUxTalpXOXNFckNucTFKV3JmNjhIRVE?oc=5",
+    "publishedAt": "2026-04-24T16:03:30.000Z",
+    "summary": "Manic Street Preachers and Suede announce 2026 co-headline UK arena tour NME",
     "image": null
   },
   {
@@ -411,6 +420,15 @@
     "url": "https://louderthanwar.com/the-veils-aurora-video-premiere/",
     "publishedAt": "2026-04-24T08:55:22.000Z",
     "summary": "Photo credit: Frances Carter Being a project that have criminally passed me by, The Veils release a heartfelt piece of torch song piano led music that has entered the Wayne AF stratosphere on a soothing level with an artistic piece of melodic soothing soul that hits the spot. Now lets get started on that back […] The post The Veils: Aurora – Video Premiere. appeared first on Louder Than War.",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMiowFBVV95cUxNTjgxYkVrUy1KOFV4TmR1V3NRNkZjZU5ZbjNZUVV1VmR2TFNFYTB2VmV4Zm1EdG1vWTI1aXZRSHI3cUJZTnM2a09NR2NZOTdlWmxDZkVTYV9heXA1VnNfZl9IN2FMUzRPVlJqdUY5NXhNbWZNWHppLUdSak85WFVfWjdZWWdfZm5RXzdhOW04NjdfWU5TTld1ZURVZUdWMTdrQTg0?oc=5",
+    "source": "nme",
+    "title": "Ringo Starr tells us about the resurgence of country music – and the energy it brought to The Beatles - NME",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTjgxYkVrUy1KOFV4TmR1V3NRNkZjZU5ZbjNZUVV1VmR2TFNFYTB2VmV4Zm1EdG1vWTI1aXZRSHI3cUJZTnM2a09NR2NZOTdlWmxDZkVTYV9heXA1VnNfZl9IN2FMUzRPVlJqdUY5NXhNbWZNWHppLUdSak85WFVfWjdZWWdfZm5RXzdhOW04NjdfWU5TTld1ZURVZUdWMTdrQTg0?oc=5",
+    "publishedAt": "2026-04-24T08:31:10.000Z",
+    "summary": "Ringo Starr tells us about the resurgence of country music – and the energy it brought to The Beatles NME",
     "image": null
   },
   {
@@ -582,24 +600,6 @@
     "url": "https://www.uncut.co.uk/news/bon-iver-reveal-details-of-bob-dylan-covers-set-154346/",
     "publishedAt": "2026-04-23T15:03:47.000Z",
     "summary": "Hear Bon Dylan's rehearsal version of \"Not Dark Yet\" now The post Bon Iver share details of Bob Dylan covers set at Eaux Claires Festival in July appeared first on UNCUT.",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMirAFBVV95cUxOS0tkTXRWLU9fc2ozVGJ3T2xKR0VFdkRJSmR0LUFqMENvTjFiekJmakM5bEUwLWpJRk9zSTNIMUUwQ0lVTE1FcXdsTXdLS3pkTVJfdG1rdm4zeWp4WmtqbkNYTGNHd2F6eERNWXo5VGR0T25FS24wVWRYbVVLbTlVWk55VElXQ3RxbWxlSFREck92WXRxaTRIa0ZydTVVZnBHRmNaamFvV1FkUy16?oc=5",
-    "source": "nme",
-    "title": "These are Spotify’s most streamed artists, songs and albums of all time - NME",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS0tkTXRWLU9fc2ozVGJ3T2xKR0VFdkRJSmR0LUFqMENvTjFiekJmakM5bEUwLWpJRk9zSTNIMUUwQ0lVTE1FcXdsTXdLS3pkTVJfdG1rdm4zeWp4WmtqbkNYTGNHd2F6eERNWXo5VGR0T25FS24wVWRYbVVLbTlVWk55VElXQ3RxbWxlSFREck92WXRxaTRIa0ZydTVVZnBHRmNaamFvV1FkUy16?oc=5",
-    "publishedAt": "2026-04-23T13:54:46.000Z",
-    "summary": "These are Spotify’s most streamed artists, songs and albums of all time NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUkVseHNZUGNxMldDYmhDWGFMcm5ZMUF3NmhOOXVMWW1wN2hvaFFVVWJHdFNrcEM2cWRacFZ2NmRCWWRDbm1wRkwyLVUzMGR5d3FBLThETDh4S2J5TjkyTFhkT3Z1WEdYTG5jam0wdF9pNG5IeW43Z0Mtc3RiRXAyYS02SHFLLTVJNTJUQVVNc2VxWjZSMThXVFFZUWJrS3JaS043NlJtQzdNaDN2czNxYkYzVHlmby00WF90YWlDc01mRzF5cUhCMDBrSnZISkVxdHZiaVhB?oc=5",
-    "source": "nme",
-    "title": "Radiohead's Ed O'Brien shares hypnotic new single 'Incantations' and announces UK 'In Conversation' events - NME",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUkVseHNZUGNxMldDYmhDWGFMcm5ZMUF3NmhOOXVMWW1wN2hvaFFVVWJHdFNrcEM2cWRacFZ2NmRCWWRDbm1wRkwyLVUzMGR5d3FBLThETDh4S2J5TjkyTFhkT3Z1WEdYTG5jam0wdF9pNG5IeW43Z0Mtc3RiRXAyYS02SHFLLTVJNTJUQVVNc2VxWjZSMThXVFFZUWJrS3JaS043NlJtQzdNaDN2czNxYkYzVHlmby00WF90YWlDc01mRzF5cUhCMDBrSnZISkVxdHZiaVhB?oc=5",
-    "publishedAt": "2026-04-23T13:54:15.000Z",
-    "summary": "Radiohead's Ed O'Brien shares hypnotic new single 'Incantations' and announces UK 'In Conversation' events NME",
     "image": null
   },
   {
