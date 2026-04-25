@@ -1,5 +1,32 @@
 [
   {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/fact-checking-michael-jackson-biopic-movie-whats-real-1235552596/",
+    "source": "rolling-stone",
+    "title": "CGI Chimps and a World Without Janet: Fact-Checking the Michael Jackson Biopic",
+    "url": "https://www.rollingstone.com/music/music-features/fact-checking-michael-jackson-biopic-movie-whats-real-1235552596/",
+    "publishedAt": "2026-04-25T13:00:00.000Z",
+    "summary": "Michael unsurprisingly strays far from the historical record and even erases three of the nine Jackson children",
+    "image": null
+  },
+  {
+    "id": "uncut-https://www.uncut.co.uk/features/michael-loved-all-that-going-to-hollywood-the-making-of-i-want-you-back-by-the-jackson-5-154372/",
+    "source": "uncut",
+    "title": "“Michael loved all that, going to Hollywood…” – The Making Of “I Want You Back”, by The Jackson 5",
+    "url": "https://www.uncut.co.uk/features/michael-loved-all-that-going-to-hollywood-the-making-of-i-want-you-back-by-the-jackson-5-154372/",
+    "publishedAt": "2026-04-25T13:00:00.000Z",
+    "summary": "Includes cameos from Hendrix, Marley and more! The post “Michael loved all that, going to Hollywood…” – The Making Of “I Want You Back”, by The Jackson 5 appeared first on UNCUT.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/best-pop-punk-album-each-year-2000s/",
+    "source": "loudwire",
+    "title": "The Best Pop-Punk Album of Each Year of the 2000's",
+    "url": "https://loudwire.com/best-pop-punk-album-each-year-2000s/",
+    "publishedAt": "2026-04-25T11:15:30.000Z",
+    "summary": "The decade was flooded with material from some of the genre's biggest acts. Continue reading…",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/music-news/jimmy-barnes-inxs-lead-tributes-to-james-valentine-death-1236231419/",
     "source": "billboard",
     "title": "Jimmy Barnes, INXS Lead Tributes to James Valentine Following Death at 64",
@@ -24,6 +51,15 @@
     "url": "https://www.rollingstone.com/music/music-news/ashlee-simpson-la-la-3oh3-emo-nite-stagecoach-1235553666/",
     "publishedAt": "2026-04-25T07:05:14.000Z",
     "summary": "3OH!3 also performed at Diplo’s Honky Tonk and had the crowd singing along to their breakout hit \"Don't Trust Me\"",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMisAFBVV95cUxNUlpON0p2R2xwU0xUdFdBak83c2c4YnVRV3FneVhsM051OHFWVnRSaVNxbGZuTXViUEJNUXNneVlUZ005MWNSLXQtOTZWNTJmbHpLWlRWXzF6SENIV0wwSkRHVXE3SUhpYTFmRjVwZmlhTHRUcTk0S0VuRkxFMmUwVVNfZzRlaGNJQVJrTnNUanc3SUhGdUxYeDhydzJZUXhiSENUaUFUdnJGeGNGRW9taQ?oc=5",
+    "source": "nme",
+    "title": "Tom Rowley on how playing with Arctic Monkeys shaped his debut album: \"You come across some fucking mad people\" - NME",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUlpON0p2R2xwU0xUdFdBak83c2c4YnVRV3FneVhsM051OHFWVnRSaVNxbGZuTXViUEJNUXNneVlUZ005MWNSLXQtOTZWNTJmbHpLWlRWXzF6SENIV0wwSkRHVXE3SUhpYTFmRjVwZmlhTHRUcTk0S0VuRkxFMmUwVVNfZzRlaGNJQVJrTnNUanc3SUhGdUxYeDhydzJZUXhiSENUaUFUdnJGeGNGRW9taQ?oc=5",
+    "publishedAt": "2026-04-25T07:00:17.000Z",
+    "summary": "Tom Rowley on how playing with Arctic Monkeys shaped his debut album: \"You come across some fucking mad people\" NME",
     "image": null
   },
   {
@@ -222,15 +258,6 @@
     "url": "https://www.rollingstone.com/music/music-news/black-sabbath-settle-dispute-earth-demos-ownership-1235553436/",
     "publishedAt": "2026-04-24T17:27:38.000Z",
     "summary": "Sharon Osbourne reveals band's first manager returned 1969 recordings back to the band: \"All of that stuff should be theirs. So it all ended well\"",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/bette-midler-trump-protest-song-woody-guthrie-1235551914/",
-    "source": "rolling-stone",
-    "title": "Bette Midler Is Bringing Back the Protest Song",
-    "url": "https://www.rollingstone.com/music/music-news/bette-midler-trump-protest-song-woody-guthrie-1235551914/",
-    "publishedAt": "2026-04-24T16:54:52.000Z",
-    "summary": "The triple-threat legend talks about revamping a Woody Guthrie classic into an anti-Trump anthem and why older generations are responsible for calling out fascism",
     "image": null
   },
   {
@@ -522,24 +549,6 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMitgFBVV95cUxNaG5MSGZJYkJ5NEUzaDVCZHJhbjVvRW0xNnpnN2pxNG9LVW1RWk5sbnIyRHhWb203d2gxQTdORTR0RnFKS0ttcHBuRGdBNHpUU2tLZEZBUmpUMkdOVFBPRFJ4dkZlYW9QajJPc3d1Zjc3cjRGczR1aWpaTDFuSnVQRXBCRTAyclFSOTljNlROTXNsV2RuTEdnRjNseWZ2S1hmcktsM0didkRsVjhUVVVRMXFfaVhRUQ?oc=5",
-    "source": "nme",
-    "title": "Dave Grohl recalls accidentally insulting David Bowie: \"I backpedalled so fast\" - NME",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaG5MSGZJYkJ5NEUzaDVCZHJhbjVvRW0xNnpnN2pxNG9LVW1RWk5sbnIyRHhWb203d2gxQTdORTR0RnFKS0ttcHBuRGdBNHpUU2tLZEZBUmpUMkdOVFBPRFJ4dkZlYW9QajJPc3d1Zjc3cjRGczR1aWpaTDFuSnVQRXBCRTAyclFSOTljNlROTXNsV2RuTEdnRjNseWZ2S1hmcktsM0didkRsVjhUVVVRMXFfaVhRUQ?oc=5",
-    "publishedAt": "2026-04-23T20:15:28.000Z",
-    "summary": "Dave Grohl recalls accidentally insulting David Bowie: \"I backpedalled so fast\" NME",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/turnstile-night-baltimore-orioles/",
-    "source": "loudwire",
-    "title": "Turnstile Get Their Own Promotional Night With Baltimore Orioles",
-    "url": "https://loudwire.com/turnstile-night-baltimore-orioles/",
-    "publishedAt": "2026-04-23T19:42:41.000Z",
-    "summary": "Hardcore music may have reached a new level with the Baltimore Orioles upcoming promotional night. Continue reading…",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/bowie-odyssey-76-by-simon-goddard-book-review/",
     "source": "louder-than-war",
     "title": "Bowie Odyssey 76: By Simon Goddard – Book Review",
@@ -672,15 +681,6 @@
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONk1MNDNRWlJSNDM1LTFQM3p0LWhtMzd4TElUc2ZfODBuZDduLXhSVUl1Mk1ocXFEbVJONVhpamVjM1E1VnhvNWlaSmdldWVsajIySkhhTTdCQzU1QmJQWjNKUmxTeWJELTFkZnBxR00xNHl2OVRFS1lTTkJsdUpubV9ILTJBQi1RMjBCNk5PR0Vkb0FqOXNobXFvbE1iZjNlbjJiMC1reEQ?oc=5",
     "publishedAt": "2026-04-22T14:50:00.000Z",
     "summary": "Evanescence: “A lot of the album is the quest for humanity and being… Kerrang!",
-    "image": null
-  },
-  {
-    "id": "uncut-https://www.uncut.co.uk/news/boards-of-canada-confirm-title-and-release-date-of-long-awaited-fifth-album-154325/",
-    "source": "uncut",
-    "title": "Boards Of Canada confirm title and release date of long-awaited fifth album",
-    "url": "https://www.uncut.co.uk/news/boards-of-canada-confirm-title-and-release-date-of-long-awaited-fifth-album-154325/",
-    "publishedAt": "2026-04-22T14:23:02.000Z",
-    "summary": "Inferno is coming via Warp on May 29 The post Boards Of Canada confirm title and release date of long-awaited fifth album appeared first on UNCUT.",
     "image": null
   },
   {
