@@ -1,5 +1,32 @@
 [
   {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/australia-country-music-singers-coming-to-nashville-1235551961/",
+    "source": "rolling-stone",
+    "title": "Why Australian Musicians Are Flocking to Nashville",
+    "url": "https://www.rollingstone.com/music/music-features/australia-country-music-singers-coming-to-nashville-1235551961/",
+    "publishedAt": "2026-04-26T14:00:00.000Z",
+    "summary": "\"Nashville felt like this magical place,\" says one Music City transplant from Down Under. \"I couldn't believe that writing songs could be an actual job\"",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/dogfish-head-grateful-dead-1235553249/",
+    "source": "rolling-stone",
+    "title": "How Dogfish Head Became the Official Beer of the Grateful Dead",
+    "url": "https://www.rollingstone.com/music/music-features/dogfish-head-grateful-dead-1235553249/",
+    "publishedAt": "2026-04-26T14:00:00.000Z",
+    "summary": "\"This has really been the most rewarding collaborative project we've ever been involved with, and the most durable,\" says founder Sam Calagione",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/foo-fighters-debut-your-favorite-toy-songs-snl-uk-1235553795/",
+    "source": "rolling-stone",
+    "title": "See Foo Fighters Debut ‘Your Favorite Toy’ Songs Live on ‘SNL UK’",
+    "url": "https://www.rollingstone.com/music/music-news/foo-fighters-debut-your-favorite-toy-songs-snl-uk-1235553795/",
+    "publishedAt": "2026-04-26T13:27:30.000Z",
+    "summary": "Dave Grohl and company perform \"Caught in the Echo\" and \"Child Actor\" as first American musical guest to play U.K. version of SNL",
+    "image": null
+  },
+  {
     "id": "uncut-https://www.uncut.co.uk/features/interviews/the-making-of-the-magic-number-by-de-la-soul-141870/",
     "source": "uncut",
     "title": "“We just saw things in a different way” – The Making Of “The Magic Number”, by De La Soul",
@@ -24,6 +51,15 @@
     "url": "https://www.billboard.com/music/country/lainey-wilson-headlining-set-stagecoach-saturday-night-1236231565/",
     "publishedAt": "2026-04-26T10:03:43.000Z",
     "summary": "Lainey Wilson also surprised the audience by welcoming Riley Green and Little Big Town to the stage.",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMipwFBVV95cUxPTmN3V3F0N3pIcWRrXzBjaVpfSTZsTE1iMHVIVkdpUGhfZ2NiWm51cE1rb1UtNTktS2d6dlliaFRZUDQ1UVVZd09XMXJ4UTBQaXNnM2JmNmZWYkV2U3Q0TFhpRVpaYTFrcHFhX0hpUWhHVk9IQ20tdVA3SzhndGxVRjJ2MV9ZejZCVElYTUlOU25kZXR6U0ZZNmhucFdaM0RqbFkydGNSMA?oc=5",
+    "source": "nme",
+    "title": "Watch Foo Fighters play ‘Child Actor’ and ‘Caught in the Echo’ on ‘SNL UK’ - NME",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTmN3V3F0N3pIcWRrXzBjaVpfSTZsTE1iMHVIVkdpUGhfZ2NiWm51cE1rb1UtNTktS2d6dlliaFRZUDQ1UVVZd09XMXJ4UTBQaXNnM2JmNmZWYkV2U3Q0TFhpRVpaYTFrcHFhX0hpUWhHVk9IQ20tdVA3SzhndGxVRjJ2MV9ZejZCVElYTUlOU25kZXR6U0ZZNmhucFdaM0RqbFkydGNSMA?oc=5",
+    "publishedAt": "2026-04-26T09:52:45.000Z",
+    "summary": "Watch Foo Fighters play ‘Child Actor’ and ‘Caught in the Echo’ on ‘SNL UK’ NME",
     "image": null
   },
   {
@@ -198,21 +234,21 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/fact-checking-michael-jackson-biopic-movie-whats-real-1235552596/",
-    "source": "rolling-stone",
-    "title": "CGI Chimps and a World Without Janet: Fact-Checking the Michael Jackson Biopic",
-    "url": "https://www.rollingstone.com/music/music-features/fact-checking-michael-jackson-biopic-movie-whats-real-1235552596/",
-    "publishedAt": "2026-04-25T13:00:00.000Z",
-    "summary": "Michael unsurprisingly strays far from the historical record and even erases three of the nine Jackson children",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/features/michael-loved-all-that-going-to-hollywood-the-making-of-i-want-you-back-by-the-jackson-5-154372/",
     "source": "uncut",
     "title": "“Michael loved all that, going to Hollywood…” – The Making Of “I Want You Back”, by The Jackson 5",
     "url": "https://www.uncut.co.uk/features/michael-loved-all-that-going-to-hollywood-the-making-of-i-want-you-back-by-the-jackson-5-154372/",
     "publishedAt": "2026-04-25T13:00:00.000Z",
     "summary": "Includes cameos from Hendrix, Marley and more! The post “Michael loved all that, going to Hollywood…” – The Making Of “I Want You Back”, by The Jackson 5 appeared first on UNCUT.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/fact-checking-michael-jackson-biopic-movie-whats-real-1235552596/",
+    "source": "rolling-stone",
+    "title": "CGI Chimps and a World Without Janet: Fact-Checking the Michael Jackson Biopic",
+    "url": "https://www.rollingstone.com/music/music-features/fact-checking-michael-jackson-biopic-movie-whats-real-1235552596/",
+    "publishedAt": "2026-04-25T13:00:00.000Z",
+    "summary": "Michael unsurprisingly strays far from the historical record and even erases three of the nine Jackson children",
     "image": null
   },
   {
@@ -306,33 +342,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/noah-cyrus-billy-ray-cyrus-braison-stagecoach-performance-1235552527/",
-    "source": "rolling-stone",
-    "title": "Noah Cyrus Makes It a Family Affair at Stagecoach With Billy Ray and Braison Cyrus",
-    "url": "https://www.rollingstone.com/music/music-news/noah-cyrus-billy-ray-cyrus-braison-stagecoach-performance-1235552527/",
-    "publishedAt": "2026-04-25T03:57:51.000Z",
-    "summary": "The singer-songwriter's father and brother joined her onstage for the reflective duet \"On Our Way Along\"",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/ella-langley-theo-von-stagecoach-performance-1235551782/",
-    "source": "rolling-stone",
-    "title": "Ella Langley Brings Out Theo Von for ‘You Look Like You Love Me’ Duet at Stagecoach",
-    "url": "https://www.rollingstone.com/music/music-news/ella-langley-theo-von-stagecoach-performance-1235551782/",
-    "publishedAt": "2026-04-25T03:25:43.000Z",
-    "summary": "Langley appeared on the comedian's podcast earlier this month and brought him out to perform her hit single at the desert fest",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/d4vd-dropped-by-label-interscope-song-collabs-pulled-umg-1235553348/",
-    "source": "rolling-stone",
-    "title": "D4vd Quietly Dropped by Label and Song Collabs Pulled Amid Calls for Streaming Sites to Remove Music",
-    "url": "https://www.rollingstone.com/music/music-news/d4vd-dropped-by-label-interscope-song-collabs-pulled-umg-1235553348/",
-    "publishedAt": "2026-04-24T23:00:40.000Z",
-    "summary": "Spotify and Apple Music are facing pressure to remove the singer's music from its platforms after the \"Romantic Homicide\" singer was charged in the killing of Celeste Rivas Hernandez",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/marilyn-manson-sobriety-speech/",
     "source": "loudwire",
     "title": "Marilyn Manson Halts Concert For 'Confession' About Sobriety",
@@ -411,15 +420,6 @@
     "url": "https://pitchfork.com/news/stagecoach-2026-livestream-schedule-and-details/",
     "publishedAt": "2026-04-24T16:10:31.000Z",
     "summary": "Find out when to see Post Malone, Lainey Wilson, Cody Johnson, and more",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV3Nwc1E1cUFVbEtacUZoQzFWRHhldFhEQXRTa0l0QnFFVDA5YnNLR1FoSTBmbUtITVl1NVhXZkwtbVg4d2hHYnIxdmpoeTdiaXp5enNraWo5UkpSd2lqZ3lFUkpXTWtwWWk2VWc3MDRVVG9XakhDbGJRMHVybjVidk0tbVYzSHAwZkNFaS1ETzg1WXd4eEtTZ3pZZS0wQnQtMDJTQXBNbnZLQUxTalpXOXNFckNucTFKV3JmNjhIRVE?oc=5",
-    "source": "nme",
-    "title": "Manic Street Preachers and Suede announce 2026 co-headline UK arena tour - NME",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV3Nwc1E1cUFVbEtacUZoQzFWRHhldFhEQXRTa0l0QnFFVDA5YnNLR1FoSTBmbUtITVl1NVhXZkwtbVg4d2hHYnIxdmpoeTdiaXp5enNraWo5UkpSd2lqZ3lFUkpXTWtwWWk2VWc3MDRVVG9XakhDbGJRMHVybjVidk0tbVYzSHAwZkNFaS1ETzg1WXd4eEtTZ3pZZS0wQnQtMDJTQXBNbnZLQUxTalpXOXNFckNucTFKV3JmNjhIRVE?oc=5",
-    "publishedAt": "2026-04-24T16:03:30.000Z",
-    "summary": "Manic Street Preachers and Suede announce 2026 co-headline UK arena tour NME",
     "image": null
   },
   {
