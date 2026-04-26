@@ -1,5 +1,32 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/ella-langley-dandelion-second-week-number-one-billboard-200-1236231740/",
+    "source": "billboard",
+    "title": "Ella Langley’s ‘Dandelion’ Spends Second Week Atop Billboard 200",
+    "url": "https://www.billboard.com/music/chart-beat/ella-langley-dandelion-second-week-number-one-billboard-200-1236231740/",
+    "publishedAt": "2026-04-26T19:00:02.000Z",
+    "summary": "Plus: TOMORROW X TOGETHER has the week’s top debut and Justin Bieber’s SWAG and the KPop Demon Hunters soundtrack surge.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/megan-thee-stallion-cries-moulin-rouge-klay-thompson-split-1236231761/",
+    "source": "billboard",
+    "title": "Megan Thee Stallion Breaks Down in Tears at ‘Moulin Rouge!’ After Klay Thompson Breakup",
+    "url": "https://www.billboard.com/music/music-news/megan-thee-stallion-cries-moulin-rouge-klay-thompson-split-1236231761/",
+    "publishedAt": "2026-04-26T18:42:43.000Z",
+    "summary": "Hours before the performance, the rapper alleged that the Dallas Mavericks player had cheated on her.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/madonna-debuts-confessions-ii-songs-abbey-west-hollywood-1236231743/",
+    "source": "billboard",
+    "title": "Madonna Debuts New ‘Confessions II’ Songs at Star-Studded Abbey Party in West Hollywood",
+    "url": "https://www.billboard.com/music/pop/madonna-debuts-confessions-ii-songs-abbey-west-hollywood-1236231743/",
+    "publishedAt": "2026-04-26T17:54:43.000Z",
+    "summary": "The Queen of Pop made a surprise appearance at the Club Confessions party on April 25.",
+    "image": null
+  },
+  {
     "id": "louder-than-war-https://louderthanwar.com/avid-fan-run-like-rosie-ep-review/",
     "source": "louder-than-war",
     "title": "Avid Fan: Run Like Rosie – EP Review",
@@ -207,39 +234,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/megan-thee-stallion-klay-thompson-breakup-statement-1236231517/",
-    "source": "billboard",
-    "title": "Megan Thee Stallion and Klay Thompson Split",
-    "url": "https://www.billboard.com/music/rb-hip-hop/megan-thee-stallion-klay-thompson-breakup-statement-1236231517/",
-    "publishedAt": "2026-04-25T21:26:27.000Z",
-    "summary": "The rapper has parted ways with the Dallas Mavericks player, whom she began dating in summer 2025.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/video/cody-johnson-stagecoach-main-stage-debut-breaking-record/",
-    "source": "billboard",
-    "title": "Cody Johnson Gets Real About His Stagecoach Main Stage Debut & Breaking Records | Billboard News",
-    "url": "https://www.billboard.com/video/cody-johnson-stagecoach-main-stage-debut-breaking-record/",
-    "publishedAt": "2026-04-25T21:12:41.000Z",
-    "summary": "Cody Johnson talks about his journey from small-town Texas to breaking attendance records at Houston Rodeo and making his main stage debut at Stagecoach 2026.",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVElMRnBua0dGOXNua2IzczJReGdfUTVoLVVRdFNGVTlQZ003QkdsbEhfcFRZVV9tMUt5anc2TE9INl9RSEg1OGxMLVlzUUJmT1VhQl9HTjVxaVVWUWhuLXBGYWFpekxNT1o1cHlNY1F3Z1JfbVE4aS1wNzI0R0ZIdnM1MEJlUU9NSUxQMGpVbDNBejBGMEk4WU5pWW5JRkdPaXg0MThSVmpxbUp5LWNWR1hWdU1QSnNX?oc=5",
     "source": "nme",
     "title": "Watch Queens Of The Stone Age play with Nick Oliveri for first time since 2014 - NME",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVElMRnBua0dGOXNua2IzczJReGdfUTVoLVVRdFNGVTlQZ003QkdsbEhfcFRZVV9tMUt5anc2TE9INl9RSEg1OGxMLVlzUUJmT1VhQl9HTjVxaVVWUWhuLXBGYWFpekxNT1o1cHlNY1F3Z1JfbVE4aS1wNzI0R0ZIdnM1MEJlUU9NSUxQMGpVbDNBejBGMEk4WU5pWW5JRkdPaXg0MThSVmpxbUp5LWNWR1hWdU1QSnNX?oc=5",
     "publishedAt": "2026-04-25T19:53:09.000Z",
     "summary": "Watch Queens Of The Stone Age play with Nick Oliveri for first time since 2014 NME",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/demi-lovato-its-not-that-deep-tour-review-new-york-msg/",
-    "source": "billboard",
-    "title": "Demi Lovato Delights in Madison Square Garden Headlining Debut With Triumphant ‘It’s Not That Deep’ Tour: 5 Best Moments",
-    "url": "https://www.billboard.com/lists/demi-lovato-its-not-that-deep-tour-review-new-york-msg/",
-    "publishedAt": "2026-04-25T19:14:14.000Z",
-    "summary": "The Grammy-nominated pop star dazzled in her sold-out NYC show.",
     "image": null
   },
   {
@@ -585,6 +585,15 @@
     "image": null
   },
   {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hRmY2MU1Da2ZhNWhoYkJpT1pCNm93Y1NCcm41cl8tMDdRWmpOOWVaSlJxQWFFX1V6ZDRrc3RZTW9HZUFhbElaakp3cGtyVE1WaHI0Z1AxeXVrVGUtel9zTDhGd0h5NXVS?oc=5",
+    "source": "kerrang",
+    "title": "Album review: The Prestige – Isthmos - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hRmY2MU1Da2ZhNWhoYkJpT1pCNm93Y1NCcm41cl8tMDdRWmpOOWVaSlJxQWFFX1V6ZDRrc3RZTW9HZUFhbElaakp3cGtyVE1WaHI0Z1AxeXVrVGUtel9zTDhGd0h5NXVS?oc=5",
+    "publishedAt": "2026-04-24T07:00:00.000Z",
+    "summary": "Album review: The Prestige – Isthmos Kerrang!",
+    "image": null
+  },
+  {
     "id": "pitchfork-https://pitchfork.com/news/listen-to-lucy-dacus-new-song-planting-tomatoes/",
     "source": "pitchfork",
     "title": "Listen to Lucy Dacus’ New Song “Planting Tomatoes”",
@@ -708,15 +717,6 @@
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jRGRSM1hwU0pWNFUxU28xaVhrWThlNjhFTk9UcU9VZ0hzaVpEZk83THNFUDkwaVNDVWljMF91ZHE5dnBsRUVTOG1ycm9faV8tTFc1eEtrWENFSWlrOUxLdGdIWl9scDA?oc=5",
     "publishedAt": "2026-04-22T07:00:00.000Z",
     "summary": "Album review: Terror – Still Suffer Kerrang!",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOHROY3UxNVZDYWtPWTBnUVZiMXdHb1p3cElRQWZaUXBnbXRwTlhtbDdPMTJnN0RRLUwxQ212SE5mTWFVZDFxRkhmdU9MTW5wRVQzaGhXdW1hWHNJbGNwd25iZ3FKR2VCaTZCZE9oazhDcHloanVkWFJKN0RuS1Rac2I3N0J1THFBZTE4?oc=5",
-    "source": "kerrang",
-    "title": "Album review: Foo Fighters – Your Favorite Toy - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOHROY3UxNVZDYWtPWTBnUVZiMXdHb1p3cElRQWZaUXBnbXRwTlhtbDdPMTJnN0RRLUwxQ212SE5mTWFVZDFxRkhmdU9MTW5wRVQzaGhXdW1hWHNJbGNwd25iZ3FKR2VCaTZCZE9oazhDcHloanVkWFJKN0RuS1Rac2I3N0J1THFBZTE4?oc=5",
-    "publishedAt": "2026-04-21T23:01:00.000Z",
-    "summary": "Album review: Foo Fighters – Your Favorite Toy Kerrang!",
     "image": null
   }
 ]
