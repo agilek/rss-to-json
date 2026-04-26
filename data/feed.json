@@ -1,5 +1,50 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/lists/bts-setlist-every-song-arirang-tour-tampa/",
+    "source": "billboard",
+    "title": "Here’s Every Song BTS Played at Their First U.S. Show In Four Years: Full Tampa Night 1 Setlist",
+    "url": "https://www.billboard.com/lists/bts-setlist-every-song-arirang-tour-tampa/",
+    "publishedAt": "2026-04-26T10:04:32.000Z",
+    "summary": "The septet brought old hits, a couple of surprises and nearly every track off ARIRANG to Tampa, Fla.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/country/lainey-wilson-headlining-set-stagecoach-saturday-night-1236231565/",
+    "source": "billboard",
+    "title": "Following Delay Due To High Winds, Lainey Wilson Brings Masterful Headlining Set to Stagecoach on Saturday Night",
+    "url": "https://www.billboard.com/music/country/lainey-wilson-headlining-set-stagecoach-saturday-night-1236231565/",
+    "publishedAt": "2026-04-26T10:03:43.000Z",
+    "summary": "Lainey Wilson also surprised the audience by welcoming Riley Green and Little Big Town to the stage.",
+    "image": null
+  },
+  {
+    "id": "louder-than-war-https://louderthanwar.com/cable-boy-forever-album-review/",
+    "source": "louder-than-war",
+    "title": "Cable Boy: Forever – Album Review",
+    "url": "https://louderthanwar.com/cable-boy-forever-album-review/",
+    "publishedAt": "2026-04-26T09:21:22.000Z",
+    "summary": "Cable Boy: Forever (Self Release) Out Now Dublin five-piece Cable Boy arrive with their long-awaited debut Forever, a record that feels both like a culmination of the band’s work so far and, more so, a clear statement of intent. Having steadily built a reputation among Ireland’s emerging acts, the band lean confidently into that momentum […] The post Cable Boy: Forever – Album Review appeared first on Louder Than War.",
+    "image": null
+  },
+  {
+    "id": "louder-than-war-https://louderthanwar.com/modern-woman-johnnys-dreamworld-album-review/",
+    "source": "louder-than-war",
+    "title": "Modern Woman: Johnny’s Dreamworld – Album Review",
+    "url": "https://louderthanwar.com/modern-woman-johnnys-dreamworld-album-review/",
+    "publishedAt": "2026-04-26T09:15:34.000Z",
+    "summary": "Modern Woman: Johnny’s Dreamworld (One Little Independent Records) CD | LP | DL | Stream Out 1 May 2026 PRE-ORDER at Piccadilly Records Album Of The Week! London art-rock outfit, Modern Woman, finally fulfil their mission to conflict noise and melody through the release of their debut album Johnny’s Dreamworld. It’s a collection of songs […] The post Modern Woman: Johnny’s Dreamworld – Album Review appeared first on Louder Than War.",
+    "image": null
+  },
+  {
+    "id": "louder-than-war-https://louderthanwar.com/walter-verdin-and-various-artists-minimalize-your-reworks-album-review/",
+    "source": "louder-than-war",
+    "title": "Walter Verdin and Various Artists: Minimalize Your Reworks – Album Review",
+    "url": "https://louderthanwar.com/walter-verdin-and-various-artists-minimalize-your-reworks-album-review/",
+    "publishedAt": "2026-04-26T09:13:26.000Z",
+    "summary": "Walter Verdin and Various Artists – Minimalize Your Reworks (Cortizona) DL available here Out 8th of May 2026 A witty, often brilliant reworking by artists such as Jlin, The Hafler Trio, Legowelt and DJ Marcelle of one track from legendary Belgian avant-garde trickster, Walter Verdin. Remix albums can be a chore, distracting at best, and […] The post Walter Verdin and Various Artists: Minimalize Your Reworks – Album Review appeared first on Louder Than War.",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-country/stagecoach-emergency-evacuation-festival-resumed-1235553778/",
     "source": "rolling-stone",
     "title": "Stagecoach Evacuates Due to High Winds, Bumps Back Lainey Wilson’s Headlining Set",
@@ -87,24 +132,6 @@
     "url": "https://www.billboard.com/music/music-news/cody-johnson-boyz-ii-men-stagecoach-2026-1236231467/",
     "publishedAt": "2026-04-25T18:23:00.000Z",
     "summary": "The country star headlined the opening day of the desert festival on April 24.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/ella-langley-theo-von-duet-stagecoach-2026-1236231463/",
-    "source": "billboard",
-    "title": "Ella Langley Brings Out Theo Von for Surprise ‘You Look Like You Love Me’ Duet at Stagecoach 2026",
-    "url": "https://www.billboard.com/music/music-news/ella-langley-theo-von-duet-stagecoach-2026-1236231463/",
-    "publishedAt": "2026-04-25T17:20:01.000Z",
-    "summary": "The country star made her debut at the festival on April 24.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/country/ella-langley-stagecoach-2026-set-1236231442/",
-    "source": "billboard",
-    "title": "Ella Langley Goes Deep on ‘Dandelion,’ Welcomes Theo Von During 2026 Stagecoach Set",
-    "url": "https://www.billboard.com/music/country/ella-langley-stagecoach-2026-set-1236231442/",
-    "publishedAt": "2026-04-25T17:07:02.000Z",
-    "summary": "Ella Langley easily commanded the stage during her set on the Mane Stage at Stagecoach.",
     "image": null
   },
   {
@@ -540,15 +567,6 @@
     "image": null
   },
   {
-    "id": "louder-than-war-https://louderthanwar.com/the-veils-aurora-video-premiere/",
-    "source": "louder-than-war",
-    "title": "The Veils: Aurora – Video Premiere.",
-    "url": "https://louderthanwar.com/the-veils-aurora-video-premiere/",
-    "publishedAt": "2026-04-24T08:55:22.000Z",
-    "summary": "Photo credit: Frances Carter Being a project that have criminally passed me by, The Veils release a heartfelt piece of torch song piano led music that has entered the Wayne AF stratosphere on a soothing level with an artistic piece of melodic soothing soul that hits the spot. Now lets get started on that back […] The post The Veils: Aurora – Video Premiere. appeared first on Louder Than War.",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/news/listen-to-lucy-dacus-new-song-planting-tomatoes/",
     "source": "pitchfork",
     "title": "Listen to Lucy Dacus’ New Song “Planting Tomatoes”",
@@ -585,15 +603,6 @@
     "image": null
   },
   {
-    "id": "louder-than-war-https://louderthanwar.com/bowie-odyssey-76-by-simon-goddard-book-review/",
-    "source": "louder-than-war",
-    "title": "Bowie Odyssey 76: By Simon Goddard – Book Review",
-    "url": "https://louderthanwar.com/bowie-odyssey-76-by-simon-goddard-book-review/",
-    "publishedAt": "2026-04-23T18:20:58.000Z",
-    "summary": "Simon Goddard “Bowie Odyssey 76! (Omnibus 2025) Published by Omnibus – out now Simon Goddard’s books tracing Bowie’s life and music from 1970 onwards are essential reading for any serious Bowie fan. In addition, the books are characterised by some very sharply observed digressions into the history and feel of the times. I can genuinely […] The post Bowie Odyssey 76: By Simon Goddard – Book Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/reviews/irmin-schmidts-requiem-reviewed-the-can-explorers-elegiac-hymn-to-nature-154362/",
     "source": "uncut",
     "title": "Irmin Schmidt’s Requiem reviewed: the Can explorer’s elegiac hymn to nature",
@@ -618,15 +627,6 @@
     "url": "https://pitchfork.com/news/baltimore-orioles-to-host-turnstile-night/",
     "publishedAt": "2026-04-23T16:30:10.000Z",
     "summary": "The experimental hardcore band is getting the ultimate honor from its hometown baseball team",
-    "image": null
-  },
-  {
-    "id": "louder-than-war-https://louderthanwar.com/were-having-much-more-funfrom-cbgb-to-gilman-and-beyond-by-judith-a-peraino-and-tom-mcenaney-book-review/",
-    "source": "louder-than-war",
-    "title": "We’re Having Much More Fun: by Judith A. Peraino and Tom McEnaney – Book Review",
-    "url": "https://louderthanwar.com/were-having-much-more-funfrom-cbgb-to-gilman-and-beyond-by-judith-a-peraino-and-tom-mcenaney-book-review/",
-    "publishedAt": "2026-04-23T15:51:52.000Z",
-    "summary": "We’re Having Much More Fun: Punk Archives for the Present from CBGB to Gilman and Beyond by Judith A. Peraino and Tom McEnaney (Cornell University Press) Published: 15 March 2026 ISBN: 9781501780325 | 384 pages | 420 colour halftone images An enjoyable, accessible dive into the punk archives of Cornell University is accompanied by witness […] The post We’re Having Much More Fun: by Judith A. Peraino and Tom McEnaney – Book Review appeared first on Louder Than War.",
     "image": null
   },
   {
