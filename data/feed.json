@@ -1,5 +1,32 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/lists/top-grossing-music-biopics-movies/",
+    "source": "billboard",
+    "title": "After Just One Weekend, Michael Jackson Film Ranks Among 10 Highest-Grossing Music Biopics Worldwide: Find Out Where",
+    "url": "https://www.billboard.com/lists/top-grossing-music-biopics-movies/",
+    "publishedAt": "2026-04-26T20:18:38.000Z",
+    "summary": "The films on this list cover a wide range of genres, including rap, classical, country, Latin and contemporary Christian.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/soundtracks-most-weeks-in-billboard-200-top-10-full-list/",
+    "source": "billboard",
+    "title": "Where Does ‘KPop Demon Hunters’ Rank Among Soundtracks With Most Weeks in Billboard 200 Top 10?",
+    "url": "https://www.billboard.com/lists/soundtracks-most-weeks-in-billboard-200-top-10-full-list/",
+    "publishedAt": "2026-04-26T19:22:16.000Z",
+    "summary": "Here's every soundtrack with 25 or more weeks in the top 10 since 1963, when separate mono and stereo charts were combined.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/vince-staples-tries-to-disarm-a-mass-shooter-in-blackberry-marmalade-video/",
+    "source": "pitchfork",
+    "title": "Vince Staples Tries to Disarm a Mass Shooter in “Blackberry Marmalade” Video",
+    "url": "https://pitchfork.com/news/vince-staples-tries-to-disarm-a-mass-shooter-in-blackberry-marmalade-video/",
+    "publishedAt": "2026-04-26T19:00:23.000Z",
+    "summary": "On his first solo song in two years, the rapper ushers in his new era as an independent artist",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/chart-beat/ella-langley-dandelion-second-week-number-one-billboard-200-1236231740/",
     "source": "billboard",
     "title": "Ella Langley’s ‘Dandelion’ Spends Second Week Atop Billboard 200",
@@ -38,10 +65,10 @@
   {
     "id": "billboard-https://www.billboard.com/culture/tv-film/michael-jackson-biopic-box-office-record-opening-debut-1236231720/",
     "source": "billboard",
-    "title": "‘Michael’ Eyes Biggest Music Biopic Opening Ever With $95M–$100M Box Office Debut",
+    "title": "‘Michael’ Scores Biggest Music Biopic Opening Ever With $97M Debut",
     "url": "https://www.billboard.com/culture/tv-film/michael-jackson-biopic-box-office-record-opening-debut-1236231720/",
     "publishedAt": "2026-04-26T16:25:40.000Z",
-    "summary": "The Lionsgate film is tracking for a global launch upward of $200 million.",
+    "summary": "The Lionsgate film has already earned $217.4 million globally.",
     "image": null
   },
   {
@@ -213,24 +240,6 @@
     "url": "https://www.billboard.com/music/music-news/cyndi-lauper-vegas-concert-heckler-1236231557/",
     "publishedAt": "2026-04-26T02:55:26.000Z",
     "summary": "The pop star made it clear she expects some respect at opening night of her mini Las Vegas residency.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/tv-film/snl-uk-nicola-coughlan-monologue-jimmy-fallon-dave-grohl-1236231539/",
-    "source": "billboard",
-    "title": "Jimmy Fallon and Dave Grohl Make Cameos in Nicola Coughlan’s ‘SNL UK’ Monologue",
-    "url": "https://www.billboard.com/culture/tv-film/snl-uk-nicola-coughlan-monologue-jimmy-fallon-dave-grohl-1236231539/",
-    "publishedAt": "2026-04-25T23:48:50.000Z",
-    "summary": "The Bridgerton star has a funny run-in with the Foo Fighters frontman as Fallon encourages her to make the most of hosting live TV.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/megan-thee-stallion-klay-thompson-relationship-timeline/",
-    "source": "billboard",
-    "title": "A Timeline of Megan Thee Stallion & Klay Thompson’s Relationship",
-    "url": "https://www.billboard.com/lists/megan-thee-stallion-klay-thompson-relationship-timeline/",
-    "publishedAt": "2026-04-25T21:46:33.000Z",
-    "summary": "Here’s everything we know about the rapper and the Dallas Mavericks guard.",
     "image": null
   },
   {
@@ -636,15 +645,6 @@
     "url": "https://pitchfork.com/news/geese-set-2026-north-american-tour-dates/",
     "publishedAt": "2026-04-23T17:00:00.000Z",
     "summary": "Prepare for Getting Killed Again with Cameron Winter and co.",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/news/baltimore-orioles-to-host-turnstile-night/",
-    "source": "pitchfork",
-    "title": "Baltimore Orioles to Host Turnstile Night",
-    "url": "https://pitchfork.com/news/baltimore-orioles-to-host-turnstile-night/",
-    "publishedAt": "2026-04-23T16:30:10.000Z",
-    "summary": "The experimental hardcore band is getting the ultimate honor from its hometown baseball team",
     "image": null
   },
   {
