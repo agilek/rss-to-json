@@ -1,5 +1,41 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/pop/olivia-rodrigo-drop-dead-nyc-open-mic-1236232284/",
+    "source": "billboard",
+    "title": "Olivia Rodrigo Surprises Fans With ‘Drop Dead’ Performance at NYC Open Mic",
+    "url": "https://www.billboard.com/music/pop/olivia-rodrigo-drop-dead-nyc-open-mic-1236232284/",
+    "publishedAt": "2026-04-27T08:00:43.000Z",
+    "summary": "The appearance took place at Pete’s Candy Store in Williamsburg.",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMiY0FVX3lxTE5FVEVkSUl2YXNndUgtYXdmSFd2WVFSeW91Q0FiVkR0YUh0WVl0eTVma3cxMUVkT3hVeENMLXhodmFmeGF6Uks4emFkbF9MUWRGeFFSSEl2R01VOWxZRnlqN2dCMA?oc=5",
+    "source": "nme",
+    "title": "Yves’ new chapter: a K-pop star’s quiet rebellion - NME",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5FVEVkSUl2YXNndUgtYXdmSFd2WVFSeW91Q0FiVkR0YUh0WVl0eTVma3cxMUVkT3hVeENMLXhodmFmeGF6Uks4emFkbF9MUWRGeFFSSEl2R01VOWxZRnlqN2dCMA?oc=5",
+    "publishedAt": "2026-04-27T08:00:02.000Z",
+    "summary": "Yves’ new chapter: a K-pop star’s quiet rebellion NME",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/nedra-talley-ross-the-ronettes-obituary-1235553860/",
+    "source": "rolling-stone",
+    "title": "Nedra Talley Ross, Founding Member of Pioneering Group the Ronettes, Dead at 80",
+    "url": "https://www.rollingstone.com/music/music-news/nedra-talley-ross-the-ronettes-obituary-1235553860/",
+    "publishedAt": "2026-04-27T07:57:25.000Z",
+    "summary": "The singer, who was inducted into the Rock & Roll Hall of Fame in 2007, was known for '60s hits like \"Be My Baby\"",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/olivia-rodrigo-drop-dead-performance-open-mic-new-york-city-1235553854/",
+    "source": "rolling-stone",
+    "title": "Watch Olivia Rodrigo Perform ‘Drop Dead’ at Open Mic Night in New York City",
+    "url": "https://www.rollingstone.com/music/music-news/olivia-rodrigo-drop-dead-performance-open-mic-new-york-city-1235553854/",
+    "publishedAt": "2026-04-27T07:00:32.000Z",
+    "summary": "The song comes off the singer's forthcoming album, You Seem Pretty Sad for a Girl So in Love",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/music-news/david-lee-roth-teddy-swims-stagecoach-1236232180/",
     "source": "billboard",
     "title": "David Lee Roth Joins Teddy Swims at Stagecoach for ‘Jump’",
@@ -132,15 +168,6 @@
     "url": "https://www.billboard.com/music/chart-beat/ella-langley-dandelion-second-week-number-one-billboard-200-1236231740/",
     "publishedAt": "2026-04-26T19:00:02.000Z",
     "summary": "Plus: TOMORROW X TOGETHER has the week’s top debut and Justin Bieber’s SWAG and the KPop Demon Hunters soundtrack surge.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/megan-thee-stallion-cries-moulin-rouge-klay-thompson-split-1236231761/",
-    "source": "billboard",
-    "title": "Megan Thee Stallion Breaks Down in Tears at ‘Moulin Rouge!’ After Klay Thompson Breakup",
-    "url": "https://www.billboard.com/music/music-news/megan-thee-stallion-cries-moulin-rouge-klay-thompson-split-1236231761/",
-    "publishedAt": "2026-04-26T18:42:43.000Z",
-    "summary": "Hours before the performance, the rapper alleged that the Dallas Mavericks player had cheated on her.",
     "image": null
   },
   {
@@ -315,24 +342,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/leaving-neverland-accuser-child-sex-abuse-michael-1235553713/",
-    "source": "rolling-stone",
-    "title": "‘Leaving Neverland’ Accuser Sends Support to Child Sex Abuse Survivors Amid ‘Michael’ Release",
-    "url": "https://www.rollingstone.com/music/music-news/leaving-neverland-accuser-child-sex-abuse-michael-1235553713/",
-    "publishedAt": "2026-04-25T15:04:45.000Z",
-    "summary": "\"Our abusers are praised sometimes, even after we come out and tell the truth,\" James Safechuck says in statement to Rolling Stone",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/why-cant-watch-michael-jackson-doc-leaving-neverland-1235553393/",
-    "source": "rolling-stone",
-    "title": "Here’s Why You Can’t Watch the Michael Jackson Sexual Abuse Doc ‘Leaving Neverland’",
-    "url": "https://www.rollingstone.com/music/music-news/why-cant-watch-michael-jackson-doc-leaving-neverland-1235553393/",
-    "publishedAt": "2026-04-25T15:00:00.000Z",
-    "summary": "The explosive 2019 film, centered on allegations made by Wade Robson and James Safechuck, was pulled after a legal battle between HBO and the Jackson estate",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/neovenator-the-air-raid-siren-repairman/",
     "source": "louder-than-war",
     "title": "Neovenator – The Air Raid Siren Repairman",
@@ -402,15 +411,6 @@
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNelZpU0tubzBIZ2tPejNWeVo1eks0M1hRU1hBcWhvbElaal8yNnk5S1AwQTN2WHhwTmdTemdXZ05aSEVhdHlIaFF5eGJfVWt5dE5rbndDa181Sm9SQ2VINDlyb0otVGZPdzNOa3BDVC13TFhTQzI2N2Z5b3FBak55elRXWDhHdDJubUtEcUFnNXpWUTljWUhaSFVZVTZFNy1Rc0dZR0dCYlgwalpJT2hBNzAyWnZHalpm?oc=5",
     "publishedAt": "2026-04-25T09:14:12.000Z",
     "summary": "‘Leaving Neverland’ director says Michael Jackson was \"worse than Jeffrey Epstein\" NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMitAFBVV95cUxNVzhTemR3N3BLR1JZT0RjclFNQ0w4ZlQyVDF4OEpXWmRndEZxUzBwdU94WTVETXpIV2E3ODlWZkhEM28xYmpfX2pJbDR3NXptZG5vX045N2NXaWQ3S3pmQmNCSW5LMEZKUGNBMU1McXEwcXh5Z0tSbFdKckRHand3QlpaQ19jQWRKVTluN21mZ1NsWWhiTUVGU0hjVkJDbW5RbjRzc20xM3gyUF9vejdjZTVpY1o?oc=5",
-    "source": "nme",
-    "title": "Helena Bonham Carter exits ‘The White Lotus’, role set to be \"rewritten and recast\" - NME",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVzhTemR3N3BLR1JZT0RjclFNQ0w4ZlQyVDF4OEpXWmRndEZxUzBwdU94WTVETXpIV2E3ODlWZkhEM28xYmpfX2pJbDR3NXptZG5vX045N2NXaWQ3S3pmQmNCSW5LMEZKUGNBMU1McXEwcXh5Z0tSbFdKckRHand3QlpaQ19jQWRKVTluN21mZ1NsWWhiTUVGU0hjVkJDbW5RbjRzc20xM3gyUF9vejdjZTVpY1o?oc=5",
-    "publishedAt": "2026-04-25T08:30:45.000Z",
-    "summary": "Helena Bonham Carter exits ‘The White Lotus’, role set to be \"rewritten and recast\" NME",
     "image": null
   },
   {
