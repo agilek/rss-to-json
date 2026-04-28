@@ -1,74 +1,218 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/music-news/megan-thee-stallion-klay-thompson-split-sims-roasts-nba-star-1236233512/",
+    "source": "billboard",
+    "title": "Klay Thompson Roasted by ‘The Sims’ After Megan Thee Stallion Breakup: ‘You Can’t Handle a Hottie’",
+    "url": "https://www.billboard.com/music/music-news/megan-thee-stallion-klay-thompson-split-sims-roasts-nba-star-1236233512/",
+    "publishedAt": "2026-04-28T17:37:44.000Z",
+    "summary": "\"We lurv you Meg,\" the video game series also wrote.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "source": "billboard",
+    "title": "Billboard’s Music Industry Events Calendar",
+    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "publishedAt": "2026-04-28T17:29:00.000Z",
+    "summary": "A complete rundown of the most important events across the music business.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/nct-taeyong-details-debut-full-length-solo-album-wyld-1236233467/",
+    "source": "billboard",
+    "title": "NCT’s TAEYONG Announces Details of Debut Full-Length Solo Album, ‘WYLD’",
+    "url": "https://www.billboard.com/music/pop/nct-taeyong-details-debut-full-length-solo-album-wyld-1236233467/",
+    "publishedAt": "2026-04-28T17:17:11.000Z",
+    "summary": "The 10-track LP is due out on May 18.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/return-of-cheetos-flamin-hot-dill-pickle-hits-austin-streets/",
+    "source": "billboard",
+    "title": "The Return of Cheetos® Flamin’ Hot® Dill Pickle Hits the Streets of Austin for the Ultimate Taste Test",
+    "url": "https://www.billboard.com/video/return-of-cheetos-flamin-hot-dill-pickle-hits-austin-streets/",
+    "publishedAt": "2026-04-28T17:16:45.000Z",
+    "summary": "This is partner content. Billboard and Cheetos hit the streets of Austin, Texas, to test the hype of the Cheetos® Flamin’ Hot® Dill Pickle, now available in Puffs nationwide. Let’s see if folks thought it was tasty, tangy or spicy. Tetris Kelly: Yo, Austin, big news. Cheetos® Flamin’ Hot® Dill Pickle is back by popular demand, and it’s in […]",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/twenty-one-pilots-tie-2nd-most-alternative-airplay-number-1s-1236233508/",
+    "source": "billboard",
+    "title": "Twenty One Pilots Tie for Second-Most Alternative Airplay No. 1s With ‘Drag Path’",
+    "url": "https://www.billboard.com/music/chart-beat/twenty-one-pilots-tie-2nd-most-alternative-airplay-number-1s-1236233508/",
+    "publishedAt": "2026-04-28T17:11:34.000Z",
+    "summary": "The duo adds its 14th leader, matching Linkin Park and trailing only Red Hot Chili Peppers.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/kid-rock-helicopter-ride-hegseth-pentagon-1235554757/",
+    "source": "rolling-stone",
+    "title": "Kid Rock Takes Joy Ride in Army Helicopter, Addresses the Pentagon",
+    "url": "https://www.rollingstone.com/music/music-news/kid-rock-helicopter-ride-hegseth-pentagon-1235554757/",
+    "publishedAt": "2026-04-28T17:10:38.000Z",
+    "summary": "The singer-rapper and the current administration, never ones to stop short, extended the life of Rock’s recent helicopter controversy with a photo op on Monday",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/concerts/summerstage-2026-lineup-season-1236233496/",
+    "source": "billboard",
+    "title": "Capital One City Parks Foundation SummerStage Reveals 2026 Lineup, Celebrating 40 Years",
+    "url": "https://www.billboard.com/music/concerts/summerstage-2026-lineup-season-1236233496/",
+    "publishedAt": "2026-04-28T17:07:22.000Z",
+    "summary": "The season opens June 10 with Ledisi feting the late, great Dinah Washington in association with Blue Note Jazz Festival.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/taylor-swift-greatest-songwriters-interview-things-learned/",
+    "source": "billboard",
+    "title": "7 Things We Learned From Taylor Swift’s ‘Greatest Living American Songwriters’ Interview",
+    "url": "https://www.billboard.com/lists/taylor-swift-greatest-songwriters-interview-things-learned/",
+    "publishedAt": "2026-04-28T17:01:36.000Z",
+    "summary": "The singer addressed her overly analytical fans, early influences and more for The New York Times.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/sleater-kinney-and-liz-phair-tour-the-flannel-and-the-fury/",
+    "source": "pitchfork",
+    "title": "Sleater-Kinney and Liz Phair Unite for Co-Headlining Tour",
+    "url": "https://pitchfork.com/news/sleater-kinney-and-liz-phair-tour-the-flannel-and-the-fury/",
+    "publishedAt": "2026-04-28T17:00:00.000Z",
+    "summary": "The Flannel and the Fury tour nods to “the female-fronted bands who staked their claim to center stage in a male-dominated music industry,” says Phair",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/ai-music-attribution-matters-make-it-reality-guest-column/",
+    "source": "billboard",
+    "title": "Why AI Attribution Matters for the Music Business — And How It Can Become a Reality (Guest Column)",
+    "url": "https://www.billboard.com/pro/ai-music-attribution-matters-make-it-reality-guest-column/",
+    "publishedAt": "2026-04-28T16:58:43.000Z",
+    "summary": "As the industry enters a new era, creating workable attribution systems will benefit everyone in the equation — from artists to AI music companies.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/mexico-estadio-3-de-marzo-to-become-coliseo-gnp-seguros/",
+    "source": "billboard",
+    "title": "Mexico’s Estadio 3 de Marzo Announces a New Era as Coliseo GNP Seguros — a World-Class Venue",
+    "url": "https://www.billboard.com/pro/mexico-estadio-3-de-marzo-to-become-coliseo-gnp-seguros/",
+    "publishedAt": "2026-04-28T16:58:01.000Z",
+    "summary": "The renovated stadium in Guadalajara will open its doors in August, with scheduled shows by Alejandro Sanz, Yuridia and more.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-pictures/last-dinner-party-brooklyn-concert-1235554706/",
+    "source": "rolling-stone",
+    "title": "The Last Dinner Party Take Brooklyn",
+    "url": "https://www.rollingstone.com/music/music-pictures/last-dinner-party-brooklyn-concert-1235554706/",
+    "publishedAt": "2026-04-28T16:57:47.000Z",
+    "summary": "Our best photos from the U.K. rock band’s triumphant show in New York",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/ryota-takaji-interview-dancer-bad-bunny-super-bowl-halftime-1236233478/",
+    "source": "billboard",
+    "title": "Dancer Ryota Takaji Talks Journey to U.S. Entertainment & Dancing in Bad Bunny’s Super Bowl Halftime Show: Unbound Japan Interview",
+    "url": "https://www.billboard.com/music/music-news/ryota-takaji-interview-dancer-bad-bunny-super-bowl-halftime-1236233478/",
+    "publishedAt": "2026-04-28T16:36:36.000Z",
+    "summary": "Takaji calls the Super Bowl halftime \"one of the biggest shows in America and every dancer's dream\" in new Billboard Japan interview.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/summerstage-concert-series-lineups-2026-season-1235554655/",
+    "source": "rolling-stone",
+    "title": "Mavis Staples, De La Soul Lead Packed NYC SummerStage 40th Anniversary Lineup",
+    "url": "https://www.rollingstone.com/music/music-news/summerstage-concert-series-lineups-2026-season-1235554655/",
+    "publishedAt": "2026-04-28T16:03:30.000Z",
+    "summary": "Spoon, Laurie Anderson, Angélique Kidjo, and more acts will perform during the annual concert series, held at Central Park and other locations around the city",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/taylor-swift-elizabeth-taylor-travis-kelce-1235554637/",
+    "source": "rolling-stone",
+    "title": "Taylor Swift Was Inspired to Write ‘Elizabeth Taylor’ After a Drive With Travis Kelce",
+    "url": "https://www.rollingstone.com/music/music-news/taylor-swift-elizabeth-taylor-travis-kelce-1235554637/",
+    "publishedAt": "2026-04-28T15:51:12.000Z",
+    "summary": "“I go on and on and explaining to Travis, like why I love Elizabeth Taylor so much,” the superstar revealed in a new songwriting-focused interview",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/metallica-reload-box-set-reissue/",
+    "source": "loudwire",
+    "title": "Metallica to Reissue 'Reload' With 'Massive' Box Set",
+    "url": "https://loudwire.com/metallica-reload-box-set-reissue/",
+    "publishedAt": "2026-04-28T15:47:42.000Z",
+    "summary": "Metallica have announced a remastered, reissued version of their 1997 album 'Reload' with a 'massive' deluxe box set that'll be out in June. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/ariana-grande-new-album-petal-release-date-1235554759/",
+    "source": "rolling-stone",
+    "title": "Ariana Grande Announces New Album ‘Petal’ — and It’s Coming Sooner Than You Think",
+    "url": "https://www.rollingstone.com/music/music-news/ariana-grande-new-album-petal-release-date-1235554759/",
+    "publishedAt": "2026-04-28T15:43:48.000Z",
+    "summary": "After weeks of teasing, Grande announced the follow-up to her 2024 LP Eternal Sunshine",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/metallica-reload-super-deluxe-reissue-1235554658/",
+    "source": "rolling-stone",
+    "title": "Metallica Prep Fully Loaded ‘ReLoad’ Box Set Reissue for This Summer",
+    "url": "https://www.rollingstone.com/music/music-news/metallica-reload-super-deluxe-reissue-1235554658/",
+    "publishedAt": "2026-04-28T15:30:04.000Z",
+    "summary": "Super deluxe edition of the band’s seventh album, which contains “Fuel” and “The Memory Remains,” will include demos, live recordings, rough mixes, and concert films",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/ariana-grande-announces-new-album-petal/",
+    "source": "pitchfork",
+    "title": "Ariana Grande Announces New Album Petal",
+    "url": "https://pitchfork.com/news/ariana-grande-announces-new-album-petal/",
+    "publishedAt": "2026-04-28T15:24:18.000Z",
+    "summary": "Her first since 2024’s Eternal Sunshine arrives July 31",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/taylor-swift-vienna-shows-man-pleads-guilty-terror-attack-1235554666/",
+    "source": "rolling-stone",
+    "title": "Austrian Man Pleads Guilty to Attempted Attack on Taylor Swift Concerts",
+    "url": "https://www.rollingstone.com/music/music-news/taylor-swift-vienna-shows-man-pleads-guilty-terror-attack-1235554666/",
+    "publishedAt": "2026-04-28T15:01:59.000Z",
+    "summary": "The 21-year-old admitted to planning an ISIS-inspired attack on Eras Tour shows in Vienna in 2024",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/american-idol-taylor-swift-night-1235554611/",
+    "source": "rolling-stone",
+    "title": "‘American Idol’ Pays Tribute to Taylor Swift. They Meant Well",
+    "url": "https://www.rollingstone.com/music/music-features/american-idol-taylor-swift-night-1235554611/",
+    "publishedAt": "2026-04-28T14:49:43.000Z",
+    "summary": "For the first time, the TV institution set aside a night to showcase the superstar’s songbook. Contestants mostly found out that her songs are tough to sing",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/kid-rock-pete-hegseth-army-helicopter/",
+    "source": "loudwire",
+    "title": "Backlash Over Kid Rock's Army Helicopter Flight With Pete Hegseth",
+    "url": "https://loudwire.com/kid-rock-pete-hegseth-army-helicopter/",
+    "publishedAt": "2026-04-28T14:40:36.000Z",
+    "summary": "Kid Rock's recent Army Apache helicopter flight courtesy of Pete Hegseth is generating some social media pushback. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/raud-geez-over-streamer-rap-hit-1235554632/",
+    "source": "rolling-stone",
+    "title": "How Streamer Beef Made Raud Geez’s ‘Over’ a Rap Hit",
+    "url": "https://www.rollingstone.com/music/music-features/raud-geez-over-streamer-rap-hit-1235554632/",
+    "publishedAt": "2026-04-28T14:37:02.000Z",
+    "summary": "The song survived the haters and became a perfect anthem for hip-hop’s brain-rot era",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-album-reviews/kneecap-fenian-new-music-1235554195/",
     "source": "rolling-stone",
     "title": "Kneecap Make the Most of their Spotlight on ‘Fenian’",
     "url": "https://www.rollingstone.com/music/music-album-reviews/kneecap-fenian-new-music-1235554195/",
     "publishedAt": "2026-04-28T14:08:31.000Z",
     "summary": "After a year spent mired in political controversies, the Irish rap trio are back with more provocative, artistically daring music",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/trueno-universal-music-publishing-group-signing-exclusive/",
-    "source": "billboard",
-    "title": "Trueno Signs Deal With Universal Music Publishing Group: ‘His Impact Has Been Undeniable’",
-    "url": "https://www.billboard.com/pro/trueno-universal-music-publishing-group-signing-exclusive/",
-    "publishedAt": "2026-04-28T14:00:00.000Z",
-    "summary": "The exclusive signing comes on the heels of the Latin Grammy winner releasing his fourth studio album, TURR4ZO.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/2026-billboard-country-live-red-clay-strays-tucker-wetmore-1236233123/",
-    "source": "billboard",
-    "title": "Billboard Country Live Returning to Nashville With Red Clay Strays & Tucker Wetmore",
-    "url": "https://www.billboard.com/music/music-news/2026-billboard-country-live-red-clay-strays-tucker-wetmore-1236233123/",
-    "publishedAt": "2026-04-28T14:00:00.000Z",
-    "summary": "The two-day country music celebration will take place June 4 & 5, following the Billboard Country Power Players event.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/harry-chapin-music-assets-stake-acquired-primary-wave/",
-    "source": "billboard",
-    "title": "Primary Wave Acquires Stake in Harry Chapin Music Assets",
-    "url": "https://www.billboard.com/pro/harry-chapin-music-assets-stake-acquired-primary-wave/",
-    "publishedAt": "2026-04-28T14:00:00.000Z",
-    "summary": "The partnership with the late \"Cat's in the Cradle\" singer's estate includes publishing, recorded master royalties, and name, image and likeness.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/bmg-to-buy-concord-in-indie-music-merger/",
-    "source": "billboard",
-    "title": "BMG to Buy Concord in Major Indie Music Merger",
-    "url": "https://www.billboard.com/pro/bmg-to-buy-concord-in-indie-music-merger/",
-    "publishedAt": "2026-04-28T13:05:31.000Z",
-    "summary": "The tie-up creates a scaled publisher and catalog company with an estimated $2 billion in revenue that will be majority owned by BMG parent company Bertelsmann.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/tv-film/jimmy-kimmel-defends-expectant-widow-joke-trump-call-firing-1236233300/",
-    "source": "billboard",
-    "title": "Jimmy Kimmel Defends ‘Expectant Widow’ Jibe After Donald and Melania Trump Call For Host’s Ouster: ‘A Very Light Roast Joke’",
-    "url": "https://www.billboard.com/culture/tv-film/jimmy-kimmel-defends-expectant-widow-joke-trump-call-firing-1236233300/",
-    "publishedAt": "2026-04-28T13:05:24.000Z",
-    "summary": "The President and First Lady attempted to tie what Kimmel said was an age-gap jest with the shooting at the White House Correspondents' Dinner on Saturday night (April 25).",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/record-store-day-2026-recap-taylor-swift-katseye-top-seller/",
-    "source": "billboard",
-    "title": "Record Store Day 2026 Report: ‘Biggest Year Ever’ for Many Retailers as Taylor Swift, Charli xcx & More Titles Fly Off Shelves",
-    "url": "https://www.billboard.com/pro/record-store-day-2026-recap-taylor-swift-katseye-top-seller/",
-    "publishedAt": "2026-04-28T13:00:00.000Z",
-    "summary": "Stores from Rough Trade Records in Manhattan to Licorice Pizza in Studio City, Calif., reported big sales in the event's 18th year.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/video/stagecoach-2026-recap-ludacris-and-more/",
-    "source": "billboard",
-    "title": "Stagecoach 2026 Recap: Ludacris, Wynonna Judd, Noah Cyrus & More | All Access",
-    "url": "https://www.billboard.com/video/stagecoach-2026-recap-ludacris-and-more/",
-    "publishedAt": "2026-04-28T13:00:00.000Z",
-    "summary": "Here’s everything you missed at Stagecoach 2026 including Ludacris discussing the evolving relationship between hip-hop and country music, Wynonna Judd connecting with new audiences while honoring her legacy and more. Ludacris: What’s going on Billboard? This is Ludacris, Stagecoach 2026, I need y’all to come with me. We about to have a hell of a […]",
     "image": null
   },
   {
@@ -90,15 +234,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/kid-rock-apache-helicopter-ride-pose-defense-sec-hegseth-1236233281/",
-    "source": "billboard",
-    "title": "Kid Rock Takes Apache Helicopter Ride Over Virginia and Poses With Defense Sec. Pete Hegseth As Part of Freedom 250 Promo",
-    "url": "https://www.billboard.com/music/music-news/kid-rock-apache-helicopter-ride-pose-defense-sec-hegseth-1236233281/",
-    "publishedAt": "2026-04-28T12:21:23.000Z",
-    "summary": "The joyful ride came a month after Hegseth shut down an investigation over Army aviators doing a fly-by of Rock's Nashville estate.",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/news/vince-staples-readies-new-album-cry-baby/",
     "source": "pitchfork",
     "title": "Vince Staples Readies New Album Cry Baby",
@@ -117,12 +252,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/pro/spotifys-26-q1-earnings-10-million-new-monthly-users/",
-    "source": "billboard",
-    "title": "Spotify’s 10 Million New Monthly Users Drive Double-Digit Growth in Ad-Supported Revenue",
-    "url": "https://www.billboard.com/pro/spotifys-26-q1-earnings-10-million-new-monthly-users/",
-    "publishedAt": "2026-04-28T11:46:58.000Z",
-    "summary": "The streaming giant reported first quarter revenue grew by 8%, meeting guidance, despite a 5% decline in ad-supported account revenue, as the total MAUs topped 760 million.",
+    "id": "nme-https://news.google.com/rss/articles/CBMizAFBVV95cUxPWXJqSklka3FrYzA5SXlYdkZlRzQ1dVVqU3U0aHFadnpGb0l5TThoajhpRGFfWjVrNDBlNUtKQm1nNlV0ZVVPUnYyX3NIRVoxckxXM1VHRDRjYkxMZTJCYXRyMjc0V01JV0NFSThQTFBSOGtuLWdFM29ydTVFX3lQMjhPV1FvMjF4eU96dmpSejVLSWhUaGZwcnBRWWNTdWVPODFoV1l5cjlBN2pXZUNrRFJpSTRzY1g4X2JQUlJfd0VGR2hNMTdraW5ELUQ?oc=5",
+    "source": "nme",
+    "title": "Liam Gallagher says Manic Street Preachers and Suede are \"both shit and lack swagger and style” - NME",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWXJqSklka3FrYzA5SXlYdkZlRzQ1dVVqU3U0aHFadnpGb0l5TThoajhpRGFfWjVrNDBlNUtKQm1nNlV0ZVVPUnYyX3NIRVoxckxXM1VHRDRjYkxMZTJCYXRyMjc0V01JV0NFSThQTFBSOGtuLWdFM29ydTVFX3lQMjhPV1FvMjF4eU96dmpSejVLSWhUaGZwcnBRWWNTdWVPODFoV1l5cjlBN2pXZUNrRFJpSTRzY1g4X2JQUlJfd0VGR2hNMTdraW5ELUQ?oc=5",
+    "publishedAt": "2026-04-28T10:59:22.000Z",
+    "summary": "Liam Gallagher says Manic Street Preachers and Suede are \"both shit and lack swagger and style” NME",
     "image": null
   },
   {
@@ -135,12 +270,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/culture/tv-film/american-idol-taylor-swift-night-1236233268/",
-    "source": "billboard",
-    "title": "‘American Idol’ Enters Its Taylor Swift Era With Theme Night",
-    "url": "https://www.billboard.com/culture/tv-film/american-idol-taylor-swift-night-1236233268/",
-    "publishedAt": "2026-04-28T09:44:41.000Z",
-    "summary": "Keyla Richardson drew particular attention for her take on “Lover,” reworking the song into something that even guest judge Nikki Glaser said felt entirely new.",
+    "id": "kerrang-https://news.google.com/rss/articles/CBMinAFBVV95cUxQZV9vZTI2VkctTFZUNl9IQjhTSWdnUGJIQ2lsR1FRcEVNeWp1S25YSkU3dkpRR211M1JqQUE2Q0N6YkR5Y19BYksxZDdTSHZRRjlMUHhyYzVQRTBEWjFsb0RKSkc4V2Z4Wnp5cU9LcDBQeXdzaUlqeWFCUGpnZC1ZZlJpNXlra0RqSVBXV0Z6NkU4WXJjTldzNzZibmk?oc=5",
+    "source": "kerrang",
+    "title": "Album review: Sevendust – One - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZV9vZTI2VkctTFZUNl9IQjhTSWdnUGJIQ2lsR1FRcEVNeWp1S25YSkU3dkpRR211M1JqQUE2Q0N6YkR5Y19BYksxZDdTSHZRRjlMUHhyYzVQRTBEWjFsb0RKSkc4V2Z4Wnp5cU9LcDBQeXdzaUlqeWFCUGpnZC1ZZlJpNXlra0RqSVBXV0Z6NkU4WXJjTldzNzZibmk?oc=5",
+    "publishedAt": "2026-04-28T09:12:00.000Z",
+    "summary": "Album review: Sevendust – One Kerrang!",
     "image": null
   },
   {
@@ -162,33 +297,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-live-reviews/sick-new-world-festival-las-vegas-review-1235554094/",
-    "source": "rolling-stone",
-    "title": "Las Vegas’ Sick New World Meets the Metal Moment",
-    "url": "https://www.rollingstone.com/music/music-live-reviews/sick-new-world-festival-las-vegas-review-1235554094/",
-    "publishedAt": "2026-04-28T02:14:02.000Z",
-    "summary": "From System of a Down's Armenian Genocide tribute to Ministry's Filth Pig anniversary set, the returning festival made a thunderous case for heavy music’s staying power",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/megan-thee-stallion-leaving-moulin-rouge-early-1235554535/",
-    "source": "rolling-stone",
-    "title": "Megan Thee Stallion Bows Out of ‘Moulin Rouge’ Early Following Hospitalization",
-    "url": "https://www.rollingstone.com/music/music-news/megan-thee-stallion-leaving-moulin-rouge-early-1235554535/",
-    "publishedAt": "2026-04-28T01:27:11.000Z",
-    "summary": "The news of her exit also arrived on the heels of her breakup from NBA star Klay Thompson",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/stagecoach-2026-best-of-post-malone-ella-langley-1235554437/",
-    "source": "rolling-stone",
-    "title": "The 10 Best Performances and Biggest Throwbacks of Stagecoach 2026",
-    "url": "https://www.rollingstone.com/music/music-country/stagecoach-2026-best-of-post-malone-ella-langley-1235554437/",
-    "publishedAt": "2026-04-27T23:06:56.000Z",
-    "summary": "The country fest was filled with nostalgia and surprises from Post Malone, Ella Langley, Hootie and the Blowfish, and more top acts",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/orbital-black-grape-dj-legends-and-many-others-headline-festival-in-manchester-on-may-2nd/",
     "source": "louder-than-war",
     "title": "Orbital, Black Grape, DJ legends and many others headline festival in Manchester on May 2nd",
@@ -207,15 +315,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/lady-gaga-and-doechii-runway-in-new-music-video-1235554128/",
-    "source": "rolling-stone",
-    "title": "Lady Gaga and Doechii Turn the Dancefloor Into a ‘Runway’ in New Music Video",
-    "url": "https://www.rollingstone.com/music/music-news/lady-gaga-and-doechii-runway-in-new-music-video-1235554128/",
-    "publishedAt": "2026-04-27T21:11:21.000Z",
-    "summary": "The collaboration is part of the Devil Wears Prada 2, which premieres May 1",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/better-new-rock-hall-inductee-billy-idol-vs-iron-maiden/",
     "source": "loudwire",
     "title": "VOTE: Better New Rock Hall Inductee - Billy Idol vs. Iron Maiden",
@@ -225,57 +324,12 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/industry-monk-olivia-rodrigo-nyc-open-mic-1235554136/",
-    "source": "rolling-stone",
-    "title": "Here’s What It Was Like When Olivia Rodrigo Popped Up at a Brooklyn Open Mic",
-    "url": "https://www.rollingstone.com/music/music-features/industry-monk-olivia-rodrigo-nyc-open-mic-1235554136/",
-    "publishedAt": "2026-04-27T20:19:37.000Z",
-    "summary": "Local musician Industry Monk, who performed just before Rodrigo's surprise appearance, tells us all the details",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/nba-youngboy-documentary-opening-weekend-viral-1235553975/",
-    "source": "rolling-stone",
-    "title": "NBA YoungBoy Fans Turn Movie Theaters Into Concerts for ‘American YoungBoy’",
-    "url": "https://www.rollingstone.com/music/music-features/nba-youngboy-documentary-opening-weekend-viral-1235553975/",
-    "publishedAt": "2026-04-27T20:04:16.000Z",
-    "summary": "Viral clips of packed, rowdy screenings helped turn the rapper’s tour documentary into an unlikely opening-weekend box office story, with the film earning a reported $1.2 million domestically",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/2026-acm-awards-winners-list-1235554212/",
-    "source": "rolling-stone",
-    "title": "2026 ACM Awards: The Complete Winners List",
-    "url": "https://www.rollingstone.com/music/music-country/2026-acm-awards-winners-list-1235554212/",
-    "publishedAt": "2026-04-27T19:38:42.000Z",
-    "summary": "From Entertainer of the Year to the New Artist categories",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/taylor-swift-files-sound-and-image-trademarks-fight-ai-1235553922/",
-    "source": "rolling-stone",
-    "title": "Taylor Swift Files Sound and Image Trademarks as AI Deepfake Concerns Grow",
-    "url": "https://www.rollingstone.com/music/music-news/taylor-swift-files-sound-and-image-trademarks-fight-ai-1235553922/",
-    "publishedAt": "2026-04-27T19:35:38.000Z",
-    "summary": "The singer’s company filed three applications pertaining to an image of Swift performing and the phrases “Hey, it’s Taylor Swift” and “Hey, it’s Taylor.\"",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/news/watch-lady-gaga-and-doechii-vogue-their-way-through-runway-video/",
     "source": "pitchfork",
     "title": "Watch Lady Gaga and Doechii Vogue Their Way Through “Runway” Video",
     "url": "https://pitchfork.com/news/watch-lady-gaga-and-doechii-vogue-their-way-through-runway-video/",
     "publishedAt": "2026-04-27T19:30:04.000Z",
     "summary": "The one-off single from The Devil Wears Prada 2",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/hootie-and-the-blowfish-stagecoach-public-enemy-performance-1235553200/",
-    "source": "rolling-stone",
-    "title": "Hootie and the Blowfish Make Their Stagecoach Debut With Deep-Fried Jams and Public Enemy",
-    "url": "https://www.rollingstone.com/music/music-country/hootie-and-the-blowfish-stagecoach-public-enemy-performance-1235553200/",
-    "publishedAt": "2026-04-27T19:14:32.000Z",
-    "summary": "The Nineties favorites created crossover magic when they welcomed Chuck D and Flavor Flav for a performance of “Fight the Power”",
     "image": null
   },
   {
@@ -405,24 +459,6 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/megadeth-metallica-ride-the-lightning-live/",
-    "source": "loudwire",
-    "title": "Megadeth Just Did Something Live for the Second Time Ever",
-    "url": "https://loudwire.com/megadeth-metallica-ride-the-lightning-live/",
-    "publishedAt": "2026-04-27T13:02:25.000Z",
-    "summary": "Fans in Columbia got a real treat from Megadeth as the band did something for just the second time in their history. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/kreator-mille-petrozza-krushers-of-the-world-2026-interview/",
-    "source": "loudwire",
-    "title": "Kreator Combatting 'Negative Energies' With New Album",
-    "url": "https://loudwire.com/kreator-mille-petrozza-krushers-of-the-world-2026-interview/",
-    "publishedAt": "2026-04-27T12:51:43.000Z",
-    "summary": "The Kreator leader says though the world climate influenced their new record, he views it as a way to deliver a unifying message amidst all the negativity. Continue reading…",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZjlpT19LWWdRQ2hPZlNQeTRGWHpUV0NJZXBzeE9rbXBoZ05wN3pndGxBSUZnM3VSRVJkeWRlVGtjMVpjaVVhN2FaSnRRZTVHWWxlX3E2NEUwb2ZMNlltWE9CWEdxRVZpaEVqckE4NHk4eFdqVW5EY2pNemlCenBsNjJSLU9zS3lVMWhJWHVWM2w4OUR1VE4tUnluem5WWHRqVk5JLXF4ZF9QUQ?oc=5",
     "source": "nme",
     "title": "King Gizzard And The Lizard Wizard have finished a new techno album - NME",
@@ -492,15 +528,6 @@
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeGtfY1czeUMwV2VYYnkxczY1cEhSTUduUzhEYS1JN0ZTZF92dFFid2ZWdE9pbVBMSWpJQnl0Vm12bWJ4OGR4b2k5T0szVVROZGlLbGNMZ1ZYanljTk5TSkRqamRjUWNmOUFoOHBSNUE4Y0lzQUpwbzg1Z2ZQTUVPVHBSbUd0REFfbjFIU1hCcjdTQkJBcmFrbE4xUFJIY1AwWFZjRDZqZUdCcUhPNEItVjN6WlJkYTg?oc=5",
     "publishedAt": "2026-04-27T09:42:19.000Z",
     "summary": "Amaia delivers a Tiny Desk Concert first by performing on folding chair flute NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMinwFBVV95cUxOV1dVY3ZWY09keU1zX0hkbnlnakVyblkyODljS0RaTjZOcktoNXlndzNTOWhha3h5NkdPaFZzMm5iZnRaZDhMRDVKMm5hZVQtblBDLVUwUllqYVB2OEg5YjBvdFo1ZDZsMWFqYTdqZTR0S29FUVcyTEdCUFdUSHd2UnZiOGM5cUdkdVFBWkMxeHhwV2cxMjlSSUFaWTI3UDg?oc=5",
-    "source": "nme",
-    "title": "‘Michael’ has biggest ever box office opening for music biopic - NME",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV1dVY3ZWY09keU1zX0hkbnlnakVyblkyODljS0RaTjZOcktoNXlndzNTOWhha3h5NkdPaFZzMm5iZnRaZDhMRDVKMm5hZVQtblBDLVUwUllqYVB2OEg5YjBvdFo1ZDZsMWFqYTdqZTR0S29FUVcyTEdCUFdUSHd2UnZiOGM5cUdkdVFBWkMxeHhwV2cxMjlSSUFaWTI3UDg?oc=5",
-    "publishedAt": "2026-04-27T09:21:59.000Z",
-    "summary": "‘Michael’ has biggest ever box office opening for music biopic NME",
     "image": null
   },
   {
@@ -585,30 +612,12 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/news/lcd-soundsystem-announce-even-more-north-american-tour-dates/",
-    "source": "pitchfork",
-    "title": "LCD Soundsystem Announce Even More North American Tour Dates",
-    "url": "https://pitchfork.com/news/lcd-soundsystem-announce-even-more-north-american-tour-dates/",
-    "publishedAt": "2026-04-24T18:42:07.000Z",
-    "summary": "James Murphy and co. will perform in cities including Minneapolis, Atlanta, and Vancouver",
-    "image": null
-  },
-  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMingFBVV95cUxOemk4RmtWT3ZUak9tYjhBNG9zazgwRGs2NzRpLTlUdmpLOWstZlY0V3FfSlNXcjUzZTYyV1FRajFJOU1KRDR4YVlsbEpiNVhzTHItc1hvWlVGQ0JfVWFDUjgtN0dMeTQ1bnJhWklWZlJwS0J1eHo1YkJUVGhFMlZiV0tUSFF4Z0xGMjhSYnBNUndrOWVLbnFWOEhpRkNHZw?oc=5",
     "source": "kerrang",
     "title": "Slam Dunk Festival director to “step down from operations” amid allegations - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOemk4RmtWT3ZUak9tYjhBNG9zazgwRGs2NzRpLTlUdmpLOWstZlY0V3FfSlNXcjUzZTYyV1FRajFJOU1KRDR4YVlsbEpiNVhzTHItc1hvWlVGQ0JfVWFDUjgtN0dMeTQ1bnJhWklWZlJwS0J1eHo1YkJUVGhFMlZiV0tUSFF4Z0xGMjhSYnBNUndrOWVLbnFWOEhpRkNHZw?oc=5",
     "publishedAt": "2026-04-24T18:30:00.000Z",
     "summary": "Slam Dunk Festival director to “step down from operations” amid allegations Kerrang!",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/news/stagecoach-2026-livestream-schedule-and-details/",
-    "source": "pitchfork",
-    "title": "Stagecoach 2026 Livestream Schedule & Details",
-    "url": "https://pitchfork.com/news/stagecoach-2026-livestream-schedule-and-details/",
-    "publishedAt": "2026-04-24T16:10:31.000Z",
-    "summary": "Find out when to see Post Malone, Lainey Wilson, Cody Johnson, and more",
     "image": null
   },
   {
@@ -708,15 +717,6 @@
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIaHFEajgxQlQxZlYxRUFLb05PRC0tUjBKNndVbVhDbGRhM192bEV3SlZUbHFiQWZuYUQ0RVc4cVJGTTNjcDlBWnc0XzkwX3pSakdZR2lVRm1DQm5UazlaSXZneHdqYlE?oc=5",
     "publishedAt": "2026-04-23T07:00:00.000Z",
     "summary": "Album review: HOKKA – Via Misera IV Kerrang!",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMivgFBVV95cUxQUkZmZlpmNlZwdkxwbllQd1pwZFR0VVprSUgzdHZmRUxCRktfUHVTSHoxQUl6YmRpczNUT3VNaVhxS0w0UXA4OGxuTWtnYnc2UGZKYy04dm5wcmFZTjk2RVpRWi04ZUhrVFY2T2w3MlRGQW8tUlZROHBPYm9FOEZGMGpueWhlUmJwSkpOLXoyeXRVNTBzaDh0cGQtVWt6Ui1GSm5nN2VZSmFybnJ1M1VsZmtSRlJMWXZDQUZMRjZR?oc=5",
-    "source": "kerrang",
-    "title": "Airbourne announce new, self-titled album via a letter to Lemmy - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUkZmZlpmNlZwdkxwbllQd1pwZFR0VVprSUgzdHZmRUxCRktfUHVTSHoxQUl6YmRpczNUT3VNaVhxS0w0UXA4OGxuTWtnYnc2UGZKYy04dm5wcmFZTjk2RVpRWi04ZUhrVFY2T2w3MlRGQW8tUlZROHBPYm9FOEZGMGpueWhlUmJwSkpOLXoyeXRVNTBzaDh0cGQtVWt6Ui1GSm5nN2VZSmFybnJ1M1VsZmtSRlJMWXZDQUZMRjZR?oc=5",
-    "publishedAt": "2026-04-22T16:07:00.000Z",
-    "summary": "Airbourne announce new, self-titled album via a letter to Lemmy Kerrang!",
     "image": null
   }
 ]
