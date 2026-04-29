@@ -1,5 +1,50 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/rick-ross-french-montana-verzuz-battle-announced-1236234850/",
+    "source": "billboard",
+    "title": "Rick Ross & French Montana Set to Face Off in ‘Verzuz’ Battle",
+    "url": "https://www.billboard.com/music/rb-hip-hop/rick-ross-french-montana-verzuz-battle-announced-1236234850/",
+    "publishedAt": "2026-04-29T21:54:10.000Z",
+    "summary": "The clash is set for May 7 at 9:30 p.m. ET.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/d4vd-court-appearance-1235555150/",
+    "source": "rolling-stone",
+    "title": "D4vd Allegedly Dismembered Celeste Rivas in Kiddie Pool With Chainsaws Purchased on Amazon",
+    "url": "https://www.rollingstone.com/music/music-news/d4vd-court-appearance-1235555150/",
+    "publishedAt": "2026-04-29T21:41:53.000Z",
+    "summary": "Prosecutors say surveillance video, text messages, photographs, Amazon deliveries, and DNA evidence found in D4vd's garage link him to the murder of 14-year-old Celeste Rivas Hernandez",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/steven-tyler-sexual-assault-lawsuit-largely-dismissed/",
+    "source": "billboard",
+    "title": "Steven Tyler Wins Ruling Dismissing Much of Child Sexual Assault Lawsuit",
+    "url": "https://www.billboard.com/pro/steven-tyler-sexual-assault-lawsuit-largely-dismissed/",
+    "publishedAt": "2026-04-29T21:26:55.000Z",
+    "summary": "A judge says much of the lawsuit from Julia Misley, who claims she's the \"teen bride\" Tyler described in a memoir, was filed years too late.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/latin/duelo-interview-us-gravedad-tour-kickoff-1236234836/",
+    "source": "billboard",
+    "title": "Duelo Talk Kicking Off Gravedad Tour Across the U.S.: ‘Norteño Music Will Continue to Be a Core Part of Regional Mexican’",
+    "url": "https://www.billboard.com/music/latin/duelo-interview-us-gravedad-tour-kickoff-1236234836/",
+    "publishedAt": "2026-04-29T21:19:48.000Z",
+    "summary": "The group's \"Te Cura El Tiempo\" reached No. 1 on the Regional Mexican Airplay chart last week.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/awards/musicians-hall-of-fame-inducts-12-new-members-1236234516/",
+    "source": "billboard",
+    "title": "Musicians Hall of Fame Inducts 12 New Members, Including Dolly Parton, Keith Urban & Michael McDonald",
+    "url": "https://www.billboard.com/music/awards/musicians-hall-of-fame-inducts-12-new-members-1236234516/",
+    "publishedAt": "2026-04-29T21:15:57.000Z",
+    "summary": "The Musicians Hall of Fame inducted a new class of members during a Nashville ceremony on April 28.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/pro/taylor-swift-umg-deal-artists-spotify-share-sale-payout/",
     "source": "billboard",
     "title": "How Taylor Swift’s Record Contract Could Lead to Millions of Dollars for UMG Artists After Spotify Stock Sale",
@@ -60,42 +105,6 @@
     "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-rza-connect-son-1236234470/",
     "publishedAt": "2026-04-29T19:46:56.000Z",
     "summary": "Rocky and RZA connected on FaceTime during an interview on The Jason Lee Show.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/taylor-swift-eras-tour-ticket-reseller-lawsuit-ftc-bots-act/",
-    "source": "billboard",
-    "title": "FTC Gets Green Light for BOTS Act Lawsuit Against Reseller of Taylor Swift Eras Tour Tickets & More",
-    "url": "https://www.billboard.com/pro/taylor-swift-eras-tour-ticket-reseller-lawsuit-ftc-bots-act/",
-    "publishedAt": "2026-04-29T19:45:23.000Z",
-    "summary": "A new court ruling says the 2016 Better Online Ticket Sales, or BOTS Act, is not limited to ticket resellers who use bots to evade security controls.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/olivia-rodrigo-snl-promo-spoofs-devil-wears-prada-1236234552/",
-    "source": "billboard",
-    "title": "Olivia Rodrigo Becomes ‘Glorified Assistant’ to 30 Rock’s Own Miranda Priestly Ahead of Hosting ‘SNL’",
-    "url": "https://www.billboard.com/music/music-news/olivia-rodrigo-snl-promo-spoofs-devil-wears-prada-1236234552/",
-    "publishedAt": "2026-04-29T19:34:11.000Z",
-    "summary": "Gird your loins.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/tv-film/rupauls-drag-race-all-stars-11-guest-judges-trailer-1236234447/",
-    "source": "billboard",
-    "title": "La Toya Jackson, Renee Rapp & More to Guest Judge ‘Rupaul’s Drag Race All Stars’ Season 11",
-    "url": "https://www.billboard.com/culture/tv-film/rupauls-drag-race-all-stars-11-guest-judges-trailer-1236234447/",
-    "publishedAt": "2026-04-29T19:27:29.000Z",
-    "summary": "The new season will premiere in May.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/michael-jackson-streams-double-biopic-trending-up-1236234374/",
-    "source": "billboard",
-    "title": "How Much Did Michael Jackson’s Streams Increase Following the Release of ‘Michael’ Biopic?",
-    "url": "https://www.billboard.com/music/chart-beat/michael-jackson-streams-double-biopic-trending-up-1236234374/",
-    "publishedAt": "2026-04-29T19:24:59.000Z",
-    "summary": "This week's Trending Up looks at the King of Pop's numbers skyrocketing in the wake of the new hit movie about his rise to superstardom.",
     "image": null
   },
   {
@@ -429,15 +438,6 @@
     "url": "https://www.rollingstone.com/music/music-news/jack-antonoff-taylor-swift-friendship-rant-bridge-1235555323/",
     "publishedAt": "2026-04-29T05:14:51.000Z",
     "summary": "“I understand that need to have different collaborators,” said the producer when discussing his relationship with The Life of a Showgirl star",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/noah-kahan-hayley-williams-downfall-nashville-1235555322/",
-    "source": "rolling-stone",
-    "title": "Good Luck Not Crying to Noah Kahan and Hayley Williams’ Performance of ‘Downfall’",
-    "url": "https://www.rollingstone.com/music/music-news/noah-kahan-hayley-williams-downfall-nashville-1235555322/",
-    "publishedAt": "2026-04-29T04:21:54.000Z",
-    "summary": "Kahan stopped by Williams’ multi-night stand at Nashville’s Ryman Auditorium",
     "image": null
   },
   {
