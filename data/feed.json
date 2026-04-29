@@ -1,5 +1,41 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/rock/rolling-stones-tease-foreign-tongues-1236234064/",
+    "source": "billboard",
+    "title": "Rolling Stones Tease ‘Foreign Tongues’ Project",
+    "url": "https://www.billboard.com/music/rock/rolling-stones-tease-foreign-tongues-1236234064/",
+    "publishedAt": "2026-04-29T06:06:09.000Z",
+    "summary": "The legendary British rock band is teasing what appears to be a new project titled Foreign Tongues, clues for which can be seen on their official social pages.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/jack-antonoff-taylor-swift-friendship-rant-bridge-1235555323/",
+    "source": "rolling-stone",
+    "title": "Jack Antonoff Isn’t Bothered He Didn’t Work on Taylor Swift’s Last Album",
+    "url": "https://www.rollingstone.com/music/music-news/jack-antonoff-taylor-swift-friendship-rant-bridge-1235555323/",
+    "publishedAt": "2026-04-29T05:14:51.000Z",
+    "summary": "\"I understand that need to have different collaborators,” said the producer when discussing his relationship with The Life of a Showgirl star",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/noah-kahan-hayley-williams-downfall-nashville-1235555322/",
+    "source": "rolling-stone",
+    "title": "Good Luck Not Crying to Noah Kahan and Hayley Williams’ Performance of ‘Downfall’",
+    "url": "https://www.rollingstone.com/music/music-news/noah-kahan-hayley-williams-downfall-nashville-1235555322/",
+    "publishedAt": "2026-04-29T04:21:54.000Z",
+    "summary": "Kahan stopped by Williams' multi-night stand at Nashville's Ryman Auditorium",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/awards/2026-ascap-screen-celebrates-event-winners-1236234036/",
+    "source": "billboard",
+    "title": "‘Wicked: For Good’ Gets Some Love at 2026 ASCAP Screen Celebrates Event",
+    "url": "https://www.billboard.com/music/awards/2026-ascap-screen-celebrates-event-winners-1236234036/",
+    "publishedAt": "2026-04-29T03:34:37.000Z",
+    "summary": "David Vanacore received ASCAP’s Golden Note Award in recognition of his career achievements and impact on television music.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/music-news/tomorrow-x-together-unicef-youth-mental-health-video-campaign-1236233696/",
     "source": "billboard",
     "title": "TOMORROW X TOGETHER Launches New UNICEF Campaign Focused on Youth Mental Health",
@@ -78,24 +114,6 @@
     "url": "https://www.billboard.com/video/mariah-the-scientist-evolution/",
     "publishedAt": "2026-04-28T22:58:01.000Z",
     "summary": "This is partner content. In conversation with Billboard and Honda Stage, Mariah the Scientist reflects on the early days of her career, the moment she decided to fully commit to music, and what it’s felt like to grow from intimate performances to bigger and bigger stages. Honest and introspective, she opens up about trusting herself, […]",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/maluma-kany-garcia-latin-airplay-tropical-airplay-charts-1236233866/",
-    "source": "billboard",
-    "title": "‘1+1’ Adds Up to No. 1: Maluma & Kany García Lead Latin Airplay, Tropical Airplay Charts",
-    "url": "https://www.billboard.com/music/chart-beat/maluma-kany-garcia-latin-airplay-tropical-airplay-charts-1236233866/",
-    "publishedAt": "2026-04-28T22:36:02.000Z",
-    "summary": "García pulls of a double win with her first chart-toppers on both rankings.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/record-store-day-nyc-2026-report/",
-    "source": "billboard",
-    "title": "Record Store Day NYC 2026 Report: Early Lines Across Brooklyn & Queens, Swift & Grateful Dead Top Sellers",
-    "url": "https://www.billboard.com/pro/record-store-day-nyc-2026-report/",
-    "publishedAt": "2026-04-28T22:14:14.000Z",
-    "summary": "Taylor Swift, Charli xcx, Carly Rae Jepsen and The Grateful Dead box set were among top sellers as Retail Track trekked across Brooklyn and Queens.",
     "image": null
   },
   {
@@ -207,24 +225,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/ariana-grande-new-album-petal-release-date-1235554759/",
-    "source": "rolling-stone",
-    "title": "Ariana Grande Announces New Album ‘Petal’ — and It’s Coming Sooner Than You Think",
-    "url": "https://www.rollingstone.com/music/music-news/ariana-grande-new-album-petal-release-date-1235554759/",
-    "publishedAt": "2026-04-28T15:43:48.000Z",
-    "summary": "After weeks of teasing, Grande announced the follow-up to her 2024 LP Eternal Sunshine",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/metallica-reload-super-deluxe-reissue-1235554658/",
-    "source": "rolling-stone",
-    "title": "Metallica Prep Fully Loaded ‘ReLoad’ Box Set Reissue for This Summer",
-    "url": "https://www.rollingstone.com/music/music-news/metallica-reload-super-deluxe-reissue-1235554658/",
-    "publishedAt": "2026-04-28T15:30:04.000Z",
-    "summary": "Super deluxe edition of the band’s seventh album, which contains “Fuel” and “The Memory Remains,” will include demos, live recordings, rough mixes, and concert films",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/news/ariana-grande-announces-new-album-petal/",
     "source": "pitchfork",
     "title": "Ariana Grande Announces New Album Petal",
@@ -294,6 +294,15 @@
     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWXJqSklka3FrYzA5SXlYdkZlRzQ1dVVqU3U0aHFadnpGb0l5TThoajhpRGFfWjVrNDBlNUtKQm1nNlV0ZVVPUnYyX3NIRVoxckxXM1VHRDRjYkxMZTJCYXRyMjc0V01JV0NFSThQTFBSOGtuLWdFM29ydTVFX3lQMjhPV1FvMjF4eU96dmpSejVLSWhUaGZwcnBRWWNTdWVPODFoV1l5cjlBN2pXZUNrRFJpSTRzY1g4X2JQUlJfd0VGR2hNMTdraW5ELUQ?oc=5",
     "publishedAt": "2026-04-28T10:59:22.000Z",
     "summary": "Liam Gallagher says Manic Street Preachers and Suede are \"both shit and lack swagger and style” NME",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMiswFBVV95cUxNMEJObURoUUhienlGMk1aVGNsMHV2REtZODU5aHZJd2o5NWpBNklnanhVZlJIRWowaWg2dkxmOGkwUVl0ZEt3eGJmcjE2ZW5icHJTTmxfYkJudmhyZVM0MnotN21pX19CeHBMUXdJUUFNVzhQdDk5MUxHUmFKRTVfR0ZfRDZjSFRpN1NKOFdhYkVMNnpMc1VVeTVXZUJINFFOaDB2dWdpS3FNa2Zkd1UzckVJbw?oc=5",
+    "source": "nme",
+    "title": "‘Call Of Duty’ movie director goes viral for calling gamers “pathetic” in old interview - NME",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMEJObURoUUhienlGMk1aVGNsMHV2REtZODU5aHZJd2o5NWpBNklnanhVZlJIRWowaWg2dkxmOGkwUVl0ZEt3eGJmcjE2ZW5icHJTTmxfYkJudmhyZVM0MnotN21pX19CeHBMUXdJUUFNVzhQdDk5MUxHUmFKRTVfR0ZfRDZjSFRpN1NKOFdhYkVMNnpMc1VVeTVXZUJINFFOaDB2dWdpS3FNa2Zkd1UzckVJbw?oc=5",
+    "publishedAt": "2026-04-28T10:49:56.000Z",
+    "summary": "‘Call Of Duty’ movie director goes viral for calling gamers “pathetic” in old interview NME",
     "image": null
   },
   {
@@ -537,15 +546,6 @@
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQN25IcEpJRF9ZbVdGUmlwSnhWWVctd241azZINEJUOXN5R1k2Vk1qOUllZUdKQ0p5T0F1NkxrZzgtbUJJYk01OWVXamNfX1gyMDEtb0prU25mVnF5cGdRYzNkUlNTb0JzNjRSQXNBYy1uY2VpZ3RQUnBTVTV2WHE4RWxrdlJVUHRrS1NseThtR0FJcE0zd0FWWndUYndzOE00aFRRQ3hTY3l4SUJGYmx3NmFXTTJhOUtZNTFTLQ?oc=5",
     "publishedAt": "2026-04-27T11:36:57.000Z",
     "summary": "Russell Brand responds to widely-mocked Bible verse clip from Piers Morgan interview NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbkRzQ3V6YUY0M3ZhcHhlU1NNOUQwRVVlbk4yRGdPNjl0aGUtQ1JhNWVrd3pvM25YQWg5aHVsUFFVYV8yN0hFSG5kNXNrZW5fWEVDeHhNVExGa0VlQ2xhLTdqMTk3cnNNZUc1QnZ4VGhTYnpjS25PcGIwcHBLdWJDRGVZQ3FSN0VlR2hlTFdJR3FsaFphYkNzWXpuSF9UMVdXNUg3bmlhZTNhX24yY0F0ZXBsTXlweE5idUtNWFNXY2ZuS0E5bDIzVlZIWlNPVy12V3pjdmNn?oc=5",
-    "source": "nme",
-    "title": "Olivia Rodrigo says new album is about the \"jealousy\" and \"longing\" from her first \"big girl\" relationship - NME",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbkRzQ3V6YUY0M3ZhcHhlU1NNOUQwRVVlbk4yRGdPNjl0aGUtQ1JhNWVrd3pvM25YQWg5aHVsUFFVYV8yN0hFSG5kNXNrZW5fWEVDeHhNVExGa0VlQ2xhLTdqMTk3cnNNZUc1QnZ4VGhTYnpjS25PcGIwcHBLdWJDRGVZQ3FSN0VlR2hlTFdJR3FsaFphYkNzWXpuSF9UMVdXNUg3bmlhZTNhX24yY0F0ZXBsTXlweE5idUtNWFNXY2ZuS0E5bDIzVlZIWlNPVy12V3pjdmNn?oc=5",
-    "publishedAt": "2026-04-27T10:33:26.000Z",
-    "summary": "Olivia Rodrigo says new album is about the \"jealousy\" and \"longing\" from her first \"big girl\" relationship NME",
     "image": null
   },
   {
