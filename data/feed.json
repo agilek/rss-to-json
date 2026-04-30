@@ -1,65 +1,128 @@
 [
   {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/rick-ross-french-montana-verzuz-battle-announced-1236234850/",
+    "id": "billboard-https://www.billboard.com/video/kehlani-explains-why-she-thinks-folded-resonates/",
     "source": "billboard",
-    "title": "Rick Ross & French Montana Set to Face Off in ‘Verzuz’ Battle",
-    "url": "https://www.billboard.com/music/rb-hip-hop/rick-ross-french-montana-verzuz-battle-announced-1236234850/",
-    "publishedAt": "2026-04-29T21:54:10.000Z",
-    "summary": "The clash is set for May 7 at 9:30 p.m. ET.",
+    "title": "Kehlani Explains Why She Thinks “Folded” Resonates With So Many People & More | Billboard Women In Music 2026",
+    "url": "https://www.billboard.com/video/kehlani-explains-why-she-thinks-folded-resonates/",
+    "publishedAt": "2026-04-30T03:23:29.000Z",
+    "summary": "Kehlani caught up with Drew Afualo & Billboard’s Lyndsey Havens on the red carpet at the Billboard Women in Music 2026.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/the-beaches-on-accepting-global-force-did-i-say-too-much/",
+    "source": "billboard",
+    "title": "The Beaches on Accepting Global Force Award, Inspiration Behind ‘Did I Say Too Much’ | Billboard Women In Music 2026",
+    "url": "https://www.billboard.com/video/the-beaches-on-accepting-global-force-did-i-say-too-much/",
+    "publishedAt": "2026-04-30T03:15:49.000Z",
+    "summary": "The Beaches caught up with Drew Afualo & Billboard’s Lyndsey Havens on the red carpet at the Billboard Women in Music 2026.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/david-allan-coe-dead-obituary-1218831/",
+    "source": "rolling-stone",
+    "title": "David Allan Coe, Singer of the ‘Perfect Country and Western Song,’ Dead at 86",
+    "url": "https://www.rollingstone.com/music/music-country/david-allan-coe-dead-obituary-1218831/",
+    "publishedAt": "2026-04-30T03:15:11.000Z",
+    "summary": "Unapologetic outlaw country artist was known for singing \"You Never Even Called Me by My Name\" and \"The Ride,\" and writing \"Take This Job and Shove It\"",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/lainey-wilsons-stagecoach-adoration-of-ella-langley/",
+    "source": "billboard",
+    "title": "Lainey Wilson’s Stagecoach Experience & Adoration of Ella Langley | Billboard Women In Music 2026",
+    "url": "https://www.billboard.com/video/lainey-wilsons-stagecoach-adoration-of-ella-langley/",
+    "publishedAt": "2026-04-30T03:07:35.000Z",
+    "summary": "Lainey Wilson caught up with Drew Afualo & Billboard’s Lyndsey Havens on the red carpet at the Billboard Women in Music 2026.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/brandi-carlile-on-laufey-aaron-dessner-amp-new-album/",
+    "source": "billboard",
+    "title": "Brandi Carlile on Laufey, Aaron Dessner, & Exploring Family & Queer Identity on New Album | Billboard Women In Music 2026",
+    "url": "https://www.billboard.com/video/brandi-carlile-on-laufey-aaron-dessner-amp-new-album/",
+    "publishedAt": "2026-04-30T02:59:06.000Z",
+    "summary": "Brandi Carlile caught up with Drew Afualo & Billboard’s Lyndsey Havens on the red carpet at the Billboard Women in Music 2026.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/mariah-the-scientist-on-young-thug-collab-at-coachella-2026/",
+    "source": "billboard",
+    "title": "Mariah the Scientist On YoungThug Collab at Coachella 2026, Working With Kali Uchis & More | Billboard Women In Music 2026",
+    "url": "https://www.billboard.com/video/mariah-the-scientist-on-young-thug-collab-at-coachella-2026/",
+    "publishedAt": "2026-04-30T02:45:06.000Z",
+    "summary": "Mariah the Scientist caught up with Drew Afualo & Billboard’s Lyndsey Havens on the red carpet at the Billboard Women in Music 2026.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/ella-langleys-dandelion-choosin-texas-skyrocketing-career/",
+    "source": "billboard",
+    "title": "Ella Langley’s ‘Dandelion’ & “Choosin’ Texas” Skyrocketing Her Career | Billboard Women In Music 2026",
+    "url": "https://www.billboard.com/video/ella-langleys-dandelion-choosin-texas-skyrocketing-career/",
+    "publishedAt": "2026-04-30T02:32:06.000Z",
+    "summary": "Ella Langley caught up with Drew Afualo & Billboard’s Lyndsey Havens on the red carpet at the Billboard Women in Music 2026.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/beth-matthews-on-being-named-executive-of-the-year/",
+    "source": "billboard",
+    "title": "Beth Matthews on Being Named Executive of the Year | Billboard Women In Music 2026",
+    "url": "https://www.billboard.com/video/beth-matthews-on-being-named-executive-of-the-year/",
+    "publishedAt": "2026-04-30T02:22:06.000Z",
+    "summary": "Beth Matthews caught up with Drew Afualo & Billboard’s Lyndsey Havens on the red carpet at the Billboard Women in Music 2026.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/kali-uchis-reveals-new-album-working-with-tokischa/",
+    "source": "billboard",
+    "title": "Kali Uchis Reveals New Album, Working With Tokischa & Mariah the Scientist & More  | Billboard Women In Music 2026",
+    "url": "https://www.billboard.com/video/kali-uchis-reveals-new-album-working-with-tokischa/",
+    "publishedAt": "2026-04-30T02:17:42.000Z",
+    "summary": "Kali Uchis caught up with Drew Afualo & Billboard’s Lyndsey Havens on the red carpet at the Billboard Women in Music 2026.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/bella-poarch-on-the-beaches-new-single-ribcage-teases-album/",
+    "source": "billboard",
+    "title": "Bella Poarch on The Beaches, Her Single ‘Ribcage,’ & Teases New Album | Billboard Women In Music 2026",
+    "url": "https://www.billboard.com/video/bella-poarch-on-the-beaches-new-single-ribcage-teases-album/",
+    "publishedAt": "2026-04-30T02:03:31.000Z",
+    "summary": "Bella Poarch caught up with Drew Afualo & Billboard’s Lyndsey Havens on the red carpet at the Billboard Women in Music 2026.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/chelley-bissainthe-opens-up-about-her-dating-life/",
+    "source": "billboard",
+    "title": "Chelley Bissainthe Fangirls Over Kehlani & Opens Up About Her Dating Life | Billboard Women In Music 2026",
+    "url": "https://www.billboard.com/video/chelley-bissainthe-opens-up-about-her-dating-life/",
+    "publishedAt": "2026-04-30T02:00:25.000Z",
+    "summary": "Chelley Bissainthe caught up with Drew Afualo & Billboard’s Lyndsey Havens on the red carpet at the Billboard Women in Music 2026.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/willie-nelson-birthday-touring-interview-1235555353/",
+    "source": "rolling-stone",
+    "title": "Willie Nelson Is Now 93. Here’s What Keeps Him Going",
+    "url": "https://www.rollingstone.com/music/music-features/willie-nelson-birthday-touring-interview-1235555353/",
+    "publishedAt": "2026-04-29T23:31:41.000Z",
+    "summary": "Nelson continues to tour and will kick off a new string of dates next month in Texas",
     "image": null
   },
   {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/d4vd-court-appearance-1235555150/",
     "source": "rolling-stone",
-    "title": "D4vd Allegedly Dismembered Celeste Rivas in Kiddie Pool With Chainsaws Purchased on Amazon",
+    "title": "D4vd Allegedly Dismembered Celeste Rivas in Kiddie Pool With Chainsaw Purchased on Amazon",
     "url": "https://www.rollingstone.com/music/music-news/d4vd-court-appearance-1235555150/",
     "publishedAt": "2026-04-29T21:41:53.000Z",
-    "summary": "Prosecutors say surveillance video, text messages, photographs, Amazon deliveries, and DNA evidence found in D4vd's garage link him to the murder of 14-year-old Celeste Rivas Hernandez",
+    "summary": "Prosecutors say surveillance video, text messages, Tesla data, photographs, Amazon deliveries, and DNA evidence found in D4vd's garage link him to the murder of 14-year-old Celeste Rivas Hernandez",
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/pro/steven-tyler-sexual-assault-lawsuit-largely-dismissed/",
-    "source": "billboard",
-    "title": "Steven Tyler Wins Ruling Dismissing Much of Child Sexual Assault Lawsuit",
-    "url": "https://www.billboard.com/pro/steven-tyler-sexual-assault-lawsuit-largely-dismissed/",
-    "publishedAt": "2026-04-29T21:26:55.000Z",
-    "summary": "A judge says much of the lawsuit from Julia Misley, who claims she's the \"teen bride\" Tyler described in a memoir, was filed years too late.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/latin/duelo-interview-us-gravedad-tour-kickoff-1236234836/",
-    "source": "billboard",
-    "title": "Duelo Talk Kicking Off Gravedad Tour Across the U.S.: ‘Norteño Music Will Continue to Be a Core Part of Regional Mexican’",
-    "url": "https://www.billboard.com/music/latin/duelo-interview-us-gravedad-tour-kickoff-1236234836/",
-    "publishedAt": "2026-04-29T21:19:48.000Z",
-    "summary": "The group's \"Te Cura El Tiempo\" reached No. 1 on the Regional Mexican Airplay chart last week.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/awards/musicians-hall-of-fame-inducts-12-new-members-1236234516/",
-    "source": "billboard",
-    "title": "Musicians Hall of Fame Inducts 12 New Members, Including Dolly Parton, Keith Urban & Michael McDonald",
-    "url": "https://www.billboard.com/music/awards/musicians-hall-of-fame-inducts-12-new-members-1236234516/",
-    "publishedAt": "2026-04-29T21:15:57.000Z",
-    "summary": "The Musicians Hall of Fame inducted a new class of members during a Nashville ceremony on April 28.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/taylor-swift-umg-deal-artists-spotify-share-sale-payout/",
-    "source": "billboard",
-    "title": "How Taylor Swift’s Record Contract Could Lead to Millions of Dollars for UMG Artists After Spotify Stock Sale",
-    "url": "https://www.billboard.com/pro/taylor-swift-umg-deal-artists-spotify-share-sale-payout/",
-    "publishedAt": "2026-04-29T21:03:17.000Z",
-    "summary": "A clause Swift had inserted into her initial deal with Universal in 2018 could have a major effect for some artists after UMG offloads part of its Spotify stock.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/current-k-pop-concerts-1236234463/",
-    "source": "billboard",
-    "title": "A Full List of Current 2026 K-Pop Concerts (Updating)",
-    "url": "https://www.billboard.com/culture/product-recommendations/current-k-pop-concerts-1236234463/",
-    "publishedAt": "2026-04-29T20:50:46.000Z",
-    "summary": "From aespa and Monsta X to BTS, here's what you can expect from the K-pop concert scene this year.",
+    "id": "nme-https://news.google.com/rss/articles/CBMifkFVX3lxTFBnUWFkOENsaXMyVGdyLXVtSTdUUm5COGtsSU1uVk4zd3YwY1BxUDNwblhfUTZDSVlnMDF2ZmFST2NfSmNhZnRQMEhBOVhKVmdLa0sxUndKdjBmeWdFdFdONEV2b2tOeUd5LXdCZS0weUJOZmtaWUF4dERoNmdFZw?oc=5",
+    "source": "nme",
+    "title": "Why was ‘The Boys’ spin-off ‘Gen V’ cancelled? - NME",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBnUWFkOENsaXMyVGdyLXVtSTdUUm5COGtsSU1uVk4zd3YwY1BxUDNwblhfUTZDSVlnMDF2ZmFST2NfSmNhZnRQMEhBOVhKVmdLa0sxUndKdjBmeWdFdFdONEV2b2tOeUd5LXdCZS0weUJOZmtaWUF4dERoNmdFZw?oc=5",
+    "publishedAt": "2026-04-29T20:52:25.000Z",
+    "summary": "Why was ‘The Boys’ spin-off ‘Gen V’ cancelled? NME",
     "image": null
   },
   {
@@ -69,42 +132,6 @@
     "url": "https://pitchfork.com/news/alex-g-drops-two-new-songs-on-personal-youtube-channel/",
     "publishedAt": "2026-04-29T20:13:56.000Z",
     "summary": "DIY habits die hard, even when you’re a major-label artist",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/amazon-new-fire-tv-stick-hd-shop-online-1236234306/",
-    "source": "billboard",
-    "title": "Amazon’s New Fire TV Stick HD Features Alexa+ for Intuitive Streaming & It’s More Portable Than Ever: Shop Here",
-    "url": "https://www.billboard.com/culture/product-recommendations/amazon-new-fire-tv-stick-hd-shop-online-1236234306/",
-    "publishedAt": "2026-04-29T20:05:36.000Z",
-    "summary": "The new Amazon Ember Artline 55-inch TV also accompanied the launch of the improved Fire TV Stick.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/inside-range-media-catalog-advisory-team-weeknd-deal/",
-    "source": "billboard",
-    "title": "‘Few Are Doing What We’re Doing’: Range’s Evan Winiker on the Firm’s Thriving Catalog Advisory Business",
-    "url": "https://www.billboard.com/pro/inside-range-media-catalog-advisory-team-weeknd-deal/",
-    "publishedAt": "2026-04-29T20:04:35.000Z",
-    "summary": "From advising on The Weeknd’s $1B deal to taking top composer catalogs to market, Winiker breaks down a quiet but flourishing part of Range’s operation.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/lady-gaga-three-songs-devil-wears-prada-2-soundtrack-1236234632/",
-    "source": "billboard",
-    "title": "Gird Your Loins: Lady Gaga Has Three Songs on ‘Devil Wears Prada 2’ Soundtrack",
-    "url": "https://www.billboard.com/music/music-news/lady-gaga-three-songs-devil-wears-prada-2-soundtrack-1236234632/",
-    "publishedAt": "2026-04-29T19:56:53.000Z",
-    "summary": "Dua Lipa, Laufey, SZA, Olivia Dean and more are also featured on the album.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/asap-rocky-rza-connect-son-1236234470/",
-    "source": "billboard",
-    "title": "A$AP Rocky Gives RZA His Flowers After Naming First Son After Wu-Tang Legend: ‘We Had to Carry on Tradition’",
-    "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-rza-connect-son-1236234470/",
-    "publishedAt": "2026-04-29T19:46:56.000Z",
-    "summary": "Rocky and RZA connected on FaceTime during an interview on The Jason Lee Show.",
     "image": null
   },
   {
@@ -186,6 +213,15 @@
     "url": "https://loudwire.com/chuck-billy-testament-memoir-book/",
     "publishedAt": "2026-04-29T15:58:14.000Z",
     "summary": "'Holding My Breath: The Two Testaments of Chuck Billy' is a new memoir coming from the thrash singer this fall. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSWlRUWlERzNkTVBBcDdaMTBqSUFfMDJId1hpazBzakp5aV8talJHLUVVV285cjdQVGNVWkFaRHFuWGQxNl9lQklCbGwwYl95V0xTNTFBU29NRDhHd0FETl9OdU5Lek1nbmw4aU1ZWFVkczdXYXNjNmFQZThsTG5JMVJzVkluNHdRWk5KSmtEYXhkLWFxVGloTzJLU1k0WW5VYW5taHZPSmNUUQ?oc=5",
+    "source": "nme",
+    "title": "Finn Wolfhard announces new album 'Fire From The Hip' with charismatic single 'I’ll Let You Finish’ - NME",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSWlRUWlERzNkTVBBcDdaMTBqSUFfMDJId1hpazBzakp5aV8talJHLUVVV285cjdQVGNVWkFaRHFuWGQxNl9lQklCbGwwYl95V0xTNTFBU29NRDhHd0FETl9OdU5Lek1nbmw4aU1ZWFVkczdXYXNjNmFQZThsTG5JMVJzVkluNHdRWk5KSmtEYXhkLWFxVGloTzJLU1k0WW5VYW5taHZPSmNUUQ?oc=5",
+    "publishedAt": "2026-04-29T15:41:32.000Z",
+    "summary": "Finn Wolfhard announces new album 'Fire From The Hip' with charismatic single 'I’ll Let You Finish’ NME",
     "image": null
   },
   {
@@ -324,15 +360,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/broken-social-scene-new-music-interview-1235554903/",
-    "source": "rolling-stone",
-    "title": "How the Members of Broken Social Scene Found One Another Again",
-    "url": "https://www.rollingstone.com/music/music-features/broken-social-scene-new-music-interview-1235554903/",
-    "publishedAt": "2026-04-29T13:00:00.000Z",
-    "summary": "Kevin Drew talks about the Canadian indie band’s latest reunion for a joyful album that will break your heart",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/mark-vennis-and-different-place-goodbye-to-all-that-album-review/",
     "source": "louder-than-war",
     "title": "Mark Vennis and Different Place: Goodbye To All That – Album Review",
@@ -432,15 +459,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/jack-antonoff-taylor-swift-friendship-rant-bridge-1235555323/",
-    "source": "rolling-stone",
-    "title": "Jack Antonoff Isn’t Bothered He Didn’t Work on Taylor Swift’s Last Album",
-    "url": "https://www.rollingstone.com/music/music-news/jack-antonoff-taylor-swift-friendship-rant-bridge-1235555323/",
-    "publishedAt": "2026-04-29T05:14:51.000Z",
-    "summary": "“I understand that need to have different collaborators,” said the producer when discussing his relationship with The Life of a Showgirl star",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/news/man-pleads-guilty-to-role-in-killing-of-run-dmcs-jam-master-jay/",
     "source": "pitchfork",
     "title": "Man Pleads Guilty to Role in Killing of Run-D.M.C.’s Jam Master Jay",
@@ -531,30 +549,12 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMiswFBVV95cUxNMEJObURoUUhienlGMk1aVGNsMHV2REtZODU5aHZJd2o5NWpBNklnanhVZlJIRWowaWg2dkxmOGkwUVl0ZEt3eGJmcjE2ZW5icHJTTmxfYkJudmhyZVM0MnotN21pX19CeHBMUXdJUUFNVzhQdDk5MUxHUmFKRTVfR0ZfRDZjSFRpN1NKOFdhYkVMNnpMc1VVeTVXZUJINFFOaDB2dWdpS3FNa2Zkd1UzckVJbw?oc=5",
-    "source": "nme",
-    "title": "‘Call Of Duty’ movie director goes viral for calling gamers “pathetic” in old interview - NME",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMEJObURoUUhienlGMk1aVGNsMHV2REtZODU5aHZJd2o5NWpBNklnanhVZlJIRWowaWg2dkxmOGkwUVl0ZEt3eGJmcjE2ZW5icHJTTmxfYkJudmhyZVM0MnotN21pX19CeHBMUXdJUUFNVzhQdDk5MUxHUmFKRTVfR0ZfRDZjSFRpN1NKOFdhYkVMNnpMc1VVeTVXZUJINFFOaDB2dWdpS3FNa2Zkd1UzckVJbw?oc=5",
-    "publishedAt": "2026-04-28T10:49:56.000Z",
-    "summary": "‘Call Of Duty’ movie director goes viral for calling gamers “pathetic” in old interview NME",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/news/the-damned-announce-final-damnation-50th-anniversary-uk-tour-154415/",
     "source": "uncut",
     "title": "The Damned announce Final Damnation 50th anniversary UK Tour",
     "url": "https://www.uncut.co.uk/news/the-damned-announce-final-damnation-50th-anniversary-uk-tour-154415/",
     "publishedAt": "2026-04-28T10:27:39.000Z",
     "summary": "Seven dates in Nov and Dec, with special guests The Saints '73-'78 The post The Damned announce Final Damnation 50th anniversary UK Tour appeared first on UNCUT.",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcmZPSWhBRFhMMVJWUXo0SUtUcUdqbDhPQWVCM3JqN2VBekhlZjd4OU1KdmdXNF9YVG5wdWlrQ0FLLXNqYXFrUkJ4VzI2TjZxQm0xSnMtbnI2elFZOVlxTnViNktiZERZYk4tMUtMVVM5UVFUR2RlaWhNQlNvVkl2Q0JsSUxINmZoRVd1eTY3WlBaVWdheTNfZE1RMVIwYm5IN0N4VEpzQUxpR3M?oc=5",
-    "source": "nme",
-    "title": "Man pleads guilty for assisting the murder of Run DMC’s Jam Master Jay - NME",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcmZPSWhBRFhMMVJWUXo0SUtUcUdqbDhPQWVCM3JqN2VBekhlZjd4OU1KdmdXNF9YVG5wdWlrQ0FLLXNqYXFrUkJ4VzI2TjZxQm0xSnMtbnI2elFZOVlxTnViNktiZERZYk4tMUtMVVM5UVFUR2RlaWhNQlNvVkl2Q0JsSUxINmZoRVd1eTY3WlBaVWdheTNfZE1RMVIwYm5IN0N4VEpzQUxpR3M?oc=5",
-    "publishedAt": "2026-04-28T10:05:56.000Z",
-    "summary": "Man pleads guilty for assisting the murder of Run DMC’s Jam Master Jay NME",
     "image": null
   },
   {
