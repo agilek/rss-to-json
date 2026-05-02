@@ -1,5 +1,50 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/country/morgan-wallen-calls-out-people-bailed-walkout-las-vegas-1236237646/",
+    "source": "billboard",
+    "title": "Morgan Wallen Calls Out Celebs Who Bailed Last-Minute on Walkout at Las Vegas Show: ‘Y’all Got Some Flaky A— People in This Town’",
+    "url": "https://www.billboard.com/music/country/morgan-wallen-calls-out-people-bailed-walkout-las-vegas-1236237646/",
+    "publishedAt": "2026-05-02T18:51:04.000Z",
+    "summary": "The country star opened his back-to-back run at Allegiant Stadium on May 1.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/tv-film/madonna-anna-wintour-confessions-promo-devil-wears-prada-2-1236237633/",
+    "source": "billboard",
+    "title": "Madonna & Anna Wintour Appear in ‘Confessions II’ Theatrical Promo Ahead of ‘Devil Wears Prada 2’",
+    "url": "https://www.billboard.com/culture/tv-film/madonna-anna-wintour-confessions-promo-devil-wears-prada-2-1236237633/",
+    "publishedAt": "2026-05-02T17:47:11.000Z",
+    "summary": "The pop icon's 15th studio album arrives on July 3.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/complicated-albums-raye-rosalia-albums-challenging-fans-1235551321/",
+    "source": "rolling-stone",
+    "title": "Pop Albums Are Getting More Ambitious. Can Audiences Keep Up?",
+    "url": "https://www.rollingstone.com/music/music-features/complicated-albums-raye-rosalia-albums-challenging-fans-1235551321/",
+    "publishedAt": "2026-05-02T17:24:25.000Z",
+    "summary": "Raye, Rosalía, Hemlocke Springs, and Hayley Williams are some of the artists releasing projects that challenge fans' attention and emotions",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/barry-manilow-postpone-las-vegas-great-progress-lung-cancer-1235556922/",
+    "source": "rolling-stone",
+    "title": "Barry Manilow Again Postpones Las Vegas Shows, Making ‘Great Progress’ After Lung Cancer Battle",
+    "url": "https://www.rollingstone.com/music/music-news/barry-manilow-postpone-las-vegas-great-progress-lung-cancer-1235556922/",
+    "publishedAt": "2026-05-02T17:06:57.000Z",
+    "summary": "\"All the training and exercising I’ve put in is paying off,\" singer wrote. \"[The doctor] did say, however, that I’m not quite ready for Vegas\"",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/songs-that-were-big-uk-hits-but-not-in-the-u-s/",
+    "source": "billboard",
+    "title": "Every Song That Topped the UK Chart for 8 or More Weeks, But Didn’t Make the Top 10 on the Hot 100",
+    "url": "https://www.billboard.com/lists/songs-that-were-big-uk-hits-but-not-in-the-u-s/",
+    "publishedAt": "2026-05-02T16:58:01.000Z",
+    "summary": "\"Rein Me In” by Sam Fender and Olivia Dean is now in its ninth week at No. 1 in the U.K., but it’s been slower breaking through on the Hot 100.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/culture/product-recommendations/olivia-rodrigo-saturday-night-live-watch-livestream-free-1236234206/",
     "source": "billboard",
     "title": "Olivia Rodrigo on ‘SNL’: How to Watch the Pop Star Host and Perform as Music Guest Live Online for Free",
@@ -108,33 +153,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/one-piece-choppers-vol-1-number-1-billboard-japan-book-hot-100-1236237570/",
-    "source": "billboard",
-    "title": "‘ONE PIECE CHOPPER’s Vol. 1’ Debuts at No. 1 on Billboard Japan Book Hot 100",
-    "url": "https://www.billboard.com/music/chart-beat/one-piece-choppers-vol-1-number-1-billboard-japan-book-hot-100-1236237570/",
-    "publishedAt": "2026-05-02T00:28:09.000Z",
-    "summary": "The title is the debut volume of CHOPPER's, a spinoff project centered on the character Chopper from Eiichiro Oda's ONE PIECE.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/latin/leslie-grace-talks-new-album-amor-quien-eres-1236237548/",
-    "source": "billboard",
-    "title": "Leslie Grace Releases Her First Album in Over a Decade, ‘Amor, Quién Eres?’: ‘It Was Almost an Initiation for Me’",
-    "url": "https://www.billboard.com/music/latin/leslie-grace-talks-new-album-amor-quien-eres-1236237548/",
-    "publishedAt": "2026-05-02T00:25:05.000Z",
-    "summary": "The bilingual project demonstrates the singer and actress' artistic and personal evolution.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/olivia-rodrigo-fc-barcelona-el-clasico-jersey-concert-1236237169/",
-    "source": "billboard",
-    "title": "Olivia Rodrigo Drops El Clásico Jersey Ahead of Intimate Barcelona Concert For Top Spotify Fans: ‘I Cannot Wait to See Them’",
-    "url": "https://www.billboard.com/music/music-news/olivia-rodrigo-fc-barcelona-el-clasico-jersey-concert-1236237169/",
-    "publishedAt": "2026-05-02T00:05:33.000Z",
-    "summary": "The pop star is the latest artist to partner with FC Barcelona and Spotify for a new version of the Blaugrana jersey ahead of the iconic match against Real Madrid.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/celeste-rivas-d4vd-shock-pain-dad-jesus-rivas-1235556845/",
     "source": "rolling-stone",
     "title": "Celeste Rivas Family in ‘Indescribable Pain’ as They Reject Rumors D4vd Paid Them",
@@ -222,24 +240,6 @@
     "url": "https://www.rollingstone.com/music/music-news/zayn-malik-cancels-upcoming-us-tour-1235556574/",
     "publishedAt": "2026-05-01T16:26:10.000Z",
     "summary": "\"I’ve had to take another look at my schedule for the months ahead and have to reduce the number of shows on the KONNAKOL Tour,\" singer says",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/maya-hawke-maitreya-corso-stranger-things-sadie-sink-taylor-1235556524/",
-    "source": "rolling-stone",
-    "title": "Maya Hawke on Her Great New Album, ‘Stranger Things’ — and Why ‘Love Story’ Is One of the Best Songs Ever",
-    "url": "https://www.rollingstone.com/music/music-features/maya-hawke-maitreya-corso-stranger-things-sadie-sink-taylor-1235556524/",
-    "publishedAt": "2026-05-01T15:33:23.000Z",
-    "summary": "Hawke talks about making Maitreya Corso, being influenced by Sadie Sink and Taylor Swift, and much more in our new interview",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/marcus-king-online-trolls-new-album-no-room-for-blue-1235556514/",
-    "source": "rolling-stone",
-    "title": "Marcus King Goes to Macon to Make His Allmans Homage Album",
-    "url": "https://www.rollingstone.com/music/music-features/marcus-king-online-trolls-new-album-no-room-for-blue-1235556514/",
-    "publishedAt": "2026-05-01T15:19:18.000Z",
-    "summary": "The singer and guitarist talks about his new companion LP, No Room for Blue, and opens up about the trolls who come at him and wife Briley King: \"The court of public opinion is so fucked\"",
     "image": null
   },
   {
@@ -522,6 +522,15 @@
     "image": null
   },
   {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMirgFBVV95cUxOLU0taGQtcnRCT203VlYwckhCd1pQanhCdFlIU2FYUG82VFl5ZG9VZjFibmkwZFpaTkZQSnZfdkh1d2Q0YVF4anJFV0dIdTYxNWJpSnZjMWhfYWdUVVFNWmNKUkRETkNzZk1rMWNjeE5MdnR1VHVSNjN4SUE5bzIxN1dxOXJ0VUxLSXVORTdQcjM2eUhBX1lFQmN4TDE1d1VkMFRaLWhKcF9JWkN3TWc?oc=5",
+    "source": "kerrang",
+    "title": "American Football: “We truly don’t want to be a nostalgia band. We’re… - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLU0taGQtcnRCT203VlYwckhCd1pQanhCdFlIU2FYUG82VFl5ZG9VZjFibmkwZFpaTkZQSnZfdkh1d2Q0YVF4anJFV0dIdTYxNWJpSnZjMWhfYWdUVVFNWmNKUkRETkNzZk1rMWNjeE5MdnR1VHVSNjN4SUE5bzIxN1dxOXJ0VUxLSXVORTdQcjM2eUhBX1lFQmN4TDE1d1VkMFRaLWhKcF9JWkN3TWc?oc=5",
+    "publishedAt": "2026-04-30T16:30:00.000Z",
+    "summary": "American Football: “We truly don’t want to be a nostalgia band. We’re… Kerrang!",
+    "image": null
+  },
+  {
     "id": "pitchfork-https://pitchfork.com/news/madeon-launches-new-album-with-slayyyter-collaboration/",
     "source": "pitchfork",
     "title": "Madeon Launches New Album With Slayyyter Collaboration",
@@ -708,15 +717,6 @@
     "url": "https://www.uncut.co.uk/features/michael-loved-all-that-going-to-hollywood-the-making-of-i-want-you-back-by-the-jackson-5-154372/",
     "publishedAt": "2026-04-25T13:00:00.000Z",
     "summary": "Includes cameos from Hendrix, Marley and more! The post “Michael loved all that, going to Hollywood…” – The Making Of “I Want You Back”, by The Jackson 5 appeared first on UNCUT.",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMingFBVV95cUxOemk4RmtWT3ZUak9tYjhBNG9zazgwRGs2NzRpLTlUdmpLOWstZlY0V3FfSlNXcjUzZTYyV1FRajFJOU1KRDR4YVlsbEpiNVhzTHItc1hvWlVGQ0JfVWFDUjgtN0dMeTQ1bnJhWklWZlJwS0J1eHo1YkJUVGhFMlZiV0tUSFF4Z0xGMjhSYnBNUndrOWVLbnFWOEhpRkNHZw?oc=5",
-    "source": "kerrang",
-    "title": "Slam Dunk Festival director to “step down from operations” amid allegations - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOemk4RmtWT3ZUak9tYjhBNG9zazgwRGs2NzRpLTlUdmpLOWstZlY0V3FfSlNXcjUzZTYyV1FRajFJOU1KRDR4YVlsbEpiNVhzTHItc1hvWlVGQ0JfVWFDUjgtN0dMeTQ1bnJhWklWZlJwS0J1eHo1YkJUVGhFMlZiV0tUSFF4Z0xGMjhSYnBNUndrOWVLbnFWOEhpRkNHZw?oc=5",
-    "publishedAt": "2026-04-24T18:30:00.000Z",
-    "summary": "Slam Dunk Festival director to “step down from operations” amid allegations Kerrang!",
     "image": null
   }
 ]
