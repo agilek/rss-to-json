@@ -1,5 +1,23 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/awards/aria-hall-of-fame-2026-inductees-1236237787/",
+    "source": "billboard",
+    "title": "ARIA Hall of Fame 2026 Inductees Revealed as Awards Mark 40th Anniversary",
+    "url": "https://www.billboard.com/music/awards/aria-hall-of-fame-2026-inductees-1236237787/",
+    "publishedAt": "2026-05-03T06:55:03.000Z",
+    "summary": "ARIA CEO Annabelle Herd said that the inductees \"represent the depth, diversity and enduring influence of Australian music across generations.\"",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/tv-film/debbie-harry-snl-cameo-olivia-rodrigo-1236237766/",
+    "source": "billboard",
+    "title": "Debbie Harry Makes ‘SNL’ Cameo to Introduce Olivia Rodrigo’s ‘drop dead’ Performance",
+    "url": "https://www.billboard.com/culture/tv-film/debbie-harry-snl-cameo-olivia-rodrigo-1236237766/",
+    "publishedAt": "2026-05-03T06:35:39.000Z",
+    "summary": "Harry's appearance was one of several surprise cameos on the night.",
+    "image": null
+  },
+  {
     "id": "louder-than-war-https://louderthanwar.com/the-scratch-electric-ballroom-london-live-review/",
     "source": "louder-than-war",
     "title": "The Scratch: Electric Ballroom, London – Live Review",
@@ -20,10 +38,10 @@
   {
     "id": "billboard-https://www.billboard.com/culture/tv-film/olivia-rodrigo-debuts-begging-snl-1236237765/",
     "source": "billboard",
-    "title": "Olivia Rodrigo Debuts ‘begged’ and Performs ‘drop dead’ in ‘SNL’ Hosting Debut",
+    "title": "Olivia Rodrigo Performs New Track ‘begged’ in ‘SNL’ Hosting Debut",
     "url": "https://www.billboard.com/culture/tv-film/olivia-rodrigo-debuts-begging-snl-1236237765/",
     "publishedAt": "2026-05-03T05:48:05.000Z",
-    "summary": "Connor Storrie introduced Rodrigo's performance of \"begged,\" a previously unreleased track from the album.",
+    "summary": "Connor Storrie introduced Rodrigo's performance of \"begged,\" a previously unreleased track from her forthcoming album.",
     "image": null
   },
   {
@@ -108,30 +126,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/latin/marc-anthony-maestro-cares-uplifting-moments-in-latin-music-1236237470/",
-    "source": "billboard",
-    "title": "Marc Anthony Brings Stars to the Golf Course for Maestro Cares & More Uplifting Moments in Latin Music",
-    "url": "https://www.billboard.com/music/latin/marc-anthony-maestro-cares-uplifting-moments-in-latin-music-1236237470/",
-    "publishedAt": "2026-05-02T14:00:00.000Z",
-    "summary": "Plus, Los Tigres del Norte support St. Jude; BRESH expands in U.S. and Julieta Venegas discusses her new memoir and album Norteña.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/post-malone-delays-stadium-tour-jelly-roll-finish-new-album-1235556866/",
     "source": "rolling-stone",
     "title": "Post Malone Pushes Back Big Ass Stadium Tour With Jelly Roll to Finish New Album",
     "url": "https://www.rollingstone.com/music/music-news/post-malone-delays-stadium-tour-jelly-roll-finish-new-album-1235556866/",
     "publishedAt": "2026-05-02T13:08:23.000Z",
     "summary": "\"The truth is, I promised y’all beautiful people new music, and I don’t have the time to finish it before tour starts,\" singer says after canceling first six shows",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/how-to-watch-saturday-night-live-uk-online-free-1236203547/",
-    "source": "billboard",
-    "title": "‘Saturday Night Live UK’: Where to Watch the British Version of the Sketch Comedy Show Online",
-    "url": "https://www.billboard.com/culture/product-recommendations/how-to-watch-saturday-night-live-uk-online-free-1236203547/",
-    "publishedAt": "2026-05-02T13:00:16.000Z",
-    "summary": "SNL UK has Aimee Lou Wood as host and MEEK as musical guest.",
     "image": null
   },
   {
@@ -567,6 +567,15 @@
     "image": null
   },
   {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMinAFBVV95cUxPMjJjbWpWZ3RSTjRSaERwRDBkNFJ1cnFCUmpkc0NDbE1DMVpEOTc3cjJkem5MRk5VSXJueWxRTFJveXNIYlVCRnhSWjRCbVA4ZVNHcU9ueTlVNk5BcGRseENyWC1xLVRuTGhzN2U2VGFPN2x4LUlMMVNTY1pieUNzYUFLaEFpMVltNEpZZUg4Y2VzWHlUeEI1SlJFZng?oc=5",
+    "source": "kerrang",
+    "title": "“He was totally crazy onstage – he was so into the music he used to… - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMjJjbWpWZ3RSTjRSaERwRDBkNFJ1cnFCUmpkc0NDbE1DMVpEOTc3cjJkem5MRk5VSXJueWxRTFJveXNIYlVCRnhSWjRCbVA4ZVNHcU9ueTlVNk5BcGRseENyWC1xLVRuTGhzN2U2VGFPN2x4LUlMMVNTY1pieUNzYUFLaEFpMVltNEpZZUg4Y2VzWHlUeEI1SlJFZng?oc=5",
+    "publishedAt": "2026-04-30T16:00:00.000Z",
+    "summary": "“He was totally crazy onstage – he was so into the music he used to… Kerrang!",
+    "image": null
+  },
+  {
     "id": "pitchfork-https://pitchfork.com/news/interpol-plot-2026-north-american-tour/",
     "source": "pitchfork",
     "title": "Interpol Plot 2026 North American Tour",
@@ -681,15 +690,6 @@
     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPcF9lallnWUZIbnRsNTVvSkZYNWlnS3R0V2hPRDZJN1BuSlJwdDRoU2JaUFlDdkpVN2JBZldabG5LMGZ5bXNUQnhWcGMxeXplQ1lwRV96VVVqS3l5SUZrQkw2cTdvOWtNR3ZLdXotQ0xWVUlyazhVdjRHYlE2OUY4OE1CMlJXbFJmeEw5MHJXcXA1akJ6SVJiWnlRVFNoRU5jYXZjSUF2cmRsQUNsMnY0QVhPLUd1S0pNYmxJb3ljdlZ5c19uMjIxbVlDM2QwTjRJZVJVU1lxQ21XaFpmWk5haUxHU0RER2tBbFJUODVVV2J3VVk0?oc=5",
     "publishedAt": "2026-04-27T16:00:00.000Z",
     "summary": "Loathe have announced their long-awaited new album, A Stranger To You Kerrang!",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU2VWV3pqb01VZzYtcWp3RlQzYmFBWHVyc3ZwQkNZSU1YNS1yNHltX1F1bDhoQV82aGNsSGhpNHBWekZwNGgwUEs3b2dyMi14UXNDMC1PWUNpX0R3N1VfZG93QWNYTGVTdVd6NEh2QjFBcGg2QVBmRF80ZXVwbUF1RGZSTkVtY0lfZ3lTSG05MS1JYTkxdFlWaTFOc0IyWHN5ckpSQ1JSQlo0X3l0bnZEQUNsNWgxdm81?oc=5",
-    "source": "kerrang",
-    "title": "Bring Me The Horizon announce The Third Ascension Program North American tour - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU2VWV3pqb01VZzYtcWp3RlQzYmFBWHVyc3ZwQkNZSU1YNS1yNHltX1F1bDhoQV82aGNsSGhpNHBWekZwNGgwUEs3b2dyMi14UXNDMC1PWUNpX0R3N1VfZG93QWNYTGVTdVd6NEh2QjFBcGg2QVBmRF80ZXVwbUF1RGZSTkVtY0lfZ3lTSG05MS1JYTkxdFlWaTFOc0IyWHN5ckpSQ1JSQlo0X3l0bnZEQUNsNWgxdm81?oc=5",
-    "publishedAt": "2026-04-27T15:10:00.000Z",
-    "summary": "Bring Me The Horizon announce The Third Ascension Program North American tour Kerrang!",
     "image": null
   },
   {
