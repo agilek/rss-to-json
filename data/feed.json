@@ -1,5 +1,32 @@
 [
   {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/dave-grohl-foo-fighters-album-name-wicked-for-good-1235557080/",
+    "source": "rolling-stone",
+    "title": "Foo Fighters Changed the Name of Their New Album To Avoid Conflict With ‘Wicked: For Good’",
+    "url": "https://www.rollingstone.com/music/music-news/dave-grohl-foo-fighters-album-name-wicked-for-good-1235557080/",
+    "publishedAt": "2026-05-04T06:27:47.000Z",
+    "summary": "The rock band recently released their 12th LP, Your Favorite Toy",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/godsmack-sully-erna-live-album-new-music-tour-interview/",
+    "source": "loudwire",
+    "title": "Godsmack's Sully Erna Interview - New Tour, New Music + More",
+    "url": "https://loudwire.com/godsmack-sully-erna-live-album-new-music-tour-interview/",
+    "publishedAt": "2026-05-04T04:41:12.000Z",
+    "summary": "Sully Erna celebrates Godsmack's new live album, 'Live at Mohegan Sun,' discusses the future of new music and more in this exclusive interview. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/madonna-sabrina-carpentersbring-your-love-best-new-music-1236238041/",
+    "source": "billboard",
+    "title": "Fans Choose Madonna & Sabrina Carpenter’s ‘Bring Your Love’ as This Week’s Favorite New Music",
+    "url": "https://www.billboard.com/music/music-news/madonna-sabrina-carpentersbring-your-love-best-new-music-1236238041/",
+    "publishedAt": "2026-05-04T04:05:32.000Z",
+    "summary": "The pop collab brought in nearly 89% of the vote.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/lists/olivia-rodrigo-snl-sketches-ranked-2026-episode/",
     "source": "billboard",
     "title": "Olivia Rodrigo’s Debut as ‘SNL’ Host: All 7 Sketches Ranked",
@@ -126,21 +153,21 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/lists/eagles-jazz-fest-2026-setlist-recap-new-orleans/",
-    "source": "billboard",
-    "title": "‘This Is Very Different From the Sphere’: Eagles’ Full Setlist for 2026 New Orleans Jazz Fest",
-    "url": "https://www.billboard.com/lists/eagles-jazz-fest-2026-setlist-recap-new-orleans/",
-    "publishedAt": "2026-05-03T16:57:27.000Z",
-    "summary": "The country rock vets played to a sold-out & sunshiny festival crowd as they returned to the fest for the first time since 2012.",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/news/shakira-brings-her-biggest-hits-to-free-rio-de-janeiro-show/",
     "source": "pitchfork",
     "title": "Shakira Brings Her Biggest Hits To Free Rio de Janeiro Show",
     "url": "https://pitchfork.com/news/shakira-brings-her-biggest-hits-to-free-rio-de-janeiro-show/",
     "publishedAt": "2026-05-03T16:41:35.000Z",
     "summary": "The artist performed for an estimated crowd of two million at the city’s Copacabana Beach",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQThYVjFFa21uZEdqbHNKSG1xeU43VjVvWm95UXdtTHQ5Z1FTMHdaMVJwaTd1Z2VJd0psSWdMNk9KVWFKb1pPbE1SY2J5cmR3VWtlc2RoSzc0MjBxbDdoR25LUG5lVjRKc2VlZWlMT2hGNjgtVXZ2MW9TczU0OXJhLXJUY1ZVOUlpLUJiWjNYeldIb1dIUkxZVXQtU1h6R1QtM1Y5QzhYUTFUdw?oc=5",
+    "source": "nme",
+    "title": "Former Metallica bassist Jason Newsted reveals throat cancer battle - NME",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQThYVjFFa21uZEdqbHNKSG1xeU43VjVvWm95UXdtTHQ5Z1FTMHdaMVJwaTd1Z2VJd0psSWdMNk9KVWFKb1pPbE1SY2J5cmR3VWtlc2RoSzc0MjBxbDdoR25LUG5lVjRKc2VlZWlMT2hGNjgtVXZ2MW9TczU0OXJhLXJUY1ZVOUlpLUJiWjNYeldIb1dIUkxZVXQtU1h6R1QtM1Y5QzhYUTFUdw?oc=5",
+    "publishedAt": "2026-05-03T16:17:19.000Z",
+    "summary": "Former Metallica bassist Jason Newsted reveals throat cancer battle NME",
     "image": null
   },
   {
@@ -186,6 +213,15 @@
     "url": "https://www.rollingstone.com/music/music-country/troy-cartwright-ten-year-town-podcast-1235556741/",
     "publishedAt": "2026-05-03T14:00:00.000Z",
     "summary": "The podcast host and country artist found himself drawn to the stories of his fellow songwriters, which he's capturing on 'Ten Year Town'",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMiswFBVV95cUxNNW44ck1ZQ2tVNlNoSm42S0pwWXJYa1p0b09VYXN4aFRBbTlIdjBuMVotcEhESGxYenpTN0w1eFNVai1pUzlUclZSaXNwVlFUMnBSTHJIR2NsdERpS1pfdDQ1WVB3bEJQcm9IbDNHbjR0YVlSYUlGS242ZW1jZTRKV3pxRjhOQlVaSHRMek44Z1c0UEoyZDkyN3RSNFBpbkY5dDZaeEVENHZjV2hRNDg2bEQyYw?oc=5",
+    "source": "nme",
+    "title": "Meryl Streep says Hollywood tendency to “Marvel-ize” characters is “so boring” - NME",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNW44ck1ZQ2tVNlNoSm42S0pwWXJYa1p0b09VYXN4aFRBbTlIdjBuMVotcEhESGxYenpTN0w1eFNVai1pUzlUclZSaXNwVlFUMnBSTHJIR2NsdERpS1pfdDQ1WVB3bEJQcm9IbDNHbjR0YVlSYUlGS242ZW1jZTRKV3pxRjhOQlVaSHRMek44Z1c0UEoyZDkyN3RSNFBpbkY5dDZaeEVENHZjV2hRNDg2bEQyYw?oc=5",
+    "publishedAt": "2026-05-03T13:53:16.000Z",
+    "summary": "Meryl Streep says Hollywood tendency to “Marvel-ize” characters is “so boring” NME",
     "image": null
   },
   {
@@ -369,39 +405,12 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMixwFBVV95cUxQcVJNRVRiaUNKdlplM2I5V2d1QmhfVnpha2lrMXI4UGFwSThrdF9ULTBEd3UxOFhHTW42TDZpMmJrbGNiVjdZdWxIeXZzS2JRSGtLdzVtc2ZsZzkxNFFXS0J5YW5LcllYOFgtZWZnaHZRSXVralZxNlV3aGVfWEdLWGZzdTlocGZMS3VBYm9MRTNvcTROeUlveHVLUUtLMFNaR0xGazFNSm85N09jeXBBYUJlTm82akphNDZLRmRENE5SSkdlcWJR?oc=5",
-    "source": "nme",
-    "title": "Charli XCX shares studio footage making new song 'Rock Music' \"that's not actually rock music\" - NME",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcVJNRVRiaUNKdlplM2I5V2d1QmhfVnpha2lrMXI4UGFwSThrdF9ULTBEd3UxOFhHTW42TDZpMmJrbGNiVjdZdWxIeXZzS2JRSGtLdzVtc2ZsZzkxNFFXS0J5YW5LcllYOFgtZWZnaHZRSXVralZxNlV3aGVfWEdLWGZzdTlocGZMS3VBYm9MRTNvcTROeUlveHVLUUtLMFNaR0xGazFNSm85N09jeXBBYUJlTm82akphNDZLRmRENE5SSkdlcWJR?oc=5",
-    "publishedAt": "2026-05-02T09:23:58.000Z",
-    "summary": "Charli XCX shares studio footage making new song 'Rock Music' \"that's not actually rock music\" NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWUYyQ1NTUEZKdTJ2X0lId1pSbEowYkpVM0toNXNyeEVaU0ladmpfNldzY0dmU0VMaXNFTkQtb2VzRFNiUWhOZmpIbTRYUXBQTmQ3NUkxX3N5bG9RNjBVbUdrZTZXOXVMSm9WNW5URVJrTGN1LTR0LTRMblRHbzN3YzZKdy0yMkFvSUxjSEhBY2dQejdfLVE3bVlucHg2MEQ2TnlmdE5kRDhuNklVZ0ZlQ1NSVUxDdU5IdkNsUS1PbzhkbjNXVXkxS0d4NkJpTVlMRGc?oc=5",
-    "source": "nme",
-    "title": "Post Malone cancels start of ‘Big Ass Stadium’ tour with Jelly Roll: \"We ain’t ready for tour just yet\" - NME",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWUYyQ1NTUEZKdTJ2X0lId1pSbEowYkpVM0toNXNyeEVaU0ladmpfNldzY0dmU0VMaXNFTkQtb2VzRFNiUWhOZmpIbTRYUXBQTmQ3NUkxX3N5bG9RNjBVbUdrZTZXOXVMSm9WNW5URVJrTGN1LTR0LTRMblRHbzN3YzZKdy0yMkFvSUxjSEhBY2dQejdfLVE3bVlucHg2MEQ2TnlmdE5kRDhuNklVZ0ZlQ1NSVUxDdU5IdkNsUS1PbzhkbjNXVXkxS0d4NkJpTVlMRGc?oc=5",
-    "publishedAt": "2026-05-02T09:22:04.000Z",
-    "summary": "Post Malone cancels start of ‘Big Ass Stadium’ tour with Jelly Roll: \"We ain’t ready for tour just yet\" NME",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/holidays-in-the-sun-debut-sex-pistols-gig-outside-london-gets-exhibition/",
     "source": "louder-than-war",
     "title": "HOLIDAYS IN THE SUN: Debut Sex Pistols Gig Outside London Gets Exhibition",
     "url": "https://louderthanwar.com/holidays-in-the-sun-debut-sex-pistols-gig-outside-london-gets-exhibition/",
     "publishedAt": "2026-05-02T05:51:08.000Z",
     "summary": "Located at the Scarborough Library Community Space, and running from the 2nd to the 20th May, a new exhibition curated by Ian Trowell gathers material and testimony from the Sex Pistols‘ visits to Scarborough. With a dynamic of change rather than a heroic story in mind, the exhibition is situated alongside the quotidian artefacts that […] The post HOLIDAYS IN THE SUN: Debut Sex Pistols Gig Outside London Gets Exhibition appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/celeste-rivas-d4vd-shock-pain-dad-jesus-rivas-1235556845/",
-    "source": "rolling-stone",
-    "title": "Celeste Rivas Family in ‘Indescribable Pain’ as They Reject Rumors D4vd Paid Them",
-    "url": "https://www.rollingstone.com/music/music-news/celeste-rivas-d4vd-shock-pain-dad-jesus-rivas-1235556845/",
-    "publishedAt": "2026-05-01T23:29:04.000Z",
-    "summary": "\"I never had any contact with this guy,\" Celeste's dad, Jesus Rivas, says in a new statement provided by the family's lawyer, Patrick Steinfeld",
     "image": null
   },
   {
@@ -492,15 +501,6 @@
     "url": "https://loudwire.com/rock-stars-birthdays-may/",
     "publishedAt": "2026-05-01T12:45:53.000Z",
     "summary": "May the birthdays be filled with plenty of candles for these rock stars celebrating this month. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/new-rock-metal-tours-announced-april-24-30-2026/",
-    "source": "loudwire",
-    "title": "25 New Rock + Metal Tours Announced This Past Week ",
-    "url": "https://loudwire.com/new-rock-metal-tours-announced-april-24-30-2026/",
-    "publishedAt": "2026-05-01T12:09:17.000Z",
-    "summary": "GWAR, Morrissey and Mammoth lead the new tour announcements from the last seven days. Continue reading…",
     "image": null
   },
   {
