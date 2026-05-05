@@ -1,5 +1,23 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/country/maren-morris-women-country-music-1236239054/",
+    "source": "billboard",
+    "title": "Maren Morris Praises Women Dominating Country Music: ‘They’re All Crushing It’",
+    "url": "https://www.billboard.com/music/country/maren-morris-women-country-music-1236239054/",
+    "publishedAt": "2026-05-05T04:14:24.000Z",
+    "summary": "Morris singled out Ella Langley, Lainey Wilson and Megan Moroney as artists exciting her right now.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/country/post-malone-strummingbird-festival-2026-1236239023/",
+    "source": "billboard",
+    "title": "Post Malone to Headline Australia’s Strummingbird Festival in 2026",
+    "url": "https://www.billboard.com/music/country/post-malone-strummingbird-festival-2026-1236239023/",
+    "publishedAt": "2026-05-05T03:23:36.000Z",
+    "summary": "Post Malone marks his return to Australia three years after a sold-out run at Spilt Milk.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/rock/eagles-announce-final-2026-dates-at-sphere-las-vegas-1236110164/",
     "source": "billboard",
     "title": "Eagles Add More 2026 Dates at Las Vegas Sphere",
@@ -81,30 +99,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-    "source": "billboard",
-    "title": "Billboard’s Music Industry Events Calendar",
-    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-    "publishedAt": "2026-05-04T23:58:00.000Z",
-    "summary": "A complete rundown of the most important events across the music business.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/janelle-monae-met-gala-2026-look-christian-siriano-gown-1236238762/",
-    "source": "billboard",
-    "title": "Janelle Monáe’s Stunning Met Gala 2026 Look Combines Nature & Tech in Custom Christian Siriano",
-    "url": "https://www.billboard.com/music/music-news/janelle-monae-met-gala-2026-look-christian-siriano-gown-1236238762/",
-    "publishedAt": "2026-05-04T23:40:04.000Z",
-    "summary": "The multi-hyphenate artist's look includes live moss and more than 200 electrical wires.",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/news/met-gala-2026-photos/",
     "source": "pitchfork",
     "title": "Met Gala 2026 Photos: Beyoncé, Madonna, Stevie Nicks, and More",
     "url": "https://pitchfork.com/news/met-gala-2026-photos/",
     "publishedAt": "2026-05-04T22:42:34.000Z",
-    "summary": "See what Bad Bunny, Sabrina Carpenter, Charli XCX, Janelle Monáe, and others wore to the event",
+    "summary": "See what Rihanna, Bad Bunny, Sabrina Carpenter, Charli XCX, Janelle Monáe, and others wore to the event",
     "image": null
   },
   {
@@ -150,6 +150,15 @@
     "url": "https://loudwire.com/axl-rose-inspired-izzy-stradlin-lyrics-90s-guns-n-roses-song/",
     "publishedAt": "2026-05-04T20:47:12.000Z",
     "summary": "Axl Rose told the crowd at a Guns N' Roses show what inspired Izzy Stradlin to write the lyrics to the song 'You Could Be Mine.' Continue reading…",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUXUtMDVJQzBDaWFsd3pLR0VRenVrRmpYNFhhaEtabS1EZGpwYktxX1ctdFJlVGlEX0paTmZEaXU5VWtZTFRtSDl3WEFGWmNnbWM1bnd4N1RkSmFuUGJqWl9hUlQ0bGZiU2VuaHU1ZmJEdUxoaEdUWHozZ3NCYVhaVWo1eEdacTJpRWpKTXFpaGM5WUZpSl9iMDdUV1hvYlRyZFZkSm4zUk41WHRaXzZVTGxSUDNzLVU1UlFpV1RqejUxdmVpLVFVVFM3aEhpR3NT?oc=5",
+    "source": "nme",
+    "title": "Dolly Parton cancels Las Vegas residency and shares health update: \"Everything I have is treatable\" - NME",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUXUtMDVJQzBDaWFsd3pLR0VRenVrRmpYNFhhaEtabS1EZGpwYktxX1ctdFJlVGlEX0paTmZEaXU5VWtZTFRtSDl3WEFGWmNnbWM1bnd4N1RkSmFuUGJqWl9hUlQ0bGZiU2VuaHU1ZmJEdUxoaEdUWHozZ3NCYVhaVWo1eEdacTJpRWpKTXFpaGM5WUZpSl9iMDdUV1hvYlRyZFZkSm4zUk41WHRaXzZVTGxSUDNzLVU1UlFpV1RqejUxdmVpLVFVVFM3aEhpR3NT?oc=5",
+    "publishedAt": "2026-05-04T20:44:58.000Z",
+    "summary": "Dolly Parton cancels Las Vegas residency and shares health update: \"Everything I have is treatable\" NME",
     "image": null
   },
   {
@@ -456,15 +465,6 @@
     "url": "https://pitchfork.com/news/watch-olivia-rodrigo-debut-music-with-weyes-blood-on-snl/",
     "publishedAt": "2026-05-03T15:38:11.000Z",
     "summary": "Rodrigo played double duty last night, hosting and performing alongside guests including Debbie Harry and Aziz Ansari",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMifEFVX3lxTE03MDlUbmN3RzA1UTh2ZHZqeEpPRnN6anhZdTFwY0s0Zjdra3dTODE4UVFKbTN5M2N5NUVVclc5MUdaVHNDM1I4YWhlb2lKSG5rd1hlYUVCemFSSE9Sc0stNGRSMnByczRiS0wxdDFzWmxKbXlYc2RUZGJ3RTI?oc=5",
-    "source": "nme",
-    "title": "PS Plus June 2026 games – what to expect on PS5 and PS4 - NME",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03MDlUbmN3RzA1UTh2ZHZqeEpPRnN6anhZdTFwY0s0Zjdra3dTODE4UVFKbTN5M2N5NUVVclc5MUdaVHNDM1I4YWhlb2lKSG5rd1hlYUVCemFSSE9Sc0stNGRSMnByczRiS0wxdDFzWmxKbXlYc2RUZGJ3RTI?oc=5",
-    "publishedAt": "2026-05-03T14:09:12.000Z",
-    "summary": "PS Plus June 2026 games – what to expect on PS5 and PS4 NME",
     "image": null
   },
   {
