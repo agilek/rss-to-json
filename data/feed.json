@@ -1,47 +1,110 @@
 [
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/sam-smith-met-gala-2026-look-outfit-partner-christian-cowan-1236238731/",
+    "id": "billboard-https://www.billboard.com/music/rock/eagles-announce-final-2026-dates-at-sphere-las-vegas-1236110164/",
     "source": "billboard",
-    "title": "Sam Smith Wears Custom Look by Their Partner, Designer Christian Cowan, to the 2026 Met Gala",
-    "url": "https://www.billboard.com/music/music-news/sam-smith-met-gala-2026-look-outfit-partner-christian-cowan-1236238731/",
-    "publishedAt": "2026-05-04T22:56:50.000Z",
-    "summary": "This is the couple's third time attending the gala together in looks by Cowan.",
+    "title": "Eagles Add More 2026 Dates at Las Vegas Sphere",
+    "url": "https://www.billboard.com/music/rock/eagles-announce-final-2026-dates-at-sphere-las-vegas-1236110164/",
+    "publishedAt": "2026-05-05T03:11:33.000Z",
+    "summary": "The legendary band adds six more shows to this year's slate to go into the fall.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/kanye-west-hurricane-copyright-infringement-trial-begins-1235557458/",
+    "source": "rolling-stone",
+    "title": "Kanye West ‘Hurricane’ Copyright Infringement Trial: ‘Snubbed’ Musicians Ask for Half a Million Dollars",
+    "url": "https://www.rollingstone.com/music/music-news/kanye-west-hurricane-copyright-infringement-trial-begins-1235557458/",
+    "publishedAt": "2026-05-05T02:11:27.000Z",
+    "summary": "The musician now known as Ye is expected to testify",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/photos/met-gala-2026-best-musician-photos-1236238894/",
+    "source": "billboard",
+    "title": "Met Gala 2026: The 10 Best Musician Looks on the Red Carpet",
+    "url": "https://www.billboard.com/photos/met-gala-2026-best-musician-photos-1236238894/",
+    "publishedAt": "2026-05-05T01:43:53.000Z",
+    "summary": "This year's dress code was \"Fashion Is Art.\"",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/madonna-met-gala-2026-look-1236238965/",
+    "source": "billboard",
+    "title": "Madonna Shows How It’s Done With Witchy, Weird Met Gala Look",
+    "url": "https://www.billboard.com/music/music-news/madonna-met-gala-2026-look-1236238965/",
+    "publishedAt": "2026-05-05T01:28:19.000Z",
+    "summary": "The Queen of Pop cast a spell on the red carpet.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/beyonce-attends-met-gala-first-time-10-years-dress-1236238911/",
+    "source": "billboard",
+    "title": "Beyoncé Makes Show-Stopping Met Gala Appearance — Her First in a Decade",
+    "url": "https://www.billboard.com/music/music-news/beyonce-attends-met-gala-first-time-10-years-dress-1236238911/",
+    "publishedAt": "2026-05-05T01:15:38.000Z",
+    "summary": "The legend brought her eldest daughter, Blue Ivy Carter, along for the ride.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/latin/bad-bunny-met-gala-photo-1236238916/",
+    "source": "billboard",
+    "title": "Bad Bunny Ages Himself ’53 Years’ for Senior Citizen Met Gala Look",
+    "url": "https://www.billboard.com/music/latin/bad-bunny-met-gala-photo-1236238916/",
+    "publishedAt": "2026-05-05T00:47:28.000Z",
+    "summary": "The Latin superstar was hoping for the discount.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/sza-wears-dress-made-of-pieces-bought-off-ebay-2026-met-gala-1236238863/",
+    "source": "billboard",
+    "title": "SZA’s Dazzling Met Gala Dress Is Made of Pieces Bought Off eBay: ‘This Is How I See Myself’",
+    "url": "https://www.billboard.com/music/music-news/sza-wears-dress-made-of-pieces-bought-off-ebay-2026-met-gala-1236238863/",
+    "publishedAt": "2026-05-05T00:36:12.000Z",
+    "summary": "\"This is like my ethereal body,\" the singer said of the look.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/blackpink-jennie-jisoo-lisa-rose-met-gala-red-carpet-1236238807/",
+    "source": "billboard",
+    "title": "BLACKPINK’s JENNIE, JISOO, LISA & ROSÉ Take Solo Walks Down the 2026 Met Gala Red Carpet",
+    "url": "https://www.billboard.com/music/music-news/blackpink-jennie-jisoo-lisa-rose-met-gala-red-carpet-1236238807/",
+    "publishedAt": "2026-05-05T00:22:53.000Z",
+    "summary": "Check out pics of their Met Gala looks.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/sabrina-carpenter-met-gala-2026-dress-film-which-movie-1236238847/",
+    "source": "billboard",
+    "title": "Sabrina Carpenter’s Met Gala Dress Is Made of Film Reels From One of Her ‘Favorite’ Movies",
+    "url": "https://www.billboard.com/music/music-news/sabrina-carpenter-met-gala-2026-dress-film-which-movie-1236238847/",
+    "publishedAt": "2026-05-05T00:12:58.000Z",
+    "summary": "The custom look was designed by Jonathan Anderson of Dior.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "source": "billboard",
+    "title": "Billboard’s Music Industry Events Calendar",
+    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "publishedAt": "2026-05-04T23:58:00.000Z",
+    "summary": "A complete rundown of the most important events across the music business.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/janelle-monae-met-gala-2026-look-christian-siriano-gown-1236238762/",
+    "source": "billboard",
+    "title": "Janelle Monáe’s Stunning Met Gala 2026 Look Combines Nature & Tech in Custom Christian Siriano",
+    "url": "https://www.billboard.com/music/music-news/janelle-monae-met-gala-2026-look-christian-siriano-gown-1236238762/",
+    "publishedAt": "2026-05-04T23:40:04.000Z",
+    "summary": "The multi-hyphenate artist's look includes live moss and more than 200 electrical wires.",
     "image": null
   },
   {
     "id": "pitchfork-https://pitchfork.com/news/met-gala-2026-photos/",
     "source": "pitchfork",
-    "title": "Met Gala 2026 Photos: Charli XCX, Doja Cat, Katy Perry, and More",
+    "title": "Met Gala 2026 Photos: Beyoncé, Madonna, Stevie Nicks, and More",
     "url": "https://pitchfork.com/news/met-gala-2026-photos/",
     "publishedAt": "2026-05-04T22:42:34.000Z",
-    "summary": "See what Anderson .Paak, Charlotte Gainsbourg, Jon Batiste, and others wore to the event",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/pop/the-pussycat-dolls-cancel-north-american-tour-dates-1236238686/",
-    "source": "billboard",
-    "title": "The Pussycat Dolls Cancel North American PCD Forever Tour Dates: ‘Difficult & Heartbreaking Decision’",
-    "url": "https://www.billboard.com/music/pop/the-pussycat-dolls-cancel-north-american-tour-dates-1236238686/",
-    "publishedAt": "2026-05-04T22:17:29.000Z",
-    "summary": "The PCD will still perform at WeHo Pride in Los Angeles, and the European trek will go on as scheduled.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/awards/twenty-one-pilots-2026-american-music-awards-amas-1236238710/",
-    "source": "billboard",
-    "title": "Twenty One Pilots Set to Perform on 2026 American Music Awards",
-    "url": "https://www.billboard.com/music/awards/twenty-one-pilots-2026-american-music-awards-amas-1236238710/",
-    "publishedAt": "2026-05-04T22:08:54.000Z",
-    "summary": "The duo has two nominations – best rock/alternative artist and best rock/alternative album.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/taylor-swift-texts-court-blake-lively-justin-baldoni-settle/",
-    "source": "billboard",
-    "title": "Taylor Swift’s Texts Won’t Get Aired in Court as Blake Lively and Justin Baldoni Settle Legal Battle",
-    "url": "https://www.billboard.com/pro/taylor-swift-texts-court-blake-lively-justin-baldoni-settle/",
-    "publishedAt": "2026-05-04T21:44:05.000Z",
-    "summary": "The messy lawsuit has finally ended, canceling a trial that was set to begin this month and include evidence about the pop superstar.",
+    "summary": "See what Bad Bunny, Sabrina Carpenter, Charli XCX, Janelle Monáe, and others wore to the event",
     "image": null
   },
   {
@@ -72,57 +135,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/lists/matt-rife-monthly-comedy-boxscore-recap/",
-    "source": "billboard",
-    "title": "Matt Rife Returns to Top of Monthly Comedy Boxscore Recap",
-    "url": "https://www.billboard.com/lists/matt-rife-monthly-comedy-boxscore-recap/",
-    "publishedAt": "2026-05-04T21:34:14.000Z",
-    "summary": "A detailed breakdown of the biggest touring comedians of the month.",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/steve-evetts-studio-loss/",
     "source": "loudwire",
     "title": "Steve Evetts' Recording Studio Lost in Massive New Jersey Fire",
     "url": "https://loudwire.com/steve-evetts-studio-loss/",
     "publishedAt": "2026-05-04T21:28:31.000Z",
     "summary": "A massive fire in Belleville, New Jersey on Sunday tore through a recording studio owned by Steve Evetts, who has worked with the likes of Every Time I Die, Sepultura and The Dillinger Escape Plan. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/megan-thee-stallion-nyx-body-care-line-shop-online-1236238538/",
-    "source": "billboard",
-    "title": "Megan Thee Stallion Teaches Us How to Get That ‘Hot Girl’ Glow With NYX’s New Body Care Line",
-    "url": "https://www.billboard.com/culture/product-recommendations/megan-thee-stallion-nyx-body-care-line-shop-online-1236238538/",
-    "publishedAt": "2026-05-04T21:28:01.000Z",
-    "summary": "The \"Whenever\" rapper serves as the face of NYX's new line.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/mia-kid-cudi-tour-removal-response-politics-1236238560/",
-    "source": "billboard",
-    "title": "M.I.A. Responds to Being Removed From Kid Cudi’s Tour Over ‘Offensive Remarks’: ‘Do Not Gaslight My Words’",
-    "url": "https://www.billboard.com/music/rb-hip-hop/mia-kid-cudi-tour-removal-response-politics-1236238560/",
-    "publishedAt": "2026-05-04T21:13:33.000Z",
-    "summary": "Cudi announced M.I.A. would no longer be performing on his Rebel Ragers Tour.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/arcade1up-mortal-kombat-2-where-to-buy-retro-gaming-online-1236238122/",
-    "source": "billboard",
-    "title": "Walmart Has Retro ‘Mortal Kombat 2’ Arcade Cabinets on Sale: Save Up to 20%",
-    "url": "https://www.billboard.com/culture/product-recommendations/arcade1up-mortal-kombat-2-where-to-buy-retro-gaming-online-1236238122/",
-    "publishedAt": "2026-05-04T20:59:10.000Z",
-    "summary": "Get ready for the new Mortal Kombat II movie in theaters with your very own arcade cabinet.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/met-gala-206-how-to-watch-online-free-1236237027/",
-    "source": "billboard",
-    "title": "Met Gala 2026 Livestream: How to Watch Beyoncé, Doja Cat & BLACKPINK’s Red Carpet",
-    "url": "https://www.billboard.com/culture/product-recommendations/met-gala-206-how-to-watch-online-free-1236237027/",
-    "publishedAt": "2026-05-04T20:58:50.000Z",
-    "summary": "Fashion's biggest night is back, coming to your screens live on May 4.",
     "image": null
   },
   {
@@ -141,15 +159,6 @@
     "url": "https://pitchfork.com/news/pussycat-dolls-cancel-north-american-reunion-tour/",
     "publishedAt": "2026-05-04T20:26:55.000Z",
     "summary": "Their European dates are still a go though",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/stars-mental-health-issues-struggles/",
-    "source": "billboard",
-    "title": "Musicians Who Have Opened Up About Their Mental Health Struggles",
-    "url": "https://www.billboard.com/lists/stars-mental-health-issues-struggles/",
-    "publishedAt": "2026-05-04T20:20:00.000Z",
-    "summary": "Artists have been doing their part to destigmatize mental health issues by opening up about their own experiences. Here's what they've said.",
     "image": null
   },
   {
@@ -258,15 +267,6 @@
     "url": "https://www.rollingstone.com/music/music-news/kid-cudi-drops-mia-tour-offensive-remarks-opening-act-1235557235/",
     "publishedAt": "2026-05-04T17:42:58.000Z",
     "summary": "“I’ve been flooded with messages from fans that were upset by her rants. This, to me, is very disappointing,” Cudi says",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/calder-allen-terry-allen-texas-fault-lines-1235557250/",
-    "source": "rolling-stone",
-    "title": "Calder Allen Comes From Texas Songwriting Royalty. He’s Determined to Carve His Own Path",
-    "url": "https://www.rollingstone.com/music/music-features/calder-allen-terry-allen-texas-fault-lines-1235557250/",
-    "publishedAt": "2026-05-04T17:41:52.000Z",
-    "summary": "The grandson of the revered songwriter Terry Allen, the 23-year-old is bridging generations of Lone Star state artists — and playing Rolling Stone’s upcoming Stateside festival",
     "image": null
   },
   {
