@@ -1,5 +1,41 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/awards/bryan-adams-everything-i-do-i-do-it-for-you-billion-views-1236241194/",
+    "source": "billboard",
+    "title": "Bryan Adams’ ‘(Everything I Do) I Do It For You’ Music Video Passes 1 Billion Views on YouTube",
+    "url": "https://www.billboard.com/music/awards/bryan-adams-everything-i-do-i-do-it-for-you-billion-views-1236241194/",
+    "publishedAt": "2026-05-07T06:04:46.000Z",
+    "summary": "The veteran Canadian singer and songwriter makes his second trip to YouTube Music’s Billion Views Club.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/kanye-testifies-hurricane-song-copyright-trial-1235558924/",
+    "source": "rolling-stone",
+    "title": "Kanye Denies Stonewalling Musicians at ‘Hurricane’ Copyright Trial",
+    "url": "https://www.rollingstone.com/music/music-news/kanye-testifies-hurricane-song-copyright-trial-1235558924/",
+    "publishedAt": "2026-05-07T04:46:24.000Z",
+    "summary": "The artist, now known as Ye, clearly wasn't happy to be on the witness stand over an early version of his Grammy-winning song \"Hurricane\"",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/awards/austin-city-limits-induct-brandi-carlile-hall-of-fame-1236241189/",
+    "source": "billboard",
+    "title": "Austin City Limits to Induct Brandi Carlile Into Hall of Fame",
+    "url": "https://www.billboard.com/music/awards/austin-city-limits-induct-brandi-carlile-hall-of-fame-1236241189/",
+    "publishedAt": "2026-05-07T04:26:43.000Z",
+    "summary": "Bonnie Raitt will be on hand to induct Carlile, and to perform a tribute on the night.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/listen-to-father-john-mistys-new-song-the-payoff/",
+    "source": "pitchfork",
+    "title": "Listen to Father John Misty’s New Song “The Payoff”",
+    "url": "https://pitchfork.com/news/listen-to-father-john-mistys-new-song-the-payoff/",
+    "publishedAt": "2026-05-07T04:07:45.000Z",
+    "summary": "He co-produced his first new track since January’s “The Old Law” with frequent collaborator Drew Erickson",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/media/podcasts/josh-groban-cinematic-interview-billboard-pop-shop-podcast-1236241169/",
     "source": "billboard",
     "title": "Josh Groban Talks Channeling Movie Magic for ‘Cinematic,’ His ‘Emotionally Personal’ New Album",
@@ -96,24 +132,6 @@
     "url": "https://www.rollingstone.com/music/music-news/harry-styles-dance-no-more-video-teaser-1235558776/",
     "publishedAt": "2026-05-06T22:18:20.000Z",
     "summary": "On May 7, the musician will release the video for the grooving record from his latest album Kiss All the Time. Disco, Occasionally",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/kanye-west-testifies-donda-music-copyright-trial/",
-    "source": "billboard",
-    "title": "Ye Testifies at ‘Donda’ Copyright Trial: ‘A Lot of People Try to Take Advantage of Me’",
-    "url": "https://www.billboard.com/pro/kanye-west-testifies-donda-music-copyright-trial/",
-    "publishedAt": "2026-05-06T22:00:42.000Z",
-    "summary": "The rapper took the witness stand on Wednesday (May 6) in a trial over a sample on an early version of the Grammy-winning song \"Hurricane.\"",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/romeo-santos-prince-royce-dardos-number-one-latin-airplay-1236241003/",
-    "source": "billboard",
-    "title": "Romeo Santos & Prince Royce’s ‘Dardos’ Hits Bull’s-Eye at No. 1 on Latin Airplay",
-    "url": "https://www.billboard.com/music/chart-beat/romeo-santos-prince-royce-dardos-number-one-latin-airplay-1236241003/",
-    "publishedAt": "2026-05-06T21:26:13.000Z",
-    "summary": "Plus, La Arrolladora Banda El Limón de René Camacho ties with Banda MS for the second-highest number of rulers on Regional Mexican Airplay.",
     "image": null
   },
   {
@@ -261,15 +279,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/paul-mccartneys-new-album-duet-ringo-starr-1235558482/",
-    "source": "rolling-stone",
-    "title": "Paul McCartney’s Nostalgic New Album Includes His First Ever Duet With Ringo Starr",
-    "url": "https://www.rollingstone.com/music/music-news/paul-mccartneys-new-album-duet-ringo-starr-1235558482/",
-    "publishedAt": "2026-05-06T14:49:27.000Z",
-    "summary": "The Boys Of Dungeon Lane, which was produced by Andrew Watt, has many songs looking back on Macca’s early days, including one about his friendship with John Lennon",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/news/lambchop-line-up-tour-and-justin-vernon-assisted-album-punching-the-clown/",
     "source": "pitchfork",
     "title": "Lambchop Line Up Tour and Justin Vernon-Assisted Album Punching the Clown",
@@ -285,6 +294,15 @@
     "url": "https://loudwire.com/greta-van-fleet-fan-clue-website-following-breakup-scare/",
     "publishedAt": "2026-05-06T14:30:43.000Z",
     "summary": "A Greta Van Fleet fan found an apparent clue hidden in the code of the band's website a few days after their social media post that triggered a breakup scare. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMiigJBVV95cUxPeS1vdEh2UXNuV1JHN21aa1B5bU5aaWJKWWNnLWxmYUhfX1N1ZlJXckx1YVJxVXJZN3R4bS1JN3Z2UXRmSlRrajQ2U0M5eVN4RVNfcGtoUENYYlZuNWFjWi1wVDJfRUg3SXJoRVdLb1FsdU1NSWVSallwcWtsSFZ3S3VudDNadkluMkgyZ1NyRWdiMlNfb21TNUJfek9WVERLWVg0SEJFem9UNDdoSkdHSGE1T1c4SmQzRG5QSnRMeFI3cDRNQUo1Y1Z2Vm14d1RqUHBpYmtwcnFLdk9PbEFsVnFZMW9pVjJ4TmxIOXl3TTVKcHRWTjdZWkpod3BiTmJLZG9CY3JPWVYyQQ?oc=5",
+    "source": "kerrang",
+    "title": "DragonForce welcome new vocalist Alissa White-Gluz: “She doesn’t just sing, she makes all aspects of our music better” - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPeS1vdEh2UXNuV1JHN21aa1B5bU5aaWJKWWNnLWxmYUhfX1N1ZlJXckx1YVJxVXJZN3R4bS1JN3Z2UXRmSlRrajQ2U0M5eVN4RVNfcGtoUENYYlZuNWFjWi1wVDJfRUg3SXJoRVdLb1FsdU1NSWVSallwcWtsSFZ3S3VudDNadkluMkgyZ1NyRWdiMlNfb21TNUJfek9WVERLWVg0SEJFem9UNDdoSkdHSGE1T1c4SmQzRG5QSnRMeFI3cDRNQUo1Y1Z2Vm14d1RqUHBpYmtwcnFLdk9PbEFsVnFZMW9pVjJ4TmxIOXl3TTVKcHRWTjdZWkpod3BiTmJLZG9CY3JPWVYyQQ?oc=5",
+    "publishedAt": "2026-05-06T14:27:00.000Z",
+    "summary": "DragonForce welcome new vocalist Alissa White-Gluz: “She doesn’t just sing, she makes all aspects of our music better” Kerrang!",
     "image": null
   },
   {
@@ -531,15 +549,6 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/news/charli-xcx-the-xx-to-headline-austin-city-limits-festival-2026/",
-    "source": "pitchfork",
-    "title": "Charli XCX, the XX to Headline Austin City Limits Festival 2026",
-    "url": "https://pitchfork.com/news/charli-xcx-the-xx-to-headline-austin-city-limits-festival-2026/",
-    "publishedAt": "2026-05-05T16:05:13.000Z",
-    "summary": "Geese, Lorde, Turnstile, Fakemink, Underscores, and more are also booked for the festival’s 25th-anniversary edition",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNXI3TnQ1enNLNFFFcnNfUHJJYnZESk5ndllPY25LVzRtMkpsT2VkOWZleHI2cl80S1hoaS05STlEcDNpRm5Lc1I1ZmtOUkhyNzJIQVl2QjJ3ZnRfYmN3UXlGaDJ6V0Njd1gyODRDbERfbl9mWmNOZ3RUcGJ4M0E1ekNSS1pMWlpMSGRkQkhvX2N0MWlDcEN5M3lWSXFVM0VjQXAxMFQwUVhpYjRTQ21xTmNQNGtTeEZLRHJzV1V2VFFEUlk3NklKNEh1VXY1Ykx6Ml9WOXRSeGtaczJtcnhrZGJudWFmZ1Vn?oc=5",
     "source": "nme",
     "title": "The Rolling Stones announce new album ‘Foreign Tongues’, with contributions from Paul McCartney, Robert Smith and more - NME",
@@ -690,15 +699,6 @@
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRkhrZWFBM0FZeEF2c3g3MVRSaG5NZmtsdmFmdnZ0ajU4d0NJRHMzSmZmcDdBZUdhTklfb3VzbV9SbU5ZR2hnNWNTU21DVURTc1pNdjZCM29qRHU5dTN2dlBCbUNmTHVFZDRqZ3lNYy0zZWkxcFlwcEZpdFFYdEtyNHVVYzlSWlZBd2FjRDA3QUQ4OG1OSDNlRnRlWk85OWxfbmx3aDJESzJsZnNXSFBz?oc=5",
     "publishedAt": "2026-05-01T08:51:00.000Z",
     "summary": "Album review: American Football – LP4 Kerrang!",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMirgFBVV95cUxOLU0taGQtcnRCT203VlYwckhCd1pQanhCdFlIU2FYUG82VFl5ZG9VZjFibmkwZFpaTkZQSnZfdkh1d2Q0YVF4anJFV0dIdTYxNWJpSnZjMWhfYWdUVVFNWmNKUkRETkNzZk1rMWNjeE5MdnR1VHVSNjN4SUE5bzIxN1dxOXJ0VUxLSXVORTdQcjM2eUhBX1lFQmN4TDE1d1VkMFRaLWhKcF9JWkN3TWc?oc=5",
-    "source": "kerrang",
-    "title": "American Football: “We truly don’t want to be a nostalgia band. We’re… - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLU0taGQtcnRCT203VlYwckhCd1pQanhCdFlIU2FYUG82VFl5ZG9VZjFibmkwZFpaTkZQSnZfdkh1d2Q0YVF4anJFV0dIdTYxNWJpSnZjMWhfYWdUVVFNWmNKUkRETkNzZk1rMWNjeE5MdnR1VHVSNjN4SUE5bzIxN1dxOXJ0VUxLSXVORTdQcjM2eUhBX1lFQmN4TDE1d1VkMFRaLWhKcF9JWkN3TWc?oc=5",
-    "publishedAt": "2026-04-30T16:30:00.000Z",
-    "summary": "American Football: “We truly don’t want to be a nostalgia band. We’re… Kerrang!",
     "image": null
   },
   {
