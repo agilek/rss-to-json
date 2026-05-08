@@ -1,5 +1,68 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/music-news/world-cup-2026-opening-ceremonies-1236243169/",
+    "source": "billboard",
+    "title": "Katy Perry, Future, LISA, J Balvin, Alanis Morissette & Tyla to Perform at 2026 FIFA World Cup Opening Ceremonies: Report",
+    "url": "https://www.billboard.com/music/music-news/world-cup-2026-opening-ceremonies-1236243169/",
+    "publishedAt": "2026-05-08T20:58:45.000Z",
+    "summary": "Anitta, Michael Bublé, Alessia Cara and Jessie Reyez will also perform.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-latin/julieta-venegas-reconnected-with-her-roots-and-released-her-most-ambitious-work-yet-1235558791/",
+    "source": "rolling-stone",
+    "title": "Julieta Venegas Reconnected With Her Roots — and Made Her Most Ambitious Work",
+    "url": "https://www.rollingstone.com/music/music-latin/julieta-venegas-reconnected-with-her-roots-and-released-her-most-ambitious-work-yet-1235558791/",
+    "publishedAt": "2026-05-08T20:57:55.000Z",
+    "summary": "The Mexican pioneer, who has inspired everyone from Natalia Lafourcade to Tainy, talks about her album Norteña and her accompanying memoir",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/noah-kahan-hit-no-1-new-album-the-great-divide-how/",
+    "source": "billboard",
+    "title": "How Noah Kahan Landed His Best Chart Week Yet With New Album ‘The Great Divide’",
+    "url": "https://www.billboard.com/pro/noah-kahan-hit-no-1-new-album-the-great-divide-how/",
+    "publishedAt": "2026-05-08T20:30:21.000Z",
+    "summary": "\"Patience was key, and our belief in Noah's ability never wavered,\" says manager Drew Simmons.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/muna-announce-2026-tour/",
+    "source": "pitchfork",
+    "title": "Muna Announce 2026 Tour",
+    "url": "https://pitchfork.com/news/muna-announce-2026-tour/",
+    "publishedAt": "2026-05-08T20:13:15.000Z",
+    "summary": "A sprawling run of shows across the U.S., UK, and Europe supports the trio’s new album, Dancing on the Wall",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/from-ashes-to-new-drag-me-number-one-1236243124/",
+    "source": "billboard",
+    "title": "From Ashes to New Earns First Radio Chart No. 1 With ‘Drag Me’",
+    "url": "https://www.billboard.com/music/chart-beat/from-ashes-to-new-drag-me-number-one-1236243124/",
+    "publishedAt": "2026-05-08T20:05:26.000Z",
+    "summary": "The track tops Mainstream Rock Airplay.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/latto-big-mama-album-retirement-1236243080/",
+    "source": "billboard",
+    "title": "Latto Says ‘Big Mama’ Album Will Be Her Last: ‘My Retirement Album’",
+    "url": "https://www.billboard.com/music/rb-hip-hop/latto-big-mama-album-retirement-1236243080/",
+    "publishedAt": "2026-05-08T20:01:26.000Z",
+    "summary": "The rapper is just 28 years old.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "source": "billboard",
+    "title": "Billboard’s Music Industry Events Calendar",
+    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "publishedAt": "2026-05-08T19:59:00.000Z",
+    "summary": "A complete rundown of the most important events across the music business.",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/unreleased-beyonce-music-stolen-theft-case-heads-to-trial-1235559867/",
     "source": "rolling-stone",
     "title": "Trial Date Set for Man Accused of Stealing Hard Drives Containing Unreleased Beyoncé Music",
@@ -14,7 +77,7 @@
     "title": "The Oasis Reunion Tour Doc Is Coming to Theaters But No Longer Has a Title",
     "url": "https://pitchfork.com/news/oasis-reunion-concert-documentary-theaters-disney-plus-hulu/",
     "publishedAt": "2026-05-08T19:00:55.000Z",
-    "summary": "It hits cinemas on September 11",
+    "summary": "It arrives in cinemas September 11",
     "image": null
   },
   {
@@ -72,15 +135,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/lists/executive-turntable-warner-music-korea-president/",
-    "source": "billboard",
-    "title": "Executive Turntable: Warner Music, AEG Presents Name New Korea Heads & More Industry Hires",
-    "url": "https://www.billboard.com/lists/executive-turntable-warner-music-korea-president/",
-    "publishedAt": "2026-05-08T17:49:04.000Z",
-    "summary": "Symphonic, Riser House, Oak View Group and Sexton Entertainment Group were among those to see new hires and promotions in the music industry.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/oasis-set-release-date-reunion-tour-documentary-1235559824/",
     "source": "rolling-stone",
     "title": "The Oasis Reunion Documentary Liam Gallagher Said They Wouldn’t Make Sets Release Date",
@@ -99,39 +153,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/lists/songs-that-were-big-uk-hits-but-not-in-the-u-s/",
-    "source": "billboard",
-    "title": "Every Song That Topped the UK Chart for 8 or More Weeks, But Didn’t Make the Top 10 on the Hot 100",
-    "url": "https://www.billboard.com/lists/songs-that-were-big-uk-hits-but-not-in-the-u-s/",
-    "publishedAt": "2026-05-08T17:20:39.000Z",
-    "summary": "\"Rein Me In” by Sam Fender and Olivia Dean is now one of just three singles to log 10-plus weeks at No. 1 in the U.K. without making the top 10 on the Hot 100.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/pop/chers-compliment-diane-warren-songwriting-skills-annoying-1236242708/",
-    "source": "billboard",
-    "title": "Cher’s Backhanded Compliment About Diane Warren’s Songwriting Skills is Perfection",
-    "url": "https://www.billboard.com/music/pop/chers-compliment-diane-warren-songwriting-skills-annoying-1236242708/",
-    "publishedAt": "2026-05-08T17:14:17.000Z",
-    "summary": "The duo have scored a number of chart hits over the years, including such classics as \"If I Could Turn Back Time,\" \"Just Like Jesse James\" and \"You Haven't Seen the Last of Me.\"",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/pop/muna-dancing-on-the-wall-album-interview-1236242830/",
-    "source": "billboard",
-    "title": "MUNA Discuss the ‘Queer Power’ Of New Album ‘Dancing On the Wall’: ‘We’re Trojan Horsing Sad Lesbian Music Into the Gay Club’",
-    "url": "https://www.billboard.com/music/pop/muna-dancing-on-the-wall-album-interview-1236242830/",
-    "publishedAt": "2026-05-08T17:12:43.000Z",
-    "summary": "The trio reveals how its fourth studio album is a return to “MUNA’s actual DNA.”",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/abeer-nehme-billboard-arabia-cover-1236242322/",
-    "source": "billboard",
-    "title": "Abeer Nehme on Billboard Arabia’s Cover: A Voice Guided by Feeling",
-    "url": "https://www.billboard.com/music/music-news/abeer-nehme-billboard-arabia-cover-1236242322/",
-    "publishedAt": "2026-05-08T17:12:05.000Z",
-    "summary": "The Lebanese star opens up about her artistic journey, from childhood to the height of her stardom.",
+    "id": "nme-https://news.google.com/rss/articles/CBMiowFBVV95cUxPeE04eENZRHRJekNqS0k4Mm1TblVHLTRaR0ZYWXBQUnNDM3hsOEx6cG9mc1VEMnV0S0hxdU5SRjRWeEI1YmJFbmNxd0pZOUJlMDQ0d1VRbHotR0VmTkF6c2pIOVpNN1QyMmw4RVdpd3FEUDlOdllWb3BBT3o2dmpqVE9TQXdoOWlHRTFvR1RwUDdtUDkxMURscGgzU0hFSUJTNUxj?oc=5",
+    "source": "nme",
+    "title": "Steven Knight’s ‘landmark’ Oasis documentary is heading to Disney+ - NME",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeE04eENZRHRJekNqS0k4Mm1TblVHLTRaR0ZYWXBQUnNDM3hsOEx6cG9mc1VEMnV0S0hxdU5SRjRWeEI1YmJFbmNxd0pZOUJlMDQ0d1VRbHotR0VmTkF6c2pIOVpNN1QyMmw4RVdpd3FEUDlOdllWb3BBT3o2dmpqVE9TQXdoOWlHRTFvR1RwUDdtUDkxMURscGgzU0hFSUJTNUxj?oc=5",
+    "publishedAt": "2026-05-08T17:31:34.000Z",
+    "summary": "Steven Knight’s ‘landmark’ Oasis documentary is heading to Disney+ NME",
     "image": null
   },
   {
@@ -270,6 +297,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZjEzWVVsQ0xHUkxpMm5aWDhLei04bjZ3WUg5Y21LNHp3RDhOSVJVZFFnYTU2ZVRNT3ZIekdOMnNuRHM1NU9ZNFAzc0pYRGtHeFBCQVhvNlY0LVpKYm5wTXpuaTBTOWJMRGpBeVlNSy1JZ1M1bDhwLVFXVXBxWFJiTFBYQXdDUTZKSEV1VGhXNjdTRXk0WDNzQk1oQl9PUjRHdW9iZXROWWFwY3BmempKanBYRzV3NmZF?oc=5",
+    "source": "nme",
+    "title": "Hayley Williams announces tour of North and Latin America, playing her solo material and \"exciting surprises” - NME",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZjEzWVVsQ0xHUkxpMm5aWDhLei04bjZ3WUg5Y21LNHp3RDhOSVJVZFFnYTU2ZVRNT3ZIekdOMnNuRHM1NU9ZNFAzc0pYRGtHeFBCQVhvNlY0LVpKYm5wTXpuaTBTOWJMRGpBeVlNSy1JZ1M1bDhwLVFXVXBxWFJiTFBYQXdDUTZKSEV1VGhXNjdTRXk0WDNzQk1oQl9PUjRHdW9iZXROWWFwY3BmempKanBYRzV3NmZF?oc=5",
+    "publishedAt": "2026-05-08T11:07:53.000Z",
+    "summary": "Hayley Williams announces tour of North and Latin America, playing her solo material and \"exciting surprises” NME",
+    "image": null
+  },
+  {
     "id": "nme-https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSWZoUEk3UmU4UFgyNTJmd25CX184ZHNOclNZNklQa194LTVUdkRBQzIybW5XYmxBd0FBR2R1b0dfdkVOLWRfNG01Q1pkZGZPdEJfU2FiVmpQdHZtbXZvQkhHbXQwQkx2VTAxQy0xbFNkcUZzd2hEYkN5cmhmcWRYaklCWENJc3luY2tkV1BnU0RMNFVGaGlmQklQU2hQR25OSzBiVFpfenpuNlVwMFVLYmpvekZGU0FIV3Zzb0g5QWgwUjg?oc=5",
     "source": "nme",
     "title": "The Last Dinner Party share thunderous new single 'Big Dog' and poem 'Come All You Beasts' - NME",
@@ -360,15 +396,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/billie-eilish-responds-backlash-eating-meat-comment-1235559531/",
-    "source": "rolling-stone",
-    "title": "Billie Eilish Responds to Backlash After Saying ‘Eating Meat Is Inherently Wrong’",
-    "url": "https://www.rollingstone.com/music/music-news/billie-eilish-responds-backlash-eating-meat-comment-1235559531/",
-    "publishedAt": "2026-05-08T04:14:27.000Z",
-    "summary": "“I am so tired of standing up for/having empathy for living beings being controversial,” said the artist in a social media post",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/news/beastie-boys-mike-d-reveals-debut-solo-single/",
     "source": "pitchfork",
     "title": "Beastie Boys’ Mike D Reveals Debut Solo Single",
@@ -450,15 +477,6 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/news/felicia-atkinson-reinvents-a-cult-horror-score-for-new-album/",
-    "source": "pitchfork",
-    "title": "Félicia Atkinson Reinvents a Cult Horror Score for New Album",
-    "url": "https://pitchfork.com/news/felicia-atkinson-reinvents-a-cult-horror-score-for-new-album/",
-    "publishedAt": "2026-05-07T17:23:19.000Z",
-    "summary": "Listen to “Les Yeux II” from the composer’s new accompaniment to Georges Franju’s Les Yeux Sans Visage",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/slipknot-clown-joey-jordison-drums/",
     "source": "loudwire",
     "title": "Slipknot's Shawn Crahan Recalls First Time Seeing Joey Jordison",
@@ -486,30 +504,12 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSFpyQmJPZV9fWHFfRHBPUmR5US0tSngyYWRaNXVVa3BQUjM0YUhweFFZR0NmTl95NVFVekw3TmpoUWZPOFFOc0haZklsTXR3VHE2MVZ2Z0NHREI2bGxLNHB2TjRtTEltSjZMSHF0V2dBYm9QNHJVN29HT3R2VDlYOFhyM2RPRndVdjc1OTFHYmp5N3pweWxHNmdwYUVWMTd4MUQyX0NYNml1NnA2VVFrTE5LVVZnXzM1TEZv?oc=5",
-    "source": "nme",
-    "title": "Mighty Hoopla Malta 2026 has been cancelled due to rising costs in the airline industry - NME",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSFpyQmJPZV9fWHFfRHBPUmR5US0tSngyYWRaNXVVa3BQUjM0YUhweFFZR0NmTl95NVFVekw3TmpoUWZPOFFOc0haZklsTXR3VHE2MVZ2Z0NHREI2bGxLNHB2TjRtTEltSjZMSHF0V2dBYm9QNHJVN29HT3R2VDlYOFhyM2RPRndVdjc1OTFHYmp5N3pweWxHNmdwYUVWMTd4MUQyX0NYNml1NnA2VVFrTE5LVVZnXzM1TEZv?oc=5",
-    "publishedAt": "2026-05-07T13:00:46.000Z",
-    "summary": "Mighty Hoopla Malta 2026 has been cancelled due to rising costs in the airline industry NME",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/quogne-doux-album-review/",
     "source": "louder-than-war",
     "title": "Quogne: Doux – Album Review",
     "url": "https://louderthanwar.com/quogne-doux-album-review/",
     "publishedAt": "2026-05-07T12:59:37.000Z",
     "summary": "Quogne: Doux (Union Finale) Cassette | DL | Streaming Out Now BUY HERE Canadian duo Quogne present Doux, their second album of strange and experimental synthwave. Andy Brown reviews the album for Louder Than War. Quogne are composed of long-time collaborators Chanoine and S. Lamoth, the latter of whom is perhaps best known as […] The post Quogne: Doux – Album Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMitgFBVV95cUxOMUJnRUJLUkRHNXNKRk9KT0x4cGhlTFprNGZyYlkxTHdkemI5M093ekxuOWV2MlV5NHdma2FOdXZibEFTcTVMRmhEb21zbGVyTDBqNHljSng0WTFiX3ZjOVVFSElxZlRfUkhEM1hoazNkM0x1TDB1Q3R5TVJudnAtc0VMZGltcl9admdnQUhOX0pLS3hvWXhJMWszbG9NMHQ3a0pFbTlYWUpzX3lxQkpIQXhXMkMxUQ?oc=5",
-    "source": "nme",
-    "title": "Sting shares why his kids “make their own way” instead of living off his money - NME",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMUJnRUJLUkRHNXNKRk9KT0x4cGhlTFprNGZyYlkxTHdkemI5M093ekxuOWV2MlV5NHdma2FOdXZibEFTcTVMRmhEb21zbGVyTDBqNHljSng0WTFiX3ZjOVVFSElxZlRfUkhEM1hoazNkM0x1TDB1Q3R5TVJudnAtc0VMZGltcl9admdnQUhOX0pLS3hvWXhJMWszbG9NMHQ3a0pFbTlYWUpzX3lxQkpIQXhXMkMxUQ?oc=5",
-    "publishedAt": "2026-05-07T12:37:26.000Z",
-    "summary": "Sting shares why his kids “make their own way” instead of living off his money NME",
     "image": null
   },
   {
