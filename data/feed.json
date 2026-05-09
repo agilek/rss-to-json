@@ -1,5 +1,41 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/dj-whoo-kid-rap-needs-drake-music-charts-1236243281/",
+    "source": "billboard",
+    "title": "DJ Whoo Kid Says Rap Game Needs Drake: ‘When He’s Here, We’re on the Charts’",
+    "url": "https://www.billboard.com/music/rb-hip-hop/dj-whoo-kid-rap-needs-drake-music-charts-1236243281/",
+    "publishedAt": "2026-05-09T00:32:26.000Z",
+    "summary": "\"I mean, where has hip-hop been?\" he asks.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/tde-punch-joe-budden-podcast-we-dont-bot-1236243279/",
+    "source": "billboard",
+    "title": "TDE’s Punch Addresses ‘Bot Allegations’ on ‘Joe Budden Podcast’: ‘Our True Metric Is Seeing People in Them Seats at the Show’",
+    "url": "https://www.billboard.com/music/rb-hip-hop/tde-punch-joe-budden-podcast-we-dont-bot-1236243279/",
+    "publishedAt": "2026-05-08T23:44:51.000Z",
+    "summary": "Fans online have accused Kendrick Lamar & Top Dawg Entertainment of juicing their numbers by using bots.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/mick-jagger-zara-larsson-fan-1235560103/",
+    "source": "rolling-stone",
+    "title": "Mick Jagger Reveals Which Zara Larsson Song Got Him Hooked on Her Music",
+    "url": "https://www.rollingstone.com/music/music-news/mick-jagger-zara-larsson-fan-1235560103/",
+    "publishedAt": "2026-05-08T23:39:14.000Z",
+    "summary": "The Rolling Stones frontman said he's been a fan of the pop star since 2018",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/red-hot-chili-peppers-sells-recorded-catalog-warner-music/",
+    "source": "billboard",
+    "title": "Red Hot Chili Peppers Sells Recorded Music Catalog to WMG for Over $300 Million",
+    "url": "https://www.billboard.com/pro/red-hot-chili-peppers-sells-recorded-catalog-warner-music/",
+    "publishedAt": "2026-05-08T23:12:47.000Z",
+    "summary": "The company purchased the catalog through a $1.2 billion joint venture with Bain Capital.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/culture/product-recommendations/wardley-vs-dubois-how-to-watch-live-boxing-ppv-online-1236239498/",
     "source": "billboard",
     "title": "Fabio Wardley vs. Daniel Dubois Livestream: How to Watch the Pay-Per-View Boxing Event Online",
@@ -56,7 +92,7 @@
   {
     "id": "billboard-https://www.billboard.com/music/music-news/world-cup-2026-opening-ceremonies-1236243169/",
     "source": "billboard",
-    "title": "Katy Perry, Future, LISA, J Balvin, Alanis Morissette & Tyla to Perform at 2026 FIFA World Cup Opening Ceremonies: Report",
+    "title": "Katy Perry, Future, LISA, J Balvin, Alanis Morissette & Tyla to Perform at 2026 FIFA World Cup Opening Ceremonies",
     "url": "https://www.billboard.com/music/music-news/world-cup-2026-opening-ceremonies-1236243169/",
     "publishedAt": "2026-05-08T20:58:45.000Z",
     "summary": "Anitta, Michael Bublé, Alessia Cara and Jessie Reyez will also perform.",
@@ -87,33 +123,6 @@
     "url": "https://pitchfork.com/news/muna-announce-2026-tour/",
     "publishedAt": "2026-05-08T20:13:15.000Z",
     "summary": "A sprawling run of shows across the U.S., UK, and Europe supports the trio’s new album, Dancing on the Wall",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/from-ashes-to-new-drag-me-number-one-1236243124/",
-    "source": "billboard",
-    "title": "From Ashes to New Earns First Radio Chart No. 1 With ‘Drag Me’",
-    "url": "https://www.billboard.com/music/chart-beat/from-ashes-to-new-drag-me-number-one-1236243124/",
-    "publishedAt": "2026-05-08T20:05:26.000Z",
-    "summary": "The track tops Mainstream Rock Airplay.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/latto-big-mama-album-retirement-1236243080/",
-    "source": "billboard",
-    "title": "Latto Says ‘Big Mama’ Album Will Be Her Last: ‘My Retirement Album’",
-    "url": "https://www.billboard.com/music/rb-hip-hop/latto-big-mama-album-retirement-1236243080/",
-    "publishedAt": "2026-05-08T20:01:26.000Z",
-    "summary": "The rapper is just 28 years old.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-    "source": "billboard",
-    "title": "Billboard’s Music Industry Events Calendar",
-    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-    "publishedAt": "2026-05-08T19:59:00.000Z",
-    "summary": "A complete rundown of the most important events across the music business.",
     "image": null
   },
   {
@@ -222,15 +231,6 @@
     "url": "https://www.rollingstone.com/music/music-news/the-rolling-stones-cover-amy-winehouse-foreign-tongues-1235559574/",
     "publishedAt": "2026-05-08T15:16:00.000Z",
     "summary": "Jimmy Fallon shared the news about the band’s rendition during Ronnie Wood’s appearance on The Tonight Show",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/taylor-swift-trademark-lawsuit-attorneys-argument-absurd-1235559565/",
-    "source": "rolling-stone",
-    "title": "Taylor Swift’s Attorneys Call ‘Showgirl’ Lawsuit ‘Absurd’",
-    "url": "https://www.rollingstone.com/music/music-news/taylor-swift-trademark-lawsuit-attorneys-argument-absurd-1235559565/",
-    "publishedAt": "2026-05-08T14:51:27.000Z",
-    "summary": "The musician’s legal representatives say a performer who is suing Swift over The Life of a Showgirl is trying to “prop up her brand”",
     "image": null
   },
   {
