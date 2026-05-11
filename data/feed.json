@@ -1,5 +1,23 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/music-news/best-new-music-muna-dancing-on-the-wall-1236244036/",
+    "source": "billboard",
+    "title": "Fans Choose MUNA’s ‘Dancing on the Wall’ as This Week’s Favorite New Music",
+    "url": "https://www.billboard.com/music/music-news/best-new-music-muna-dancing-on-the-wall-1236244036/",
+    "publishedAt": "2026-05-11T05:52:13.000Z",
+    "summary": "Dancing on the Wall rose to the top in a week that also featured Charli xcx's hotly anticipated genre-pivot single \"Rock Music.\"",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/red-hot-chili-peppers-sell-music-catalog-to-warner-for-dollar300-million/",
+    "source": "pitchfork",
+    "title": "Red Hot Chili Peppers Sell Music Catalog to Warner for $300 Million",
+    "url": "https://pitchfork.com/news/red-hot-chili-peppers-sell-music-catalog-to-warner-for-dollar300-million/",
+    "publishedAt": "2026-05-11T05:16:28.000Z",
+    "summary": "The deal includes the band’s entire recorded output, including their 13 studio albums",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/music-news/eric-church-unc-chapel-hill-graduation-speech-2206-1236244006/",
     "source": "billboard",
     "title": "Eric Church Delivers UNC-Chapel Hill Commencement Speech Like a Guitar Lesson, Performs ‘Carolina’ for Grads",
@@ -315,15 +333,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/culture/tv-film/snl-weekend-update-tucker-carlson-met-gala-1236243754/",
-    "source": "billboard",
-    "title": "‘SNL’ Weekend Update: Tucker Carlson Rants About the Met Gala",
-    "url": "https://www.billboard.com/culture/tv-film/snl-weekend-update-tucker-carlson-met-gala-1236243754/",
-    "publishedAt": "2026-05-10T07:19:19.000Z",
-    "summary": "The former Fox News host was portrayed by featured player Jeremy Culhane.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/snl-watch-noah-kahan-perform-great-divide-doors-1235560165/",
     "source": "rolling-stone",
     "title": "‘SNL’: Watch Noah Kahan Perform ‘The Great Divide,’ ‘Doors’",
@@ -546,15 +555,6 @@
     "url": "https://louderthanwar.com/cowboy-junkies-ulverston-coronation-hall-live-review/",
     "publishedAt": "2026-05-08T07:00:42.000Z",
     "summary": "Cowboy Junkies Ulverston Coronation Hall, Cumbria 4th May 2026 Cowboy Junkies bring their Forty Years And Beyond tour to Ulverston, on the fringe of the Lake District, for a mesmerising performance of songs old and new spiced with their own interpretations of iconic tracks from the rock and alt country cannon. When Cowboy Junkies emerged […] The post Cowboy Junkies: Ulverston Coronation Hall – Live Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/news/beastie-boys-mike-d-reveals-debut-solo-single/",
-    "source": "pitchfork",
-    "title": "Beastie Boys’ Mike D Reveals Debut Solo Single",
-    "url": "https://pitchfork.com/news/beastie-boys-mike-d-reveals-debut-solo-single/",
-    "publishedAt": "2026-05-08T04:10:45.000Z",
-    "summary": "“Switch Up” was co-produced by the rapper’s sons, Skyler and Davis Diamond",
     "image": null
   },
   {
