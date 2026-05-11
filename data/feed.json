@@ -1,5 +1,32 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/music-news/eric-church-unc-chapel-hill-graduation-speech-2206-1236244006/",
+    "source": "billboard",
+    "title": "Eric Church Delivers UNC-Chapel Hill Commencement Speech Like a Guitar Lesson, Performs ‘Carolina’ for Grads",
+    "url": "https://www.billboard.com/music/music-news/eric-church-unc-chapel-hill-graduation-speech-2206-1236244006/",
+    "publishedAt": "2026-05-11T02:42:22.000Z",
+    "summary": "Church shared words with the class of 2026 the best way he knows how -- with his guitar.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/debbie-harry-to-star-as-pamela-andersons-mother-in-new-movie/",
+    "source": "pitchfork",
+    "title": "Debbie Harry to Star as Pamela Anderson’s Mother in New Movie",
+    "url": "https://pitchfork.com/news/debbie-harry-to-star-as-pamela-andersons-mother-in-new-movie/",
+    "publishedAt": "2026-05-11T01:43:52.000Z",
+    "summary": "The comedy film, Maitreya, will be directed by Portlandia co-creator Jonathan Krisel",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/dua-lipa-samsung-lawsuit-15-million-tv-boxes-1236243996/",
+    "source": "billboard",
+    "title": "Dua Lipa Sues Samsung for $15 Million Over ‘Unauthorized Commercial Exploitation’ of Her Image on TV Boxes",
+    "url": "https://www.billboard.com/music/music-news/dua-lipa-samsung-lawsuit-15-million-tv-boxes-1236243996/",
+    "publishedAt": "2026-05-10T23:59:50.000Z",
+    "summary": "The lawsuit includes complaints of copyright infringement, trademark infringement and violation of Dua Lipa's right of publicity.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/music-news/morgan-wallen-caitlin-clark-walkout-indianapolis-concert-1236243974/",
     "source": "billboard",
     "title": "Morgan Wallen Walks Out With Caitlin Clark at Indianapolis Stadium Concert",
@@ -306,24 +333,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/culture/tv-film/noah-kahan-snl-musical-guest-host-matt-damon-1236243751/",
-    "source": "billboard",
-    "title": "Noah Kahan Performs ‘Doors’ and ‘The Great Divide’ on ‘SNL’ in Second Musical Guest Appearance",
-    "url": "https://www.billboard.com/culture/tv-film/noah-kahan-snl-musical-guest-host-matt-damon-1236243751/",
-    "publishedAt": "2026-05-10T06:45:52.000Z",
-    "summary": "The Grammy-nominated singer-songwriter appeared on the show two weeks after releasing The Great Divide.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/aitana-kuarto-azul-tour-setlist-songs-almeria-spain/",
-    "source": "billboard",
-    "title": "Aitana Kicks Off Her Cuarto Azul World Tour With Intimate, Emotional Show: Full Setlist",
-    "url": "https://www.billboard.com/lists/aitana-kuarto-azul-tour-setlist-songs-almeria-spain/",
-    "publishedAt": "2026-05-10T03:15:44.000Z",
-    "summary": "Here are all the songs the star performed at her inaugural concert on May 9 in Almería, Spain.",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbEpiNk5iOWF4VHZ4NTZjOU12cXQwRHFya09KWmRJZlpCMWwxRU5TUUhKNkVKNzlOcFR5QWVwemJ5RlVJZWJWT2szTnFFdjVOb1VTSE14S01USHk5SzJiQzJESmg4WExVWDRQb1hKMS10bkQyS1hJWEQzd3Vzc19iZnFkNV8zSVFiLU1ucTA2eVZBUWZrbi1MWl9MbUI0d0RBbnlmcV9HVWU3Q3pxeVVfRlhXUV9kd1pKYXRjd1lXZTloems?oc=5",
     "source": "nme",
     "title": "The Psychedelic Furs cancel upcoming North American tours due to \"serious medical issue\" - NME",
@@ -546,15 +555,6 @@
     "url": "https://pitchfork.com/news/beastie-boys-mike-d-reveals-debut-solo-single/",
     "publishedAt": "2026-05-08T04:10:45.000Z",
     "summary": "“Switch Up” was co-produced by the rapper’s sons, Skyler and Davis Diamond",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/news/listen-to-paul-mccartneys-first-ever-duet-with-ringo-starr/",
-    "source": "pitchfork",
-    "title": "Listen to Paul McCartney’s First-Ever Duet With Ringo Starr",
-    "url": "https://pitchfork.com/news/listen-to-paul-mccartneys-first-ever-duet-with-ringo-starr/",
-    "publishedAt": "2026-05-08T04:08:06.000Z",
-    "summary": "“Home to Us” also features vocals from Chrissie Hynde and Sharleen Spiteri",
     "image": null
   },
   {
