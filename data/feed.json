@@ -1,5 +1,50 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/music-news/lamb-of-god-trivium-2026-co-headline-australian-tour-1236245340/",
+    "source": "billboard",
+    "title": "Lamb of God and Trivium Announce 2026 Australian Co-Headline Tour",
+    "url": "https://www.billboard.com/music/music-news/lamb-of-god-trivium-2026-co-headline-australian-tour-1236245340/",
+    "publishedAt": "2026-05-12T06:08:23.000Z",
+    "summary": "Scottish metalcore outfit Bleed From Within will serve as special guests across all dates.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/guy-moot-mits-award-2026-ceremony-publishing/",
+    "source": "billboard",
+    "title": "Warner Chappell’s Guy Moot Will Be the First Publisher to Collect U.K.’s Prestigious MITS Award",
+    "url": "https://www.billboard.com/pro/guy-moot-mits-award-2026-ceremony-publishing/",
+    "publishedAt": "2026-05-12T06:00:00.000Z",
+    "summary": "The award will be presented to Moots at a London gala ceremony later this year.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/american-idol-season-24-winner-1235561033/",
+    "source": "rolling-stone",
+    "title": "American Idol Crowns Missouri Native Winner of Season 24",
+    "url": "https://www.rollingstone.com/music/music-news/american-idol-season-24-winner-1235561033/",
+    "publishedAt": "2026-05-12T04:48:04.000Z",
+    "summary": "Jordan McCullough, Hannah Harper, and Keyla Richardson competed in the three-hour finale",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/tv-film/american-idol-season-24-winner-1236245330/",
+    "source": "billboard",
+    "title": "‘American Idol’ Crowns Season 24 Winner in Star-Studded Live Finale",
+    "url": "https://www.billboard.com/culture/tv-film/american-idol-season-24-winner-1236245330/",
+    "publishedAt": "2026-05-12T04:39:05.000Z",
+    "summary": "The star-studded finale featured guest mentor Alicia Keys, who performed alongside the top contestants.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/the-wiggles-dont-know-oasis-1236245324/",
+    "source": "billboard",
+    "title": "The Wiggles Admit They Don’t Really Know Oasis: ‘I Am So Out of Touch’",
+    "url": "https://www.billboard.com/music/music-news/the-wiggles-dont-know-oasis-1236245324/",
+    "publishedAt": "2026-05-12T04:11:59.000Z",
+    "summary": "“Controversially, I like Blur more … that is why I have no idea,” Lucia said.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/pro/iheartmedia-q1-earnings-revenue-up-podcasts-soft-ad-market/",
     "source": "billboard",
     "title": "iHeartMedia Revenue Up Nearly 10% on Podcast Business — But Soft Ad Market Hurts Profits",
@@ -69,42 +114,6 @@
     "url": "https://www.rollingstone.com/music/music-news/tupac-shakur-estate-producer-all-eyez-on-me-royalties-1235560857/",
     "publishedAt": "2026-05-11T23:09:00.000Z",
     "summary": "Daz Dillinger is accusing the late rapper's estate of owing him money stemming from more than a dozen songs",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/video/ejae-shouts-out-laufey-how-golden-changed-her-life/",
-    "source": "billboard",
-    "title": "EJAE Shouts Out Laufey & How “Golden” Changed Her Life | Gold Gala 2026",
-    "url": "https://www.billboard.com/video/ejae-shouts-out-laufey-how-golden-changed-her-life/",
-    "publishedAt": "2026-05-11T23:08:16.000Z",
-    "summary": "EJAE caught up with Izzy Ngov on the red carpet at the 2026 Gold Gala.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/video/agnez-mo-says-her-new-music-is-finally-coming-out-this-year/",
-    "source": "billboard",
-    "title": "Agnez Mo Says Her New Music is Finally Coming Out This Year & New Season of ‘Reacher’ | Gold Gala 2026",
-    "url": "https://www.billboard.com/video/agnez-mo-says-her-new-music-is-finally-coming-out-this-year/",
-    "publishedAt": "2026-05-11T23:01:00.000Z",
-    "summary": "Agnez Mo caught up with Izzy Ngov on the red carpet at the 2026 Gold Gala.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/mclaren-racing-x-loop-switch-2-review-earplugs-buy-online-1236237617/",
-    "source": "billboard",
-    "title": "McLaren Racing x Loop Switch 2 Sets the Bar for Premium Earplugs: Here’s Where to Get Them Online",
-    "url": "https://www.billboard.com/culture/product-recommendations/mclaren-racing-x-loop-switch-2-review-earplugs-buy-online-1236237617/",
-    "publishedAt": "2026-05-11T22:52:00.000Z",
-    "summary": "Tested and reviewed during the Miami Grand Prix.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/michael-jackson-billboard-200-top-10-album-six-decades-1236244011/",
-    "source": "billboard",
-    "title": "Michael Jackson Now Has a Billboard 200 Top 10 Album In Each Decade Since the ‘70s — Who Else Does?",
-    "url": "https://www.billboard.com/music/chart-beat/michael-jackson-billboard-200-top-10-album-six-decades-1236244011/",
-    "publishedAt": "2026-05-11T22:48:25.000Z",
-    "summary": "The King of Pop's greatest-hits album Number Ones becomes his 11th top 10.",
     "image": null
   },
   {
@@ -312,15 +321,6 @@
     "url": "https://louderthanwar.com/nina-antonia-and-the-lunar-moths-dropping-like-butterflies-album-review/",
     "publishedAt": "2026-05-11T14:12:31.000Z",
     "summary": "Nina Antonia and the Lunar Moths: Dropping Like Butterflies (Creation Youth) Vinyl | CD | DL Released: 15 May 2026 Poet Nina Antonia and her band The Lunar Moths deliver a hard-edged elegy for artists who made enduring work out of chaos, debauchery, and despair. Nina Antonia is a former music journalist best known for […] The post Nina Antonia and the Lunar Moths: Dropping Like Butterflies – Album Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-album-reviews/cola-cost-of-living-adjustment-review-1235560336/",
-    "source": "rolling-stone",
-    "title": "Cola Make Modern Alienation Sound Radically Original on ‘Cost of Living Adjustment’",
-    "url": "https://www.rollingstone.com/music/music-album-reviews/cola-cost-of-living-adjustment-review-1235560336/",
-    "publishedAt": "2026-05-11T13:52:01.000Z",
-    "summary": "The Canadian art-punk trio bring dynamic passion and determination — and actual melodies — on their excellent third album",
     "image": null
   },
   {
