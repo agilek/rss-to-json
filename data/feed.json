@@ -1,5 +1,14 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/pro/gyro-group-recruits-henry-compton/",
+    "source": "billboard",
+    "title": "GYRO.Group Recruits Digital Music Veteran Henry Compton",
+    "url": "https://www.billboard.com/pro/gyro-group-recruits-henry-compton/",
+    "publishedAt": "2026-05-13T06:26:27.000Z",
+    "summary": "\"Our goal is to be the biggest net exporter of Australian music, and every decision we are making right now,\" says group CEO Andy Irvine, \"is pointed directly at that.\"",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/rock/u2-street-of-dreams-mexico-city-new-music-video-watch-1236241251/",
     "source": "billboard",
     "title": "U2 Is Taking It To The Streets Of Mexico City For New Music Video: Watch",
@@ -38,7 +47,7 @@
   {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/u2-video-street-of-dreams-mexico-city-1235561698/",
     "source": "rolling-stone",
-    "title": "Watch U2 Film a Video For Upcoming Single ‘Street of Dreams’ Off Their Next Album",
+    "title": "Watch U2 Film a Video for Upcoming Single ‘Street of Dreams’ Off Their Next Album",
     "url": "https://www.rollingstone.com/music/music-news/u2-video-street-of-dreams-mexico-city-1235561698/",
     "publishedAt": "2026-05-13T01:45:19.000Z",
     "summary": "The reunited band, with Larry Mullen Jr. back on drums, shot the video on top of a school bus in Mexico City, and the song will appear on a currently-untitled LP later this year",
@@ -96,15 +105,6 @@
     "url": "https://www.billboard.com/music/music-news/bring-me-the-horizon-oliver-sykes-concussion-fan-phone-1236246371/",
     "publishedAt": "2026-05-12T22:42:17.000Z",
     "summary": "The UK rocker has shared that he's doing OK after the incident.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/country/meghan-patrick-cancels-tour-focus-pregnancy-1236246285/",
-    "source": "billboard",
-    "title": "Meghan Patrick Cancels Tour to Focus on Pregnancy: ‘My Health & My Baby Girl’s Well-Being Have to Come First’",
-    "url": "https://www.billboard.com/music/country/meghan-patrick-cancels-tour-focus-pregnancy-1236246285/",
-    "publishedAt": "2026-05-12T22:37:57.000Z",
-    "summary": "Patrick told fans she's stepping away from the road this year, as she and husband Mitchell Tenpenny prepare to welcome a daughter.",
     "image": null
   },
   {
@@ -213,6 +213,15 @@
     "url": "https://pitchfork.com/news/overmono-detail-new-album-pure-devotion/",
     "publishedAt": "2026-05-12T19:15:56.000Z",
     "summary": "The duo “oven-baked a cymbal covered in coffee grounds, crisps, and vinegar” to record the follow-up to 2023’s Good Lies",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVU9mNWt4SGhNcmRkUXBwZUVSbHBER3FOZjBVa1lyTDVHWjlsT3pTdktYUkxncjF2T1hCUzZPOWNObURJOVJ1WUMtb29RM1BuLXc3LWFVb0t5elc4YVpNdWRycDVUeVQtYndmV21XQ25vOVJuWnBtUUxEMVNxQVdzTUJhaGxIb0JqMm55Z1F3dHhuZHg3cVdsTlNob3VBeVlWQUlQMWpVZDNYYXBCZ292LTF3OFA0TFVPSHBYYkEyZXcwd1NwdFMyOGgwYktSTmFRQjZ3?oc=5",
+    "source": "nme",
+    "title": "Divorce become a two-piece as two members depart to focus on \"personal lives\" and band enter \"new era\" - NME",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVU9mNWt4SGhNcmRkUXBwZUVSbHBER3FOZjBVa1lyTDVHWjlsT3pTdktYUkxncjF2T1hCUzZPOWNObURJOVJ1WUMtb29RM1BuLXc3LWFVb0t5elc4YVpNdWRycDVUeVQtYndmV21XQ25vOVJuWnBtUUxEMVNxQVdzTUJhaGxIb0JqMm55Z1F3dHhuZHg3cVdsTlNob3VBeVlWQUlQMWpVZDNYYXBCZ292LTF3OFA0TFVPSHBYYkEyZXcwd1NwdFMyOGgwYktSTmFRQjZ3?oc=5",
+    "publishedAt": "2026-05-12T18:20:29.000Z",
+    "summary": "Divorce become a two-piece as two members depart to focus on \"personal lives\" and band enter \"new era\" NME",
     "image": null
   },
   {
@@ -414,6 +423,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcXBtQlhqcG1sRE8zSkVRbFdzMTB0U00xclg1bjJDU2dUaW1feVFWeE9WbkJqT2tBcmJrUEFqWjVPTklYTDkxOXFNbU03V1hpeTZmeEFCVENIZE1CcjdUZi1GeGpKb3JsWWdwalFHQnAwaWg0YWx4RlhWTlZYa3ZnakVlaGE3RG51eHFSTzkxbzk5bmM5cTJVRGhIS25JaTVzZVBLa2I1MzJzT3BwLUw4VWduakVXbEIxay12Z3B0blRUQQ?oc=5",
+    "source": "nme",
+    "title": "Irish broadcaster RTÉ to air ‘Father Ted’ Eurovision episode in boycott of song contest - NME",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcXBtQlhqcG1sRE8zSkVRbFdzMTB0U00xclg1bjJDU2dUaW1feVFWeE9WbkJqT2tBcmJrUEFqWjVPTklYTDkxOXFNbU03V1hpeTZmeEFCVENIZE1CcjdUZi1GeGpKb3JsWWdwalFHQnAwaWg0YWx4RlhWTlZYa3ZnakVlaGE3RG51eHFSTzkxbzk5bmM5cTJVRGhIS25JaTVzZVBLa2I1MzJzT3BwLUw4VWduakVXbEIxay12Z3B0blRUQQ?oc=5",
+    "publishedAt": "2026-05-12T10:23:04.000Z",
+    "summary": "Irish broadcaster RTÉ to air ‘Father Ted’ Eurovision episode in boycott of song contest NME",
+    "image": null
+  },
+  {
     "id": "nme-https://news.google.com/rss/articles/CBMi1AFBVV95cUxOal9yY0lGSTg5TWJZd3dsemJ0LVhDdUlMZEJHS0FPdXBwbGhVN0c5Y045T0hRYnlLR0ZoTkVQaXJfbE5HbDdyc09YWHE0Z1VVQzkxSGZRaVBoenFDVWVkalRvMFpRU2tWQ2RQU1hVOHVWRkdNbHh0Y2pTQUNpcTdqS1hiMUZKc2IxSVRFX0VTbmxGeEZBb2poVWxqMW9fTzdQQ3h0UjNxaEs0ckpVaHZQWlppRUh1VmZQMGFPdU5Cd0MwNGRUdFBnVG1RaEtXbndEQzNWbg?oc=5",
     "source": "nme",
     "title": "It's coming home: Baddiel, Skinner & Lightning Seeds announce 30th anniversary re-release of 'Three Lions' - NME",
@@ -438,15 +456,6 @@
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVHFQazE4emU0SlBIZ3U5UEN0bmt4a1NSVDZaZkRkb2xmZHFUakJNeUZMMHdPWV9VQkVuemp3Znl4RTVwNDNURGNhaU9POG1ZVG05c3BXQklvcXM1YXBlVVk0U25LZk5RX29wandfMmVzNV9CQW90UHJVNFFuVWV6Q0hVRGVnVU5yeENKXzAyN3UtTFVMTlkwWTNJTFp0QkNnNy16cVB5VEpuRThudEUw?oc=5",
     "publishedAt": "2026-05-12T09:10:53.000Z",
     "summary": "Keith Richards confirms The Rolling Stones won’t tour in 2026, but says \"we can talk next year” NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMiuwFBVV95cUxORWI5cE9mMENaU2tLZ0FnQWszM25Yb2R3V3RIZE1vZDdRalR5RFVrVGdWVFJVZkVRU0FQbzNwLTVlQWcwOFJZbjlzZUdNTXVPOFRWMlhlallxaEhiOWZxQmdDdk9XSGFLUDdBLVVpeHMycnk2YzhFOHRfUV9WaWlPa29qR1pGeFBfTnhqZ0VMUGRCSG1yT0IwbUEwMC1YOS02WTJzSk1iOVJEWlFuQUZ6RTBVbmlaVE9LbFYw?oc=5",
-    "source": "nme",
-    "title": "Bloc Party tackle heartbreak on new album 'Anatomy Of A Brief Romance' and comeback single 'Coming On Strong' - NME",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORWI5cE9mMENaU2tLZ0FnQWszM25Yb2R3V3RIZE1vZDdRalR5RFVrVGdWVFJVZkVRU0FQbzNwLTVlQWcwOFJZbjlzZUdNTXVPOFRWMlhlallxaEhiOWZxQmdDdk9XSGFLUDdBLVVpeHMycnk2YzhFOHRfUV9WaWlPa29qR1pGeFBfTnhqZ0VMUGRCSG1yT0IwbUEwMC1YOS02WTJzSk1iOVJEWlFuQUZ6RTBVbmlaVE9LbFYw?oc=5",
-    "publishedAt": "2026-05-12T09:00:17.000Z",
-    "summary": "Bloc Party tackle heartbreak on new album 'Anatomy Of A Brief Romance' and comeback single 'Coming On Strong' NME",
     "image": null
   },
   {
@@ -528,15 +537,6 @@
     "url": "https://www.uncut.co.uk/news/john-prine-80th-birthday-tribute-concert-announced-154551/",
     "publishedAt": "2026-05-11T16:40:29.000Z",
     "summary": "Names so far include John C. Reilly, Margo Price, Alynda Segarra of Hurray for the Riff Raff and Steve Earle The post John Prine 80th birthday tribute concert announced appeared first on UNCUT.",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbmhia2JEZkxqbXpXQ3RreldqQXVabkJzX214Qi1oNjgtNHpmTXBkdk5YTG9hb0hyUG9lT3V1VEZQbnVqQkFOQ2VzMjZTWldsaUExZklGQ0dudVhMbXdOQ0pycHp3WUVxZVhnYXBvYkhhamJDQ0Z4eW00TEZ4bUVXckpyQkdoSnpHZHQwekFObDg4WDlpSUphZUYySlNIeW92Wk9mSDAzUjJPWDh0TjJHTjgtbzAwOE95X1k3ZjVUQlZycndqVDRiNEtBbE00Q3V4ZHFGd1Vn?oc=5",
-    "source": "nme",
-    "title": "Investigation finds “well-organised campaign\" by Israeli government used Eurovision as \"soft power\" tool - NME",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbmhia2JEZkxqbXpXQ3RreldqQXVabkJzX214Qi1oNjgtNHpmTXBkdk5YTG9hb0hyUG9lT3V1VEZQbnVqQkFOQ2VzMjZTWldsaUExZklGQ0dudVhMbXdOQ0pycHp3WUVxZVhnYXBvYkhhamJDQ0Z4eW00TEZ4bUVXckpyQkdoSnpHZHQwekFObDg4WDlpSUphZUYySlNIeW92Wk9mSDAzUjJPWDh0TjJHTjgtbzAwOE95X1k3ZjVUQlZycndqVDRiNEtBbE00Q3V4ZHFGd1Vn?oc=5",
-    "publishedAt": "2026-05-11T15:44:17.000Z",
-    "summary": "Investigation finds “well-organised campaign\" by Israeli government used Eurovision as \"soft power\" tool NME",
     "image": null
   },
   {
