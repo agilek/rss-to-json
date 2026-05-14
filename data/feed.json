@@ -1,47 +1,263 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/country/lainey-wilson-marries-devlin-duck-hodges-tennessee-ceremony-1236248298/",
+    "source": "billboard",
+    "title": "Lainey Wilson, Devlin ‘Duck’ Hodges Wed in Tennessee Ceremony: ‘We Wanted It to Be Special’",
+    "url": "https://www.billboard.com/music/country/lainey-wilson-marries-devlin-duck-hodges-tennessee-ceremony-1236248298/",
+    "publishedAt": "2026-05-14T17:51:31.000Z",
+    "summary": "The couple married on May 10, and the guest list included many from Nashville's music community.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/best-emo-covers-80s-90s-songs/",
+    "source": "loudwire",
+    "title": "11 Best Emo Covers of '80s + '90s Songs People Still Love Today",
+    "url": "https://loudwire.com/best-emo-covers-80s-90s-songs/",
+    "publishedAt": "2026-05-14T17:44:47.000Z",
+    "summary": "My Chemical Romance, the Used, American Football and more have breathed new life into these classic songs. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/latin/la-guru-colombian-artist-interview-karol-g-anitta-shakira-1236248265/",
+    "source": "billboard",
+    "title": "Meet LA GURU: The Colombian Artist Who Captivated Karol G & Co-Wrote Anitta and Shakira’s New Collab",
+    "url": "https://www.billboard.com/music/latin/la-guru-colombian-artist-interview-karol-g-anitta-shakira-1236248265/",
+    "publishedAt": "2026-05-14T17:40:20.000Z",
+    "summary": "The artist from Pereira will release a new album, Agítese Antes de Usar, at the end of May.",
+    "image": null
+  },
+  {
+    "id": "louder-than-war-https://louderthanwar.com/after-all-festival-2026-saturday-16-may-preview/",
+    "source": "louder-than-war",
+    "title": "After All Festival 2026 – Saturday 16 May – Preview",
+    "url": "https://louderthanwar.com/after-all-festival-2026-saturday-16-may-preview/",
+    "publishedAt": "2026-05-14T17:23:12.000Z",
+    "summary": "One of Manchester most authentic grass roots festivals - After All, takes place this Saturday the 16th of May across multiple venues, including The Band on The Wall, Gullivers and The Rose and Monkey. The post After All Festival 2026 – Saturday 16 May – Preview appeared first on Louder Than War.",
+    "image": null
+  },
+  {
+    "id": "louder-than-war-https://louderthanwar.com/angine-de-poitrine-electric-ballroom-london-live-review/",
+    "source": "louder-than-war",
+    "title": "Angine de Poitrine: Electric Ballroom, London – Live Review",
+    "url": "https://louderthanwar.com/angine-de-poitrine-electric-ballroom-london-live-review/",
+    "publishedAt": "2026-05-14T17:22:20.000Z",
+    "summary": "Angine de Poitrine Electric Ballroom, London 11th May 2026 Not so much a gig as a blistering induction into a new cult, Tom Parry witnesses a performance quite unlike anything else and is instantly converted. The future is polka-dot patterned. Rarely have I felt quite as much anticipation before a show for a new (ish) […] The post Angine de Poitrine: Electric Ballroom, London – Live Review appeared first on Louder Than War.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "source": "billboard",
+    "title": "Billboard’s Music Industry Events Calendar",
+    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "publishedAt": "2026-05-14T17:22:00.000Z",
+    "summary": "A complete rundown of the most important events across the music business.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/chance-the-rapper-coloring-book-anniversary-tour-2026/",
+    "source": "pitchfork",
+    "title": "Chance the Rapper Announces Coloring Book Anniversary Tour",
+    "url": "https://pitchfork.com/news/chance-the-rapper-coloring-book-anniversary-tour-2026/",
+    "publishedAt": "2026-05-14T17:15:43.000Z",
+    "summary": "The North American trek kicks off in August",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/eminem-50-cent-reunite-detroit-pistons-nba-playoff-game-1236248275/",
+    "source": "billboard",
+    "title": "Eminem & 50 Cent Reunite Courtside at Detroit Pistons Playoff Game: ‘There Is Nothing Like It’",
+    "url": "https://www.billboard.com/music/rb-hip-hop/eminem-50-cent-reunite-detroit-pistons-nba-playoff-game-1236248275/",
+    "publishedAt": "2026-05-14T17:14:29.000Z",
+    "summary": "Unfortunately for Em, the Pistons dropped a pivotal game five to the Cleveland Cavaliers in overtime.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/type-o-negative-albums-ranked/",
+    "source": "loudwire",
+    "title": "Type O Negative Albums Ranked Worst to Best",
+    "url": "https://loudwire.com/type-o-negative-albums-ranked/",
+    "publishedAt": "2026-05-14T17:10:40.000Z",
+    "summary": "Peter Steele and Co. left an indelible stamp on the metal world with their singular sound. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/doja-cat-wants-take-years-off-from-music-1236248270/",
+    "source": "billboard",
+    "title": "Doja Cat Says She Hopes to ‘Take 3 Years Off’ From Music: ‘I Want to Just Do Whatever’",
+    "url": "https://www.billboard.com/music/music-news/doja-cat-wants-take-years-off-from-music-1236248270/",
+    "publishedAt": "2026-05-14T17:04:41.000Z",
+    "summary": "She also opened up about how her borderline personality disorder complicates her dating life.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/chance-the-rapper-tour-dates-coloring-book-anniversary-tour-1236248216/",
+    "source": "billboard",
+    "title": "Chance The Rapper Is Celebrating 10th Anniversary of ‘Coloring Book’ With a Tour: Here Are the Dates",
+    "url": "https://www.billboard.com/music/rb-hip-hop/chance-the-rapper-tour-dates-coloring-book-anniversary-tour-1236248216/",
+    "publishedAt": "2026-05-14T16:42:48.000Z",
+    "summary": "The North American trek kicks off in August.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/rolling-stones-in-the-stars-music-video-odessa-azion-1235562708/",
+    "source": "rolling-stone",
+    "title": "See Odessa A’zion Dance With De-Aged Rolling Stones in ‘In the Stars’ Music Video",
+    "url": "https://www.rollingstone.com/music/music-news/rolling-stones-in-the-stars-music-video-odessa-azion-1235562708/",
+    "publishedAt": "2026-05-14T16:40:50.000Z",
+    "summary": "Band also reveals track list for upcoming Foreign Tongues album",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/expressvpn-south-korea-tv-shows-how-to-watch-in-usa-online-1236242131/",
+    "source": "billboard",
+    "title": "ExpressVPN: Here’s How to Watch South Korean TV Shows From Anywhere in the World",
+    "url": "https://www.billboard.com/culture/product-recommendations/expressvpn-south-korea-tv-shows-how-to-watch-in-usa-online-1236242131/",
+    "publishedAt": "2026-05-14T16:31:02.000Z",
+    "summary": "We're showing you how you can tune into hit K-pop survival shows and Saturday Night Live Korea with just a few clicks.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/show-me-the-body-julian-pratt-album-interview-1235561910/",
+    "source": "rolling-stone",
+    "title": "He Faced a Wave of Loss in Recent Years, But This New York Punk Never Gave Up",
+    "url": "https://www.rollingstone.com/music/music-features/show-me-the-body-julian-pratt-album-interview-1235561910/",
+    "publishedAt": "2026-05-14T16:18:35.000Z",
+    "summary": "Show Me the Body frontman Julian Pratt on the pain of losing people close to him, the joy of fatherhood, and making his band’s intense new album, Alone Together",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/pete-townshend-primary-wave-deal-1235562560/",
+    "source": "rolling-stone",
+    "title": "Pete Townshend Sells Name, Image, and Music Rights in New Deal: Reports",
+    "url": "https://www.rollingstone.com/music/music-news/pete-townshend-primary-wave-deal-1235562560/",
+    "publishedAt": "2026-05-14T16:16:14.000Z",
+    "summary": "\"Moving forward with my creative and performative work with Primary Wave, at this time of my life when most creatives might be slowing down, is a joy for me,” Pete Townshend said in a statement",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/fifa-world-cup-performers-poll-most-excited-to-see-perform-1236248225/",
+    "source": "billboard",
+    "title": "From BTS to Madonna & More, Who Are You Most Excited to See Perform at the 2026 World Cup? Vote!",
+    "url": "https://www.billboard.com/music/music-news/fifa-world-cup-performers-poll-most-excited-to-see-perform-1236248225/",
+    "publishedAt": "2026-05-14T16:11:29.000Z",
+    "summary": "Shakira, Katy Perry, J Balvin, LISA and others will also take the stage.",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMisAFBVV95cUxPOGk1ZElVbVNjb01SOVpYR01NNzlxTkFlSnNuZ05aWG9Na2xzdHZGellrM0tvUmJKa2FULTh4Wm1NeGZ4MklDYk9qVTNuN3BWWV9RRjVwdjFGYUJab0lNajIzVFJRZW5EeUhYbndyM2p5VVk2VkRWdEs3a0w1WXNvaEMxLUVaV0dWc09pTWdfQTlBNUIxQ3BVaGt0Umoyb3RiSno0SzJoRTZFSm9BNThlSw?oc=5",
+    "source": "nme",
+    "title": "Paul McCartney on seeing Bob Dylan live: \"Honestly, I couldn’t tell what song he was doing” - NME",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOGk1ZElVbVNjb01SOVpYR01NNzlxTkFlSnNuZ05aWG9Na2xzdHZGellrM0tvUmJKa2FULTh4Wm1NeGZ4MklDYk9qVTNuN3BWWV9RRjVwdjFGYUJab0lNajIzVFJRZW5EeUhYbndyM2p5VVk2VkRWdEs3a0w1WXNvaEMxLUVaV0dWc09pTWdfQTlBNUIxQ3BVaGt0Umoyb3RiSno0SzJoRTZFSm9BNThlSw?oc=5",
+    "publishedAt": "2026-05-14T16:04:07.000Z",
+    "summary": "Paul McCartney on seeing Bob Dylan live: \"Honestly, I couldn’t tell what song he was doing” NME",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/top-10-songs-atlanta-strip-club-chart-april-2026/",
+    "source": "billboard",
+    "title": "The Top 10 Songs Played in Atlanta Strip Clubs in April 2026",
+    "url": "https://www.billboard.com/lists/top-10-songs-atlanta-strip-club-chart-april-2026/",
+    "publishedAt": "2026-05-14T16:03:31.000Z",
+    "summary": "Trim, HoneyKomb Brazy and Fatt Smaxk make their debuts.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/maluma-biggest-hits-felices-los-4-chantaje-vente-pa-ca/",
+    "source": "billboard",
+    "title": "Maluma Runs Through His Biggest Hits: ‘Felices Los 4,’ ‘Chantaje,’ ‘Vente Pa’ Ca’ & More | Chart History",
+    "url": "https://www.billboard.com/video/maluma-biggest-hits-felices-los-4-chantaje-vente-pa-ca/",
+    "publishedAt": "2026-05-14T16:00:00.000Z",
+    "summary": "Maluma dives into his Billboard Chart History and shares stories from his iconic career. He discusses how “Felices Los 4” changed his career, the “life changing” moment he worked on The Weeknd’s “Hawái” remix, the sessions that brought “Chantaje” with Shakira to life, and his Madonna toe sucking backstory for “Medellín.” He also shares what […]",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/clarence-carter-strokin-singer-1235266836/",
+    "source": "rolling-stone",
+    "title": "Clarence Carter, Singer-Producer Who Scored Hits With ‘Patches’ and ‘Strokin’,’ Dead at 90",
+    "url": "https://www.rollingstone.com/music/music-news/clarence-carter-strokin-singer-1235266836/",
+    "publishedAt": "2026-05-14T15:52:06.000Z",
+    "summary": "The blind Southern soul star was renowned for being as bawdy as he was poignant on songs like \"Slip Away\" and \"Too Weak to Fight\"",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/jack-antonoff-ai-music-creators-godless-whores-1235562653/",
+    "source": "rolling-stone",
+    "title": "Jack Antonoff Blasts AI Music Creators as ‘Godless Whores’",
+    "url": "https://www.rollingstone.com/music/music-news/jack-antonoff-ai-music-creators-godless-whores-1235562653/",
+    "publishedAt": "2026-05-14T15:44:34.000Z",
+    "summary": "Bleachers frontman subscribes to \"ancient ritual of writing, recording, and performing as it comes to us from god\"",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/jane-remover-drops-surprise-new-album-as-leroy/",
+    "source": "pitchfork",
+    "title": "Jane Remover Drops Surprise New Album as Leroy",
+    "url": "https://pitchfork.com/news/jane-remover-drops-surprise-new-album-as-leroy/",
+    "publishedAt": "2026-05-14T15:41:44.000Z",
+    "summary": "Status Update Music boasts track titles such as “XO Tour Llif3” (no relation to the Lil Uzi Vert song) and “Love.Angel.Music.Baby” (no relation to the Gwen Stefani album)",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/my-chemical-romance-danger-days-deluxe-edition/",
+    "source": "loudwire",
+    "title": "My Chemical Romance Announce 'Danger Days' Deluxe Reissue",
+    "url": "https://loudwire.com/my-chemical-romance-danger-days-deluxe-edition/",
+    "publishedAt": "2026-05-14T15:41:40.000Z",
+    "summary": "They're previewing the set with a live performance of \"Na Na Na.\" Continue reading…",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-album-reviews/rostam-american-stories-solo-album-1235561895/",
+    "source": "rolling-stone",
+    "title": "Superproducer Rostam Delivers a Deep Solo Gem",
+    "url": "https://www.rollingstone.com/music/music-album-reviews/rostam-american-stories-solo-album-1235561895/",
+    "publishedAt": "2026-05-14T15:38:40.000Z",
+    "summary": "American Stories, his third album, is a gorgeous-sounding, meditative addition to his influential catalog",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/watch-the-rolling-stones-de-age-in-the-stars-video-odessa-azion/",
+    "source": "pitchfork",
+    "title": "Watch the Rolling Stones De-Age Themselves for “In the Stars” Video",
+    "url": "https://pitchfork.com/news/watch-the-rolling-stones-de-age-in-the-stars-video-odessa-azion/",
+    "publishedAt": "2026-05-14T15:28:48.000Z",
+    "summary": "The deepfaked short also stars Odessa A’zion and arrives ahead of July’s Foreign Tongues",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMilwFBVV95cUxPcmh4RmlwWXkySkVOb01qVHJLa185TGZlZEdMY1ZMQWswQnBGLVpBUTdJeXp5dXE3XzQ1WXFacm1GYm1fbWlGSl9QcF8zOXdlT1ltTk9fMFFGQlg3MGZBUHYtLTN0QWczdnNvRXgxUkxKbks5UVVBaU9VWGRSYW8waDV1YTZQWkk3VTJQVEk3dmpKVWVnaDF3?oc=5",
+    "source": "nme",
+    "title": "Julian Lennon shares coronary heart disease diagnosis: \"I urge all to get checked out sooner than later” - NME",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcmh4RmlwWXkySkVOb01qVHJLa185TGZlZEdMY1ZMQWswQnBGLVpBUTdJeXp5dXE3XzQ1WXFacm1GYm1fbWlGSl9QcF8zOXdlT1ltTk9fMFFGQlg3MGZBUHYtLTN0QWczdnNvRXgxUkxKbks5UVVBaU9VWGRSYW8waDV1YTZQWkk3VTJQVEk3dmpKVWVnaDF3?oc=5",
+    "publishedAt": "2026-05-14T14:50:51.000Z",
+    "summary": "Julian Lennon shares coronary heart disease diagnosis: \"I urge all to get checked out sooner than later” NME",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMi7gFBVV95cUxNckhacE9lVVpLV2xKZU9DeGtoVlhkMEFsekNzOUJhdTRQNEgtUTFmUTZmZHV3X2dxNmFtOHo2Ujc3M3hwb01NRVcxS2QtM2gxNXA0Q1phR1ZXY0RKWlJ4TUUzT2VXNTlKQTFtMkd6emVuQkRrNnBlNl9GQW1sWjBLMTc4bi1lYzdlWjBoeWIyZXBac0YyQUZINm83S3pZYjd4cm1CS0hCdEZIS21qYk5OTk9fMmFBSnJHQzY1VXlJaVA1TlJQbW5nZEdOUjFLS29fRlg0empybFljeVBFbjRXTGhyRFp3ckU2SnR1TXF3?oc=5",
+    "source": "nme",
+    "title": "My Chemical Romance announce deluxe edition reissue of final album 'Danger Days: The True Lives of the Fabulous Killjoys' - NME",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNckhacE9lVVpLV2xKZU9DeGtoVlhkMEFsekNzOUJhdTRQNEgtUTFmUTZmZHV3X2dxNmFtOHo2Ujc3M3hwb01NRVcxS2QtM2gxNXA0Q1phR1ZXY0RKWlJ4TUUzT2VXNTlKQTFtMkd6emVuQkRrNnBlNl9GQW1sWjBLMTc4bi1lYzdlWjBoeWIyZXBac0YyQUZINm83S3pZYjd4cm1CS0hCdEZIS21qYk5OTk9fMmFBSnJHQzY1VXlJaVA1TlJQbW5nZEdOUjFLS29fRlg0empybFljeVBFbjRXTGhyRFp3ckU2SnR1TXF3?oc=5",
+    "publishedAt": "2026-05-14T14:30:56.000Z",
+    "summary": "My Chemical Romance announce deluxe edition reissue of final album 'Danger Days: The True Lives of the Fabulous Killjoys' NME",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/foo-fighters-full-circle-late-show-colbert-playing-hits-1235560508/",
+    "source": "rolling-stone",
+    "title": "Foo Fighters Have Full Circle ‘Late Show’ Moment, Playing ‘This Is a Call’ and ‘Everlong’",
+    "url": "https://www.rollingstone.com/music/music-news/foo-fighters-full-circle-late-show-colbert-playing-hits-1235560508/",
+    "publishedAt": "2026-05-14T14:22:55.000Z",
+    "summary": "The band played its first-ever late-night TV performance “This Is a Call\" on The Late Show with David Letterman in 1995. They were also his last-ever musical guest in 2015, playing his favorite son “Everlong\"",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/beyonce-taylor-swift-weezer-national-recording-registry-1235562555/",
     "source": "rolling-stone",
     "title": "Beyonce, Taylor Swift, Weezer Recordings Enter Library of Congress’ National Registry",
     "url": "https://www.rollingstone.com/music/music-news/beyonce-taylor-swift-weezer-national-recording-registry-1235562555/",
     "publishedAt": "2026-05-14T14:06:29.000Z",
-    "summary": "The Go-Go's, Stevie Ray Vaughan, Chaka Khan, \"Mambo No. 5,\" and the soundtrack for the video game Doom also added as part of 2026 class",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/janet-jackson-awards-ceremonies-top-moments/",
-    "source": "billboard",
-    "title": "Eight Times Janet Jackson Was in Control at Awards Ceremonies",
-    "url": "https://www.billboard.com/lists/janet-jackson-awards-ceremonies-top-moments/",
-    "publishedAt": "2026-05-14T14:00:00.000Z",
-    "summary": "Just last week, Janet Jackson’s Rhythm Nation 1814 was inducted into the Grammy Hall of Fame.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/awards/billy-idol-2026-american-music-awards-lifetime-achievement-1236247973/",
-    "source": "billboard",
-    "title": "Ahead of His Rock Hall Induction, Billy Idol to Receive Lifetime Achievement Award at 2026 American Music Awards",
-    "url": "https://www.billboard.com/music/awards/billy-idol-2026-american-music-awards-lifetime-achievement-1236247973/",
-    "publishedAt": "2026-05-14T14:00:00.000Z",
-    "summary": "Idol will deliver a hit medley, marking his first AMAs performance ever.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/pete-townshend-partners-primary-wave-music/",
-    "source": "billboard",
-    "title": "‘Who’s Better, Who’s Best’? Pete Townshend Partners With Primary Wave Music",
-    "url": "https://www.billboard.com/pro/pete-townshend-partners-primary-wave-music/",
-    "publishedAt": "2026-05-14T14:00:00.000Z",
-    "summary": "Primary Wave is closely involved in the exploitation of Townshend’s name, image, and likeness and the development and exploitation of future creative projects.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/theodore-shapiro-icon-2026-bmi-film-tv-visual-media-awards/",
-    "source": "billboard",
-    "title": "‘Severance’ Composer Theodore Shapiro Named a BMI Icon at 2026 BMI Film, TV and Visual Media Awards ",
-    "url": "https://www.billboard.com/pro/theodore-shapiro-icon-2026-bmi-film-tv-visual-media-awards/",
-    "publishedAt": "2026-05-14T13:26:30.000Z",
-    "summary": "Atli Örvarsson won the most awards of the night — six.",
+    "summary": "The Go-Go’s, Stevie Ray Vaughan, Chaka Khan, “Mambo No. 5,” and the soundtrack for the video game Doom also added as part of 2026 class",
     "image": null
   },
   {
@@ -51,15 +267,6 @@
     "url": "https://pitchfork.com/news/beyonce-taylor-swift-and-weezer-records-added-to-national-recording-registry/",
     "publishedAt": "2026-05-14T13:21:53.000Z",
     "summary": "The Library of Congress also inducted music by the Go-Go’s, Chaka Khan, and Jamie Principle and Frankie Knuckles",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/latin/maluma-baby-gender-news-having-boy-exclusive-1236248088/",
-    "source": "billboard",
-    "title": "Maluma & His Girlfriend Are Having a Boy: ‘The Joy’s Very Different from the First Pregnancy’",
-    "url": "https://www.billboard.com/music/latin/maluma-baby-gender-news-having-boy-exclusive-1236248088/",
-    "publishedAt": "2026-05-14T13:00:00.000Z",
-    "summary": "The Colombian artist revealed the gender of his second baby in an exclusive interview with Billboard.",
     "image": null
   },
   {
@@ -90,21 +297,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/country/inside-jackson-deans-partnership-with-luke-dick-1236248080/",
-    "source": "billboard",
-    "title": "Artist And Producer: Inside Jackson Dean’s Long-Running Partnership With ‘Brother’ Luke Dick",
-    "url": "https://www.billboard.com/music/country/inside-jackson-deans-partnership-with-luke-dick-1236248080/",
-    "publishedAt": "2026-05-14T11:46:10.000Z",
-    "summary": "With his new album, Magnolia Sage, Jackson Dean put a different spin on his established gritty persona. In his first Big Machine album, 2022’s Greenbroke, he declined to include more than one love song in the midst of the project’s swampy sound. With this latest release on the newly formed Blue Highway label, he is […]",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/features/lindsey-stirling-arkai-gold-gala-interview-1236246438/",
-    "source": "billboard",
-    "title": "Lindsey Stirling and ARKAI on Working Together,  Taking Musical Risks and Their Excitement for What’s to Come",
-    "url": "https://www.billboard.com/music/features/lindsey-stirling-arkai-gold-gala-interview-1236246438/",
-    "publishedAt": "2026-05-14T11:39:07.000Z",
-    "summary": "After debuting an original song at the Gold Gala together, the three instrumentalists are looking forward to more collaborations.",
+    "id": "nme-https://news.google.com/rss/articles/CBMijgFBVV95cUxPMWM2QnM4bGhoSEhrVG9QZkdXTGEtZ0R6RzNIbkxtNEkyUzdwTm9ZbElQUjNxc2RHNENtU1RsWXR2NjZ6LVhCUXU4THlTeTZIcS1VdE1IeW1kOVNNOUlUQy1nQjdpN2ozZktzX0MzY2pLNGJ1WUxNQm9JN3hVdXdTZjVOSFUyb0hsdS1xNVlB?oc=5",
+    "source": "nme",
+    "title": "Samsung respond to Dua Lipa’s $15million lawsuit - NME",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMWM2QnM4bGhoSEhrVG9QZkdXTGEtZ0R6RzNIbkxtNEkyUzdwTm9ZbElQUjNxc2RHNENtU1RsWXR2NjZ6LVhCUXU4THlTeTZIcS1VdE1IeW1kOVNNOUlUQy1nQjdpN2ozZktzX0MzY2pLNGJ1WUxNQm9JN3hVdXdTZjVOSFUyb0hsdS1xNVlB?oc=5",
+    "publishedAt": "2026-05-14T11:52:21.000Z",
+    "summary": "Samsung respond to Dua Lipa’s $15million lawsuit NME",
     "image": null
   },
   {
@@ -135,15 +333,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/duran-duran-glastonbury-festival-only-headlining-1236248072/",
-    "source": "billboard",
-    "title": "Duran Duran Wants to Play Glastonbury Festival, But Only If They’re Headlining",
-    "url": "https://www.billboard.com/music/music-news/duran-duran-glastonbury-festival-only-headlining-1236248072/",
-    "publishedAt": "2026-05-14T10:18:59.000Z",
-    "summary": "Frontman Simon Le Bon says the band was once offered a 3pm spot in a disco tent at Glasto.",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/search-for-autonomy-search-for-autonomy-album-review/",
     "source": "louder-than-war",
     "title": "Search For Autonomy: Search For Autonomy  – Album Review",
@@ -153,30 +342,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/lists/national-recording-registry-inductees-2026-full-list/",
-    "source": "billboard",
-    "title": "Taylor Swift, Beyoncé, Go-Go’s & More Are 2026 National Recording Registry Inductees: Full List",
-    "url": "https://www.billboard.com/lists/national-recording-registry-inductees-2026-full-list/",
-    "publishedAt": "2026-05-14T09:00:00.000Z",
-    "summary": "Ray Charles becomes one of the few artists with two recordings in the Registry. “What I’d Say” was one of the inaugural selections in 2002.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/tmrw-music-aria-dance-chart-analysis/",
-    "source": "billboard",
-    "title": "Here Comes The Drop: How TMRW Music Dominated 60% of ARIA’s Dance Chart In a Single Week",
-    "url": "https://www.billboard.com/pro/tmrw-music-aria-dance-chart-analysis/",
-    "publishedAt": "2026-05-14T06:43:45.000Z",
-    "summary": "Billboard caught up with the top brass at TMRW Music and etcetc for a closer look at Australia’s vibrant dance space and how the Sydney label group is lifting the tempo.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/world-cup-final-halftime-show-shakira-madonna-bts-1235562522/",
     "source": "rolling-stone",
     "title": "Shakira, Madonna, and BTS to Headline World Cup Final Halftime Show",
     "url": "https://www.rollingstone.com/music/music-news/world-cup-final-halftime-show-shakira-madonna-bts-1235562522/",
     "publishedAt": "2026-05-14T05:37:02.000Z",
-    "summary": "This year's match will take place at New Jersey's MetLife Stadium on July 19",
+    "summary": "This year’s match will take place at New Jersey’s MetLife Stadium on July 19",
     "image": null
   },
   {
@@ -186,42 +357,6 @@
     "url": "https://www.rollingstone.com/music/music-news/paris-jackson-michael-jackson-estate-bonuses-lawyers-1235562470/",
     "publishedAt": "2026-05-14T03:49:05.000Z",
     "summary": "“The Jackson family will finally get the transparency and accountability measures Paris has fought for,” said a spokesperson for the actress and musician",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/aaron-carter-xanax-prescriptions-lawsuit-settlement-1235562433/",
-    "source": "rolling-stone",
-    "title": "Aaron Carter’s Family Reaches Settlement With Psychiatry Clinic Over Xanax Prescriptions",
-    "url": "https://www.rollingstone.com/music/music-news/aaron-carter-xanax-prescriptions-lawsuit-settlement-1235562433/",
-    "publishedAt": "2026-05-14T02:31:29.000Z",
-    "summary": "The wrongful death lawsuit was filed on behalf of Carter’s toddler son over the singer’s drug-linked drowning",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/rihanna-asap-rocky-shooting-suspect-competency-1235562310/",
-    "source": "rolling-stone",
-    "title": "Rihanna Shooting Suspect Battles Her Own Lawyer’s Bid for Competency Evaluation",
-    "url": "https://www.rollingstone.com/music/music-news/rihanna-asap-rocky-shooting-suspect-competency-1235562310/",
-    "publishedAt": "2026-05-13T23:12:27.000Z",
-    "summary": "Ivanna Ortiz pushed for a speedy evidentiary hearing on Wednesday as court filings surfaced claiming Rihanna heard the shots first and forced A$AP Rocky to the floor",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/love-on-the-spectrum-tyler-white-song-madison-wedding-1235562273/",
-    "source": "rolling-stone",
-    "title": "‘Love on the Spectrum’ Star Tyler White on How a Stim Inspired His Debut Country Single",
-    "url": "https://www.rollingstone.com/music/music-features/love-on-the-spectrum-tyler-white-song-madison-wedding-1235562273/",
-    "publishedAt": "2026-05-13T21:58:17.000Z",
-    "summary": "The country-singing fan favorite is hitting Nashville with an appearance on the Grand Ole Opry and the new song “Oh Yeah Baby”",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/eric-church-commencement-speech-carolina-1235562066/",
-    "source": "rolling-stone",
-    "title": "Eric Church Gives Rousing Commencement Speech: ‘Trust What Your Heart Hears’",
-    "url": "https://www.rollingstone.com/music/music-country/eric-church-commencement-speech-carolina-1235562066/",
-    "publishedAt": "2026-05-13T19:29:58.000Z",
-    "summary": "Artist also performed “Carolina” at University of North Carolina at Chapel Hill on Saturday",
     "image": null
   },
   {
@@ -261,15 +396,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/john-lennon-son-julian-coronary-heart-disease-diagnosis-1235562027/",
-    "source": "rolling-stone",
-    "title": "Julian Lennon Reveals Coronary Heart Disease Diagnosis",
-    "url": "https://www.rollingstone.com/music/music-news/john-lennon-son-julian-coronary-heart-disease-diagnosis-1235562027/",
-    "publishedAt": "2026-05-13T18:41:36.000Z",
-    "summary": "“I’ve managed to catch them early enough to be able to reverse some of the damage,” Lennon writes, urging fans to “get checked out”",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMiywFBVV95cUxNNFR2RFhFcktjWHl3WWdGTDg4NFlUcjNXbHFETGpVY3NTbi1QMWgzVE5qUHdGanhBc1p1bk5WT3JtUG4wQWVuSFRzNnJndkRNS3Ntai04aTdtd1lTeGswT2NFcjVEM1BTZVpxdVVBU2NMbkR0eE9hRnBtQVZ4bktzUkV6T25YNGZyajJDZzBXRmJsZGFFUlNjUERNVGdIeW5lNDVwanUtbWJGMEJlVjFyeHVlcFRSSnFjM3JORHBlMGtycXhOS1J4UGdPUQ?oc=5",
     "source": "nme",
     "title": "The Great Escape issue statement after three women die in tragic incident off Brighton coast - NME",
@@ -285,24 +411,6 @@
     "url": "https://loudwire.com/fit-for-a-king-bassist-calls-out-periphery-guitarist/",
     "publishedAt": "2026-05-13T18:04:59.000Z",
     "summary": "Ryan O'Leary disagrees with Misha Mansoor on the necessity of side hustles in the modern music industry. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/charli-xcx-behind-the-scenes-rock-music-video-1235561938/",
-    "source": "rolling-stone",
-    "title": "Charli XCX Is ‘Not Gonna Explain’ New Song ‘Rock Music’ But Offers Behind-the-Scenes Look at Video",
-    "url": "https://www.rollingstone.com/music/music-news/charli-xcx-behind-the-scenes-rock-music-video-1235561938/",
-    "publishedAt": "2026-05-13T17:32:57.000Z",
-    "summary": "The artist’s divisive new song arrived alongside an Aidan Zamiri-directed video playing on classic rock tropes",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/karol-g-performer-international-artist-award-2026-amas-1235561931/",
-    "source": "rolling-stone",
-    "title": "Karol G to Receive International Artist Award of Excellence at 2026 AMAs",
-    "url": "https://www.rollingstone.com/music/music-news/karol-g-performer-international-artist-award-2026-amas-1235561931/",
-    "publishedAt": "2026-05-13T17:17:45.000Z",
-    "summary": "The Colombian reggaeton star will also perform at the American Music Awards on May 25",
     "image": null
   },
   {
@@ -369,15 +477,6 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/news/eartheater-announces-new-album-heavenly-body-if-im-the-bottle-youre-the-message/",
-    "source": "pitchfork",
-    "title": "Eartheater Announces New Album Heavenly Body: If I’m the Bottle You’re the Message",
-    "url": "https://pitchfork.com/news/eartheater-announces-new-album-heavenly-body-if-im-the-bottle-youre-the-message/",
-    "publishedAt": "2026-05-13T14:43:24.000Z",
-    "summary": "Listen to “Paradise Rains” from the LP, co-produced with TV on the Radio’s Dave Sitek",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/beartooth-caleb-shomo-social-media-return/",
     "source": "loudwire",
     "title": "Caleb Shomo Makes First Social Media Post Since Deleting Account",
@@ -402,24 +501,6 @@
     "url": "https://loudwire.com/best-osbournes-promotional-items/",
     "publishedAt": "2026-05-13T14:32:15.000Z",
     "summary": "From cookie jars to dog bowls, here are some of the wildest items used to promote the groundbreaking show. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/news/hovvdy-line-up-new-album-big-world-and-fall-tour-dates/",
-    "source": "pitchfork",
-    "title": "Hovvdy Line Up New Album Big World and Fall Tour Dates",
-    "url": "https://pitchfork.com/news/hovvdy-line-up-new-album-big-world-and-fall-tour-dates/",
-    "publishedAt": "2026-05-13T14:18:25.000Z",
-    "summary": "Watch the Austin band’s home-recorded video for “Try Try Try”",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/news/the-mountain-goats-new-album-days-charlie-sheen-reaches-out-to-the-feds/",
-    "source": "pitchfork",
-    "title": "The Mountain Goats Launch New Album With “Charlie Sheen Reaches Out to the Feds”",
-    "url": "https://pitchfork.com/news/the-mountain-goats-new-album-days-charlie-sheen-reaches-out-to-the-feds/",
-    "publishedAt": "2026-05-13T14:01:00.000Z",
-    "summary": "John Darnielle and the gang’s Days began as a sequel to 2017’s Goths",
     "image": null
   },
   {
@@ -540,42 +621,6 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMiywFBVV95cUxOVnJDdUZQOHpkSW0xN3RRZ0VINjIydHp6MDVjaVlTamh5OXFUUmg2cGdDLXJodGY0OVB5Rjl4SDEwdmpKR0ZlVjNhZGNLenJQb1dpOGhWOXZCaUx0SVBsNURzNHh4NjR3Q0pESS1pYXdVTGVuVnoxSHNrMTJKaUxKZXFFbVZfaDZTMXpEXzBKR2E2ZUNBODhJUWN6aWR5YkRNTzFjUDFDNnJjbGNqN0swWVNJX1drRWF3dWxpR2R3U0V1Zkpsb3h5Sl9OQQ?oc=5",
-    "source": "nme",
-    "title": "Christopher Nolan explains Travis Scott casting and why rap is important to ‘The Odyssey’ story - NME",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVnJDdUZQOHpkSW0xN3RRZ0VINjIydHp6MDVjaVlTamh5OXFUUmg2cGdDLXJodGY0OVB5Rjl4SDEwdmpKR0ZlVjNhZGNLenJQb1dpOGhWOXZCaUx0SVBsNURzNHh4NjR3Q0pESS1pYXdVTGVuVnoxSHNrMTJKaUxKZXFFbVZfaDZTMXpEXzBKR2E2ZUNBODhJUWN6aWR5YkRNTzFjUDFDNnJjbGNqN0swWVNJX1drRWF3dWxpR2R3U0V1Zkpsb3h5Sl9OQQ?oc=5",
-    "publishedAt": "2026-05-13T09:01:30.000Z",
-    "summary": "Christopher Nolan explains Travis Scott casting and why rap is important to ‘The Odyssey’ story NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeWwxZktSUU1uX200dXhxSXktdGRHYXctV01Wai12bGZVSW5EMDQwQnRvbHV1WUh5dE5hbUFRQmhMQzNJZHBLT2tabmlSaDdaOVhoUzRkY1h4ZkpIWUJrUFJpY0FQYmJrZ0tqX0VCV2gtOEVKNDZuNVlVSTIya2xxVExSaFRzVzBjd1liai1TcEdFZFNFRzRPWGVpaEduR3FjdE9VNzJ6UzJ1Zw?oc=5",
-    "source": "nme",
-    "title": "Kanye West loses copyright infringement trial over ‘Hurricane’ sample - NME",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeWwxZktSUU1uX200dXhxSXktdGRHYXctV01Wai12bGZVSW5EMDQwQnRvbHV1WUh5dE5hbUFRQmhMQzNJZHBLT2tabmlSaDdaOVhoUzRkY1h4ZkpIWUJrUFJpY0FQYmJrZ0tqX0VCV2gtOEVKNDZuNVlVSTIya2xxVExSaFRzVzBjd1liai1TcEdFZFNFRzRPWGVpaEduR3FjdE9VNzJ6UzJ1Zw?oc=5",
-    "publishedAt": "2026-05-13T08:47:47.000Z",
-    "summary": "Kanye West loses copyright infringement trial over ‘Hurricane’ sample NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQjZpemxrRU8zSy1POThSV0kyd3hTR3BPNzJaVkdxOFZYazRaUExrSEU1aUxOaUJSaUNYY1gwS3NZX2F2TFZSVGs4YkMxSE0xanB5MUQ4RENMb1ZibFJoMThXN3FHdzBLcDVjTFJ6MTUyZThHTmh2aWJWS3Z5YjBMdEdZdHR0a0JBT1dIajU4UTcxcUlNZ3ZfeTdVaUZzTkdrcHdtWWd3TW9zczJ5ZjVYTGVUMnByVlhnMWJOa3pOYXdFZw?oc=5",
-    "source": "nme",
-    "title": "Netflix’s Kevin Hart roast came after Paul McCartney reportedly turned them down first - NME",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQjZpemxrRU8zSy1POThSV0kyd3hTR3BPNzJaVkdxOFZYazRaUExrSEU1aUxOaUJSaUNYY1gwS3NZX2F2TFZSVGs4YkMxSE0xanB5MUQ4RENMb1ZibFJoMThXN3FHdzBLcDVjTFJ6MTUyZThHTmh2aWJWS3Z5YjBMdEdZdHR0a0JBT1dIajU4UTcxcUlNZ3ZfeTdVaUZzTkdrcHdtWWd3TW9zczJ5ZjVYTGVUMnByVlhnMWJOa3pOYXdFZw?oc=5",
-    "publishedAt": "2026-05-13T08:44:14.000Z",
-    "summary": "Netflix’s Kevin Hart roast came after Paul McCartney reportedly turned them down first NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMi1wFBVV95cUxPU3JSM1c5RnFTN2hJX2tLQW9IajdiZF9MdUpKa3J1SzNqT25BUVR1WHFwelAxVGQ0U3dpeE5Dd184MmlKcmNMb0lKYlpaeE1qckFVaXNfWjBjcEdiQzJseWpQQmhSb21fRGI4Q1Y3SVItS1NYVUpyb2ktWVlybC1EeFQ3bnF0N0F0RGdyYmd5LUJXdzA2VFk2N0syQXhCajZaWUlLLTVZTU9jblpuLUVNWFY0NFVxRnF6Ni1TbFVldngwR0dQa3kzN2dRV1UyY1RSVWRNRHZ2SQ?oc=5",
-    "source": "nme",
-    "title": "Bring Me The Horizon's Oli Sykes suffers mild concussion after fan throws phone at his head during gig - NME",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPU3JSM1c5RnFTN2hJX2tLQW9IajdiZF9MdUpKa3J1SzNqT25BUVR1WHFwelAxVGQ0U3dpeE5Dd184MmlKcmNMb0lKYlpaeE1qckFVaXNfWjBjcEdiQzJseWpQQmhSb21fRGI4Q1Y3SVItS1NYVUpyb2ktWVlybC1EeFQ3bnF0N0F0RGdyYmd5LUJXdzA2VFk2N0syQXhCajZaWUlLLTVZTU9jblpuLUVNWFY0NFVxRnF6Ni1TbFVldngwR0dQa3kzN2dRV1UyY1RSVWRNRHZ2SQ?oc=5",
-    "publishedAt": "2026-05-13T08:43:28.000Z",
-    "summary": "Bring Me The Horizon's Oli Sykes suffers mild concussion after fan throws phone at his head during gig NME",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/the-mighty-lemon-drops-happy-head-gets-dinked/",
     "source": "louder-than-war",
     "title": "The Mighty Lemon Drops Happy Head gets ‘Dinked’",
@@ -594,33 +639,6 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/jack-douglas-dead/",
-    "source": "loudwire",
-    "title": "Aerosmith and John Lennon Producer Jack Douglas Dead at 80",
-    "url": "https://loudwire.com/jack-douglas-dead/",
-    "publishedAt": "2026-05-12T20:02:34.000Z",
-    "summary": "His credits also include Cheap Trick, Patti Smith and more. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "louder-than-war-https://louderthanwar.com/smithdown-festival-smithdown-road-liverpool-live-review/",
-    "source": "louder-than-war",
-    "title": "Smithdown Festival: Smithdown Road, Liverpool – Live Review",
-    "url": "https://louderthanwar.com/smithdown-festival-smithdown-road-liverpool-live-review/",
-    "publishedAt": "2026-05-12T19:58:22.000Z",
-    "summary": "Smithdown Festival Various Smithdown Road venues, Liverpool 1st-4th May 2026 The city of Liverpool comes truly alive during the first weekend of May each year with three major annual colourful events: Sound City, Comic Con and Smithdown Festival. Martin Gray heads back to his roots once again for the latter shindig and reports from the frontline […] The post Smithdown Festival: Smithdown Road, Liverpool – Live Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/overlooked-2000s-rock-albums/",
-    "source": "loudwire",
-    "title": "10 Overlooked 2000s Rock Albums That Should've Been Bigger",
-    "url": "https://loudwire.com/overlooked-2000s-rock-albums/",
-    "publishedAt": "2026-05-12T19:46:04.000Z",
-    "summary": "You may have missed them the first time around, but these 2000s rock albums definitely deserved more attention. Continue reading…",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/features/interviews/the-beach-boys-on-life-after-pet-sounds-154434/",
     "source": "uncut",
     "title": "“People couldn’t see what we’d become” – The Beach Boys on life after Pet Sounds",
@@ -636,24 +654,6 @@
     "url": "https://www.uncut.co.uk/features/how-dont-go-near-the-water-became-the-beach-boys-climate-change-warning-154436/",
     "publishedAt": "2026-05-12T15:43:25.000Z",
     "summary": "The opening salvo of 1971's Surf's Up saw the once-carefree Californians turn eco warriors The post “I just couldn’t take it” – how “Don’t Go Near The Water” became The Beach Boys’ climate change warning appeared first on UNCUT.",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/motley-crue-shinedown-american-idol-finale/",
-    "source": "loudwire",
-    "title": "2 Big '80s + 2000s Rock Bands Perform at 'American Idol' Finale",
-    "url": "https://loudwire.com/motley-crue-shinedown-american-idol-finale/",
-    "publishedAt": "2026-05-12T15:14:18.000Z",
-    "summary": "Motley Crue and Shinedown were among the artists that performed during three-hour episode. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "louder-than-war-https://louderthanwar.com/andy-clark-a-eulogy-to-legendary-musician-bon-vivant-and-step-father-by-jerome-alexandre/",
-    "source": "louder-than-war",
-    "title": "Andy Clark : a eulogy to legendary musician, bon vivant and step father by Jerome Alexandre",
-    "url": "https://louderthanwar.com/andy-clark-a-eulogy-to-legendary-musician-bon-vivant-and-step-father-by-jerome-alexandre/",
-    "publishedAt": "2026-05-11T22:33:30.000Z",
-    "summary": "legendary musician, bon vivant, The post Andy Clark : a eulogy to legendary musician, bon vivant and step father by Jerome Alexandre appeared first on Louder Than War.",
     "image": null
   },
   {
