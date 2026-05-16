@@ -1,5 +1,77 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/lists/riley-green-acm-lifting-lives-lauren-alaina-randy-houser/",
+    "source": "billboard",
+    "title": "Riley Green Leads a Night Honoring the ACM’s Lifting Lives With Lauren Alaina, Randy Houser & More: 5 Highlights",
+    "url": "https://www.billboard.com/lists/riley-green-acm-lifting-lives-lauren-alaina-randy-houser/",
+    "publishedAt": "2026-05-16T14:43:19.000Z",
+    "summary": "Newly crowned ACM Award winner Anna Avery kicked off the night.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/will-ferrell-paul-mccartney-snl-season-finale-watch-livestream-free-1236248109/",
+    "source": "billboard",
+    "title": "Will Ferrell and Paul McCartney on ‘SNL’: Here’s How to Watch the Season 51 Finale Live Online Free",
+    "url": "https://www.billboard.com/culture/product-recommendations/will-ferrell-paul-mccartney-snl-season-finale-watch-livestream-free-1236248109/",
+    "publishedAt": "2026-05-16T14:37:42.000Z",
+    "summary": "Livestream the season finale of Saturday Night Live on May 16.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/michael-jackson-number-1-uk-album-2026-biopic-1236249781/",
+    "source": "billboard",
+    "title": "Michael Jackson Holds U.K. Albums Chart Crown as Compilation Scores Second Week at No. 1",
+    "url": "https://www.billboard.com/music/chart-beat/michael-jackson-number-1-uk-album-2026-biopic-1236249781/",
+    "publishedAt": "2026-05-16T14:12:31.000Z",
+    "summary": "The singer's return to the top spot on the chart follows the release of the blockbuster biopic.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/latin/daddy-yankee-ed-sheeran-puerto-rico-uplifting-moments-latin-1236249666/",
+    "source": "billboard",
+    "title": "Daddy Yankee Is Ed Sheeran’s Surprise Guest in Puerto Rico & More Uplifting Moments in Latin Music",
+    "url": "https://www.billboard.com/music/latin/daddy-yankee-ed-sheeran-puerto-rico-uplifting-moments-latin-1236249666/",
+    "publishedAt": "2026-05-16T14:00:00.000Z",
+    "summary": "Plus, Danny Ocean sings \"Me Rehúso\" at the Jonas Brothers' show in Chile and Rauw Alejandro reunites with his childhood soccer coach.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/dani-rose-dutton-ranch-taylor-sheridan-1235560889/",
+    "source": "rolling-stone",
+    "title": "Country Singer Dani Rose Is Finding Her Lane in Taylor Sheridan’s TV Universe",
+    "url": "https://www.rollingstone.com/music/music-country/dani-rose-dutton-ranch-taylor-sheridan-1235560889/",
+    "publishedAt": "2026-05-16T14:00:00.000Z",
+    "summary": "With a new song she co-wrote featured on Dutton Ranch, and still riding high on the success of a Landman feature, the Nashville songwriter is seizing her moment",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/songs-that-were-big-uk-hits-but-not-in-the-u-s/",
+    "source": "billboard",
+    "title": "Every Song That Topped the UK Chart for 8 or More Weeks, But Didn’t Make the Top 10 on the Hot 100",
+    "url": "https://www.billboard.com/lists/songs-that-were-big-uk-hits-but-not-in-the-u-s/",
+    "publishedAt": "2026-05-16T13:47:07.000Z",
+    "summary": "\"Rein Me In” by Sam Fender and Olivia Dean is now one of just two singles to log 11 or more weeks at No. 1 in the U.K. without making the top 10 on the Hot 100.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/sam-fender-olivia-dean-uk-charts-eleven-weeks-1236249775/",
+    "source": "billboard",
+    "title": "Sam Fender & Olivia Dean Set New U.K. Chart Record as ‘Rein Me In’ Earns 11th Week at No. 1",
+    "url": "https://www.billboard.com/music/chart-beat/sam-fender-olivia-dean-uk-charts-eleven-weeks-1236249775/",
+    "publishedAt": "2026-05-16T13:43:07.000Z",
+    "summary": "The song surpasses Rihanna and Jay-Z's long-standing record.",
+    "image": null
+  },
+  {
+    "id": "louder-than-war-https://louderthanwar.com/dub-maps-a-film-by-howard-walmsley-film-review/",
+    "source": "louder-than-war",
+    "title": "Dub Maps: A Film by Howard Walmsley – Film Review",
+    "url": "https://louderthanwar.com/dub-maps-a-film-by-howard-walmsley-film-review/",
+    "publishedAt": "2026-05-16T13:21:04.000Z",
+    "summary": "Dub Maps: A Film by Howard Walmsley International Anthony Burgess Foundation, Manchester 14th May 2026 Dedicated to Malcolm Whitehead, the former head of Ikon/FCL, the film making arm of Factory Records who passed away in 2019, Dub Maps features Cathy Brooks and Mark Hoyle from Dub Sex telling stories and searching for the ghosts beneath […] The post Dub Maps: A Film by Howard Walmsley – Film Review appeared first on Louder Than War.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/culture/product-recommendations/eurovision-song-contest-how-to-watch-online-livestream-1235969922/",
     "source": "billboard",
     "title": "Eurovision Song Contest 2026: Here’s Where to Watch the Grand Final Live Online",
@@ -24,6 +96,15 @@
     "url": "https://www.uncut.co.uk/reviews/john-lennon-the-last-interview-reviewed-stephen-soderberghs-fascinating-final-snapshot-154682/",
     "publishedAt": "2026-05-16T11:39:23.000Z",
     "summary": "The director reshapes a revelatory 1980 radio interview into an intimate, image-rich portrait The post John Lennon: The Last Interview reviewed – Steven Soderbergh’s fascinating final snapshot appeared first on UNCUT.",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOURBWUZzRmM1ZlR6c1lyRWVIUTFISnYyM2FKeGpMNnlJYWZxcEJCSGhyTkMxMEg2RFo1MDNyTGxRZ0oyeWk2YnFnVkJsUW84QVFXeThRbmlpWjlydE4yU3Q0QXRHbWtuN3M3aHNYVmwybE1UcWc4dHJLNjM2Ujgta3Q5WWd6Wm1uNFRROU5mVDc5d2ZlSXdxd3NMT1k2b0pGWGVETGc2VS02czhNYlRKdXlRZ0R4SDAwc2Vjdm1PYjM0S2laZ2FxRzZ4ZVdJdS1wYUU2WnFB?oc=5",
+    "source": "nme",
+    "title": "White House draws backlash after sharing edited version of Drake's 'Iceman' album cover with MAGA chain - NME",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOURBWUZzRmM1ZlR6c1lyRWVIUTFISnYyM2FKeGpMNnlJYWZxcEJCSGhyTkMxMEg2RFo1MDNyTGxRZ0oyeWk2YnFnVkJsUW84QVFXeThRbmlpWjlydE4yU3Q0QXRHbWtuN3M3aHNYVmwybE1UcWc4dHJLNjM2Ujgta3Q5WWd6Wm1uNFRROU5mVDc5d2ZlSXdxd3NMT1k2b0pGWGVETGc2VS02czhNYlRKdXlRZ0R4SDAwc2Vjdm1PYjM0S2laZ2FxRzZ4ZVdJdS1wYUU2WnFB?oc=5",
+    "publishedAt": "2026-05-16T09:56:45.000Z",
+    "summary": "White House draws backlash after sharing edited version of Drake's 'Iceman' album cover with MAGA chain NME",
     "image": null
   },
   {
@@ -63,66 +144,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/business/touring/j-pop-festival-zipangu-xbox-sung-kang-fashion-collab-1236249701/",
-    "source": "billboard",
-    "title": "J-Pop Festival Zipangu & Xbox Team Up for Sung Kang Fashion Collab",
-    "url": "https://www.billboard.com/business/touring/j-pop-festival-zipangu-xbox-sung-kang-fashion-collab-1236249701/",
-    "publishedAt": "2026-05-15T23:11:35.000Z",
-    "summary": "Fans can enter to win the exclusive collab at the inaugural Zipangu festival at the Rose Bowl.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/dish-satellite-tv-signup-buy-online-1236244553/",
-    "source": "billboard",
-    "title": "DISH is the TV Service for Everyone: Here’s How to Sign Up Online",
-    "url": "https://www.billboard.com/culture/product-recommendations/dish-satellite-tv-signup-buy-online-1236244553/",
-    "publishedAt": "2026-05-15T22:39:37.000Z",
-    "summary": "The TV service promises reliable TV at a stable price with DISH’s 2-Year Price Guarantee.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/hilary-duff-performs-breathe-in-breathe-out-first-time-ever-1236249650/",
-    "source": "billboard",
-    "title": "Watch Hilary Duff Sing 10-Year-Old Fan-Favorite Deep Cut for the First Time Ever",
-    "url": "https://www.billboard.com/music/music-news/hilary-duff-performs-breathe-in-breathe-out-first-time-ever-1236249650/",
-    "publishedAt": "2026-05-15T22:04:44.000Z",
-    "summary": "The singer said that performing her older songs feels \"more comfortable\" than the new ones.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/business/legal/kodak-black-arrested-fleeing-law-enforcement-traffic-stop-1236249509/",
-    "source": "billboard",
-    "title": "Kodak Black Arrested for Second Time in Less Than a Month, This Time for Fleeing Law Enforcement",
-    "url": "https://www.billboard.com/business/legal/kodak-black-arrested-fleeing-law-enforcement-traffic-stop-1236249509/",
-    "publishedAt": "2026-05-15T21:53:25.000Z",
-    "summary": "The \"Zeze\" rapper was previously booked on drug trafficking charges in Florida on May 6.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-features/who-will-win-eurovision-2026-1235562575/",
     "source": "rolling-stone",
     "title": "Sweaty Dance Floor Anthems and Romantic Optimism: Who Will Win Eurovision 2026?",
     "url": "https://www.rollingstone.com/music/music-features/who-will-win-eurovision-2026-1235562575/",
     "publishedAt": "2026-05-15T21:25:23.000Z",
     "summary": "Denmark, Lithuania, Italy, Belgium, and Cyprus are among the countries that could sing their way to victory on Saturday",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/spotify-raises-premium-subscription-prices-canada-news/",
-    "source": "billboard",
-    "title": "In Canada: Spotify Raises Premium Prices, Marking First Major Canadian Hike in Nearly 2 Years",
-    "url": "https://www.billboard.com/pro/spotify-raises-premium-subscription-prices-canada-news/",
-    "publishedAt": "2026-05-15T21:22:26.000Z",
-    "summary": "Also: FACTOR's Meg Symsyk is Billboard Canada's Executive of the Week, and how Toronto celebrated Drake's Iceman release.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/country/carter-faiths-surprise-acm-visit-to-las-vegas-1236249591/",
-    "source": "billboard",
-    "title": "Carter Faith’s Cherry Valley Gambles Pay Off With A Surprise ACM Visit To Las Vegas",
-    "url": "https://www.billboard.com/music/country/carter-faiths-surprise-acm-visit-to-las-vegas-1236249591/",
-    "publishedAt": "2026-05-15T21:15:36.000Z",
-    "summary": "In this week's lead story for Country Update, Carter Faith's Cherry Valley makes a splash at the ACM's.",
     "image": null
   },
   {
@@ -249,15 +276,6 @@
     "url": "https://pitchfork.com/news/nick-valensi-drops-out-of-upcoming-strokes-tour/",
     "publishedAt": "2026-05-15T15:26:09.000Z",
     "summary": "The band’s longtime guitarist was also absent from their Colbert performance last night",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-lists/best-album-release-stunts-u2-beyonce-radiohead-1235563330/",
-    "source": "rolling-stone",
-    "title": "Before Drake’s Ice Block Challenge: 10 Wild Album Release Stunts, From U2 to Beyoncé",
-    "url": "https://www.rollingstone.com/music/music-lists/best-album-release-stunts-u2-beyonce-radiohead-1235563330/",
-    "publishedAt": "2026-05-15T15:11:13.000Z",
-    "summary": "Drake's Iceman landing this week, and it's far from the first major record in music history to generate hype and excitement through an unorthodox marketing gambit",
     "image": null
   },
   {
@@ -558,15 +576,6 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMijgFBVV95cUxPMWM2QnM4bGhoSEhrVG9QZkdXTGEtZ0R6RzNIbkxtNEkyUzdwTm9ZbElQUjNxc2RHNENtU1RsWXR2NjZ6LVhCUXU4THlTeTZIcS1VdE1IeW1kOVNNOUlUQy1nQjdpN2ozZktzX0MzY2pLNGJ1WUxNQm9JN3hVdXdTZjVOSFUyb0hsdS1xNVlB?oc=5",
-    "source": "nme",
-    "title": "Samsung respond to Dua Lipa’s $15million lawsuit - NME",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMWM2QnM4bGhoSEhrVG9QZkdXTGEtZ0R6RzNIbkxtNEkyUzdwTm9ZbElQUjNxc2RHNENtU1RsWXR2NjZ6LVhCUXU4THlTeTZIcS1VdE1IeW1kOVNNOUlUQy1nQjdpN2ozZktzX0MzY2pLNGJ1WUxNQm9JN3hVdXdTZjVOSFUyb0hsdS1xNVlB?oc=5",
-    "publishedAt": "2026-05-14T11:52:21.000Z",
-    "summary": "Samsung respond to Dua Lipa’s $15million lawsuit NME",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/reviews/live/paul-simon-live-royal-albert-hall-classics-stunningly-reimagined-154667/",
     "source": "uncut",
     "title": "Paul Simon live at the Royal Albert Hall – classics old and new, stunningly reimagined by a band of light-touch virtuosos",
@@ -582,15 +591,6 @@
     "url": "https://louderthanwar.com/darkthrone-pre-historic-metal-album-review/",
     "publishedAt": "2026-05-14T11:09:21.000Z",
     "summary": "Darkthrone: Pre-Historic Metal (Peaceville Records) LP | CD | CS| DL Out now Darkthrone have just released their 21st studio LP, Pre-Historic Metal. The band is now 45 years into their career. They released a massive Box Set of early albums a couple of months ago to celebrate their definitive impact on the Black […] The post Darkthrone: Pre-Historic Metal – Album Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "louder-than-war-https://louderthanwar.com/the-howlers-announce-their-second-album-heavy-and-release-new-single-viper/",
-    "source": "louder-than-war",
-    "title": "The Howlers announce their second album Heavy and release new single Viper",
-    "url": "https://louderthanwar.com/the-howlers-announce-their-second-album-heavy-and-release-new-single-viper/",
-    "publishedAt": "2026-05-14T10:37:42.000Z",
-    "summary": "London alt-rockers The Howlers have announced their second album Heavy, due for release on October 9th, alongside the arrival of their explosive new single Viper. Returning after 2025 singles Nightcrawling and You Can Be So Cruel, the band continue their sharp upward trajectory with a track that feels tense and broody, yet still immediate and […] The post The Howlers announce their second album Heavy and release new single Viper appeared first on Louder Than War.",
     "image": null
   },
   {
