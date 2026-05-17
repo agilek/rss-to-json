@@ -1,5 +1,50 @@
 [
   {
+    "id": "loudwire-https://loudwire.com/anthrax-frank-bello-new-album-song-interview/",
+    "source": "loudwire",
+    "title": "Frank Bello Celebrates New Music, Reflects on Grammy Award + More",
+    "url": "https://loudwire.com/anthrax-frank-bello-new-album-song-interview/",
+    "publishedAt": "2026-05-17T22:54:34.000Z",
+    "summary": "Anthrax's Frank Bello dives into his band's next album, 'Cursum Perficio,' and takes some time to reflect on his recent Grammy award. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/shania-twain-gives-ella-langley-her-flowers/",
+    "source": "billboard",
+    "title": "Shania Twain Gives Ella Langley Her Flowers, What Fans Can Expect From Her New Album & More | ACM Awards 2026",
+    "url": "https://www.billboard.com/video/shania-twain-gives-ella-langley-her-flowers/",
+    "publishedAt": "2026-05-17T22:52:17.000Z",
+    "summary": "Shania Twain caught up with Ellie Thumann & Billboard’sTetris Kelly at the ACM Awards 2026.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/dasha-reveals-mad-about-it-is-a-true-story/",
+    "source": "billboard",
+    "title": "Dasha Reveals “Mad About It” is a True Story About Her Best Friend Getting With Her Ex-Boyfriend | ACM Awards 2026",
+    "url": "https://www.billboard.com/video/dasha-reveals-mad-about-it-is-a-true-story/",
+    "publishedAt": "2026-05-17T22:38:42.000Z",
+    "summary": "Dasha caught up with Ellie Thumann & Billboard’s Tetris Kelly at the ACM Awards 2026.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-latin/who-is-chuyin-los-locos-nunca-mueren-interview-1235564215/",
+    "source": "rolling-stone",
+    "title": "Meet Chuyin, The Mystery Artist Taking Over Música Mexicana In a Crocheted Baby Mask",
+    "url": "https://www.rollingstone.com/music/music-latin/who-is-chuyin-los-locos-nunca-mueren-interview-1235564215/",
+    "publishedAt": "2026-05-17T21:34:15.000Z",
+    "summary": "The Street Mob signee recently dropped his debut album Los Locos Nunca Mueren — and fans want more",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/tv-film/paul-mccartney-snl-mechanics-sketch-1236250171/",
+    "source": "billboard",
+    "title": "Paul McCartney, Will Ferrell Nearly Make ‘SNL’ Cast Break With This ‘Mechanics’ One-Liner",
+    "url": "https://www.billboard.com/culture/tv-film/paul-mccartney-snl-mechanics-sketch-1236250171/",
+    "publishedAt": "2026-05-17T21:12:06.000Z",
+    "summary": "Musical guest McCartney put his comedic timing to the test starring as an auto mechanic alongside host Ferrell and Marcello Hernández.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/lists/top-grossing-music-biopics-movies/",
     "source": "billboard",
     "title": "‘Michael’ Becomes 2nd Music Biopic to Top $600 Million in Global Boxoffice Grosses: See the Full List",
@@ -108,15 +153,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/paul-mccartney-snl-band-on-the-run-days-we-left-behind-1236250109/",
-    "source": "billboard",
-    "title": "Paul McCartney Performs ‘Band on the Run,’ ‘Coming Up’ & ‘Days We Left Behind’ on ‘SNL’ Season Finale",
-    "url": "https://www.billboard.com/music/music-news/paul-mccartney-snl-band-on-the-run-days-we-left-behind-1236250109/",
-    "publishedAt": "2026-05-17T15:00:08.000Z",
-    "summary": "McCartney fans got three live performances, plus a couple other cameos from the Beatle, as Season 51 came to a close.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/bulgaria-wins-eurovision-2026-dara-bangaranga-1235564036/",
     "source": "rolling-stone",
     "title": "Bulgaria Wins Eurovision 2026 With Dara’s ‘Bangaranga’",
@@ -198,30 +234,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/pop/kylie-minogue-40th-anniversary-tour-1236250106/",
-    "source": "billboard",
-    "title": "Kylie Minogue Confirms 40th Anniversary Tour Plans: ‘I’m Probably Not Meant to Say This, But Yes’",
-    "url": "https://www.billboard.com/music/pop/kylie-minogue-40th-anniversary-tour-1236250106/",
-    "publishedAt": "2026-05-17T07:45:38.000Z",
-    "summary": "Minogue launched her pop career in 1987, while still starring in Australian TV soap Neighbours.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/snl-watch-paul-mccartney-perform-days-we-left-behind-band-on-run-1235563888/",
     "source": "rolling-stone",
     "title": "‘SNL’: Watch Paul McCartney Perform ‘Days We Left Behind,’ ‘Band on the Run’",
     "url": "https://www.rollingstone.com/music/music-news/snl-watch-paul-mccartney-perform-days-we-left-behind-band-on-run-1235563888/",
     "publishedAt": "2026-05-17T07:26:25.000Z",
     "summary": "The former Beatle also plays a surprise encore to close out the season finale",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/concerts/bassinthegrass-2026-darwin-1236250100/",
-    "source": "billboard",
-    "title": "Denzel Curry, Galantis, Peking Duk and More Perform at BASSINTHEGRASS 2026 in Darwin",
-    "url": "https://www.billboard.com/music/concerts/bassinthegrass-2026-darwin-1236250100/",
-    "publishedAt": "2026-05-17T06:37:05.000Z",
-    "summary": "The annual festival drew close to 12,000 attendees to one of Australia's most distinctive live music settings.",
     "image": null
   },
   {
@@ -330,15 +348,6 @@
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOURBWUZzRmM1ZlR6c1lyRWVIUTFISnYyM2FKeGpMNnlJYWZxcEJCSGhyTkMxMEg2RFo1MDNyTGxRZ0oyeWk2YnFnVkJsUW84QVFXeThRbmlpWjlydE4yU3Q0QXRHbWtuN3M3aHNYVmwybE1UcWc4dHJLNjM2Ujgta3Q5WWd6Wm1uNFRROU5mVDc5d2ZlSXdxd3NMT1k2b0pGWGVETGc2VS02czhNYlRKdXlRZ0R4SDAwc2Vjdm1PYjM0S2laZ2FxRzZ4ZVdJdS1wYUU2WnFB?oc=5",
     "publishedAt": "2026-05-16T09:56:45.000Z",
     "summary": "White House draws backlash after sharing edited version of Drake's 'Iceman' album cover with MAGA chain NME",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/drake-iceman-spotify-most-streamed-artist-day-record-2026-1235563836/",
-    "source": "rolling-stone",
-    "title": "Drake Is Spotify’s Most-Streamed Artist in a Day for 2026 Following Three-Album Release",
-    "url": "https://www.rollingstone.com/music/music-news/drake-iceman-spotify-most-streamed-artist-day-record-2026-1235563836/",
-    "publishedAt": "2026-05-16T00:52:59.000Z",
-    "summary": "The rapper dropped Iceman on Friday alongside two other surprise LPs",
     "image": null
   },
   {
@@ -564,15 +573,6 @@
     "url": "https://loudwire.com/jason-newsted-doesnt-want-bass-metallica-and-justice-for-all-remixed/",
     "publishedAt": "2026-05-14T20:41:17.000Z",
     "summary": "The bassist called the 1988 LP \"the largest-selling garage duo album of all time.\" Continue reading…",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/weezer-stevie-ray-vaughan-library-of-congress-national-recording-registry-2026/",
-    "source": "loudwire",
-    "title": "Weezer + SRV Added to Library of Congress' Recording Registry",
-    "url": "https://loudwire.com/weezer-stevie-ray-vaughan-library-of-congress-national-recording-registry-2026/",
-    "publishedAt": "2026-05-14T18:54:35.000Z",
-    "summary": "They join the likes of Led Zeppelin, Queen, Journey and many more. Continue reading…",
     "image": null
   },
   {
