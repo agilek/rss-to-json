@@ -1,5 +1,32 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "source": "billboard",
+    "title": "Billboard’s Music Industry Events Calendar",
+    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "publishedAt": "2026-05-19T04:35:00.000Z",
+    "summary": "A complete rundown of the most important events across the music business.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/ateez-bst-hyde-park-2026-1236251473/",
+    "source": "billboard",
+    "title": "ATEEZ Announced as BST Hyde Park Headliners for U.K. Exclusive Show",
+    "url": "https://www.billboard.com/music/music-news/ateez-bst-hyde-park-2026-1236251473/",
+    "publishedAt": "2026-05-19T04:11:43.000Z",
+    "summary": "The eight-member South Korean group have been confirmed as headliners for BST Hyde Park, marking their only U.K. date of 2026.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/drake-iceman-albums-gordo-producer-1235564616/",
+    "source": "rolling-stone",
+    "title": "Gordo Says He Had No Idea Drake Was Dropping Three Albums",
+    "url": "https://www.rollingstone.com/music/music-features/drake-iceman-albums-gordo-producer-1235564616/",
+    "publishedAt": "2026-05-19T04:05:28.000Z",
+    "summary": "The producer also didn't know how \"Hoe Phase\" would sound before Drake spliced it together himself",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/ike-willis-frank-zappa-dead-obituary-1235565078/",
     "source": "rolling-stone",
     "title": "Ike Willis, Frank Zappa’s Loyal Vocalist and Guitarist, Dead at 70",
@@ -108,30 +135,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/michael-jackson-artist-100-biopic-success-1236251267/",
-    "source": "billboard",
-    "title": "Michael Jackson Rules Billboard Artist 100 for First Time, Thanks to Continued ‘Michael’ Biopic Success",
-    "url": "https://www.billboard.com/music/chart-beat/michael-jackson-artist-100-biopic-success-1236251267/",
-    "publishedAt": "2026-05-18T21:05:30.000Z",
-    "summary": "The King of Pop is the sixth artist to reach No. 1 posthumously, and just the second this decade.",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/better-style-covers-vs-originals/",
     "source": "loudwire",
     "title": "VOTE: Better Style - Covers vs. Originals",
     "url": "https://loudwire.com/better-style-covers-vs-originals/",
     "publishedAt": "2026-05-18T20:53:27.000Z",
     "summary": "Would you rather hear a block of cover songs of the original songs that they came from? That's the Chuck's Fight Club for this week's Loudwire Nights radio show. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/montauk-yacht-club-marina-music-series-2026-washed-out-1236249531/",
-    "source": "billboard",
-    "title": "Billboard & Montauk Yacht Club Announce the Return of Marina Music Series With Washed Out DJ Set",
-    "url": "https://www.billboard.com/music/music-news/montauk-yacht-club-marina-music-series-2026-washed-out-1236249531/",
-    "publishedAt": "2026-05-18T20:45:41.000Z",
-    "summary": "More lineup announcements will be shared throughout the summer.",
     "image": null
   },
   {
@@ -288,15 +297,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/shakira-tax-case-spanish-court-64-million-refund-1235564448/",
-    "source": "rolling-stone",
-    "title": "Shakira Wins $64 Million Refund in Spanish Tax Case: ‘There Was Never Any Fraud’",
-    "url": "https://www.rollingstone.com/music/music-news/shakira-tax-case-spanish-court-64-million-refund-1235564448/",
-    "publishedAt": "2026-05-18T14:10:18.000Z",
-    "summary": "Spain’s National High Court ruled that the country’s tax authorities failed to prove Shakira spent 183 days in the country in 2011, the minimum required to pay personal income tax",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMivwFBVV95cUxOeGVXUFcwOWJBelNCblpuYnNHaF9FNXpHNTE3NjZJSVA1ajhQY0xWYmFNSk40VzFON0JYMjg5RW1hcWFWY1lEYmpNbUlYZE9TWUhQVEpMOU5vMUFqeG90MHhSdDBtUkNvdUNhWGJjRWdXVVJiYTJuRmc1LTVHc01sRkxwcmRET1djLVJwSHdOOWVEcWtfWEIwTE1ubzZZRm9BR1F3Uk9KRGlHWGVmaktmOUl2ekctUGFLdFp3SWNCSQ?oc=5",
     "source": "nme",
     "title": "Blondshell launches new era with bruising single 'Heart Has To Work So Hard' and biggest UK, European and North American tour to date - NME",
@@ -374,7 +374,7 @@
     "title": "JK FLESH/MONRELLA: SHOUTING THE ODDS – Album Review & Interview",
     "url": "https://louderthanwar.com/jk-flesh-monrella-shouting-the-odds-album-review-interview/",
     "publishedAt": "2026-05-18T10:38:48.000Z",
-    "summary": "JK FLESH/MONRELLA: SHOUTING THE ODDS (GIVE/TAKE | Avalanche) DL | LP | CD Out Now – Order HERE Louder Than War talks to Justin Broadrick and Mick Harris about their new album, SHOUTING THE ODDS. A demonstration of what each artist’s arsenal is bursting with as distinctly split release, yet a collaborative concentration of overlapping […] The post JK FLESH/MONRELLA: SHOUTING THE ODDS – Album Review & Interview appeared first on Louder Than War.",
+    "summary": "JK FLESH/MONRELLA: SHOUTING THE ODDS (GIVE/TAKE | Avalanche) DL | LP | CD Out Now – Order HERE Louder Than War talks to Justin Broadrick and Mick Harris about their new album, SHOUTING THE ODDS. A demonstration of what each artist’s arsenal is bursting with as a distinctly split release, yet a collaborative concentration of […] The post JK FLESH/MONRELLA: SHOUTING THE ODDS – Album Review & Interview appeared first on Louder Than War.",
     "image": null
   },
   {
