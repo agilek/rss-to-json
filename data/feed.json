@@ -1,5 +1,32 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/pop/aqua-breakup-after-30-years-1236251505/",
+    "source": "billboard",
+    "title": "Aqua, the Danish-Norwegian Group Behind ‘Barbie Girl,’ Announce Breakup After 30 Years",
+    "url": "https://www.billboard.com/music/pop/aqua-breakup-after-30-years-1236251505/",
+    "publishedAt": "2026-05-19T09:17:29.000Z",
+    "summary": "\"After many incredible years, we have decided to close the chapter of AQUA as a live band,\" they wrote.",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVEJ1aENiVTFmSWdNcTZVYWFKemJHMVdUTjlKU1dWZnh5azRreGlQdlFuQW9BTGFTNkVScF8yVE9MMGMtTF8ydVFzckdGczFpNm44U0U5UmFkVlBaM0hFTm9CWUVDc09ZWWhkdFFtRHNXMDVGZTVBV1Q2WWVWdVpGcTYxeHExTm0wcWNXZzJCWnl0WGY4eFBnb09TYVNyWFdIUDBxSG83U00?oc=5",
+    "source": "nme",
+    "title": "Muse share old-school epic new single ‘Hexagons’ from ‘The Wow! Signal’ - NME",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVEJ1aENiVTFmSWdNcTZVYWFKemJHMVdUTjlKU1dWZnh5azRreGlQdlFuQW9BTGFTNkVScF8yVE9MMGMtTF8ydVFzckdGczFpNm44U0U5UmFkVlBaM0hFTm9CWUVDc09ZWWhkdFFtRHNXMDVGZTVBV1Q2WWVWdVpGcTYxeHExTm0wcWNXZzJCWnl0WGY4eFBnb09TYVNyWFdIUDBxSG83U00?oc=5",
+    "publishedAt": "2026-05-19T09:00:59.000Z",
+    "summary": "Muse share old-school epic new single ‘Hexagons’ from ‘The Wow! Signal’ NME",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMiqgFBVV95cUxORnZidUtIUldFOFVFazdNcFUxbGxYamo5NjVRaVIzYS1HNXJ1OEZpT1E2SjVyN2dsNlpvRTJEdTBLTkJSbEpKVG1ZSEdWVHRCRDFHQXhyZlRTZkRndW10aGdCWTZYNzZOc3lWUGxrY2V3aC1palAwNTN1N28tTVp2bXNoZDdmYkxKVmtCNHlnb3NMMktiZWVVYkQ0dXF3MUltSXEwQ2tsVGFMQQ?oc=5",
+    "source": "nme",
+    "title": "Aqua announce split: \"This feels like the right moment to say goodbye\" - NME",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORnZidUtIUldFOFVFazdNcFUxbGxYamo5NjVRaVIzYS1HNXJ1OEZpT1E2SjVyN2dsNlpvRTJEdTBLTkJSbEpKVG1ZSEdWVHRCRDFHQXhyZlRTZkRndW10aGdCWTZYNzZOc3lWUGxrY2V3aC1palAwNTN1N28tTVp2bXNoZDdmYkxKVmtCNHlnb3NMMktiZWVVYkQ0dXF3MUltSXEwQ2tsVGFMQQ?oc=5",
+    "publishedAt": "2026-05-19T07:33:42.000Z",
+    "summary": "Aqua announce split: \"This feels like the right moment to say goodbye\" NME",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
     "source": "billboard",
     "title": "Billboard’s Music Industry Events Calendar",
@@ -114,15 +141,6 @@
     "url": "https://loudwire.com/static-x-cancel-2026-tour-dates-medical-issues-statement/",
     "publishedAt": "2026-05-18T21:43:46.000Z",
     "summary": "Static-X have canceled all of their upcoming 2026 tour dates due to 'serious medical issues' that require 'immediate attention.' Continue reading…",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/video/billboard-hot-100-top-10-countdown-may-23-2026/",
-    "source": "billboard",
-    "title": "Billboard Hot 100 Top 10 Countdown for May 23, 2026 | Billboard News",
-    "url": "https://www.billboard.com/video/billboard-hot-100-top-10-countdown-may-23-2026/",
-    "publishedAt": "2026-05-18T21:21:57.000Z",
-    "summary": "Ella Langley continues her dominant run in the top two spots with “Choosin’ Texas” and “Be Her,” Bruno Mars also gets two top 10 entries with “I Just Might” and “Risk It All,” Olivia Dean also appears twice in this week’s top 10 with “So Easy (To Fall In Love)” and “Man I Need.” Tetris […]",
     "image": null
   },
   {
@@ -405,15 +423,6 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa0E1MVZlVFBjbU1VcXFQNVdqR1FUejFzZlc1cV9EQldqcVVaLUc1eTJ6LXZXYmd3SzFwLW53Tk1Mc0tqbm9qbHpILThaNm1sTXlyaFFHWlE2RUlWZmdfZll4MmJqSkpfUlJZSEdMei15T3lrSmpxVWt1T2dhbWpCcTZZclRxTDd2bmZFdXdCejQ0VVJrY1QtWlItbnVVbkFQNXpHUVhjLU0zUTRmZThKVjUxNlNOeU11M1pLQ2I3Q1JmUQ?oc=5",
-    "source": "nme",
-    "title": "Ryan Gosling was fired from ‘The Lovely Bones’ by Peter Jackson after gaining four stone - NME",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa0E1MVZlVFBjbU1VcXFQNVdqR1FUejFzZlc1cV9EQldqcVVaLUc1eTJ6LXZXYmd3SzFwLW53Tk1Mc0tqbm9qbHpILThaNm1sTXlyaFFHWlE2RUlWZmdfZll4MmJqSkpfUlJZSEdMei15T3lrSmpxVWt1T2dhbWpCcTZZclRxTDd2bmZFdXdCejQ0VVJrY1QtWlItbnVVbkFQNXpHUVhjLU0zUTRmZThKVjUxNlNOeU11M1pLQ2I3Q1JmUQ?oc=5",
-    "publishedAt": "2026-05-18T09:56:17.000Z",
-    "summary": "Ryan Gosling was fired from ‘The Lovely Bones’ by Peter Jackson after gaining four stone NME",
-    "image": null
-  },
-  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMiswFBVV95cUxOX1hreEZZNUhnV0NHUkZlV3BhS3FLcjRvNUsxTWNfZ1c1T1lGNXBSbDNmLXF0QkNNMW1BVGdmSTFaQWwzY0l2Vm9Uc1hQTWZSUHBjVi03RUV0by04aW9qN3RGTUV6WTF1YTNNbFpkcUp2czNXRnBKTkNYR19TWS1zWkh3eTVUNU1oLURkYklqbTZ1Y29XVmhFNTJjWGVuOU43OWNSR3lyazlEUy1LNENlaHV5MA?oc=5",
     "source": "kerrang",
     "title": "Green Lung announce massive Dance To The Grave European tour - Kerrang!",
@@ -429,15 +438,6 @@
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcm1NWTVaZDJZRTN4TGR5VVNFdlk0UWFCVE9uOUlZWXEyRklSd3BXU1FneUQtbDlQbnRpSnJHQlJOMnY1QnV6RTlWQUtDcUJZWUotcUw0bUdLWnNQa1M2RlJGbC1qVEx2VTl4RFZVT0NlN1JJRHJ4N1J3bDl1WHR4OVRmOW8?oc=5",
     "publishedAt": "2026-05-18T08:52:00.000Z",
     "summary": "Album review: Held. – GREY Kerrang!",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMiuAFBVV95cUxNalVJb3RGY212TjI0U25pU2VBN2V0SzBtSW1MYkVpc3ZPYTM3dGl6YjVYM3pZWlpNYkRyRGg4MUZqZzBEUGhMbExPcGVPWWROek9ERXhvNHJsQ0ZVXzBUTWRxZXY4N2toeGw4SmQtLXNHYUhuQ2hwUnFPWGdDdVV0SGNQeXNxUmpqRkxIWmV6ZU04ZkJWNy1ZQTBKYXprWU01amVsbjc4eDg3UVAyRFhrbVZOaGZoX002?oc=5",
-    "source": "nme",
-    "title": "Harry Styles responds to fan shouting \"Viva Palestina\" at Amsterdam show: \"Correct\" - NME",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNalVJb3RGY212TjI0U25pU2VBN2V0SzBtSW1MYkVpc3ZPYTM3dGl6YjVYM3pZWlpNYkRyRGg4MUZqZzBEUGhMbExPcGVPWWROek9ERXhvNHJsQ0ZVXzBUTWRxZXY4N2toeGw4SmQtLXNHYUhuQ2hwUnFPWGdDdVV0SGNQeXNxUmpqRkxIWmV6ZU04ZkJWNy1ZQTBKYXprWU01amVsbjc4eDg3UVAyRFhrbVZOaGZoX002?oc=5",
-    "publishedAt": "2026-05-18T08:06:58.000Z",
-    "summary": "Harry Styles responds to fan shouting \"Viva Palestina\" at Amsterdam show: \"Correct\" NME",
     "image": null
   },
   {
