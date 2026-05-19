@@ -1,11 +1,245 @@
 [
   {
-    "id": "billboard-https://www.billboard.com/music/pop/aqua-breakup-after-30-years-1236251505/",
+    "id": "billboard-https://www.billboard.com/music/rock/ike-willis-death-vocalist-guitarist-zappa-band-dies-obituary-1236251544/",
     "source": "billboard",
-    "title": "Aqua, the Danish-Norwegian Group Behind ‘Barbie Girl,’ Announce Breakup After 30 Years",
-    "url": "https://www.billboard.com/music/pop/aqua-breakup-after-30-years-1236251505/",
-    "publishedAt": "2026-05-19T09:17:29.000Z",
-    "summary": "\"After many incredible years, we have decided to close the chapter of AQUA as a live band,\" they wrote.",
+    "title": "Ike Willis, Vocalist/Guitarist in Frank Zappa’s Band Dies at 70",
+    "url": "https://www.billboard.com/music/rock/ike-willis-death-vocalist-guitarist-zappa-band-dies-obituary-1236251544/",
+    "publishedAt": "2026-05-19T15:24:30.000Z",
+    "summary": "The musician who joined the late rock pioneer's group in 1978 and toured with him through his final tour in 1988 appeared on the classic album Joe's Garage.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/moses-sumney-releasing-debut-film-soundtrack/",
+    "source": "pitchfork",
+    "title": "Moses Sumney Releasing Debut Film Soundtrack",
+    "url": "https://pitchfork.com/news/moses-sumney-releasing-debut-film-soundtrack/",
+    "publishedAt": "2026-05-19T15:22:24.000Z",
+    "summary": "Kara Jackson features on the lead single from Sumney and Joseph Shirley’s companion album to Is God Is",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/america-dewey-bunnell-contemplate-retirement-1235564977/",
+    "source": "rolling-stone",
+    "title": "America’s Dewey Bunnell Is Thinking of Retirement But Still Riding That ‘Horse With No Name’",
+    "url": "https://www.rollingstone.com/music/music-features/america-dewey-bunnell-contemplate-retirement-1235564977/",
+    "publishedAt": "2026-05-19T15:21:31.000Z",
+    "summary": "After his longtime partner Gerry Beckley quietly left the band in 2023, the man behind the group's iconic hit and others like \"Tin Man\" is now fronting America on his own",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/latto-gives-birth-first-baby-21-savage-video-1236251560/",
+    "source": "billboard",
+    "title": "Latto Appears to Confirm She’s Given Birth to Her First Child: Watch the Video Featuring 21 Savage",
+    "url": "https://www.billboard.com/music/rb-hip-hop/latto-gives-birth-first-baby-21-savage-video-1236251560/",
+    "publishedAt": "2026-05-19T15:21:25.000Z",
+    "summary": "\"Big Mama, one kid.\"",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/ashley-tisdale-hilary-duff-mom-group-drama-explained/",
+    "source": "billboard",
+    "title": "Ashley Tisdale & Hilary Duff’s Mom Group Drama Explained",
+    "url": "https://www.billboard.com/lists/ashley-tisdale-hilary-duff-mom-group-drama-explained/",
+    "publishedAt": "2026-05-19T15:09:08.000Z",
+    "summary": "The moms in question also include Mandy Moore and Meghan Trainor.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/mandy-moore-ashley-tisdale-toxic-mom-group-drama-upsetting-1236251563/",
+    "source": "billboard",
+    "title": "Mandy Moore Speaks Out on ‘Upsetting’ Mom Group Drama, Wishes Ashley Tisdale Handled It ‘Face-to-Face’",
+    "url": "https://www.billboard.com/music/music-news/mandy-moore-ashley-tisdale-toxic-mom-group-drama-upsetting-1236251563/",
+    "publishedAt": "2026-05-19T15:07:19.000Z",
+    "summary": "\"I wouldn't have handled the situation this way,\" the singer-actress said.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/stars-mental-health-issues-struggles/",
+    "source": "billboard",
+    "title": "Musicians Who Have Opened Up About Their Mental Health Struggles",
+    "url": "https://www.billboard.com/lists/stars-mental-health-issues-struggles/",
+    "publishedAt": "2026-05-19T14:51:31.000Z",
+    "summary": "Artists have been doing their part to destigmatize mental health issues by opening up about their own experiences. Here's what they've said.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/arch-enemy-black-dahlia-murder-2026-tour/",
+    "source": "loudwire",
+    "title": "Arch Enemy and Black Dahlia Murder Announce Fall 2026 Joint Tour",
+    "url": "https://loudwire.com/arch-enemy-black-dahlia-murder-2026-tour/",
+    "publishedAt": "2026-05-19T14:47:44.000Z",
+    "summary": "The Wrath Across America trek kicks off in October. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/raye-nile-rodgers-2026-abbey-road-music-photography-awards-1235565643/",
+    "source": "rolling-stone",
+    "title": "Raye and Nile Rodgers Will Help Judge Abbey Road’s 2026 Music Photography Awards",
+    "url": "https://www.rollingstone.com/music/music-news/raye-nile-rodgers-2026-abbey-road-music-photography-awards-1235565643/",
+    "publishedAt": "2026-05-19T14:37:09.000Z",
+    "summary": "The pair will be joined on the panel by a mix of ace photographers and artists, including Måneskin’s Damiano David and Harry Styles' producer Kid Harpoon",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/sydney-qudos-bank-arena-renamed-afterpay-arena/",
+    "source": "billboard",
+    "title": "Sydney’s Qudos Bank Arena to Be Renamed Afterpay Arena Under Five-Year Naming Rights Deal",
+    "url": "https://www.billboard.com/pro/sydney-qudos-bank-arena-renamed-afterpay-arena/",
+    "publishedAt": "2026-05-19T14:30:00.000Z",
+    "summary": "Afterpay Arena will become the first major entertainment venue in Australia to offer end-to-end payment flexibility across the entire fan experience.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/beartooth-2026-us-tour-dates/",
+    "source": "loudwire",
+    "title": "Beartooth Announce 2026 U.S. Tour Dates With 3 Special Guests",
+    "url": "https://loudwire.com/beartooth-2026-us-tour-dates/",
+    "publishedAt": "2026-05-19T14:22:22.000Z",
+    "summary": "With Don Broco, Magnolia Park and Windwaker. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/shinedown-fan-request-junkies-for-fame-live-18-years/",
+    "source": "loudwire",
+    "title": "Shinedown Honor Fan Request, Play Song for First Time in 18 Years",
+    "url": "https://loudwire.com/shinedown-fan-request-junkies-for-fame-live-18-years/",
+    "publishedAt": "2026-05-19T14:21:53.000Z",
+    "summary": "A longtime devoted fan got a welcome surprise attending his 102nd Shinedown concert when the band honored his song request. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/son-lux-prep-new-album-and-world-tour/",
+    "source": "pitchfork",
+    "title": "Son Lux Prep New Album and World Tour",
+    "url": "https://pitchfork.com/news/son-lux-prep-new-album-and-world-tour/",
+    "publishedAt": "2026-05-19T14:08:51.000Z",
+    "summary": "The trio will release Out Into this September",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/xiu-xiu-made-an-album-based-on-david-lynchs-eraserhead/",
+    "source": "pitchfork",
+    "title": "Xiu Xiu Made an Album Based on David Lynch’s Eraserhead",
+    "url": "https://pitchfork.com/news/xiu-xiu-made-an-album-based-on-david-lynchs-eraserhead/",
+    "publishedAt": "2026-05-19T14:05:39.000Z",
+    "summary": "Jamie Stewart and Angela Seo’s ongoing concert concept gets the studio treatment",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/2026-bet-awards-nominations-full-list/",
+    "source": "billboard",
+    "title": "Cardi B Leads 2026 BET Awards Nominations: Full List",
+    "url": "https://www.billboard.com/lists/2026-bet-awards-nominations-full-list/",
+    "publishedAt": "2026-05-19T14:00:00.000Z",
+    "summary": "Kendrick Lamar & Mariah the Scientist are close behind with 5 nods each.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/country/billboard-country-live-2026-lineup-adds-chase-rice-band-perry-1236251439/",
+    "source": "billboard",
+    "title": "Billboard Country Live Adds Chase Rice, Drew Baldridge, The Band Perry, Corey Kent & More to Nashville Lineup",
+    "url": "https://www.billboard.com/music/country/billboard-country-live-2026-lineup-adds-chase-rice-band-perry-1236251439/",
+    "publishedAt": "2026-05-19T14:00:00.000Z",
+    "summary": "Hunter Hayes, Lanie Gardner, The Grimm, Ty Myers, Alana Springsteen, Alexandra Kay, Ashley Cooke, Braxton Keith, Kaitlin Butts, Priscilla Block, Something Out West & Stella Lefty also join lineup.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/leon-thomas-2026-ascap-vanguard-award/",
+    "source": "billboard",
+    "title": "Leon Thomas Set to Receive 2026 ASCAP Vanguard Award",
+    "url": "https://www.billboard.com/pro/leon-thomas-2026-ascap-vanguard-award/",
+    "publishedAt": "2026-05-19T14:00:00.000Z",
+    "summary": "Thomas won two Grammys in February and an iHeartRadio Music Award in March.",
+    "image": null
+  },
+  {
+    "id": "louder-than-war-https://louderthanwar.com/the-milk-carton-kids-lost-cause-lover-fool-album-review/",
+    "source": "louder-than-war",
+    "title": "The Milk Carton Kids : Lost Cause Lover Fool – Album Review",
+    "url": "https://louderthanwar.com/the-milk-carton-kids-lost-cause-lover-fool-album-review/",
+    "publishedAt": "2026-05-19T13:24:16.000Z",
+    "summary": "The Milk Carton Kids: Lost Cause Lover Fool (Far Cry Records / Thirty Tigers) CD | Vinyl | Limited LP Out now Martin Gray takes a listen to the seventh album of original songs by US indie folk duo Milk Carton Kids and delights in the album’s understated and blissfully hushed reverie. In a world […] The post The Milk Carton Kids : Lost Cause Lover Fool – Album Review appeared first on Louder Than War.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/rolling-stone-residency-live-1235558769/",
+    "source": "rolling-stone",
+    "title": "Sara Bareilles to Kick Off Rolling Stone Residency at New York’s Cherry Lane Theatre",
+    "url": "https://www.rollingstone.com/music/music-news/rolling-stone-residency-live-1235558769/",
+    "publishedAt": "2026-05-19T13:04:11.000Z",
+    "summary": "The historic West Village venue will host six exclusive interviews and intimate performances this year",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/fuerza-regida-jop-chevy-454-truck-tribute-1235563757/",
+    "source": "rolling-stone",
+    "title": "Why Fuerza Regida Calls the Chevy 454 Their Favorite ‘Time Machine’",
+    "url": "https://www.rollingstone.com/music/music-features/fuerza-regida-jop-chevy-454-truck-tribute-1235563757/",
+    "publishedAt": "2026-05-19T13:00:00.000Z",
+    "summary": "In the Mexican American community, it’s everyone’s dream truck — and a symbol of hard work",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/american-protest-songs-woody-guthrie-steve-earle-1235560664/",
+    "source": "rolling-stone",
+    "title": "‘You Can’t Tell Me Music Doesn’t Change the World’",
+    "url": "https://www.rollingstone.com/music/music-features/american-protest-songs-woody-guthrie-steve-earle-1235560664/",
+    "publishedAt": "2026-05-19T13:00:00.000Z",
+    "summary": "From Woody Guthrie to Bruce Springsteen, American artists have always fought for change through music. Steve Earle pays tribute to our proud history of protest songs",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/zhamira-signs-uta-global-representation/",
+    "source": "billboard",
+    "title": "Zhamira Signs With UTA for Global Representation",
+    "url": "https://www.billboard.com/pro/zhamira-signs-uta-global-representation/",
+    "publishedAt": "2026-05-19T13:00:00.000Z",
+    "summary": "The news comes in the midst of the Venezuelan singer's first-ever tour.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/montauk-surf-lodge-summer-concerts-teddy-swims-snoop-dogg-1235565383/",
+    "source": "rolling-stone",
+    "title": "Teddy Swims, Snoop Dogg Highlight Montauk’s Surf Lodge Summer Concert Series",
+    "url": "https://www.rollingstone.com/music/music-news/montauk-surf-lodge-summer-concerts-teddy-swims-snoop-dogg-1235565383/",
+    "publishedAt": "2026-05-19T13:00:00.000Z",
+    "summary": "Dance music mainstays and rap sets highlight the Hamptons hotspot's slate",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/early-outlaws-billy-the-kid-butch-cassidy-charley-crockett-1235560780/",
+    "source": "rolling-stone",
+    "title": "Early Outlaws Were the Ultimate Underdogs. That’s Why We Love ’Em",
+    "url": "https://www.rollingstone.com/music/music-country/early-outlaws-billy-the-kid-butch-cassidy-charley-crockett-1235560780/",
+    "publishedAt": "2026-05-19T13:00:00.000Z",
+    "summary": "From Billy the Kid to Butch Cassidy, these legends of the West are American attitude and individualism in the flesh",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/barack-obama-on-american-music-1235560707/",
+    "source": "rolling-stone",
+    "title": "Honoring the Music That Made Us",
+    "url": "https://www.rollingstone.com/music/music-features/barack-obama-on-american-music-1235560707/",
+    "publishedAt": "2026-05-19T13:00:00.000Z",
+    "summary": "Again and again, even through our darkest chapters, the power of song has shown the country the way forward",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/best-rock-song-each-year-2000s/",
+    "source": "loudwire",
+    "title": "The Best Rock Song of Each Year of the 2000s (2000-2009)",
+    "url": "https://loudwire.com/best-rock-song-each-year-2000s/",
+    "publishedAt": "2026-05-19T12:38:44.000Z",
+    "summary": "A new century brought about new popular styles and a shift in the rock industry. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/john-5-rob-zombie-motley-crue-not-spoken/",
+    "source": "loudwire",
+    "title": "John 5 Has Not Spoken to Rob Zombie in 4 Years",
+    "url": "https://loudwire.com/john-5-rob-zombie-motley-crue-not-spoken/",
+    "publishedAt": "2026-05-19T11:14:15.000Z",
+    "summary": "The guitarist's decision to join Motley Crue seems to have severed his relationship with his former boss. Continue reading…",
     "image": null
   },
   {
@@ -27,24 +261,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-    "source": "billboard",
-    "title": "Billboard’s Music Industry Events Calendar",
-    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-    "publishedAt": "2026-05-19T04:35:00.000Z",
-    "summary": "A complete rundown of the most important events across the music business.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/ateez-bst-hyde-park-2026-1236251473/",
-    "source": "billboard",
-    "title": "ATEEZ Announced as BST Hyde Park Headliners for U.K. Exclusive Show",
-    "url": "https://www.billboard.com/music/music-news/ateez-bst-hyde-park-2026-1236251473/",
-    "publishedAt": "2026-05-19T04:11:43.000Z",
-    "summary": "The eight-member South Korean group have been confirmed as headliners for BST Hyde Park, marking their only U.K. date of 2026.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-features/drake-iceman-albums-gordo-producer-1235564616/",
     "source": "rolling-stone",
     "title": "Gordo Says He Had No Idea Drake Was Dropping Three Albums",
@@ -63,75 +279,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/latin/gorillaz-the-strokes-twenty-one-pilots-corona-capital-2026-2-1236251463/",
-    "source": "billboard",
-    "title": "Gorillaz, The Strokes & Twenty One Pilots to Headline Mexico’s Corona Capital 2026",
-    "url": "https://www.billboard.com/music/latin/gorillaz-the-strokes-twenty-one-pilots-corona-capital-2026-2-1236251463/",
-    "publishedAt": "2026-05-19T02:47:16.000Z",
-    "summary": "The festival will bring together over 70 acts in Mexico City in November.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/media/podcasts/bts-madonna-shakira-world-cup-halftime-set-time-pop-shop-podcast-1236251401/",
-    "source": "billboard",
-    "title": "How Can BTS, Madonna & Shakira All Squeeze Into an 11-Minute World Cup Halftime Show?",
-    "url": "https://www.billboard.com/media/podcasts/bts-madonna-shakira-world-cup-halftime-set-time-pop-shop-podcast-1236251401/",
-    "publishedAt": "2026-05-19T01:08:40.000Z",
-    "summary": "On the new Billboard Pop Shop Podcast, Katie & Keith are chatting about how the trio of superstar acts will share their time on the July 19 stage.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/lawmakers-slam-live-nation-doj-settlement-ticketmaster/",
-    "source": "billboard",
-    "title": "‘Sweetheart Deal’: Lawmakers Slam Live Nation’s DOJ Settlement & Urge Ticketmaster Breakup",
-    "url": "https://www.billboard.com/pro/lawmakers-slam-live-nation-doj-settlement-ticketmaster/",
-    "publishedAt": "2026-05-19T00:08:07.000Z",
-    "summary": "Congressional Democrats held a so-called \"shadow hearing\" about Live Nation on Monday (May 18).",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/lykke-li-drake-iceman-janice-stfu-i-follow-rivers-1236251291/",
-    "source": "billboard",
-    "title": "Lykke Li Reflects on Drake Interpolating ‘I Follow Rivers’ on ‘Iceman’: ‘I Was Missing Him’",
-    "url": "https://www.billboard.com/music/rb-hip-hop/lykke-li-drake-iceman-janice-stfu-i-follow-rivers-1236251291/",
-    "publishedAt": "2026-05-18T23:19:39.000Z",
-    "summary": "Drizzy previously sampled the Swedish singer on So Far Gone.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/tv-film/ice-cube-mike-epps-last-friday-gentrification-1236251266/",
-    "source": "billboard",
-    "title": "Ice Cube & Mike Epps Say ‘Last Friday’ Will Be About Gentrification",
-    "url": "https://www.billboard.com/culture/tv-film/ice-cube-mike-epps-last-friday-gentrification-1236251266/",
-    "publishedAt": "2026-05-18T22:29:32.000Z",
-    "summary": "After years of rumors, the franchise's fourth installment has finally been greenlit and will start shooting later this year.",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/worldwide-release-date-slipknot-look-outside-your-window-revealed/",
     "source": "loudwire",
     "title": "'Look Outside Your Window' Official Release Date Revealed",
     "url": "https://loudwire.com/worldwide-release-date-slipknot-look-outside-your-window-revealed/",
     "publishedAt": "2026-05-18T22:19:52.000Z",
     "summary": "A worldwide release date for the Slipknot members' long-awaited 'Look Outside Your Window' album has officially been revealed. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/pop/lola-young-tears-apple-music-room-series-can-we-ignore-it-1236251296/",
-    "source": "billboard",
-    "title": "Watch Lola Young Lose Herself in Deeply Emotional Performance for a Small Room of People: ‘Art Is Really All We Have’",
-    "url": "https://www.billboard.com/music/pop/lola-young-tears-apple-music-room-series-can-we-ignore-it-1236251296/",
-    "publishedAt": "2026-05-18T22:15:42.000Z",
-    "summary": "The singer is the first artist to perform for Apple Music's new Music Room series, which launches Tuesday (May 19).",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/video/believe-founders-denis-ladegaillerie-romain-vivien-interview/",
-    "source": "billboard",
-    "title": "Denis Ladegaillerie & Romain Vivien Explain the Global Rise of Their Multibillion-Dollar Music Company | Billboard News",
-    "url": "https://www.billboard.com/video/believe-founders-denis-ladegaillerie-romain-vivien-interview/",
-    "publishedAt": "2026-05-18T22:04:46.000Z",
-    "summary": "Believe founder Denis Ladegaillerie and executive Romain Vivien decode the rise of their multibillion-dollar music company that is commanding 10% of the global digital market. Believe has successfully outmaneuvered the major label system. Billboard News explores why top musical acts like Janet Jackson, Cleo Sol and Russ utilize Believe’s business model to retain master ownership […]",
     "image": null
   },
   {
@@ -171,21 +324,12 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/bruce-springsteen-chris-christie-rift-1235564726/",
-    "source": "rolling-stone",
-    "title": "Bruce Springsteen’s Manager Denies Chris Christie Rift: ‘We Hope to See Him at Our Next 180 Shows’",
-    "url": "https://www.rollingstone.com/music/music-news/bruce-springsteen-chris-christie-rift-1235564726/",
-    "publishedAt": "2026-05-18T19:03:15.000Z",
-    "summary": "The musician may have failed to reciprocate the former governor’s high-five attempt at a recent show, but that doesn’t mean they are feuding. “We’ve all been friends for years,” says Jon Landau",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/6lack-new-music-interview-1235564620/",
-    "source": "rolling-stone",
-    "title": "When 6LACK Found Balance in His Life, His Music Got Even Better",
-    "url": "https://www.rollingstone.com/music/music-features/6lack-new-music-interview-1235564620/",
-    "publishedAt": "2026-05-18T18:22:50.000Z",
-    "summary": "The Atlanta rapper and singer tells us about personal growth, parenthood, and his great new album",
+    "id": "nme-https://news.google.com/rss/articles/CBMiggFBVV95cUxPUzNYcmFfcXZIVDdLVHlwdHB3Ti1RZWh4c1I3TzcwVkQ0b0JhMnllT2poVEhEWXZXaW8tN0k2NHAwaExRTUg1SGM0V3gwdUVGdmxLN1YxS3JpRDNpZndWTTFtWE9Yay1ITHF2bGxXYi1mRjE1bGZ4MlNvOXpqa0R3ZGRR?oc=5",
+    "source": "nme",
+    "title": "Here’s everyone Drake dissed on ‘Iceman’ - NME",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUzNYcmFfcXZIVDdLVHlwdHB3Ti1RZWh4c1I3TzcwVkQ0b0JhMnllT2poVEhEWXZXaW8tN0k2NHAwaExRTUg1SGM0V3gwdUVGdmxLN1YxS3JpRDNpZndWTTFtWE9Yay1ITHF2bGxXYi1mRjE1bGZ4MlNvOXpqa0R3ZGRR?oc=5",
+    "publishedAt": "2026-05-18T19:36:00.000Z",
+    "summary": "Here’s everyone Drake dissed on ‘Iceman’ NME",
     "image": null
   },
   {
@@ -198,39 +342,12 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/elementary-school-phish-musical-gamehendge-1235563950/",
-    "source": "rolling-stone",
-    "title": "A Colorado Elementary School Staged a 75-Minute Phish Musical and It Was Pure Joy",
-    "url": "https://www.rollingstone.com/music/music-features/elementary-school-phish-musical-gamehendge-1235563950/",
-    "publishedAt": "2026-05-18T18:15:53.000Z",
-    "summary": "Yes, they encored with “Tweezer Reprise”",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/news/hayley-williams-mitski-ethel-cain-set-for-all-things-go-festival-2026/",
     "source": "pitchfork",
     "title": "Hayley Williams, Mitski, Ethel Cain Set for All Things Go Festival 2026",
     "url": "https://pitchfork.com/news/hayley-williams-mitski-ethel-cain-set-for-all-things-go-festival-2026/",
     "publishedAt": "2026-05-18T18:14:26.000Z",
     "summary": "Lola Young will also return to the fest since she collapsed during last year’s edition",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/lauren-alaina-advocates-mental-health-acm-awards-2026-1235564437/",
-    "source": "rolling-stone",
-    "title": "Lauren Alaina Tears Up While Addressing Mental Health at ACMs: ‘There Is Always Someone to Listen’",
-    "url": "https://www.rollingstone.com/music/music-country/lauren-alaina-advocates-mental-health-acm-awards-2026-1235564437/",
-    "publishedAt": "2026-05-18T17:23:28.000Z",
-    "summary": "The singer-songwriter introduced Dan + Shay, who played their new song “Say So” in honor of their late friend, music executive Ben Vaughn",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/sonic-temple-2026-highlights/",
-    "source": "loudwire",
-    "title": "6 Big Things That Happened at Sonic Temple 2026",
-    "url": "https://loudwire.com/sonic-temple-2026-highlights/",
-    "publishedAt": "2026-05-18T16:22:50.000Z",
-    "summary": "Sonic Temple 2026 has some amazing headline sets, several cool collaborations and one awesome tribute to a lost rocker. Continue reading…",
     "image": null
   },
   {
@@ -243,48 +360,12 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/rolling-stone-residency-live-1235558769/",
-    "source": "rolling-stone",
-    "title": "Rolling Stone Announces the Rolling Stone Residency at New York’s Cherry Lane Theatre",
-    "url": "https://www.rollingstone.com/music/music-news/rolling-stone-residency-live-1235558769/",
-    "publishedAt": "2026-05-18T16:00:00.000Z",
-    "summary": "The historic West Village venue will host six exclusive interviews and intimate performances this year",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/smashing-pumpkins-tour-rats-in-a-cage-1235564532/",
-    "source": "rolling-stone",
-    "title": "Smashing Pumpkins Announce Rats in a Cage Tour to Celebrate ‘Mellon Collie and the Infinite Sadness’",
-    "url": "https://www.rollingstone.com/music/music-news/smashing-pumpkins-tour-rats-in-a-cage-1235564532/",
-    "publishedAt": "2026-05-18T15:56:55.000Z",
-    "summary": "\"Staging a Mellon Collie-themed show is something we’ve discussed for over a decade, and finally the stars have aligned,\" says Billy Corgan",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-album-reviews/drake-review-iceman-habibti-maid-of-honour-1235564438/",
-    "source": "rolling-stone",
-    "title": "Drake’s ‘Iceman’ Trilogy Turns ‘Not Like Us’ Inside Out",
-    "url": "https://www.rollingstone.com/music/music-album-reviews/drake-review-iceman-habibti-maid-of-honour-1235564438/",
-    "publishedAt": "2026-05-18T15:49:32.000Z",
-    "summary": "Across three new albums, the superstar reframes Kendrick Lamar’s victory as a symptom of the internet’s increasingly rigid authenticity politics",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/news/bladee-jorja-smith-lucki-and-more-this-weeks-pitchfork-selects-playlist/",
     "source": "pitchfork",
     "title": "Bladee, Jorja Smith, Lucki, and More: This Week’s Pitchfork Selects Playlist",
     "url": "https://pitchfork.com/news/bladee-jorja-smith-lucki-and-more-this-weeks-pitchfork-selects-playlist/",
     "publishedAt": "2026-05-18T15:45:30.000Z",
     "summary": "Our weekly playlist highlights songs that our writers, editors, and contributors are listening to on repeat",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/all-things-go-nyc-2026-lineup-lola-young-zara-larsson-1235564515/",
-    "source": "rolling-stone",
-    "title": "Lola Young Plots Return to All Things Go Fest NYC: ‘We Have Unfinished Business’",
-    "url": "https://www.rollingstone.com/music/music-news/all-things-go-nyc-2026-lineup-lola-young-zara-larsson-1235564515/",
-    "publishedAt": "2026-05-18T15:06:50.000Z",
-    "summary": "The singer-songwriter — who collapsed onstage at last year's event — will headline alongside Zara Larsson, Muna, and Brandi Carlile",
     "image": null
   },
   {
@@ -324,15 +405,6 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/best-1990s-instrumental-prog-metal-albums/",
-    "source": "loudwire",
-    "title": "5 Best ‘90s Instrumental Prog Metal Albums (Ranked)",
-    "url": "https://loudwire.com/best-1990s-instrumental-prog-metal-albums/",
-    "publishedAt": "2026-05-18T13:00:24.000Z",
-    "summary": "Do we prefer the first or second Liquid Tension Experiment LP? Click to find out! Continue reading…",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/features/psychedelic-and-spiritual-adventures-wild-parties-tragedies-and-a-surreal-trip-into-the-unknown-the-inside-story-of-the-magical-mystery-tour-154483/",
     "source": "uncut",
     "title": "Psychedelic and spiritual adventures, wild parties, tragedies, and a surreal trip into the unknown – the inside story of the Magical Mystery Tour",
@@ -342,30 +414,12 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/castle-rat-riley-pinkerton-laughs-industry-plant-interview/",
-    "source": "loudwire",
-    "title": "Castle Rat Singer Laughs Off 'Industry Plant' Talk",
-    "url": "https://loudwire.com/castle-rat-riley-pinkerton-laughs-industry-plant-interview/",
-    "publishedAt": "2026-05-18T12:39:18.000Z",
-    "summary": "Castle Rat's Riley Pinkerton speaks about the growing fan investment in the band and the passion they put toward the music, art and stage theatrics. Continue reading…",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMimgFBVV95cUxPbkVhTjRrZUZzZXA1eDh6VlBTdjEtUmdaSkFtRHlKay1rWVZsMlQ0UFNlRXMwYW9RSS1YdDdOQjhWTDdDYzQtTVBHQ3VpeEhuaXV3Ynh3RllIVk1JNXFHRTUwMlZpd3ltZTZ6cVFsYW40U3pPTXJITnp1OHVJZG1BcjRaSzRtQjZiX0t5eWNSaXNOYW1MWGpyU2VR?oc=5",
     "source": "nme",
     "title": "Harry Styles live in Amsterdam: a hopeful celebration of community and connection - NME",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbkVhTjRrZUZzZXA1eDh6VlBTdjEtUmdaSkFtRHlKay1rWVZsMlQ0UFNlRXMwYW9RSS1YdDdOQjhWTDdDYzQtTVBHQ3VpeEhuaXV3Ynh3RllIVk1JNXFHRTUwMlZpd3ltZTZ6cVFsYW40U3pPTXJITnp1OHVJZG1BcjRaSzRtQjZiX0t5eWNSaXNOYW1MWGpyU2VR?oc=5",
     "publishedAt": "2026-05-18T12:04:50.000Z",
     "summary": "Harry Styles live in Amsterdam: a hopeful celebration of community and connection NME",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/smashing-pumpkins-mellon-collie-anniversary-tour-2026/",
-    "source": "loudwire",
-    "title": "Smashing Pumpkins Announce 'Mellon Collie' 30th Anniversary Tour",
-    "url": "https://loudwire.com/smashing-pumpkins-mellon-collie-anniversary-tour-2026/",
-    "publishedAt": "2026-05-18T11:40:41.000Z",
-    "summary": "The Rats in a Cage Tour will take Billy Corgan and company across North America. Continue reading…",
     "image": null
   },
   {
@@ -414,15 +468,6 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMiugFBVV95cUxQdll1UGlsak1PNmZIZC1XNTEtRUw2MXFOUWdwazJuTzJUbkdhTWhmOTE0YTRDaHZqVWFGOVBUZDYxUVRaZk5oYTcyZFJXX3Z4NkdwN3F1S2xTd1gydWd0V0N5enhlUXRNQzljMHZWQUlvclRwVFBTOFpYZHFCanBoMS0tblJyWmZfTUNULUpMdWxraThkb3pDS1NVcFJucEd2U2szdFNOUXBWdVo1em5DM09TNHN3R1JDNXc?oc=5",
-    "source": "nme",
-    "title": "Smashing Pumpkins hold 'requiem' for 'Zero' as they play special gig to announce 'Mellon Collie And The Infinite Sadness' tour - NME",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdll1UGlsak1PNmZIZC1XNTEtRUw2MXFOUWdwazJuTzJUbkdhTWhmOTE0YTRDaHZqVWFGOVBUZDYxUVRaZk5oYTcyZFJXX3Z4NkdwN3F1S2xTd1gydWd0V0N5enhlUXRNQzljMHZWQUlvclRwVFBTOFpYZHFCanBoMS0tblJyWmZfTUNULUpMdWxraThkb3pDS1NVcFJucEd2U2szdFNOUXBWdVo1em5DM09TNHN3R1JDNXc?oc=5",
-    "publishedAt": "2026-05-18T09:56:27.000Z",
-    "summary": "Smashing Pumpkins hold 'requiem' for 'Zero' as they play special gig to announce 'Mellon Collie And The Infinite Sadness' tour NME",
-    "image": null
-  },
-  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMiswFBVV95cUxOX1hreEZZNUhnV0NHUkZlV3BhS3FLcjRvNUsxTWNfZ1c1T1lGNXBSbDNmLXF0QkNNMW1BVGdmSTFaQWwzY0l2Vm9Uc1hQTWZSUHBjVi03RUV0by04aW9qN3RGTUV6WTF1YTNNbFpkcUp2czNXRnBKTkNYR19TWS1zWkh3eTVUNU1oLURkYklqbTZ1Y29XVmhFNTJjWGVuOU43OWNSR3lyazlEUy1LNENlaHV5MA?oc=5",
     "source": "kerrang",
     "title": "Green Lung announce massive Dance To The Grave European tour - Kerrang!",
@@ -447,15 +492,6 @@
     "url": "https://pitchfork.com/news/the-smashing-pumpkins-announce-the-rats-in-a-cage-tour/",
     "publishedAt": "2026-05-18T03:10:53.000Z",
     "summary": "Billy Corgan and co. will play “two unique sets” at each show",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/anthrax-frank-bello-new-album-song-interview/",
-    "source": "loudwire",
-    "title": "Frank Bello Celebrates New Music, Reflects on Grammy Award + More",
-    "url": "https://loudwire.com/anthrax-frank-bello-new-album-song-interview/",
-    "publishedAt": "2026-05-17T22:54:34.000Z",
-    "summary": "Anthrax's Frank Bello dives into his band's next album, 'Cursum Perficio,' and takes some time to reflect on his recent Grammy award. Continue reading…",
     "image": null
   },
   {
@@ -540,39 +576,12 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/news/ibeyi-announce-new-album-offering/",
-    "source": "pitchfork",
-    "title": "Ibeyi Announce New Album Offering",
-    "url": "https://pitchfork.com/news/ibeyi-announce-new-album-offering/",
-    "publishedAt": "2026-05-15T21:03:05.000Z",
-    "summary": "Their first full-length in four years arrives this summer",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/news/jermaine-jackson-told-to-pay-6-5-million-dollars-after-failing-to-contest-rape-lawsuit/",
-    "source": "pitchfork",
-    "title": "Jermaine Jackson Told to Pay $6.5 Million After Failing to Contest Rape Case",
-    "url": "https://pitchfork.com/news/jermaine-jackson-told-to-pay-6-5-million-dollars-after-failing-to-contest-rape-lawsuit/",
-    "publishedAt": "2026-05-15T18:03:15.000Z",
-    "summary": "A default judgment was delivered in a lawsuit accusing Jackson of a 1988 rape",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/stickin-boy-a-punk-rock-musical-theatre-review/",
     "source": "louder-than-war",
     "title": "Stickin’ Boy: A Punk Rock Musical – Theatre Review",
     "url": "https://louderthanwar.com/stickin-boy-a-punk-rock-musical-theatre-review/",
     "publishedAt": "2026-05-15T17:31:49.000Z",
     "summary": "Stickin’ Boy – A Punk Rock Musical Etcetera Theatre, Camden Following our preview, Richard David reviews a performance of the sold-out play/musical at Camden’s most intimate theatre. With a successful Green Day musical on Broadway, ‘jukebox musicals’ featuring Madness songs in the West End, could this, authentically gritty punk rock musical, which links the music […] The post Stickin’ Boy: A Punk Rock Musical – Theatre Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/news/bladee-reveals-new-album-sulfur-surfer/",
-    "source": "pitchfork",
-    "title": "Bladee Reveals New Album Sulfur Surfer",
-    "url": "https://pitchfork.com/news/bladee-reveals-new-album-sulfur-surfer/",
-    "publishedAt": "2026-05-15T16:56:27.000Z",
-    "summary": "“Blondie” leads the Drain Gang enigma’s follow-up to 2024’s Cold Visions",
     "image": null
   },
   {
@@ -600,15 +609,6 @@
     "url": "https://louderthanwar.com/jacob-augustine-i-love-you-forever-album-review/",
     "publishedAt": "2026-05-15T09:00:15.000Z",
     "summary": "Jacob Augustine: I Love You Forever (Team Love Records) Released May 22nd Jacob Augustine returns with I Love You Forever. Amy Jay Britton reviews, and finds a record full of unrestrained vocals and inspiring imagery. The enigmatic Jacob Augustine is something of the Scarlet Pimpernel of the experimental folk world; impossible to pin down and […] The post Jacob Augustine: I Love You Forever – Album Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "louder-than-war-https://louderthanwar.com/watch-this-micko-the-mellotronics-release-new-single-shadow/",
-    "source": "louder-than-war",
-    "title": "Watch this! Micko & The Mellotronics release new single Shadow.",
-    "url": "https://louderthanwar.com/watch-this-micko-the-mellotronics-release-new-single-shadow/",
-    "publishedAt": "2026-05-15T07:49:34.000Z",
-    "summary": "Photo credit: Peter Tainsh Coming up to three years since his last album Le Vice Anglais reviewed here by Ged Babey, Micko and his Mellotronics are back, as fresh and witty as ever, poised to release another album to kick off the summer season. You want intelligence from a genuine British eccentric without being up […] The post Watch this! Micko & The Mellotronics release new single Shadow. appeared first on Louder Than War.",
     "image": null
   },
   {
