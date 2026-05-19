@@ -1,5 +1,50 @@
 [
   {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/billy-joel-billy-and-me-biopic-life-rights-john-ottman-1235565980/",
+    "source": "rolling-stone",
+    "title": "Billy Joel Denounces Upcoming Biopic, Calls Film ‘Legally and Professionally Misguided’",
+    "url": "https://www.rollingstone.com/music/music-news/billy-joel-billy-and-me-biopic-life-rights-john-ottman-1235565980/",
+    "publishedAt": "2026-05-19T23:04:26.000Z",
+    "summary": "Reps for the singer said that Joel \"has not authorized or supported\" the making of the John Ottoman-directed doc Billy & Me",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/making-time-festival-2026-lineup-philadelphia-fort-mifflin-1236251978/",
+    "source": "billboard",
+    "title": "Bicep, Daphni & Kim Gordon Lead Making Time ∞ 2026 Lineup",
+    "url": "https://www.billboard.com/music/music-news/making-time-festival-2026-lineup-philadelphia-fort-mifflin-1236251978/",
+    "publishedAt": "2026-05-19T23:02:06.000Z",
+    "summary": "The electronic festival returns to Philadelphia this Sept. 18-20.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/hot-97-summer-jam-lineup-2026-fetty-wap-ice-spice-dababy-1236252075/",
+    "source": "billboard",
+    "title": "Fetty Wap, French Montana, Ice Spice, DaBaby & Rick Ross Lead Hot 97 Summer Jam 2026 Lineup",
+    "url": "https://www.billboard.com/music/rb-hip-hop/hot-97-summer-jam-lineup-2026-fetty-wap-ice-spice-dababy-1236252075/",
+    "publishedAt": "2026-05-19T23:00:23.000Z",
+    "summary": "Set for New Jersey's Prudential Center in July, Cash Cobain, G Herbo & Max B will also perform.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/country/chicks-natalie-maines-blasts-donald-trump-social-media-post-1236252095/",
+    "source": "billboard",
+    "title": "The Chicks’ Natalie Maines Blasts Donald Trump in Scathing Message: ‘Our Democracy Is Disappearing Right Before Our Eyes’",
+    "url": "https://www.billboard.com/music/country/chicks-natalie-maines-blasts-donald-trump-social-media-post-1236252095/",
+    "publishedAt": "2026-05-19T22:37:30.000Z",
+    "summary": "Maines calls Trump a \"fugly slut\" in her Instagram caption.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/is-that-owen-wilson-in-the-rolling-loud-movie-trailer/",
+    "source": "pitchfork",
+    "title": "Is That Owen Wilson in the Rolling Loud Movie Trailer?",
+    "url": "https://pitchfork.com/news/is-that-owen-wilson-in-the-rolling-loud-movie-trailer/",
+    "publishedAt": "2026-05-19T22:13:14.000Z",
+    "summary": "Did we also mention Travis Scott is in this?",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/chart-beat/josiah-queen-leads-hot-christian-songs-chart-first-time-1236252147/",
     "source": "billboard",
     "title": "Josiah Queen Commands Hot Christian Songs Chart for First Time With ‘Demons’",
@@ -81,39 +126,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/bebe-rexha-faithless-new-religion-no-1-warm-global-dance-radio-1236251871/",
-    "source": "billboard",
-    "title": "Bebe Rexha & Faithless’ ‘New Religion’ Hits No. 1 on WARM Global Dance Radio Chart",
-    "url": "https://www.billboard.com/music/chart-beat/bebe-rexha-faithless-new-religion-no-1-warm-global-dance-radio-1236251871/",
-    "publishedAt": "2026-05-19T19:51:28.000Z",
-    "summary": "The chart ranks the top dance tracks worldwide, based on monitored airplay across 200-plus dance stations in more than 30 countries.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-latin/colombian-folk-music-icon-toto-la-momposina-dead-85-1235565848/",
     "source": "rolling-stone",
     "title": "Colombian Folk Music Icon Totó La Momposina Dead at 85",
     "url": "https://www.rollingstone.com/music/music-latin/colombian-folk-music-icon-toto-la-momposina-dead-85-1235565848/",
     "publishedAt": "2026-05-19T19:44:34.000Z",
     "summary": "The renowned “Queen of Cumbia” died amid ongoing medical complications",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/nashville-super-bowl-2030-halftime-show-1236251810/",
-    "source": "billboard",
-    "title": "Nashville to Host Super Bowl LXIV in 2030: Is Country Coming Back to the Halftime Show?",
-    "url": "https://www.billboard.com/music/music-news/nashville-super-bowl-2030-halftime-show-1236251810/",
-    "publishedAt": "2026-05-19T19:25:46.000Z",
-    "summary": "The game will go down at the new Nissan Stadium.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/saweetie-jason-derulo-sued-japan-afro-jam-festival/",
-    "source": "billboard",
-    "title": "Saweetie & Jason Derulo Sued for Backing Out of Japan’s Afro Jam Fest — But Still Keeping Advances",
-    "url": "https://www.billboard.com/pro/saweetie-jason-derulo-sued-japan-afro-jam-festival/",
-    "publishedAt": "2026-05-19T19:24:37.000Z",
-    "summary": "The two artists are facing separate lawsuits over their scrapped slots at the Japanese Afrobeats festival last summer.",
     "image": null
   },
   {
@@ -333,21 +351,21 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/fuerza-regida-jop-chevy-454-truck-tribute-1235563757/",
-    "source": "rolling-stone",
-    "title": "Why Fuerza Regida Calls the Chevy 454 Their Favorite ‘Time Machine’",
-    "url": "https://www.rollingstone.com/music/music-features/fuerza-regida-jop-chevy-454-truck-tribute-1235563757/",
-    "publishedAt": "2026-05-19T13:00:00.000Z",
-    "summary": "In the Mexican American community, it’s everyone’s dream truck — and a symbol of hard work",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/best-rock-song-each-year-2000s/",
     "source": "loudwire",
     "title": "The Best Rock Song of Each Year of the 2000s (2000-2009)",
     "url": "https://loudwire.com/best-rock-song-each-year-2000s/",
     "publishedAt": "2026-05-19T12:38:44.000Z",
     "summary": "A new century brought about new popular styles and a shift in the rock industry. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMi3AFBVV95cUxObE4xSV9RaHdXQXdyU1lwZ2FpbzZvY2FuYk5pRWNPSzVWS3FULWw4MEtGSVYwOFloQTAwM3gtd0NOM2pZVklweE5ISUUtNmc5QTVpYjZIYmpvblNvZnplZ05iNVRxLWE1NVpkWmFOSW5tdDE2Smt1b0FzdXAtM19XNjZabUNzUmpGODRBaTVxQzZwdTluWWF6MExRaVA3QWdENWNSaGNrUFMzM3ZORTNlOGh1UTRqM05DcUVIdkZFc19ybU1oREJOT0VDTnpuQTVxSmZUMzZodWRUeTlv?oc=5",
+    "source": "nme",
+    "title": "Albert Hammond Jr defends The Strokes’ “intoxicatingly good” ‘Reality Awaits’: \"It’s my favourite album we’ve ever done” - NME",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObE4xSV9RaHdXQXdyU1lwZ2FpbzZvY2FuYk5pRWNPSzVWS3FULWw4MEtGSVYwOFloQTAwM3gtd0NOM2pZVklweE5ISUUtNmc5QTVpYjZIYmpvblNvZnplZ05iNVRxLWE1NVpkWmFOSW5tdDE2Smt1b0FzdXAtM19XNjZabUNzUmpGODRBaTVxQzZwdTluWWF6MExRaVA3QWdENWNSaGNrUFMzM3ZORTNlOGh1UTRqM05DcUVIdkZFc19ybU1oREJOT0VDTnpuQTVxSmZUMzZodWRUeTlv?oc=5",
+    "publishedAt": "2026-05-19T12:33:52.000Z",
+    "summary": "Albert Hammond Jr defends The Strokes’ “intoxicatingly good” ‘Reality Awaits’: \"It’s my favourite album we’ve ever done” NME",
     "image": null
   },
   {
@@ -441,15 +459,6 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/news/chrome-hearts-clothing-drops-neil-young-lawsuit/",
-    "source": "pitchfork",
-    "title": "Chrome Hearts Clothing Drops Neil Young Lawsuit",
-    "url": "https://pitchfork.com/news/chrome-hearts-clothing-drops-neil-young-lawsuit/",
-    "publishedAt": "2026-05-18T15:04:21.000Z",
-    "summary": "The Los Angeles brand that shares its name with Young’s band has voluntarily dropped its trademark infringement claim",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMivwFBVV95cUxOeGVXUFcwOWJBelNCblpuYnNHaF9FNXpHNTE3NjZJSVA1ajhQY0xWYmFNSk40VzFON0JYMjg5RW1hcWFWY1lEYmpNbUlYZE9TWUhQVEpMOU5vMUFqeG90MHhSdDBtUkNvdUNhWGJjRWdXVVJiYTJuRmc1LTVHc01sRkxwcmRET1djLVJwSHdOOWVEcWtfWEIwTE1ubzZZRm9BR1F3Uk9KRGlHWGVmaktmOUl2ekctUGFLdFp3SWNCSQ?oc=5",
     "source": "nme",
     "title": "Blondshell launches new era with bruising single 'Heart Has To Work So Hard' and biggest UK, European and North American tour to date - NME",
@@ -474,15 +483,6 @@
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbkVhTjRrZUZzZXA1eDh6VlBTdjEtUmdaSkFtRHlKay1rWVZsMlQ0UFNlRXMwYW9RSS1YdDdOQjhWTDdDYzQtTVBHQ3VpeEhuaXV3Ynh3RllIVk1JNXFHRTUwMlZpd3ltZTZ6cVFsYW40U3pPTXJITnp1OHVJZG1BcjRaSzRtQjZiX0t5eWNSaXNOYW1MWGpyU2VR?oc=5",
     "publishedAt": "2026-05-18T12:04:50.000Z",
     "summary": "Harry Styles live in Amsterdam: a hopeful celebration of community and connection NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMiywFBVV95cUxOTjYzR2VSX2ZKb0ZkRG5aNkFiZzdhUkhvbUZqN1RFS0Q2R3NhYmNxNnUwYlJMMjRNMGRreG4yQ3VPQ2IzaXlEa2tVbEtaNnpyVTVURnA1RDk2ZDBYMVhGUlRZVWlWb0tSbTVJRG9XTU13OFRyU2c1dS12eHQtVk5hc2Zfb2RCZTloeUZHWjBWT1J5dWRNYjZyS1p2ZVE4RFFYM1B4Uko4VEFSc0VMS0xWcmJxdUtQZ1ZiSzk1YXlMTjVLQWxFRkM3YXZ4aw?oc=5",
-    "source": "nme",
-    "title": "Paul Weller, Madness' Suggs, Dexys' Kevin Rowland, Sex Pistols' Glen Matlock and Roxy Music's Andy McKay form supergroup at London Artists For Gaza fundraiser - NME",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTjYzR2VSX2ZKb0ZkRG5aNkFiZzdhUkhvbUZqN1RFS0Q2R3NhYmNxNnUwYlJMMjRNMGRreG4yQ3VPQ2IzaXlEa2tVbEtaNnpyVTVURnA1RDk2ZDBYMVhGUlRZVWlWb0tSbTVJRG9XTU13OFRyU2c1dS12eHQtVk5hc2Zfb2RCZTloeUZHWjBWT1J5dWRNYjZyS1p2ZVE4RFFYM1B4Uko4VEFSc0VMS0xWcmJxdUtQZ1ZiSzk1YXlMTjVLQWxFRkM3YXZ4aw?oc=5",
-    "publishedAt": "2026-05-18T10:57:51.000Z",
-    "summary": "Paul Weller, Madness' Suggs, Dexys' Kevin Rowland, Sex Pistols' Glen Matlock and Roxy Music's Andy McKay form supergroup at London Artists For Gaza fundraiser NME",
     "image": null
   },
   {
