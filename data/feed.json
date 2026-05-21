@@ -1,5 +1,23 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/pro/cameron-hoy-brad-banducci-teg/",
+    "source": "billboard",
+    "title": "Cameron Hoy Promoted, Brad Banducci Exits as CEO of TEG After One Year",
+    "url": "https://www.billboard.com/pro/cameron-hoy-brad-banducci-teg/",
+    "publishedAt": "2026-05-21T02:57:06.000Z",
+    "summary": "Cameron Hoy, chief operating officer and head of global ticketing, rises into the vacant, top position.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/watch-kevin-morby-and-carrie-brownstein-perform-sleater-kinneys-modern-girl/",
+    "source": "pitchfork",
+    "title": "Watch Kevin Morby and Carrie Brownstein Perform Sleater-Kinney’s “Modern Girl”",
+    "url": "https://pitchfork.com/news/watch-kevin-morby-and-carrie-brownstein-perform-sleater-kinneys-modern-girl/",
+    "publishedAt": "2026-05-20T23:26:17.000Z",
+    "summary": "Brownstein joined Morby onstage at his show in Portland (naturally) to play the 2005 favorite",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/chart-beat/bruno-mars-latin-charts-lo-arriesgo-todo-spanish-risk-it-all-1236252892/",
     "source": "billboard",
     "title": "Bruno Mars Soars on Latin Charts With ‘Lo Arriesgo Todo,’ Spanish Rendition of ‘Risk It All’",
@@ -87,15 +105,6 @@
     "url": "https://www.billboard.com/pro/peanuts-music-lawsuits-charlie-brown-christmas-songs-sues/",
     "publishedAt": "2026-05-20T20:49:31.000Z",
     "summary": "Four new lawsuits claim Vince Guaraldi's iconic score has been used without permission or payment, including in a federal agency's digital Christmas card.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/shamrock-capital-raises-800-million-music-film-tv-rights/",
-    "source": "billboard",
-    "title": "Shamrock Capital Raises More Than $800 Million in Capital Commitments for Entertainment IP",
-    "url": "https://www.billboard.com/pro/shamrock-capital-raises-800-million-music-film-tv-rights/",
-    "publishedAt": "2026-05-20T20:41:58.000Z",
-    "summary": "The raise for Shamrock's fourth fund targeting film, TV, music and other content rights beat the initial target of $700 million in committments.",
     "image": null
   },
   {
@@ -324,6 +333,15 @@
     "image": null
   },
   {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMiogFBVV95cUxQUGtXdF80NWRNQ1BQWjduMEZRV1NJSHFJNjUtM1lTb3NwMnBqVUdsREpjQ3lmY1ZpSXhmUVBxaG1MVmtTc0tOZnZuZGVNcDI2UUNUc2J6bllPVFNGMk11MjZCQ1pqR0dPcTJ5b0RKUVByMno0RTd2U1pKTEptRXdUc0JDRzNfVWZlN0YwelhoM1JST2tFdXhTeFZ6cjlLZmYyZ0E?oc=5",
+    "source": "kerrang",
+    "title": "156/Silence announce new album From A Distance and share lead single No Arms - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUGtXdF80NWRNQ1BQWjduMEZRV1NJSHFJNjUtM1lTb3NwMnBqVUdsREpjQ3lmY1ZpSXhmUVBxaG1MVmtTc0tOZnZuZGVNcDI2UUNUc2J6bllPVFNGMk11MjZCQ1pqR0dPcTJ5b0RKUVByMno0RTd2U1pKTEptRXdUc0JDRzNfVWZlN0YwelhoM1JST2tFdXhTeFZ6cjlLZmYyZ0E?oc=5",
+    "publishedAt": "2026-05-20T12:08:00.000Z",
+    "summary": "156/Silence announce new album From A Distance and share lead single No Arms Kerrang!",
+    "image": null
+  },
+  {
     "id": "pitchfork-https://pitchfork.com/news/arab-strap-launch-new-album-half-told-tales-with-acerbic-single-you-you-you/",
     "source": "pitchfork",
     "title": "Arab Strap Launch New Album Half-Told Tales With Acerbic Single “You You You”",
@@ -474,15 +492,6 @@
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRXRndzU2NjZ3ZTFzbkpfbVFqZXljR1FuZmx5M0o3UDU4TXhwOUhJaF9GcUg0RG5uTjAyT1NXT29pNUVlWUZHSGo0bTdkNmdyaXRaVHN2Q0NpX0tkd2VBMG9XZ3Z6Qks4Tk9wR0g0alVjckhIb3ByS09ldzNueEExdE1fV1NYdGlWLUlURVBmTTRpWm9td2NWei1CRFE3ZnZrM3FqVGVuNkM1V3cyc2ltWHBwNFAxZw?oc=5",
     "publishedAt": "2026-05-19T17:33:37.000Z",
     "summary": "Kylie Minogue responds to rumours of Madonna collaboration on ‘Confessions II’ NME",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/news/they-are-gutting-a-body-of-water-detail-us-tour/",
-    "source": "pitchfork",
-    "title": "They Are Gutting a Body of Water Are Going on a US Tour",
-    "url": "https://pitchfork.com/news/they-are-gutting-a-body-of-water-detail-us-tour/",
-    "publishedAt": "2026-05-19T17:33:27.000Z",
-    "summary": "They also released a new song with Horse Jumper of Love",
     "image": null
   },
   {
@@ -708,15 +717,6 @@
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU0NQZWdWaWVxM3JQejhZWS1Nczcyc2JEbTB0RTlMRVVZV2xwUEI5Umk1LVVSaWZuRHYzVG5kV2FRTi04ZmhHRExESFZlTjE2UW40V3JDZWFjZmIzNkdBM3pRNmVSTWdmUnZmbUZ1V19SWUVwMU00Z0Qzb1pFX3NxaG9VY21wYWJYaFJEVA?oc=5",
     "publishedAt": "2026-05-14T08:09:00.000Z",
     "summary": "Album review: Super Sometimes – Show The World What’s Underneath Kerrang!",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMimAFBVV95cUxNRmNLYmRkTjM0SmM2R2x0RDJOMHA0NTFHMXB1WThvN2lzLXlJVzgwUkZWVnd2c1IyWXQ2dzkybGtGbTNOOTJaTEVFOUlTY2RESmRfaVJmSTRJTldWaDUtOUtfX2VhUmdEdVI4Rk1iV2hYVHBCaDRyb3JJNE1EZU1nUW5IemRSZC0tLWlWUWswdFBCcVdrU1BQNA?oc=5",
-    "source": "kerrang",
-    "title": "What are My Chemical Romance teasing for Danger Days' 15th anniversary? - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRmNLYmRkTjM0SmM2R2x0RDJOMHA0NTFHMXB1WThvN2lzLXlJVzgwUkZWVnd2c1IyWXQ2dzkybGtGbTNOOTJaTEVFOUlTY2RESmRfaVJmSTRJTldWaDUtOUtfX2VhUmdEdVI4Rk1iV2hYVHBCaDRyb3JJNE1EZU1nUW5IemRSZC0tLWlWUWswdFBCcVdrU1BQNA?oc=5",
-    "publishedAt": "2026-05-13T15:55:00.000Z",
-    "summary": "What are My Chemical Romance teasing for Danger Days' 15th anniversary? Kerrang!",
     "image": null
   }
 ]
