@@ -1,5 +1,50 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/music-news/neutro-shorty-el-disco-de-salsa-new-music-poll-results-1236255854/",
+    "source": "billboard",
+    "title": "Fans Choose Neutro Shorty’s ‘El Disco de Salsa’ as This Week’s Favorite New Music",
+    "url": "https://www.billboard.com/music/music-news/neutro-shorty-el-disco-de-salsa-new-music-poll-results-1236255854/",
+    "publishedAt": "2026-05-24T20:31:25.000Z",
+    "summary": "The Venezuelan rapper's new album earned 75% of the vote.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/top-grossing-music-biopics-movies/",
+    "source": "billboard",
+    "title": "‘Michael’ Closing in on ‘Bohemian Rhapsody’ as Top-Grossing Music Biopic Worldwide: See the Full List",
+    "url": "https://www.billboard.com/lists/top-grossing-music-biopics-movies/",
+    "publishedAt": "2026-05-24T20:28:13.000Z",
+    "summary": "The films on this list cover a wide range of genres, including rap, classical, country, Latin and contemporary Christian.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/most-weeks-at-no-1-billboard-200-taylor-swift-the-beatles/",
+    "source": "billboard",
+    "title": "Taylor Swift, The Beatles, Elvis & More Artists With the Most Weeks at No. 1 on the Billboard 200: Full List",
+    "url": "https://www.billboard.com/lists/most-weeks-at-no-1-billboard-200-taylor-swift-the-beatles/",
+    "publishedAt": "2026-05-24T20:15:01.000Z",
+    "summary": "Drake is now tied with Fleetwood Mac and The Rolling Stones.",
+    "image": null
+  },
+  {
+    "id": "louder-than-war-https://louderthanwar.com/big-special-interview-on-ojoy-ep-big-hooks-and-tough-times/",
+    "source": "louder-than-war",
+    "title": "Big Special Interview – On O’Joy! EP, Big Hooks and Tough Times!",
+    "url": "https://louderthanwar.com/big-special-interview-on-ojoy-ep-big-hooks-and-tough-times/",
+    "publishedAt": "2026-05-24T19:36:45.000Z",
+    "summary": "Big Special release their new EP O’ Joy! on the 5th of June, but when is an album not an album? In this fascinating interview with Louder Than War’s Nigel Carr, Big Special discuss their new ‘EP’ O’ Joy, their working-class roots, how success changes artists, keeping the honesty of the song writing, their rapid […] The post Big Special Interview – On O’Joy! EP, Big Hooks and Tough Times! appeared first on Louder Than War.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/drake-iceman-habibti-maid-of-honour-top-billboard-200-chart/",
+    "source": "billboard",
+    "title": "Drake Makes History at Nos. 1, 2 & 3 on Billboard 200 With ‘ICEMAN,’ ‘HABIBTI’ & ‘MAID OF HONOUR’",
+    "url": "https://www.billboard.com/lists/drake-iceman-habibti-maid-of-honour-top-billboard-200-chart/",
+    "publishedAt": "2026-05-24T19:25:18.000Z",
+    "summary": "He’s the first artist to hold the top three album on the Billboard 200 in the same week.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/culture/pride/beartooth-caleb-shomo-comes-out-as-gay-wife-reaction-1236255812/",
     "source": "billboard",
     "title": "Beartooth’s Caleb Shomo Comes Out as Gay, Wife Responds After 14-Year Marriage",
@@ -20,7 +65,7 @@
   {
     "id": "billboard-https://www.billboard.com/music/music-news/selena-gomez-only-murders-london-filming-photos-1236255805/",
     "source": "billboard",
-    "title": "Selena Gomez Shares Behind-the-Scenes Photos From ‘Only Murders’ Filming in London",
+    "title": "Selena Gomez Joins Sabrina Carpenter’s Viral ‘House Tour’ Trend While Filming ‘Only Murders’ in London",
     "url": "https://www.billboard.com/music/music-news/selena-gomez-only-murders-london-filming-photos-1236255805/",
     "publishedAt": "2026-05-24T17:21:16.000Z",
     "summary": "The singer-actress posted a clip of herself joining Sabrina Carpenter’s viral “House Tour” trend.",
@@ -198,39 +243,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/kpop-demon-hunters-movie-official-slime-kit-buy-online-1236255736/",
-    "source": "billboard",
-    "title": "The Official ‘KPop Demon Hunters’ Slime Kit Comes With a Chance for a ‘Golden Slime’ Blind Box Reveal",
-    "url": "https://www.billboard.com/culture/product-recommendations/kpop-demon-hunters-movie-official-slime-kit-buy-online-1236255736/",
-    "publishedAt": "2026-05-24T01:03:22.000Z",
-    "summary": "Each kit features colors, scents and mix-ins inspired by Rumi, Mira, Zoey and Derpy, along with a 1/1000 chance to reveal a 'golden slime' pack.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/indianapolis-500-how-to-watch-online-livestream-1235979121/",
-    "source": "billboard",
-    "title": "Here’s Where to Watch the Indianapolis 500 Race Live Online",
-    "url": "https://www.billboard.com/culture/product-recommendations/indianapolis-500-how-to-watch-online-livestream-1235979121/",
-    "publishedAt": "2026-05-24T01:00:17.000Z",
-    "summary": "The 110th annual Indy 500 starts on Sunday (May 24) — watch online for free.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-features/tamer-nafar-john-lennon-influence-palestinian-stories-1235566218/",
     "source": "rolling-stone",
     "title": "With John Lennon as Muse, Palestinian Rapper Tamer Nafar Tells Stories of Past and Future",
     "url": "https://www.rollingstone.com/music/music-features/tamer-nafar-john-lennon-influence-palestinian-stories-1235566218/",
     "publishedAt": "2026-05-24T00:30:36.000Z",
     "summary": "The DAM co-founder weaves family history, hip-hop, and political witness into an album shaped by loss and endurance",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/dick-parry-death-pink-floyd-saxophonist-dies-obituary-1236255730/",
-    "source": "billboard",
-    "title": "Dick Parry, Saxophonist on Pink Floyd Classics, Dies at 83",
-    "url": "https://www.billboard.com/music/music-news/dick-parry-death-pink-floyd-saxophonist-dies-obituary-1236255730/",
-    "publishedAt": "2026-05-23T21:36:44.000Z",
-    "summary": "His saxophone work can be heard on songs from The Dark Side of the Moon and Wish You Were Here.",
     "image": null
   },
   {
@@ -249,15 +267,6 @@
     "url": "https://loudwire.com/watch-iron-maiden-perform-classic-tune-for-first-time-in-38-years/",
     "publishedAt": "2026-05-23T20:14:21.000Z",
     "summary": "They dusted off the '80s rarity during their first show of 2026. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/charli-xcx-playboy-bunny-b-side-song-ss26-1236255722/",
-    "source": "billboard",
-    "title": "Charli xcx Shares Pop-Punk Track ‘Playboy Bunny’ as B-Side to ‘SS26’",
-    "url": "https://www.billboard.com/music/music-news/charli-xcx-playboy-bunny-b-side-song-ss26-1236255722/",
-    "publishedAt": "2026-05-23T19:56:30.000Z",
-    "summary": "\"Was honestly v hungover,\" the singer says of the black-and-white video.",
     "image": null
   },
   {
@@ -708,15 +717,6 @@
     "url": "https://www.uncut.co.uk/publications/uncut-july-2026-154710/",
     "publishedAt": "2026-05-20T11:19:28.000Z",
     "summary": "Kate Bush, Cream, R.E.M., The Specials, Boards Of Canada, Elvis Costello, a 15-track Robert Fripp CD and more! The post Uncut July 2026 appeared first on UNCUT.",
-    "image": null
-  },
-  {
-    "id": "louder-than-war-https://louderthanwar.com/finished-events/",
-    "source": "louder-than-war",
-    "title": "finished events",
-    "url": "https://louderthanwar.com/finished-events/",
-    "publishedAt": "2026-05-20T09:41:25.000Z",
-    "summary": "May 7th Thursday Carlisle Old Fire Station with Pauline Murray tickets and details May 8th Friday Galashiels MacArts with Stuart Braithwaite (Mogwai) tickets and details May 9th Saturday Edinburgh Voodoo Rooms with Stuart Braithwaite (Mogwai)tickets and details May 10th Sunday Newcastle Pilgrim with Pauline Murray tickets and details May 14th Thursday Leek Foxlowe Arts Centre tickets and […] The post finished events appeared first on Louder Than War.",
     "image": null
   }
 ]
