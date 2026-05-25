@@ -1,5 +1,50 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/country/dylan-gossett-australia-new-zealand-headed-out-back-tour-1236255920/",
+    "source": "billboard",
+    "title": "Dylan Gossett Returns to Australia and New Zealand on The Headed Out Back Tour",
+    "url": "https://www.billboard.com/music/country/dylan-gossett-australia-new-zealand-headed-out-back-tour-1236255920/",
+    "publishedAt": "2026-05-25T03:54:29.000Z",
+    "summary": "It marks the Texas singer-songwriter's second run through the region following a breakthrough year.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/drake-taylor-swift-most-billboard200-no1-albums-soloists/",
+    "source": "billboard",
+    "title": "Drake Ties Taylor Swift for the Most Billboard 200 No. 1 Albums Among Soloists",
+    "url": "https://www.billboard.com/lists/drake-taylor-swift-most-billboard200-no1-albums-soloists/",
+    "publishedAt": "2026-05-25T03:28:43.000Z",
+    "summary": "He passes JAY-Z among solo males and R&B/hip-hop acts.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rock/the-pretty-reckless-dear-god-single-1236255916/",
+    "source": "billboard",
+    "title": "The Pretty Reckless Release ‘Dear God,’ Title Track From Upcoming Fifth Album",
+    "url": "https://www.billboard.com/music/rock/the-pretty-reckless-dear-god-single-1236255916/",
+    "publishedAt": "2026-05-25T03:12:28.000Z",
+    "summary": "The track arrives as the band's fourth single from the album.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/kpop-demon-hunters-film-blu-ray-dvd-4k-physical-release-buy-1236255905/",
+    "source": "billboard",
+    "title": "‘KPop Demon Hunters’ Finally Gets Physical Release on Blu-ray and DVD: Order It Here",
+    "url": "https://www.billboard.com/culture/product-recommendations/kpop-demon-hunters-film-blu-ray-dvd-4k-physical-release-buy-1236255905/",
+    "publishedAt": "2026-05-25T02:15:13.000Z",
+    "summary": "This marks the first time the hit animated film has been available for viewing outside of streaming, save for a brief theatrical run.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/armored-saint-john-bush-joey-vera-new-album-emotion-factory-reset-interview/",
+    "source": "loudwire",
+    "title": "Armored Saint Interview With John Bush + Joey Vera",
+    "url": "https://loudwire.com/armored-saint-john-bush-joey-vera-new-album-emotion-factory-reset-interview/",
+    "publishedAt": "2026-05-25T02:04:21.000Z",
+    "summary": "Armored Saint's John Bush and Joey Vera join Loudwire Nights to celebrate the release of their ninth studio album, 'Emotion Factory Reset.' Continue reading…",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/music-news/nicola-roberts-welcomes-first-baby-fiance-mitch-hahn-1236255870/",
     "source": "billboard",
     "title": "Girls Aloud’s Nicola Roberts Welcomes Her First Baby With Fiancé Mitch Hahn",
@@ -63,6 +108,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQjB5elI2dnNQUUlfUnRpaHhvclhpMzQ3MDVHNkVBOWR1Znl4Vi1fQlFvd2RhajBUdEwxTjdQc3B6MWt4bTUyWWg3a2ZubmdES05GeFJUUzk0SnAzZGFqYnFRQkpvbEVJT2xvWU5xQ0FhMkt5dkQweG9KbXBGQUxIRTJOQjdYRjJYalY1bmRuNGpkWW9rMFM4UkU0MFJwNWdrRXBlc2ZyZnlvNjR5VnVjRW9WVTdxUmZoa3p3OE1UU3B3T1NSR2ZjWUc4T2RFWm12ektVaEczeEpRblZKZ01BQkREc2w?oc=5",
+    "source": "nme",
+    "title": "'SNL' shares Paul McCartney’s post-credits performances of 'Help!' and 'Drive My Car' featuring Will Ferrell on cowbell - NME",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQjB5elI2dnNQUUlfUnRpaHhvclhpMzQ3MDVHNkVBOWR1Znl4Vi1fQlFvd2RhajBUdEwxTjdQc3B6MWt4bTUyWWg3a2ZubmdES05GeFJUUzk0SnAzZGFqYnFRQkpvbEVJT2xvWU5xQ0FhMkt5dkQweG9KbXBGQUxIRTJOQjdYRjJYalY1bmRuNGpkWW9rMFM4UkU0MFJwNWdrRXBlc2ZyZnlvNjR5VnVjRW9WVTdxUmZoa3p3OE1UU3B3T1NSR2ZjWUc4T2RFWm12ektVaEczeEpRblZKZ01BQkREc2w?oc=5",
+    "publishedAt": "2026-05-24T19:04:17.000Z",
+    "summary": "'SNL' shares Paul McCartney’s post-credits performances of 'Help!' and 'Drive My Car' featuring Will Ferrell on cowbell NME",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/culture/pride/beartooth-caleb-shomo-comes-out-as-gay-wife-reaction-1236255812/",
     "source": "billboard",
     "title": "Beartooth’s Caleb Shomo Comes Out as Gay, Wife Responds After 14-Year Marriage",
@@ -78,15 +132,6 @@
     "url": "https://www.rollingstone.com/music/music-news/beartooth-singer-caleb-shomo-comes-out-proudly-gay-man-1235568057/",
     "publishedAt": "2026-05-24T17:23:35.000Z",
     "summary": "\"I spent a decade burying feelings with alcohol,\" Shomo told fans. \"When I decided to put it down and focus on exploring why I felt this way for so long, it's been a direct path to me reconciling with my sexuality\"",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/selena-gomez-only-murders-london-filming-photos-1236255805/",
-    "source": "billboard",
-    "title": "Selena Gomez Joins Sabrina Carpenter’s Viral ‘House Tour’ Trend While Filming ‘Only Murders’ in London",
-    "url": "https://www.billboard.com/music/music-news/selena-gomez-only-murders-london-filming-photos-1236255805/",
-    "publishedAt": "2026-05-24T17:21:16.000Z",
-    "summary": "The singer-actress posted a clip of herself joining Sabrina Carpenter’s viral “House Tour” trend.",
     "image": null
   },
   {
@@ -117,12 +162,21 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/latin/kali-uchis-for-the-girls-tour-suenos-2026-recap-interview-1236255776/",
-    "source": "billboard",
-    "title": "Kali Uchis Kicks Off For the Girls Tour at Sueños 2026, Reveals She Has a ‘Whole Album Done’",
-    "url": "https://www.billboard.com/music/latin/kali-uchis-for-the-girls-tour-suenos-2026-recap-interview-1236255776/",
-    "publishedAt": "2026-05-24T15:23:16.000Z",
-    "summary": "The Colombian-American star brought cinematic drama and honeyed vocals to Chicago before telling Billboard her next project is in \"Spanglish.\"",
+    "id": "nme-https://news.google.com/rss/articles/CBMipwFBVV95cUxNSVMxUWppaEs2ZUZxSGsyUDZvNXN4TkRubUNGQ2V3U1l5Sy1xTTlZX1BnMFE2dmczRjlKX0o2anE3WUJjVHNfa2N3NXVDN3M5bUJhcjFfeXVEZEl2QkxfQTh0RnFqN1RWZVJmUXlIQTZVYWNXeWEwSDZILVQ5NHZtS1RiUXNnUkJSWFh1SzJiVHpjdGFqT2d3bjVEUW1fUm9kZUlLa25hZw?oc=5",
+    "source": "nme",
+    "title": "Good Charlotte announce 2026 UK and European tour with Yellowcard - NME",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSVMxUWppaEs2ZUZxSGsyUDZvNXN4TkRubUNGQ2V3U1l5Sy1xTTlZX1BnMFE2dmczRjlKX0o2anE3WUJjVHNfa2N3NXVDN3M5bUJhcjFfeXVEZEl2QkxfQTh0RnFqN1RWZVJmUXlIQTZVYWNXeWEwSDZILVQ5NHZtS1RiUXNnUkJSWFh1SzJiVHpjdGFqT2d3bjVEUW1fUm9kZUlLa25hZw?oc=5",
+    "publishedAt": "2026-05-24T16:01:21.000Z",
+    "summary": "Good Charlotte announce 2026 UK and European tour with Yellowcard NME",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWGxTbHZtTkQ2VWZFbjRwelgwcGl6WDdKTUljSGhEREpId25TZ1lOT2sxTzloMjlHanIwS2hpR0NPc3o0c195S0FNOXlJUEpZTUFYYldvUnBHTWJFa2NtMTBZZTJHbXBoc0Fxbl9uRi1NRUkzZ1VlQ3psbXFhWU1WQ3BmcFc5TWpOY1ZWMWd1ckRHanc5Y2hQOHF0N2VsMFBQNUZha3luclYwcmlaUGlPVFNkbkxSQ2FfWDZ3M2JYRzR1aXdKV2ZESUR5dXh3UEdpZFdnUHhqMmNoOUdaNGtIbnV6N0I?oc=5",
+    "source": "nme",
+    "title": "90 per cent of music fans say \"authenticity\" is the most important thing when it comes to connecting with artists - NME",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWGxTbHZtTkQ2VWZFbjRwelgwcGl6WDdKTUljSGhEREpId25TZ1lOT2sxTzloMjlHanIwS2hpR0NPc3o0c195S0FNOXlJUEpZTUFYYldvUnBHTWJFa2NtMTBZZTJHbXBoc0Fxbl9uRi1NRUkzZ1VlQ3psbXFhWU1WQ3BmcFc5TWpOY1ZWMWd1ckRHanc5Y2hQOHF0N2VsMFBQNUZha3luclYwcmlaUGlPVFNkbkxSQ2FfWDZ3M2JYRzR1aXdKV2ZESUR5dXh3UEdpZFdnUHhqMmNoOUdaNGtIbnV6N0I?oc=5",
+    "publishedAt": "2026-05-24T15:32:44.000Z",
+    "summary": "90 per cent of music fans say \"authenticity\" is the most important thing when it comes to connecting with artists NME",
     "image": null
   },
   {
@@ -225,30 +279,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/culture/tv-film/stephen-colbert-public-access-only-in-monroe-1236255765/",
-    "source": "billboard",
-    "title": "Stephen Colbert Makes Surprise Michigan Public Access Appearance After ‘Late Show’ Farewell",
-    "url": "https://www.billboard.com/culture/tv-film/stephen-colbert-public-access-only-in-monroe-1236255765/",
-    "publishedAt": "2026-05-24T07:33:25.000Z",
-    "summary": "The episode closed with Colbert, Jack White and Jeff Daniels destroying the set and burning it in a flaming dumpster.",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/album-of-the-week-cress-amass-what-are-the-government-scared-of-review/",
     "source": "louder-than-war",
     "title": "ALBUM OF THE WEEK! Cress/Amass: What Are The Government Scared Of? – Review",
     "url": "https://louderthanwar.com/album-of-the-week-cress-amass-what-are-the-government-scared-of-review/",
     "publishedAt": "2026-05-24T07:00:03.000Z",
     "summary": "Cress/Amass – What Are The Government Scared Of? (Grow Your Own) LP | CD | DL Out Now A double dose of anarcho-punk uses the suppression of gatherings at Stonehenge as a central theme to explore how we are controlled, and how lies keep us playing our part in maintaining the system. Nathan Brown writes. […] The post ALBUM OF THE WEEK! Cress/Amass: What Are The Government Scared Of? – Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/latin/j-balvin-suenos-festival-2026-headlining-set-recap-1236255747/",
-    "source": "billboard",
-    "title": "J Balvin Reminded Sueños Festival 2026 Why OG Status Still Has Muscle",
-    "url": "https://www.billboard.com/music/latin/j-balvin-suenos-festival-2026-headlining-set-recap-1236255747/",
-    "publishedAt": "2026-05-24T06:19:39.000Z",
-    "summary": "His set proved that one of Colombian reggaetón’s architects can still command a festival crowd while making space for mental health and immigrant pride.",
     "image": null
   },
   {
@@ -297,15 +333,6 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMizAFBVV95cUxOa25iTG5aQ1ZOSzdQV0RBdHczSVVlY0hXbUpBcmF2OFFUcGUweVdpaG5RVF96dk94OHBZLV84R2JrX3ZlbzFka1dxS3dLRFJJWnREUFF0TWRtc3g2d2dZTGlaamdnS2RPVEJ4MWZOVHhRN3l2MjMzM0pOVlpneUx5MzhYMFpua2hOaUZoMFljaHpLV0dJTWZrU0JVMlNUSmRWQWRDcTN5SzJtNFVUNXlRYXdtaUt4eEdmbVBSQTlwUFFuQi1TVGxZb0JPZEM?oc=5",
-    "source": "nme",
-    "title": "Watch Neil Young perform 'After The Gold Rush' and 'Heart Of Gold' in surprise first show of 2026 - NME",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOa25iTG5aQ1ZOSzdQV0RBdHczSVVlY0hXbUpBcmF2OFFUcGUweVdpaG5RVF96dk94OHBZLV84R2JrX3ZlbzFka1dxS3dLRFJJWnREUFF0TWRtc3g2d2dZTGlaamdnS2RPVEJ4MWZOVHhRN3l2MjMzM0pOVlpneUx5MzhYMFpua2hOaUZoMFljaHpLV0dJTWZrU0JVMlNUSmRWQWRDcTN5SzJtNFVUNXlRYXdtaUt4eEdmbVBSQTlwUFFuQi1TVGxZb0JPZEM?oc=5",
-    "publishedAt": "2026-05-23T16:36:04.000Z",
-    "summary": "Watch Neil Young perform 'After The Gold Rush' and 'Heart Of Gold' in surprise first show of 2026 NME",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/charli-xcx-shares-playboy-bunny-1235567645/",
     "source": "rolling-stone",
     "title": "Charli XCX Drops Cheeky ‘Playboy Bunny’ B-Side to ‘SS26’",
@@ -321,24 +348,6 @@
     "url": "https://loudwire.com/beartooth-caleb-shomo-comes-out-gay/",
     "publishedAt": "2026-05-23T16:02:30.000Z",
     "summary": "See the rocker's full statement here. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMivAFBVV95cUxQVTcxQTlfRGhPS3V4Ml82SEZFRGdfUDVZYUJGZlE0NXdLWGFkRFlKZmZOYmhiUThUeUhNTGtnWUs4ZUswVUpwVmZOXzBYVENEdGstdzNrbzR4TzJCYTZBQXYxMC1yWlZ2VEpURHRZM3VKdHN0RXJneHJSNlVQdTk5a2l0TUQxMVRLN1hHUF96TjJQUjBOZTZTX21uZ3VaUk9EaDhRaDRudlhzV002dnlpV3EtSWs2ZWt2WUJyWA?oc=5",
-    "source": "nme",
-    "title": "Jury discharged in trial over murder of disgraced Lostprophets singer Ian Watkins - NME",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVTcxQTlfRGhPS3V4Ml82SEZFRGdfUDVZYUJGZlE0NXdLWGFkRFlKZmZOYmhiUThUeUhNTGtnWUs4ZUswVUpwVmZOXzBYVENEdGstdzNrbzR4TzJCYTZBQXYxMC1yWlZ2VEpURHRZM3VKdHN0RXJneHJSNlVQdTk5a2l0TUQxMVRLN1hHUF96TjJQUjBOZTZTX21uZ3VaUk9EaDhRaDRudlhzV002dnlpV3EtSWs2ZWt2WUJyWA?oc=5",
-    "publishedAt": "2026-05-23T15:52:54.000Z",
-    "summary": "Jury discharged in trial over murder of disgraced Lostprophets singer Ian Watkins NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMingFBVV95cUxPbVNPUmZhc0plT1BsTVFDYVotTjZWekpfOU53RmM3YWJvMmhaemtLLXJlQkU0U0hTVUJmeEZBUENhYnE0TkcyQTREV0xLTTVyNzdIcURIUFc2dk9oYm5mazR3TmhTaXJyaGk3R1VyaXF3X3NmUy1ISFY1OWJEczVlX09OV0JQVW9DdnVlZnhoODZDVy01bHlaRUV2N2VoUQ?oc=5",
-    "source": "nme",
-    "title": "Rob Base, ‘It Takes Two’ rapper with DJ E-Z Rock, dies aged 59 - NME",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbVNPUmZhc0plT1BsTVFDYVotTjZWekpfOU53RmM3YWJvMmhaemtLLXJlQkU0U0hTVUJmeEZBUENhYnE0TkcyQTREV0xLTTVyNzdIcURIUFc2dk9oYm5mazR3TmhTaXJyaGk3R1VyaXF3X3NmUy1ISFY1OWJEczVlX09OV0JQVW9DdnVlZnhoODZDVy01bHlaRUV2N2VoUQ?oc=5",
-    "publishedAt": "2026-05-23T15:27:01.000Z",
-    "summary": "Rob Base, ‘It Takes Two’ rapper with DJ E-Z Rock, dies aged 59 NME",
     "image": null
   },
   {
@@ -519,15 +528,6 @@
     "url": "https://pitchfork.com/news/philipp-jung-co-founder-of-get-physical-and-mandy-has-died/",
     "publishedAt": "2026-05-22T13:13:02.000Z",
     "summary": "The German house DJ, producer, and label boss helped conduct transitions in electronic music as house spilled into adjacent scenes in the 2000s",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/history-grunge-told-albums/",
-    "source": "loudwire",
-    "title": "The History of Grunge Told in 13 Albums",
-    "url": "https://loudwire.com/history-grunge-told-albums/",
-    "publishedAt": "2026-05-22T12:44:55.000Z",
-    "summary": "These 13 albums tell the history of the grunge scene that formed in the Pacific Northwest in the 1980s, from Green River to Sub Pop, Nirvana and more. Continue reading…",
     "image": null
   },
   {
