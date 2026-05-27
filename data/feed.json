@@ -1,101 +1,254 @@
 [
   {
+    "id": "pitchfork-https://pitchfork.com/news/the-chicks-to-tour-taking-the-long-way-for-its-20th-anniversary/",
+    "source": "pitchfork",
+    "title": "The Chicks to Tour Taking the Long Way for Its 20th Anniversary",
+    "url": "https://pitchfork.com/news/the-chicks-to-tour-taking-the-long-way-for-its-20th-anniversary/",
+    "publishedAt": "2026-05-27T17:10:05.000Z",
+    "summary": "Coming to North American theaters and concert halls this fall",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/billboard-on-the-record-john-summit-talks-experts-only/",
+    "source": "billboard",
+    "title": "John Summit Talks Building His Label, Losing $1M at MSG and Planning His Upcoming Arena Tour",
+    "url": "https://www.billboard.com/pro/billboard-on-the-record-john-summit-talks-experts-only/",
+    "publishedAt": "2026-05-27T17:08:07.000Z",
+    "summary": "On Billboard On the Record, John Summit talks about building his sought-after label Experts Only, expanding his events internationally and the increasing arms race of dance music visuals.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/dogstar-keanu-reeves-robert-mailhouse-bret-domrose-exclusive-interview-2026/",
+    "source": "loudwire",
+    "title": "Keanu Reeves, Bret Domrose + Rob Mailhouse - Dogstar Interview",
+    "url": "https://loudwire.com/dogstar-keanu-reeves-robert-mailhouse-bret-domrose-exclusive-interview-2026/",
+    "publishedAt": "2026-05-27T16:58:28.000Z",
+    "summary": "In Loudwire's Cover Story interview, Keanu Reeves, Bret Domrose and Rob Mailhouse chat with Chuck Armstrong about Dogstar's career and new album, 'All In Now.' Continue reading…",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/forrest-frank-jesus-is-alive-number-1-hot-christian-songs-1236257991/",
+    "source": "billboard",
+    "title": "Forrest Frank Earns His Second No. 1 on Hot Christian Songs With ‘Jesus Is Alive!’",
+    "url": "https://www.billboard.com/music/chart-beat/forrest-frank-jesus-is-alive-number-1-hot-christian-songs-1236257991/",
+    "publishedAt": "2026-05-27T16:52:12.000Z",
+    "summary": "The track extends his Christian chart momentum after fans and artists rallied around its open-verse challenge.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/stella-lefty-is-this-heaven-debuts-top-10-top-country-albums-1236258035/",
+    "source": "billboard",
+    "title": "Stella Lefty’s ‘Is This Heaven?’ Debuts in Top Country Albums Top 10, Boosted by ‘Boston’",
+    "url": "https://www.billboard.com/music/chart-beat/stella-lefty-is-this-heaven-debuts-top-10-top-country-albums-1236258035/",
+    "publishedAt": "2026-05-27T16:46:09.000Z",
+    "summary": "She tells Billboard it’s “an indescribable feeling” to chart near names like Ella Langley.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/sepultura-last-show-farewell-tour-2026/",
+    "source": "loudwire",
+    "title": "Sepultura Announce Last Show Ever, Farewell Tour Ending in 2026",
+    "url": "https://loudwire.com/sepultura-last-show-farewell-tour-2026/",
+    "publishedAt": "2026-05-27T16:38:09.000Z",
+    "summary": "Sepultura's long-running farewell tour now has a final date and location and some very special guests. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/the-chicks-tour-dates-taking-the-long-way-20th-anniversary-1236258025/",
+    "source": "billboard",
+    "title": "The Chicks Are ‘Taking The Long Way’ on Tour for Album’s 20th Anniversary: ‘Still Not Ready to Make Nice’",
+    "url": "https://www.billboard.com/music/music-news/the-chicks-tour-dates-taking-the-long-way-20th-anniversary-1236258025/",
+    "publishedAt": "2026-05-27T16:37:40.000Z",
+    "summary": "The 16-date trek will visit cities including Seattle, Detroit and Chicago.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/jim-jones-camron-feud-timeline/",
+    "source": "billboard",
+    "title": "A Timeline of Jim Jones & Cam’ron’s Never-Ending Feud",
+    "url": "https://www.billboard.com/lists/jim-jones-camron-feud-timeline/",
+    "publishedAt": "2026-05-27T16:29:43.000Z",
+    "summary": "From Dipset to detractors, a look into the fractured relationship of the Diplomats.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/katseye-met-bts-yoonchae-forgot-how-to-speak-korean-1236258013/",
+    "source": "billboard",
+    "title": "Yoonchae Says She ‘Forgot’ How to Speak Korean When KATSEYE Met BTS: ‘My Brain Was Blank’",
+    "url": "https://www.billboard.com/music/music-news/katseye-met-bts-yoonchae-forgot-how-to-speak-korean-1236258013/",
+    "publishedAt": "2026-05-27T16:26:18.000Z",
+    "summary": "\"When we walked in for the meet-and-greet, j-hope was doing 'Pinky Up' to us,\" Sophia also recalled.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/drake-celebrates-number-1-albums-hot-100-number-1-hits-1236257938/",
+    "source": "billboard",
+    "title": "Drake Celebrates All of His No. 1 Albums & No. 1 Hot 100 Hits: ‘Records Broken Carry on My Name’",
+    "url": "https://www.billboard.com/music/rb-hip-hop/drake-celebrates-number-1-albums-hot-100-number-1-hits-1236257938/",
+    "publishedAt": "2026-05-27T16:19:25.000Z",
+    "summary": "It's a celebratory and record-breaking week for Drizzy following ICEMAN's arrival.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/john-mcclain-michael-jackson-estate-dead-obituary-1235568935/",
+    "source": "rolling-stone",
+    "title": "John McClain, Co-Executor of Michael Jackson Estate, Dead at 71",
+    "url": "https://www.rollingstone.com/music/music-news/john-mcclain-michael-jackson-estate-dead-obituary-1235568935/",
+    "publishedAt": "2026-05-27T16:12:59.000Z",
+    "summary": "Music business executive also was head of Black music at A&M and helped foster Janet Jackson's breakout success and played a pivotal role in Dr. Dre's career",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/watch-flea-and-thom-yorke-cover-marvin-gaye/",
+    "source": "pitchfork",
+    "title": "Watch Flea and Thom Yorke Cover Marvin Gaye",
+    "url": "https://pitchfork.com/news/watch-flea-and-thom-yorke-cover-marvin-gaye/",
+    "publishedAt": "2026-05-27T16:12:19.000Z",
+    "summary": "The Atoms for Peace bandmates reunited in London to do “Got to Give It Up” and their recent collaboration “Traffic Lights”",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/drake-biggest-streaming-weeks-rb-hip-hop-albums/",
+    "source": "billboard",
+    "title": "With ‘ICEMAN’ Debut, Drake Has the 5 Biggest Streaming Weeks Ever Among R&B/Hip-Hop Albums",
+    "url": "https://www.billboard.com/lists/drake-biggest-streaming-weeks-rb-hip-hop-albums/",
+    "publishedAt": "2026-05-27T16:08:15.000Z",
+    "summary": "Drake, Taylor Swift and Morgan Wallen own the top 10.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/henry-rollins-ian-mackaye-the-cramps-record-label-relaunch/",
+    "source": "loudwire",
+    "title": "New Company Launches to Restart the Cramps' Record Label",
+    "url": "https://loudwire.com/henry-rollins-ian-mackaye-the-cramps-record-label-relaunch/",
+    "publishedAt": "2026-05-27T16:05:34.000Z",
+    "summary": "Henry Rollins, Ian MacKaye and several others are involved in a new company that is re-launching the Cramps' record label, Vengeance Records. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/rhoslc-whitney-rose-response-rihanna-ninth-album-1236258018/",
+    "source": "billboard",
+    "title": "RHOSLC’s Whitney Rose Prompts Hilarious Response From Rihanna After Saying She’s Sad Because ‘We Still Haven’t Had Any New Music’",
+    "url": "https://www.billboard.com/music/rb-hip-hop/rhoslc-whitney-rose-response-rihanna-ninth-album-1236258018/",
+    "publishedAt": "2026-05-27T16:01:36.000Z",
+    "summary": "You and us both Whitney.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/grupo-frontera-launch-bordertown-records-label-exclusive/",
+    "source": "billboard",
+    "title": "Grupo Frontera Launches Its Own Record Label to ‘Represent All Artists From the Border’",
+    "url": "https://www.billboard.com/pro/grupo-frontera-launch-bordertown-records-label-exclusive/",
+    "publishedAt": "2026-05-27T16:00:00.000Z",
+    "summary": "The group will release its new EP, Con Dolor, under the indie label on Thursday (May 28).",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/panda-bear-and-sonic-boom-reveal-new-collab-album/",
+    "source": "pitchfork",
+    "title": "Panda Bear & Sonic Boom Reveal New Collab Album",
+    "url": "https://pitchfork.com/news/panda-bear-and-sonic-boom-reveal-new-collab-album/",
+    "publishedAt": "2026-05-27T15:27:12.000Z",
+    "summary": "A ? of When won’t be available on streaming",
+    "image": null
+  },
+  {
+    "id": "uncut-https://www.uncut.co.uk/news/panda-bear-sonic-boom-announce-new-album-154812/",
+    "source": "uncut",
+    "title": "Panda Bear & Sonic Boom announce new album, A ? Of When",
+    "url": "https://www.uncut.co.uk/news/panda-bear-sonic-boom-announce-new-album-154812/",
+    "publishedAt": "2026-05-27T15:21:29.000Z",
+    "summary": "It's due for release on multiple formats – except streaming – on July 10",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/the-chicks-taking-the-long-way-20th-anniversary-tour-1235568938/",
+    "source": "rolling-stone",
+    "title": "The Chicks Announce ‘Taking the Long Way’ 20th Anniversary Tour",
+    "url": "https://www.rollingstone.com/music/music-country/the-chicks-taking-the-long-way-20th-anniversary-tour-1235568938/",
+    "publishedAt": "2026-05-27T15:15:48.000Z",
+    "summary": "The country trio will celebrate their 2006 album with 16 shows across the United States this fall",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/a-perfect-circle-starless-lyrics/",
+    "source": "loudwire",
+    "title": "A Perfect Circle Debut First New Song in 8 Years, 'Starless'",
+    "url": "https://loudwire.com/a-perfect-circle-starless-lyrics/",
+    "publishedAt": "2026-05-27T15:08:28.000Z",
+    "summary": "\"Starless,\" the first new song since A Perfect Circle released 'Eat the Elephant,' is out now. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "louder-than-war-https://louderthanwar.com/pixies-aviva-studios-manchester-live-reveiw/",
+    "source": "louder-than-war",
+    "title": "Pixies: Aviva Studios, Manchester – Live Review",
+    "url": "https://louderthanwar.com/pixies-aviva-studios-manchester-live-reveiw/",
+    "publishedAt": "2026-05-27T15:00:50.000Z",
+    "summary": "Pixies | GANS Aviva Studios, Manchester May 26nd 2026 On the second of two sold-out nights at Manchester’s Aviva Studios, Thomas Sidwell is on hand as the Pixies tear through four decades of catalogue in a room more accustomed to high art than high volume. The band, as ever, have other ideas. Aviva Studios’ Hall […] The post Pixies: Aviva Studios, Manchester – Live Review appeared first on Louder Than War.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/foo-fighters-cleveland/",
+    "source": "loudwire",
+    "title": "ENTER NOW: Win a Trip to See the Foo Fighters in Cleveland, Ohio",
+    "url": "https://loudwire.com/foo-fighters-cleveland/",
+    "publishedAt": "2026-05-27T15:00:39.000Z",
+    "summary": "Win a trip to Cleveland to experience the Foo Fighters LIVE in concert and check out the Rock and Roll Hall of Fame. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/wild-pink-tap-mj-lenderman-hand-habits-for-new-album/",
+    "source": "pitchfork",
+    "title": "Wild Pink Tap MJ Lenderman, Hand Habits for New Album",
+    "url": "https://pitchfork.com/news/wild-pink-tap-mj-lenderman-hand-habits-for-new-album/",
+    "publishedAt": "2026-05-27T14:56:18.000Z",
+    "summary": "Still Coming Down is out this August on Fire Talk",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/dan-auerbach-father-dying-black-keys-peaches-album-1235568917/",
+    "source": "rolling-stone",
+    "title": "Dan Auerbach on How Grief Fueled the Black Keys’ New Album",
+    "url": "https://www.rollingstone.com/music/music-features/dan-auerbach-father-dying-black-keys-peaches-album-1235568917/",
+    "publishedAt": "2026-05-27T14:38:02.000Z",
+    "summary": "Peaches! was recorded while Auerbach's father was in the final stages of a cancer battle. \"Everything about what I do is related to my dad,\" he tells the RS Nashville Now podcast",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/paul-mccartney-prince-covered-beatles-long-winding-road-1235568915/",
+    "source": "rolling-stone",
+    "title": "Paul McCartney Wants to Unearth Prince’s Cover of the Beatles’ ‘The Long and Winding Road’",
+    "url": "https://www.rollingstone.com/music/music-news/paul-mccartney-prince-covered-beatles-long-winding-road-1235568915/",
+    "publishedAt": "2026-05-27T14:17:55.000Z",
+    "summary": "McCartney said he didn’t know Prince recorded a version of the Let It Be single until years after his death",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/the-tallest-man-on-earth-returns-with-new-song-and-tour-dates/",
+    "source": "pitchfork",
+    "title": "The Tallest Man on Earth Returns With New Song and Tour Dates",
+    "url": "https://pitchfork.com/news/the-tallest-man-on-earth-returns-with-new-song-and-tour-dates/",
+    "publishedAt": "2026-05-27T14:09:27.000Z",
+    "summary": "Kristian Matsson is back with “Colors”",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/phoebe-bridgers-robert-pattinson-primetime-trailer/",
+    "source": "pitchfork",
+    "title": "Catch a Glimpse of Phoebe Bridgers in Her New Film With Robert Pattinson",
+    "url": "https://pitchfork.com/news/phoebe-bridgers-robert-pattinson-primetime-trailer/",
+    "publishedAt": "2026-05-27T14:04:13.000Z",
+    "summary": "A24’s Primetime also stars Merritt Wever and Skyler Gisondo",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-features/muna-dancing-on-the-wall-interview-1235568748/",
     "source": "rolling-stone",
-    "title": "Muna Can’t Wait To Take Their New LP on the Road: ‘This Is What We Fucking Love to Do’",
+    "title": "Muna Can’t Wait To Take Their New LP on the Road: ‘This Is What We F-cking Love to Do’",
     "url": "https://www.rollingstone.com/music/music-features/muna-dancing-on-the-wall-interview-1235568748/",
     "publishedAt": "2026-05-27T13:30:07.000Z",
     "summary": "The band members describe the rage and joy behind Dancing on the Wall, and how their live shows drew inspiration from their time on the Eras Tour",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/bollore-group-rejects-bill-ackman-umg-bid/",
-    "source": "billboard",
-    "title": "Bolloré Group Urges UMG Board to Reject Bill Ackman’s Purchase Bid: ‘The Price is Not There’",
-    "url": "https://www.billboard.com/pro/bollore-group-rejects-bill-ackman-umg-bid/",
-    "publishedAt": "2026-05-27T13:18:04.000Z",
-    "summary": "Bolloré Group controls roughly one third of Universal Music, with Ackman’s proposed bid for the company hinging on their approval.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/country/riley-green-lara-spencer-2026-cma-fest-presented-by-sofi-1236257719/",
-    "source": "billboard",
-    "title": "Riley Green, Lara Spencer To Host ‘CMA Fest Presented By SoFi’",
-    "url": "https://www.billboard.com/music/country/riley-green-lara-spencer-2026-cma-fest-presented-by-sofi-1236257719/",
-    "publishedAt": "2026-05-27T13:12:21.000Z",
-    "summary": "CMA Fest will be held June 4-7 in downtown Nashville.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/lizzo-chilis-baby-back-ribs-1236257212/",
-    "source": "billboard",
-    "title": "How Lizzo Went From Vegan to the New Face of Chili’s Baby Back Ribs: ‘I’m the Perfect Person for It’",
-    "url": "https://www.billboard.com/music/music-news/lizzo-chilis-baby-back-ribs-1236257212/",
-    "publishedAt": "2026-05-27T13:00:00.000Z",
-    "summary": "The star also tells Billboard about playing a rib flute and studying *NSYNC to recreate the iconic jingle.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/lady-gaga-midyear-boxscore-record/",
-    "source": "billboard",
-    "title": "Lady Gaga Sets Midyear Boxscore Record on The Mayhem Ball With $236M Gross",
-    "url": "https://www.billboard.com/pro/lady-gaga-midyear-boxscore-record/",
-    "publishedAt": "2026-05-27T13:00:00.000Z",
-    "summary": "Gaga marathoned the chart year's first six months across four continents.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/lizzo-love-in-real-life-album-bitch-name-change-1236257254/",
-    "source": "billboard",
-    "title": "Lizzo Clears Up ‘Misconception’ She Shelved Her ‘Love in Real Life’ Album: ‘I Just Changed the Name’",
-    "url": "https://www.billboard.com/music/music-news/lizzo-love-in-real-life-album-bitch-name-change-1236257254/",
-    "publishedAt": "2026-05-27T13:00:00.000Z",
-    "summary": "The singer also told Billboard why she thinks her 2025 mixtape will be remembered as a \"classic.\"",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/tv-film/moses-sumney-talks-is-god-is-score-new-album-interview-1236257307/",
-    "source": "billboard",
-    "title": "Moses Sumney Talks Spinning Music Out of Vengeance for His ‘Is God Is’ Score, Teases New Album: ‘The Most Ambitious Work I’ve Ever Made’",
-    "url": "https://www.billboard.com/culture/tv-film/moses-sumney-talks-is-god-is-score-new-album-interview-1236257307/",
-    "publishedAt": "2026-05-27T13:00:00.000Z",
-    "summary": "The acclaimed multihyphenate also discusses working with Sterling K. Brown and Kara Jackson.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/video/john-summit-how-an-accountant-dj-is-bringing-back-dance/",
-    "source": "billboard",
-    "title": "John Summit: How an Accountant-Turned-DJ Is Bringing Back Dance Music | Billboard On The Record",
-    "url": "https://www.billboard.com/video/john-summit-how-an-accountant-dj-is-bringing-back-dance/",
-    "publishedAt": "2026-05-27T13:00:00.000Z",
-    "summary": "Is dance music coming back to the mainstream? On this week’s episode of Billboard On The Record, John Summit — DJ, producer and founder of Experts Only — discusses what makes the dance music industry unique, how DJs went from underground clubs to arena shows and festival headliner slots and why he decided to launch […]",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/latin/calle-24-announces-eterno-tour-2026-us-dates-trek-1236257704/",
-    "source": "billboard",
-    "title": "Calle 24 Announces Eterno Tour, His First Solo U.S. Trek: ‘I’m Nervous But Excited’",
-    "url": "https://www.billboard.com/music/latin/calle-24-announces-eterno-tour-2026-us-dates-trek-1236257704/",
-    "publishedAt": "2026-05-27T13:00:00.000Z",
-    "summary": "The Street Mob Records star will visit 15 cities this summer. Check out all the dates.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/pop/paul-mccartney-talks-unreleased-prince-beatles-cover-swift-1236257861/",
-    "source": "billboard",
-    "title": "Paul McCartney Says Prince Recorded a Beatles Cover That He’d Like to Release: ‘He Plays Some Really Good Guitar On It’",
-    "url": "https://www.billboard.com/music/pop/paul-mccartney-talks-unreleased-prince-beatles-cover-swift-1236257861/",
-    "publishedAt": "2026-05-27T12:46:54.000Z",
-    "summary": "Macca ran down his favorite songs and offered opinions after meeting Taylor Swift, Billie Eilish, Olivia Rodrigo and Sabrina Carpenter at a party.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/pop/kylie-tension-tour-live-doc-minogue-tour-streaming-netflix-1236257832/",
-    "source": "billboard",
-    "title": "‘Kylie. Tension Tour Live’ Doc Chronicling 2025 Kylie Minogue Tour Streaming Now on Netflix",
-    "url": "https://www.billboard.com/music/pop/kylie-tension-tour-live-doc-minogue-tour-streaming-netflix-1236257832/",
-    "publishedAt": "2026-05-27T11:59:02.000Z",
-    "summary": "The two-hour movie premieres on the streamer today (May 27).",
     "image": null
   },
   {
@@ -114,6 +267,15 @@
     "url": "https://www.uncut.co.uk/news/vini-reilly-unveils-first-new-durutti-column-album-in-15-years-154802/",
     "publishedAt": "2026-05-27T11:31:33.000Z",
     "summary": "The Durutti Column's Renascent is due out on July 31 – listen to the lead single \"Liars\" now",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSlpKazk0MXhqQndIUG9OOVpodTVQYXpMZzdTckpOWmc4LWJSRU4tTDc1TEkyYVdrYWdSN2ZqTWNEM0FVRzdNMjZINU9ydk9aMWE0azlwR1dMWjZYSUEtM3VDMnhiYjBpUEdpcTVMTF9pSlNKTW43a01uaE1ka0pvVGxLWEJ5c0xFMVpyelYyZ2ZpY0xYcHRFLU1FQW05dUFraEtNb0tGaDdRWXBEWXdIUTh3VUk3b0ZmNTBtcHVjdGNtZnNaZnpURXlTUzRQdDh1WFF4clZPR19WUGVoMWN6dVpPMkwwTno2VDd3?oc=5",
+    "source": "nme",
+    "title": "Beastie Boys' Mike D announces intimate Newcastle social club gig as first UK show with snappy new single 'What We Got' - NME",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSlpKazk0MXhqQndIUG9OOVpodTVQYXpMZzdTckpOWmc4LWJSRU4tTDc1TEkyYVdrYWdSN2ZqTWNEM0FVRzdNMjZINU9ydk9aMWE0azlwR1dMWjZYSUEtM3VDMnhiYjBpUEdpcTVMTF9pSlNKTW43a01uaE1ka0pvVGxLWEJ5c0xFMVpyelYyZ2ZpY0xYcHRFLU1FQW05dUFraEtNb0tGaDdRWXBEWXdIUTh3VUk3b0ZmNTBtcHVjdGNtZnNaZnpURXlTUzRQdDh1WFF4clZPR19WUGVoMWN6dVpPMkwwTno2VDd3?oc=5",
+    "publishedAt": "2026-05-27T10:32:44.000Z",
+    "summary": "Beastie Boys' Mike D announces intimate Newcastle social club gig as first UK show with snappy new single 'What We Got' NME",
     "image": null
   },
   {
@@ -153,6 +315,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGtzTEcyeFVJTDhvSTVlRFRRZDdPUnh4TVZTcF9mRG96cWt5bDdqd2ZBVkZ6aHlYSFE3TWZaYUwxM3k4ZVZvWHdlb1ZENDg1dnc5QkFHQnJfelRpZVFnNXEwdmNQRnQxZlRXV0xWZlg3LXUydnpKamhKVlpMSHM3ZXpHTWdfZ3lfTE9LSV9WTXpQLWRpeGc4X0VMdHpjSURkbm5vTHdKTWFtcW1SUEdxR1NJTkE4aEVrSzYzLXptNA?oc=5",
+    "source": "nme",
+    "title": "‘The Simpsons’ writer who predicted Trump presidency announces 2028 White House campaign - NME",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGtzTEcyeFVJTDhvSTVlRFRRZDdPUnh4TVZTcF9mRG96cWt5bDdqd2ZBVkZ6aHlYSFE3TWZaYUwxM3k4ZVZvWHdlb1ZENDg1dnc5QkFHQnJfelRpZVFnNXEwdmNQRnQxZlRXV0xWZlg3LXUydnpKamhKVlpMSHM3ZXpHTWdfZ3lfTE9LSV9WTXpQLWRpeGc4X0VMdHpjSURkbm5vTHdKTWFtcW1SUEdxR1NJTkE4aEVrSzYzLXptNA?oc=5",
+    "publishedAt": "2026-05-27T09:19:34.000Z",
+    "summary": "‘The Simpsons’ writer who predicted Trump presidency announces 2028 White House campaign NME",
+    "image": null
+  },
+  {
     "id": "uncut-https://www.uncut.co.uk/features/spellbound-siouxsie-siouxs-20-greatest-songs-142851/",
     "source": "uncut",
     "title": "Spellbound! Siouxsie Sioux’s 20 Greatest Songs",
@@ -176,7 +347,7 @@
     "title": "Watch Thom Yorke, Flea Cover Marvin Gaye’s ‘Got to Give It Up’ at London Show",
     "url": "https://www.rollingstone.com/music/music-news/thom-yorke-flea-marvin-gaye-got-to-give-it-up-cover-1235568900/",
     "publishedAt": "2026-05-27T08:05:47.000Z",
-    "summary": "The Atoms of Peace bandmates also performed their recent joint track \"Traffic Lights\"",
+    "summary": "The Atoms of Peace bandmates also performed their recent joint track “Traffic Lights”",
     "image": null
   },
   {
@@ -230,7 +401,7 @@
     "title": "David Nail Shows He Hasn’t Lost a Step With New Country Ballad ‘She Knows’",
     "url": "https://www.rollingstone.com/music/music-country/david-nail-new-album-flowers-she-knows-1235568529/",
     "publishedAt": "2026-05-27T00:10:00.000Z",
-    "summary": "The Missouri native whose dynamic voice gave Nashville a shot in the arm in the 2010s with hits like \"Let It Rain\" will release his first album in a decade this summer",
+    "summary": "The Missouri native whose dynamic voice gave Nashville a shot in the arm in the 2010s with hits like “Let It Rain” will release his first album in a decade this summer",
     "image": null
   },
   {
@@ -288,42 +459,6 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/news/olivia-rodrigo-aja-monet-dj-koze-this-weeks-pitchfork-selects-playlist/",
-    "source": "pitchfork",
-    "title": "Olivia Rodrigo, Aja Monet, DJ Koze, and More: This Week’s Pitchfork Selects Playlist",
-    "url": "https://pitchfork.com/news/olivia-rodrigo-aja-monet-dj-koze-this-weeks-pitchfork-selects-playlist/",
-    "publishedAt": "2026-05-26T17:09:13.000Z",
-    "summary": "Our weekly playlist highlights songs that our writers, editors, and contributors are listening to on repeat",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/olivia-rodrigo-you-seem-pretty-sad-for-girl-love-track-list-1235568560/",
-    "source": "rolling-stone",
-    "title": "Olivia Rodrigo Reveals ‘You Seem Pretty Sad for a Girl So in Love’ Split Track List",
-    "url": "https://www.rollingstone.com/music/music-news/olivia-rodrigo-you-seem-pretty-sad-for-girl-love-track-list-1235568560/",
-    "publishedAt": "2026-05-26T17:08:38.000Z",
-    "summary": "The “Girl So in Love” side has seven songs, while “You Seem Pretty Sad” contains six",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/drake-janice-stfu-number-one-hot-100-record-1235568548/",
-    "source": "rolling-stone",
-    "title": "Drake Breaks Michael Jackson’s Hot 100 Chart Record as ‘Janice STFU’ Debuts at Number One",
-    "url": "https://www.rollingstone.com/music/music-news/drake-janice-stfu-number-one-hot-100-record-1235568548/",
-    "publishedAt": "2026-05-26T16:47:19.000Z",
-    "summary": "The Toronto rapper surpassed the King of Pop as the male solo artist with the most chart-toppers, while he also placed a record-setting 42 songs on the Hot 100",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/vibe-relaunching-print-magazine-1235568322/",
-    "source": "rolling-stone",
-    "title": "VIBE Relaunching Print Editions After More Than a Decade",
-    "url": "https://www.rollingstone.com/music/music-news/vibe-relaunching-print-magazine-1235568322/",
-    "publishedAt": "2026-05-26T16:40:05.000Z",
-    "summary": "The Quincy-Jones-founded publication will release its first print issue on June 2",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/alter-bridge-us-tour-2026-big-wreck-tim-montana/",
     "source": "loudwire",
     "title": "Alter Bridge Book Late 2026 U.S. Tour With Big Wreck, Tim Montana",
@@ -351,15 +486,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/rivers-cuomo-outkast-dolly-parton-whitney-houston-nirvana-1235568495/",
-    "source": "rolling-stone",
-    "title": "Hear Rivers Cuomo Cover Outkast, Dolly Parton, Whitney Houston, and Nirvana",
-    "url": "https://www.rollingstone.com/music/music-news/rivers-cuomo-outkast-dolly-parton-whitney-houston-nirvana-1235568495/",
-    "publishedAt": "2026-05-26T14:52:43.000Z",
-    "summary": "Weezer frontman uploaded “randum cuverz” playlist to YouTube, which also features his acoustic renditions of songs by Radiohead, Harry Nilsson, Eagles and others",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/dragonforce-2026-north-american-tour-alissa-white-gluz/",
     "source": "loudwire",
     "title": "Dragonforce Announce First Headlining Tour With Alissa White-Gluz",
@@ -384,15 +510,6 @@
     "url": "https://louderthanwar.com/wanderlust-southampton-festival-review/",
     "publishedAt": "2026-05-26T13:53:18.000Z",
     "summary": "Wanderlust Southampton 23rd-24th May 2026 52 bands in 3 venues on the hottest weekend of the year? Go on then! Dan O’Farrell experiences the Wanderlust festival in Southampton. Festivals: love ‘em or hate em? On the plus-side, you can select one with a great bill packed with bands you’d happily pay to see individually, lined […] The post Wanderlust: Southampton – Festival Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/best-prog-metal-song-each-year/",
-    "source": "loudwire",
-    "title": "The Best Prog Metal Song of Each Year Since 1985",
-    "url": "https://loudwire.com/best-prog-metal-song-each-year/",
-    "publishedAt": "2026-05-26T12:43:06.000Z",
-    "summary": "Some of these were nearly impossible to decide! Continue reading…",
     "image": null
   },
   {
@@ -468,24 +585,6 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMinwJBVV95cUxQSVdWQjBwemV1WGhUbmk3dnNiM3dDSWlaRGRXZ3J6aXdJYVNRcmlwZkgtSUdxQ1d5aW00M3A0Q211a0dlbUlSQk14elNzaHlGekVZMVZOQnFDbkZzWU0tVklJLTBzYVIwMFAwaTd1ME5keDl2a0lOR1UwU0NTbUp1OTlwV1RkUmJoMnpSSUxSaGxqZHB4TVJhTGFucTExQ0JrTlZJQkRGdWsxblcyUnRPU0ZyWDVEcTJ3SmljS2FDSHcwbEFTMUFJVk5aS05jWGM4ZGMtNEdfU3FNWWp2d0oyanBHRWQxcjhuYjBLVW03OEd0Y21Oc0ZDSmNNWVg1NWNkNGkySHdzWkNHRnU4QWZaa2FmOWFKeWVTdnB0Rkt2UQ?oc=5",
-    "source": "nme",
-    "title": "Fatboy Slim, Lucy Spraggan, Gene, D Double E and Westside Cowboy lead latest huge names joining nationwide Everywhere At Once 'Glastonbury replacement' festival - NME",
-    "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQSVdWQjBwemV1WGhUbmk3dnNiM3dDSWlaRGRXZ3J6aXdJYVNRcmlwZkgtSUdxQ1d5aW00M3A0Q211a0dlbUlSQk14elNzaHlGekVZMVZOQnFDbkZzWU0tVklJLTBzYVIwMFAwaTd1ME5keDl2a0lOR1UwU0NTbUp1OTlwV1RkUmJoMnpSSUxSaGxqZHB4TVJhTGFucTExQ0JrTlZJQkRGdWsxblcyUnRPU0ZyWDVEcTJ3SmljS2FDSHcwbEFTMUFJVk5aS05jWGM4ZGMtNEdfU3FNWWp2d0oyanBHRWQxcjhuYjBLVW03OEd0Y21Oc0ZDSmNNWVg1NWNkNGkySHdzWkNHRnU4QWZaa2FmOWFKeWVTdnB0Rkt2UQ?oc=5",
-    "publishedAt": "2026-05-26T09:08:51.000Z",
-    "summary": "Fatboy Slim, Lucy Spraggan, Gene, D Double E and Westside Cowboy lead latest huge names joining nationwide Everywhere At Once 'Glastonbury replacement' festival NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMitAFBVV95cUxNMEdFSVNyMkt0VC1rTlduVmlHM3I2Qmg5Mm03NmxTVHdNVm9XSzg0NXhUZ0pmUUpGQzloc281VFcyM21mdkREMFczUmdreFk2TVRCZUhZcUVZMGtXalBTNFB0blFVakdvZWRGOUxhQWZqUDE3X3c5aVdzTlV0c1BKWExxSjQtbVl5MDVFQVVKeGVHal9STHA1Tkp4VlBzd1NRSTFzQ2JGM2QxQkgzVUtfUDJYaEE?oc=5",
-    "source": "nme",
-    "title": "Metallica team up with services to urge fans to give blood ahead of UK tour - NME",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMEdFSVNyMkt0VC1rTlduVmlHM3I2Qmg5Mm03NmxTVHdNVm9XSzg0NXhUZ0pmUUpGQzloc281VFcyM21mdkREMFczUmdreFk2TVRCZUhZcUVZMGtXalBTNFB0blFVakdvZWRGOUxhQWZqUDE3X3c5aVdzTlV0c1BKWExxSjQtbVl5MDVFQVVKeGVHal9STHA1Tkp4VlBzd1NRSTFzQ2JGM2QxQkgzVUtfUDJYaEE?oc=5",
-    "publishedAt": "2026-05-26T08:58:57.000Z",
-    "summary": "Metallica team up with services to urge fans to give blood ahead of UK tour NME",
-    "image": null
-  },
-  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMickFVX3lxTE9HVzVRRnlRV1MtTl84aGtYRlBnVEl1SzNjTWc1SktlRnFqMEZGdTRLYWFEZjBQNDl0MTMwMW5SdVh6WHptdFlxYTZwV0MyRnBNMkJLTVRlaDFKeGM3a0dxMVNYZEdRUEZPbkNjZDFNakpNZw?oc=5",
     "source": "kerrang",
     "title": "Album review: Violet Grohl – Be Sweet To Me - Kerrang!",
@@ -513,93 +612,12 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/news/sonny-rollins-jazz-titan-dies-at-95/",
-    "source": "pitchfork",
-    "title": "Sonny Rollins, Jazz Luminary and Saxophone Legend, Dies at 95",
-    "url": "https://pitchfork.com/news/sonny-rollins-jazz-titan-dies-at-95/",
-    "publishedAt": "2026-05-26T02:46:28.000Z",
-    "summary": "The tenor player was equally heralded onstage by his peers as he was offstage with prestigious awards",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/news/listen-to-j-mascis-and-mike-watt-swap-cover-songs/",
-    "source": "pitchfork",
-    "title": "Listen to J Mascis and Mike Watt Swap Cover Songs",
-    "url": "https://pitchfork.com/news/listen-to-j-mascis-and-mike-watt-swap-cover-songs/",
-    "publishedAt": "2026-05-26T02:28:42.000Z",
-    "summary": "On a new split 7\", the ’90s alt-rock figures tackle Dinosaur Jr. and fIREHOSE deep cuts",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/better-foo-fighters-album-foo-fighters-vs-your-favorite-toy/",
-    "source": "loudwire",
-    "title": "Better Foo Fighters Album - 'Foo Fighters' vs. 'Your Favorite Toy",
-    "url": "https://loudwire.com/better-foo-fighters-album-foo-fighters-vs-your-favorite-toy/",
-    "publishedAt": "2026-05-25T18:05:45.000Z",
-    "summary": "Vote for the better Foo Fighters album in this week's Chuck's Fight Club as we pit the band's self-titled debut against their recently released 'Your Favorite Toy.' Continue reading…",
-    "image": null
-  },
-  {
-    "id": "louder-than-war-https://louderthanwar.com/love-burns-pavement-drawings-album-review/",
-    "source": "louder-than-war",
-    "title": "Love, Burns: Pavement Drawings – Album Review",
-    "url": "https://louderthanwar.com/love-burns-pavement-drawings-album-review/",
-    "publishedAt": "2026-05-25T13:57:46.000Z",
-    "summary": "Love, Burns: Pavement Drawings (Spinout Nuggets/Jigsaw) LP | CD | DL Out 29th May, 2026 Third album from Love, Burns, led by Phil Sutton, revels in the adoration of jangle-pop at its most beautiful. There is something wonderful that floats from the speakers as soon as the needle drops, something plaintive and yearning. As the […] The post Love, Burns: Pavement Drawings – Album Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/most-anticipated-rock-metal-albums-2026/",
-    "source": "loudwire",
-    "title": "The Most Anticipated Rock + Metal Albums Left To Come Out in 2026",
-    "url": "https://loudwire.com/most-anticipated-rock-metal-albums-2026/",
-    "publishedAt": "2026-05-25T12:00:03.000Z",
-    "summary": "A lot to look forward to. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/rock-metal-songs-about-soldiers/",
-    "source": "loudwire",
-    "title": "15 Rock + Metal Songs About Soldiers",
-    "url": "https://loudwire.com/rock-metal-songs-about-soldiers/",
-    "publishedAt": "2026-05-25T11:35:44.000Z",
-    "summary": "This Memorial Day, spend some time with the lyrics to these 15 rock and metal songs about soldiers and appreciate the sacrifice of those who've served. Continue reading…",
-    "image": null
-  },
-  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWjhtWmpHaUQ1bHlWb1FXYWVfbEZSS0QzSGpFcUFZX2xiWlBzLUZKdFFTaXVtXy1ISWVRR19TVWJxTjBEa2dvYS1OU1hsb0lYb0xiekJLUzRoT2NkWVdHWFBpRUx6ZlNPQkhIcVhHM0tKNEVwZW1BMlRJMnN5Z0tHWm40QVI3bXZFdVFoNzBsUVA5MTRzVExUVDJSdm94UlVmcjZyRHYya19lVUZvekQ5RDNSa2RERDBfVUZ3?oc=5",
     "source": "kerrang",
     "title": "From Amy Lee to Architects: The icons who inspired RØRY - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWjhtWmpHaUQ1bHlWb1FXYWVfbEZSS0QzSGpFcUFZX2xiWlBzLUZKdFFTaXVtXy1ISWVRR19TVWJxTjBEa2dvYS1OU1hsb0lYb0xiekJLUzRoT2NkWVdHWFBpRUx6ZlNPQkhIcVhHM0tKNEVwZW1BMlRJMnN5Z0tHWm40QVI3bXZFdVFoNzBsUVA5MTRzVExUVDJSdm94UlVmcjZyRHYya19lVUZvekQ5RDNSa2RERDBfVUZ3?oc=5",
     "publishedAt": "2026-05-25T11:00:00.000Z",
     "summary": "From Amy Lee to Architects: The icons who inspired RØRY Kerrang!",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/foo-fighters-cleveland/",
-    "source": "loudwire",
-    "title": "ENTER NOW: Win a Trip to See the Foo Fighters in Cleveland, Ohio",
-    "url": "https://loudwire.com/foo-fighters-cleveland/",
-    "publishedAt": "2026-05-25T10:00:39.000Z",
-    "summary": "Win a trip to Cleveland to experience the Foo Fighters LIVE in concert and check out the Rock and Roll Hall of Fame. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/news/drake-becomes-first-artist-to-hold-top-three-billboard-hot-200-spots/",
-    "source": "pitchfork",
-    "title": "Drake Becomes First Artist to Hold Top Three Billboard 200 Spots",
-    "url": "https://pitchfork.com/news/drake-becomes-first-artist-to-hold-top-three-billboard-hot-200-spots/",
-    "publishedAt": "2026-05-24T21:34:46.000Z",
-    "summary": "Iceman, Habibti, and Maid of Honour just made history",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/news/it-takes-two-rapper-rob-base-dies-at-59/",
-    "source": "pitchfork",
-    "title": "“It Takes Two” Rapper Rob Base Dies at 59",
-    "url": "https://pitchfork.com/news/it-takes-two-rapper-rob-base-dies-at-59/",
-    "publishedAt": "2026-05-24T16:01:24.000Z",
-    "summary": "The Harlem MC, who was one-half of the duo Rob Base & DJ E-Z Rock, had been living with cancer",
     "image": null
   },
   {
@@ -639,15 +657,6 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/news/kaitlyn-aurelia-smith-launches-label-with-new-album-ruin-its-not-just-music/",
-    "source": "pitchfork",
-    "title": "Kaitlyn Aurelia Smith Launches Label With New Album Ruin: It’s Not Just Music",
-    "url": "https://pitchfork.com/news/kaitlyn-aurelia-smith-launches-label-with-new-album-ruin-its-not-just-music/",
-    "publishedAt": "2026-05-22T17:07:23.000Z",
-    "summary": "The beat-heavy LP inaugurates her Someone Special label",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/features/blogs/good-evening-hippies-and-welcome-to-this-months-free-uncut-cd-curated-by-robert-fripp-154766/",
     "source": "uncut",
     "title": "Good Evening, Hippies – and welcome to this month’s FREE Uncut CD, curated by Robert Fripp!",
@@ -672,15 +681,6 @@
     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPS3VSODVEbFk3OHAwQWV0cXg1cUVnbGlkNGY3MjlWNGNnRTlDQmRWNE5LenBlMTVKS0g1a0FrUWZJczJNVXI1cVVDeDBkRFFmd3FLaGlEQkZ6LUdoU3l2bGlZcm1XT2JmdDRHT09qS1UyVzFfZXpicEZIMFprQ3paUk0yWVRka2tGZWwyLU1hYlhweVpZcm1HS0lWRWhocDZVTXVvMmgxM2tzdTF5REtmVkNxRVR1emlqV1pOcVZEcC1sTi0tVFFGQms5SFZ2cDNxM3B2alVsMVlZaHJzS1Znb2ZoMi0?oc=5",
     "publishedAt": "2026-05-22T12:42:00.000Z",
     "summary": "“It’s aggressive, emotional, and captures a side of us we’ve always… Kerrang!",
-    "image": null
-  },
-  {
-    "id": "uncut-https://www.uncut.co.uk/news/dexys-midnight-runners-announce-new-album-love-154728/",
-    "source": "uncut",
-    "title": "Dexys Midnight Runners announce new album, LOVE",
-    "url": "https://www.uncut.co.uk/news/dexys-midnight-runners-announce-new-album-love-154728/",
-    "publishedAt": "2026-05-22T12:33:59.000Z",
-    "summary": "Watch a video for the first single \"My Life In England Pt 1\" now",
     "image": null
   },
   {
