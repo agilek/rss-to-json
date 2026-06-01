@@ -1,5 +1,50 @@
 [
   {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-live-reviews/roots-picnic-2026-festival-recap-takeaways-1235570766/",
+    "source": "rolling-stone",
+    "title": "Jay-Z Shuts It Down and More Takeaways From Roots Picnic 2026",
+    "url": "https://www.rollingstone.com/music/music-live-reviews/roots-picnic-2026-festival-recap-takeaways-1235570766/",
+    "publishedAt": "2026-06-01T23:31:44.000Z",
+    "summary": "Just like Hov, the festival returned with something to prove",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/produce-101-japan-shinsekai-recap-finale-1236261979/",
+    "source": "billboard",
+    "title": "‘PRODUCE 101 JAPAN SHINSEKAI’: Struggles, Tears, Stunning Reversals & Standout Moments on the Road to the Gripping Finale",
+    "url": "https://www.billboard.com/music/music-news/produce-101-japan-shinsekai-recap-finale-1236261979/",
+    "publishedAt": "2026-06-01T23:03:37.000Z",
+    "summary": "One of the biggest differences between this season and the past three seasons is that this is now a global audition.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/dua-lipa-callum-turner-relationship-timeline/",
+    "source": "billboard",
+    "title": "Dua Lipa & Callum Turner’s Relationship Timeline",
+    "url": "https://www.billboard.com/lists/dua-lipa-callum-turner-relationship-timeline/",
+    "publishedAt": "2026-06-01T22:57:36.000Z",
+    "summary": "After two years of dating, the couple tied the knot in one of London's most historic locations.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/media/podcasts/taylor-swift-toy-story-5-song-pop-shop-podcast-1236261729/",
+    "source": "billboard",
+    "title": "Taylor Swift’s ‘Toy Story 5’ Song Will Bring Pop Superstar Back to Country & To Movie Music",
+    "url": "https://www.billboard.com/media/podcasts/taylor-swift-toy-story-5-song-pop-shop-podcast-1236261729/",
+    "publishedAt": "2026-06-01T22:30:17.000Z",
+    "summary": "On the new Billboard Pop Shop Podcast, Katie & Keith are discussing everything we know about \"I Knew It, I Knew You\" so far.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/billboard-hot-100-top-10-countdown-for-june-6th-2026/",
+    "source": "billboard",
+    "title": "Billboard Hot 100 Top 10 Countdown For June 6th, 2026 | Billboard News",
+    "url": "https://www.billboard.com/video/billboard-hot-100-top-10-countdown-for-june-6th-2026/",
+    "publishedAt": "2026-06-01T21:47:41.000Z",
+    "summary": "Drake still dominates the top 10 of the Hot 100, but can Olivia Rodrigo’s debut entry, “The Cure,” or Ella Langley’s “Choosin’ Texas” sweep Drake from his No. 1 spot this week? Tetris Kelly: Does Olivia Rodrigo have what it takes to overcome the Drake takeover? This is the Billboard Hot 100 top 10 for […]",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/latin/coca-cola-flow-fest-2026-lineupanuel-aa-ozuna-kali-uchis-1236261849/",
     "source": "billboard",
     "title": "Anuel AA, Ozuna, Kali Uchis & More to Headline Coca-Cola Flow Fest 2026",
@@ -114,42 +159,6 @@
     "url": "https://loudwire.com/yungblud-idols-world-tour-review-photos/",
     "publishedAt": "2026-06-01T19:49:34.000Z",
     "summary": "The sold-out trek has cemented the young Brit as one of rock's brightest current stars. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/sabrina-carpenter-restraining-order-alleged-stalker/",
-    "source": "billboard",
-    "title": "Sabrina Carpenter Gets Restraining Order Against Alleged Stalker: ‘Disturbing Violations’",
-    "url": "https://www.billboard.com/pro/sabrina-carpenter-restraining-order-alleged-stalker/",
-    "publishedAt": "2026-06-01T19:03:25.000Z",
-    "summary": "31-year-old William Applegate allegedly tried to break into the pop star's home.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/jay-z-roots-picnic-freestyle-best-lines/",
-    "source": "billboard",
-    "title": "Jay-Z’s ‘Root’s Picnic Freestyle’: The 9 Best Lines",
-    "url": "https://www.billboard.com/lists/jay-z-roots-picnic-freestyle-best-lines/",
-    "publishedAt": "2026-06-01T18:55:06.000Z",
-    "summary": "Jigga gave attendees an exclusive freestyle addressing all the drama he's found himself in the past several years. Check out our favorite bars.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/bts-swim-global-charts-june-6-1236261611/",
-    "source": "billboard",
-    "title": "BTS’ ‘Swim’ Ties ‘Dynamite’ for Its Longest No. 1 Run on Billboard Global Excl. U.S. Chart",
-    "url": "https://www.billboard.com/music/chart-beat/bts-swim-global-charts-june-6-1236261611/",
-    "publishedAt": "2026-06-01T18:54:53.000Z",
-    "summary": "Plus, “Janice STFU” becomes Drake’s first multi-week leader on the Global 200.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-    "source": "billboard",
-    "title": "Billboard’s Music Industry Events Calendar",
-    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-    "publishedAt": "2026-06-01T18:51:00.000Z",
-    "summary": "A complete rundown of the most important events across the music business.",
     "image": null
   },
   {
@@ -342,6 +351,15 @@
     "image": null
   },
   {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMikAFBVV95cUxPTlk0MjdDcGJKaUdTSHlweVVleDBEaGR2UEFvN24xZ3dseUI0WnhxY2FIMlN4anA3ZG5VTzNwRHJmMF9ZNnJuQ2JUckRTSEF6cDBjZ09qaENYZjhCRU1RY2hjakFZbkJvZ1lVYzlGaVdqbER1Rk12NExnNHRRQkdmelVlcmx1NHp4S20wbk8xTno?oc=5",
+    "source": "kerrang",
+    "title": "“This is more than just another tour for us”: Imminence announce huge UK and Europe shows for 2027 - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTlk0MjdDcGJKaUdTSHlweVVleDBEaGR2UEFvN24xZ3dseUI0WnhxY2FIMlN4anA3ZG5VTzNwRHJmMF9ZNnJuQ2JUckRTSEF6cDBjZ09qaENYZjhCRU1RY2hjakFZbkJvZ1lVYzlGaVdqbER1Rk12NExnNHRRQkdmelVlcmx1NHp4S20wbk8xTno?oc=5",
+    "publishedAt": "2026-06-01T13:00:00.000Z",
+    "summary": "“This is more than just another tour for us”: Imminence announce huge UK and Europe shows for 2027 Kerrang!",
+    "image": null
+  },
+  {
     "id": "loudwire-https://loudwire.com/armored-saint-john-bush-emotion-factory-reset-album-title-interview/",
     "source": "loudwire",
     "title": "Armored Saint's Singer on Significance of 'Emotion Factory Reset'",
@@ -456,15 +474,6 @@
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSzFoSDg1RG96U1c1d2Y2SWt2TkJzUVpneGxSRUc4dXc2M2tMTHVMVHJjRDRMSDRIN0Y5b2ptX1RZUXFjWklCdk5yWVR0SnZGTWRiV1JzOEpkc2pPUVBBTUtyRUgzUVd4S1ZBa28wbmY2dnZ6aFNyZmwzbURINHVGSVFLVkczZ2RtV0lUUVhNaFJCeHRvRjgyOV9NU3QwTG56WmdCQ3NHT1VXUURKeTdQM2FiMkJneXZ2bXNGTW43bTJzMnhqMGc?oc=5",
     "publishedAt": "2026-06-01T08:11:57.000Z",
     "summary": "Jay-Z slams Drake, Kanye West and Nicki Minaj at hit-packed live comeback at Roots Picnic NME",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/mick-jagger-the-rolling-stones-tour-interview-bbc-1235570542/",
-    "source": "rolling-stone",
-    "title": "Mick Jagger Says He ‘Can’t Wait’ to Tour With the Rolling Stones Again",
-    "url": "https://www.rollingstone.com/music/music-news/mick-jagger-the-rolling-stones-tour-interview-bbc-1235570542/",
-    "publishedAt": "2026-06-01T07:47:49.000Z",
-    "summary": "The musician confirmed a tour won’t happen in 2026, but will be “as soon as possible”",
     "image": null
   },
   {
@@ -708,15 +717,6 @@
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE41OWdCRUZDcl9hYVBsZG5jZ1I5YTZGa1p2bk9UdGVrQXBUN1RNaC1HWHZuV2l1bWh1SVRwVzRNQkQyOVNpRG9Bb0sxVzFpOWh0NWcxSHVSZlprNHp1c3ZWUTFZOXhGX2FPREZ1bUIzZzJRZw?oc=5",
     "publishedAt": "2026-05-27T07:00:00.000Z",
     "summary": "Album review: Static Dress – Injury Episode Kerrang!",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMijgJBVV95cUxQaWVmdnZUQmltVC1Ua3oxdUJFN2ZPeHFnVUVUSkFuMU5CaUxJUHFuRnpWNzJ3RnYtQXk1NDNJUzA0TS0zU2JVekZTRHlmRVV2QW5ITjZva1VJNzQ1VW8taF9TMHJNTTlEcEx6WTVJVUptUXlBZGRkQTRIektSSzFlNTdZTW9kV2hhRW9na2Y1VE5JT2dqeTVYLTVwdjBvQ19lV1hKWGFkZW9KUW9JWE9RNVZPYmdWSzZWa1VILXkxUmxWa3dWalp3NlRTQWY3X2Q3REh0QlFfZVJvbFhEMC1TUkFuLVBhdk5VblpjOEFVSnY3YTM5cWVCR3RCWmk3aVRTZWI3emdpQlNPNFRxbGc?oc=5",
-    "source": "kerrang",
-    "title": "The Big Review: Slam Dunk 2026 - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQaWVmdnZUQmltVC1Ua3oxdUJFN2ZPeHFnVUVUSkFuMU5CaUxJUHFuRnpWNzJ3RnYtQXk1NDNJUzA0TS0zU2JVekZTRHlmRVV2QW5ITjZva1VJNzQ1VW8taF9TMHJNTTlEcEx6WTVJVUptUXlBZGRkQTRIektSSzFlNTdZTW9kV2hhRW9na2Y1VE5JT2dqeTVYLTVwdjBvQ19lV1hKWGFkZW9KUW9JWE9RNVZPYmdWSzZWa1VILXkxUmxWa3dWalp3NlRTQWY3X2Q3REh0QlFfZVJvbFhEMC1TUkFuLVBhdk5VblpjOEFVSnY3YTM5cWVCR3RCWmk3aVRTZWI3emdpQlNPNFRxbGc?oc=5",
-    "publishedAt": "2026-05-26T15:30:00.000Z",
-    "summary": "The Big Review: Slam Dunk 2026 Kerrang!",
     "image": null
   }
 ]
