@@ -1,11 +1,173 @@
 [
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/lauv-drops-out-khalid-tour-mental-health-struggles-1236263154/",
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/hydro-flask-x-universal-music-group-online-1236262062/",
     "source": "billboard",
-    "title": "Lauv Drops Out Midway Through Tour With Khalid Due to Mental Health Issues: ‘I’m Deeply Struggling’",
-    "url": "https://www.billboard.com/music/music-news/lauv-drops-out-khalid-tour-mental-health-struggles-1236263154/",
-    "publishedAt": "2026-06-03T16:47:23.000Z",
-    "summary": "\"I've been trying to be strong enough to get back out there and share this music with all of you,\" he wrote.",
+    "title": "Universal Music Group Partners With Hydro Flask To Reduce Single-Use Drinkware in Music Studios",
+    "url": "https://www.billboard.com/culture/product-recommendations/hydro-flask-x-universal-music-group-online-1236262062/",
+    "publishedAt": "2026-06-03T21:16:55.000Z",
+    "summary": "Hydro Flask x UMG collections feature reusable bottles, mugs, tumblers and other drinkware items.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/nyc-mayor-zohran-mamdani-asap-rocky-rap-battle-1236263430/",
+    "source": "billboard",
+    "title": "NYC Mayor Zohran Mamdani Admits He’d Lose a Rap Battle to A$AP Rocky, But Wants to Collaborate With Harlem Rapper",
+    "url": "https://www.billboard.com/music/rb-hip-hop/nyc-mayor-zohran-mamdani-asap-rocky-rap-battle-1236263430/",
+    "publishedAt": "2026-06-03T21:12:40.000Z",
+    "summary": "Rocky has his own plans of running for mayor.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/best-home-arcade-game-machine-buy-online-1236261507/",
+    "source": "billboard",
+    "title": "Plug-In & Play: These are the Best Home Arcade Game Machines Available to Buy Online",
+    "url": "https://www.billboard.com/culture/product-recommendations/best-home-arcade-game-machine-buy-online-1236261507/",
+    "publishedAt": "2026-06-03T21:05:50.000Z",
+    "summary": "This list includes machines of all sizes that are loaded up with timely and nostalgic games.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/lauv-drops-out-khalid-tour-mental-health-1235571960/",
+    "source": "rolling-stone",
+    "title": "Lauv Drops Out of Tour With Khalid Citing Mental Health Struggles: ‘Trying to Be Strong’",
+    "url": "https://www.rollingstone.com/music/music-news/lauv-drops-out-khalid-tour-mental-health-1235571960/",
+    "publishedAt": "2026-06-03T20:31:58.000Z",
+    "summary": "\"I have to be honest with myself and with you: I'm deeply struggling right now,\" the singer wrote on Tuesday",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/bts-arirang-tour-homecoming-concert-livestream-buy-tickets-1236262250/",
+    "source": "billboard",
+    "title": "‘BTS World Tour ARIRANG in Busan’: Here’s Where to Buy Tickets to Limited Homecoming Screening Online",
+    "url": "https://www.billboard.com/culture/product-recommendations/bts-arirang-tour-homecoming-concert-livestream-buy-tickets-1236262250/",
+    "publishedAt": "2026-06-03T20:28:44.000Z",
+    "summary": "BTS' Busan livestream is set to hit the big screen for just one day only. Buy tickets online.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "source": "billboard",
+    "title": "Billboard’s Music Industry Events Calendar",
+    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "publishedAt": "2026-06-03T20:25:00.000Z",
+    "summary": "A complete rundown of the most important events across the music business.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/peabo-bryson-whole-new-world-partner-regina-belle-tribute-1236263280/",
+    "source": "billboard",
+    "title": "Regina Belle Pays Tribute to ‘Whole New World’ Duet Partner Peabo Bryson: ‘More Than a Legendary Artist’",
+    "url": "https://www.billboard.com/music/rb-hip-hop/peabo-bryson-whole-new-world-partner-regina-belle-tribute-1236263280/",
+    "publishedAt": "2026-06-03T20:23:05.000Z",
+    "summary": "\"The hardest part of this moment is knowing that I will never be able to sing again with the person who helped me create such magic,\" she shared.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/axs-partners-indie-venues-troubadour-first-avenue/",
+    "source": "billboard",
+    "title": "AXS Expands Indie Venue Support Via Partnerships With the Troubadour, First Ave, Marathon Live",
+    "url": "https://www.billboard.com/pro/axs-partners-indie-venues-troubadour-first-avenue/",
+    "publishedAt": "2026-06-03T20:18:36.000Z",
+    "summary": "The new and renewed partnerships reinforce AXS' relationship independent venues nationwide.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/backrooms-streaming-gains-amas-michael-jackson-trending-up-1236263289/",
+    "source": "billboard",
+    "title": "How Much Did ‘Backrooms’ Boost Obscure Songs from The Caretaker and Christopher Saint On Streaming?",
+    "url": "https://www.billboard.com/music/pop/backrooms-streaming-gains-amas-michael-jackson-trending-up-1236263289/",
+    "publishedAt": "2026-06-03T20:12:20.000Z",
+    "summary": "On this week's Trending Up, we also look at streaming surges related to the 2026 American Music Awards.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/fifa-world-cup-2026-countdown-concert-lineup-major-lazer-1236263338/",
+    "source": "billboard",
+    "title": "Major Lazer & Los Ángeles Azules Join FIFA World Cup 2026 Countdown Concert Lineups for L.A. & Mexico City",
+    "url": "https://www.billboard.com/music/music-news/fifa-world-cup-2026-countdown-concert-lineup-major-lazer-1236263338/",
+    "publishedAt": "2026-06-03T20:12:00.000Z",
+    "summary": "The event will bring together the three cities hosting the first match for each host country on June 10.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/billboard-hot-latin-songs-top-10-countdown-for-june-6-2026/",
+    "source": "billboard",
+    "title": "Billboard Hot Latin Songs Top 10 Countdown For June 6th, 2026 | Billboard Latin",
+    "url": "https://www.billboard.com/video/billboard-hot-latin-songs-top-10-countdown-for-june-6-2026/",
+    "publishedAt": "2026-06-03T20:11:23.000Z",
+    "summary": "Can Bad Bunny’s “DtMF” stay on top on the Hot Latin Songs or will Karol G or Peso Pluma take the No. 1 spot? Narrator: Here’s the Billboard Hot Latin Songs Top 10 for the week dated June 6th! “KOKO” gets the countdown going at No. 10. “Todo Lo Fue” keeps its grip at nine, […]",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/nita-strauss-baby-boy-maxwell-james/",
+    "source": "loudwire",
+    "title": "Guitarist Nita Strauss Celebrates Birth Of Son Maxwell James",
+    "url": "https://loudwire.com/nita-strauss-baby-boy-maxwell-james/",
+    "publishedAt": "2026-06-03T19:49:04.000Z",
+    "summary": "Strauss already has plans for baby Max when it's time to head back out on tour. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/jay-z-freestyle-beef-1235571871/",
+    "source": "rolling-stone",
+    "title": "Jay-Z Is Too Big for Rap Beef. That May Be the Problem",
+    "url": "https://www.rollingstone.com/music/music-features/jay-z-freestyle-beef-1235571871/",
+    "publishedAt": "2026-06-03T18:59:20.000Z",
+    "summary": "His Roots Picnic freestyle had the force of a legend clearing the air, but it also raised a harder question: What does rap beef do for an icon who already won?",
+    "image": null
+  },
+  {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGb1lLemYtT0lSYzBpcXZYUXZLR2t2d3c5SXZvUUtrVDJ6OHd0NktZM0FZSFM5aXlGZUpnaThMblNjOXJhOWhXUnVhLTg2c05PYUpEX3JMNDhsOXNqb09SNHMwZmlKMU55?oc=5",
+    "source": "kerrang",
+    "title": "The Pretty Reckless - Dear God LP w/ Signed Poster - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGb1lLemYtT0lSYzBpcXZYUXZLR2t2d3c5SXZvUUtrVDJ6OHd0NktZM0FZSFM5aXlGZUpnaThMblNjOXJhOWhXUnVhLTg2c05PYUpEX3JMNDhsOXNqb09SNHMwZmlKMU55?oc=5",
+    "publishedAt": "2026-06-03T18:58:33.000Z",
+    "summary": "The Pretty Reckless - Dear God LP w/ Signed Poster Kerrang!",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/kip-moore-compares-american-country-fans-with-europe-1235571285/",
+    "source": "rolling-stone",
+    "title": "Kip Moore Is a Superstar Overseas. What Gives, America?",
+    "url": "https://www.rollingstone.com/music/music-features/kip-moore-compares-american-country-fans-with-europe-1235571285/",
+    "publishedAt": "2026-06-03T18:49:44.000Z",
+    "summary": "With the terrific new album Reason to Believe out now, the Georgia country singer takes stock of his fans on both sides of the pond",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/the-afghan-whigs-take-soft-control-on-new-album-and-tour/",
+    "source": "pitchfork",
+    "title": "The Afghan Whigs Take Soft Control on New Album and Tour",
+    "url": "https://pitchfork.com/news/the-afghan-whigs-take-soft-control-on-new-album-and-tour/",
+    "publishedAt": "2026-06-03T18:10:17.000Z",
+    "summary": "Greg Dulli and co. return with their first new LP in four years",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/weezer-we-might-as-well-be-strangers-wednesday-self-titled-gold-album/",
+    "source": "loudwire",
+    "title": "Weezer Drop New Collab, Announce 20th Album With Familiar Title",
+    "url": "https://loudwire.com/weezer-we-might-as-well-be-strangers-wednesday-self-titled-gold-album/",
+    "publishedAt": "2026-06-03T17:18:59.000Z",
+    "summary": "Weezer release their new collaboration with Wednesday on 'We Might as Well Be Strangers\" along with details of their self-titled 20th studio album. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/weezer-new-album-we-might-as-well-be-strangers-single-1235571741/",
+    "source": "rolling-stone",
+    "title": "Weezer Preview Self-Titled Album With ‘We Might As Well Be Strangers’ Featuring Wednesday",
+    "url": "https://www.rollingstone.com/music/music-news/weezer-new-album-we-might-as-well-be-strangers-single-1235571741/",
+    "publishedAt": "2026-06-03T17:17:03.000Z",
+    "summary": "Weezer arrives on Aug. 21 and feautres the previously released single “Shine Again”",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/national-symphony-orchestra-may-not-survive-trumps-kennedy-center-chaos/",
+    "source": "pitchfork",
+    "title": "National Symphony Orchestra “May Not Survive” Trump’s Kennedy Center Chaos",
+    "url": "https://pitchfork.com/news/national-symphony-orchestra-may-not-survive-trumps-kennedy-center-chaos/",
+    "publishedAt": "2026-06-03T16:56:57.000Z",
+    "summary": "Ben Folds, the former artistic advisor to the NSO, broke the news in an open letter",
     "image": null
   },
   {
@@ -15,15 +177,6 @@
     "url": "https://www.rollingstone.com/music/music-lists/bad-bunny-tour-dates-best-moments-highlights-1235489060/",
     "publishedAt": "2026-06-03T16:44:08.000Z",
     "summary": "From playing surprise hits to ending yearslong rivalries onstage, here are some highlights from the Puerto Rican star’s recent shows",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/peabo-bryson-biggest-songs-whole-new-world-beauty-and-the-beast/",
-    "source": "billboard",
-    "title": "Peabo Bryson’s Biggest Hit Songs: ‘A Whole New World,’ ‘Show & Tell’ and More",
-    "url": "https://www.billboard.com/lists/peabo-bryson-biggest-songs-whole-new-world-beauty-and-the-beast/",
-    "publishedAt": "2026-06-03T16:40:30.000Z",
-    "summary": "The Grammy Award-winning singer claimed more than 40 tracks on the Hot R&B/Hip-Hop Songs chart and topped the Hot 100 in 1993.",
     "image": null
   },
   {
@@ -41,25 +194,7 @@
     "title": "Flo Rida Hasn’t Said a Word About Donald Trump’s Freedom 250 Concert. So We Asked His ‘FloGPT’",
     "url": "https://www.rollingstone.com/music/music-news/flo-rida-playing-trump-freedom-250-concert-ai-bot-1235571709/",
     "publishedAt": "2026-06-03T16:33:44.000Z",
-    "summary": "The rapper's own AI chatbot gave a shocking answer when queried about the \"Low\" rapper's participation in the Great American State Fair concert series",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/drake-first-artist-100-hits-radio-songs-chart-1236263164/",
-    "source": "billboard",
-    "title": "Not ‘2 Hard 4 the Radio’: Drake Becomes First Artist With 100 Career Hits on Radio Songs Chart",
-    "url": "https://www.billboard.com/music/chart-beat/drake-first-artist-100-hits-radio-songs-chart-1236263164/",
-    "publishedAt": "2026-06-03T16:27:51.000Z",
-    "summary": "The 6 God commands with the most entries ever on the Hot 100, Streaming Songs and Radio Songs.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/dame-dash-reacts-jay-z-diss-drake-beat-hov-rap-battle-1236263064/",
-    "source": "billboard",
-    "title": "Dame Dash Responds to Jay-Z’s Roots Picnic Diss, Claims Drake Could Beat Hov in a Rap Battle: ‘I Know That for a Fact’",
-    "url": "https://www.billboard.com/music/rb-hip-hop/dame-dash-reacts-jay-z-diss-drake-beat-hov-rap-battle-1236263064/",
-    "publishedAt": "2026-06-03T16:21:26.000Z",
-    "summary": "\"I just felt kinda embarrassed for him,\" he said of the rap legend returning to the stage.",
+    "summary": "The rapper’s own AI chatbot gave a shocking answer when queried about the “Low” rapper’s participation in the Great American State Fair concert series",
     "image": null
   },
   {
@@ -72,48 +207,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/asap-rocky-zohran-mamdani-rap-battle-mayor-race-1236263099/",
-    "source": "billboard",
-    "title": "A$AP Rocky Says He’d Beat Zohran Mamdani in a Rap Battle & at the Polls: ‘I’m About to Be Mayor Mayers’",
-    "url": "https://www.billboard.com/music/music-news/asap-rocky-zohran-mamdani-rap-battle-mayor-race-1236263099/",
-    "publishedAt": "2026-06-03T16:08:44.000Z",
-    "summary": "\"I'm really gonna run for mayor,\" the rapper stressed. \"Watch this s--t.\"",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-album-reviews/kim-petras-detour-album-review-1235571168/",
     "source": "rolling-stone",
     "title": "Kim Petras Gets Back on Track With ‘Detour’",
     "url": "https://www.rollingstone.com/music/music-album-reviews/kim-petras-detour-album-review-1235571168/",
     "publishedAt": "2026-06-03T16:04:57.000Z",
     "summary": "On Detour, Petras finds a path forward with new producers and a clear vision for the future of her career",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/country/acm-our-country-digital-series-kaitlin-butts-wyatt-flores-1236262502/",
-    "source": "billboard",
-    "title": "ACM Launches ‘Our Country’ Digital Series Featuring Kaitlin Butts, Wyatt Flores, Jo Dee Messina & More",
-    "url": "https://www.billboard.com/music/country/acm-our-country-digital-series-kaitlin-butts-wyatt-flores-1236262502/",
-    "publishedAt": "2026-06-03T16:00:00.000Z",
-    "summary": "The series highlights the power of songwriting and storytelling.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/latin/shakira-2026-world-cup-soccer-bond-1236263072/",
-    "source": "billboard",
-    "title": "Shakira Reflects on Her ‘Unbreakable’ Bond With Soccer: ‘Every World Cup Is Really Magical’",
-    "url": "https://www.billboard.com/music/latin/shakira-2026-world-cup-soccer-bond-1236263072/",
-    "publishedAt": "2026-06-03T15:38:04.000Z",
-    "summary": "\"This one is going to be all about bringing people together in this very sensitive moment in time,\" she said.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/sxsw-london-2026-aeg-alex-hill-uk-ticket-resale-ban/",
-    "source": "billboard",
-    "title": "SXSW London 2026: AEG’s Alex Hill Says U.K. Live Industry Wants to Move ‘Quicker’ Than Government on Ticket Resale Legislation",
-    "url": "https://www.billboard.com/pro/sxsw-london-2026-aeg-alex-hill-uk-ticket-resale-ban/",
-    "publishedAt": "2026-06-03T15:07:08.000Z",
-    "summary": "The legislation was promised by the Labour party in their 2024 election manifesto.",
     "image": null
   },
   {
@@ -126,30 +225,21 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/post-malone-hit-songs-lullabies-rockabye-baby-1236262299/",
-    "source": "billboard",
-    "title": "Rockabye Baby Is Giving Parents ‘Some Help’: Post Malone’s Hits Are Turning Into Lullabies",
-    "url": "https://www.billboard.com/music/music-news/post-malone-hit-songs-lullabies-rockabye-baby-1236262299/",
-    "publishedAt": "2026-06-03T15:00:00.000Z",
-    "summary": "Little ones can soon doze off to songs such as \"Circles,\" \"Sunflower\" and more.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/celine-dion-honors-peabo-bryson-death-heartbroken-1236263045/",
-    "source": "billboard",
-    "title": "Celine Dion ‘Heartbroken’ Over Death of ‘Beauty & the Beast’ Duet Partner Peabo Bryson: ‘He Was So Wonderful’",
-    "url": "https://www.billboard.com/music/music-news/celine-dion-honors-peabo-bryson-death-heartbroken-1236263045/",
-    "publishedAt": "2026-06-03T15:00:00.000Z",
-    "summary": "\"He will remain for me always as a real symbol of the joy that music has brought to my life,\" the vocalist wrote.",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/news/snail-mail-and-soccer-mommy-set-co-headlining-tour/",
     "source": "pitchfork",
     "title": "Snail Mail and Soccer Mommy Set Co-Headlining Tour",
     "url": "https://pitchfork.com/news/snail-mail-and-soccer-mommy-set-co-headlining-tour/",
     "publishedAt": "2026-06-03T14:57:22.000Z",
     "summary": "Lindsey Jordan and Sophie Allison will be joined by Brennan Wedl and Scarlet Rae on the fall U.S. run",
+    "image": null
+  },
+  {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMitwFBVV95cUxNODhSMTdld1YtVExvOHBRNFR5bVVJUm1xWnI4bzF5UU5TM0czTWFRMm1iVzZZRTY5T3MzcFNuYk9DTmtvQlQydndQNXpYUHhrZ25vMXFQMzR6WDNPanAzLVJfOFdlS1phOEVRN0pfMGQxRU9GVnliajgwNGREVDl5RnBoOWdQZ3F1aHBNbHJBY3ZPc3RtZlJXbG9fa1hFUWZIeE5uaE9EQkFwUjVObTBzYVI0RENGOW8?oc=5",
+    "source": "kerrang",
+    "title": "The Pretty Reckless: “Music can immortalise people. It’ll exist long… - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNODhSMTdld1YtVExvOHBRNFR5bVVJUm1xWnI4bzF5UU5TM0czTWFRMm1iVzZZRTY5T3MzcFNuYk9DTmtvQlQydndQNXpYUHhrZ25vMXFQMzR6WDNPanAzLVJfOFdlS1phOEVRN0pfMGQxRU9GVnliajgwNGREVDl5RnBoOWdQZ3F1aHBNbHJBY3ZPc3RtZlJXbG9fa1hFUWZIeE5uaE9EQkFwUjVObTBzYVI0RENGOW8?oc=5",
+    "publishedAt": "2026-06-03T14:50:00.000Z",
+    "summary": "The Pretty Reckless: “Music can immortalise people. It’ll exist long… Kerrang!",
     "image": null
   },
   {
@@ -203,7 +293,7 @@
     "title": "Deer Tick Used to Be a Chaotic Party Band. Now They Run Their Business on Slack",
     "url": "https://www.rollingstone.com/music/music-features/deer-tick-john-mccauley-rehab-new-album-coin-o-matic-1235571398/",
     "publishedAt": "2026-06-03T13:39:54.000Z",
-    "summary": "After weathering a rehab stint by leader John McCauley and pandemic fallout, the Rhode Island folk-rock band grow up on their new album Coin-O-Matic",
+    "summary": "After weathering a rehab stint by leader John McCauley and pandemic fallout, the Rhode Island folk-rock band grow up on their new album, Coin-O-Matic",
     "image": null
   },
   {
@@ -213,15 +303,6 @@
     "url": "https://loudwire.com/amy-lee-evanescence-exclusive-interview-2026/",
     "publishedAt": "2026-06-03T13:29:09.000Z",
     "summary": "In Loudwire's Cover Story interview, Amy Lee dives deep into Evanescence's new album, 'Sanctuary,' and the power of music, lyrics and more. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-album-reviews/red-clay-strays-grateful-review-1235571104/",
-    "source": "rolling-stone",
-    "title": "The Red Clay Strays Are a Rock Band Both God-Fearing and Ass-Kicking",
-    "url": "https://www.rollingstone.com/music/music-album-reviews/red-clay-strays-grateful-review-1235571104/",
-    "publishedAt": "2026-06-03T13:21:45.000Z",
-    "summary": "The Alabama country-rock group level up — and power up — on their excellent new album Grateful",
     "image": null
   },
   {
@@ -249,6 +330,15 @@
     "url": "https://louderthanwar.com/bowie-nights-behind-the-lens-with-six-bowie-photographers/",
     "publishedAt": "2026-06-03T10:51:49.000Z",
     "summary": "Lightroom in London hosted a series of short interviews with six well-known photographers who all worked closely with David Bowie, hosted by Miranda Sawyer and featuring Kevin Cummins, Geoff McCormack, Richard Young, Denis O’Regan, Chris Duffy and Tony McGee. Lightroom takes a break from the David Bowie: You Are Not Alone experience to bring a […] The post Bowie Nights: Behind The Lens with six Bowie photographers appeared first on Louder Than War.",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMiggJBVV95cUxQREdHZVNybjRnVm54ZzlvcWFnWVJzNE9yMkNfSmZfZnByNEZvRTNWamtxTGJqeS11aFFrbFQycmJSN1U0c0dqQXUzTjJLZG9YS0s5TVBVNzVZUTVncnl0X0lCWjhUSXZIY2IwWDVwQnpDUVVPVVhrZ2lUcHROTXNaRWhZZWY0WW9LeUMxaUZxUUlxcHpacDlldWx0M3U1QkZydnl1TklWRWxHbmVGNUpLbkVzemllZ3UwMzEwYzRfQk1pSGhPTEJUc1pudkdrUncwZk9mbEhmWGttZEdjZnhqb3NWNUJEZHlCaWdMRjVraTVTNUFXZjVmVU43blJuRWZRRGc?oc=5",
+    "source": "nme",
+    "title": "Chrissie Hynde hits out at gig-goers' \"weird compulsion” to pull out phones at shows: “No one seems to understand why artists don’t like it\" - NME",
+    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQREdHZVNybjRnVm54ZzlvcWFnWVJzNE9yMkNfSmZfZnByNEZvRTNWamtxTGJqeS11aFFrbFQycmJSN1U0c0dqQXUzTjJLZG9YS0s5TVBVNzVZUTVncnl0X0lCWjhUSXZIY2IwWDVwQnpDUVVPVVhrZ2lUcHROTXNaRWhZZWY0WW9LeUMxaUZxUUlxcHpacDlldWx0M3U1QkZydnl1TklWRWxHbmVGNUpLbkVzemllZ3UwMzEwYzRfQk1pSGhPTEJUc1pudkdrUncwZk9mbEhmWGttZEdjZnhqb3NWNUJEZHlCaWdMRjVraTVTNUFXZjVmVU43blJuRWZRRGc?oc=5",
+    "publishedAt": "2026-06-03T10:04:42.000Z",
+    "summary": "Chrissie Hynde hits out at gig-goers' \"weird compulsion” to pull out phones at shows: “No one seems to understand why artists don’t like it\" NME",
     "image": null
   },
   {
@@ -297,30 +387,12 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/michael-stipe-andrew-watt-i-played-the-fool-kimmel-1235571519/",
-    "source": "rolling-stone",
-    "title": "Watch Michael Stipe and Andrew Watt Showcase ‘I Played the Fool’ on ‘Kimmel’",
-    "url": "https://www.rollingstone.com/music/music-news/michael-stipe-andrew-watt-i-played-the-fool-kimmel-1235571519/",
-    "publishedAt": "2026-06-03T06:33:18.000Z",
-    "summary": "The collaborative song appeared during the opening credits of Steve Carell’s recent HBO series Rooster",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/taylor-swift-paul-mccartney-the-boys-of-dungeon-lane-1235571508/",
-    "source": "rolling-stone",
-    "title": "Taylor Swift Shows Love for Paul McCartney’s New Album: ‘Never Not Inspired’",
-    "url": "https://www.rollingstone.com/music/music-news/taylor-swift-paul-mccartney-the-boys-of-dungeon-lane-1235571508/",
-    "publishedAt": "2026-06-03T05:00:07.000Z",
-    "summary": "The former Beatle released his first album in six years, The Boys of Dungeon Lane, in May",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/peabo-bryson-dead-obituary-1235571451/",
-    "source": "rolling-stone",
-    "title": "Peabo Bryson, Beloved Singer of ‘Beauty and the Beast’ and ‘A Whole New World,’ Dead at 75",
-    "url": "https://www.rollingstone.com/music/music-news/peabo-bryson-dead-obituary-1235571451/",
-    "publishedAt": "2026-06-02T23:32:11.000Z",
-    "summary": "The Grammy-winning singer was known for his towering ballads, including “I’m So Into You,” “Let the Feeling Flow,” and more",
+    "id": "kerrang-https://news.google.com/rss/articles/CBMiakFVX3lxTE9XZVA5cEg0N0Q4cnRpMG0tbHUtRWZYTVZTYWVaNXRUbHQzWUxka09EQUgxQTBuYjkzT3NMQjBnenhpMFA0ajZ5LWVqckREdjB4YldSdHdCTUMzYUJVNThMSktHS3kweWRxNUE?oc=5",
+    "source": "kerrang",
+    "title": "Album review: A.A. Williams – Solstice - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XZVA5cEg0N0Q4cnRpMG0tbHUtRWZYTVZTYWVaNXRUbHQzWUxka09EQUgxQTBuYjkzT3NMQjBnenhpMFA0ajZ5LWVqckREdjB4YldSdHdCTUMzYUJVNThMSktHS3kweWRxNUE?oc=5",
+    "publishedAt": "2026-06-03T07:19:00.000Z",
+    "summary": "Album review: A.A. Williams – Solstice Kerrang!",
     "image": null
   },
   {
@@ -423,39 +495,21 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/castle-rat-2026-north-american-tour/",
-    "source": "loudwire",
-    "title": "Castle Rat Announce Fall 2026 North American Headlining Tour",
-    "url": "https://loudwire.com/castle-rat-2026-north-american-tour/",
-    "publishedAt": "2026-06-02T14:00:10.000Z",
-    "summary": "The medieval doom metal heatseekers beckon fans to help them defend \"The Realm.\" Continue reading…",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/news/yhwh-nailguns-new-album-is-11-minutes-long/",
-    "source": "pitchfork",
-    "title": "YHWH Nailgun’s New Album Is 11 Minutes Long",
-    "url": "https://pitchfork.com/news/yhwh-nailguns-new-album-is-11-minutes-long/",
-    "publishedAt": "2026-06-02T13:15:57.000Z",
-    "summary": "Newly signed to 4AD, the New York quartet premiered three songs from Magazine on The Adam Friedland Show",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/1996-rock-song-lyrics-sing-along/",
-    "source": "loudwire",
-    "title": "12 1996 Rock Song Lyrics You Still Sing Along To",
-    "url": "https://loudwire.com/1996-rock-song-lyrics-sing-along/",
-    "publishedAt": "2026-06-02T13:10:39.000Z",
-    "summary": "Thirty years may have passed, but we bet you still sing these parts when the song plays. Continue reading…",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMigwJBVV95cUxNbHhvekFRMjdjZVBVaXRobVd6Z0g1bzcxTUx6QXJEeHB5YnFTYjJST1RkNmJ4VDFkVFh2VDc2dzNoT29VeVo4NnYyM3NYc0xySzZOc291ZGZDUERzM2VUT1cwRWlYYTZXcmRMVVpzVVk0c0xpTHFDWnhmZVdFNl9aTUx6ZWd5VjM2VjlHZmZoaXk0ZUVjdFBWQ3l6OTRxMVpzMV8xY3pPSGFCRExKNDhZTGZKZk1PWFlldW81R2FaTHdPQ1lMY3JwZlhieHBaNnl6NDVfVnBpLXNydnNfUFhxcFFsUmdVb1JWVUNDTmc4RFlQQ3d4amlNekJyTlpaYjdZdGtF?oc=5",
     "source": "nme",
     "title": "Massive Attack on taking aim at Palantir with their live show: \"I find their declarations, objectives and moral framing pretty terrifying” - NME",
     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNbHhvekFRMjdjZVBVaXRobVd6Z0g1bzcxTUx6QXJEeHB5YnFTYjJST1RkNmJ4VDFkVFh2VDc2dzNoT29VeVo4NnYyM3NYc0xySzZOc291ZGZDUERzM2VUT1cwRWlYYTZXcmRMVVpzVVk0c0xpTHFDWnhmZVdFNl9aTUx6ZWd5VjM2VjlHZmZoaXk0ZUVjdFBWQ3l6OTRxMVpzMV8xY3pPSGFCRExKNDhZTGZKZk1PWFlldW81R2FaTHdPQ1lMY3JwZlhieHBaNnl6NDVfVnBpLXNydnNfUFhxcFFsUmdVb1JWVUNDTmc4RFlQQ3d4amlNekJyTlpaYjdZdGtF?oc=5",
     "publishedAt": "2026-06-02T12:44:58.000Z",
     "summary": "Massive Attack on taking aim at Palantir with their live show: \"I find their declarations, objectives and moral framing pretty terrifying” NME",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMixAFBVV95cUxNUC1UNkxaZTB6NEpEWDhEMElXYUxqLTBtRkVIYnhlWE1XazV2bGRrcGJJckNtSlhmX0NkMnA4TmtFTWhZSXgwd3JLSW41YWl5VnBLVnRiZm5BVDJTRjdBSHA0aTFsa2xmajBxMlkyM2FFODVuWE5NdGl1eWJ0dXA5dHh1NFM3T2JGQkl4MFYzdnl2UGdVTzFUMXlsbzQwSmpGZWlBZmY5a3hsMHBBdmdLUkRqTDk0d2V4bUhjOE9SMjhjZjcz?oc=5",
+    "source": "nme",
+    "title": "Sydney Sweeney persuaded 'Euphoria' creator Sam Levinson to keep nude scenes in final season - NME",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUC1UNkxaZTB6NEpEWDhEMElXYUxqLTBtRkVIYnhlWE1XazV2bGRrcGJJckNtSlhmX0NkMnA4TmtFTWhZSXgwd3JLSW41YWl5VnBLVnRiZm5BVDJTRjdBSHA0aTFsa2xmajBxMlkyM2FFODVuWE5NdGl1eWJ0dXA5dHh1NFM3T2JGQkl4MFYzdnl2UGdVTzFUMXlsbzQwSmpGZWlBZmY5a3hsMHBBdmdLUkRqTDk0d2V4bUhjOE9SMjhjZjcz?oc=5",
+    "publishedAt": "2026-06-02T12:05:33.000Z",
+    "summary": "Sydney Sweeney persuaded 'Euphoria' creator Sam Levinson to keep nude scenes in final season NME",
     "image": null
   },
   {
@@ -504,39 +558,12 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMirAFBVV95cUxOMU9TbG5PR2R4YXZmbDAwc1p3MThHWm9rdy12ODNJT3JEY0xFcnM2NkYzNWNJVXp5bUxJdThEV0U0bGxiYWlRZWktYWQ4Y0E2X1VEajNlaU5wa2RVV2dxTThkdkwta2pCa3lyaThDYmtfSFBrdlYxSU1rUkxKcHRNTXNNYmJidGx0UE5OUjFxM0ZYeHhjeVlvUzFERHdNZEVYbDFqcWhxQ0J5Z0R0?oc=5",
-    "source": "nme",
-    "title": "Posthumous \"final\" album from The Fall on the way: \"Nine absolute bangers\" - NME",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMU9TbG5PR2R4YXZmbDAwc1p3MThHWm9rdy12ODNJT3JEY0xFcnM2NkYzNWNJVXp5bUxJdThEV0U0bGxiYWlRZWktYWQ4Y0E2X1VEajNlaU5wa2RVV2dxTThkdkwta2pCa3lyaThDYmtfSFBrdlYxSU1rUkxKcHRNTXNNYmJidGx0UE5OUjFxM0ZYeHhjeVlvUzFERHdNZEVYbDFqcWhxQ0J5Z0R0?oc=5",
-    "publishedAt": "2026-06-02T09:34:59.000Z",
-    "summary": "Posthumous \"final\" album from The Fall on the way: \"Nine absolute bangers\" NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMilgFBVV95cUxNSklyUEFnQWU5Z3dteENkaXJ5UHd6enJBeHBuUkdzblA0a0VQVzZGaTJ3d0Y0TnVCSnVodFBtLUNBeHNVWERQdVJmSWdMRmwwTnJSV1k4QnFISEhHUTBpTThLX21ldi11bFl0YlAtRzBWcHhaaTJQWWpqcHdndUFPMTk2X19aV2VuV0V4azUwLU41UHdhbUE?oc=5",
-    "source": "nme",
-    "title": "Darrell Britt-Gibson explains Bishop’s betrayal in ‘Euphoria’ finale and what the “final straw” was for him and Alamo - NME",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSklyUEFnQWU5Z3dteENkaXJ5UHd6enJBeHBuUkdzblA0a0VQVzZGaTJ3d0Y0TnVCSnVodFBtLUNBeHNVWERQdVJmSWdMRmwwTnJSV1k4QnFISEhHUTBpTThLX21ldi11bFl0YlAtRzBWcHhaaTJQWWpqcHdndUFPMTk2X19aV2VuV0V4azUwLU41UHdhbUE?oc=5",
-    "publishedAt": "2026-06-02T09:14:37.000Z",
-    "summary": "Darrell Britt-Gibson explains Bishop’s betrayal in ‘Euphoria’ finale and what the “final straw” was for him and Alamo NME",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/features/from-smoky-nights-at-the-ealing-jazz-club-to-the-dawning-of-their-first-imperial-phase-how-charlie-watts-turned-the-rollin-stones-into-the-rolling-stones-154904/",
     "source": "uncut",
     "title": "From the Ealing Jazz Club to the dawning of their first imperial phase, how Charlie Watts turned the Rollin’ Stones into The Rolling Stones",
     "url": "https://www.uncut.co.uk/features/from-smoky-nights-at-the-ealing-jazz-club-to-the-dawning-of-their-first-imperial-phase-how-charlie-watts-turned-the-rollin-stones-into-the-rolling-stones-154904/",
     "publishedAt": "2026-06-02T08:00:00.000Z",
     "summary": "The group didn't just find a great drummer, they found their identity",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/news/tierra-whack-to-open-new-whacks-museum-mixtape-on-juneteenth/",
-    "source": "pitchfork",
-    "title": "Tierra Whack to Open New (Whack’s Museum) Mixtape on Juneteenth",
-    "url": "https://pitchfork.com/news/tierra-whack-to-open-new-whacks-museum-mixtape-on-juneteenth/",
-    "publishedAt": "2026-06-02T03:00:43.000Z",
-    "summary": "The rapper also shared a phone number for fans to “text your apologies”",
     "image": null
   },
   {
@@ -690,33 +717,6 @@
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HSzRwdU5yQTdHRlluYjhPWlRyOW5jLUJrOE1yWHdvSlBVeHhyckEwaWFRa084bkhKTzBiU3hZQzREblhUclBuc2pMWV9zQVRaZlNpMkswejJnbUQ3ZmI3QTU3Q2gteUNMYkRIWQ?oc=5",
     "publishedAt": "2026-05-29T08:22:00.000Z",
     "summary": "Album review: Devin Townsend – The Moth Kerrang!",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMikwFBVV95cUxOX0w4S0E1RmplTXBicVNabDAxYlBRZHZaR0k0MVdsTzRfSDl1Yk1BMDFxY3hfS3hGd29xeE9ELWhnR21iVTZ4RDBKZmxLekJxQW9QMXg4OW5qSGM4VHc0V2R0UWNrT0dfM1p4Z1RUaTU1V0ZCMVVfQXV4Nkd1aXAzNlZlZWp0cUhMQV9xb0o4c0J1bEk?oc=5",
-    "source": "kerrang",
-    "title": "Album review: Saint Agnes – Your God Fearing Days Are About To Begin - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOX0w4S0E1RmplTXBicVNabDAxYlBRZHZaR0k0MVdsTzRfSDl1Yk1BMDFxY3hfS3hGd29xeE9ELWhnR21iVTZ4RDBKZmxLekJxQW9QMXg4OW5qSGM4VHc0V2R0UWNrT0dfM1p4Z1RUaTU1V0ZCMVVfQXV4Nkd1aXAzNlZlZWp0cUhMQV9xb0o4c0J1bEk?oc=5",
-    "publishedAt": "2026-05-29T07:00:00.000Z",
-    "summary": "Album review: Saint Agnes – Your God Fearing Days Are About To Begin Kerrang!",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMiekFVX3lxTE5Mc3BEMTNlbkNsRVE0ek1HV1BWSUdYRFVXXzFyU2RIdmM1dS1SQ21ISW1janFfTVlSZGRPYkMzLW9FWC1Zbl9VcjJ2NV9CNXkwSjVvYndKeXp6b1U0SUcwRGxkZmNXS2lJOHF1VHJaUEU4YzA5cjBVQWpB0gF_QVVfeXFMTWdFbF8xQlpGOXpGakRseUdTb1JuVVFobUoxVmdoemJrU3JTV2o3bHYyZlpfN0ZKRkRkUHltOXp2b1NCdHUwRFd4Q201UTI2by14aFFFOGM2SkVjWlNaTkVfQkh5S0FneFpNdWpGcEI1aWZScm1GQWFoUzJ3eE5fVQ?oc=5",
-    "source": "kerrang",
-    "title": "The Kerrang! Chart: The best new music this week - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Mc3BEMTNlbkNsRVE0ek1HV1BWSUdYRFVXXzFyU2RIdmM1dS1SQ21ISW1janFfTVlSZGRPYkMzLW9FWC1Zbl9VcjJ2NV9CNXkwSjVvYndKeXp6b1U0SUcwRGxkZmNXS2lJOHF1VHJaUEU4YzA5cjBVQWpB0gF_QVVfeXFMTWdFbF8xQlpGOXpGakRseUdTb1JuVVFobUoxVmdoemJrU3JTV2o3bHYyZlpfN0ZKRkRkUHltOXp2b1NCdHUwRFd4Q201UTI2by14aFFFOGM2SkVjWlNaTkVfQkh5S0FneFpNdWpGcEI1aWZScm1GQWFoUzJ3eE5fVQ?oc=5",
-    "publishedAt": "2026-05-29T07:00:00.000Z",
-    "summary": "The Kerrang! Chart: The best new music this week Kerrang!",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMibEFVX3lxTE5yOG0tU0UzZ2oxbDRTSnc5bXFMRnJ5c091a1lVY1RWWGN6ajRCcXRDaWNWZW5OM3JyWHV0WlFYa1pRTW8xR3ZaWTJ3ZnJzNlg1WGhuVWVkcDJ0SEhrY1VQRXU1Tl9OTF95ajJxQg?oc=5",
-    "source": "kerrang",
-    "title": "Album review: Sparta – Cut A Silhouette - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yOG0tU0UzZ2oxbDRTSnc5bXFMRnJ5c091a1lVY1RWWGN6ajRCcXRDaWNWZW5OM3JyWHV0WlFYa1pRTW8xR3ZaWTJ3ZnJzNlg1WGhuVWVkcDJ0SEhrY1VQRXU1Tl9OTF95ajJxQg?oc=5",
-    "publishedAt": "2026-05-28T07:00:00.000Z",
-    "summary": "Album review: Sparta – Cut A Silhouette Kerrang!",
     "image": null
   }
 ]
