@@ -1,20 +1,101 @@
 [
   {
+    "id": "pitchfork-https://pitchfork.com/news/earl-sweatshirt-postpones-north-american-tour-with-mike/",
+    "source": "pitchfork",
+    "title": "Earl Sweatshirt Postpones North American Tour With MIKE",
+    "url": "https://pitchfork.com/news/earl-sweatshirt-postpones-north-american-tour-with-mike/",
+    "publishedAt": "2026-06-05T21:25:28.000Z",
+    "summary": "The rapper allegedly suffered an undisclosed injury that will require surgery",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/skrillex-soma-album-tracks-ranked/",
+    "source": "billboard",
+    "title": "Skrillex’s ‘Soma’: All 13 Tracks Ranked",
+    "url": "https://www.billboard.com/lists/skrillex-soma-album-tracks-ranked/",
+    "publishedAt": "2026-06-05T21:13:51.000Z",
+    "summary": "Surprise, it's a new Skrillex album.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/yasuhisa-hara-kingdom-vol-79-japan-book-hot-100-second-week-1236265812/",
+    "source": "billboard",
+    "title": "Yasuhisa Hara’s ‘Kingdom’ Vol. 79 Tops Billboard Japan Book Hot 100 for Second Week",
+    "url": "https://www.billboard.com/music/chart-beat/yasuhisa-hara-kingdom-vol-79-japan-book-hot-100-second-week-1236265812/",
+    "publishedAt": "2026-06-05T21:03:23.000Z",
+    "summary": "Debuting at No. 2 is the final installment (Vol. 31) of Mayu Murata's popular shojo manga Honey Lemon Soda.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/hitsujibungaku-dogs-single-japan-women-in-music-interview-1236265789/",
+    "source": "billboard",
+    "title": "Hitsujibungaku Talk New Single ‘Dogs,’ Finding Cool Beyond Gender: Billboard Japan Women In Music Interview",
+    "url": "https://www.billboard.com/music/music-news/hitsujibungaku-dogs-single-japan-women-in-music-interview-1236265789/",
+    "publishedAt": "2026-06-05T21:00:07.000Z",
+    "summary": "The two spoke about the essence of their new single and how their mind-set has shifted over the past three years.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/baby-keem-casino-tour-brooklyn-best-moments/",
+    "source": "billboard",
+    "title": "Baby Keem Hits the Jackpot With Ca$ino Tour in Brooklyn: 5 Best Moments",
+    "url": "https://www.billboard.com/lists/baby-keem-casino-tour-brooklyn-best-moments/",
+    "publishedAt": "2026-06-05T20:53:41.000Z",
+    "summary": "Keem is set to co-headline Governors Ball in Queens on Friday night (June 5).",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/ella-langley-country-airplay-top-10s-1236265669/",
+    "source": "billboard",
+    "title": "‘Ella-bration’! Langley Becomes First Woman to Score Three Simultaneous Top 10s on Country Airplay",
+    "url": "https://www.billboard.com/music/chart-beat/ella-langley-country-airplay-top-10s-1236265669/",
+    "publishedAt": "2026-06-05T20:30:23.000Z",
+    "summary": "“Be Her” holds at No. 1 as “I Can’t Love You Anymore,” with Morgan Wallen, rises to No. 10.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/latin/best-new-latin-music-release-poll-jasiel-nunez-nicky-jam-1236265411/",
+    "source": "billboard",
+    "title": "Jasiel Nuñez’s ‘Bobo Me Tienes/Suave’ & More: Vote for the Best New Latin Music Release This Week",
+    "url": "https://www.billboard.com/music/latin/best-new-latin-music-release-poll-jasiel-nunez-nicky-jam-1236265411/",
+    "publishedAt": "2026-06-05T20:15:07.000Z",
+    "summary": "Which new Latin music release is your favorite? Vote below!",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/vans-warped-tour-2026-tickets-cheap-buy-online-1236165556/",
+    "source": "billboard",
+    "title": "Vans Warped Tour 2026: Here’s Where to Get Affordable Tickets Online",
+    "url": "https://www.billboard.com/culture/product-recommendations/vans-warped-tour-2026-tickets-cheap-buy-online-1236165556/",
+    "publishedAt": "2026-06-05T20:05:06.000Z",
+    "summary": "Starting on Saturday (June 13), the punk rock tour hits the road with dates across the United States.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/world-cup-2026-best-songs-dai-dai-champions-jump/",
+    "source": "billboard",
+    "title": "World Cup 2026: ‘Dai Dai,’ ‘Champions,’ ‘El Último Baile,’ ‘Jump’ & More Best Songs to Celebrate",
+    "url": "https://www.billboard.com/lists/world-cup-2026-best-songs-dai-dai-champions-jump/",
+    "publishedAt": "2026-06-05T20:04:34.000Z",
+    "summary": "In the spirit of the 2026 soccer tournament, here’s a roundup of the best World Cup-related songs.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/taylor-swift-i-knew-it-i-knew-you-video-toy-story-5-1236265564/",
+    "source": "billboard",
+    "title": "Taylor Swift Tells a ‘Toy Story 5’ Love Story With Animated ‘I Knew It, I Knew You’ Video: Watch",
+    "url": "https://www.billboard.com/music/pop/taylor-swift-i-knew-it-i-knew-you-video-toy-story-5-1236265564/",
+    "publishedAt": "2026-06-05T20:03:28.000Z",
+    "summary": "The Toy Story 5 soundtrack arrives alongside the Pixar movie on June 19.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/lists/executive-turntable-wcm-bet-board-disney-music-group/",
     "source": "billboard",
     "title": "Executive Turntable: BET Announces First-Ever Board With Queen Latifah, LL Cool J & More",
     "url": "https://www.billboard.com/lists/executive-turntable-wcm-bet-board-disney-music-group/",
     "publishedAt": "2026-06-05T19:28:32.000Z",
-    "summary": "Other hires and promotions within the music industry took place at Disney Music Group, Sound Royalties and Amazon Music.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/musicians-union-lawsuit-umg-wmg-ai-settlements/",
-    "source": "billboard",
-    "title": "Musicians Union Sues UMG, WMG Over AI Settlements: ‘Refused to Provide Compensation’",
-    "url": "https://www.billboard.com/pro/musicians-union-lawsuit-umg-wmg-ai-settlements/",
-    "publishedAt": "2026-06-05T18:50:04.000Z",
-    "summary": "The American Federation of Musicians (AFM) claims it's being left out of landmark licensing deals with Suno and Udio.",
+    "summary": "Other hires and promotions within the music industry took place at Disney Music Group, Sound Royalties, Amazon Music, BMI, Merlin and YD Media.",
     "image": null
   },
   {
@@ -23,7 +104,7 @@
     "title": "Marilyn Manson Loses Latest Bid to Toss Ex-Assistant’s Sex Assault Lawsuit",
     "url": "https://www.rollingstone.com/music/music-news/marilyn-manson-ex-assistant-sex-assault-lawsuit-evan-rachel-1235573134/",
     "publishedAt": "2026-06-05T18:46:26.000Z",
-    "summary": "Judge said he'd \"have trouble sleeping\" if he dismissed the lawsuit so soon after reviving it",
+    "summary": "Judge said he’d “have trouble sleeping” if he dismissed the lawsuit so soon after reviving it",
     "image": null
   },
   {
@@ -36,39 +117,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/rico-nasty-doesnt-believe-dinosaurs-existed-responds-backlash-1236265409/",
-    "source": "billboard",
-    "title": "Rico Nasty Doesn’t Believe Dinosaurs Ever Existed: ‘People Didn’t Even Draw Pictures of Them’",
-    "url": "https://www.billboard.com/music/rb-hip-hop/rico-nasty-doesnt-believe-dinosaurs-existed-responds-backlash-1236265409/",
-    "publishedAt": "2026-06-05T18:45:03.000Z",
-    "summary": "The rapper also shared her reaction after the clip of her discussing the prehistoric creatures went viral.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-live-reviews/phoebe-bridgers-madison-square-garden-review-setlist-1235573171/",
     "source": "rolling-stone",
     "title": "Phoebe Bridgers’ Madison Square Garden Return Was Unforgettable",
     "url": "https://www.rollingstone.com/music/music-live-reviews/phoebe-bridgers-madison-square-garden-review-setlist-1235573171/",
     "publishedAt": "2026-06-05T18:36:31.000Z",
     "summary": "The singer-songwriter played her biggest show in years, and banning phones only made it better",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/heated-rivalry-unauthorized-musical-parody-buy-tickets-online-1236264221/",
-    "source": "billboard",
-    "title": "Here’s Where to Get Tickets to the ‘Heated Rivalry: The Unauthorized Musical Parody’ Show Online",
-    "url": "https://www.billboard.com/culture/product-recommendations/heated-rivalry-unauthorized-musical-parody-buy-tickets-online-1236264221/",
-    "publishedAt": "2026-06-05T18:28:38.000Z",
-    "summary": "The laugh-out-loud off-Broadway musical is inspired by the hit TV series.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/j-balvin-casio-ring-watch-where-to-buy-online-1236263634/",
-    "source": "billboard",
-    "title": "J Balvin Partners With Casio to Release a Limited-Edition Ring That Doubles as a Timepiece",
-    "url": "https://www.billboard.com/culture/product-recommendations/j-balvin-casio-ring-watch-where-to-buy-online-1236263634/",
-    "publishedAt": "2026-06-05T18:21:51.000Z",
-    "summary": "This is the second time he has collaborated with Casio and G-Shock.",
     "image": null
   },
   {
@@ -81,57 +135,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/pro/how-stella-lefty-broke-hot-100-top-20-boston/",
-    "source": "billboard",
-    "title": "How Stella Lefty Broke Into the Hot 100’s Top 20 With ‘Boston’ & Set a Country Albums Mark",
-    "url": "https://www.billboard.com/pro/how-stella-lefty-broke-hot-100-top-20-boston/",
-    "publishedAt": "2026-06-05T17:52:17.000Z",
-    "summary": "\"What we try to do is put Stella in a position to show fans that she genuinely cares about them,\" says Disruptor's Zach Horowitz.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/shakira-slams-use-images-colombia-presidential-campaigns-1235573087/",
     "source": "rolling-stone",
     "title": "Shakira Shuts Down ‘Fake’ Campaign Images Supporting Colombia Presidential Candidates",
     "url": "https://www.rollingstone.com/music/music-news/shakira-slams-use-images-colombia-presidential-campaigns-1235573087/",
     "publishedAt": "2026-06-05T17:40:41.000Z",
     "summary": "“I do not support any candidate, nor have I authorized the use of my image in any campaign,” the singer said",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/music-awards-japan-week-2026-events-1236265360/",
-    "source": "billboard",
-    "title": "The Standout Events of MUSIC AWARDS JAPAN WEEK",
-    "url": "https://www.billboard.com/music/music-news/music-awards-japan-week-2026-events-1236265360/",
-    "publishedAt": "2026-06-05T17:22:08.000Z",
-    "summary": "From a Hip-Hop Showcase to an Eiichi Ohtaki Tribute, see all the events in Tokyo that tap into the deep history of Japanese music.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rock/peter-frampton-talks-staying-positive-incurable-muscle-disease-1236265222/",
-    "source": "billboard",
-    "title": "Peter Frampton Talks Staying Positive Amid Fight Against Degenerative Muscle Disease: ‘I Know the Endgame, But It Doesn’t Bother Me’",
-    "url": "https://www.billboard.com/music/rock/peter-frampton-talks-staying-positive-incurable-muscle-disease-1236265222/",
-    "publishedAt": "2026-06-05T17:18:36.000Z",
-    "summary": "The 76-year-old rock legend said his fight against Inclusion Body Myositis has forced him to change the way he plays guitar.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/photos/musicians-new-york-knicks-fans-1235320494/",
-    "source": "billboard",
-    "title": "Famous Musicians Who Root for the Knicks",
-    "url": "https://www.billboard.com/photos/musicians-new-york-knicks-fans-1235320494/",
-    "publishedAt": "2026-06-05T17:17:58.000Z",
-    "summary": "To celebrate the Knicks in the NBA finals, we've compiled a list of musicians who have cheered the team on from courtside over the years.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/best-new-music-this-week-poll-taylor-swift-role-model-lizzo-1236265308/",
-    "source": "billboard",
-    "title": "From Taylor Swift to Role Model, Which New Music Release Is Your Favorite This Week? Vote!",
-    "url": "https://www.billboard.com/music/music-news/best-new-music-this-week-poll-taylor-swift-role-model-lizzo-1236265308/",
-    "publishedAt": "2026-06-05T17:17:46.000Z",
-    "summary": "Niall Horan, Lizzo, Tinashe and Ryan Beatty also have fresh projects this week.",
     "image": null
   },
   {
@@ -182,7 +191,7 @@
   {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/bruce-springsteen-kenny-chesney-dropkick-murphys-1235573021/",
     "source": "rolling-stone",
-    "title": "See Bruce Springsteen Play With Kenny Chesney, Dropkick Murphy’s at ‘Music America’ Concert",
+    "title": "See Bruce Springsteen Play With Kenny Chesney, Dropkick Murphys at ‘Music America’ Concert",
     "url": "https://www.rollingstone.com/music/music-news/bruce-springsteen-kenny-chesney-dropkick-murphys-1235573021/",
     "publishedAt": "2026-06-05T15:50:33.000Z",
     "summary": "“This is a song of Woody’s that could have been written yesterday,” Springsteen said before playing “Deportee (Plane Wreck at Los Gatos)” with Rosanne Cash, “whether it’s Minnesota or Delaney Hall”",
@@ -591,15 +600,6 @@
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvUzRzWEhLOFRCWGlOTnJTcm42ei15amdlaG9sSXFtNnlheTBURzM4WG5kSld0aHc5ZFlQUkxYcFlFeUwzZExZQ1Y4bVJycXVvVlBFd1pYc2plcEp0S0RpeHNMdS1kX1FES1owdw?oc=5",
     "publishedAt": "2026-06-04T08:12:00.000Z",
     "summary": "Album review: Siiickbrain – HOUNDSTOOTH Kerrang!",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/news/primavera-sound-2026-lineup-and-schedule-all-the-set-times-you-need-to-know/",
-    "source": "pitchfork",
-    "title": "Primavera Sound 2026 Lineup & Schedule: All the Set Times You Need to Know",
-    "url": "https://pitchfork.com/news/primavera-sound-2026-lineup-and-schedule-all-the-set-times-you-need-to-know/",
-    "publishedAt": "2026-06-03T22:06:59.000Z",
-    "summary": "When and where to catch the xx, Oklou, Grace Ives, Alex G, Skrillex, the Cure, and many more",
     "image": null
   },
   {
