@@ -1,5 +1,50 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/pro/bbnos-billboard-canada-cover-story-canadian-music-news/",
+    "source": "billboard",
+    "title": "In Canada: bbno$ Found Sanctuary Online. Now, He Wants to Pay It Forward to Others",
+    "url": "https://www.billboard.com/pro/bbnos-billboard-canada-cover-story-canadian-music-news/",
+    "publishedAt": "2026-06-05T22:26:50.000Z",
+    "summary": "Also up north this week: Billboard Canada reveals its music managers to watch, and Diljit Dosanjh meets students enrolled in a university course dedicated to him.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/joe-budden-apologizes-to-latto-hostage-drake-shabang-1236265825/",
+    "source": "billboard",
+    "title": "Joe Budden Apologizes to Latto for Making It Seem Like She Doesn’t Write Her Own Raps: ‘I Wasn’t Tryna Play With Your Pen Like That’",
+    "url": "https://www.billboard.com/music/rb-hip-hop/joe-budden-apologizes-to-latto-hostage-drake-shabang-1236265825/",
+    "publishedAt": "2026-06-05T22:21:49.000Z",
+    "summary": "The rapper-turned-podcaster suggested that her flow on her song \"Hostage\" reminded him of Drake's flow on \"Shabang.\"",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/billboard-italy-nameless-festival-calvin-harris-john-summit-1236265838/",
+    "source": "billboard",
+    "title": "With 2026 Edition, Italy’s Nameless Festival Scaled Up Without Losing Its Soul",
+    "url": "https://www.billboard.com/music/music-news/billboard-italy-nameless-festival-calvin-harris-john-summit-1236265838/",
+    "publishedAt": "2026-06-05T22:08:02.000Z",
+    "summary": "Billboard Italy got an up-close look at the event that brought tens of thousands of people to the shores of Lake Como to see headliners Calvin Harris, John Summit and Fisher.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/florida-georgia-line-signs-the-core-entertainment/",
+    "source": "billboard",
+    "title": "Florida Georgia Line Signs With The Core Entertainment Following CMA Fest Reunion",
+    "url": "https://www.billboard.com/pro/florida-georgia-line-signs-the-core-entertainment/",
+    "publishedAt": "2026-06-05T22:01:50.000Z",
+    "summary": "The \"Cruise\" duo is eyeing 2027 live dates.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/hntr-follows-up-viral-remix-collaboration-featuring-juicy-j-1236265807/",
+    "source": "billboard",
+    "title": "HNTR Follows Up Viral Remix with Collaboration Featuring Oscar Winner, Juicy J",
+    "url": "https://www.billboard.com/music/pop/hntr-follows-up-viral-remix-collaboration-featuring-juicy-j-1236265807/",
+    "publishedAt": "2026-06-05T22:01:01.000Z",
+    "summary": "One year after his award-winning remix went viral, HNTR makes his mark on the EDM scene with his signature blend of dance and hip hop",
+    "image": null
+  },
+  {
     "id": "pitchfork-https://pitchfork.com/news/earl-sweatshirt-postpones-north-american-tour-with-mike/",
     "source": "pitchfork",
     "title": "Earl Sweatshirt Postpones North American Tour With MIKE",
@@ -51,51 +96,6 @@
     "url": "https://www.billboard.com/music/chart-beat/ella-langley-country-airplay-top-10s-1236265669/",
     "publishedAt": "2026-06-05T20:30:23.000Z",
     "summary": "“Be Her” holds at No. 1 as “I Can’t Love You Anymore,” with Morgan Wallen, rises to No. 10.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/latin/best-new-latin-music-release-poll-jasiel-nunez-nicky-jam-1236265411/",
-    "source": "billboard",
-    "title": "Jasiel Nuñez’s ‘Bobo Me Tienes/Suave’ & More: Vote for the Best New Latin Music Release This Week",
-    "url": "https://www.billboard.com/music/latin/best-new-latin-music-release-poll-jasiel-nunez-nicky-jam-1236265411/",
-    "publishedAt": "2026-06-05T20:15:07.000Z",
-    "summary": "Which new Latin music release is your favorite? Vote below!",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/vans-warped-tour-2026-tickets-cheap-buy-online-1236165556/",
-    "source": "billboard",
-    "title": "Vans Warped Tour 2026: Here’s Where to Get Affordable Tickets Online",
-    "url": "https://www.billboard.com/culture/product-recommendations/vans-warped-tour-2026-tickets-cheap-buy-online-1236165556/",
-    "publishedAt": "2026-06-05T20:05:06.000Z",
-    "summary": "Starting on Saturday (June 13), the punk rock tour hits the road with dates across the United States.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/world-cup-2026-best-songs-dai-dai-champions-jump/",
-    "source": "billboard",
-    "title": "World Cup 2026: ‘Dai Dai,’ ‘Champions,’ ‘El Último Baile,’ ‘Jump’ & More Best Songs to Celebrate",
-    "url": "https://www.billboard.com/lists/world-cup-2026-best-songs-dai-dai-champions-jump/",
-    "publishedAt": "2026-06-05T20:04:34.000Z",
-    "summary": "In the spirit of the 2026 soccer tournament, here’s a roundup of the best World Cup-related songs.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/pop/taylor-swift-i-knew-it-i-knew-you-video-toy-story-5-1236265564/",
-    "source": "billboard",
-    "title": "Taylor Swift Tells a ‘Toy Story 5’ Love Story With Animated ‘I Knew It, I Knew You’ Video: Watch",
-    "url": "https://www.billboard.com/music/pop/taylor-swift-i-knew-it-i-knew-you-video-toy-story-5-1236265564/",
-    "publishedAt": "2026-06-05T20:03:28.000Z",
-    "summary": "The Toy Story 5 soundtrack arrives alongside the Pixar movie on June 19.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/executive-turntable-wcm-bet-board-disney-music-group/",
-    "source": "billboard",
-    "title": "Executive Turntable: BET Announces First-Ever Board With Queen Latifah, LL Cool J & More",
-    "url": "https://www.billboard.com/lists/executive-turntable-wcm-bet-board-disney-music-group/",
-    "publishedAt": "2026-06-05T19:28:32.000Z",
-    "summary": "Other hires and promotions within the music industry took place at Disney Music Group, Sound Royalties, Amazon Music, BMI, Merlin and YD Media.",
     "image": null
   },
   {
@@ -248,7 +248,7 @@
     "title": "Phoebe Bridgers Is Going on Tour",
     "url": "https://pitchfork.com/news/phoebe-bridgers-solo-tour-fall-2026/",
     "publishedAt": "2026-06-05T14:03:45.000Z",
-    "summary": "Her first official solo run in three years kicks off this fall",
+    "summary": "Her first official solo run in three years features openers Alex G and Isaac Wood",
     "image": null
   },
   {
