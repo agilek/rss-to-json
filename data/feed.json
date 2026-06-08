@@ -1,11 +1,56 @@
 [
   {
+    "id": "pitchfork-https://pitchfork.com/news/musicians-union-sues-universal-and-warner-over-ai-use/",
+    "source": "pitchfork",
+    "title": "Musicians Union Sues Universal and Warner Over AI Use",
+    "url": "https://pitchfork.com/news/musicians-union-sues-universal-and-warner-over-ai-use/",
+    "publishedAt": "2026-06-08T03:43:40.000Z",
+    "summary": "The American Federation of Musicians claims major labels breached their collective bargaining agreement",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/awards/pink-queen-latifah-whitney-leavitt-2026-tony-awards-1236266504/",
+    "source": "billboard",
+    "title": "P!nk, Queen Latifah, Whitney Leavitt & Alex Newell Dazzle 2026 Tonys With ‘Chicago’ Medley for 30th Anniversary",
+    "url": "https://www.billboard.com/music/awards/pink-queen-latifah-whitney-leavitt-2026-tony-awards-1236266504/",
+    "publishedAt": "2026-06-08T02:27:24.000Z",
+    "summary": "The performance celebrated the longest-running current Broadway production.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/evilgiane-announces-heavensgate-vol-2/",
+    "source": "pitchfork",
+    "title": "Evilgiane Announces #HEAVENSGATE VOL. 2",
+    "url": "https://pitchfork.com/news/evilgiane-announces-heavensgate-vol-2/",
+    "publishedAt": "2026-06-08T01:57:20.000Z",
+    "summary": "The Surf Gang founder’s new project arrives later this year",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/awards/pink-lady-marmalade-megan-thee-stallion-tony-awards-2026-1236266545/",
+    "source": "billboard",
+    "title": "‘Lady Marmalade’ Parody With P!nk, Megan Thee Stallion & Broadway Stars Opens 2026 Tony Awards",
+    "url": "https://www.billboard.com/music/awards/pink-lady-marmalade-megan-thee-stallion-tony-awards-2026-1236266545/",
+    "publishedAt": "2026-06-08T01:34:31.000Z",
+    "summary": "Tony Awards host P!nk got the party started with an opening number based on her 2001 collab with Christina Aguilera, Lil' Kim and Mýa.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/taylor-swift-i-knew-it-i-knew-you-best-new-music-poll-1236266505/",
+    "source": "billboard",
+    "title": "Fans Choose Taylor Swift’s ‘I Knew It, I Knew You’ as This Week’s Favorite New Music",
+    "url": "https://www.billboard.com/music/music-news/taylor-swift-i-knew-it-i-knew-you-best-new-music-poll-1236266505/",
+    "publishedAt": "2026-06-08T00:09:56.000Z",
+    "summary": "Swift's original song for Toy Story 5 brought in more than 35% of the vote.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/lists/2026-tony-awards-winners-list/",
     "source": "billboard",
-    "title": "Here Are the 2026 Tony Awards Winners: Full List (Updating Live)",
+    "title": "Here Are the 2026 Tony Awards Winners: Full List",
     "url": "https://www.billboard.com/lists/2026-tony-awards-winners-list/",
     "publishedAt": "2026-06-07T22:53:32.000Z",
-    "summary": "Two musicals, The Lost Boys: A New Musical and Schmigadoon!, lead the 2026 Tony nominations.",
+    "summary": "Schmigadoon!, The Lost Boys: A New Musical and Ragtime tied for the lead among musicals with four awards each.",
     "image": null
   },
   {
@@ -90,15 +135,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/taylor-swift-i-knew-it-i-knew-you-piano-acoustic-digital-1236266411/",
-    "source": "billboard",
-    "title": "Taylor Swift Releases Digital Acoustic & Piano Versions of ‘Toy Story 5’ Song ‘I Knew It, I Knew You’",
-    "url": "https://www.billboard.com/music/music-news/taylor-swift-i-knew-it-i-knew-you-piano-acoustic-digital-1236266411/",
-    "publishedAt": "2026-06-07T18:50:24.000Z",
-    "summary": "The studio rendition of the original track was released on June 5.",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/barbara-manchester-gullivers-live-review-interview/",
     "source": "louder-than-war",
     "title": "Barbara – Manchester, Gullivers – Live Review & Interview",
@@ -126,21 +162,21 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMitwFBVV95cUxNWGNmQWhZYmFYOHJhbXQydHhpWk9oM1VQWFdRbkpaMmZlb1BJQlJGWXZwaHNlSHVWd01WRFpJMEFwVnpYWExYT0p2SDExQkZhV2xMcWhjeUNWY3RuUGhTeVlIVUhRa1FOcXZvRFVQd2FEZThFbkRaMVdEb3E5bG5tMUtFbkJuRERQR3JmTVlselhUWnVRUVBIbFJPaTRuSGdMekFGM0RqWC14bGd2b3ktaTJoeFVleGc?oc=5",
+    "source": "nme",
+    "title": "Pixies announce ‘Bossanova’ and ‘Trompe le Monde’ reissues with unreleased tracks - NME",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWGNmQWhZYmFYOHJhbXQydHhpWk9oM1VQWFdRbkpaMmZlb1BJQlJGWXZwaHNlSHVWd01WRFpJMEFwVnpYWExYT0p2SDExQkZhV2xMcWhjeUNWY3RuUGhTeVlIVUhRa1FOcXZvRFVQd2FEZThFbkRaMVdEb3E5bG5tMUtFbkJuRERQR3JmTVlselhUWnVRUVBIbFJPaTRuSGdMekFGM0RqWC14bGd2b3ktaTJoeFVleGc?oc=5",
+    "publishedAt": "2026-06-07T17:26:26.000Z",
+    "summary": "Pixies announce ‘Bossanova’ and ‘Trompe le Monde’ reissues with unreleased tracks NME",
+    "image": null
+  },
+  {
     "id": "pitchfork-https://pitchfork.com/news/ariana-grande-launches-first-tour-since-2019/",
     "source": "pitchfork",
     "title": "Ariana Grande Launches First Tour Since 2019",
     "url": "https://pitchfork.com/news/ariana-grande-launches-first-tour-since-2019/",
     "publishedAt": "2026-06-07T17:10:31.000Z",
     "summary": "The Oakland Arena show featured live debuts of a number of songs and the return of older hits like “Break Free” and “Into You”",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/dua-lipa-callum-turner-marry-second-wedding-sicily-italy-1236266408/",
-    "source": "billboard",
-    "title": "Dua Lipa and Callum Turner Celebrate Second Wedding Ceremony in Sicily",
-    "url": "https://www.billboard.com/music/music-news/dua-lipa-callum-turner-marry-second-wedding-sicily-italy-1236266408/",
-    "publishedAt": "2026-06-07T17:04:57.000Z",
-    "summary": "The couple first tied the knot during an intimate ceremony in London in May.",
     "image": null
   },
   {
@@ -177,15 +213,6 @@
     "url": "https://www.rollingstone.com/music/music-pictures/gov-ball-2026-photos-1235573331/",
     "publishedAt": "2026-06-07T15:48:36.000Z",
     "summary": "Lorde, Stray Kids, and A$AP Rocky are headlining the New York festival this year",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/tony-awards-2026-how-to-watch-online-free-livestream-1236265186/",
-    "source": "billboard",
-    "title": "Tony Awards 2026: Here’s Where to Watch the 79th Awards Ceremony Live Online",
-    "url": "https://www.billboard.com/culture/product-recommendations/tony-awards-2026-how-to-watch-online-free-livestream-1236265186/",
-    "publishedAt": "2026-06-07T15:47:51.000Z",
-    "summary": "Hosted by P!nk, you can livestream the ceremony, with performances from Queen Latifah, Leslie Odom, Jr. and others on June 7.",
     "image": null
   },
   {
@@ -276,6 +303,15 @@
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRXQyWkMtYUJ0bGRKVl91dk5vVjRtTEhkVVhFNUptdHREeUtRRHNHX0ZFYkotempyN185MFlJUmZsN2RSeHRUbmNaU2toX203MVE1dGRwVGlaNmduVVNYRmJ3cUpMa2toX1hhOE96MzZKQzh3Z2pVR3ppeW1pZXdoTzd6M193c2FOYi1PUF9uODBpbllERVFoSl9GcnlOWW1NNHRIVEN6cF9jVlo3MGdrQ216Vy1wT3VoTE12TGtjLWNwcVZBdmU1WTlR?oc=5",
     "publishedAt": "2026-06-07T08:37:11.000Z",
     "summary": "Madonna urges fans to \"put your fucking phones down and connect\" after returning to the stage NME",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUjNFb3FSSlczYjVPcVhvdVFCSXJFQktaNW1Ub2U1N1h5dkV3X3pMMTYzNXNUVHhLa1YwQVBFaGJLOWktTWlCYUc0SG9iNURGYmxfckVLZUlwbU9kZkNwSFhFaDY2ZUtjQ0U5TlZpUjdJNW1GSXRVVHJpSVoyZFhiVXBBMmcyZ0k1dFJOYkU5YXFleDNjSV9JNkxLMl9kOXN1Zm1QMzlQck5PMS0yVFByTHktQ051ZWgwZUlNMGRqcWZjbW5zU295ZlNQbU5Cdk9EalZPRnk1UnVfR2prT2NGcndKT09YSWFjQ2ZFU2lteFJrdw?oc=5",
+    "source": "nme",
+    "title": "Olivia Rodrigo debuts first ever duet 'What's Wrong With Me' with The Cure’s Robert Smith during surprise Primavera Sound set - NME",
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUjNFb3FSSlczYjVPcVhvdVFCSXJFQktaNW1Ub2U1N1h5dkV3X3pMMTYzNXNUVHhLa1YwQVBFaGJLOWktTWlCYUc0SG9iNURGYmxfckVLZUlwbU9kZkNwSFhFaDY2ZUtjQ0U5TlZpUjdJNW1GSXRVVHJpSVoyZFhiVXBBMmcyZ0k1dFJOYkU5YXFleDNjSV9JNkxLMl9kOXN1Zm1QMzlQck5PMS0yVFByTHktQ051ZWgwZUlNMGRqcWZjbW5zU295ZlNQbU5Cdk9EalZPRnk1UnVfR2prT2NGcndKT09YSWFjQ2ZFU2lteFJrdw?oc=5",
+    "publishedAt": "2026-06-07T07:51:44.000Z",
+    "summary": "Olivia Rodrigo debuts first ever duet 'What's Wrong With Me' with The Cure’s Robert Smith during surprise Primavera Sound set NME",
     "image": null
   },
   {
@@ -387,15 +423,6 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRG5xMkZiUFJRaGNoazlaTkhhLW1hbUw2YnZjZlBZOGRfbUliUWRUZWlPc0JIbGEyVW9oclRXU0MzTjM3eGNmd002SkRzRVl3c3Vud3R1WklyZTRsZ3JFcS1pMnI3ODExZEhGZGd1NDZWaTd3SG0ySV9JXzBaXzJmUmloenR5eDBFWUxkTXVWZmUtUVJUYVp5dUlaQWVOdkFJQ2R6VXpwYUZfdWV2SkNPSGtRd09pUU9lMDFxN2MtMmg?oc=5",
-    "source": "nme",
-    "title": "Ted Danson apologises for wearing Blackface and using N-word at celebrity roast in 1993 - NME",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRG5xMkZiUFJRaGNoazlaTkhhLW1hbUw2YnZjZlBZOGRfbUliUWRUZWlPc0JIbGEyVW9oclRXU0MzTjM3eGNmd002SkRzRVl3c3Vud3R1WklyZTRsZ3JFcS1pMnI3ODExZEhGZGd1NDZWaTd3SG0ySV9JXzBaXzJmUmloenR5eDBFWUxkTXVWZmUtUVJUYVp5dUlaQWVOdkFJQ2R6VXpwYUZfdWV2SkNPSGtRd09pUU9lMDFxN2MtMmg?oc=5",
-    "publishedAt": "2026-06-06T11:26:34.000Z",
-    "summary": "Ted Danson apologises for wearing Blackface and using N-word at celebrity roast in 1993 NME",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/koyo-bloom-discipline-single-review/",
     "source": "louder-than-war",
     "title": "Koyo Bloom: Discipline – Single Review",
@@ -411,15 +438,6 @@
     "url": "https://louderthanwar.com/things-we-didnt-know-may-2026/",
     "publishedAt": "2026-06-06T10:38:16.000Z",
     "summary": "Keith Goldhanger wants to keep us all up to date with some of the new names and new music that has come his way recently in what he describes yet again as ‘Definitely not another desk clearing exercise’. Fortunately, for those of us in East London the buildings we all want to visit during the […] The post Things We Didn’t Know: May 2026 appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMixwFBVV95cUxOMERsWHBTTkdSUk1KR2s1dFF2eU5ES0ZmbkJ2empZRTY1UUc2U3FSQmtOT1dPTy1RLXVBWkpPTEV1S1dKZmI4ZUc5WHlRVTBsZTB3Y2xwNlFhYmFmT3UxSWhFSkNTUE1JQjQxUEFSNm9yYjkxdEdvVk96d0UzdklrSnZlWU5LdjEtam82UGEzbUIwSnU2dS1xOHphd0h6WS1ObFpIWm53UmhyZUZFMDJqU1pEV05ybTlwdy1lUVk1VWxDV243eTlz?oc=5",
-    "source": "nme",
-    "title": "The Cure air rarities and classics as they kick off 2026 European tour at Primavera Sound - NME",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMERsWHBTTkdSUk1KR2s1dFF2eU5ES0ZmbkJ2empZRTY1UUc2U3FSQmtOT1dPTy1RLXVBWkpPTEV1S1dKZmI4ZUc5WHlRVTBsZTB3Y2xwNlFhYmFmT3UxSWhFSkNTUE1JQjQxUEFSNm9yYjkxdEdvVk96d0UzdklrSnZlWU5LdjEtam82UGEzbUIwSnU2dS1xOHphd0h6WS1ObFpIWm53UmhyZUZFMDJqU1pEV05ybTlwdy1lUVk1VWxDV243eTlz?oc=5",
-    "publishedAt": "2026-06-06T09:53:18.000Z",
-    "summary": "The Cure air rarities and classics as they kick off 2026 European tour at Primavera Sound NME",
     "image": null
   },
   {
@@ -609,24 +627,6 @@
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM3lXSWZKZmtEd1dQWkpveTJ6dHp0T0lxajJrZ1RhX3RKbGQwTUhBczZQenJ5UTNnZm5fNlFEMGloWTVDaHVTY1lYMTlzNUVFNHFZZEgzUXFJNnBYaHFWUlIzSmxNUUVHSnp3Uk9tajZCaTNyYkJSb0hUS0ptX1loU0tR?oc=5",
     "publishedAt": "2026-06-05T08:00:00.000Z",
     "summary": "Album review: Death Cab For Cutie – I Built You A Tower Kerrang!",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/news/skrillex-drops-another-surprise-album/",
-    "source": "pitchfork",
-    "title": "Skrillex Drops Another Surprise Album",
-    "url": "https://pitchfork.com/news/skrillex-drops-another-surprise-album/",
-    "publishedAt": "2026-06-05T04:49:10.000Z",
-    "summary": "Soma features Tracey, Blawan, and Young Miko, among others",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/news/tinashe-knows-fame-is-too-easy-on-new-song/",
-    "source": "pitchfork",
-    "title": "Tinashe Knows Fame Is “Too Easy” on New Song",
-    "url": "https://pitchfork.com/news/tinashe-knows-fame-is-too-easy-on-new-song/",
-    "publishedAt": "2026-06-05T04:34:00.000Z",
-    "summary": "Co-produced by Kimj and Zack Sekoff, the single is her first original material in two years",
     "image": null
   },
   {
