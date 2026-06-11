@@ -1,5 +1,68 @@
 [
   {
+    "id": "uncut-https://www.uncut.co.uk/features/playlists/uncut-new-music-playlist-for-june-2026-155051/",
+    "source": "uncut",
+    "title": "Uncut’s New Music Playlist for June 2026",
+    "url": "https://www.uncut.co.uk/features/playlists/uncut-new-music-playlist-for-june-2026-155051/",
+    "publishedAt": "2026-06-11T10:33:06.000Z",
+    "summary": "Lambchop, Jack White, Rodrigo Y Gabriela, Ty Segall, Robyn Hitchcock, The Afghan Whigs, Interpol, Osees, Seun Kuti and much more",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/failure-greg-edwards-new-album-location-lost-interview/",
+    "source": "loudwire",
+    "title": "Greg Edwards Discusses Failure's New Album — Interview",
+    "url": "https://loudwire.com/failure-greg-edwards-new-album-location-lost-interview/",
+    "publishedAt": "2026-06-11T10:20:06.000Z",
+    "summary": "Failure's Greg Edwards opens up about the band's latest album, 'Location Lost,' the difficulty of discovering new music, working with Hayley Williams and more. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "uncut-https://www.uncut.co.uk/features/brian-wilson-album-by-album-28238/",
+    "source": "uncut",
+    "title": "“I Had To Create Something New”: Brian Wilson On The Beach Boys’ Defining Albums",
+    "url": "https://www.uncut.co.uk/features/brian-wilson-album-by-album-28238/",
+    "publishedAt": "2026-06-11T09:47:46.000Z",
+    "summary": "The man himself talks Uncut through six pivotal Beach Boys releases",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/kenny-loggins-kevin-bacon-footloose-fallon-the-roots-1235576015/",
+    "source": "rolling-stone",
+    "title": "Watch Kenny Loggins, Kevin Bacon Perform ‘Footloose’ on Classroom Instruments",
+    "url": "https://www.rollingstone.com/music/music-news/kenny-loggins-kevin-bacon-footloose-fallon-the-roots-1235576015/",
+    "publishedAt": "2026-06-11T07:47:23.000Z",
+    "summary": "The musicians joined Jimmy Fallon and the Roots for a medley of Loggins' greatest hits on The Tonight Show",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/olivia-rodrigo-the-cure-performance-kimmel-1235576009/",
+    "source": "rolling-stone",
+    "title": "Watch Olivia Rodrigo Showcase ‘The Cure’ on ‘Kimmel’",
+    "url": "https://www.rollingstone.com/music/music-news/olivia-rodrigo-the-cure-performance-kimmel-1235576009/",
+    "publishedAt": "2026-06-11T07:19:23.000Z",
+    "summary": "Jimmy Kimmel also offered the singer an opportunity to fulfill her long-held dream of being a babysitter",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/olivia-rodrigo-national-tv-debut-performance-the-cure-1236270265/",
+    "source": "billboard",
+    "title": "Olivia Rodrigo Hits National TV Debut Performance of ‘The Cure’ on ‘Kimmel’: Watch",
+    "url": "https://www.billboard.com/music/pop/olivia-rodrigo-national-tv-debut-performance-the-cure-1236270265/",
+    "publishedAt": "2026-06-11T07:06:01.000Z",
+    "summary": "Rodrigo stopped by Jimmy Kimmel Live for a late-night performance, just hours before the release of her third studio album.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/kenny-loggins-footloose-tonight-show-classroom-instruments-1236270255/",
+    "source": "billboard",
+    "title": "Kenny Loggins Gets ‘Footloose’ With Kevin Bacon and John Lithgow For ‘Tonight Show’ Classroom Instruments Medley: Watch",
+    "url": "https://www.billboard.com/music/pop/kenny-loggins-footloose-tonight-show-classroom-instruments-1236270255/",
+    "publishedAt": "2026-06-11T05:56:07.000Z",
+    "summary": "Loggins stopped by The Tonight Show Starring Jimmy Fallon to re-live some of his golden numbers from the Silver Screen, doing so with some famous buddies and classroom instruments.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/pop/bigbang-reunite-31-date-world-stadium-tour-1236270234/",
     "source": "billboard",
     "title": "BIGBANG to Reunite For 31-Date World Stadium Tour",
@@ -29,7 +92,7 @@
   {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/wu-tang-clan-perform-nba-finals-game-4-halftime-show-1235575852/",
     "source": "rolling-stone",
-    "title": "Wu-Tang Clan Hit the Court for NBA Finals Game 4 Halftime Show",
+    "title": "Wu-Tang Clan Hit the Court for NBA Finals Halftime Show: ‘Knicks in 5’",
     "url": "https://www.rollingstone.com/music/music-news/wu-tang-clan-perform-nba-finals-game-4-halftime-show-1235575852/",
     "publishedAt": "2026-06-11T02:42:43.000Z",
     "summary": "The Staten Island natives were a much welcome spark as the Spurs entered the third quarter with a huge lead",
@@ -117,24 +180,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/ceelo-green-lauryn-hill-verzuz-battle-interview-1236270040/",
-    "source": "billboard",
-    "title": "CeeLo Green Wants a ‘VERZUZ’ Battle Against Lauryn Hill: ‘That’s My Twin Sister’",
-    "url": "https://www.billboard.com/music/rb-hip-hop/ceelo-green-lauryn-hill-verzuz-battle-interview-1236270040/",
-    "publishedAt": "2026-06-10T22:27:24.000Z",
-    "summary": "He also talked about who his Dungeon Family collective would go up against.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/latin/shakira-burna-boy-dai-dai-best-world-cup-song-poll-results-1236270021/",
-    "source": "billboard",
-    "title": "Fans Choose Shakira & Burna Boy’s ‘Dai Dai’ as Best World Cup Song of All Time: Full Results",
-    "url": "https://www.billboard.com/music/latin/shakira-burna-boy-dai-dai-best-world-cup-song-poll-results-1236270021/",
-    "publishedAt": "2026-06-10T22:24:09.000Z",
-    "summary": "Shakira's \"Waka Waka (This Time for Africa)\" finished a very close second.",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/mgk-stage-dive-fail/",
     "source": "loudwire",
     "title": "Video - MGK Injures Back After Brutal 'Stage Dive' Fail",
@@ -198,6 +243,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdmREdGVDY3lVN25LYmdMeGJTMWZ3cldZOW9zTENJLWFnWVRUYlozdTJ5WEl3d3hzQUNJWFh6ZDNlZ2E4R0FmTms3TU9PeElMSjZxYUhTOFhTTTBJM2tpOXpub2J1NGlEdWdwc1pJeHdLTUFjX1F2NU4xaUV6d2xFal9TNUswc19fLVBkUXNYLWExUm1EYWZkWkJtWlRvc3piTjBEM19uZGgwdDcyM1RYRmFVc3NYeTNRU1g0WWcxNHFzNGlBcnZFWGY2RV9iclhOMHlj?oc=5",
+    "source": "nme",
+    "title": "David Harbour breaks silence on \"weird\" experience of Lily Allen detailing break-up on 'West End Girl' - NME",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdmREdGVDY3lVN25LYmdMeGJTMWZ3cldZOW9zTENJLWFnWVRUYlozdTJ5WEl3d3hzQUNJWFh6ZDNlZ2E4R0FmTms3TU9PeElMSjZxYUhTOFhTTTBJM2tpOXpub2J1NGlEdWdwc1pJeHdLTUFjX1F2NU4xaUV6d2xFal9TNUswc19fLVBkUXNYLWExUm1EYWZkWkJtWlRvc3piTjBEM19uZGgwdDcyM1RYRmFVc3NYeTNRU1g0WWcxNHFzNGlBcnZFWGY2RV9iclhOMHlj?oc=5",
+    "publishedAt": "2026-06-10T17:35:24.000Z",
+    "summary": "David Harbour breaks silence on \"weird\" experience of Lily Allen detailing break-up on 'West End Girl' NME",
+    "image": null
+  },
+  {
     "id": "pitchfork-https://pitchfork.com/news/helado-tropical-to-embark-on-debut-tour/",
     "source": "pitchfork",
     "title": "Helado Tropical to Embark on Debut Tour",
@@ -243,30 +297,12 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/wu-tang-clan-nba-finals-knicks-spurs-msg-1235575280/",
-    "source": "rolling-stone",
-    "title": "Wu-Tang Clan to Flaunt Knicks Devotion With NBA Finals Halftime Show Performance",
-    "url": "https://www.rollingstone.com/music/music-news/wu-tang-clan-nba-finals-knicks-spurs-msg-1235575280/",
-    "publishedAt": "2026-06-10T14:58:49.000Z",
-    "summary": "Octet will perform at Madison Square Garden on Wednesday night for the highly anticipated game",
-    "image": null
-  },
-  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMibkFVX3lxTE5UbDRac3lnOUtpbW41X0ZNMWNaZ3h3bDdGcFpHdWZpc3FJdlFTWWJBZk14dzhCcy1sNjU5amNSc2VUTjhIeFlLT0IyZHRvNUpSaC1lVEN5YWVvLUJnUHpnM21tbmZUS2V4eXY2c0ZR?oc=5",
     "source": "kerrang",
     "title": "Album review: Genghis Tron – Signal Fire - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5UbDRac3lnOUtpbW41X0ZNMWNaZ3h3bDdGcFpHdWZpc3FJdlFTWWJBZk14dzhCcy1sNjU5amNSc2VUTjhIeFlLT0IyZHRvNUpSaC1lVEN5YWVvLUJnUHpnM21tbmZUS2V4eXY2c0ZR?oc=5",
     "publishedAt": "2026-06-10T14:45:00.000Z",
     "summary": "Album review: Genghis Tron – Signal Fire Kerrang!",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/jack-white-new-album-frozen-charlotte-dollar-bill-single-1235575266/",
-    "source": "rolling-stone",
-    "title": "Jack White Previews New Album ‘Frozen Charlotte’ With Latest Single ‘Dollar Bill’",
-    "url": "https://www.rollingstone.com/music/music-news/jack-white-new-album-frozen-charlotte-dollar-bill-single-1235575266/",
-    "publishedAt": "2026-06-10T14:18:40.000Z",
-    "summary": "The musician will release Frozen Charlotte in full on July 10",
     "image": null
   },
   {
@@ -522,24 +558,6 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/things-we-learned-kim-thayil-memoir-screaming-life/",
-    "source": "loudwire",
-    "title": "5 Things We Learned from Kim Thayil's New Memoir",
-    "url": "https://loudwire.com/things-we-learned-kim-thayil-memoir-screaming-life/",
-    "publishedAt": "2026-06-09T12:54:59.000Z",
-    "summary": "Here are new things we learned after reading Kim Thayil's new memoir 'A Screaming Life: Into the Superunknown with Soundgarden and Beyond.' Continue reading…",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMirgFBVV95cUxOSDFIejl6bGxqWm5vMUFicGhwTGtvbWFOdnQtWnVod1ptcHNZQTl3Ymg1Qmo2Y0xKeUs3czZnQ1VzMzBXTHhqX3FZZFlKTWtXcDZLcC1NbFZycFhzMEJtZURGTW1UV0haR3g1VENpWVdmV3B3QVVZTUZnOFZvM2tFZzAycDhwZzhOTC1mdllpVDZlelRCZ0J1QkVDV2s4dURpbURWODFVb1laZHdPZUE?oc=5",
-    "source": "nme",
-    "title": "Soft Cell announce final album ‘Danceteria’ with disco-ready title track - NME",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSDFIejl6bGxqWm5vMUFicGhwTGtvbWFOdnQtWnVod1ptcHNZQTl3Ymg1Qmo2Y0xKeUs3czZnQ1VzMzBXTHhqX3FZZFlKTWtXcDZLcC1NbFZycFhzMEJtZURGTW1UV0haR3g1VENpWVdmV3B3QVVZTUZnOFZvM2tFZzAycDhwZzhOTC1mdllpVDZlelRCZ0J1QkVDV2s4dURpbURWODFVb1laZHdPZUE?oc=5",
-    "publishedAt": "2026-06-09T12:06:56.000Z",
-    "summary": "Soft Cell announce final album ‘Danceteria’ with disco-ready title track NME",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/news/send-us-your-questions-for-john-carpenter-155018/",
     "source": "uncut",
     "title": "Send us your questions for John Carpenter!",
@@ -663,24 +681,6 @@
     "url": "https://www.uncut.co.uk/news/bob-dylan-plays-basement-tapes-rarity-live-for-the-first-time-154995/",
     "publishedAt": "2026-06-05T15:55:55.000Z",
     "summary": "\"Baby, Will You Be My Baby\" dates from 1967",
-    "image": null
-  },
-  {
-    "id": "uncut-https://www.uncut.co.uk/features/it-was-fg-terrifying-paul-mccartney-elton-john-dave-grohl-and-more-share-their-favourite-bob-dylan-stories-154369/",
-    "source": "uncut",
-    "title": "It was f*****g terrifying” – Paul McCartney, Elton John, Dave Grohl and more share their favourite Bob Dylan stories",
-    "url": "https://www.uncut.co.uk/features/it-was-fg-terrifying-paul-mccartney-elton-john-dave-grohl-and-more-share-their-favourite-bob-dylan-stories-154369/",
-    "publishedAt": "2026-06-05T08:54:04.000Z",
-    "summary": "Pull up a chair...",
-    "image": null
-  },
-  {
-    "id": "uncut-https://www.uncut.co.uk/features/bob-dylans-40-best-songs-70720/",
-    "source": "uncut",
-    "title": "Bob Dylan’s 40 greatest songs… ranked!",
-    "url": "https://www.uncut.co.uk/features/bob-dylans-40-best-songs-70720/",
-    "publishedAt": "2026-06-05T08:53:15.000Z",
-    "summary": "As chosen by famous fans, Dylan's associates and Uncut writers",
     "image": null
   },
   {
