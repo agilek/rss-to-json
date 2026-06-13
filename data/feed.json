@@ -1,5 +1,32 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/lists/2026-black-women-in-music-highlights-chaka-khan/",
+    "source": "billboard",
+    "title": "Chaka Khan, Kelly Rowland & More Honored at 2026 Black Women in Music Dinner",
+    "url": "https://www.billboard.com/lists/2026-black-women-in-music-highlights-chaka-khan/",
+    "publishedAt": "2026-06-13T20:48:47.000Z",
+    "summary": "Choreographer Fatima Robinson, music executive Natina Nimene, Billboard’s Gail Mitchell and Gender Amplified’s Ebonie Smith were also honored at the event.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/olivia-rodrigo-you-seem-pretty-sad-breaks-streaming-records-1236272521/",
+    "source": "billboard",
+    "title": "Olivia Rodrigo’s ‘You Seem Pretty Sad for a Girl So in Love’ Breaks First-Day Streaming Records",
+    "url": "https://www.billboard.com/music/music-news/olivia-rodrigo-you-seem-pretty-sad-breaks-streaming-records-1236272521/",
+    "publishedAt": "2026-06-13T20:09:06.000Z",
+    "summary": "The pop star released her third studio album on June 12.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-latin-lists/rosalias-lux-tour-confessionals-celebrity-appearances-1235571575/",
+    "source": "rolling-stone",
+    "title": "The Most Revealing Celebrity Confessionals from Rosalía’s ‘Lux’ Tour",
+    "url": "https://www.rollingstone.com/music/music-latin-lists/rosalias-lux-tour-confessionals-celebrity-appearances-1235571575/",
+    "publishedAt": "2026-06-13T19:48:12.000Z",
+    "summary": "The singer has been inviting stars, from Lola Young to Bad Gyal, to share their deepest secrets onstage before her song 'La Perla'",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/rb-hip-hop/lil-uzi-summer-smash-2026-recap-1236272327/",
     "source": "billboard",
     "title": "Lil Uzi Vert Proves They Can’t Be Duplicated With Frenetic Headlining Performance at Summer Smash 2026: ‘New Album on the Way’",
@@ -23,7 +50,7 @@
     "title": "‘Michael’ Is Now the Highest-Grossing Music Biopic of All Time",
     "url": "https://www.rollingstone.com/music/music-news/michael-film-highest-grossing-music-biopic-1235577048/",
     "publishedAt": "2026-06-13T18:05:23.000Z",
-    "summary": "The wildly successful biopic brought in TKTK worldwide",
+    "summary": "The wildly successful biopic brought in $911.9 million worldwide, besting Bohemian Rhapsody",
     "image": null
   },
   {
@@ -216,24 +243,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/charles-barkley-espn-fires-him-cardi-b-cardi-d-joke-1236272147/",
-    "source": "billboard",
-    "title": "Charles Barkley Hopes ESPN Fires Him Over Cardi B Joke: ‘I Would Love To Get Fired, I’m Not Gon’ Lie’",
-    "url": "https://www.billboard.com/music/rb-hip-hop/charles-barkley-espn-fires-him-cardi-b-cardi-d-joke-1236272147/",
-    "publishedAt": "2026-06-13T00:07:55.000Z",
-    "summary": "The hall of famer made a joke about the rapper's revealing cleavage during halftime of Game 3 of the NBA Finals earlier this week.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/vampire-lestat-soundtrack-playlist-daniel-hart/",
-    "source": "billboard",
-    "title": "25 Songs That Inspired ‘The Vampire Lestat’ Soundtrack: Chappell Roan, David Bowie & More",
-    "url": "https://www.billboard.com/lists/vampire-lestat-soundtrack-playlist-daniel-hart/",
-    "publishedAt": "2026-06-12T23:23:22.000Z",
-    "summary": "Composer Daniel Hart shares a few musical inspirations behind the rollicking new season of AMC's cult horror show.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/world-cup-canada-alanis-morissette-michael-buble-1235574174/",
     "source": "rolling-stone",
     "title": "Alanis Morissette and Michael Bublé Kick Off World Cup in Canada With Star-Studded Opening Ceremony",
@@ -285,15 +294,6 @@
     "url": "https://www.rollingstone.com/music/music-news/knicks-comeback-win-spike-empire-state-of-mind-streaming-1235576852/",
     "publishedAt": "2026-06-12T19:14:45.000Z",
     "summary": "Improbable Game 4 win had New Yorkers celebrating with Jay-Z and Alicia Keys’ 2009 single",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/songwriters-hall-of-fame-2026-taylor-swift-raye-music-business-1235576797/",
-    "source": "rolling-stone",
-    "title": "At the 2026 Songwriters Hall of Fame, Even Legends Had Notes on the Music Business",
-    "url": "https://www.rollingstone.com/music/music-news/songwriters-hall-of-fame-2026-taylor-swift-raye-music-business-1235576797/",
-    "publishedAt": "2026-06-12T18:30:12.000Z",
-    "summary": "Taylor Swift, Alanis Morissette, and Raye were among the honorees at the gala dinner, which also became a forum for concerns about credits, royalties, and writers’ rights",
     "image": null
   },
   {
