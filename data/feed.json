@@ -1,5 +1,77 @@
 [
   {
+    "id": "pitchfork-https://pitchfork.com/news/michael-becomes-highest-grossing-music-biopic-in-history/",
+    "source": "pitchfork",
+    "title": "Michael Becomes Highest-Grossing Music Biopic in History",
+    "url": "https://pitchfork.com/news/michael-becomes-highest-grossing-music-biopic-in-history/",
+    "publishedAt": "2026-06-14T17:04:11.000Z",
+    "summary": "The film has reportedly brought in $911.9 million worldwide, surpassing 2018’s Bohemian Rhapsody",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/jalen-brunson-defends-monica-mcnutt-taylor-swift-backlash-1236272630/",
+    "source": "billboard",
+    "title": "Jalen Brunson Defends Monica McNutt After Taylor Swift Backlash: ‘Cut Her Some Slack’",
+    "url": "https://www.billboard.com/music/music-news/jalen-brunson-defends-monica-mcnutt-taylor-swift-backlash-1236272630/",
+    "publishedAt": "2026-06-14T16:57:46.000Z",
+    "summary": "The NBA Finals MVP is urging Swifties to ease up on the Knicks radio analyst.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/jethro-tull-keyboardist-arranger-dee-palmer-dies-88-ian-anderson-tribute/",
+    "source": "loudwire",
+    "title": "Ex-Jethro Tull Member Dee Palmer Dies at 88, Band Shares Tribute",
+    "url": "https://loudwire.com/jethro-tull-keyboardist-arranger-dee-palmer-dies-88-ian-anderson-tribute/",
+    "publishedAt": "2026-06-14T16:14:45.000Z",
+    "summary": "Palmer contributed to many of Jethro Tull's greatest LPs, including 'Aqualung' and 'Thick as a Brick.' Continue reading…",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/bob-dylan-pros-cons-turning-80-rare-op-ed-1235577203/",
+    "source": "rolling-stone",
+    "title": "Bob Dylan Shares Pros and Cons of Turning 80 in Rare Op-Ed: ‘You’re Harder to Program’",
+    "url": "https://www.rollingstone.com/music/music-news/bob-dylan-pros-cons-turning-80-rare-op-ed-1235577203/",
+    "publishedAt": "2026-06-14T16:09:18.000Z",
+    "summary": "\"When you’re young you think that time moves forward. At 80 you know that it doesn’t, it stands still. We’re the ones that move,\" 85-year-old singer writes in op-ed tied to Trump's birthday",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/concerts/pacha-new-york-opens-brooklyn-1236272608/",
+    "source": "billboard",
+    "title": "Pacha New York Opens Doors With Rampa, Knicks’ Historic Win & Travis Scott Appearance",
+    "url": "https://www.billboard.com/music/concerts/pacha-new-york-opens-brooklyn-1236272608/",
+    "publishedAt": "2026-06-14T16:00:00.000Z",
+    "summary": "Throughout the night, the Knicks won their first championship game in 53 years, and Scott and Quavo were spotted in the crowd.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/ufc-freedom-250-topuria-vs-gaethje-how-to-watch-online-free-1236267782/",
+    "source": "billboard",
+    "title": "How to Watch UFC Freedom 250: Topuria vs. Gaethje Live Online",
+    "url": "https://www.billboard.com/culture/product-recommendations/ufc-freedom-250-topuria-vs-gaethje-how-to-watch-online-free-1236267782/",
+    "publishedAt": "2026-06-14T15:47:08.000Z",
+    "summary": "Live from the White House on June 14, you can watch the entire MMA event, including the lightweight title bout, online for free.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-live-reviews/bruce-springsteen-bono-patti-smith-tribeca-film-festival-1235577167/",
+    "source": "rolling-stone",
+    "title": "See Bruce Springsteen Perform ‘People Have the Power’ With Bono and Patti Smith",
+    "url": "https://www.rollingstone.com/music/music-live-reviews/bruce-springsteen-bono-patti-smith-tribeca-film-festival-1235577167/",
+    "publishedAt": "2026-06-14T14:28:07.000Z",
+    "summary": "Springsteen was presented with the 2026 Harry Belafonte Voices for Social Justice Award by the U2 frontman at Tribeca Film Festival",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/geezer-butler-names-player-showed-him-what-you-could-do-bass-jack-bruce/",
+    "source": "loudwire",
+    "title": "Butler - This Musician 'Showed Me What You Could Do With a Bass'",
+    "url": "https://loudwire.com/geezer-butler-names-player-showed-him-what-you-could-do-bass-jack-bruce/",
+    "publishedAt": "2026-06-14T14:24:09.000Z",
+    "summary": "Hint: It's not the first time Geezer Butler has praised this \"ultimate hero bass player.\" Continue reading…",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/boy-george-culture-club-homophobic-crowds-doc-clip-1235576644/",
     "source": "rolling-stone",
     "title": "Boy George and Culture Club Brush Off Homophobic Hecklers in New Doc Clip",
@@ -74,7 +146,7 @@
   {
     "id": "billboard-https://www.billboard.com/culture/tv-film/michael-jackson-highest-grossing-biopic-all-time-1236272605/",
     "source": "billboard",
-    "title": "‘Michael’ Surpasses ‘Bohemian Rhapsody’ As Highest-Grossing Biopic of All Time",
+    "title": "‘Michael’ Surpasses ‘Bohemian Rhapsody’ as Highest-Grossing Music Biopic of All Time",
     "url": "https://www.billboard.com/culture/tv-film/michael-jackson-highest-grossing-biopic-all-time-1236272605/",
     "publishedAt": "2026-06-14T05:31:13.000Z",
     "summary": "The film has surpassed Bohemian Rhapsody's total gross with $358.6 million at the domestic box office and $553.3 million internationally.",
@@ -153,39 +225,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/olivia-rodrigo-you-seem-pretty-sad-breaks-streaming-records-1236272521/",
-    "source": "billboard",
-    "title": "Olivia Rodrigo’s ‘You Seem Pretty Sad for a Girl So in Love’ Breaks First-Day Streaming Records",
-    "url": "https://www.billboard.com/music/music-news/olivia-rodrigo-you-seem-pretty-sad-breaks-streaming-records-1236272521/",
-    "publishedAt": "2026-06-13T20:09:06.000Z",
-    "summary": "The pop star released her third studio album on June 12.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-latin-lists/rosalias-lux-tour-confessionals-celebrity-appearances-1235571575/",
     "source": "rolling-stone",
     "title": "The Most Revealing Celebrity Confessionals from Rosalía’s ‘Lux’ Tour",
     "url": "https://www.rollingstone.com/music/music-latin-lists/rosalias-lux-tour-confessionals-celebrity-appearances-1235571575/",
     "publishedAt": "2026-06-13T19:48:12.000Z",
     "summary": "The singer has been inviting stars, from Lola Young to Bad Gyal, to share their deepest secrets onstage before her song 'La Perla'",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/lil-uzi-summer-smash-2026-recap-1236272327/",
-    "source": "billboard",
-    "title": "Lil Uzi Vert Proves They Can’t Be Duplicated With Frenetic Headlining Performance at Summer Smash 2026: ‘New Album on the Way’",
-    "url": "https://www.billboard.com/music/rb-hip-hop/lil-uzi-summer-smash-2026-recap-1236272327/",
-    "publishedAt": "2026-06-13T19:16:14.000Z",
-    "summary": "Uzi teased a new album, played unreleased music and shouted-out North West during the 45-minute set.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/north-west-first-solo-music-festival-summer-smash-2026-1236272487/",
-    "source": "billboard",
-    "title": "North West Performs First Solo Music Festival Set With Support From Ye & Kim Kardashian",
-    "url": "https://www.billboard.com/music/music-news/north-west-first-solo-music-festival-summer-smash-2026-1236272487/",
-    "publishedAt": "2026-06-13T18:20:35.000Z",
-    "summary": "The 12-year-old's set at Lyrical Lemonade's Summer Smash 2026 follows the release of her debut EP, N0rth4evr.",
     "image": null
   },
   {
@@ -342,24 +387,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/future-tyla-lisa-anitta-rema-perform-world-cup-2026-1235574220/",
-    "source": "rolling-stone",
-    "title": "Future and Tyla Declare ‘Game Time’ at Stunning World Cup Opening Ceremony in Los Angeles",
-    "url": "https://www.rollingstone.com/music/music-news/future-tyla-lisa-anitta-rema-perform-world-cup-2026-1235574220/",
-    "publishedAt": "2026-06-13T00:53:40.000Z",
-    "summary": "Lisa, Anitta, and Rema also delivered their high wattage \"Goals\" track for the celebration",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/world-cup-canada-alanis-morissette-michael-buble-1235574174/",
-    "source": "rolling-stone",
-    "title": "Alanis Morissette and Michael Bublé Kick Off World Cup in Canada With Star-Studded Opening Ceremony",
-    "url": "https://www.rollingstone.com/music/music-news/world-cup-canada-alanis-morissette-michael-buble-1235574174/",
-    "publishedAt": "2026-06-12T21:24:30.000Z",
-    "summary": "The star-studded performance came ahead of team Canada facing off against Bosnia and Herzegovina",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/metal-moves-with-molly/",
     "source": "loudwire",
     "title": "The Metal-Loving Former Knicks Dancer Behind Moves With Molly",
@@ -504,15 +531,6 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/2026-hard-rock-metal-album-release-calendar/",
-    "source": "loudwire",
-    "title": "The New Rock + Metal Albums Out Today",
-    "url": "https://loudwire.com/2026-hard-rock-metal-album-release-calendar/",
-    "publishedAt": "2026-06-12T04:01:48.000Z",
-    "summary": "See all the new releases coming each week of 2026. Continue reading…",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/news/read-the-full-credits-olivia-rodrigo-you-seem-pretty-sad-for-a-girl-so-in-love/",
     "source": "pitchfork",
     "title": "Read the Full Credits to Olivia Rodrigo’s You Seem Pretty Sad for a Girl So in Love",
@@ -528,15 +546,6 @@
     "url": "https://louderthanwar.com/louder-than-war-live-festival-returns-in-march-2027/",
     "publishedAt": "2026-06-11T20:14:07.000Z",
     "summary": "Louder Than War Live2 is happening! After the success of our debut LTW festival, we return on the 13 March 2027 at The Academy venues in Manchester. Early Bird tickets are now available, offering 30% off the full price – Just £34.95 + Booking Fee! That’s 16 bands across 3 indoor stages – all TBA! […] The post Louder Than War Live festival returns in March 2027 appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/interview-mikkey-dee-lex-legion-king-diamond/",
-    "source": "loudwire",
-    "title": "Interview: Mikkey Dee + Lex Legion Making King Diamond Fans Happy",
-    "url": "https://loudwire.com/interview-mikkey-dee-lex-legion-king-diamond/",
-    "publishedAt": "2026-06-11T18:55:00.000Z",
-    "summary": "Lex Legion features the recording lineup from King Diamond's 'Them' album with singer Nils K. Rue. Continue reading…",
     "image": null
   },
   {
@@ -645,15 +654,6 @@
     "url": "https://pitchfork.com/news/nyc-street-named-for-jimi-hendrix-after-56-year-petition/",
     "publishedAt": "2026-06-10T22:45:23.000Z",
     "summary": "Jimi Hendrix Way sits just down the street from the guitarist’s legendary Electric Lady Studios",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/news/slow-pulp-return-with-an-album-a-new-song-and-fall-tour-dates/",
-    "source": "pitchfork",
-    "title": "Slow Pulp Return With New Album, Song, and Fall Tour Dates",
-    "url": "https://pitchfork.com/news/slow-pulp-return-with-an-album-a-new-song-and-fall-tour-dates/",
-    "publishedAt": "2026-06-10T20:51:50.000Z",
-    "summary": "Melodie drops 9/18 on ANTI-",
     "image": null
   },
   {
