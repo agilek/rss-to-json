@@ -1,5 +1,59 @@
 [
   {
+    "id": "uncut-https://www.uncut.co.uk/publications/uncut-august-2026-155027/",
+    "source": "uncut",
+    "title": "Uncut August 2026",
+    "url": "https://www.uncut.co.uk/publications/uncut-august-2026-155027/",
+    "publishedAt": "2026-06-16T11:01:59.000Z",
+    "summary": "The Rolling Stones, Gregg Allman, Siouxsie Sioux, John Coltrane, The Kinks, Florry, Daniel Lanois, King Gizzard and more!",
+    "image": null
+  },
+  {
+    "id": "uncut-https://www.uncut.co.uk/features/the-rolling-stones-siouxsie-the-kinks-gregg-allman-john-coltrane-and-more-plus-a-free-ambient-americana-cd-inside-the-new-uncut-155036/",
+    "source": "uncut",
+    "title": "The Rolling Stones, Siouxsie, The Kinks, Gregg Allman, John Coltrane and more — plus a free Ambient Americana CD: inside the new Uncut",
+    "url": "https://www.uncut.co.uk/features/the-rolling-stones-siouxsie-the-kinks-gregg-allman-john-coltrane-and-more-plus-a-free-ambient-americana-cd-inside-the-new-uncut-155036/",
+    "publishedAt": "2026-06-16T10:40:47.000Z",
+    "summary": "Co-stars Daniel Lanois, Beastie Boys, King Gizzard, Martha Reeves, Kraftwerk and more!",
+    "image": null
+  },
+  {
+    "id": "uncut-https://www.uncut.co.uk/news/johnny-marr-announces-cathartic-new-album-the-age-of-everything-155086/",
+    "source": "uncut",
+    "title": "Johnny Marr announces “cathartic” new album, The Age Of Everything",
+    "url": "https://www.uncut.co.uk/news/johnny-marr-announces-cathartic-new-album-the-age-of-everything-155086/",
+    "publishedAt": "2026-06-16T10:05:44.000Z",
+    "summary": "Watch a video for lead single \"Spin\" now",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMihgFBVV95cUxORlRJU3M4bVdXVmdJR1RaRWhVM0QtUVdDZi1CeGkxWGE1V1JvRFh1YVI3Vnd3NENSUU0zT2E4OElNLUt3V1FOVFNaU2xLcW1MaWE1dERDdnNuLWdSaERmT2lwUmlQZTBnVFc5OUs5b3ZVWkExZmNsVzFWeE52UVlUTTdpcXN0Zw?oc=5",
+    "source": "nme",
+    "title": "The best albums of 2026… so far! - NME",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORlRJU3M4bVdXVmdJR1RaRWhVM0QtUVdDZi1CeGkxWGE1V1JvRFh1YVI3Vnd3NENSUU0zT2E4OElNLUt3V1FOVFNaU2xLcW1MaWE1dERDdnNuLWdSaERmT2lwUmlQZTBnVFc5OUs5b3ZVWkExZmNsVzFWeE52UVlUTTdpcXN0Zw?oc=5",
+    "publishedAt": "2026-06-16T08:00:04.000Z",
+    "summary": "The best albums of 2026… so far! NME",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/bonnie-tyler-coma-1236273844/",
+    "source": "billboard",
+    "title": "Bonnie Tyler Out of Coma Following Emergency Surgery, Summer Tour Dates Canceled",
+    "url": "https://www.billboard.com/music/music-news/bonnie-tyler-coma-1236273844/",
+    "publishedAt": "2026-06-16T06:18:24.000Z",
+    "summary": "Bonnie Tyler has emerged from an induced coma following emergency surgery in Portugal.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/wu-tang-clan-bring-da-ruckus-cream-performance-fallon-1235578413/",
+    "source": "rolling-stone",
+    "title": "Watch Wu-Tang Clan Showcase ‘Bring Da Ruckus,’ ‘C.R.E.A.M.’ on ‘Fallon’",
+    "url": "https://www.rollingstone.com/music/music-news/wu-tang-clan-bring-da-ruckus-cream-performance-fallon-1235578413/",
+    "publishedAt": "2026-06-16T06:17:22.000Z",
+    "summary": "The New York rap group helped to celebrate the Knicks' championship victory by revisiting Enter the Wu-Tang (36 Chambers)",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-lists/gregg-allman-best-songs-125069/",
     "source": "rolling-stone",
     "title": "Gregg Allman: 20 Essential Songs",
@@ -92,10 +146,10 @@
   {
     "id": "louder-than-war-https://louderthanwar.com/wu-lyf-manchester-albert-hall-live-review/",
     "source": "louder-than-war",
-    "title": "WU LYF : Manchester Albert Hall : Live Review",
+    "title": "WU LYF: Albert Hall, Manchester – Live Review",
     "url": "https://louderthanwar.com/wu-lyf-manchester-albert-hall-live-review/",
     "publishedAt": "2026-06-15T22:14:00.000Z",
-    "summary": "WU LYF Live Review of return of secretive cult band The post WU LYF : Manchester Albert Hall : Live Review appeared first on Louder Than War.",
+    "summary": "WU LYF Live Review of return of secretive cult band The post WU LYF: Albert Hall, Manchester – Live Review appeared first on Louder Than War.",
     "image": null
   },
   {
@@ -114,15 +168,6 @@
     "url": "https://www.billboard.com/music/rb-hip-hop/french-montana-taxi-driver-help-knicks-title-1236273335/",
     "publishedAt": "2026-06-15T21:06:29.000Z",
     "summary": "The Knicks captured the franchise's first NBA title in 53 years on Saturday night.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/tv-film/americas-got-talent-contestant-sings-maneskin-beggin-video-1236273355/",
-    "source": "billboard",
-    "title": "‘America’s Got Talent’ Hopeful Has the Judges ‘Beggin” With His Take on the Måneskin Hit: Watch",
-    "url": "https://www.billboard.com/culture/tv-film/americas-got-talent-contestant-sings-maneskin-beggin-video-1236273355/",
-    "publishedAt": "2026-06-15T21:00:00.000Z",
-    "summary": "Army sergeant Isaac Atkins has the judges rockin' in this exclusive clip shared with Billboard.",
     "image": null
   },
   {
@@ -231,15 +276,6 @@
     "url": "https://www.rollingstone.com/music/music-news/oliver-tree-melanie-martinez-tribute-1235577361/",
     "publishedAt": "2026-06-15T17:06:58.000Z",
     "summary": "Oliver Tree was among six people killed in a helicopter crash in Rio de Janeiro on Sunday. He was 32",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/madonna-bring-your-love-video-sabrina-carpenter-1235577750/",
-    "source": "rolling-stone",
-    "title": "Madonna and Sabrina Carpenter Have Something They Wanna Talk About in ‘Bring Your Love’ Video",
-    "url": "https://www.rollingstone.com/music/music-news/madonna-bring-your-love-video-sabrina-carpenter-1235577750/",
-    "publishedAt": "2026-06-15T16:59:21.000Z",
-    "summary": "Julia Garner also makes a cameo in the clip for the Confessions II single",
     "image": null
   },
   {
@@ -380,10 +416,10 @@
   {
     "id": "louder-than-war-https://louderthanwar.com/cabaret-voltaire-paradiso-amsterdam-live-review/",
     "source": "louder-than-war",
-    "title": "Cabaret Voltaire: Paradiso, Amsterdam – live review",
+    "title": "Cabaret Voltaire: Paradiso, Amsterdam – Live Review",
     "url": "https://louderthanwar.com/cabaret-voltaire-paradiso-amsterdam-live-review/",
     "publishedAt": "2026-06-15T07:40:09.000Z",
-    "summary": "Cabaret Voltaire Amsterdam, Paradiso 13th June 2026 Cabaret Voltaire play a sharp and at times transcendental set, albeit without Chris Watson at Amsterdam’s legendary Paradiso. There’s a particular spot in the Paradiso where everything makes sense. I’m not going to tell you where it is, because I want it to remain “my spot” when I […] The post Cabaret Voltaire: Paradiso, Amsterdam – live review appeared first on Louder Than War.",
+    "summary": "Cabaret Voltaire Amsterdam, Paradiso 13th June 2026 Cabaret Voltaire play a sharp and at times transcendental set, albeit without Chris Watson at Amsterdam’s legendary Paradiso. There’s a particular spot in the Paradiso where everything makes sense. I’m not going to tell you where it is, because I want it to remain “my spot” when I […] The post Cabaret Voltaire: Paradiso, Amsterdam – Live Review appeared first on Louder Than War.",
     "image": null
   },
   {
@@ -470,10 +506,19 @@
   {
     "id": "louder-than-war-https://louderthanwar.com/doss-live-review/",
     "source": "louder-than-war",
-    "title": "Doss : Live Review of Glasgow-based abrasive electronic post-punk duo with acid wit lyrics",
+    "title": "Doss: Live Review of Glasgow-based abrasive electronic post-punk duo with acid wit lyrics",
     "url": "https://louderthanwar.com/doss-live-review/",
     "publishedAt": "2026-06-14T12:12:56.000Z",
-    "summary": "Doss Dunkeld Birnham Arts Club June 13th 2026 TV face, music head and raconteur Phill Jupitus witnessed something so special in Scotland that we had to run his review… ‘The real strength and unity of the Scottish originates not in the blind adherence to a cliched national identity […] The post Doss : Live Review of Glasgow-based abrasive electronic post-punk duo with acid wit lyrics appeared first on Louder Than War.",
+    "summary": "Doss Dunkeld Birnham Arts Club June 13th 2026 TV face, music head and raconteur Phill Jupitus witnessed something so special in Scotland that we had to run his review… ‘The real strength and unity of the Scottish originates not in the blind adherence to a cliched national identity (hey England!) but a long suffering and […] The post Doss: Live Review of Glasgow-based abrasive electronic post-punk duo with acid wit lyrics appeared first on Louder Than War.",
+    "image": null
+  },
+  {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMia0FVX3lxTE1FZ1lGcENiR1V0b1dVRHBocTVNWTlNdE1qaUxRcXktdnRfOFRLSnRTaklWYmY5QlF6YUhXR2pyZlE2b2R5WjdmWWxmNl8wdVlvREdFM2FpTmstMjlaeDEyVFJQaWVpbUZjRldz?oc=5",
+    "source": "kerrang",
+    "title": "The big review: Download 2026 - Sunday - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FZ1lGcENiR1V0b1dVRHBocTVNWTlNdE1qaUxRcXktdnRfOFRLSnRTaklWYmY5QlF6YUhXR2pyZlE2b2R5WjdmWWxmNl8wdVlvREdFM2FpTmstMjlaeDEyVFJQaWVpbUZjRldz?oc=5",
+    "publishedAt": "2026-06-14T12:04:00.000Z",
+    "summary": "The big review: Download 2026 - Sunday Kerrang!",
     "image": null
   },
   {
@@ -492,15 +537,6 @@
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZkNBTFFyOXdqdnMtSG1OeTJmSWw0VTg2MVhFWDZtdXp4WDhHaktGTG81WVBYWXhUUEdjRVR5MlV3TGxmU1BFVktRSlZrcENYWTVIZGNsc2hTNjlwdHVDcVh2b0QtbjJ4M0wzanJVd2ZLNV9xcHhfVGh5bjRWQklUN3BvMmdHazh2Y0VWbTFLQlBjNURqbzFJa1d5cFdXUnk1OWpFZkwyWXdQcjN0LXdVTw?oc=5",
     "publishedAt": "2026-06-14T10:44:45.000Z",
     "summary": "Ariana Grande launches foundation to provide support for LGBTQ+ community NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdGYtMVJuYjk0ZHpHQzBSWWZoX1NYYkpJMXZMZ3ZLZXhMa0ZuQnJZMG01Wnk0N1JIeWdWTVNabHdIajJSaDc3eV9EYjdxN3hYQTlFV0ZtbEIwLWlBemZwa2xERGxTT2ZlWE9rTWxqbk4wdzVLVXdrTkYxc3ZrZ3hDbWwxRkkwTE1JWkhNRlVhU0ZQV0lYRXNNUEd6cmNEVWE5aXlkMXZaTEc?oc=5",
-    "source": "nme",
-    "title": "John Fogerty wants Timothée Chalamet to play him in upcoming biopic - NME",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdGYtMVJuYjk0ZHpHQzBSWWZoX1NYYkpJMXZMZ3ZLZXhMa0ZuQnJZMG01Wnk0N1JIeWdWTVNabHdIajJSaDc3eV9EYjdxN3hYQTlFV0ZtbEIwLWlBemZwa2xERGxTT2ZlWE9rTWxqbk4wdzVLVXdrTkYxc3ZrZ3hDbWwxRkkwTE1JWkhNRlVhU0ZQV0lYRXNNUEd6cmNEVWE5aXlkMXZaTEc?oc=5",
-    "publishedAt": "2026-06-14T09:43:22.000Z",
-    "summary": "John Fogerty wants Timothée Chalamet to play him in upcoming biopic NME",
     "image": null
   },
   {
@@ -612,15 +648,6 @@
     "image": null
   },
   {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMidkFVX3lxTE1wbTlEcER6ZG5qTlZOYkRVR0hwb3czZ0NmeU5aR3AyeE40Mjl6SDVuYnFjbTJ2cFJrMVR1N0x0NWtSYXcycEJQZzVPZllkQ01Vc2ZfajhUTVpIekMxUG9aUkZpMUZaY2lRcGllUlZXUWhSc3BiZkE?oc=5",
-    "source": "kerrang",
-    "title": "Album review: Sublime – Until The Sun Explodes - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wbTlEcER6ZG5qTlZOYkRVR0hwb3czZ0NmeU5aR3AyeE40Mjl6SDVuYnFjbTJ2cFJrMVR1N0x0NWtSYXcycEJQZzVPZllkQ01Vc2ZfajhUTVpIekMxUG9aUkZpMUZaY2lRcGllUlZXUWhSc3BiZkE?oc=5",
-    "publishedAt": "2026-06-12T11:00:00.000Z",
-    "summary": "Album review: Sublime – Until The Sun Explodes Kerrang!",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/30-years-on-remembering-the-manchester-ira-bomb-15-june-1996/",
     "source": "louder-than-war",
     "title": "30 Years On : Remembering the Manchester IRA Bomb – 15 June 1996",
@@ -690,33 +717,6 @@
     "url": "https://www.uncut.co.uk/features/brian-wilson-album-by-album-28238/",
     "publishedAt": "2026-06-11T09:47:46.000Z",
     "summary": "The man himself talks Uncut through six pivotal Beach Boys releases",
-    "image": null
-  },
-  {
-    "id": "uncut-https://www.uncut.co.uk/news/geese-revealed-as-end-of-the-road-2026-secret-headliner-155043/",
-    "source": "uncut",
-    "title": "Geese revealed as End Of The Road 2026’s secret headliner",
-    "url": "https://www.uncut.co.uk/news/geese-revealed-as-end-of-the-road-2026-secret-headliner-155043/",
-    "publishedAt": "2026-06-10T15:30:00.000Z",
-    "summary": "Cameron Winter and co will join Pulp, CMAT and Mac DeMarco at the now sold-out festival in September",
-    "image": null
-  },
-  {
-    "id": "uncut-https://www.uncut.co.uk/news/jack-white-announces-new-solo-album-frozen-charlotte-155038/",
-    "source": "uncut",
-    "title": "Jack White announces new solo album, Frozen Charlotte",
-    "url": "https://www.uncut.co.uk/news/jack-white-announces-new-solo-album-frozen-charlotte-155038/",
-    "publishedAt": "2026-06-10T09:05:33.000Z",
-    "summary": "And shares a new single, “Dollar Bill”",
-    "image": null
-  },
-  {
-    "id": "uncut-https://www.uncut.co.uk/news/send-us-your-questions-for-john-carpenter-155018/",
-    "source": "uncut",
-    "title": "Send us your questions for John Carpenter!",
-    "url": "https://www.uncut.co.uk/news/send-us-your-questions-for-john-carpenter-155018/",
-    "publishedAt": "2026-06-09T10:50:41.000Z",
-    "summary": "The cult film director and composer will field your enquiries in a future issue of Uncut",
     "image": null
   }
 ]
