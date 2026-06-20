@@ -1,5 +1,59 @@
 [
   {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/the-beatles-long-lost-first-ever-top-of-the-pops-footage-1235581073/",
+    "source": "rolling-stone",
+    "title": "The Beatles’ Long-Lost First-Ever ‘Top of the Pops’ Performance Has Been Found",
+    "url": "https://www.rollingstone.com/music/music-news/the-beatles-long-lost-first-ever-top-of-the-pops-footage-1235581073/",
+    "publishedAt": "2026-06-20T14:09:26.000Z",
+    "summary": "Footage of the 1964 appearance, where the Fab Four played \"Can’t Buy Me Love\" and \"You Can’t Do That,\" was erased from BBC archives, but British conservationists obtained 35mm footage",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/earth-wind-fire-chicago-all-they-have-in-common-1235577794/",
+    "source": "rolling-stone",
+    "title": "All the Eerie Parallels Between Earth, Wind & Fire and Chicago",
+    "url": "https://www.rollingstone.com/music/music-features/earth-wind-fire-chicago-all-they-have-in-common-1235577794/",
+    "publishedAt": "2026-06-20T13:00:00.000Z",
+    "summary": "Both bands rose out of Chicago in the late 1960s, had a horn section, reluctantly went disco, hired songwriter-producer David Foster, and soldiered on after the most famous member left",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/underrated-80s-rock-albums/",
+    "source": "loudwire",
+    "title": "21 Underrated '80s Rock Albums Every Music Fan Needs on Vinyl",
+    "url": "https://loudwire.com/underrated-80s-rock-albums/",
+    "publishedAt": "2026-06-20T12:40:58.000Z",
+    "summary": "These underrated gems from the 1980s absolutely need to be in your vinyl collection. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/death-metal-bands-cant-pronounce/",
+    "source": "loudwire",
+    "title": "5 Death Metal Bands You Can’t Pronounce (But Worth Listening To)",
+    "url": "https://loudwire.com/death-metal-bands-cant-pronounce/",
+    "publishedAt": "2026-06-20T11:39:30.000Z",
+    "summary": "These death metal bands have names you can't pronounce and good luck trying to spell some of them. They're worth listening to though! Continue reading…",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/black-metal-covers-grunge-songs/",
+    "source": "loudwire",
+    "title": " 5 Best Black Metal Covers of Grunge Songs",
+    "url": "https://loudwire.com/black-metal-covers-grunge-songs/",
+    "publishedAt": "2026-06-20T11:00:34.000Z",
+    "summary": "Has a more figuratively black metal band than Alice In Chains ever existed? These black on grunge covers will leave you feeling “Down in a Hole.” Continue reading…",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/lollapalooza-2026/",
+    "source": "loudwire",
+    "title": "Win a Trip to Chicago to Experience Lollapaloza 2026",
+    "url": "https://loudwire.com/lollapalooza-2026/",
+    "publishedAt": "2026-06-20T10:00:20.000Z",
+    "summary": "Want to win a trip to Chicago to experience Lollapalooza this summer? Continue reading…",
+    "image": null
+  },
+  {
     "id": "uncut-https://www.uncut.co.uk/news/inside-our-new-free-cd-ambient-americana-volume-2-further-along-the-cosmic-trail-155142/",
     "source": "uncut",
     "title": "Inside our new free CD, Ambient Americana Volume 2: Further Along The Cosmic Trail",
@@ -306,6 +360,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd3BSdUlyeXRvWkFkeE51YWFRd29kU1VJbUtIX0ZveDZrNzgwWEJnZk8yRk1zQkNrQ2w0OGh2ZVFydVM1dWlVUjJMMWlveEQ2SWhnUUNvTzlfNFBjRDhyQ3BlSmZ3UTlCc2ZoUGVndlloSWNta25jLXdMQlZDeG9DNFFZUDhqbVlnSkJ3QjBjQ1VvR2dVQTJCOTB1WWRMSmtsbzIyWUljcWFHTnVmbzNia1VSVE1jYkU5NWhGNXdpUEVoM0IxNzB6Y24wQ21fLXgxY05hVksySXBNRFU?oc=5",
+    "source": "nme",
+    "title": "Joseph Gordon-Levitt explains alleged ties to secret society run by controversial billionaire Peter Thiel - NME",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd3BSdUlyeXRvWkFkeE51YWFRd29kU1VJbUtIX0ZveDZrNzgwWEJnZk8yRk1zQkNrQ2w0OGh2ZVFydVM1dWlVUjJMMWlveEQ2SWhnUUNvTzlfNFBjRDhyQ3BlSmZ3UTlCc2ZoUGVndlloSWNta25jLXdMQlZDeG9DNFFZUDhqbVlnSkJ3QjBjQ1VvR2dVQTJCOTB1WWRMSmtsbzIyWUljcWFHTnVmbzNia1VSVE1jYkU5NWhGNXdpUEVoM0IxNzB6Y24wQ21fLXgxY05hVksySXBNRFU?oc=5",
+    "publishedAt": "2026-06-19T09:59:45.000Z",
+    "summary": "Joseph Gordon-Levitt explains alleged ties to secret society run by controversial billionaire Peter Thiel NME",
+    "image": null
+  },
+  {
     "id": "nme-https://news.google.com/rss/articles/CBMirgFBVV95cUxNdDZFVHhySU9id29yNG5rSlBIY2dFcFpBVlRSVXNSQ0E1Nm82cGtHTGg4ck9RRVlHWFhtMlRUeFJZUmRhbnVwcFFqNmtjdW80b2VMWHFGN3pKRHU2NU5YTkNJdHFaZkJYQ3RHUTM5MFFyUy0wenE2X3VVSU1NSUFSVFJsZEJaR09iT3FhSnJGd2VVR2FiSUFhMHVCaFFRMFVoVlo4TlpwTlZYeXJIU0E?oc=5",
     "source": "nme",
     "title": "The best games of 2026… so far! - NME",
@@ -330,15 +393,6 @@
     "url": "https://loudwire.com/bunnie-xo-chad-kroeger-dating-rumors/",
     "publishedAt": "2026-06-19T07:53:40.000Z",
     "summary": "After a social media post sparked speculation, Bunnie Xo is clearing up rumors linking her to Nickelback frontman Chad Kroeger. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/fka-twigs-lil-yachty-on-your-mind-single-1235580911/",
-    "source": "rolling-stone",
-    "title": "FKA Twigs Taps Lil Yachty for Pulsating Single ‘On Your Mind’",
-    "url": "https://www.rollingstone.com/music/music-news/fka-twigs-lil-yachty-on-your-mind-single-1235580911/",
-    "publishedAt": "2026-06-19T07:27:40.000Z",
-    "summary": "The song follows the singer's recent albums Eusexua and Eusexua Afterglow",
     "image": null
   },
   {
@@ -369,15 +423,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/jelly-roll-bunnie-xo-divorce-cheating-rumors-1235580887/",
-    "source": "rolling-stone",
-    "title": "Jelly Roll Calls Out Cheating Rumors Amid Bunnie Xo Divorce: ‘My Best Friend Forever’",
-    "url": "https://www.rollingstone.com/music/music-news/jelly-roll-bunnie-xo-divorce-cheating-rumors-1235580887/",
-    "publishedAt": "2026-06-19T03:15:06.000Z",
-    "summary": "The country star slammed rumors swirling online following news of his divorce from Bunnie",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/news/producer-tay-keith-dies-at-29/",
     "source": "pitchfork",
     "title": "Producer Tay Keith Dies at 29",
@@ -393,24 +438,6 @@
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRUpwbFJpZHctNFpLQlJJV1Y2RFlVdzdQa2dfT2lydE1QQzQ5VGYyOEV2VUhxMDBWZE1RRGtRdGxNZTR1d0JacXplLXE1RlRCTnQwMF9XNGpsaXZhZVVDM1NzQUFEQXF1bXNsb0wycDNoZ0w5c3NPRWFGZGZPbi1XTWg5YkpOX0lyZDNWWmk5ZXFiM1JpTUs5Z25NQTM2bnd1NlFsTWVnRDA?oc=5",
     "publishedAt": "2026-06-18T20:29:09.000Z",
     "summary": "The Beatles’ missing 1964 ‘Top Of The Pops’ performance footage found NME",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/photos-rockers-barack-obama-presidential-center/",
-    "source": "loudwire",
-    "title": "PHOTOS - Rockers Perform at Obama Center Grand Opening",
-    "url": "https://loudwire.com/photos-rockers-barack-obama-presidential-center/",
-    "publishedAt": "2026-06-18T20:17:52.000Z",
-    "summary": "See photos of Eddie Vedder, Bruce Springsteen, U2 and more from the grand opening ceremony of the Barack Obama Presidential Center Continue reading…",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/pearl-jam-eddie-vedder-obama-center-grand-opening-better-believe/",
-    "source": "loudwire",
-    "title": "Eddie Vedder Plays Obama Center Grand Opening, Debuts New Song",
-    "url": "https://loudwire.com/pearl-jam-eddie-vedder-obama-center-grand-opening-better-believe/",
-    "publishedAt": "2026-06-18T19:14:25.000Z",
-    "summary": "Pearl Jam frontman Eddie Vedder teamed up with the Guitars Over Guns organization to debut the new song 'Better Believe' at the Obama Presidential Center grand opening. Continue reading…",
     "image": null
   },
   {
@@ -459,15 +486,6 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/sleep-have-spacesuit-will-travel-2026-tour/",
-    "source": "loudwire",
-    "title": "Sleep Announce Tour With New Lineup, Debut Song Without Matt Pike",
-    "url": "https://loudwire.com/sleep-have-spacesuit-will-travel-2026-tour/",
-    "publishedAt": "2026-06-18T15:20:20.000Z",
-    "summary": "Co-founding singer and bassist Al Cisneros has recruited some heavy hitters for the band's new lineup. Continue reading…",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/reviews/this-heat-by-this-heat-reviewed-post-punk-pioneers-visionary-debut-155120/",
     "source": "uncut",
     "title": "This Heat by This Heat reviewed: post-punk pioneers visionary debut",
@@ -486,15 +504,6 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/jack-osbourne-backlash-white-house-ufc-fight/",
-    "source": "loudwire",
-    "title": "Jack Osbourne Reacts to Backlash Over White House UFC Fight",
-    "url": "https://loudwire.com/jack-osbourne-backlash-white-house-ufc-fight/",
-    "publishedAt": "2026-06-18T14:44:27.000Z",
-    "summary": "Jack Osbourne addresses those critical of his attendance at the recent UFC fight taking place at the White House. Continue reading…",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/news/watch-kim-gordon-play-play-me-on-the-tonight-show/",
     "source": "pitchfork",
     "title": "Watch Kim Gordon Play “Play Me” on The Tonight Show",
@@ -510,15 +519,6 @@
     "url": "https://louderthanwar.com/fortress-2026-sunday-festival-review/",
     "publishedAt": "2026-06-18T11:46:16.000Z",
     "summary": "Fortress Festival 2026 – Sunday (see Saturday here) Scarborough Spa, North Yorkshire 30th to 31st May 2026 Fortress Festival delves in to dungeon synth and hosts the live set no one thought would happen. As we move into the second day, we can reflect that the black metal community in attendance at the festival are […] The post Fortress 2026: Sunday – Festival Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMivAFBVV95cUxQZFpnN0o5ZDVrOEV0ZUh5c0tSS3oxQ2o1OTdTZFRiRW0yRzB2b0txYjFoOGRHQVhvRmFGVmlnN3JFTWxiOFBPdW5jZHVySXR0bTN6aGZHN25iejd2NVg4RUlqYm5xQkJtTjlWVnc3aVVfRlBDMl9yRmVTOHg1S0J0NVRMNE1oVDAyZFNLNjJLQXp0VnBMaUJNZTZtRGFJa2FsOXpoOGdtUEhzWjRIQnd6RGp4VE9KSDFVdkVIcA?oc=5",
-    "source": "nme",
-    "title": "Olivia Rodrigo shares she has \"smelled\" fans wearing diapers front row at her shows - NME",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZFpnN0o5ZDVrOEV0ZUh5c0tSS3oxQ2o1OTdTZFRiRW0yRzB2b0txYjFoOGRHQVhvRmFGVmlnN3JFTWxiOFBPdW5jZHVySXR0bTN6aGZHN25iejd2NVg4RUlqYm5xQkJtTjlWVnc3aVVfRlBDMl9yRmVTOHg1S0J0NVRMNE1oVDAyZFNLNjJLQXp0VnBMaUJNZTZtRGFJa2FsOXpoOGdtUEhzWjRIQnd6RGp4VE9KSDFVdkVIcA?oc=5",
-    "publishedAt": "2026-06-18T11:39:10.000Z",
-    "summary": "Olivia Rodrigo shares she has \"smelled\" fans wearing diapers front row at her shows NME",
     "image": null
   },
   {
