@@ -1,5 +1,86 @@
 [
   {
+    "id": "loudwire-https://loudwire.com/best-song-every-opeth-album/",
+    "source": "loudwire",
+    "title": "The Best Song on Every Opeth Album",
+    "url": "https://loudwire.com/best-song-every-opeth-album/",
+    "publishedAt": "2026-06-22T11:42:21.000Z",
+    "summary": "How do you pick just one from 'Blackwater Park'?! Continue reading…",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/five-finger-death-punch-kansas-city/",
+    "source": "loudwire",
+    "title": "Win a Trip to Kansas City to See Five Finger Death Punch",
+    "url": "https://loudwire.com/five-finger-death-punch-kansas-city/",
+    "publishedAt": "2026-06-22T10:00:44.000Z",
+    "summary": "Tickets. Flights. Hotel. And BBQ with a member of Five Finger Death Punch the day of the show. Enter for your chance to win it all. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/lewis-capaldi-new-album-trnsmt-2-1236277432/",
+    "source": "billboard",
+    "title": "Lewis Capaldi Says New Album Is in the Works During TRNSMT Set",
+    "url": "https://www.billboard.com/music/music-news/lewis-capaldi-new-album-trnsmt-2-1236277432/",
+    "publishedAt": "2026-06-22T09:29:24.000Z",
+    "summary": "Capaldi also spoke candidly about the difficult period that followed his last TRNSMT appearance in 2022.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/evan-ride-or-die-interview-new-music-1235580792/",
+    "source": "rolling-stone",
+    "title": "Evan Introduces Himself on His Own Terms With ‘Ride or Die’",
+    "url": "https://www.rollingstone.com/music/music-features/evan-ride-or-die-interview-new-music-1235580792/",
+    "publishedAt": "2026-06-22T09:00:00.000Z",
+    "summary": "The former Enhypen member offers a first look at his identity as a soloist, opening up about growth, doubt, and laying the foundation for the artist he wants to be",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMib0FVX3lxTE5FRHZqV2M2ajc5LWg0UlVZNDI4OE8zSXZmQUtFUDRNV19mejV4dmFlLW9xbmF2N0ZnZzNkRzV5ZEhMd0VWd0Z2WmFqT0ZRN2kya1NLdEZXTFZWTXF0TG5QaTh1X0o4dGlxd3F4ZmNHUQ?oc=5",
+    "source": "nme",
+    "title": "Hearts2Hearts: the sweet sound of a K-pop summer - NME",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FRHZqV2M2ajc5LWg0UlVZNDI4OE8zSXZmQUtFUDRNV19mejV4dmFlLW9xbmF2N0ZnZzNkRzV5ZEhMd0VWd0Z2WmFqT0ZRN2kya1NLdEZXTFZWTXF0TG5QaTh1X0o4dGlxd3F4ZmNHUQ?oc=5",
+    "publishedAt": "2026-06-22T08:00:56.000Z",
+    "summary": "Hearts2Hearts: the sweet sound of a K-pop summer NME",
+    "image": null
+  },
+  {
+    "id": "uncut-https://www.uncut.co.uk/publications/the-200-greatest-americana-albums-ranked-155146/",
+    "source": "uncut",
+    "title": "The 200 Greatest Americana Albums…Ranked!",
+    "url": "https://www.uncut.co.uk/publications/the-200-greatest-americana-albums-ranked-155146/",
+    "publishedAt": "2026-06-22T07:28:45.000Z",
+    "summary": "Here at Uncut, Americana is very much at the heart of what we do. It was, legendarily, on a 1996 trip to interview Lambchop that founding editor Allan Jones started to think that what he was witnessing had a place in a different kind of magazine than the one he was currently editing.Here at Uncut, […]",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/olivia-rodrigo-number-one-album-chart-1235581149/",
+    "source": "rolling-stone",
+    "title": "Olivia Rodrigo Scores Third No. 1 Album With ‘You Seem Pretty Sad for a Girl So in Love’",
+    "url": "https://www.rollingstone.com/music/music-news/olivia-rodrigo-number-one-album-chart-1235581149/",
+    "publishedAt": "2026-06-22T06:32:47.000Z",
+    "summary": "The singer bested Drake for the highest album sales week of 2026 for a solo artist",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/fan-dies-after-fall-goose-concert-madison-square-garden-1236277419/",
+    "source": "billboard",
+    "title": "Goose Pays Tribute to Fan Who Died at MSG Concert: ‘Life Is Fragile’",
+    "url": "https://www.billboard.com/music/music-news/fan-dies-after-fall-goose-concert-madison-square-garden-1236277419/",
+    "publishedAt": "2026-06-22T06:26:12.000Z",
+    "summary": "Before the show, the band explained their decision to proceed with Sunday's concert, acknowledging the tragedy.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/ai-music-deals-musicians-letter-artists-rights/",
+    "source": "billboard",
+    "title": "Musicians Pen Letter, Warning About AI Music Deals: ‘Innovation Cannot Be Used to Override Artists’ Rights’",
+    "url": "https://www.billboard.com/pro/ai-music-deals-musicians-letter-artists-rights/",
+    "publishedAt": "2026-06-22T06:00:00.000Z",
+    "summary": "\"Labels and publishers rightly argue that AI companies need permission to train on their music catalog, but will not grant artists and songwriters the same rights,\" a press release reads.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/rock/metallica-kirk-hammett-onstage-fall-1236277416/",
     "source": "billboard",
     "title": "Metallica’s Kirk Hammett Takes a Tumble Into the Dublin Crowd During ‘Seek & Destroy’",
@@ -126,33 +207,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/lists/ed-sheeran-nashville-concert-loop-tour-best-moments/",
-    "source": "billboard",
-    "title": "Ed Sheeran’s Dynamic, Hit-Filled Nashville Show: 5 Best Moments",
-    "url": "https://www.billboard.com/lists/ed-sheeran-nashville-concert-loop-tour-best-moments/",
-    "publishedAt": "2026-06-21T17:11:36.000Z",
-    "summary": "Billboard highlights the top moments from Sheeran's Loop Tour concert at Nissan Stadium.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/fabolous-fathers-day-luncheon-sei-less-reform-alliance-1236277076/",
-    "source": "billboard",
-    "title": "Fabolous Hosts Father’s Day Luncheon in NYC for Fathers Impacted by Criminal Justice System: ‘Fatherhood Means Everything to Me’",
-    "url": "https://www.billboard.com/music/rb-hip-hop/fabolous-fathers-day-luncheon-sei-less-reform-alliance-1236277076/",
-    "publishedAt": "2026-06-21T16:44:46.000Z",
-    "summary": "The Brooklyn rapper teamed up with REFORM Alliance and Sei Less for the celebratory event.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/ed-sheerans-nissan-stadium-setlist-every-song-nashville/",
-    "source": "billboard",
-    "title": "Ed Sheeran’s Nissan Stadium Setlist: Every Song Performed in Nashville",
-    "url": "https://www.billboard.com/lists/ed-sheerans-nissan-stadium-setlist-every-song-nashville/",
-    "publishedAt": "2026-06-21T16:37:16.000Z",
-    "summary": "The four-time Grammy winner offered up a solid slate of hits when he brought his Loop Tour to Music City.",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/shinedown-brent-smith-explains-true-minimalist-nomad-lifestyle/",
     "source": "loudwire",
     "title": "Shinedown’s Brent Smith Explains Why He Prefers Nomad Lifestyle",
@@ -168,6 +222,15 @@
     "url": "https://www.rollingstone.com/music/music-news/metallica-kirk-hammett-falls-off-stage-enraging-swifties-1235581120/",
     "publishedAt": "2026-06-21T16:03:28.000Z",
     "summary": "A week after wearing a \"Taylor Swift Is a CIA Psyop\" shirt, guitarist plunges into crowd during band's Dublin concert",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMiogFBVV95cUxQT21FN2hOdVZ1N25UNWVRSGx5SWJrcWhaalRwZ3RtTVN1cDc2bDk5cU01bDV5T0R4ZHBTcFhwSzJmU01jQTM4TlJBb1FBRnF1UlFTcnRaOHFra2Y1QVB1WTE2aDVwOFduNmF3NjlJUFdUSUVtRkltSlVRSkZoM09RVkU1bmNJMHMzcXdwMW5PSUFiTnpmRTlLOFlrTVpaVnFiVHc?oc=5",
+    "source": "nme",
+    "title": "Man falls to his death at Goose show in Madison Square Garden - NME",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT21FN2hOdVZ1N25UNWVRSGx5SWJrcWhaalRwZ3RtTVN1cDc2bDk5cU01bDV5T0R4ZHBTcFhwSzJmU01jQTM4TlJBb1FBRnF1UlFTcnRaOHFra2Y1QVB1WTE2aDVwOFduNmF3NjlJUFdUSUVtRkltSlVRSkZoM09RVkU1bmNJMHMzcXdwMW5PSUFiTnpmRTlLOFlrTVpaVnFiVHc?oc=5",
+    "publishedAt": "2026-06-21T15:34:04.000Z",
+    "summary": "Man falls to his death at Goose show in Madison Square Garden NME",
     "image": null
   },
   {
@@ -351,24 +414,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-lists/best-lgbtq-pride-songs-199348/",
-    "source": "rolling-stone",
-    "title": "35 Essential LGBTQ Pride Songs",
-    "url": "https://www.rollingstone.com/music/music-lists/best-lgbtq-pride-songs-199348/",
-    "publishedAt": "2026-06-20T15:00:00.000Z",
-    "summary": "From Sylvester to Pansy Divsion to Lil Nas X, from disco to punk to pop",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/the-beatles-long-lost-first-ever-top-of-the-pops-footage-1235581073/",
-    "source": "rolling-stone",
-    "title": "The Beatles’ Long-Lost First-Ever ‘Top of the Pops’ Performance Has Been Found",
-    "url": "https://www.rollingstone.com/music/music-news/the-beatles-long-lost-first-ever-top-of-the-pops-footage-1235581073/",
-    "publishedAt": "2026-06-20T14:09:26.000Z",
-    "summary": "Footage of the 1964 appearance, where the Fab Four played \"Can’t Buy Me Love\" and \"You Can’t Do That,\" was erased from BBC archives, but British conservationists obtained 35mm footage",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/underrated-80s-rock-albums/",
     "source": "loudwire",
     "title": "21 Underrated '80s Rock Albums Every Music Fan Needs on Vinyl",
@@ -402,33 +447,6 @@
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZDVTQzYtRnZXMTdEZlBtMTgtRWtBdVdGTDdtRTFpZnpiRXp6QVlveGxON0xFOVRFeWRrNFhyTDI4YWt0alRRcGNvZHFyUEcwTzROVVpTOHV4QXFyQm1BcTZ3VXBSNW9QdGlITGFac0NfYkZBM0w2M3JrYUlTYTRxMktZcjVkY3AwUmJ4aXliX1VIZ3o5NzhfbjlMQ09ETGZ1MVI3Y0lEckZOaGpkWENMdXMtNVU4N3ZvSzYtOGkydFZQZnVzRVFj?oc=5",
     "publishedAt": "2026-06-20T10:32:14.000Z",
     "summary": "Busted's James Bourne says he feared he'd never finish upcoming album amid health struggles NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMi1gFBVV95cUxOM3BkZEpuRHZUN0FNV3hUYzdBNzduX0ZJdWgzazBVU3dPdVJUaDlZeHR3bkdqZTRRbzBJampxUmhiamFUNFdBUDJLeHFBNGxoZTRuQTRhZlVOb3FOZFlFYXFSSkZRcUh1UEFKaHNhVHpKWDF6Rms0OFRJNzlyc0NSWXd1SkRyOE5CbE9GWmtJWjg5QWE5ak1aSkpjclEzNTBEaGE4cE1UVUR6YXFlcGZDUjk5ZFc4LWdOZElGQllWVml5UzRUbWVhdUJYdGN6V25TVC1vOGJ3?oc=5",
-    "source": "nme",
-    "title": "Kathy Bates says she threw ‘The Waterboy’ script in the bin because she “didn’t know who Adam Sandler was” - NME",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOM3BkZEpuRHZUN0FNV3hUYzdBNzduX0ZJdWgzazBVU3dPdVJUaDlZeHR3bkdqZTRRbzBJampxUmhiamFUNFdBUDJLeHFBNGxoZTRuQTRhZlVOb3FOZFlFYXFSSkZRcUh1UEFKaHNhVHpKWDF6Rms0OFRJNzlyc0NSWXd1SkRyOE5CbE9GWmtJWjg5QWE5ak1aSkpjclEzNTBEaGE4cE1UVUR6YXFlcGZDUjk5ZFc4LWdOZElGQllWVml5UzRUbWVhdUJYdGN6V25TVC1vOGJ3?oc=5",
-    "publishedAt": "2026-06-20T10:31:18.000Z",
-    "summary": "Kathy Bates says she threw ‘The Waterboy’ script in the bin because she “didn’t know who Adam Sandler was” NME",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/lollapalooza-2026/",
-    "source": "loudwire",
-    "title": "Win a Trip to Chicago to Experience Lollapaloza 2026",
-    "url": "https://loudwire.com/lollapalooza-2026/",
-    "publishedAt": "2026-06-20T10:00:20.000Z",
-    "summary": "Want to win a trip to Chicago to experience Lollapalooza this summer? Continue reading…",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMivgFBVV95cUxQLV8xY05jWlRJRXJHTHFweXVrMkV2MVBmNmJyZWlSMEg2SjBlSy1kYkpIQ0I0U1BvcE1IMi13Y1hRbW1RZDBNR2EwUmpxenV1c0xVZmVZN2tZektBX1NsRzJUMjhvbmt3OWdpR0RHUmZCVmI5SWoxQVhRZ21id0pBZXJUUVQ0QWg3eS1JQTc3X01vd3VZM3VzZmw0TmU3TEFab3NlUkJpX0FXakk1ZWZqZlUzY0JUSmdfUG1KZ1dR?oc=5",
-    "source": "nme",
-    "title": "Morgan Freeman to produce and narrate album charting 100 year history of the blues - NME",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLV8xY05jWlRJRXJHTHFweXVrMkV2MVBmNmJyZWlSMEg2SjBlSy1kYkpIQ0I0U1BvcE1IMi13Y1hRbW1RZDBNR2EwUmpxenV1c0xVZmVZN2tZektBX1NsRzJUMjhvbmt3OWdpR0RHUmZCVmI5SWoxQVhRZ21id0pBZXJUUVQ0QWg3eS1JQTc3X01vd3VZM3VzZmw0TmU3TEFab3NlUkJpX0FXakk1ZWZqZlUzY0JUSmdfUG1KZ1dR?oc=5",
-    "publishedAt": "2026-06-20T09:34:59.000Z",
-    "summary": "Morgan Freeman to produce and narrate album charting 100 year history of the blues NME",
     "image": null
   },
   {
@@ -474,15 +492,6 @@
     "url": "https://louderthanwar.com/elvis-costello-royal-albert-hall-london-live-review-2/",
     "publishedAt": "2026-06-19T14:37:11.000Z",
     "summary": "Elvis Costello And The Imposters | Chris Difford Royal Albert Hall, London Monday 15th June 2026 Veteran songsmith Elvis Costello’s latest tour finds him on the revivalist trail. Steve Morgan watches him attempt to hold back the years It’s a promising start to a mouthwatering, sell-out double bill. Chris Difford, half of Squeeze’s fabled songwriting […] The post Elvis Costello And The Imposters: Royal Albert Hall, London – Live Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/metallica-reload-box-set-contest/",
-    "source": "loudwire",
-    "title": "Win a Metallica 'Reload' Deluxe Remastered Box Set!",
-    "url": "https://loudwire.com/metallica-reload-box-set-contest/",
-    "publishedAt": "2026-06-19T14:00:02.000Z",
-    "summary": "Find out how you can enter to win a deluxe remastered Metallica 'Reload' box set. Continue reading…",
     "image": null
   },
   {
@@ -681,15 +690,6 @@
     "url": "https://www.uncut.co.uk/publications/uncut-august-2026-155027/",
     "publishedAt": "2026-06-16T11:01:59.000Z",
     "summary": "The Rolling Stones, Gregg Allman, Siouxsie Sioux, John Coltrane, The Kinks, Florry, Daniel Lanois, King Gizzard and more!",
-    "image": null
-  },
-  {
-    "id": "uncut-https://www.uncut.co.uk/features/the-rolling-stones-siouxsie-the-kinks-gregg-allman-john-coltrane-and-more-plus-a-free-ambient-americana-cd-inside-the-new-uncut-155036/",
-    "source": "uncut",
-    "title": "The Rolling Stones, Siouxsie, The Kinks, Gregg Allman, John Coltrane and more — plus a free Ambient Americana CD: inside the new Uncut",
-    "url": "https://www.uncut.co.uk/features/the-rolling-stones-siouxsie-the-kinks-gregg-allman-john-coltrane-and-more-plus-a-free-ambient-americana-cd-inside-the-new-uncut-155036/",
-    "publishedAt": "2026-06-16T10:40:47.000Z",
-    "summary": "Co-stars Daniel Lanois, Beastie Boys, King Gizzard, Martha Reeves, Kraftwerk and more!",
     "image": null
   },
   {
