@@ -1,20 +1,146 @@
 [
   {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/rolling-stones-jealous-lover-divine-intervention-1235584491/",
+    "source": "rolling-stone",
+    "title": "Hear the Rolling Stones’ New ‘Divine Intervention,’ Which Features the Cure’s Robert Smith",
+    "url": "https://www.rollingstone.com/music/music-news/rolling-stones-jealous-lover-divine-intervention-1235584491/",
+    "publishedAt": "2026-06-25T21:38:25.000Z",
+    "summary": "Band also unveiled the video for \"Jealous Lover,\" which features Anya Taylor-Joy and Charles Melton",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/jonas-blue-on-rebranding-senses-horrendous-state-of-ai-1236281335/",
+    "source": "billboard",
+    "title": "Jonas Blue on Rebranding, Activating Your SENSES & the ‘Absolutely Horrendous’ State of AI",
+    "url": "https://www.billboard.com/music/music-news/jonas-blue-on-rebranding-senses-horrendous-state-of-ai-1236281335/",
+    "publishedAt": "2026-06-25T21:19:48.000Z",
+    "summary": "After falling out of love with music, the hit-maker dropped his label, picked up an instrument and called up some old friends to make music that fights against the “New World Age.”",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/publishing-briefs-erns-cadillac-music-bmg-liz-rose/",
+    "source": "billboard",
+    "title": "Publishing Briefs: BMG Acquires Chris Cheney’s Catalog & The Ivors Academy & YouTube Music’s Songwriting Camp",
+    "url": "https://www.billboard.com/lists/publishing-briefs-erns-cadillac-music-bmg-liz-rose/",
+    "publishedAt": "2026-06-25T21:04:42.000Z",
+    "summary": "This week's Publishing Briefs column features signings at Liz Rose Music, Position Music and Prescription Songs.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/t-pain-jay-z-death-of-autotune-1236281305/",
+    "source": "billboard",
+    "title": "T-Pain Recalls Hearing Jay-Z’s ‘D.O.A.’ for the First Time: ‘It Was Devastating’",
+    "url": "https://www.billboard.com/music/rb-hip-hop/t-pain-jay-z-death-of-autotune-1236281305/",
+    "publishedAt": "2026-06-25T20:59:25.000Z",
+    "summary": "Hov dissed the audio software application sweeping hip-hop on the 2009 track.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/hbo-max-streaming-deals-prime-day-online-1236280989/",
+    "source": "billboard",
+    "title": "HBO Max Deal: Here’s How to Save Nearly 30% Off an Annual Streaming Subscription",
+    "url": "https://www.billboard.com/culture/product-recommendations/hbo-max-streaming-deals-prime-day-online-1236280989/",
+    "publishedAt": "2026-06-25T20:54:01.000Z",
+    "summary": "For Prime Day, get HBO Max for check to watch House of the Dragon, Euphoria, The Last of Us and original music programming.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/iheartmedia-layoffs-radio-hosts-employees/",
+    "source": "billboard",
+    "title": "iHeartMedia Layoffs Hit Radio Hosts and Staff",
+    "url": "https://www.billboard.com/pro/iheartmedia-layoffs-radio-hosts-employees/",
+    "publishedAt": "2026-06-25T20:49:42.000Z",
+    "summary": "The cuts reportedly affect dozens of jobs and come two months after an earlier round of layoffs at the radio giant.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/taylor-swift-travis-kelce-wedding-everything-we-know-1235584260/",
+    "source": "rolling-stone",
+    "title": "Everything We Think We Know About Taylor Swift’s Wedding",
+    "url": "https://www.rollingstone.com/music/music-features/taylor-swift-travis-kelce-wedding-everything-we-know-1235584260/",
+    "publishedAt": "2026-06-25T20:29:21.000Z",
+    "summary": "The superstar’s wedding to Travis Kelce has sparked lots of speculation, but a few details have emerged",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/venezuela-earthquake-how-to-help-those-impacted/",
+    "source": "billboard",
+    "title": "How to Help Those Impacted by the Earthquakes in Venezuela",
+    "url": "https://www.billboard.com/lists/venezuela-earthquake-how-to-help-those-impacted/",
+    "publishedAt": "2026-06-25T20:18:28.000Z",
+    "summary": "A list of organizations providing aid to those affected by the devastation and other ways to aid.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/latin/becky-g-new-album-baraja-bendita-single-patrona-1236281198/",
+    "source": "billboard",
+    "title": "Becky G Teases New Album ‘Baraja Bendita,’ Says It’s About ‘Choosing Your Own Fate’",
+    "url": "https://www.billboard.com/music/latin/becky-g-new-album-baraja-bendita-single-patrona-1236281198/",
+    "publishedAt": "2026-06-25T19:58:52.000Z",
+    "summary": "The Mexican-American singer also dropped her new single, \"Patrona.\"",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/cma-fest-2026-watch-live-online-free-1236280950/",
+    "source": "billboard",
+    "title": "CMA Fest 2026: Here’s How to Watch the Country Music TV Special Online for Free",
+    "url": "https://www.billboard.com/culture/product-recommendations/cma-fest-2026-watch-live-online-free-1236280950/",
+    "publishedAt": "2026-06-25T19:52:46.000Z",
+    "summary": "Country music fans can enjoy the epic three-hour primetime TV concert special on Thursday (June 25) — watch online without cable.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-pictures/jay-z-j30-anniversary-activations-nyc-1235584169/",
+    "source": "rolling-stone",
+    "title": "An Inside Look at Jay-Z’s “JAŸ-Z30” Anniversary Activations",
+    "url": "https://www.rollingstone.com/music/music-pictures/jay-z-j30-anniversary-activations-nyc-1235584169/",
+    "publishedAt": "2026-06-25T19:34:47.000Z",
+    "summary": "Roc Nation and Apple Music previewed 'JAŸ-Z30,' the Jay-Z exhibits celebrating the anniversaries of 'Reasonable Doubt' and 'The Blueprint.'",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/rick-rubin-helmed-jay-z-docuseries-coming-to-hbo/",
+    "source": "pitchfork",
+    "title": "Rick Rubin-Helmed Jay-Z Docuseries Coming to HBO",
+    "url": "https://pitchfork.com/news/rick-rubin-helmed-jay-z-docuseries-coming-to-hbo/",
+    "publishedAt": "2026-06-25T19:24:22.000Z",
+    "summary": "Jaÿ-Z in 8 captures eight episodes of conversation between the rapper and producer",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/listen-to-the-rolling-stones-song-with-robert-smith-divine-intervention/",
+    "source": "pitchfork",
+    "title": "Listen to the Rolling Stones’ Song With Robert Smith",
+    "url": "https://pitchfork.com/news/listen-to-the-rolling-stones-song-with-robert-smith-divine-intervention/",
+    "publishedAt": "2026-06-25T19:23:13.000Z",
+    "summary": "“Divine Intervention” is one of two Foreign Tongues tracks featuring the Cure frontman—if you can hear him",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/awards/2027-acm-awards-date-1236281150/",
+    "source": "billboard",
+    "title": "Here’s the Date of the 2027 ACM Awards",
+    "url": "https://www.billboard.com/music/awards/2027-acm-awards-date-1236281150/",
+    "publishedAt": "2026-06-25T19:00:00.000Z",
+    "summary": "This will be the sixth consecutive year that the show has streamed on Prime Video.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/roc-nation-jay-z-reasonable-doubt-anniversary-nyc-pop-ups-1236280890/",
+    "source": "billboard",
+    "title": "Here’s What’s Inside Roc Nation’s Pop-Ups Celebrating 30th Anniversary of Jay-Z’s ‘Reasonable Doubt’",
+    "url": "https://www.billboard.com/music/rb-hip-hop/roc-nation-jay-z-reasonable-doubt-anniversary-nyc-pop-ups-1236280890/",
+    "publishedAt": "2026-06-25T18:54:38.000Z",
+    "summary": "Billboard got an early look at the installation in the Dumbo neighborhood of NYC ahead of the launch.",
+    "image": null
+  },
+  {
     "id": "louder-than-war-https://louderthanwar.com/b52s-and-devo-o2-london-live-review/",
     "source": "louder-than-war",
     "title": "B52s and DEVO: O2 London – Live Review",
     "url": "https://louderthanwar.com/b52s-and-devo-o2-london-live-review/",
     "publishedAt": "2026-06-25T18:10:59.000Z",
     "summary": "B52s | DEVO O2, London 20th June 2026 Quirky titans of early-days-MTV B52s and DEVO bring their respective eccentricity, via their Cosmic De-Evolution Tour, to London’s O2 for a very special and nostalgic evening. For anyone who has never been to the O2 before, for some of us it will never stop being the Millenium […] The post B52s and DEVO: O2 London – Live Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/katseye-manon-hiatus-update-warns-against-assumptions-1236281153/",
-    "source": "billboard",
-    "title": "KATSEYE Warns Against Making ‘Assumptions’ About Manon’s Hiatus: ‘It’s Not Our Place’",
-    "url": "https://www.billboard.com/music/music-news/katseye-manon-hiatus-update-warns-against-assumptions-1236281153/",
-    "publishedAt": "2026-06-25T18:06:33.000Z",
-    "summary": "\"We want to give her all the time that she needs,\" Sophia said in a new interview.",
     "image": null
   },
   {
@@ -27,57 +153,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/lists/jay-z-reasonable-doubt-album-tracks-ranked/",
-    "source": "billboard",
-    "title": "Jay-Z’s ‘Reasonable Doubt’ Album: All 14 Tracks Ranked",
-    "url": "https://www.billboard.com/lists/jay-z-reasonable-doubt-album-tracks-ranked/",
-    "publishedAt": "2026-06-25T18:02:32.000Z",
-    "summary": "In honor of the project's 30th anniversary, we talk about and rank each song from Reasonable Doubt's original pressing.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/best-apple-airpod-max-deals-1235428362/",
-    "source": "billboard",
-    "title": "Apple’s AirPods Max 2 Headphones Were Just Released in April and Already $150 Off for Prime Day",
-    "url": "https://www.billboard.com/culture/product-recommendations/best-apple-airpod-max-deals-1235428362/",
-    "publishedAt": "2026-06-25T17:54:00.000Z",
-    "summary": "Amazon has the new Apple AirPods Max 2 wireless noise-canceling headphones on sale for their lowest price yet.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-album-reviews/ryan-beatty-sweet-fortune-album-review-1235583534/",
     "source": "rolling-stone",
     "title": "Ryan Beatty Wants Love to Last on ‘Sweet Fortune’",
     "url": "https://www.rollingstone.com/music/music-album-reviews/ryan-beatty-sweet-fortune-album-review-1235583534/",
     "publishedAt": "2026-06-25T17:50:12.000Z",
-    "summary": "The singer-songwriter's fourth album goes deep into his feelings without over-intellectualizing them and finds a secret weapon in Clairo",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/state-fayre-americana-festival-uk-line-up-2026/",
-    "source": "billboard",
-    "title": "Live Nation Bets on Americana Boom With State Fayre: ‘We Want to Have a Home for Classic Rock Music in the U.K.’",
-    "url": "https://www.billboard.com/pro/state-fayre-americana-festival-uk-line-up-2026/",
-    "publishedAt": "2026-06-25T17:20:05.000Z",
-    "summary": "Anna-Sophie Mertens explains why she believes the time is right for an all-new U.K. festival.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/olivia-rodrigo-fortnite-npc-outfits-emotes-jam-tracks-1236281105/",
-    "source": "billboard",
-    "title": "You Seem Pretty Sad for an NPC: Olivia Rodrigo Joins ‘Fortnite’",
-    "url": "https://www.billboard.com/music/music-news/olivia-rodrigo-fortnite-npc-outfits-emotes-jam-tracks-1236281105/",
-    "publishedAt": "2026-06-25T17:10:00.000Z",
-    "summary": "The pop star is bringing custom outfits, emotes and Jam Tracks to the game.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/tv-film/jay-z-documentary-rick-rubin-release-date-trailer-1236281093/",
-    "source": "billboard",
-    "title": "A Jay-Z Documentary About His Music, Life & More Directed by Rick Rubin Is Coming: Watch the Trailer",
-    "url": "https://www.billboard.com/culture/tv-film/jay-z-documentary-rick-rubin-release-date-trailer-1236281093/",
-    "publishedAt": "2026-06-25T16:55:55.000Z",
-    "summary": "The eight-part series JAŸ-Z in 8 is set to debut this fall.",
+    "summary": "The singer-songwriter’s fourth album goes deep into his feelings without over-intellectualizing them, and finds a secret weapon in Clairo",
     "image": null
   },
   {
@@ -90,30 +171,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/country/miranda-lambert-crisco-release-date-1236281003/",
-    "source": "billboard",
-    "title": "Miranda Lambert Cooks Up New Album ‘Crisco’: Here’s When It’s Served",
-    "url": "https://www.billboard.com/music/country/miranda-lambert-crisco-release-date-1236281003/",
-    "publishedAt": "2026-06-25T16:43:06.000Z",
-    "summary": "The singer-songwriter's upcoming project includes her Chris Stapleton collaboration \"A Song to Sing.\"",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/lenny-kaye-debut-solo-goin-local-grammy-museum-1235583857/",
     "source": "rolling-stone",
     "title": "Lenny Kaye Celebrates His Debut Solo Album, ‘Goin’ Local,’ at the Grammy Museum",
     "url": "https://www.rollingstone.com/music/music-news/lenny-kaye-debut-solo-goin-local-grammy-museum-1235583857/",
     "publishedAt": "2026-06-25T16:36:02.000Z",
     "summary": "The Patti Smith Group guitarist previewed songs from his new album, which he discussed with Michael Imperioli",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/taylor-swift-travis-kelce-wedding-ed-kelce-super-excited-1236281032/",
-    "source": "billboard",
-    "title": "Ed Kelce Is ‘Super Excited’ to Watch Son Travis Kelce Marry Taylor Swift: She’s ‘Truly the Girl Next Door’",
-    "url": "https://www.billboard.com/music/music-news/taylor-swift-travis-kelce-wedding-ed-kelce-super-excited-1236281032/",
-    "publishedAt": "2026-06-25T16:25:40.000Z",
-    "summary": "The tight end's father also shared how he thinks the pop star is like his other daughter-in-law, Kylie.",
     "image": null
   },
   {
@@ -141,24 +204,6 @@
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPczJTWXRwbXg1ZHhFbk9wVGR1UllsLUN6THFNNXJHYlB1UXIybjJHMWxuNnVIOEdVaEcxOHYzUjFadVg1aXNYZTA1OUcwZnNNY0lIRzRUX2RrNW5Ea0FQSU5veDlwS0I2NUhpNUhPeUMxMkFvXzFacURyZTdYSEJaVWROQkpEU2xiZGpheDZUQzFpMkVOQmlNazl1MGpobmRUUFFZLXNwS05qQQ?oc=5",
     "publishedAt": "2026-06-25T16:15:08.000Z",
     "summary": "Bring Me The Horizon make 2006 collide with 2026 on violent new single Dehumanized Kerrang!",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/awards/2026-espys-nominations-list-nominees-1236280864/",
-    "source": "billboard",
-    "title": "Jalen Brunson, Lionel Messi & Alysa Liu Lead 2026 ESPYS Nominations: Full List",
-    "url": "https://www.billboard.com/music/awards/2026-espys-nominations-list-nominees-1236280864/",
-    "publishedAt": "2026-06-25T16:00:00.000Z",
-    "summary": "The ESPYS return to NYC in July.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/billy-joel-piano-man-the-boys-number-1-top-tv-songs-chart-1236281034/",
-    "source": "billboard",
-    "title": "Billy Joel’s ‘Piano Man’ Rides ‘The Boys’ Synch to Top TV Songs Chart No. 1",
-    "url": "https://www.billboard.com/music/chart-beat/billy-joel-piano-man-the-boys-number-1-top-tv-songs-chart-1236281034/",
-    "publishedAt": "2026-06-25T15:49:39.000Z",
-    "summary": "The ‘70s classic was heard in the series finale.",
     "image": null
   },
   {
@@ -225,15 +270,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/american-aquarium-new-ways-to-lose-album-1235583792/",
-    "source": "rolling-stone",
-    "title": "BJ Barham Keeps Losing. He’s Still Trying to Change the World",
-    "url": "https://www.rollingstone.com/music/music-features/american-aquarium-new-ways-to-lose-album-1235583792/",
-    "publishedAt": "2026-06-25T14:12:21.000Z",
-    "summary": "On American Aquarium’s latest album, New Ways to Lose, the band's frontman defiantly addresses all manner of loss: from the gentrification of his small town to his beloved dog",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/news/there-are-16-joy-division-live-albums-on-the-way/",
     "source": "pitchfork",
     "title": "There Are 16 Joy Division Live Albums on the Way",
@@ -252,15 +288,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/blondshell-new-album-violins-announcement-1235582722/",
-    "source": "rolling-stone",
-    "title": "Blondshell Returns With More Hard-Hitting Rock Songs on New Album ‘Violins’",
-    "url": "https://www.rollingstone.com/music/music-news/blondshell-new-album-violins-announcement-1235582722/",
-    "publishedAt": "2026-06-25T14:01:35.000Z",
-    "summary": "The singer-songwriter has announced her third LP and shared the title track and video",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/new-artist-of-the-day-skorts/",
     "source": "louder-than-war",
     "title": "New Artist Of The Day: Skorts",
@@ -276,15 +303,6 @@
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNnU1aEZMX3ZlVXhoNUszajBwcHhVUFk4dEpQMXhkZXFnMXYxU1NRckVhaU80MGQ4alRHRHFYVzhsMGp1eEt1aFg5dGxhdVY1ZkQxOHFVWGszcVlIV0Z5Nmk2cjZhSHBxMklYajBvUFUtcjFPc1V3Znl0UHE3Z3kyRndIcXMzcXAzM3AyMm90eHNkT1dYNzBKVk5vbFZoT0tyNHBhdFBRdEZ5bHQxYWNTTVUyRQ?oc=5",
     "publishedAt": "2026-06-25T13:00:00.000Z",
     "summary": "Film review: Jackass Best And Last Kerrang!",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-lists/best-olivia-rodrigo-songs-1234821374/",
-    "source": "rolling-stone",
-    "title": "Every Olivia Rodrigo Song, Ranked",
-    "url": "https://www.rollingstone.com/music/music-lists/best-olivia-rodrigo-songs-1234821374/",
-    "publishedAt": "2026-06-25T13:00:00.000Z",
-    "summary": "Three albums, all classics. Let’s celebrate a budding rock & roll legend",
     "image": null
   },
   {
@@ -369,6 +387,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMiygFBVV95cUxNNE9CWDdISnhPRW5wSWZqZ3RzcEM3Rm9fXzBsUEhwdi1ka2lSeE1kamZVYVNNQXVhUHJoUFRMSmlwdmduWkZmN2hGclNfMXktUlBMQ05RWmZxcTFHeGg3WEROcS0yM0gxQTZ4LWZKaEFLNEhodWxldkxiWTFiM01jMGkyQVoxNXg0VGdzWUhvUUtBSzRBdHl3XzBmemhXQTMyQjk5ZmRqcXhkQmJrRm5jTTVPZ1VuUGJEVWlpNFNpSFBmUWlOSC1YMHBB?oc=5",
+    "source": "nme",
+    "title": "'Hot Hot Hot!!!' – The Cure bring the hits through the heatwave as 2026 UK tour arrives in Cardiff - NME",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNE9CWDdISnhPRW5wSWZqZ3RzcEM3Rm9fXzBsUEhwdi1ka2lSeE1kamZVYVNNQXVhUHJoUFRMSmlwdmduWkZmN2hGclNfMXktUlBMQ05RWmZxcTFHeGg3WEROcS0yM0gxQTZ4LWZKaEFLNEhodWxldkxiWTFiM01jMGkyQVoxNXg0VGdzWUhvUUtBSzRBdHl3XzBmemhXQTMyQjk5ZmRqcXhkQmJrRm5jTTVPZ1VuUGJEVWlpNFNpSFBmUWlOSC1YMHBB?oc=5",
+    "publishedAt": "2026-06-25T09:52:00.000Z",
+    "summary": "'Hot Hot Hot!!!' – The Cure bring the hits through the heatwave as 2026 UK tour arrives in Cardiff NME",
+    "image": null
+  },
+  {
     "id": "louder-than-war-https://louderthanwar.com/goran-kajfes-subtropic-arkestra-avin-omar-ep-review/",
     "source": "louder-than-war",
     "title": "Goran Kajfeš Subtropic Arkestra & Avin Omar: Goran Kajfeš Subtropic Arkestra & Avin Omar – EP Review",
@@ -393,6 +420,15 @@
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qNy1uUVpYOC1mZGVzVWJJUDB0cjFoeXM4SnVmRjQ1YXVsNGtvZXR4ZmlDcGNGR2VQbkF4U0xtNzhXME5LWVh6Nm9XdmhVSmxLOUxWOUZjMkhQQlZmRVp0S2dTdjFSaFI2NDNDVHc1M2xIbzVKVWtUZUw1TzNzR0E?oc=5",
     "publishedAt": "2026-06-25T07:00:15.000Z",
     "summary": "Muse – ‘The Wow! Signal’ review: space rock icons’ best album in 20 years NME",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMipgFBVV95cUxOMUc0cWxIZ2I1TXNTVndLMVU2SU1zWFhMMkFzeENONDAtT3ZlZGczWFR4c2tLcjFsZmVCV2ZYS2QtdTdaWDBrQ1IyQzVRYVp1SXAyMzVXY05mNXJWRGJobnRRZ1JBemxDOXhNQjlyVjFONzczb3VRakFKV2Z1a21iWUZLTmhPV3ExeDl4NENJbHZNTUlIQzE0LTlCZVFWcGxkd0JlLWdn?oc=5",
+    "source": "nme",
+    "title": "Gerran Howell’s rise on ‘The Pitt’ is just what the doctor ordered - NME",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMUc0cWxIZ2I1TXNTVndLMVU2SU1zWFhMMkFzeENONDAtT3ZlZGczWFR4c2tLcjFsZmVCV2ZYS2QtdTdaWDBrQ1IyQzVRYVp1SXAyMzVXY05mNXJWRGJobnRRZ1JBemxDOXhNQjlyVjFONzczb3VRakFKV2Z1a21iWUZLTmhPV3ExeDl4NENJbHZNTUlIQzE0LTlCZVFWcGxkd0JlLWdn?oc=5",
+    "publishedAt": "2026-06-25T07:00:02.000Z",
+    "summary": "Gerran Howell’s rise on ‘The Pitt’ is just what the doctor ordered NME",
     "image": null
   },
   {
@@ -513,15 +549,6 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMiogFBVV95cUxNMUY0MXE4REQ2ZEhmRi1fRkVDcXJuWDVCZmZpT1FKTUU2anlIWF84bkFqdGt4UXNlRDNYbmdITUJjVmdyeldXdGFYcTJyOTRJanJNNENvdzQ0SEhrd1FOZ2JodS1tZlA5WjZzeXZmejRWcUcwU0ozWHd0a0lhOURFeThTSFpxQ3hLMkoxM1RvOHBZZ1pGY1liOEttRzJXSXRBN1E?oc=5",
-    "source": "nme",
-    "title": "Outernet Live launches under new venue name in central London - NME",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMUY0MXE4REQ2ZEhmRi1fRkVDcXJuWDVCZmZpT1FKTUU2anlIWF84bkFqdGt4UXNlRDNYbmdITUJjVmdyeldXdGFYcTJyOTRJanJNNENvdzQ0SEhrd1FOZ2JodS1tZlA5WjZzeXZmejRWcUcwU0ozWHd0a0lhOURFeThTSFpxQ3hLMkoxM1RvOHBZZ1pGY1liOEttRzJXSXRBN1E?oc=5",
-    "publishedAt": "2026-06-24T15:48:23.000Z",
-    "summary": "Outernet Live launches under new venue name in central London NME",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/features/the-cure-best-albums-as-chosen-by-the-bands-they-influenced-155180/",
     "source": "uncut",
     "title": "“They did things on their own terms”: The Cure’s best albums, as chosen by the bands they influenced",
@@ -549,15 +576,6 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMitgFBVV95cUxOR3dPbWU1MkRva2JkNVZvd3VtU25GbXIyTGNDZ1k3WC1GVEhUMGlNc2xaMllvVUNFd2psQnVUb2lwUUFRZ2RVSFBpcS1CclVqSkhYMVB5YUZLaUdpMlhEVEtvMm9Ya0ZIYWtQWlNpdmVLRzhfd1RMdnM1R1d3Zm02NVRnakhkZmRjRENuZ1FoYXV6MGx5NmQ0WmJsQzZUdW43QU9YWjlWRVdLN3pTWlc3MU45TkVQZw?oc=5",
-    "source": "nme",
-    "title": "Phoebe Bridgers announces new album ‘Lost Weekend’ and release of first single - NME",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR3dPbWU1MkRva2JkNVZvd3VtU25GbXIyTGNDZ1k3WC1GVEhUMGlNc2xaMllvVUNFd2psQnVUb2lwUUFRZ2RVSFBpcS1CclVqSkhYMVB5YUZLaUdpMlhEVEtvMm9Ya0ZIYWtQWlNpdmVLRzhfd1RMdnM1R1d3Zm02NVRnakhkZmRjRENuZ1FoYXV6MGx5NmQ0WmJsQzZUdW43QU9YWjlWRVdLN3pTWlc3MU45TkVQZw?oc=5",
-    "publishedAt": "2026-06-24T14:31:06.000Z",
-    "summary": "Phoebe Bridgers announces new album ‘Lost Weekend’ and release of first single NME",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/news/you-can-now-buy-records-from-tom-verlaines-personal-collection/",
     "source": "pitchfork",
     "title": "You Can Now Buy Records From Tom Verlaine’s Personal Collection",
@@ -573,24 +591,6 @@
     "url": "https://louderthanwar.com/julez-and-the-rollerz-dirty-little-rock-n-roller-album-review/",
     "publishedAt": "2026-06-24T14:18:03.000Z",
     "summary": "Julez And The Rollerz: Dirty Little Rock ‘N’ Roller (Lolipop Records) Out 26th July, 2026 Debut album by L.A.’s Julez And The Rollerz is a mash of storming glam-tinted power-pop that revels in abandon. A great dose of summer-fun rock ‘n’ roll. There is nothing like a great dose of pop-punk to kick-start the summer, […] The post Julez And The Rollerz: Dirty Little Rock ‘N’ Roller – Album Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/news/roy-montgomery-and-martha-skye-murphy-unite-for-new-album/",
-    "source": "pitchfork",
-    "title": "Roy Montgomery and Martha Skye Murphy Unite for New Album",
-    "url": "https://pitchfork.com/news/roy-montgomery-and-martha-skye-murphy-unite-for-new-album/",
-    "publishedAt": "2026-06-24T13:55:35.000Z",
-    "summary": "The otherworldly “Cloudburst” leads the guitar composer and singer-songwriter’s Nebular",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/news/phoebe-bridgers-returns-with-new-album-lost-weekend/",
-    "source": "pitchfork",
-    "title": "Phoebe Bridgers Returns With New Album Lost Weekend",
-    "url": "https://pitchfork.com/news/phoebe-bridgers-returns-with-new-album-lost-weekend/",
-    "publishedAt": "2026-06-24T13:27:25.000Z",
-    "summary": "The Punisher follow-up arrives August 14",
     "image": null
   },
   {
