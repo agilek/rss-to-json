@@ -1,38 +1,146 @@
 [
   {
-    "id": "billboard-https://www.billboard.com/video/coco-jones-reveals-shes-releasing-new-music-this-year/",
+    "id": "billboard-https://www.billboard.com/music/awards/kelly-rowland-sylvia-rhone-ultimate-icon-2026-bet-awards-1236283223/",
     "source": "billboard",
-    "title": "Coco Jones Reveals She’s Releasing New Music This Year & More | BET Awards 2026",
-    "url": "https://www.billboard.com/video/coco-jones-reveals-shes-releasing-new-music-this-year/",
-    "publishedAt": "2026-06-28T23:02:42.000Z",
-    "summary": "Coco Jones chatted with Billboard’s Kyle Denis on the red carpet at the BET Awards 2026.",
+    "title": "Kelly Rowland Salutes Sylvia Rhone With Ultimate Icon Award at 2026 BET Awards: ‘Music Needs Us to Stand Up for It Like Never Before’",
+    "url": "https://www.billboard.com/music/awards/kelly-rowland-sylvia-rhone-ultimate-icon-2026-bet-awards-1236283223/",
+    "publishedAt": "2026-06-29T04:13:29.000Z",
+    "summary": "The pioneering industry executive was also feted by Monami Entertainment & BMAC during BET Week.",
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/video/rick-ross-teases-whats-to-come-in-new-album-set-in-stone/",
+    "id": "billboard-https://www.billboard.com/lists/2026-bet-awards-performances-ranked/",
     "source": "billboard",
-    "title": "Rick Ross Teases What’s To Come In New Album, ‘Set In Stone’ | BET Awards 2026",
-    "url": "https://www.billboard.com/video/rick-ross-teases-whats-to-come-in-new-album-set-in-stone/",
-    "publishedAt": "2026-06-28T22:33:22.000Z",
-    "summary": "Rick Ross chatted with Billboard’s Kyle Denis on the red carpet at the BET Awards 2026.",
+    "title": "Best Performances at the 2026 BET Awards, Ranked",
+    "url": "https://www.billboard.com/lists/2026-bet-awards-performances-ranked/",
+    "publishedAt": "2026-06-29T04:04:34.000Z",
+    "summary": "Cardi B, Kehlani, Doechii & more score big with scorching performances on 'Culture's Biggest Night.'",
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/lists/alan-jackson-final-concert-setlist-2026-songs/",
+    "id": "billboard-https://www.billboard.com/lists/2026-bet-awards-winners-list/",
     "source": "billboard",
-    "title": "Alan Jackson’s Final Concert Setlist: Every Song He Played at ‘The Finale’ Show in Nashville",
-    "url": "https://www.billboard.com/lists/alan-jackson-final-concert-setlist-2026-songs/",
-    "publishedAt": "2026-06-28T22:00:50.000Z",
-    "summary": "See the country icon's 24-song set from his final show on June 27, 2026.",
+    "title": "Here Are the Winners of the 2026 BET Awards: Full List",
+    "url": "https://www.billboard.com/lists/2026-bet-awards-winners-list/",
+    "publishedAt": "2026-06-29T04:01:00.000Z",
+    "summary": "Teyana Taylor and Clipse owned 'Culture's Biggest Night.'",
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/lists/top-grossing-music-biopics-movies/",
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/rick-ross-performance-bet-awards-2026-1235582446/",
+    "source": "rolling-stone",
+    "title": "French Montana, Max B, and Rick Ross Perform at BET Awards 2026",
+    "url": "https://www.rollingstone.com/music/music-news/rick-ross-performance-bet-awards-2026-1235582446/",
+    "publishedAt": "2026-06-29T03:15:44.000Z",
+    "summary": "The trio brought New York and Miami vibes to L.A. with their dual performance",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/bet-awards-2026-complete-winners-list-1235581172/",
+    "source": "rolling-stone",
+    "title": "BET Awards 2026: The Complete Winners List",
+    "url": "https://www.rollingstone.com/music/music-news/bet-awards-2026-complete-winners-list-1235581172/",
+    "publishedAt": "2026-06-29T03:10:56.000Z",
+    "summary": "The full rundown of who won what at Sunday night’s awards ceremony",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/cardi-b-performs-2026-bet-awards-1235585722/",
+    "source": "rolling-stone",
+    "title": "Cardi B Brings ‘Am I the Drama?’ to the 2026 BET Awards With Fiery Performance",
+    "url": "https://www.rollingstone.com/music/music-news/cardi-b-performs-2026-bet-awards-1235585722/",
+    "publishedAt": "2026-06-29T03:09:18.000Z",
+    "summary": "The rapper returned to the BET Awards stage with a high-octane set full of songs from her most recent album, including a pointed diss aimed at BIA",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/teyana-taylor-bet-awards-speech-icon-of-the-year-2026-1235582466/",
+    "source": "rolling-stone",
+    "title": "Teyana Taylor Accepts Icon of the Year Honor at BET Awards 2026: ‘I’m Accepting What I’ve Earned with Gratitude’",
+    "url": "https://www.rollingstone.com/music/music-news/teyana-taylor-bet-awards-speech-icon-of-the-year-2026-1235582466/",
+    "publishedAt": "2026-06-29T02:57:43.000Z",
+    "summary": "The multidisciplinary artist delivered an emotional speech after Janet Jackson presented her with the honor",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/teyana-taylor-janet-jackson-icon-2026-bet-awards-1236282968/",
     "source": "billboard",
-    "title": "‘Michael’ Pulls Further Ahead of ‘Bohemian Rhapsody’ as Top-Grossing Music Biopic Worldwide: See the Top 25",
-    "url": "https://www.billboard.com/lists/top-grossing-music-biopics-movies/",
-    "publishedAt": "2026-06-28T21:33:45.000Z",
-    "summary": "Morever, it tops Oppenheimer as the top-grossing biopic, period.",
+    "title": "Janet Jackson Presents Teyana Taylor With Icon of the Year Award at 2026 BET Awards: ‘I Will Wear This Title Loud & Proud’",
+    "url": "https://www.billboard.com/music/rb-hip-hop/teyana-taylor-janet-jackson-icon-2026-bet-awards-1236282968/",
+    "publishedAt": "2026-06-29T02:11:22.000Z",
+    "summary": "The multi-hyphenate took home an additional three awards on Sunday night (June 28).",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/t-i-performance-bet-awards-2026-1235582454/",
+    "source": "rolling-stone",
+    "title": "T.I. Performs ‘Top Back’ and ‘Let ‘Em Know’ at BET Awards 2026",
+    "url": "https://www.rollingstone.com/music/music-news/t-i-performance-bet-awards-2026-1235582454/",
+    "publishedAt": "2026-06-29T01:47:45.000Z",
+    "summary": "The Atlanta native was nominated for three awards at this year's ceremony",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/dababy-on-topping-hot-rap-songs-chart-with-pop-dat-thang/",
+    "source": "billboard",
+    "title": "DaBaby On Topping Hot Rap Songs Chart With “Pop Dat Thang” | BET Awards 2026",
+    "url": "https://www.billboard.com/video/dababy-on-topping-hot-rap-songs-chart-with-pop-dat-thang/",
+    "publishedAt": "2026-06-29T01:25:16.000Z",
+    "summary": "DaBaby chatted with Billboard’s Kyle Denis on the red carpet at the BET Awards 2026.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/swae-lee-surprised-side-eye-is-fan-favorite-same-difference/",
+    "source": "billboard",
+    "title": "Swae Lee Is Surprised “SIDE EYE” Is a Fan Favorite, Dropping ‘Same Difference’ & More | BET Awards 2026",
+    "url": "https://www.billboard.com/video/swae-lee-surprised-side-eye-is-fan-favorite-same-difference/",
+    "publishedAt": "2026-06-29T01:17:52.000Z",
+    "summary": "Swae Lee chatted with Billboard’s Kyle Denis on the red carpet at the BET Awards 2026.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/chloe-says-her-new-mixtape-resurrection-is-in-the-works/",
+    "source": "billboard",
+    "title": "Chlöe Says Her New Mixtape, ‘RESURRECTION,’ Is In the Works & Working With Timbaland | BET Awards 2026",
+    "url": "https://www.billboard.com/video/chloe-says-her-new-mixtape-resurrection-is-in-the-works/",
+    "publishedAt": "2026-06-29T01:09:27.000Z",
+    "summary": "Chlöe chatted with Billboard’s Kyle Denis on the red carpet at the BET Awards 2026.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/t-i-reveals-hes-performing-something-from-his-new-album/",
+    "source": "billboard",
+    "title": "T.I. Reveals He’s Performing Something From His New Album at the BET Awards | BET Awards 2026",
+    "url": "https://www.billboard.com/video/t-i-reveals-hes-performing-something-from-his-new-album/",
+    "publishedAt": "2026-06-29T00:58:53.000Z",
+    "summary": "T.I. chatted with Billboard’s Kyle Denis on the red carpet at the BET Awards 2026.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/ari-lennox-on-how-shes-honoring-dangelo-with-performance/",
+    "source": "billboard",
+    "title": "Ari Lennox On How She’s Honoring D’Angelo With Tonight’s Performance & More | BET Awards 2026",
+    "url": "https://www.billboard.com/video/ari-lennox-on-how-shes-honoring-dangelo-with-performance/",
+    "publishedAt": "2026-06-29T00:48:57.000Z",
+    "summary": "Ari Lennox chatted with Billboard’s Kyle Denis on the red carpet at the BET Awards 2026.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/kehlani-is-saying-farewell-folded-with-tonights-performance/",
+    "source": "billboard",
+    "title": "Kehlani Is Saying Farewell To “Folded” With Tonight’s Performance & More | BET Awards 2026",
+    "url": "https://www.billboard.com/video/kehlani-is-saying-farewell-folded-with-tonights-performance/",
+    "publishedAt": "2026-06-29T00:37:36.000Z",
+    "summary": "Kehlani chatted with Billboard’s Kyle Denis on the red carpet at the BET Awards 2026.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/lorde-uploads-49-demos-from-virgin-for-albums-anniversary/",
+    "source": "pitchfork",
+    "title": "Lorde Uploads 49 Demos From Virgin for Album’s Anniversary",
+    "url": "https://pitchfork.com/news/lorde-uploads-49-demos-from-virgin-for-albums-anniversary/",
+    "publishedAt": "2026-06-29T00:24:55.000Z",
+    "summary": "The XRAYS page also features new photos, notes, and artwork ideas for her 2025 LP",
     "image": null
   },
   {
@@ -42,24 +150,6 @@
     "url": "https://www.rollingstone.com/music/music-news/the-b-52s-show-canceled-tornado-c-trop-fest-france-1235585711/",
     "publishedAt": "2026-06-28T21:07:53.000Z",
     "summary": "“Last night was a total disaster. The promoter knew the dangerous storm that was brewing and on its way to The C Trop Music Festival,” frontman Fred Schneider says",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/country/alan-jackson-finale-concer-celebration-country-music-icon-1236282793/",
-    "source": "billboard",
-    "title": "Alan Jackson’s ‘Finale’ Concert Was a Celebration of a Country Music Icon",
-    "url": "https://www.billboard.com/music/country/alan-jackson-finale-concer-celebration-country-music-icon-1236282793/",
-    "publishedAt": "2026-06-28T19:34:28.000Z",
-    "summary": "During his 'Last Call: One More for the Road – The Finale' show, artists including George Strait, Luke Combs, Eric Church and Carrie Underwood celebrated Jackson's enduring impact.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/olivia-rodrigo-you-seem-pretty-sad-number-one-second-week-1236282794/",
-    "source": "billboard",
-    "title": "Olivia Rodrigo’s ‘You Seem Pretty Sad’ Spends Second Week Atop Billboard 200",
-    "url": "https://www.billboard.com/music/chart-beat/olivia-rodrigo-you-seem-pretty-sad-number-one-second-week-1236282794/",
-    "publishedAt": "2026-06-28T19:00:19.000Z",
-    "summary": "It also holds firm at No. 1 on Top Streaming Albums and Top Album Sales.",
     "image": null
   },
   {
@@ -87,24 +177,6 @@
     "url": "https://louderthanwar.com/grateful-dead-live-at-askeys-pig-farm-1970-album-review/",
     "publishedAt": "2026-06-28T18:04:03.000Z",
     "summary": "The Grateful Dead Live At Askey’s Pig Farm – Lycett, Madeley, Stoke on Trent 1970 Double Vinyl LP on 180gsm Heavy Vinyl Dandelion/Ozit Morpheus Just when you thought there was nothing left to release, along comes a live recording that’s been locked up for 56 years! The Dead live in the UK in May 1970, […] The post Grateful Dead – Live at Askey’s Pig Farm 1970 – Album Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/wimbledon-championships-2026-watch-tennis-live-online-free-1236280851/",
-    "source": "billboard",
-    "title": "How to Watch the Wimbledon Championships 2026 Live Online for Free",
-    "url": "https://www.billboard.com/culture/product-recommendations/wimbledon-championships-2026-watch-tennis-live-online-free-1236280851/",
-    "publishedAt": "2026-06-28T17:45:37.000Z",
-    "summary": "Serena Williams returns to Wimbledon, which starts on Monday (June 29). Here's where to livestream the tennis tournament without cable.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/noah-kahan-poop-concert-reaction-philadelphia-1236282771/",
-    "source": "billboard",
-    "title": "Noah Kahan Reacts to Feces Found at Fan’s Seat in Philadelphia",
-    "url": "https://www.billboard.com/music/music-news/noah-kahan-poop-concert-reaction-philadelphia-1236282771/",
-    "publishedAt": "2026-06-28T17:19:07.000Z",
-    "summary": "It was an unfortunate Friday for someone at the singer-songwriter's Great Divide Tour stop.",
     "image": null
   },
   {
@@ -144,15 +216,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/bet-awards-2026-watch-live-online-free-livestream-1236280806/",
-    "source": "billboard",
-    "title": "BET Awards 2026: Here’s How to Watch the Ceremony Live Online for Free",
-    "url": "https://www.billboard.com/culture/product-recommendations/bet-awards-2026-watch-live-online-free-livestream-1236280806/",
-    "publishedAt": "2026-06-28T14:56:03.000Z",
-    "summary": "Hosted by Druski, the 26th annual BET Awards are on Sunday (June 28) — with performances from Cardi B, Doechii, Nas and others.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-features/clive-davis-pre-grammy-gala-last-great-music-industry-party-1235585594/",
     "source": "rolling-stone",
     "title": "Clive Davis’ Pre-Grammy Gala Was the Last Great Music-Industry Party",
@@ -162,48 +225,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/lists/usher-chris-brown-setlist-raymond-brown-tour-2026-songs/",
-    "source": "billboard",
-    "title": "Usher & Chris Brown’s Raymond & Brown Tour 2026 Setlist: Every Song Played at the First Show",
-    "url": "https://www.billboard.com/lists/usher-chris-brown-setlist-raymond-brown-tour-2026-songs/",
-    "publishedAt": "2026-06-28T14:33:12.000Z",
-    "summary": "Check out the 58-song setlist from night one of the tour in Denver.",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-album-reviews/muse-wow-signal-review-1235583097/",
-    "source": "rolling-stone",
-    "title": "Muse Wow Us Into Submission With Their 10th Album",
-    "url": "https://www.rollingstone.com/music/music-album-reviews/muse-wow-signal-review-1235583097/",
-    "publishedAt": "2026-06-28T14:30:00.000Z",
-    "summary": "The Wow! Signal, the U.K. neo-prog band's latest, is a predictably heavy lift",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/alan-jackson-final-concert-chattahoochee-1235585105/",
-    "source": "rolling-stone",
-    "title": "Watch Alan Jackson’s Final Performance of ‘Chattahoochee’ at Farewell Concert",
-    "url": "https://www.rollingstone.com/music/music-country/alan-jackson-final-concert-chattahoochee-1235585105/",
-    "publishedAt": "2026-06-28T14:19:47.000Z",
-    "summary": "The Country Music Hall of Fame member officially retired from touring with an all-star show in Nashville",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/rush-video-apology-explanation-postponed-texas-show/",
     "source": "loudwire",
     "title": "Rush Issue Video Apology + Explanation for Postponed Texas Show",
     "url": "https://loudwire.com/rush-video-apology-explanation-postponed-texas-show/",
     "publishedAt": "2026-06-28T14:07:07.000Z",
     "summary": "Rush were supposed to begin their residency in Fort Worth on June 24, but they had to reschedule the performance to July 2. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/our-lady-peace-interview-ai-spiritual-machines-1235585007/",
-    "source": "rolling-stone",
-    "title": "Our Lady Peace, 30 Years On, Are Gearing Up to Fight the Machines",
-    "url": "https://www.rollingstone.com/music/music-features/our-lady-peace-interview-ai-spiritual-machines-1235585007/",
-    "publishedAt": "2026-06-28T14:00:00.000Z",
-    "summary": "The Canadian alt-rock band look back on their prescient 2000 LP Spiritual Machines",
     "image": null
   },
   {
@@ -285,24 +312,6 @@
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbnZiY1NjYUFfMWxac0p3U0FjazgzZnRIdlJvQmJPS29VaGpzeXVCSW9fdU5SZHNfRUlxVHlVMl9vcTJfU0NRaVlEbS1Ga2t5dlNLdExZY1lRcGZPZmpRMEtMVVRFdEkybUlpUkNkRndCZmt5WXZGX18xbDBxaHBVY201RzdoS2MxUFlCWDZIdklfbnZZUUI3X1JCQ1hfbTMtYVFyd18wTkZyMURTT2t5a3NKRmhPLWgzV2R2bW50OVlST0E?oc=5",
     "publishedAt": "2026-06-27T19:59:30.000Z",
     "summary": "Vanilla Ice’s show at Donald Trump’s troubled Freedom 250 fair rained off at last minute NME",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/stevie-nicks-perform-at-taylor-swift-wedding-report-1235585438/",
-    "source": "rolling-stone",
-    "title": "Stevie Nicks Will Be at Taylor Swift’s Wedding — And Might Perform",
-    "url": "https://www.rollingstone.com/music/music-news/stevie-nicks-perform-at-taylor-swift-wedding-report-1235585438/",
-    "publishedAt": "2026-06-27T19:39:55.000Z",
-    "summary": "The rock legend is headed to Madison Square Garden for the superstar's big day, according to multiple sources",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/weezer-interview-podcast-gold-album-rivers-cuomo-1235585555/",
-    "source": "rolling-stone",
-    "title": "Weezer on ‘The Gold Album,’ Viral Success of ‘Go Away’",
-    "url": "https://www.rollingstone.com/music/music-features/weezer-interview-podcast-gold-album-rivers-cuomo-1235585555/",
-    "publishedAt": "2026-06-27T19:28:01.000Z",
-    "summary": "Weezer's Rivers Cuomo and Patrick Wilson break down their new album and much more in our new interview",
     "image": null
   },
   {
@@ -573,15 +582,6 @@
     "url": "https://pitchfork.com/news/rick-rubin-helmed-jay-z-docuseries-coming-to-hbo/",
     "publishedAt": "2026-06-25T19:24:22.000Z",
     "summary": "Jaÿ-Z in 8 captures eight episodes of conversation between the rapper and producer",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/news/listen-to-the-rolling-stones-song-with-robert-smith-divine-intervention/",
-    "source": "pitchfork",
-    "title": "Listen to the Rolling Stones’ Song With Robert Smith",
-    "url": "https://pitchfork.com/news/listen-to-the-rolling-stones-song-with-robert-smith-divine-intervention/",
-    "publishedAt": "2026-06-25T19:23:13.000Z",
-    "summary": "“Divine Intervention” is one of two Foreign Tongues tracks featuring the Cure frontman",
     "image": null
   },
   {
