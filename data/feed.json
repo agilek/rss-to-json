@@ -1,38 +1,128 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/pro/suno-ai-training-copyright-lawsuit-production-music-firm/",
+    "source": "billboard",
+    "title": "Suno Faces Another AI Training Copyright Lawsuit From Production Music Firm Jamendo",
+    "url": "https://www.billboard.com/pro/suno-ai-training-copyright-lawsuit-production-music-firm/",
+    "publishedAt": "2026-06-30T20:04:28.000Z",
+    "summary": "The same company sued tech giant Nvidia last week with similar claims about the unlicensed use of its catalog and metadata.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/miley-cyrus-barbie-doll-reaction-where-to-buy-online-1236285058/",
+    "source": "billboard",
+    "title": "Miley Cyrus Reacts to Seeing Her Own Barbie Doll for the First Time: ‘I’m Obsessed’",
+    "url": "https://www.billboard.com/culture/product-recommendations/miley-cyrus-barbie-doll-reaction-where-to-buy-online-1236285058/",
+    "publishedAt": "2026-06-30T19:53:38.000Z",
+    "summary": "Released by Mattel, the Barbie Signature Miley Cyrus Collectible Doll is inspired by the singer's look from her \"Golden Burning Sun\" music video.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/madonna-true-blue-all-songs-ranked/",
+    "source": "billboard",
+    "title": "Madonna’s ‘True Blue’: All 9 Songs Ranked",
+    "url": "https://www.billboard.com/lists/madonna-true-blue-all-songs-ranked/",
+    "publishedAt": "2026-06-30T19:34:33.000Z",
+    "summary": "The album is celebrating its 40th anniversary in 2026.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/j-pop-star-ado-signs-wme-russ-ellie-goulding-mya/",
+    "source": "billboard",
+    "title": "Signed 6/30: J-Pop Star Ado Inks With WME Globally; Russ Has Range",
+    "url": "https://www.billboard.com/lists/j-pop-star-ado-signs-wme-russ-ellie-goulding-mya/",
+    "publishedAt": "2026-06-30T19:26:30.000Z",
+    "summary": "Other recent artist signings include Ellie Goulding, Mya, American Idol winner Hannah Harper, SB19 and Jon Bellion.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/shakira-burna-boy-dai-dai-five-burning-questions-1236285061/",
+    "source": "billboard",
+    "title": "Five Burning Questions About Shakira & Burna Boy’s World Cup Theme ‘Dai Dai’ Topping the Global Excl. U.S. Chart",
+    "url": "https://www.billboard.com/music/chart-beat/shakira-burna-boy-dai-dai-five-burning-questions-1236285061/",
+    "publishedAt": "2026-06-30T19:25:10.000Z",
+    "summary": "The global smash has also reached No. 74 on the Billboard Hot 100.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/nate-bargatze-may-2026-comedy-boxscore-recap/",
+    "source": "billboard",
+    "title": "Nate Bargatze & More on May’s Comedy Boxscore Recap: By the Numbers",
+    "url": "https://www.billboard.com/lists/nate-bargatze-may-2026-comedy-boxscore-recap/",
+    "publishedAt": "2026-06-30T19:05:12.000Z",
+    "summary": "A detailed breakdown of the biggest touring comedians of the month.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/business/business-news/naoshi-fujikura-universal-music-japan-global-power-players-1236285133/",
+    "source": "billboard",
+    "title": "Naoshi Fujikura of Universal Music Japan on Japan’s Unique Superfan Culture & Global Ambitions: Billboard Global Power Players Interview ",
+    "url": "https://www.billboard.com/business/business-news/naoshi-fujikura-universal-music-japan-global-power-players-1236285133/",
+    "publishedAt": "2026-06-30T19:01:57.000Z",
+    "summary": "Fujikura talked to Billboard JAPAN about Japan’s unique superfan culture and the challenges Japan faces in its overseas expansion.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/business/business-news/katsumi-kuroiwa-avex-global-power-players-interview-1236285121/",
+    "source": "billboard",
+    "title": "Katsumi Kuroiwa of Avex on the Bruno Mars Publishing Deal & Taking the Company Worldwide: Billboard Global Power Players Interview ",
+    "url": "https://www.billboard.com/business/business-news/katsumi-kuroiwa-avex-global-power-players-interview-1236285121/",
+    "publishedAt": "2026-06-30T18:56:44.000Z",
+    "summary": "Billboard JAPAN interviewed Kuroiwa about signing Bruno Mars & the prospects of the company’s global music catalog acquisition project.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/billy-strings-so-much-for-goodbyes-album-mother-1235587038/",
+    "source": "rolling-stone",
+    "title": "Billy Strings Sings for His Late Mother on New Album, ‘So Much for Goodbyes’",
+    "url": "https://www.rollingstone.com/music/music-country/billy-strings-so-much-for-goodbyes-album-mother-1235587038/",
+    "publishedAt": "2026-06-30T18:29:05.000Z",
+    "summary": "The singer-guitarist processes the grief of losing his mom last year to a drug overdose",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/jay-z-4-44-bonus-tracks-streaming-services-1236284766/",
+    "source": "billboard",
+    "title": "Jay-Z Brings ‘4:44’ Bonus Tracks to Streaming Services on Album’s 9th Anniversary",
+    "url": "https://www.billboard.com/music/rb-hip-hop/jay-z-4-44-bonus-tracks-streaming-services-1236284766/",
+    "publishedAt": "2026-06-30T18:23:55.000Z",
+    "summary": "The songs featuring his daughter Blue Ivy and James Blake were previously exclusive to Tidal.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-lists/taylor-swift-travis-kelce-wedding-first-dance-song-1235586144/",
+    "source": "rolling-stone",
+    "title": "What Will Be Taylor Swift and Travis Kelce’s First Dance Song?",
+    "url": "https://www.rollingstone.com/music/music-lists/taylor-swift-travis-kelce-wedding-first-dance-song-1235586144/",
+    "publishedAt": "2026-06-30T18:17:11.000Z",
+    "summary": "From “Landslide” to “Thinking Out Loud,” here are the top contenders",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/billboard-hot-latin-songs-top-10-countdown-for-july-4-2026/",
+    "source": "billboard",
+    "title": "Billboard Hot Latin Songs Top 10 Countdown for July 4, 2026 | Billboard Latin",
+    "url": "https://www.billboard.com/video/billboard-hot-latin-songs-top-10-countdown-for-july-4-2026/",
+    "publishedAt": "2026-06-30T18:15:04.000Z",
+    "summary": "Lenin Ramirez’s “Todo Lo Fue” reenters the top 10 of Hot Latin Songs, but can he take No. 1 from Bad Bunny? Narrator: Here’s the Billboard Hot Latin Songs top 10 for the week dated July 4! Lenin Ramírez is back at No. 10. “De Lejitos” stays at nine. “Koko” climbs to eight. Peso Pluma […]",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/hair-metal-songs-didnt-know-covers/",
+    "source": "loudwire",
+    "title": "5 Hair Metal Songs You Probably Didn’t Know Are Actually Covers",
+    "url": "https://loudwire.com/hair-metal-songs-didnt-know-covers/",
+    "publishedAt": "2026-06-30T18:11:37.000Z",
+    "summary": "You probably sang these songs at the top of your lungs without realizing some of them were already a decade old! Continue reading…",
+    "image": null
+  },
+  {
     "id": "louder-than-war-https://louderthanwar.com/bathing-suits-where-else-margate-live-review/",
     "source": "louder-than-war",
     "title": "Bathing Suits: Where Else? Margate – Live Review",
     "url": "https://louderthanwar.com/bathing-suits-where-else-margate-live-review/",
     "publishedAt": "2026-06-30T17:57:03.000Z",
     "summary": "Bathing Suits| Debdepan Where Else?, Margate, Kent 26th June 2026 “Teen Pop Sensations” Bathing Suits brought their exhilarating live act to Where Else? on a hot and heady Friday night by the Kent Coast. The Leeds four-piece, hailed by many as “one of the most exciting breakthrough acts”, took a trip to Margate as part […] The post Bathing Suits: Where Else? Margate – Live Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/virgin-music-new-leadership-team-downtown-integration/",
-    "source": "billboard",
-    "title": "Virgin Music Announces New Leadership Team Amid Downtown Integration",
-    "url": "https://www.billboard.com/pro/virgin-music-new-leadership-team-downtown-integration/",
-    "publishedAt": "2026-06-30T17:55:03.000Z",
-    "summary": "The executive shakeup follows Virgin's official acquisition of Downtown in February.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/katseye-manon-hiatus-reason-not-about-race-1236284840/",
-    "source": "billboard",
-    "title": "KATSEYE Says Reason for Manon’s Hiatus Wasn’t About Race: ‘That Goes Against Everything That We Stand For’",
-    "url": "https://www.billboard.com/music/music-news/katseye-manon-hiatus-reason-not-about-race-1236284840/",
-    "publishedAt": "2026-06-30T17:54:22.000Z",
-    "summary": "Some fans had speculated that Manon faced mistreatment with respect to her being the only Black member of the group.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rock/muse-matt-bellamy-trying-to-build-spaceship-european-tour-1236284814/",
-    "source": "billboard",
-    "title": "Wow! Muse Singer Matt Bellamy Says Band Is ‘Trying to Build a Spaceship’ For Their Upcoming U.K./European Tour",
-    "url": "https://www.billboard.com/music/rock/muse-matt-bellamy-trying-to-build-spaceship-european-tour-1236284814/",
-    "publishedAt": "2026-06-30T17:26:07.000Z",
-    "summary": "The winter tour will also feature \"new stuff with lasers\" that's never been done before.",
     "image": null
   },
   {
@@ -45,42 +135,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/dua-lipa-callum-turner-honeymoon-photos-1236284806/",
-    "source": "billboard",
-    "title": "Dua Lipa Soaks Up Newlywed Life With Callum Turner in Intimate Honeymoon Photos: ‘Heaven on Earth’",
-    "url": "https://www.billboard.com/music/music-news/dua-lipa-callum-turner-honeymoon-photos-1236284806/",
-    "publishedAt": "2026-06-30T17:06:02.000Z",
-    "summary": "The pair tied the knot and celebrated with a second wedding earlier in June.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/business/touring/billboard-live-music-summit-awards-2026-date-1236284178/",
-    "source": "billboard",
-    "title": "Billboard Live Music Summit & Awards 2026 Date Announced",
-    "url": "https://www.billboard.com/business/touring/billboard-live-music-summit-awards-2026-date-1236284178/",
-    "publishedAt": "2026-06-30T17:01:19.000Z",
-    "summary": "Save the date: The Billboard Live Music Summit returns Nov. 10.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/splash-house-2026-lineups-chainsmokers-tiga-alison-wonderland-1236284675/",
-    "source": "billboard",
-    "title": "Splash House Announces 2026 Lineups With Alison Wonderland, Tiga, Prospa, The Chainsmokers & More",
-    "url": "https://www.billboard.com/music/music-news/splash-house-2026-lineups-chainsmokers-tiga-alison-wonderland-1236284675/",
-    "publishedAt": "2026-06-30T16:43:52.000Z",
-    "summary": "The poolside party returns to Palm Springs this Aug. 7-9 and Aug. 14-16",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/melissa-etheridge-rise-summit-psychedelic-treatment-addiction-1236284775/",
-    "source": "billboard",
-    "title": "Melissa Etheridge Hosting Inaugural R.I.S.E. Summit on Psychedelic Treatment for Addiction",
-    "url": "https://www.billboard.com/music/music-news/melissa-etheridge-rise-summit-psychedelic-treatment-addiction-1236284775/",
-    "publishedAt": "2026-06-30T16:38:21.000Z",
-    "summary": "The Nov. 12 event in Irvine, Calif. will feature a headline fireside chat between the singer and addiction expert Dr. Gabor Maté.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-latin-lists/rosalias-lux-tour-confessionals-celebrity-appearances-1235571575/",
     "source": "rolling-stone",
     "title": "The Most Revealing Celebrity Confessionals from Rosalía’s ‘Lux’ Tour",
@@ -90,30 +144,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/calvin-harris-jazzy-satisfy-number-1-dance-airplay-chart-1236284790/",
-    "source": "billboard",
-    "title": "Calvin Harris & Jazzy Jump to No. 1 on Dance Airplay Chart With ‘Satisfy’",
-    "url": "https://www.billboard.com/music/chart-beat/calvin-harris-jazzy-satisfy-number-1-dance-airplay-chart-1236284790/",
-    "publishedAt": "2026-06-30T16:34:36.000Z",
-    "summary": "Harris has his 19th leader, the second-most all-time.",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/news/yhwh-nailguns-magazine-is-technically-a-visual-album-now/",
     "source": "pitchfork",
     "title": "YHWH Nailgun’s Magazine Is Technically a Visual Album Now",
     "url": "https://pitchfork.com/news/yhwh-nailguns-magazine-is-technically-a-visual-album-now/",
     "publishedAt": "2026-06-30T16:15:45.000Z",
     "summary": "The New York experimental rockers have shared a music video set to their new 11-minute LP",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/ice-nine-kills-twisting-the-knife-number-1-mainstream-rock-1236284777/",
-    "source": "billboard",
-    "title": "Ice Nine Kills & Mckenna Grace Top Mainstream Rock Airplay With ‘Twisting the Knife’",
-    "url": "https://www.billboard.com/music/chart-beat/ice-nine-kills-twisting-the-knife-number-1-mainstream-rock-1236284777/",
-    "publishedAt": "2026-06-30T16:13:31.000Z",
-    "summary": "Both acts score their first No. 1 at the format.",
     "image": null
   },
   {
@@ -135,21 +171,21 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/pro/2026-acm-awards-studio-recording-industry-awards-winners/",
-    "source": "billboard",
-    "title": "Studio Recording & Industry Awards Winners for 2026 ACM Awards Announced: Full List ",
-    "url": "https://www.billboard.com/pro/2026-acm-awards-studio-recording-industry-awards-winners/",
-    "publishedAt": "2026-06-30T16:00:00.000Z",
-    "summary": "The winners will be celebrated at the 19th ACM Honors in Nashville on Aug. 19.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-features/bob-dylan-new-guitar-player-1235586666/",
     "source": "rolling-stone",
     "title": "Bob Dylan Hired a New Guitar Player, but Big Questions Linger",
     "url": "https://www.rollingstone.com/music/music-features/bob-dylan-new-guitar-player-1235586666/",
     "publishedAt": "2026-06-30T15:11:17.000Z",
     "summary": "Up until this week, Dylan’s new guitarist, Joel Paterson, had a weekly Monday-night gig at the 150-seat Green Mill Cocktail Lounge in Chicago",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMisAFBVV95cUxPRjl3UHFUWmduZXBia3FEZHAySHA4U01LOEdPSGRrcEJrc0FINEVhZzgtS2JnVGI2Zl9vS0lDNkRTZEFJdG1tODRwaHMyUnFJMmxVNTBpVExHcUNWUDc1SUJ0N0Y4UVQ3eVRmNEwxYW1yM3ZzTDhJOU1Xa0VTQ2xjalpwSTFqdng4UU9OZ1lBV3AxWVhwRHpSbTFvNmxNc0l6TUNIWk9MN3RKeXFDWnN3dg?oc=5",
+    "source": "nme",
+    "title": "Muse are \"trying to build a spaceship\" for 2026 UK and European arena tour - NME",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRjl3UHFUWmduZXBia3FEZHAySHA4U01LOEdPSGRrcEJrc0FINEVhZzgtS2JnVGI2Zl9vS0lDNkRTZEFJdG1tODRwaHMyUnFJMmxVNTBpVExHcUNWUDc1SUJ0N0Y4UVQ3eVRmNEwxYW1yM3ZzTDhJOU1Xa0VTQ2xjalpwSTFqdng4UU9OZ1lBV3AxWVhwRHpSbTFvNmxNc0l6TUNIWk9MN3RKeXFDWnN3dg?oc=5",
+    "publishedAt": "2026-06-30T14:51:57.000Z",
+    "summary": "Muse are \"trying to build a spaceship\" for 2026 UK and European arena tour NME",
     "image": null
   },
   {
@@ -231,15 +267,6 @@
     "url": "https://pitchfork.com/news/billy-strings-announces-new-album-so-much-for-goodbyes/",
     "publishedAt": "2026-06-30T13:17:21.000Z",
     "summary": "The bluegrass star's fifth project was produced by T Bone Burnett",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/sara-bareilles-new-album-good-grief-interview-1235576738/",
-    "source": "rolling-stone",
-    "title": "Sara Bareilles: ‘I’m Terrified, but I’m Not Hiding’",
-    "url": "https://www.rollingstone.com/music/music-features/sara-bareilles-new-album-good-grief-interview-1235576738/",
-    "publishedAt": "2026-06-30T13:00:00.000Z",
-    "summary": "Ahead of her first new album in seven years, the singer-songwriter gives a revealing (and often hilarious) interview on grief, mental health, and avoiding the “big, bad pop monster”",
     "image": null
   },
   {
@@ -330,15 +357,6 @@
     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxObUdKOW1VS1lueGE3c21nSDBQd3U4emRNVEI3RU9malBWdmVNazVONjRuMVhjeFh1Vkp0UWt2X3JINkpwdldsb1ptSHMzbXB6UHJCaFUzZGNXT3ZaQk9iUlAxTVpRajV1OTUwa29rdm1Fck5rXzV3TzNqYUNIak94RzB3WHJycGtEbzloWERpRHFjYWNCdHBUQ0d3SEN0bHJrcVJEZTdfMS1rUWdBMGRPMXVXNDdhLWYzSzBBVW1IVWNMYl9YR1owVDlmSUp1TVpOVlZSZndXQ3NaYmpxSmFTYktTRjZsUUJpWHd5RWJmVURidzczbnFtVkNXdjI?oc=5",
     "publishedAt": "2026-06-30T06:36:23.000Z",
     "summary": "Queens Of The Stone Age bring back 'Era Vulgaris' deep cuts as they kick European tour with System Of A Down – here's what they played NME",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/ariana-grande-reschedules-eternal-sunshine-tour-dates-1235586459/",
-    "source": "rolling-stone",
-    "title": "Ariana Grande Reschedules Three ‘Eternal Sunshine’ Tour Dates: ‘Safety, First and Foremost’",
-    "url": "https://www.rollingstone.com/music/music-news/ariana-grande-reschedules-eternal-sunshine-tour-dates-1235586459/",
-    "publishedAt": "2026-06-30T05:31:25.000Z",
-    "summary": "The singer apologized for moving the upcoming concerts due to production issues",
     "image": null
   },
   {
@@ -441,30 +459,12 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/end-it-banana-man-peace-netherlands/",
-    "source": "loudwire",
-    "title": "End It Appear to End 'Banana Man' Controversy With Onstage Move",
-    "url": "https://loudwire.com/end-it-banana-man-peace-netherlands/",
-    "publishedAt": "2026-06-29T16:26:53.000Z",
-    "summary": "End It returned to the concert stage, inviting a banana-clad fan onstage to bury the hatchet. Continue reading…",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/reviews/live/wilco-billy-bragg-and-natalie-merchant-perform-mermaid-avenue-live-for-the-first-time-155221/",
     "source": "uncut",
     "title": "28 years on, Wilco, Billy Bragg and Natalie Merchant play Mermaid Avenue live for the first time",
     "url": "https://www.uncut.co.uk/reviews/live/wilco-billy-bragg-and-natalie-merchant-perform-mermaid-avenue-live-for-the-first-time-155221/",
     "publishedAt": "2026-06-29T15:39:18.000Z",
     "summary": "Their Woody Guthrie tribute is the highlight of the first night of Wilco’s Solid Sound Festival, also featuring Gang Of Four, Scott McCaughey, The Mini-Mekons and Billy Bragg solo",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdnd3RURVeko2SFJobDE0T29xLUVjRjkwNVBRNlhPQ1hTY0M0OVI1NkNOYWF5Tllvek0yRmRjeFZ1eEVPZ01lTEdNRU5CZ052UGFCZ1dHQTJCakFGUGNfZXlBQmVaNVRmRlRicGlSWFA1ak41ajNVdzlCS2NNWU15SUVoOHlqWThIVlNZVFM0aEpCYUhRbW1aMzR1Y2NUcTJaQ3V3SUl3X1B6aDRqNGRsNDVid2VCaXYtNi1zRmRjckp0STRGWjFta29aanppbnFycnBRQkZta0dqcWFVcXpJ?oc=5",
-    "source": "nme",
-    "title": "String of European music festivals and gigs left devastated by extreme weather: “The unthinkable has happened\" - NME",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdnd3RURVeko2SFJobDE0T29xLUVjRjkwNVBRNlhPQ1hTY0M0OVI1NkNOYWF5Tllvek0yRmRjeFZ1eEVPZ01lTEdNRU5CZ052UGFCZ1dHQTJCakFGUGNfZXlBQmVaNVRmRlRicGlSWFA1ak41ajNVdzlCS2NNWU15SUVoOHlqWThIVlNZVFM0aEpCYUhRbW1aMzR1Y2NUcTJaQ3V3SUl3X1B6aDRqNGRsNDVid2VCaXYtNi1zRmRjckp0STRGWjFta29aanppbnFycnBRQkZta0dqcWFVcXpJ?oc=5",
-    "publishedAt": "2026-06-29T15:37:12.000Z",
-    "summary": "String of European music festivals and gigs left devastated by extreme weather: “The unthinkable has happened\" NME",
     "image": null
   },
   {
