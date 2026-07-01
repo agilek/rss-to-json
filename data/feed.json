@@ -1,5 +1,86 @@
 [
   {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/chris-brown-dog-attack-housekeeper-verdict-13-million-1235585198/",
+    "source": "rolling-stone",
+    "title": "Chris Brown Must Pay Housekeeper $13 Million Over Dog-Mauling Attack",
+    "url": "https://www.rollingstone.com/music/music-news/chris-brown-dog-attack-housekeeper-verdict-13-million-1235585198/",
+    "publishedAt": "2026-07-01T01:53:43.000Z",
+    "summary": "The woman was attacked by a security dog at the singer's Los Angeles mansion in 2020",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/media/podcasts/lauryn-hill-2026-bet-awards-tribute-pop-shop-podcast-1236285332/",
+    "source": "billboard",
+    "title": "Lauryn Hill’s Joyful, Joyful Celebration & More Lessons From the 2026 BET Awards",
+    "url": "https://www.billboard.com/media/podcasts/lauryn-hill-2026-bet-awards-tribute-pop-shop-podcast-1236285332/",
+    "publishedAt": "2026-07-01T00:54:43.000Z",
+    "summary": "On the new Billboard Pop Shop Podcast, Katie & Keith are talking about what other awards shows could learn from Sunday's show.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/mexico-ecuador-world-cup-game-livestream-soccer-free-online-1236285566/",
+    "source": "billboard",
+    "title": "Mexico vs. Ecuador World Cup Livestream: Watch the Knockout Round Soccer Match Online Free",
+    "url": "https://www.billboard.com/culture/product-recommendations/mexico-ecuador-world-cup-game-livestream-soccer-free-online-1236285566/",
+    "publishedAt": "2026-07-01T00:29:47.000Z",
+    "summary": "There are ways to find a live feed of the Mexico vs. Ecuador game online, including ways to livestream the Round of 32 matchup for free.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/chris-brown-dog-attack-verdict-housekeeper-wins-13-million/",
+    "source": "billboard",
+    "title": "Chris Brown Hit With $13 Million Verdict in Housekeeper Dog Attack Trial",
+    "url": "https://www.billboard.com/pro/chris-brown-dog-attack-verdict-housekeeper-wins-13-million/",
+    "publishedAt": "2026-07-01T00:18:35.000Z",
+    "summary": "Maria Avila was mauled by a 200-pound dog while working at the star's California home in 2020.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/lupe-fiasco-kendrick-lamar-hundreds-better-rappers-1236285284/",
+    "source": "billboard",
+    "title": "Lupe Fiasco Claims There Are ‘Hundreds’ of Rappers Better Than Kendrick Lamar: ‘I’ll Name ‘Em’",
+    "url": "https://www.billboard.com/music/rb-hip-hop/lupe-fiasco-kendrick-lamar-hundreds-better-rappers-1236285284/",
+    "publishedAt": "2026-07-01T00:16:24.000Z",
+    "summary": "The Chicago MC thinks there are rappers who are better lyricists than their mainstream counterparts.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/indie-venue-of-the-month-june-2026-cains-ballroom-tulsa/",
+    "source": "billboard",
+    "title": "From ‘Dime-a-Dance’ to Hosting U2 & Bob Dylan: How Cain’s Ballroom in Tulsa Has Endured for Over a Century",
+    "url": "https://www.billboard.com/pro/indie-venue-of-the-month-june-2026-cains-ballroom-tulsa/",
+    "publishedAt": "2026-07-01T00:09:31.000Z",
+    "summary": "Starting as a dance academy, the venue went through various owners before getting new life under the stewardship of a local family.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/madonna-preview-confessions-album-livestream-1236285561/",
+    "source": "billboard",
+    "title": "Madonna Gifting Fans an Early Listen of ‘Confessions II’ Album Through Thursday Livestream: All the Details",
+    "url": "https://www.billboard.com/music/pop/madonna-preview-confessions-album-livestream-1236285561/",
+    "publishedAt": "2026-07-01T00:01:50.000Z",
+    "summary": "Madonna will sit down with Bob the Drag Queen, Stuart Price & her daughter Lola Leon on the \"iHeartRadio and TikTok Live Premiere.\"",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/jermaine-jackson-voids-assault-judgment-fight-lawsuit/",
+    "source": "billboard",
+    "title": "Jermaine Jackson Voids $6.5 Million Rape Judgment, Will Now Fight Lawsuit in Court",
+    "url": "https://www.billboard.com/pro/jermaine-jackson-voids-assault-judgment-fight-lawsuit/",
+    "publishedAt": "2026-06-30T23:28:23.000Z",
+    "summary": "A judge says the Jackson 5 member was not properly served before being hit with a default judgment.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/rush-concerts-postponed-2026/",
+    "source": "loudwire",
+    "title": "Rush Announces Last-Minute Concert Postponement, Statement Issued",
+    "url": "https://loudwire.com/rush-concerts-postponed-2026/",
+    "publishedAt": "2026-06-30T23:01:26.000Z",
+    "summary": "It's the reunion tour's second setback in recent days. Continue reading…",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/chart-beat/tems-what-you-need-number-1-rb-hip-hop-airplay-radio-chart-1236285467/",
     "source": "billboard",
     "title": "Tems Scores Fourth No. 1 on Mainstream R&B/Hip-Hop Airplay Chart With ‘What You Need’",
@@ -24,69 +105,6 @@
     "url": "https://www.billboard.com/music/rb-hip-hop/bone-thugs-n-harmony-hollywood-walk-of-fame-star-1236285297/",
     "publishedAt": "2026-06-30T22:20:26.000Z",
     "summary": "The ceremony is set for July 8.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/seventeen-v8-interview-track-by-track/",
-    "source": "billboard",
-    "title": "SEVENTEEN’s VERNON & THE 8 Break Down Each Track From ‘V8’",
-    "url": "https://www.billboard.com/lists/seventeen-v8-interview-track-by-track/",
-    "publishedAt": "2026-06-30T21:54:41.000Z",
-    "summary": "The K-pop duo shares challenges, inspirations and behind-the-scenes stories from the charged-up unit album.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/ricardo-montaner-music-ownership-lawsuit-umg/",
-    "source": "billboard",
-    "title": "Ricardo Montaner Sues UMG Over Music Catalog Rights: ‘Wrongful Claims of Ownership’",
-    "url": "https://www.billboard.com/pro/ricardo-montaner-music-ownership-lawsuit-umg/",
-    "publishedAt": "2026-06-30T21:52:25.000Z",
-    "summary": "The Latin star alleges the music giant refuses to honor his termination rights and is now interfering with a new indie distribution deal.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-    "source": "billboard",
-    "title": "Billboard’s Music Industry Events Calendar",
-    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-    "publishedAt": "2026-06-30T21:12:00.000Z",
-    "summary": "A complete rundown of the most important events across the music business.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/latin/up-and-coming-artist-latin-artist-of-month-rainao-june-1236281230/",
-    "source": "billboard",
-    "title": "RaiNao Talks Queer Representation in Her Music: ‘It’s Not Something I’m Going to Stay Quiet About’",
-    "url": "https://www.billboard.com/music/latin/up-and-coming-artist-latin-artist-of-month-rainao-june-1236281230/",
-    "publishedAt": "2026-06-30T21:04:09.000Z",
-    "summary": "Meet Billboard's Latin Up-And-Comer Artist of the Month for June.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/tv-film/selena-gomez-timothee-chalamet-not-alone-teaser-watch-1236285220/",
-    "source": "billboard",
-    "title": "Selena Gomez & Timothee Chalamet Fall in Love While Uncovering a Space Oddity in ‘Not Alone’ Teaser",
-    "url": "https://www.billboard.com/culture/tv-film/selena-gomez-timothee-chalamet-not-alone-teaser-watch-1236285220/",
-    "publishedAt": "2026-06-30T20:38:29.000Z",
-    "summary": "The clip features an epic song synch from David Bowie.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/music-from-wes-anderson-films-tickets-buy-shop-online-1236283489/",
-    "source": "billboard",
-    "title": "Music From the Films of Wes Anderson: How to Buy Tickets to the Live Concert Series Online",
-    "url": "https://www.billboard.com/culture/product-recommendations/music-from-wes-anderson-films-tickets-buy-shop-online-1236283489/",
-    "publishedAt": "2026-06-30T20:35:09.000Z",
-    "summary": "Live from the Hollywood Bowl, the L.A. Philharmonic performs starting July 10 with special guests Beck, Karen O, Jenny Lewis and others.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/pop/katy-perry-143-album-review-second-opinion-best-songs-1236275757/",
-    "source": "billboard",
-    "title": "Could Katy Perry’s ‘143’ Album End Up Belatedly Becoming the Secret Pop Gem of Summer 2026?",
-    "url": "https://www.billboard.com/music/pop/katy-perry-143-album-review-second-opinion-best-songs-1236275757/",
-    "publishedAt": "2026-06-30T20:19:17.000Z",
-    "summary": "Two years after 143 was first released, it may be time to give the dance pop album a second spin -- and a second opinion.",
     "image": null
   },
   {
@@ -249,15 +267,6 @@
     "url": "https://www.rollingstone.com/music/music-features/beach-boys-tours-pet-sounds-deep-cuts-1235586083/",
     "publishedAt": "2026-06-30T13:45:30.000Z",
     "summary": "Even the 60th anniversary of their landmark record couldn’t force the two former bandmates back together onstage, but they’re still honoring Pet Sounds in their own unique ways",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/sara-bareilles-shell-1235586296/",
-    "source": "rolling-stone",
-    "title": "Sara Bareilles: The Rolling Stone Interview",
-    "url": "https://www.rollingstone.com/music/music-news/sara-bareilles-shell-1235586296/",
-    "publishedAt": "2026-06-30T13:34:35.000Z",
-    "summary": "Ahead of her first new album in seven years, the singer-songwriter gives a revealing (and often hilarious) interview on grief, mental health, and avoiding the “big, bad pop monster”",
     "image": null
   },
   {
@@ -456,15 +465,6 @@
     "url": "https://pitchfork.com/news/this-is-lorelei-debasement-and-more-this-weeks-pitchfork-selects-playlist/",
     "publishedAt": "2026-06-29T16:52:31.000Z",
     "summary": "Our weekly playlist highlights songs that our writers, editors, and contributors are listening to on repeat",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/bad-wolves-new-singer-sara-killboy-skinner-song-paint-it-red/",
-    "source": "loudwire",
-    "title": "Bad Wolves Waited Until a 'Strawberry Moon' to Unveil New Singer",
-    "url": "https://loudwire.com/bad-wolves-new-singer-sara-killboy-skinner-song-paint-it-red/",
-    "publishedAt": "2026-06-29T16:41:32.000Z",
-    "summary": "Bad Wolves waited until this month's strawberry moon to unveil the identity of their new singer Sara 'Killboy' Skinner and drop a new song 'Paint It Red.' Continue reading…",
     "image": null
   },
   {
