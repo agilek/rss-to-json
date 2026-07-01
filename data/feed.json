@@ -1,47 +1,110 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/lists/madonna-confessions-on-a-dancefloor-songs-ranked/",
+    "source": "billboard",
+    "title": "Madonna’s ‘Confessions on a Dance Floor’: All 12 Songs Ranked",
+    "url": "https://www.billboard.com/lists/madonna-confessions-on-a-dancefloor-songs-ranked/",
+    "publishedAt": "2026-07-01T21:27:43.000Z",
+    "summary": "Ahead of this week's release of Confessions II, we run down Madonna's 2005 dance odyssey.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/alan-jackson-farewell-concert-streams-trending-up-1236286063/",
+    "source": "billboard",
+    "title": "How Much Did Alan Jackson’s Farewell Show Increase Streams for His Catalog?",
+    "url": "https://www.billboard.com/music/chart-beat/alan-jackson-farewell-concert-streams-trending-up-1236286063/",
+    "publishedAt": "2026-07-01T21:18:36.000Z",
+    "summary": "This week's Trending Up looks at the catalog for the country legend following his 'Last Call' concert last Saturday, as well as recent viral hits for Miguel, BabyChiefDoIt and Pupsies.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/joe-bonamassa-spirit-rory-live-number-one-blues-albums-1236286120/",
+    "source": "billboard",
+    "title": "Joe Bonamassa Extends Blues Albums Record, Ruling With ‘Rory’ Concert Set: ‘Live Drives the Sense of Urgency & Creativity’",
+    "url": "https://www.billboard.com/music/chart-beat/joe-bonamassa-spirit-rory-live-number-one-blues-albums-1236286120/",
+    "publishedAt": "2026-07-01T21:04:29.000Z",
+    "summary": "The Spirit of Rory: Live From Cork becomes his 31st leader.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/tv-film/dwayne-johnson-catherine-lagaaia-moana-disney-lyrics-game-1236286083/",
+    "source": "billboard",
+    "title": "Watch Dwayne Johnson & Catherine Laga‘aia Talk ‘O.G. Moana & New G Moana’ Uniting for Live-Action Remake Song, Play Disney ‘Finish the Lyrics’",
+    "url": "https://www.billboard.com/culture/tv-film/dwayne-johnson-catherine-lagaaia-moana-disney-lyrics-game-1236286083/",
+    "publishedAt": "2026-07-01T21:03:35.000Z",
+    "summary": "\"Getting to grow up with Moana and having that representation is so important to young girls,\" Laga'aia tells Billboard of her history with the character.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/dwayne-johnson-catherine-lagaaia-disney-lyrics-game-moana/",
+    "source": "billboard",
+    "title": "Dwayne Johnson & Catherine Laga’aia Play Disney ‘Finish the Lyrics’ Game, Talk Live-Action ‘Moana’ | Billboard News",
+    "url": "https://www.billboard.com/video/dwayne-johnson-catherine-lagaaia-disney-lyrics-game-moana/",
+    "publishedAt": "2026-07-01T20:59:20.000Z",
+    "summary": "Dwayne Johnson & Catherine Laga’aia, from the live action ‘Moana’ movie, play a game of Finish the Lyrics with Disney songs and answer a few questions about their roles in the film and its new music. Katie Atkinson: The snow blows white on the mountain tonight. Catherine Laga’aia: Surely, you got that one. You got […]",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/fka-twigs-on-your-mind-video-lil-yachty-1235587687/",
+    "source": "rolling-stone",
+    "title": "FKA Twigs Hosts a Rooftop Dance Battle With Lil Yachty in ‘On Your Mind’ Video",
+    "url": "https://www.rollingstone.com/music/music-news/fka-twigs-on-your-mind-video-lil-yachty-1235587687/",
+    "publishedAt": "2026-07-01T20:55:02.000Z",
+    "summary": "Twigs wrote the track after a rehearsal for a 2025 tour and Coachella performance were delayed over visa complications",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/elevation-rhythm-first-hot-christian-songs-no-1-washed-1236286060/",
+    "source": "billboard",
+    "title": "Elevation Rhythm Earns First Hot Christian Songs No. 1 With ‘Washed’",
+    "url": "https://www.billboard.com/music/chart-beat/elevation-rhythm-first-hot-christian-songs-no-1-washed-1236286060/",
+    "publishedAt": "2026-07-01T20:29:34.000Z",
+    "summary": "The act’s creative director and producer Josh Holiday says the song is meant to speak to the “weight people carry.”",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/fender-audio-mix-headphones-buy-shop-online-1236283595/",
+    "source": "billboard",
+    "title": "Fender Mix Headphones Are a Real Game Changer: Here’s Where to Shop the Pair Online",
+    "url": "https://www.billboard.com/culture/product-recommendations/fender-audio-mix-headphones-buy-shop-online-1236283595/",
+    "publishedAt": "2026-07-01T20:28:18.000Z",
+    "summary": "Fender Audio's first premium wireless noise-canceling headphones are available now — and they're really impressive.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/tyla-is-it-love-number-1-us-afrobeats-songs-chart-a-pop-1236285498/",
+    "source": "billboard",
+    "title": "Tyla Now Has Twice as Many U.S. Afrobeats Songs No. 1s as Any Other Artist on the Chart, Thanks to ‘Is It Love’",
+    "url": "https://www.billboard.com/music/chart-beat/tyla-is-it-love-number-1-us-afrobeats-songs-chart-a-pop-1236285498/",
+    "publishedAt": "2026-07-01T20:27:09.000Z",
+    "summary": "With a fourth champ, Tyla extends her mark as the artist with the most No. 1s on the chart launched in April 2022.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/top-usa-america-songs-hot-100/",
+    "source": "billboard",
+    "title": "The Top 25 ‘America’ & ‘USA’ Songs on the Billboard Hot 100",
+    "url": "https://www.billboard.com/lists/top-usa-america-songs-hot-100/",
+    "publishedAt": "2026-07-01T20:26:50.000Z",
+    "summary": "Happy birthday, 'Murica!",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/kpop-demon-hunters-casetify-phone-cases-charms-buy-online-1236285225/",
+    "source": "billboard",
+    "title": "CASETiFY Drops ‘KPop Demon Hunters’ Collab With ‘Tiger’ Tail Bag Charms & Concert-Inspired Phone Cases",
+    "url": "https://www.billboard.com/culture/product-recommendations/kpop-demon-hunters-casetify-phone-cases-charms-buy-online-1236285225/",
+    "publishedAt": "2026-07-01T20:19:11.000Z",
+    "summary": "The limited-edition collection \"brings the KPop Demon Hunters universe to life in a playful and functional way.\"",
+    "image": null
+  },
+  {
     "id": "loudwire-https://loudwire.com/yungblud-breakdown-bludfest-czechia/",
     "source": "loudwire",
     "title": "Yungblud's Vulnerable Message After Teary Breakdown at Festival",
     "url": "https://loudwire.com/yungblud-breakdown-bludfest-czechia/",
     "publishedAt": "2026-07-01T19:29:25.000Z",
     "summary": "Yungblud's journey came to a head with an emotional, cathartic breakdown during his Bludfest performance in Czechia. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/features/kelissa-the-good-side-of-things-interview-chronixx-reggae-1236285897/",
-    "source": "billboard",
-    "title": "Kelissa Uncovers ‘The Good Side of Things’ on First Studio Album in Almost a Decade: ‘I Created the Music I Wanted and Needed’",
-    "url": "https://www.billboard.com/music/features/kelissa-the-good-side-of-things-interview-chronixx-reggae-1236285897/",
-    "publishedAt": "2026-07-01T19:20:43.000Z",
-    "summary": "The reggae star makes her long-awaited return.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/video/clave-especial-ea-ea-ea-live/",
-    "source": "billboard",
-    "title": "Clave Especial Performs ‘Ea Ea Ea’ | Billboard Live",
-    "url": "https://www.billboard.com/video/clave-especial-ea-ea-ea-live/",
-    "publishedAt": "2026-07-01T19:20:00.000Z",
-    "summary": "This is partner content. Música mexicana breakout stars Clave Especial deliver an intimate performance of “Ea Ea Ea” from their latest EP, AFTERAFTER, presented by Cerveza Victoria. Clave Especial: [Sings “Ea Ea Ea”]",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/motionless-in-white-skylar-grey-rip-hot-hard-rock-songs/",
-    "source": "billboard",
-    "title": "Motionless in White & Skylar Grey’s ‘R.I.P.’ Hits No. 1 on Hot Hard Rock Songs Chart",
-    "url": "https://www.billboard.com/pro/motionless-in-white-skylar-grey-rip-hot-hard-rock-songs/",
-    "publishedAt": "2026-07-01T19:16:44.000Z",
-    "summary": "The band is the only act with multiple leaders on the list in 2026, while Grey earns her first chart-topper as a singer in 15 years.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/me-not-equal-me-ai-kudasai-mase-japan-hot-100-1236285930/",
-    "source": "billboard",
-    "title": "≠ME’s ‘Ai Kudasai Mase’ Scores Group’s First No. 1 on Japan Hot 100",
-    "url": "https://www.billboard.com/music/chart-beat/me-not-equal-me-ai-kudasai-mase-japan-hot-100-1236285930/",
-    "publishedAt": "2026-07-01T18:51:12.000Z",
-    "summary": "Last week's No. 1, Kenshi Yonezu's \"Karasu\" (Raven), slips a notch to No. 2.",
     "image": null
   },
   {
@@ -63,60 +126,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/lists/alan-jackson-final-concert-setlist-2026-songs/",
-    "source": "billboard",
-    "title": "Alan Jackson’s Final Concert Setlist: Every Song He Played at ‘The Finale’ Show in Nashville",
-    "url": "https://www.billboard.com/lists/alan-jackson-final-concert-setlist-2026-songs/",
-    "publishedAt": "2026-07-01T18:19:16.000Z",
-    "summary": "See the country icon's 24-song set from his final show on June 27, 2026.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/jennifer-lopez-breakups-not-a-failure-subway-takes-video-1236285824/",
-    "source": "billboard",
-    "title": "Jennifer Lopez Explains Why ‘Breakups Are Not a Failure’: ‘We Should Have a Party’",
-    "url": "https://www.billboard.com/music/music-news/jennifer-lopez-breakups-not-a-failure-subway-takes-video-1236285824/",
-    "publishedAt": "2026-07-01T17:54:25.000Z",
-    "summary": "Jenny From the Block knows a thing or two about heartbreak.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/awards/two-former-recording-academy-execs-steer-grammy-campaigns-1236282313/",
-    "source": "billboard",
-    "title": "Two Former Recording Academy Execs Help Steer Grammy Campaigns: ‘We’re Just Fortunate to Now Be on the Other Side of It’",
-    "url": "https://www.billboard.com/music/awards/two-former-recording-academy-execs-steer-grammy-campaigns-1236282313/",
-    "publishedAt": "2026-07-01T17:51:05.000Z",
-    "summary": "At the Academy, a core value is being scrupulously non-partisan. Now, by definition, these execs are taking sides.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rock/bryan-adams-protest-song-donald-trump-51st-state-1236285856/",
-    "source": "billboard",
-    "title": "Bryan Adams Takes Swipe at Donald Trump’s Expansionist Dreams With ’51st State’ Protest Song: ‘You Better Show Some Respect’",
-    "url": "https://www.billboard.com/music/rock/bryan-adams-protest-song-donald-trump-51st-state-1236285856/",
-    "publishedAt": "2026-07-01T17:40:07.000Z",
-    "summary": "The pointed rock tune was released on Wednesday (July 1) to coincide with Canada Day.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/donald-trump-village-people-victor-willis-ymca-singer-death-1236285823/",
-    "source": "billboard",
-    "title": "Donald Trump Pays Tribute to ‘Great & Happy Guy’ Victor Willis Following ‘Y.M.C.A.’ Singer’s Death",
-    "url": "https://www.billboard.com/music/music-news/donald-trump-village-people-victor-willis-ymca-singer-death-1236285823/",
-    "publishedAt": "2026-07-01T17:14:06.000Z",
-    "summary": "The president was a fan of playing the signature Village People song at rallies.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/village-people-macho-man-ymca-chart-legacy-1236285832/",
-    "source": "billboard",
-    "title": "A Look at Village People’s Billboard Chart Legacy: ‘Macho Man,’ ‘Y.M.C.A.,’ ‘In the Navy’ & More",
-    "url": "https://www.billboard.com/music/chart-beat/village-people-macho-man-ymca-chart-legacy-1236285832/",
-    "publishedAt": "2026-07-01T17:06:56.000Z",
-    "summary": "\"Victor Willis’ talent and music were timeless,\" longtime promoter Howard Rosen tells Billboard after news of the singer's death broke.",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/features/thats-what-he-was-like-carly-simon-on-the-studio-battles-star-cameos-and-emotional-backstory-behind-youre-so-vain-155234/",
     "source": "uncut",
     "title": "“That’s what he was like”: Carly Simon on the studio battles, star cameos and emotional backstory behind “You’re So Vain”",
@@ -132,6 +141,15 @@
     "url": "https://loudwire.com/best-rock-metal-albums-2026-so-far/",
     "publishedAt": "2026-07-01T16:01:51.000Z",
     "summary": "What a 2026 it's already been! Here's the best rock and metal albums of the year... so far! Continue reading…",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMTF0bGp0S2tBMFc5TkRfQjExdW9ybmJUOFpfRTRUelRxWXVJeUs0YUlvNGpncURnNUlVWElQTUFVRDIyV0szZFQ1NU1JbGdaMFhFTzA3YjhRdmhUMHN1dzhRR3hmS2lWcG1XSFdXWG82LUtZU3BKY2NTUVBrTEVMRmMxdkhEVTYwTFlmWlBzQ2pfWjNXcWo5TFcwSkxrSlA1czNaU0hpaFpUaUhhQnpwd25RRGRPb1ltZ3lFTVZTRzNFTzRvTmRMbUgtaVFGeDdMeU5Eb1dn?oc=5",
+    "source": "nme",
+    "title": "Snow Patrol share Kylie Minogue collab 'These Alarms' and stage times for huge Crystal Palace Park gig - NME",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMTF0bGp0S2tBMFc5TkRfQjExdW9ybmJUOFpfRTRUelRxWXVJeUs0YUlvNGpncURnNUlVWElQTUFVRDIyV0szZFQ1NU1JbGdaMFhFTzA3YjhRdmhUMHN1dzhRR3hmS2lWcG1XSFdXWG82LUtZU3BKY2NTUVBrTEVMRmMxdkhEVTYwTFlmWlBzQ2pfWjNXcWo5TFcwSkxrSlA1czNaU0hpaFpUaUhhQnpwd25RRGRPb1ltZ3lFTVZTRzNFTzRvTmRMbUgtaVFGeDdMeU5Eb1dn?oc=5",
+    "publishedAt": "2026-07-01T15:43:02.000Z",
+    "summary": "Snow Patrol share Kylie Minogue collab 'These Alarms' and stage times for huge Crystal Palace Park gig NME",
     "image": null
   },
   {
@@ -405,15 +423,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/arcy-drive-interview-stateside-festival-1235586754/",
-    "source": "rolling-stone",
-    "title": "Arcy Drive Make What They Call ‘Attic Rock.’ It’s Far From Sleepy",
-    "url": "https://www.rollingstone.com/music/music-features/arcy-drive-interview-stateside-festival-1235586754/",
-    "publishedAt": "2026-06-30T16:11:45.000Z",
-    "summary": "By leaning into the unexpected, the Long Island band is becoming a festival must-see: “When something throws off your equilibrium, that’s when the good stuff comes out,” says singer Nick Mateyunas",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/news/dinosaur-jr-new-album-there-near-fall-tour-dates-2026/",
     "source": "pitchfork",
     "title": "Dinosaur Jr. Return With New Album and Fall Tour Dates",
@@ -474,15 +483,6 @@
     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOcFQ0MHcyNFJrVmtpVlRoVTFsVGN3ZnJBYjZSRU9RZWZWRHM4MElMYlB5S0g3THNrN1hYQTVzWUpGejN2Q2dva01aMFF2WDB0aDhFelB5MURhYlNKekJZazhKYWJmRng1ZGh1ZFZzRmoxMDZxQTJKNFdGd2dKU1BQNUNyajd5TWJqVnFkaGJFSUFiSVRxNXgyVi10Y2k5VHVEZXNaR0tiMTB3TEJfNkJmcDh3ZzRHbTN0WFZZazFxcG04UlJwQ2JzaGVxal83WC1DOS1nWUNKb1R2M3JMUUtXYjI4TDgxQWFrYVJkT0hJT2dBR21idXcwNV82QnlBVGRRWktr?oc=5",
     "publishedAt": "2026-06-30T11:09:51.000Z",
     "summary": "The Anchoress tells us about “celebratory queer anthem” single 'Throw Over Your Man' featuring Manic Street Preachers' James Dean Bradfield NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMikwFBVV95cUxOTVhDS2xCU3lRUXQ4RHJmcnBMRWdWdDJpRmwzb00tTncyWkdIU1g1V3hndWQ2UW5KQ1JiWkpqQVFodDVjVmFPUV94OW9aejhBMjBLM21PaGdIX0tDSTA1Q1R6ekVyR0NMUTJJc1dfWWd5OWFhMkItSldzSHotOURVYmM2SlNpY2tYV2NISUw5UllQZU0?oc=5",
-    "source": "nme",
-    "title": "LEGO and Olivia Rodrigo team up for new collection - NME",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTVhDS2xCU3lRUXQ4RHJmcnBMRWdWdDJpRmwzb00tTncyWkdIU1g1V3hndWQ2UW5KQ1JiWkpqQVFodDVjVmFPUV94OW9aejhBMjBLM21PaGdIX0tDSTA1Q1R6ekVyR0NMUTJJc1dfWWd5OWFhMkItSldzSHotOURVYmM2SlNpY2tYV2NISUw5UllQZU0?oc=5",
-    "publishedAt": "2026-06-30T10:00:08.000Z",
-    "summary": "LEGO and Olivia Rodrigo team up for new collection NME",
     "image": null
   },
   {
