@@ -1,11 +1,119 @@
 [
   {
-    "id": "billboard-https://www.billboard.com/pro/billboard-on-the-record-2026-biggest-music-business-stories/",
+    "id": "loudwire-https://loudwire.com/yungblud-breakdown-bludfest-czechia/",
+    "source": "loudwire",
+    "title": "Yungblud's Vulnerable Message After Teary Breakdown at Festival",
+    "url": "https://loudwire.com/yungblud-breakdown-bludfest-czechia/",
+    "publishedAt": "2026-07-01T19:29:25.000Z",
+    "summary": "Yungblud's journey came to a head with an emotional, cathartic breakdown during his Bludfest performance in Czechia. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/features/kelissa-the-good-side-of-things-interview-chronixx-reggae-1236285897/",
     "source": "billboard",
-    "title": "2026’s Biggest Music Business Stories So Far: Live Nation, AI & Mergers",
-    "url": "https://www.billboard.com/pro/billboard-on-the-record-2026-biggest-music-business-stories/",
-    "publishedAt": "2026-07-01T16:26:19.000Z",
-    "summary": "On the latest episode of On the Record, Billboard reporters gather to discuss the most important developments in 2026 so far and where the industry is going next.",
+    "title": "Kelissa Uncovers ‘The Good Side of Things’ on First Studio Album in Almost a Decade: ‘I Created the Music I Wanted and Needed’",
+    "url": "https://www.billboard.com/music/features/kelissa-the-good-side-of-things-interview-chronixx-reggae-1236285897/",
+    "publishedAt": "2026-07-01T19:20:43.000Z",
+    "summary": "The reggae star makes her long-awaited return.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/clave-especial-ea-ea-ea-live/",
+    "source": "billboard",
+    "title": "Clave Especial Performs ‘Ea Ea Ea’ | Billboard Live",
+    "url": "https://www.billboard.com/video/clave-especial-ea-ea-ea-live/",
+    "publishedAt": "2026-07-01T19:20:00.000Z",
+    "summary": "This is partner content. Música mexicana breakout stars Clave Especial deliver an intimate performance of “Ea Ea Ea” from their latest EP, AFTERAFTER, presented by Cerveza Victoria. Clave Especial: [Sings “Ea Ea Ea”]",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/motionless-in-white-skylar-grey-rip-hot-hard-rock-songs/",
+    "source": "billboard",
+    "title": "Motionless in White & Skylar Grey’s ‘R.I.P.’ Hits No. 1 on Hot Hard Rock Songs Chart",
+    "url": "https://www.billboard.com/pro/motionless-in-white-skylar-grey-rip-hot-hard-rock-songs/",
+    "publishedAt": "2026-07-01T19:16:44.000Z",
+    "summary": "The band is the only act with multiple leaders on the list in 2026, while Grey earns her first chart-topper as a singer in 15 years.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/me-not-equal-me-ai-kudasai-mase-japan-hot-100-1236285930/",
+    "source": "billboard",
+    "title": "≠ME’s ‘Ai Kudasai Mase’ Scores Group’s First No. 1 on Japan Hot 100",
+    "url": "https://www.billboard.com/music/chart-beat/me-not-equal-me-ai-kudasai-mase-japan-hot-100-1236285930/",
+    "publishedAt": "2026-07-01T18:51:12.000Z",
+    "summary": "Last week's No. 1, Kenshi Yonezu's \"Karasu\" (Raven), slips a notch to No. 2.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/rock-metal-albums-released-july/",
+    "source": "loudwire",
+    "title": "Biggest Rock + Metal Albums Released Each Day in July History",
+    "url": "https://loudwire.com/rock-metal-albums-released-july/",
+    "publishedAt": "2026-07-01T18:44:29.000Z",
+    "summary": "Some of the most beloved albums from AC/DC, Metallica and Black Sabbath were all released in July. Here is a look at the best from each day. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/marina-herlop-readies-new-album-dja-dja/",
+    "source": "pitchfork",
+    "title": "Marina Herlop Readies New Album Dja Dja",
+    "url": "https://pitchfork.com/news/marina-herlop-readies-new-album-dja-dja/",
+    "publishedAt": "2026-07-01T18:25:29.000Z",
+    "summary": "The Catalan composer and experimental musician will self-release her follow-up to 2023’s Nekkuja",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/alan-jackson-final-concert-setlist-2026-songs/",
+    "source": "billboard",
+    "title": "Alan Jackson’s Final Concert Setlist: Every Song He Played at ‘The Finale’ Show in Nashville",
+    "url": "https://www.billboard.com/lists/alan-jackson-final-concert-setlist-2026-songs/",
+    "publishedAt": "2026-07-01T18:19:16.000Z",
+    "summary": "See the country icon's 24-song set from his final show on June 27, 2026.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/jennifer-lopez-breakups-not-a-failure-subway-takes-video-1236285824/",
+    "source": "billboard",
+    "title": "Jennifer Lopez Explains Why ‘Breakups Are Not a Failure’: ‘We Should Have a Party’",
+    "url": "https://www.billboard.com/music/music-news/jennifer-lopez-breakups-not-a-failure-subway-takes-video-1236285824/",
+    "publishedAt": "2026-07-01T17:54:25.000Z",
+    "summary": "Jenny From the Block knows a thing or two about heartbreak.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/awards/two-former-recording-academy-execs-steer-grammy-campaigns-1236282313/",
+    "source": "billboard",
+    "title": "Two Former Recording Academy Execs Help Steer Grammy Campaigns: ‘We’re Just Fortunate to Now Be on the Other Side of It’",
+    "url": "https://www.billboard.com/music/awards/two-former-recording-academy-execs-steer-grammy-campaigns-1236282313/",
+    "publishedAt": "2026-07-01T17:51:05.000Z",
+    "summary": "At the Academy, a core value is being scrupulously non-partisan. Now, by definition, these execs are taking sides.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rock/bryan-adams-protest-song-donald-trump-51st-state-1236285856/",
+    "source": "billboard",
+    "title": "Bryan Adams Takes Swipe at Donald Trump’s Expansionist Dreams With ’51st State’ Protest Song: ‘You Better Show Some Respect’",
+    "url": "https://www.billboard.com/music/rock/bryan-adams-protest-song-donald-trump-51st-state-1236285856/",
+    "publishedAt": "2026-07-01T17:40:07.000Z",
+    "summary": "The pointed rock tune was released on Wednesday (July 1) to coincide with Canada Day.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/donald-trump-village-people-victor-willis-ymca-singer-death-1236285823/",
+    "source": "billboard",
+    "title": "Donald Trump Pays Tribute to ‘Great & Happy Guy’ Victor Willis Following ‘Y.M.C.A.’ Singer’s Death",
+    "url": "https://www.billboard.com/music/music-news/donald-trump-village-people-victor-willis-ymca-singer-death-1236285823/",
+    "publishedAt": "2026-07-01T17:14:06.000Z",
+    "summary": "The president was a fan of playing the signature Village People song at rallies.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/village-people-macho-man-ymca-chart-legacy-1236285832/",
+    "source": "billboard",
+    "title": "A Look at Village People’s Billboard Chart Legacy: ‘Macho Man,’ ‘Y.M.C.A.,’ ‘In the Navy’ & More",
+    "url": "https://www.billboard.com/music/chart-beat/village-people-macho-man-ymca-chart-legacy-1236285832/",
+    "publishedAt": "2026-07-01T17:06:56.000Z",
+    "summary": "\"Victor Willis’ talent and music were timeless,\" longtime promoter Howard Rosen tells Billboard after news of the singer's death broke.",
     "image": null
   },
   {
@@ -27,42 +135,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/video/marc-anthony-chart-history-stories-ahora-quien-vivir-mi-vida/",
-    "source": "billboard",
-    "title": "Marc Anthony’s Stories Behind ‘Ahora Quien,’ ‘Vivir Mi Vida,’ ‘Rain Over Me’ & More | Chart History",
-    "url": "https://www.billboard.com/video/marc-anthony-chart-history-stories-ahora-quien-vivir-mi-vida/",
-    "publishedAt": "2026-07-01T16:00:00.000Z",
-    "summary": "Marc Anthony takes Billboard through his chart history of songs that built his legendary career. From early salsa breakthroughs like “Hasta Ayer” and “Y Hubo Alguien” to crossover hits including “I Need to Know,” “You Sang to Me” and “My Baby You,” Marc reflects on the moments that changed everything. He also opens up about […]",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/megan-thee-stallion-hot-girl-summer-perfume-release-date-1236285623/",
-    "source": "billboard",
-    "title": "Megan Thee Stallion Enters Fragrance Industry With Hot Girl Summer Perfume ‘That Captures My Essence’",
-    "url": "https://www.billboard.com/music/rb-hip-hop/megan-thee-stallion-hot-girl-summer-perfume-release-date-1236285623/",
-    "publishedAt": "2026-07-01T16:00:00.000Z",
-    "summary": "Early access purchases will be available starting in July.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-    "source": "billboard",
-    "title": "Billboard’s Music Industry Events Calendar",
-    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-    "publishedAt": "2026-07-01T15:59:00.000Z",
-    "summary": "A complete rundown of the most important events across the music business.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/pop/lionel-richie-returns-stage-pittsburgh-postponing-dizzy-spell-1236285771/",
-    "source": "billboard",
-    "title": "Lionel Richie Returns to Stage in Pittsburgh After Postponing Dates Due to Dizziness",
-    "url": "https://www.billboard.com/music/pop/lionel-richie-returns-stage-pittsburgh-postponing-dizzy-spell-1236285771/",
-    "publishedAt": "2026-07-01T15:53:40.000Z",
-    "summary": "The singer performed with Earth, Wind & Fire at PPG Paints Arena on Tuesday night (June 30) after cutting the tour's opener short last week due to an unexplained illness.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/donald-trump-truth-social-victor-willis-death-1235587341/",
     "source": "rolling-stone",
     "title": "Donald Trump Has Many Thoughts on Village People’s Victor Willis",
@@ -78,15 +150,6 @@
     "url": "https://www.uncut.co.uk/features/blondie-on-the-making-of-heart-of-glass-we-were-trying-to-sound-like-kraftwerk-1474/",
     "publishedAt": "2026-07-01T15:37:18.000Z",
     "summary": "“We were trying to sound like Kraftwerk…”",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/taylor-swift-travis-kelce-wedding-mamdani-jokes-heat-wave-1236285748/",
-    "source": "billboard",
-    "title": "Zohran Mamdani Jokes About Taylor Swift & Travis Kelce’s Wedding Ahead of NYC Heat Wave",
-    "url": "https://www.billboard.com/music/music-news/taylor-swift-travis-kelce-wedding-mamdani-jokes-heat-wave-1236285748/",
-    "publishedAt": "2026-07-01T15:34:55.000Z",
-    "summary": "The mayor quipped that New Yorkers should follow the couple's example and stay indoors.",
     "image": null
   },
   {
@@ -113,7 +176,7 @@
     "title": "How Martina McBride’s Hit Song About Domestic Violence Got Mistaken for a Patriotic Anthem",
     "url": "https://www.rollingstone.com/music/music-country/independence-day-martina-mcbride-real-meaning-855248/",
     "publishedAt": "2026-07-01T14:46:46.000Z",
-    "summary": "Both Sean Hannity and Sarah Palin misappropriated McBride's 1994 radio staple “Independence Day,” seemingly ignoring songwriter Gretchen Peters’ lyrics about an abused woman",
+    "summary": "Both Sean Hannity and Sarah Palin misappropriated McBride’s 1994 radio staple “Independence Day,” seemingly ignoring songwriter Gretchen Peters’ lyrics about an abused woman",
     "image": null
   },
   {
@@ -123,42 +186,6 @@
     "url": "https://pitchfork.com/news/village-people-singer-victor-willis-dies-at-74/",
     "publishedAt": "2026-07-01T14:44:22.000Z",
     "summary": "Initially a backup singer, Willis became the group’s core, fronting the costumed band and co-writing “Y.M.C.A.,” “In the Navy,” and “Go West”",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/one-artist-first-hot-100-number-one-2026-ask-billboard-1236285627/",
-    "source": "billboard",
-    "title": "Ask Billboard: How Rare Is It That Only One Artist Has a First Hot 100 No. 1 So Far This Year?",
-    "url": "https://www.billboard.com/music/chart-beat/one-artist-first-hot-100-number-one-2026-ask-billboard-1236285627/",
-    "publishedAt": "2026-07-01T14:24:04.000Z",
-    "summary": "Still, Ella Langley’s “Choosin’ Texas” is the year’s longest-leading hit.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/pop/victor-willis-death-village-people-singer-ymca-writer-dies-74-1236285680/",
-    "source": "billboard",
-    "title": "Victor Willis, Village People Frontman & ‘YMCA’ Cowriter, Dead at 74",
-    "url": "https://www.billboard.com/music/pop/victor-willis-death-village-people-singer-ymca-writer-dies-74-1236285680/",
-    "publishedAt": "2026-07-01T13:17:10.000Z",
-    "summary": "Founding singer of costumed disco band and cowriter of such classics as \"Macho Man\" and \"In the Navy,\" died after a \"short but aggressive illness.\"",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/taylor-swift-tim-mcgraw-chart-rewind-2006-1236284818/",
-    "source": "billboard",
-    "title": "Chart Rewind: On July 1, 2006, Taylor Swift Made Her Billboard Debut",
-    "url": "https://www.billboard.com/music/chart-beat/taylor-swift-tim-mcgraw-chart-rewind-2006-1236284818/",
-    "publishedAt": "2026-07-01T13:00:00.000Z",
-    "summary": "“Tim McGraw” by Swift, then 16, entered Hot Country Songs.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/video/drake-ai-live-nation-case-breaking-down-biggest-stories/",
-    "source": "billboard",
-    "title": "Drake, AI & The Live Nation Case: Breaking Down Music’s Biggest Stories | Billboard On The Record",
-    "url": "https://www.billboard.com/video/drake-ai-live-nation-case-breaking-down-biggest-stories/",
-    "publishedAt": "2026-07-01T13:00:00.000Z",
-    "summary": "We’re halfway through 2026, and the music industry has already had its fair share of headline-making moments. From Spotify’s AI remix plans and Drake’s surprise three-album drop to company mergers and antitrust battles, Billboard‘s business editorial team breaks down the biggest stories shaping the industry so far this year. They also revisit the predictions they […]",
     "image": null
   },
   {
@@ -186,6 +213,15 @@
     "url": "https://loudwire.com/dave-mustaine-journalist-megadeth/",
     "publishedAt": "2026-07-01T11:20:36.000Z",
     "summary": "Find out what question set him off. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMikwFBVV95cUxQSklWNW8yaS1JYWo0eWRzcVFVMXRWTGVrMkRWZzVfQUlOWElVT29SYjlNYndkTC01MDY0bFQ5YUxDUFBOcUppZjgzREszemNzUHJ6Z1NJWVVzV21pQ2pSRE4yV3lWZ2tFaTJYNS1JTGZQT2lSaWVZaFVIU2hCVndIYi1WZXBDZ1ROUXNvTVJwYXhsa3c?oc=5",
+    "source": "nme",
+    "title": "Village People frontman Victor Willis dies, aged 74 - NME",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSklWNW8yaS1JYWo0eWRzcVFVMXRWTGVrMkRWZzVfQUlOWElVT29SYjlNYndkTC01MDY0bFQ5YUxDUFBOcUppZjgzREszemNzUHJ6Z1NJWVVzV21pQ2pSRE4yV3lWZ2tFaTJYNS1JTGZQT2lSaWVZaFVIU2hCVndIYi1WZXBDZ1ROUXNvTVJwYXhsa3c?oc=5",
+    "publishedAt": "2026-07-01T11:13:38.000Z",
+    "summary": "Village People frontman Victor Willis dies, aged 74 NME",
     "image": null
   },
   {
@@ -258,6 +294,15 @@
     "url": "https://louderthanwar.com/bristol-sounds-2026-super-furry-animals-festival-review/",
     "publishedAt": "2026-07-01T07:11:01.000Z",
     "summary": "Super Furry Animals Bristol Sounds, Bristol Amphitheatre 24th June 2026 The psychedelic artful North Walian rockers bring their playful weirdness to Bristol’s sweltering dockside. Elfyn Griffith says ‘s’mae’ (how do?) to his fellow countrymen. Touring for the first time in ten years, Super Furry Animals are still proving that they’ve lost nothing of their eclectic […] The post Bristol Sounds 2026: Super Furry Animals – Festival Review appeared first on Louder Than War.",
+    "image": null
+  },
+  {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMickFVX3lxTFBGV0g4UEMzMENGbUdRX1NaVnJvNHNzT3JHbU5QbFd5QkMwaGc0OGVRVDNlcFFoZ3dVSlJRWmR5MUVOc2NBTExpbzBJc2NXTlN5bFBrSWx5LUl3TXZXNktnV2RrMjRwaWdKYnBrdDY5dlNKQQ?oc=5",
+    "source": "kerrang",
+    "title": "Album review: HAWXX – THE WORLD SPLITS OPEN - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGV0g4UEMzMENGbUdRX1NaVnJvNHNzT3JHbU5QbFd5QkMwaGc0OGVRVDNlcFFoZ3dVSlJRWmR5MUVOc2NBTExpbzBJc2NXTlN5bFBrSWx5LUl3TXZXNktnV2RrMjRwaWdKYnBrdDY5dlNKQQ?oc=5",
+    "publishedAt": "2026-07-01T07:00:00.000Z",
+    "summary": "Album review: HAWXX – THE WORLD SPLITS OPEN Kerrang!",
     "image": null
   },
   {
@@ -342,15 +387,6 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/bam-margera-near-death-sober/",
-    "source": "loudwire",
-    "title": "How A Coma Changed Bam Margera's View On Addiction",
-    "url": "https://loudwire.com/bam-margera-near-death-sober/",
-    "publishedAt": "2026-06-30T17:08:04.000Z",
-    "summary": "Bam Margera opens up about a life-altering health scare that pushed him to confront his demons. Continue reading…",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-latin-lists/rosalias-lux-tour-confessionals-celebrity-appearances-1235571575/",
     "source": "rolling-stone",
     "title": "The Most Revealing Celebrity Confessionals from Rosalía’s ‘Lux’ Tour",
@@ -393,15 +429,6 @@
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRjl3UHFUWmduZXBia3FEZHAySHA4U01LOEdPSGRrcEJrc0FINEVhZzgtS2JnVGI2Zl9vS0lDNkRTZEFJdG1tODRwaHMyUnFJMmxVNTBpVExHcUNWUDc1SUJ0N0Y4UVQ3eVRmNEwxYW1yM3ZzTDhJOU1Xa0VTQ2xjalpwSTFqdng4UU9OZ1lBV3AxWVhwRHpSbTFvNmxNc0l6TUNIWk9MN3RKeXFDWnN3dg?oc=5",
     "publishedAt": "2026-06-30T14:51:57.000Z",
     "summary": "Muse are \"trying to build a spaceship\" for 2026 UK and European arena tour NME",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/gofundme-cliff-burton-sister-connie/",
-    "source": "loudwire",
-    "title": "GoFundMe for Cliff Burton’s Sister’s ‘Life-Saving’ Surgery",
-    "url": "https://loudwire.com/gofundme-cliff-burton-sister-connie/",
-    "publishedAt": "2026-06-30T14:30:26.000Z",
-    "summary": "A GoFundMe has been launched for Cliff Burton's older sister Connie's 'live-saving' surgery as she has decay that has spread to her sinuses. Continue reading…",
     "image": null
   },
   {
@@ -456,15 +483,6 @@
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTVhDS2xCU3lRUXQ4RHJmcnBMRWdWdDJpRmwzb00tTncyWkdIU1g1V3hndWQ2UW5KQ1JiWkpqQVFodDVjVmFPUV94OW9aejhBMjBLM21PaGdIX0tDSTA1Q1R6ekVyR0NMUTJJc1dfWWd5OWFhMkItSldzSHotOURVYmM2SlNpY2tYV2NISUw5UllQZU0?oc=5",
     "publishedAt": "2026-06-30T10:00:08.000Z",
     "summary": "LEGO and Olivia Rodrigo team up for new collection NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMitgFBVV95cUxOdnVDSmZFUVZ2RW40UndLNDBGUjR3V2Y1TnFPV1JFb0NOLWhuSHN6aTYzWEhTZ3UwMlItZXZEaEdidVBDLU9TYmRHSnZzdDl6em9XNGl3c2pQQ2pwYTkxczR2ZHl4QkdHVFFLcGlvczF6WEZvSk5pN1QwOGV4djNGV0lLaEktNUlYVWthYkNBblVfS2REUTVjNzhMay1rQkZySC1JOVZMakE4UHRYUUlFYzVuLTV1dw?oc=5",
-    "source": "nme",
-    "title": "Morrissey is now selling iconic The Smiths merch with his name on it instead - NME",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdnVDSmZFUVZ2RW40UndLNDBGUjR3V2Y1TnFPV1JFb0NOLWhuSHN6aTYzWEhTZ3UwMlItZXZEaEdidVBDLU9TYmRHSnZzdDl6em9XNGl3c2pQQ2pwYTkxczR2ZHl4QkdHVFFLcGlvczF6WEZvSk5pN1QwOGV4djNGV0lLaEktNUlYVWthYkNBblVfS2REUTVjNzhMay1rQkZySC1JOVZMakE4UHRYUUlFYzVuLTV1dw?oc=5",
-    "publishedAt": "2026-06-30T09:58:40.000Z",
-    "summary": "Morrissey is now selling iconic The Smiths merch with his name on it instead NME",
     "image": null
   },
   {
@@ -555,15 +573,6 @@
     "url": "https://pitchfork.com/news/watch-ms-lauryn-hill-tribute-with-sza-doechii-and-nas-at-bet-awards-2026/",
     "publishedAt": "2026-06-29T04:57:40.000Z",
     "summary": "She received the inaugural Living Legend Icon Award at tonight’s awards ceremony",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/news/lorde-uploads-49-demos-from-virgin-for-albums-anniversary/",
-    "source": "pitchfork",
-    "title": "Lorde Uploads 49 Demos From Virgin for Album’s Anniversary",
-    "url": "https://pitchfork.com/news/lorde-uploads-49-demos-from-virgin-for-albums-anniversary/",
-    "publishedAt": "2026-06-29T00:24:55.000Z",
-    "summary": "The XRAYS page also features new photos, notes, and artwork ideas for her 2025 LP",
     "image": null
   },
   {
@@ -699,15 +708,6 @@
     "url": "https://www.uncut.co.uk/news/see-the-tracklist-for-eternal-live-joy-division-155196/",
     "publishedAt": "2026-06-25T12:13:47.000Z",
     "summary": "The 14-CD set collects 16 live performances, several of which are previously unheard",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMiggFBVV95cUxNbFVmVG12VXU3LW9zVUFrWmxTSUp3M0w1X2xBeFNUVFdha1JGQmVydkI2bC13eU1Fa3RsVWR1SktnWFdaZWZOMDRLejl2aFVEQWxyNVR0VVMtUVRnZVFSZkdTVWI2VlY0TnJTMTJnbDVadXNWdXVueEQ4V0VuLXZTSVhn?oc=5",
-    "source": "kerrang",
-    "title": "The XCERTS explore tough love on new single bury you - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbFVmVG12VXU3LW9zVUFrWmxTSUp3M0w1X2xBeFNUVFdha1JGQmVydkI2bC13eU1Fa3RsVWR1SktnWFdaZWZOMDRLejl2aFVEQWxyNVR0VVMtUVRnZVFSZkdTVWI2VlY0TnJTMTJnbDVadXNWdXVueEQ4V0VuLXZTSVhn?oc=5",
-    "publishedAt": "2026-06-25T11:35:00.000Z",
-    "summary": "The XCERTS explore tough love on new single bury you Kerrang!",
     "image": null
   },
   {
