@@ -1,11 +1,164 @@
 [
   {
-    "id": "billboard-https://www.billboard.com/pro/uk-industry-titans-u2-ed-sheeran-breaking-wave-music-group/",
+    "id": "billboard-https://www.billboard.com/pro/billboard-on-the-record-2026-biggest-music-business-stories/",
     "source": "billboard",
-    "title": "U.K. Industry Titans Behind U2 & Ed Sheeran Form Breaking Wave Group",
-    "url": "https://www.billboard.com/pro/uk-industry-titans-u2-ed-sheeran-breaking-wave-music-group/",
-    "publishedAt": "2026-07-01T12:26:34.000Z",
-    "summary": "The new company will operate as a record label, management company, publisher and on special projects.",
+    "title": "2026’s Biggest Music Business Stories So Far: Live Nation, AI & Mergers",
+    "url": "https://www.billboard.com/pro/billboard-on-the-record-2026-biggest-music-business-stories/",
+    "publishedAt": "2026-07-01T16:26:19.000Z",
+    "summary": "On the latest episode of On the Record, Billboard reporters gather to discuss the most important developments in 2026 so far and where the industry is going next.",
+    "image": null
+  },
+  {
+    "id": "uncut-https://www.uncut.co.uk/features/thats-what-he-was-like-carly-simon-on-the-studio-battles-star-cameos-and-emotional-backstory-behind-youre-so-vain-155234/",
+    "source": "uncut",
+    "title": "“That’s what he was like”: Carly Simon on the studio battles, star cameos and emotional backstory behind “You’re So Vain”",
+    "url": "https://www.uncut.co.uk/features/thats-what-he-was-like-carly-simon-on-the-studio-battles-star-cameos-and-emotional-backstory-behind-youre-so-vain-155234/",
+    "publishedAt": "2026-07-01T16:21:22.000Z",
+    "summary": "The story behind one of pop’s most enduring put-downs",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/best-rock-metal-albums-2026-so-far/",
+    "source": "loudwire",
+    "title": "Best Rock + Metal Albums of 2026 (So Far)",
+    "url": "https://loudwire.com/best-rock-metal-albums-2026-so-far/",
+    "publishedAt": "2026-07-01T16:01:51.000Z",
+    "summary": "What a 2026 it's already been! Here's the best rock and metal albums of the year... so far! Continue reading…",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/marc-anthony-chart-history-stories-ahora-quien-vivir-mi-vida/",
+    "source": "billboard",
+    "title": "Marc Anthony’s Stories Behind ‘Ahora Quien,’ ‘Vivir Mi Vida,’ ‘Rain Over Me’ & More | Chart History",
+    "url": "https://www.billboard.com/video/marc-anthony-chart-history-stories-ahora-quien-vivir-mi-vida/",
+    "publishedAt": "2026-07-01T16:00:00.000Z",
+    "summary": "Marc Anthony takes Billboard through his chart history of songs that built his legendary career. From early salsa breakthroughs like “Hasta Ayer” and “Y Hubo Alguien” to crossover hits including “I Need to Know,” “You Sang to Me” and “My Baby You,” Marc reflects on the moments that changed everything. He also opens up about […]",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/megan-thee-stallion-hot-girl-summer-perfume-release-date-1236285623/",
+    "source": "billboard",
+    "title": "Megan Thee Stallion Enters Fragrance Industry With Hot Girl Summer Perfume ‘That Captures My Essence’",
+    "url": "https://www.billboard.com/music/rb-hip-hop/megan-thee-stallion-hot-girl-summer-perfume-release-date-1236285623/",
+    "publishedAt": "2026-07-01T16:00:00.000Z",
+    "summary": "Early access purchases will be available starting in July.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "source": "billboard",
+    "title": "Billboard’s Music Industry Events Calendar",
+    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "publishedAt": "2026-07-01T15:59:00.000Z",
+    "summary": "A complete rundown of the most important events across the music business.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/lionel-richie-returns-stage-pittsburgh-postponing-dizzy-spell-1236285771/",
+    "source": "billboard",
+    "title": "Lionel Richie Returns to Stage in Pittsburgh After Postponing Dates Due to Dizziness",
+    "url": "https://www.billboard.com/music/pop/lionel-richie-returns-stage-pittsburgh-postponing-dizzy-spell-1236285771/",
+    "publishedAt": "2026-07-01T15:53:40.000Z",
+    "summary": "The singer performed with Earth, Wind & Fire at PPG Paints Arena on Tuesday night (June 30) after cutting the tour's opener short last week due to an unexplained illness.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/donald-trump-truth-social-victor-willis-death-1235587341/",
+    "source": "rolling-stone",
+    "title": "Donald Trump Has Many Thoughts on Village People’s Victor Willis",
+    "url": "https://www.rollingstone.com/music/music-news/donald-trump-truth-social-victor-willis-death-1235587341/",
+    "publishedAt": "2026-07-01T15:42:22.000Z",
+    "summary": "“Y.M.C.A.” became a major hit among the MAGA crowd and at Trump's political rallies beginning in 2020",
+    "image": null
+  },
+  {
+    "id": "uncut-https://www.uncut.co.uk/features/blondie-on-the-making-of-heart-of-glass-we-were-trying-to-sound-like-kraftwerk-1474/",
+    "source": "uncut",
+    "title": "“We were all just wild children”: Blondie on the making of “Heart Of Glass”",
+    "url": "https://www.uncut.co.uk/features/blondie-on-the-making-of-heart-of-glass-we-were-trying-to-sound-like-kraftwerk-1474/",
+    "publishedAt": "2026-07-01T15:37:18.000Z",
+    "summary": "“We were trying to sound like Kraftwerk…”",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/taylor-swift-travis-kelce-wedding-mamdani-jokes-heat-wave-1236285748/",
+    "source": "billboard",
+    "title": "Zohran Mamdani Jokes About Taylor Swift & Travis Kelce’s Wedding Ahead of NYC Heat Wave",
+    "url": "https://www.billboard.com/music/music-news/taylor-swift-travis-kelce-wedding-mamdani-jokes-heat-wave-1236285748/",
+    "publishedAt": "2026-07-01T15:34:55.000Z",
+    "summary": "The mayor quipped that New Yorkers should follow the couple's example and stay indoors.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/taylor-swift-travis-kelce-wedding-everything-we-know-1235584260/",
+    "source": "rolling-stone",
+    "title": "Everything We Think We Know About Taylor Swift’s Wedding",
+    "url": "https://www.rollingstone.com/music/music-features/taylor-swift-travis-kelce-wedding-everything-we-know-1235584260/",
+    "publishedAt": "2026-07-01T15:08:48.000Z",
+    "summary": "The superstar’s wedding to Travis Kelce has sparked lots of speculation, but a few details have emerged",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/ex-sick-puppies-shim-moore-breakup-lesson/",
+    "source": "loudwire",
+    "title": "Ex-Sick Puppies Singer on Breakup - The Lesson Every Band Needs",
+    "url": "https://loudwire.com/ex-sick-puppies-shim-moore-breakup-lesson/",
+    "publishedAt": "2026-07-01T15:00:09.000Z",
+    "summary": "The former Sick Puppies singer is turning the downfall of his band into a lesson for other musicians. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/independence-day-martina-mcbride-real-meaning-855248/",
+    "source": "rolling-stone",
+    "title": "How Martina McBride’s Hit Song About Domestic Violence Got Mistaken for a Patriotic Anthem",
+    "url": "https://www.rollingstone.com/music/music-country/independence-day-martina-mcbride-real-meaning-855248/",
+    "publishedAt": "2026-07-01T14:46:46.000Z",
+    "summary": "Both Sean Hannity and Sarah Palin misappropriated McBride's 1994 radio staple “Independence Day,” seemingly ignoring songwriter Gretchen Peters’ lyrics about an abused woman",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/village-people-singer-victor-willis-dies-at-74/",
+    "source": "pitchfork",
+    "title": "Village People Singer Victor Willis Dies at 74",
+    "url": "https://pitchfork.com/news/village-people-singer-victor-willis-dies-at-74/",
+    "publishedAt": "2026-07-01T14:44:22.000Z",
+    "summary": "Initially a backup singer, Willis became the group’s core, fronting the costumed band and co-writing “Y.M.C.A.,” “In the Navy,” and “Go West”",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/one-artist-first-hot-100-number-one-2026-ask-billboard-1236285627/",
+    "source": "billboard",
+    "title": "Ask Billboard: How Rare Is It That Only One Artist Has a First Hot 100 No. 1 So Far This Year?",
+    "url": "https://www.billboard.com/music/chart-beat/one-artist-first-hot-100-number-one-2026-ask-billboard-1236285627/",
+    "publishedAt": "2026-07-01T14:24:04.000Z",
+    "summary": "Still, Ella Langley’s “Choosin’ Texas” is the year’s longest-leading hit.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/victor-willis-death-village-people-singer-ymca-writer-dies-74-1236285680/",
+    "source": "billboard",
+    "title": "Victor Willis, Village People Frontman & ‘YMCA’ Cowriter, Dead at 74",
+    "url": "https://www.billboard.com/music/pop/victor-willis-death-village-people-singer-ymca-writer-dies-74-1236285680/",
+    "publishedAt": "2026-07-01T13:17:10.000Z",
+    "summary": "Founding singer of costumed disco band and cowriter of such classics as \"Macho Man\" and \"In the Navy,\" died after a \"short but aggressive illness.\"",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/taylor-swift-tim-mcgraw-chart-rewind-2006-1236284818/",
+    "source": "billboard",
+    "title": "Chart Rewind: On July 1, 2006, Taylor Swift Made Her Billboard Debut",
+    "url": "https://www.billboard.com/music/chart-beat/taylor-swift-tim-mcgraw-chart-rewind-2006-1236284818/",
+    "publishedAt": "2026-07-01T13:00:00.000Z",
+    "summary": "“Tim McGraw” by Swift, then 16, entered Hot Country Songs.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/drake-ai-live-nation-case-breaking-down-biggest-stories/",
+    "source": "billboard",
+    "title": "Drake, AI & The Live Nation Case: Breaking Down Music’s Biggest Stories | Billboard On The Record",
+    "url": "https://www.billboard.com/video/drake-ai-live-nation-case-breaking-down-biggest-stories/",
+    "publishedAt": "2026-07-01T13:00:00.000Z",
+    "summary": "We’re halfway through 2026, and the music industry has already had its fair share of headline-making moments. From Spotify’s AI remix plans and Drake’s surprise three-album drop to company mergers and antitrust battles, Billboard‘s business editorial team breaks down the biggest stories shaping the industry so far this year. They also revisit the predictions they […]",
     "image": null
   },
   {
@@ -14,16 +167,7 @@
     "title": "Village People Lead Singer Victor Willis Dead at 74 ",
     "url": "https://www.rollingstone.com/music/music-news/village-people-victor-willis-dead-obituary-1235587313/",
     "publishedAt": "2026-07-01T12:08:14.000Z",
-    "summary": "The \"Y.M.C.A.\" and \"Macho Man\" singer dies after a \"short but aggressive\" illness",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/rob-glass-julian-hewitt-hewitt-glass-law-exclusive/",
-    "source": "billboard",
-    "title": "Rob Glass, Julian Hewitt Launch Hewitt Glass Law: Exclusive",
-    "url": "https://www.billboard.com/pro/rob-glass-julian-hewitt-hewitt-glass-law-exclusive/",
-    "publishedAt": "2026-07-01T12:08:14.000Z",
-    "summary": "Billboard can exclusively reveal the new specialist law firm serving Australasia's music, media and arts industries -- Hewitt Glass Law.",
+    "summary": "The “Y.M.C.A.” and “Macho Man” singer died after a “short but aggressive” illness",
     "image": null
   },
   {
@@ -36,15 +180,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/rock/rush-postpone-fort-worth-shows-geddy-lee-laryngitis-1236285669/",
-    "source": "billboard",
-    "title": "Rush Forced to Postpone Two Texas Shows As Singer Geddy Lee Battles Laryngitis/Bronchitis",
-    "url": "https://www.billboard.com/music/rock/rush-postpone-fort-worth-shows-geddy-lee-laryngitis-1236285669/",
-    "publishedAt": "2026-07-01T11:36:52.000Z",
-    "summary": "The pushbacks came after the legendary group had to reschedule a June 24 show in Fort Worth over travel and border-related delays.",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/dave-mustaine-journalist-megadeth/",
     "source": "loudwire",
     "title": "Watch Dave Mustaine Cuss Out Journalist During Megadeth Show",
@@ -54,12 +189,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/pro/harvey-lister-egends-global-announces-retirement/",
-    "source": "billboard",
-    "title": "Harvey Lister, President and CEO of Legends Global, Announces Retirement",
-    "url": "https://www.billboard.com/pro/harvey-lister-egends-global-announces-retirement/",
-    "publishedAt": "2026-07-01T10:42:13.000Z",
-    "summary": "Long-serving APAC/MENA COO Peter Loxton now leads the region, effective July 1, reporting to Legends Global CEO, Dan Levy.",
+    "id": "loudwire-https://loudwire.com/rock-star-birthdays-july/",
+    "source": "loudwire",
+    "title": "Rock Stars Celebrating Birthdays in July",
+    "url": "https://loudwire.com/rock-star-birthdays-july/",
+    "publishedAt": "2026-07-01T10:30:27.000Z",
+    "summary": "Who needs fireworks when you have all these rockstar birthday candles to light up the night? Continue reading…",
     "image": null
   },
   {
@@ -69,6 +204,24 @@
     "url": "https://loudwire.com/hall-pass-cash-2026/",
     "publishedAt": "2026-07-01T10:00:25.000Z",
     "summary": "Wanna win a $500 prepaid Visa Gift Card to help you prep for a new school year? Continue reading…",
+    "image": null
+  },
+  {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMilAFBVV95cUxOazZleTd0bmlKb0lYZ3hINmt3NHJlLVc2MThIVG45ZG5WT0w4YWYydi10UGdfWGhaLTkwU3FFMG1MQktVU1BKMVBlUlVSTkh2RXJzOHpkU1dyY1hfNklfcDVTN2NKZGtrZ1RydDdsb1VpY0w1bWdoWTBZRkNCZFJSQ1Q0djFDWElDRlVHNVEzV2syMmc5?oc=5",
+    "source": "kerrang",
+    "title": "Live review: My Chemical Romance, Liverpool Anfield - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOazZleTd0bmlKb0lYZ3hINmt3NHJlLVc2MThIVG45ZG5WT0w4YWYydi10UGdfWGhaLTkwU3FFMG1MQktVU1BKMVBlUlVSTkh2RXJzOHpkU1dyY1hfNklfcDVTN2NKZGtrZ1RydDdsb1VpY0w1bWdoWTBZRkNCZFJSQ1Q0djFDWElDRlVHNVEzV2syMmc5?oc=5",
+    "publishedAt": "2026-07-01T10:00:00.000Z",
+    "summary": "Live review: My Chemical Romance, Liverpool Anfield Kerrang!",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRzQxQnlvcW1nT0pVWlpVUTRmQlJwU3kwM3dLWWtkQmhNNFdDdmc1dzNjUTZBc2xjZmJnQTM0Ui01X2NhUC1NYVkxT1NIUlNlSW5kQktDb3M1S0prdFR3dEgtbXJpbVRMb1huTEk1U2tYaU1iaWppNE54cXNNc2I5Ul8xaHF2RE1qZ1ItUno5VEZYeTc2TG9nV1JFZWFCNGdzQ0pGM0V0SVNKTUZIMmI0VHJfbmhOb0RFWWhrUGw0SHBiSi1wMjRvdjNZbVBzdzVUYzNCTXRWenpKZw?oc=5",
+    "source": "nme",
+    "title": "Mick Jagger tells us it was \"very easy\" working with Paul McCartney on The Rolling Stones' 'Foreign Tongues' - NME",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRzQxQnlvcW1nT0pVWlpVUTRmQlJwU3kwM3dLWWtkQmhNNFdDdmc1dzNjUTZBc2xjZmJnQTM0Ui01X2NhUC1NYVkxT1NIUlNlSW5kQktDb3M1S0prdFR3dEgtbXJpbVRMb1huTEk1U2tYaU1iaWppNE54cXNNc2I5Ul8xaHF2RE1qZ1ItUno5VEZYeTc2TG9nV1JFZWFCNGdzQ0pGM0V0SVNKTUZIMmI0VHJfbmhOb0RFWWhrUGw0SHBiSi1wMjRvdjNZbVBzdzVUYzNCTXRWenpKZw?oc=5",
+    "publishedAt": "2026-07-01T09:14:51.000Z",
+    "summary": "Mick Jagger tells us it was \"very easy\" working with Paul McCartney on The Rolling Stones' 'Foreign Tongues' NME",
     "image": null
   },
   {
@@ -90,6 +243,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTUdTTUJvMnFVQkhrQWZ3RnVEUnp5VlczbG5aT0ltVnVlUU43bUxZdHVvQkt3OHBsNmZKZnZ5Y0NrTk01MGo0aHJDUkduNEdzMkQ3NmtGWVdGNng4ZUNoYVRoQ2pLUGJ6LVRBTHFuLUVaaGtxTFJRRDZIRlhvX0JWVVNHM1dJNEZPU3ViZnlDbUREWklUdGdTRkVkaUtuR2tUR3NBbW1IX1BRQ1ZmZXZ3ZGM2NzdoeUc5SHhORFU2U1RrajRmTV9UVTBBZ242YXNvcWRXM0JQSE1uUk0?oc=5",
+    "source": "nme",
+    "title": "The Cure’s Robert Smith initially turned down Rolling Stones collaboration: “I wasn’t really prepared for it” - NME",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTUdTTUJvMnFVQkhrQWZ3RnVEUnp5VlczbG5aT0ltVnVlUU43bUxZdHVvQkt3OHBsNmZKZnZ5Y0NrTk01MGo0aHJDUkduNEdzMkQ3NmtGWVdGNng4ZUNoYVRoQ2pLUGJ6LVRBTHFuLUVaaGtxTFJRRDZIRlhvX0JWVVNHM1dJNEZPU3ViZnlDbUREWklUdGdTRkVkaUtuR2tUR3NBbW1IX1BRQ1ZmZXZ3ZGM2NzdoeUc5SHhORFU2U1RrajRmTV9UVTBBZ242YXNvcWRXM0JQSE1uUk0?oc=5",
+    "publishedAt": "2026-07-01T07:36:35.000Z",
+    "summary": "The Cure’s Robert Smith initially turned down Rolling Stones collaboration: “I wasn’t really prepared for it” NME",
+    "image": null
+  },
+  {
     "id": "louder-than-war-https://louderthanwar.com/bristol-sounds-2026-super-furry-animals-festival-review/",
     "source": "louder-than-war",
     "title": "Bristol Sounds 2026: Super Furry Animals – Festival Review",
@@ -99,9 +261,18 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMimAFBVV95cUxQd0N3Tkg0Zm5KYnF4bkZPYmlBTUxiTmxHNERKX3lHdm5aTllPM21FaWdkYm4tY0ZVWXdiV0dNQnNlYU5OTFZPN0ppWFl5YjVIY0MtSEl1S0d2eG5BYzkzVTVNUExpd2VIaFF6TlE1Q2ZBdm5pd2dYNmVZeTBHOTFtT0JnUFQ1RGtOcDU3WnRVS3lySE5ZRGlNdA?oc=5",
+    "source": "nme",
+    "title": "Guitarist Bob Britt explains exit from Bob Dylan’s band - NME",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd0N3Tkg0Zm5KYnF4bkZPYmlBTUxiTmxHNERKX3lHdm5aTllPM21FaWdkYm4tY0ZVWXdiV0dNQnNlYU5OTFZPN0ppWFl5YjVIY0MtSEl1S0d2eG5BYzkzVTVNUExpd2VIaFF6TlE1Q2ZBdm5pd2dYNmVZeTBHOTFtT0JnUFQ1RGtOcDU3WnRVS3lySE5ZRGlNdA?oc=5",
+    "publishedAt": "2026-07-01T06:26:16.000Z",
+    "summary": "Guitarist Bob Britt explains exit from Bob Dylan’s band NME",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/rush-postpones-shows-geddy-lee-laryngitis-and-bronchitis-1235587278/",
     "source": "rolling-stone",
-    "title": "Rush Postpones 2 Shows After Geddy Lee Diagnosed With Laryngitis and Bronchitis",
+    "title": "Rush Postpone Two Shows After Geddy Lee Diagnosed With Laryngitis and Bronchitis",
     "url": "https://www.rollingstone.com/music/music-news/rush-postpones-shows-geddy-lee-laryngitis-and-bronchitis-1235587278/",
     "publishedAt": "2026-07-01T04:22:30.000Z",
     "summary": "The band pushed back two dates at Dickies Arena in Fort Worth, Texas",
@@ -113,61 +284,7 @@
     "title": "Chris Brown Must Pay Housekeeper $13 Million Over Dog-Mauling Attack",
     "url": "https://www.rollingstone.com/music/music-news/chris-brown-dog-attack-housekeeper-verdict-13-million-1235585198/",
     "publishedAt": "2026-07-01T01:53:43.000Z",
-    "summary": "The woman was attacked by a security dog at the singer's Los Angeles mansion in 2020",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/media/podcasts/lauryn-hill-2026-bet-awards-tribute-pop-shop-podcast-1236285332/",
-    "source": "billboard",
-    "title": "Lauryn Hill’s Joyful, Joyful Celebration & More Lessons From the 2026 BET Awards",
-    "url": "https://www.billboard.com/media/podcasts/lauryn-hill-2026-bet-awards-tribute-pop-shop-podcast-1236285332/",
-    "publishedAt": "2026-07-01T00:54:43.000Z",
-    "summary": "On the new Billboard Pop Shop Podcast, Katie & Keith are talking about what other awards shows could learn from Sunday's show.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/mexico-ecuador-world-cup-game-livestream-soccer-free-online-1236285566/",
-    "source": "billboard",
-    "title": "Mexico vs. Ecuador World Cup Livestream: Watch the Knockout Round Soccer Match Online Free",
-    "url": "https://www.billboard.com/culture/product-recommendations/mexico-ecuador-world-cup-game-livestream-soccer-free-online-1236285566/",
-    "publishedAt": "2026-07-01T00:29:47.000Z",
-    "summary": "There are ways to find a live feed of the Mexico vs. Ecuador game online, including ways to livestream the Round of 32 matchup for free.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/chris-brown-dog-attack-verdict-housekeeper-wins-13-million/",
-    "source": "billboard",
-    "title": "Chris Brown Hit With $13 Million Verdict in Housekeeper Dog Attack Trial",
-    "url": "https://www.billboard.com/pro/chris-brown-dog-attack-verdict-housekeeper-wins-13-million/",
-    "publishedAt": "2026-07-01T00:18:35.000Z",
-    "summary": "Maria Avila was mauled by a 200-pound dog while working at the star's California home in 2020.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/lupe-fiasco-kendrick-lamar-hundreds-better-rappers-1236285284/",
-    "source": "billboard",
-    "title": "Lupe Fiasco Claims There Are ‘Hundreds’ of Rappers Better Than Kendrick Lamar: ‘I’ll Name ‘Em’",
-    "url": "https://www.billboard.com/music/rb-hip-hop/lupe-fiasco-kendrick-lamar-hundreds-better-rappers-1236285284/",
-    "publishedAt": "2026-07-01T00:16:24.000Z",
-    "summary": "The Chicago MC thinks there are rappers who are better lyricists than their mainstream counterparts.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/indie-venue-of-the-month-june-2026-cains-ballroom-tulsa/",
-    "source": "billboard",
-    "title": "From ‘Dime-a-Dance’ to Hosting U2 & Bob Dylan: How Cain’s Ballroom in Tulsa Has Endured for Over a Century",
-    "url": "https://www.billboard.com/pro/indie-venue-of-the-month-june-2026-cains-ballroom-tulsa/",
-    "publishedAt": "2026-07-01T00:09:31.000Z",
-    "summary": "Starting as a dance academy, the venue went through various owners before getting new life under the stewardship of a local family.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/pop/madonna-preview-confessions-album-livestream-1236285561/",
-    "source": "billboard",
-    "title": "Madonna Gifting Fans an Early Listen of ‘Confessions II’ Album Through Thursday Livestream: All the Details",
-    "url": "https://www.billboard.com/music/pop/madonna-preview-confessions-album-livestream-1236285561/",
-    "publishedAt": "2026-07-01T00:01:50.000Z",
-    "summary": "Madonna will sit down with Bob the Drag Queen, Stuart Price & her daughter Lola Leon on the \"iHeartRadio and TikTok Live Premiere.\"",
+    "summary": "The woman was attacked by a security dog at the singer’s Los Angeles mansion in 2020",
     "image": null
   },
   {
@@ -270,30 +387,12 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/bob-dylan-new-guitar-player-1235586666/",
-    "source": "rolling-stone",
-    "title": "Bob Dylan Hired a New Guitar Player, but Big Questions Linger",
-    "url": "https://www.rollingstone.com/music/music-features/bob-dylan-new-guitar-player-1235586666/",
-    "publishedAt": "2026-06-30T15:11:17.000Z",
-    "summary": "Up until this week, Dylan’s new guitarist, Joel Paterson, had a weekly Monday-night gig at the 150-seat Green Mill Cocktail Lounge in Chicago",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMisAFBVV95cUxPRjl3UHFUWmduZXBia3FEZHAySHA4U01LOEdPSGRrcEJrc0FINEVhZzgtS2JnVGI2Zl9vS0lDNkRTZEFJdG1tODRwaHMyUnFJMmxVNTBpVExHcUNWUDc1SUJ0N0Y4UVQ3eVRmNEwxYW1yM3ZzTDhJOU1Xa0VTQ2xjalpwSTFqdng4UU9OZ1lBV3AxWVhwRHpSbTFvNmxNc0l6TUNIWk9MN3RKeXFDWnN3dg?oc=5",
     "source": "nme",
     "title": "Muse are \"trying to build a spaceship\" for 2026 UK and European arena tour - NME",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRjl3UHFUWmduZXBia3FEZHAySHA4U01LOEdPSGRrcEJrc0FINEVhZzgtS2JnVGI2Zl9vS0lDNkRTZEFJdG1tODRwaHMyUnFJMmxVNTBpVExHcUNWUDc1SUJ0N0Y4UVQ3eVRmNEwxYW1yM3ZzTDhJOU1Xa0VTQ2xjalpwSTFqdng4UU9OZ1lBV3AxWVhwRHpSbTFvNmxNc0l6TUNIWk9MN3RKeXFDWnN3dg?oc=5",
     "publishedAt": "2026-06-30T14:51:57.000Z",
     "summary": "Muse are \"trying to build a spaceship\" for 2026 UK and European arena tour NME",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/peter-gabriel-new-song-i-belong-to-the-sky-1235586551/",
-    "source": "rolling-stone",
-    "title": "Peter Gabriel Recalls Early-Eighties Synth Sound on New ‘I Belong to the Sky’",
-    "url": "https://www.rollingstone.com/music/music-news/peter-gabriel-new-song-i-belong-to-the-sky-1235586551/",
-    "publishedAt": "2026-06-30T14:38:25.000Z",
-    "summary": "Song will appear on artist’s upcoming o\\i album",
     "image": null
   },
   {
@@ -315,39 +414,12 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/jay-z-444-bonus-tracks-streaming-services-1235586595/",
-    "source": "rolling-stone",
-    "title": "Jay-Z’s ‘4:44’ Bonus Tracks Are Finally Available on All Streaming Services",
-    "url": "https://www.rollingstone.com/music/music-news/jay-z-444-bonus-tracks-streaming-services-1235586595/",
-    "publishedAt": "2026-06-30T14:03:27.000Z",
-    "summary": "The three songs — including collaborations with James Blake and Blue Ivy Carter — were previously only on Tidal",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/dave-grohl-perfect-album-pixies-surfer-rosa/",
-    "source": "loudwire",
-    "title": "The Late ‘80s Album Dave Grohl Thinks Is ‘Perfect’",
-    "url": "https://loudwire.com/dave-grohl-perfect-album-pixies-surfer-rosa/",
-    "publishedAt": "2026-06-30T13:27:39.000Z",
-    "summary": "Dave Grohl shares the Pixies album he thinks is 'perfect' and he explains why it made such an impact on him. Continue reading…",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/news/billy-strings-announces-new-album-so-much-for-goodbyes/",
     "source": "pitchfork",
     "title": "Billy Strings Announces New Album So Much for Goodbyes",
     "url": "https://pitchfork.com/news/billy-strings-announces-new-album-so-much-for-goodbyes/",
     "publishedAt": "2026-06-30T13:17:21.000Z",
     "summary": "The bluegrass star's fifth project was produced by T Bone Burnett",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/weekend-rock-songs/",
-    "source": "loudwire",
-    "title": "20 Great 'Weekend' Rock Songs",
-    "url": "https://loudwire.com/weekend-rock-songs/",
-    "publishedAt": "2026-06-30T12:50:12.000Z",
-    "summary": "For those living the Monday to Friday work grind, these songs are your end-of-week soundtrack! Continue reading…",
     "image": null
   },
   {
@@ -423,48 +495,12 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMi0gFBVV95cUxOa2UtUWszSXpjd1R5cENHSGlDYVI3MHRPOE1vNXNfQnVzN2JkOVFMZ0FMcnhpRW1sX24zUTdvZDNXV3EtS05QaDhvQkc0UGEtazhiVmNSV0VHMmFHR29wOXJVeHNwRTBpS1lhSHpRTENqcEFueVVfUEFDZm5vYzRzWnRoMHBHbGVnai1VZmlFanlYb1hScHo5bHhWSnllZjdEYlBPQ0xGTHBWelFvMGRXcDR0UDlxaWx4R3c4TVE4VlNUV3V2ZDNqWWllS1g1Mk1Da1E?oc=5",
-    "source": "nme",
-    "title": "Lily Allen defends \"artistic choice\" after criticism of 'West End Girl' tour: \"I'm extremely proud of it\" - NME",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOa2UtUWszSXpjd1R5cENHSGlDYVI3MHRPOE1vNXNfQnVzN2JkOVFMZ0FMcnhpRW1sX24zUTdvZDNXV3EtS05QaDhvQkc0UGEtazhiVmNSV0VHMmFHR29wOXJVeHNwRTBpS1lhSHpRTENqcEFueVVfUEFDZm5vYzRzWnRoMHBHbGVnai1VZmlFanlYb1hScHo5bHhWSnllZjdEYlBPQ0xGTHBWelFvMGRXcDR0UDlxaWx4R3c4TVE4VlNUV3V2ZDNqWWllS1g1Mk1Da1E?oc=5",
-    "publishedAt": "2026-06-30T07:29:21.000Z",
-    "summary": "Lily Allen defends \"artistic choice\" after criticism of 'West End Girl' tour: \"I'm extremely proud of it\" NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMi_AFBVV95cUxObUdKOW1VS1lueGE3c21nSDBQd3U4emRNVEI3RU9malBWdmVNazVONjRuMVhjeFh1Vkp0UWt2X3JINkpwdldsb1ptSHMzbXB6UHJCaFUzZGNXT3ZaQk9iUlAxTVpRajV1OTUwa29rdm1Fck5rXzV3TzNqYUNIak94RzB3WHJycGtEbzloWERpRHFjYWNCdHBUQ0d3SEN0bHJrcVJEZTdfMS1rUWdBMGRPMXVXNDdhLWYzSzBBVW1IVWNMYl9YR1owVDlmSUp1TVpOVlZSZndXQ3NaYmpxSmFTYktTRjZsUUJpWHd5RWJmVURidzczbnFtVkNXdjI?oc=5",
-    "source": "nme",
-    "title": "Queens Of The Stone Age bring back 'Era Vulgaris' deep cuts as they kick European tour with System Of A Down – here's what they played - NME",
-    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxObUdKOW1VS1lueGE3c21nSDBQd3U4emRNVEI3RU9malBWdmVNazVONjRuMVhjeFh1Vkp0UWt2X3JINkpwdldsb1ptSHMzbXB6UHJCaFUzZGNXT3ZaQk9iUlAxTVpRajV1OTUwa29rdm1Fck5rXzV3TzNqYUNIak94RzB3WHJycGtEbzloWERpRHFjYWNCdHBUQ0d3SEN0bHJrcVJEZTdfMS1rUWdBMGRPMXVXNDdhLWYzSzBBVW1IVWNMYl9YR1owVDlmSUp1TVpOVlZSZndXQ3NaYmpxSmFTYktTRjZsUUJpWHd5RWJmVURidzczbnFtVkNXdjI?oc=5",
-    "publishedAt": "2026-06-30T06:36:23.000Z",
-    "summary": "Queens Of The Stone Age bring back 'Era Vulgaris' deep cuts as they kick European tour with System Of A Down – here's what they played NME",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/gerard-starkie-before-the-calm-acoustic-album-review/",
     "source": "louder-than-war",
     "title": "Gerard Starkie: Before The Calm Acoustic – album review",
     "url": "https://louderthanwar.com/gerard-starkie-before-the-calm-acoustic-album-review/",
     "publishedAt": "2026-06-29T21:29:50.000Z",
     "summary": "Album Review Gerard Starkie Before The Calm Acoustic (Lupine Records) Limited edition LP | DL – DL available next Bandcamp Friday Vinyl released 30/06/26 Former frontman with Witness, re-records their debut album as a solo acoustic project. Dan O’Farrell reviews. It must have been 1999 when I first heard Witness. I remember flicking idly through […] The post Gerard Starkie: Before The Calm Acoustic – album review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/better-five-finger-death-punch-album-american-capitalist-vs-war-is-the-answer/",
-    "source": "loudwire",
-    "title": "Better FFDP Album - 'American Capitalist' vs. 'War Is the Answer'",
-    "url": "https://loudwire.com/better-five-finger-death-punch-album-american-capitalist-vs-war-is-the-answer/",
-    "publishedAt": "2026-06-29T20:11:27.000Z",
-    "summary": "Vote in Chuck's Fight Club on Loudwire Nights to determine the better of two classic Five Finger Death Punch albums. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQ3lhWURVYmFsTExDSVpWbGUtOFFNSzM2Z0R2aW5jNU1FSTdDVUFxeUxsMEJHbTBRT0xGTGVaNjdYOVdqdHR0VWlxY1BEUTMwSlhIbjJvbWMwZG1rYmpoYkpqRjNyUVdoVWhLYTBhNllEZFFidVlPOHJHSmFnV182Vjd6ZVU4LWtwZXBPUGREeTFkcFQyNmNCRm1FY0dvYjVLQjBpOE9yZnR0SkJrRXlReEY5bEZxNk1NLVVtaG1aUHNJeGVaR3k5ZGpMVk5sUmFXSTdzb1NtU05xdw?oc=5",
-    "source": "nme",
-    "title": "Metallica play cover of Tom Jones’ ‘Delilah’ at Principality in Cardiff – despite song being banned in venue - NME",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQ3lhWURVYmFsTExDSVpWbGUtOFFNSzM2Z0R2aW5jNU1FSTdDVUFxeUxsMEJHbTBRT0xGTGVaNjdYOVdqdHR0VWlxY1BEUTMwSlhIbjJvbWMwZG1rYmpoYkpqRjNyUVdoVWhLYTBhNllEZFFidVlPOHJHSmFnV182Vjd6ZVU4LWtwZXBPUGREeTFkcFQyNmNCRm1FY0dvYjVLQjBpOE9yZnR0SkJrRXlReEY5bEZxNk1NLVVtaG1aUHNJeGVaR3k5ZGpMVk5sUmFXSTdzb1NtU05xdw?oc=5",
-    "publishedAt": "2026-06-29T19:26:33.000Z",
-    "summary": "Metallica play cover of Tom Jones’ ‘Delilah’ at Principality in Cardiff – despite song being banned in venue NME",
     "image": null
   },
   {
@@ -564,15 +600,6 @@
     "url": "https://louderthanwar.com/pete-townshends-lifehouse-the-concept-that-led-to-whos-next-and-beyond-by-ian-paul-sharp-book-review/",
     "publishedAt": "2026-06-28T06:57:50.000Z",
     "summary": "Pete Townshend’s Lifehouse: The concept that led to Who’s Next and beyond by Ian Paul Sharp Out now Lifelong Who fan and music writer/broadcaster Ian Paul Sharp takes us on a fascinating trip back to a time when the Who were at their peak, musically and in terms of global success. In the wake of […] The post Pete Townshend’s Lifehouse: The concept that led to Who’s Next and beyond by Ian Paul Sharp – Book Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/news/future-announces-new-album-the-real-me/",
-    "source": "pitchfork",
-    "title": "Future Reveals New Album The Real Me and First Single",
-    "url": "https://pitchfork.com/news/future-announces-new-album-the-real-me/",
-    "publishedAt": "2026-06-26T16:24:24.000Z",
-    "summary": "So that’s what Spotify has been teasing the last week",
     "image": null
   },
   {
@@ -684,39 +711,12 @@
     "image": null
   },
   {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KVFVhNXRPaGxNNlBacFJkSFpubnhrd0c0LWFGTWE4UXVEbVJlZ3VGMW1wVDNfSDhkX2FiRHhLMXc1N2V5bldWSVl3UGJSQXJGX25senAtSjQ5bHhUdDZmSXQwMk1vanM?oc=5",
-    "source": "kerrang",
-    "title": "Album review: Muse – The WOW! Signal - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KVFVhNXRPaGxNNlBacFJkSFpubnhrd0c0LWFGTWE4UXVEbVJlZ3VGMW1wVDNfSDhkX2FiRHhLMXc1N2V5bldWSVl3UGJSQXJGX25senAtSjQ5bHhUdDZmSXQwMk1vanM?oc=5",
-    "publishedAt": "2026-06-25T10:30:00.000Z",
-    "summary": "Album review: Muse – The WOW! Signal Kerrang!",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/features/the-cure-best-albums-as-chosen-by-the-bands-they-influenced-155180/",
     "source": "uncut",
     "title": "“They did things on their own terms”: The Cure’s best albums, as chosen by the bands they influenced",
     "url": "https://www.uncut.co.uk/features/the-cure-best-albums-as-chosen-by-the-bands-they-influenced-155180/",
     "publishedAt": "2026-06-24T15:46:12.000Z",
     "summary": "Members of Sonic Youth, Slowdive, Dinosaur Jr, Low, Mogwai, Galaxie 500 and Chvrches salute Robert Smith's goth titans",
-    "image": null
-  },
-  {
-    "id": "uncut-https://www.uncut.co.uk/features/interviews/deep-purple-reign-continues-the-idea-of-stopping-that-doesnt-compute-155176/",
-    "source": "uncut",
-    "title": "Deep Purple’s reign continues: “The idea of stopping, that doesn’t compute”",
-    "url": "https://www.uncut.co.uk/features/interviews/deep-purple-reign-continues-the-idea-of-stopping-that-doesnt-compute-155176/",
-    "publishedAt": "2026-06-24T09:50:17.000Z",
-    "summary": "Poised to release their “urgent” 24th album Splat!, the two Ians – Paice and Gillan – squish those retirement rumours",
-    "image": null
-  },
-  {
-    "id": "uncut-https://www.uncut.co.uk/news/listen-to-pj-harveys-new-single-voyager-155173/",
-    "source": "uncut",
-    "title": "Listen to PJ Harvey’s new single, “Voyager”",
-    "url": "https://www.uncut.co.uk/news/listen-to-pj-harveys-new-single-voyager-155173/",
-    "publishedAt": "2026-06-24T08:33:01.000Z",
-    "summary": "Space... the final frontier!",
     "image": null
   }
 ]
