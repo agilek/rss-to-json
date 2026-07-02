@@ -1,5 +1,68 @@
 [
   {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/the-offspring-taylor-swifts-love-story-cover-1235588188/",
+    "source": "rolling-stone",
+    "title": "Can This Cover of Taylor Swift’s ‘Love Story’ Break Mosh Pit Records?",
+    "url": "https://www.rollingstone.com/music/music-news/the-offspring-taylor-swifts-love-story-cover-1235588188/",
+    "publishedAt": "2026-07-02T23:00:00.000Z",
+    "summary": "The Offspring is trying to make history with their version of the famous pop song",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/weezer-gold-album-interview-tour-pinkerton-anniversary-1235588599/",
+    "source": "rolling-stone",
+    "title": "How Weezer Got ‘Violent’ on New LP: ‘Less Talk, More Rock’",
+    "url": "https://www.rollingstone.com/music/music-features/weezer-gold-album-interview-tour-pinkerton-anniversary-1235588599/",
+    "publishedAt": "2026-07-02T23:00:00.000Z",
+    "summary": "Rivers Cuomo, Patrick Wilson, Brian Bell, and Scott Shriner go deep on The Gold Album",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/wilco-breeders-yo-yo-record/",
+    "source": "pitchfork",
+    "title": "Wilco and the Breeders Now Hold a Yo-Yo World Record",
+    "url": "https://pitchfork.com/story/wilco-breeders-yo-yo-record/",
+    "publishedAt": "2026-07-02T22:46:23.000Z",
+    "summary": "The bands were among the 5,000 people who yo-yoed at Solid Sound Festival last Saturday, breaking the record for most simultaneous spinners",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/politics/50-cent-mayor-zohran-mamdani-taylor-swift-wedding-no-beef-1236286110/",
+    "source": "billboard",
+    "title": "50 Cent Tells Mayor Mamdani to Focus on Taylor Swift Wedding Instead of Him: ‘We Don’t Have Beef’",
+    "url": "https://www.billboard.com/culture/politics/50-cent-mayor-zohran-mamdani-taylor-swift-wedding-no-beef-1236286110/",
+    "publishedAt": "2026-07-02T22:27:32.000Z",
+    "summary": "The Queens rapper responded to a recent interview the New York City mayor did with Complex, where he said their beef was \"one-sided.\"",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/taylor-swift-travis-kelce-charities-react-wedding-donation-1236287100/",
+    "source": "billboard",
+    "title": "Taylor Swift & Travis Kelce Thanked by More Than a Dozen Charities Following $26 Million Pre-Wedding Donation: ‘Kindness Never Goes Out of Style’",
+    "url": "https://www.billboard.com/music/music-news/taylor-swift-travis-kelce-charities-react-wedding-donation-1236287100/",
+    "publishedAt": "2026-07-02T22:24:19.000Z",
+    "summary": "\"Thank you for making our mission a part of your love story,\" wrote New York Cares.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/tv-film/ashley-tisdale-toxic-mom-drama-become-netflix-series-1236287046/",
+    "source": "billboard",
+    "title": "Ashley Tisdale to Turn ‘Toxic Mom’ Drama Into a Netflix Series",
+    "url": "https://www.billboard.com/culture/tv-film/ashley-tisdale-toxic-mom-drama-become-netflix-series-1236287046/",
+    "publishedAt": "2026-07-02T21:21:59.000Z",
+    "summary": "Ali Wong and Sabrina Jalees are also involved.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/judge-punts-copyright-lawsuit-bad-bunny-karol-g/",
+    "source": "billboard",
+    "title": "Judge Won’t Decide Massive Reggaeton Copyright Lawsuit Against Bad Bunny, Karol G & More",
+    "url": "https://www.billboard.com/pro/judge-punts-copyright-lawsuit-bad-bunny-karol-g/",
+    "publishedAt": "2026-07-02T21:17:40.000Z",
+    "summary": "A federal judge says only a jury can decide whether reggaeton duo Steely & Clevie invented the genre’s signature dembow rhythm.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/music-news/pretty-lights-new-album-a-trip-through-time-fantastic-1236287015/",
     "source": "billboard",
     "title": "Pretty Lights Announces First Album Since 2013, 45-Song ‘A Trip Thru Time Fantastic’",
@@ -60,42 +123,6 @@
     "url": "https://www.billboard.com/music/music-news/taylor-swift-travis-kelce-wedding-schedule-revealed-permit-1236286906/",
     "publishedAt": "2026-07-02T19:34:04.000Z",
     "summary": "The celebration at Madison Square Garden might go all night long.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/video/miles-caton-has-music-coming-soon-what-fans-can-expect/",
-    "source": "billboard",
-    "title": "Miles Caton Reveals He Has Music Coming Soon & What Fans Can Expect From His Sound | BET Awards 2026",
-    "url": "https://www.billboard.com/video/miles-caton-has-music-coming-soon-what-fans-can-expect/",
-    "publishedAt": "2026-07-02T19:30:53.000Z",
-    "summary": "Miles Caton chatted with Billboard’s Kyle Denis on the red carpet at the BET Awards 2026.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/latin/fourth-of-july-latin-playlist-1235108038/",
-    "source": "billboard",
-    "title": "The Ultimate Fourth of July Latin Playlist: Thalia, Bad Bunny & More",
-    "url": "https://www.billboard.com/music/latin/fourth-of-july-latin-playlist-1235108038/",
-    "publishedAt": "2026-07-02T19:26:46.000Z",
-    "summary": "These 15 songs will help inspire you to self-liberation.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/solo-leveling-vol-25-tops-billboard-japan-book-hot-100-1236286869/",
-    "source": "billboard",
-    "title": "’Solo Leveling’ Vol. 25 Tops Billboard Japan Book Hot 100 as Paperback Release Lifts ‘Naruse’ Title to No. 2",
-    "url": "https://www.billboard.com/music/chart-beat/solo-leveling-vol-25-tops-billboard-japan-book-hot-100-1236286869/",
-    "publishedAt": "2026-07-02T18:28:23.000Z",
-    "summary": "Last week's No. 1, the latest volume of the Sunday GX manga adaptation of Kusuriya no Hitorigoto (The Apothecary Diaries), drops to No. 3.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/mexico-england-2026-world-cup-game-oasis-mana-predictions-1236286843/",
-    "source": "billboard",
-    "title": "Oasis’ Liam Gallagher Predicts Score of Mexico-England World Cup Game: Here’s How Maná’s Fher Olvera Responded",
-    "url": "https://www.billboard.com/music/music-news/mexico-england-2026-world-cup-game-oasis-mana-predictions-1236286843/",
-    "publishedAt": "2026-07-02T18:23:13.000Z",
-    "summary": "\"We'll see on Sunday how it goes, dude,\" the Mexican rocker responded to the Brit in a video.",
     "image": null
   },
   {
@@ -252,15 +279,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/afroman-trial-free-speech-hero-interview-1235577509/",
-    "source": "rolling-stone",
-    "title": "‘Don’t Mess With a Comedic Rapper’: How Afroman Became a Free-Speech Hero",
-    "url": "https://www.rollingstone.com/music/music-features/afroman-trial-free-speech-hero-interview-1235577509/",
-    "publishedAt": "2026-07-02T13:00:00.000Z",
-    "summary": "The “Because I Got High” rapper was a beloved star of the early 2000s — until a raid on his home and a colorful trial turned him into an unlikely First Amendment warrior",
-    "image": null
-  },
-  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMikAFBVV95cUxOM0F0LS1kSHVtYXhTcUJoNHJTQS13cDRKX1dGZ1VaSjNNT2lIX2ZLcHVjVmNxYWVMRFBucjFGaDVBX2JpT2VsNmFZWWlwUUNUTS0wX1d4ZnQ2VnJxOWhpVTRfOWJiRHktMzVaUW5od1lMQ25JYzNGd05rMjBZY0g1XzBISmhsbWtlZ0RDLVZtLW4?oc=5",
     "source": "kerrang",
     "title": "Album review: Witchsorrow – The Devil And All His Works - Kerrang!",
@@ -330,15 +348,6 @@
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9nVVpVY3JHeXlTS0JJMWItaENvM0JpNVVqeUgyQ3hJeUtkaVI2MkNiSU1WYkFqYjNXZTlMOVVzRllRbU5HVmN3Q2JNSFU1TmVvazd4Z1RuZlJ1eWxMTDdKS1dEX1YyV0s4VU1lb1U2SDFKVDhLTVJBSXBDNA?oc=5",
     "publishedAt": "2026-07-02T07:01:30.000Z",
     "summary": "Madonna – 'Confessions II' review: Queen Of Pop digs deep on thrilling return to the dancefloor NME",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/lil-wayne-apologizes-no-show-concert-maine-1235587962/",
-    "source": "rolling-stone",
-    "title": "Lil Wayne Apologizes After Failing to Appear at His Own Concert: ‘I’m So Sorry’",
-    "url": "https://www.rollingstone.com/music/music-news/lil-wayne-apologizes-no-show-concert-maine-1235587962/",
-    "publishedAt": "2026-07-02T05:03:10.000Z",
-    "summary": "The rapper was a no-show at his 20 Years of Carter Classics stop in Maine",
     "image": null
   },
   {
@@ -663,15 +672,6 @@
     "url": "https://www.uncut.co.uk/reviews/live/wilco-billy-bragg-and-natalie-merchant-perform-mermaid-avenue-live-for-the-first-time-155221/",
     "publishedAt": "2026-06-29T15:39:18.000Z",
     "summary": "Their Woody Guthrie tribute is the highlight of the first night of Wilco’s Solid Sound Festival, also featuring Gang Of Four, Scott McCaughey, The Mini-Mekons and Billy Bragg solo",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/news/walton-goggins-boogies-with-julian-casablancas-strokes-going-shopping-video/",
-    "source": "pitchfork",
-    "title": "Walton Goggins Boogies With Julian Casablancas in New Strokes Video",
-    "url": "https://pitchfork.com/news/walton-goggins-boogies-with-julian-casablancas-strokes-going-shopping-video/",
-    "publishedAt": "2026-06-29T14:58:26.000Z",
-    "summary": "A bunch of clowns show up too",
     "image": null
   },
   {
