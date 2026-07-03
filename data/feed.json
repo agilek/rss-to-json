@@ -1,5 +1,59 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/music-news/hearts2hearts-interview-lemon-tang-1236287225/",
+    "source": "billboard",
+    "title": "Hearts2Hearts on Turning Up the Brightness With ‘Lemon Tang’ & The Art of Shining Together",
+    "url": "https://www.billboard.com/music/music-news/hearts2hearts-interview-lemon-tang-1236287225/",
+    "publishedAt": "2026-07-03T00:57:20.000Z",
+    "summary": "The eight members reflect on their global breakthrough and the summer they intend to soundtrack.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/taylor-swift-travis-kelce-wedding-rehearsal-dinner-guests-1235588737/",
+    "source": "rolling-stone",
+    "title": "Taylor Swift, Travis Kelce Rehearsal Dinner Guests Arrive: Jack Antonoff, Lena Dunham, and More",
+    "url": "https://www.rollingstone.com/music/music-news/taylor-swift-travis-kelce-wedding-rehearsal-dinner-guests-1235588737/",
+    "publishedAt": "2026-07-03T00:18:34.000Z",
+    "summary": "Abigail Anderson, Erin Andrews, and Charissa Thompson were also among the celebs descending upon MSG on Thursday",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/country/us-soccer-team-world-cup-ella-langley-choosin-texas-video-1236287144/",
+    "source": "billboard",
+    "title": "Watch U.S. Men’s Soccer Team Celebrate World Cup Knockout Win With Ella Langley’s ‘Choosin’ Texas’ Sing-Along",
+    "url": "https://www.billboard.com/music/country/us-soccer-team-world-cup-ella-langley-choosin-texas-video-1236287144/",
+    "publishedAt": "2026-07-02T23:52:56.000Z",
+    "summary": "“Nothing better than @ellalangleymusic after a win,” midfielder Weston McKennie writes alongside the video.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/jorja-smith-new-album/",
+    "source": "pitchfork",
+    "title": "Jorja Smith Announces New Album What Are The Odds",
+    "url": "https://pitchfork.com/story/jorja-smith-new-album/",
+    "publishedAt": "2026-07-02T23:40:11.000Z",
+    "summary": "The British singer’s third LP arrives August 21, and her new song with Wizkid is out now",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/scooter-braun-sydney-sweeney-relationship-timeline/",
+    "source": "billboard",
+    "title": "A Timeline of Scooter Braun & Sydney Sweeney’s Relationship",
+    "url": "https://www.billboard.com/lists/scooter-braun-sydney-sweeney-relationship-timeline/",
+    "publishedAt": "2026-07-02T23:31:30.000Z",
+    "summary": "The music executive & actress were spotted together shortly after Sweeney called off her engagement in 2025.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/gary-glitter-charged-sexual-abuse-another-girl/",
+    "source": "billboard",
+    "title": "British Singer Gary Glitter Charged With Sexually Abusing Another Young Girl",
+    "url": "https://www.billboard.com/pro/gary-glitter-charged-sexual-abuse-another-girl/",
+    "publishedAt": "2026-07-02T23:19:37.000Z",
+    "summary": "The 82-year-old “Rock and Roll” singer has repeatedly been convicted of pedophilia and is currently imprisoned for abusing three children in the 1970s.",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/the-offspring-taylor-swifts-love-story-cover-1235588188/",
     "source": "rolling-stone",
     "title": "Can This Cover of Taylor Swift’s ‘Love Story’ Break Mosh Pit Records?",
@@ -90,42 +144,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/art-of-kpop-demon-hunters-book-buy-shop-online-1236273063/",
-    "source": "billboard",
-    "title": "New Book Features Concept Art & Designs From ‘KPop Demon Hunters’: Here’s Where to Buy It Online",
-    "url": "https://www.billboard.com/culture/product-recommendations/art-of-kpop-demon-hunters-book-buy-shop-online-1236273063/",
-    "publishedAt": "2026-07-02T19:43:22.000Z",
-    "summary": "Available for preorder, the new art book is a must for fans and arrives Sept. 8.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/scooter-braun-leaves-hybe-board-of-directors/",
-    "source": "billboard",
-    "title": "Scooter Braun Departs HYBE’s Board of Directors",
-    "url": "https://www.billboard.com/pro/scooter-braun-leaves-hybe-board-of-directors/",
-    "publishedAt": "2026-07-02T19:43:01.000Z",
-    "summary": "Braun, who stepped down as CEO of HYBE America last July, will continue to serve as a senior advisor.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/executive-turntable-former-downtown-exec-joins-merlin/",
-    "source": "billboard",
-    "title": "Executive Turntable: Blake Duncan & Scott Hendricks Launch TAYCAN Entertainment",
-    "url": "https://www.billboard.com/lists/executive-turntable-former-downtown-exec-joins-merlin/",
-    "publishedAt": "2026-07-02T19:34:27.000Z",
-    "summary": "In this week's Executive Turntable, Harmen Hemminga joins Merlin from Downtown Music and Duncan Smith joins ROAM, bringing along clients Angine de Poitrine.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/taylor-swift-travis-kelce-wedding-schedule-revealed-permit-1236286906/",
-    "source": "billboard",
-    "title": "Taylor Swift & Travis Kelce’s Wedding Schedule Revealed in City Permit",
-    "url": "https://www.billboard.com/music/music-news/taylor-swift-travis-kelce-wedding-schedule-revealed-permit-1236286906/",
-    "publishedAt": "2026-07-02T19:34:04.000Z",
-    "summary": "The celebration at Madison Square Garden might go all night long.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-features/alex-amen-sun-of-amen-interview-1235565943/",
     "source": "rolling-stone",
     "title": "Alex Amen’s Sunshine Daydream",
@@ -141,6 +159,15 @@
     "url": "https://www.rollingstone.com/music/music-news/weird-al-yankovic-ai-commercial-1235588278/",
     "publishedAt": "2026-07-02T17:40:20.000Z",
     "summary": "In fact, Yankovic says he turned down “a nice pile of money” to do a commercial for an AI company",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeG4ycVAzNzl6MDZLY2hGM1JhVl9CcUpHRS1NYXRpNmF4a0VRd01UYy0zMmVlUXN4bmJZY2F1NzIzMFRTb002cFlsV3ExY2tPcGdrOUJfcU1XZlhxVTRNbUJ0WWxiMGJqNmlhZWZabGMtVk5aZkRlQUM3YmlLRU5BSUFlRk9JVmh6X1VXanpZazNBT0Viakd6OG1qRjNvTHpvOU42RC1Tb3dQNU9pRGg5TFVFcXlpLS1ERGpKaVN2Q3NUd2lmYm04S2JJWWpzeGJ1ck91cV9hVUVvNTZT?oc=5",
+    "source": "nme",
+    "title": "Wolf Alice share tender new song 'Gospel Oak' from 'The Clearing: B-sides' and share Finsbury Park stage times - NME",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeG4ycVAzNzl6MDZLY2hGM1JhVl9CcUpHRS1NYXRpNmF4a0VRd01UYy0zMmVlUXN4bmJZY2F1NzIzMFRTb002cFlsV3ExY2tPcGdrOUJfcU1XZlhxVTRNbUJ0WWxiMGJqNmlhZWZabGMtVk5aZkRlQUM3YmlLRU5BSUFlRk9JVmh6X1VXanpZazNBT0Viakd6OG1qRjNvTHpvOU42RC1Tb3dQNU9pRGg5TFVFcXlpLS1ERGpKaVN2Q3NUd2lmYm04S2JJWWpzeGJ1ck91cV9hVUVvNTZT?oc=5",
+    "publishedAt": "2026-07-02T17:34:32.000Z",
+    "summary": "Wolf Alice share tender new song 'Gospel Oak' from 'The Clearing: B-sides' and share Finsbury Park stage times NME",
     "image": null
   },
   {
@@ -231,15 +258,6 @@
     "url": "https://www.rollingstone.com/music/music-features/noah-kahan-manager-drew-simmons-interview-1235586441/",
     "publishedAt": "2026-07-02T14:23:27.000Z",
     "summary": "From working with James Brown to signing Chappell Roan, Drew Simmons’ “old-school” approach has proven to be a winning formula",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/eurovision-2027-canada-1235588059/",
-    "source": "rolling-stone",
-    "title": "Eurovision Welcomes Canada to Participate in 2027 Song Contest",
-    "url": "https://www.rollingstone.com/music/music-news/eurovision-2027-canada-1235588059/",
-    "publishedAt": "2026-07-02T14:21:10.000Z",
-    "summary": "North American country to join Australia and Israel as non-European competitors",
     "image": null
   },
   {
@@ -522,15 +540,6 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMikwFBVV95cUxQSklWNW8yaS1JYWo0eWRzcVFVMXRWTGVrMkRWZzVfQUlOWElVT29SYjlNYndkTC01MDY0bFQ5YUxDUFBOcUppZjgzREszemNzUHJ6Z1NJWVVzV21pQ2pSRE4yV3lWZ2tFaTJYNS1JTGZQT2lSaWVZaFVIU2hCVndIYi1WZXBDZ1ROUXNvTVJwYXhsa3c?oc=5",
-    "source": "nme",
-    "title": "Village People frontman Victor Willis dies, aged 74 - NME",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSklWNW8yaS1JYWo0eWRzcVFVMXRWTGVrMkRWZzVfQUlOWElVT29SYjlNYndkTC01MDY0bFQ5YUxDUFBOcUppZjgzREszemNzUHJ6Z1NJWVVzV21pQ2pSRE4yV3lWZ2tFaTJYNS1JTGZQT2lSaWVZaFVIU2hCVndIYi1WZXBDZ1ROUXNvTVJwYXhsa3c?oc=5",
-    "publishedAt": "2026-07-01T11:13:38.000Z",
-    "summary": "Village People frontman Victor Willis dies, aged 74 NME",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/aerial-salad-return-with-new-single-everybody-needs-somebody/",
     "source": "louder-than-war",
     "title": "Aerial Salad return with new single ‘Everybody Needs Somebody’",
@@ -654,15 +663,6 @@
     "url": "https://pitchfork.com/news/agriculture-detail-fall-us-tour/",
     "publishedAt": "2026-06-29T19:06:22.000Z",
     "summary": "The tour will make travel from the west to midwest, making stops in San Diego, Portland, Denver and more",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/news/this-is-lorelei-debasement-and-more-this-weeks-pitchfork-selects-playlist/",
-    "source": "pitchfork",
-    "title": "@, This Is Lorelei, deBasement, and More: This Week’s Pitchfork Selects Playlist",
-    "url": "https://pitchfork.com/news/this-is-lorelei-debasement-and-more-this-weeks-pitchfork-selects-playlist/",
-    "publishedAt": "2026-06-29T16:52:31.000Z",
-    "summary": "Our weekly playlist highlights songs that our writers, editors, and contributors are listening to on repeat",
     "image": null
   },
   {
