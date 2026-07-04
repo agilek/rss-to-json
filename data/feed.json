@@ -1,5 +1,50 @@
 [
   {
+    "id": "pitchfork-https://pitchfork.com/story/listen-to-beyonce-new-song-morning-dew-donk-bday-anniversary/",
+    "source": "pitchfork",
+    "title": "Listen to Beyoncé's New Song “Morning Dew (Donk)”",
+    "url": "https://pitchfork.com/story/listen-to-beyonce-new-song-morning-dew-donk-bday-anniversary/",
+    "publishedAt": "2026-07-04T15:02:48.000Z",
+    "summary": "The new single will appear on an upcoming 20th anniversary reissue of B'Day",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-lists/best-american-flag-album-covers-1235583538/",
+    "source": "rolling-stone",
+    "title": "Permanent Wave: 25 Album Covers That Brilliantly Use the American Flag",
+    "url": "https://www.rollingstone.com/music/music-lists/best-american-flag-album-covers-1235583538/",
+    "publishedAt": "2026-07-04T15:00:00.000Z",
+    "summary": "Revolutionary rap albums, rock classics, celebrations and protests",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/taylor-swift-wedding-guests-travis-kelce-interview-1235589192/",
+    "source": "rolling-stone",
+    "title": "Why Taylor Swift Invited 1,000 Guests to Her Wedding: ‘Everyone I’ve Ever Talked to’",
+    "url": "https://www.rollingstone.com/music/music-news/taylor-swift-wedding-guests-travis-kelce-interview-1235589192/",
+    "publishedAt": "2026-07-04T14:52:57.000Z",
+    "summary": "\"The only stressful weddings are the ones where you have a small amount [of guests] and people are on the bubble,\" the singer said last year",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/latin/danny-ocean-venezuela-aid-uplifting-moments-latin-music-1236287031/",
+    "source": "billboard",
+    "title": "Danny Ocean Rallies Aid for Venezuela on European Tour & More Uplifting Moments in Latin Music",
+    "url": "https://www.billboard.com/music/latin/danny-ocean-venezuela-aid-uplifting-moments-latin-music-1236287031/",
+    "publishedAt": "2026-07-04T14:00:00.000Z",
+    "summary": "Plus, Toñita receives the Key to Brooklyn, Becky G celebrates Seattle soccer culture and more.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/beyonce-surprise-new-song-morning-dew-donk-bday-reissue-1235589184/",
+    "source": "rolling-stone",
+    "title": "Beyoncé Delivers Fourth of July Fireworks With Surprise New Song ‘Morning Dew (Donk)’",
+    "url": "https://www.rollingstone.com/music/music-news/beyonce-surprise-new-song-morning-dew-donk-bday-reissue-1235589184/",
+    "publishedAt": "2026-07-04T13:56:04.000Z",
+    "summary": "The track, written by the singer, Pharrell Williams, The-Dream, and Darius Dixon, will appear on an upcoming 20th anniversary reissue of Beyoncé's B'Day, out on Beyoncé's birthday (September 4)",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/adam-sandler-taylor-swift-travis-kelce-wedding-officiant-1235589179/",
     "source": "rolling-stone",
     "title": "Adam Sandler as Wedding Officiant? Taylor Swift and Travis Kelce’s History With the Actor",
@@ -60,6 +105,15 @@
     "url": "https://loudwire.com/mistaken-patriotic-rock-songs/",
     "publishedAt": "2026-07-04T11:20:07.000Z",
     "summary": "There's more to the lyrics than just the chorus of these rock songs commonly mistaken for being patriotic! Continue reading…",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/rock-metal-songs-us-history/",
+    "source": "loudwire",
+    "title": "14 Rock + Metal Songs About U.S. History",
+    "url": "https://loudwire.com/rock-metal-songs-us-history/",
+    "publishedAt": "2026-07-04T11:00:21.000Z",
+    "summary": "Rock and metal songs provide a great musical foundation for events in U.S. history. Continue reading…",
     "image": null
   },
   {
@@ -216,48 +270,12 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/taylor-swift-travis-kelce-wedding-celebrity-attendees-1235588490/",
-    "source": "rolling-stone",
-    "title": "Selena Gomez, Lena Dunham, Sombr Celebrate Taylor Swift and Travis Kelce’s Wedding",
-    "url": "https://www.rollingstone.com/music/music-news/taylor-swift-travis-kelce-wedding-celebrity-attendees-1235588490/",
-    "publishedAt": "2026-07-03T21:44:10.000Z",
-    "summary": "Hundreds of A-list stars, celebrities, and athletes descended upon New York’s Madison Square Garden for the power couple's nuptials",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/pop/madonna-lola-leon-the-test-confessions-ii-interview-1236287600/",
-    "source": "billboard",
-    "title": "Madonna and Daughter Lola Leon Discuss ‘Confessions II’ Collab ‘The Test’: ‘A Very Magical Moment’",
-    "url": "https://www.billboard.com/music/pop/madonna-lola-leon-the-test-confessions-ii-interview-1236287600/",
-    "publishedAt": "2026-07-03T21:18:21.000Z",
-    "summary": "The track marks the mother-daughter duo's first musical team-up.",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/dolly-parton-thanks-taylor-swift-travis-kelce-donation-1235588909/",
-    "source": "rolling-stone",
-    "title": "Dolly Parton Thanks Taylor Swift and Travis Kelce for $2 Million Donation to Her Imagination Library",
-    "url": "https://www.rollingstone.com/music/music-country/dolly-parton-thanks-taylor-swift-travis-kelce-donation-1235588909/",
-    "publishedAt": "2026-07-03T18:15:54.000Z",
-    "summary": "\"I’m blown away and overjoyed with that gratitude,\" country legend says of being one of the beneficiaries of couple's $26 million pre-wedding donation",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSTBhTnZwcVYyNEs1TnRoeC05VnhLTzFmR1V5TmtZTXJZRzk5bXZtTm01N1BVX3llUzVpSXdzSTN4NzZqeTlQVGNnY2NkNlo2UW1zOUtheVM4Q0UyU0U0TXp1bVJMekRveV9TVTQwWERqZ2lEcVNyWDVoT0FZTno1R1gzV1Rqd0RCb2pTSWxmX2h0RmVCYkh3Z2k1UUJvNkR2RThrSDVoNk1GVmhrUDBBcWZHYVdHckNvV3phLVNHMWJ5Wk0?oc=5",
     "source": "nme",
     "title": "Muse’s Matt Bellamy talks plans to mark the 20th anniversary of ‘Black Holes & Revelations’ - NME",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSTBhTnZwcVYyNEs1TnRoeC05VnhLTzFmR1V5TmtZTXJZRzk5bXZtTm01N1BVX3llUzVpSXdzSTN4NzZqeTlQVGNnY2NkNlo2UW1zOUtheVM4Q0UyU0U0TXp1bVJMekRveV9TVTQwWERqZ2lEcVNyWDVoT0FZTno1R1gzV1Rqd0RCb2pTSWxmX2h0RmVCYkh3Z2k1UUJvNkR2RThrSDVoNk1GVmhrUDBBcWZHYVdHckNvV3phLVNHMWJ5Wk0?oc=5",
     "publishedAt": "2026-07-03T17:55:57.000Z",
     "summary": "Muse’s Matt Bellamy talks plans to mark the 20th anniversary of ‘Black Holes & Revelations’ NME",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/bob-vylan-bbc-defamation-lawsuit-glastonbury-1235588900/",
-    "source": "rolling-stone",
-    "title": "Bob Vylan to Sue BBC for Defamation Over Glastonbury Performance Reaction",
-    "url": "https://www.rollingstone.com/music/music-news/bob-vylan-bbc-defamation-lawsuit-glastonbury-1235588900/",
-    "publishedAt": "2026-07-03T17:06:29.000Z",
-    "summary": "\"Seeing the opportunity to remind them the power of the people that they are attempting to silence, we had no choice but to take on this fight,\" rap duo said Friday",
     "image": null
   },
   {
@@ -342,6 +360,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ3hsd1Vrd195UlR1QU9nTlE2NXpQVnZJa0dsZlpGbEFoUnk0NFlBeTRMZmJtRTNyMklkYVduT0FIUnBfZTNianJiQWZjQmQyOXMzOW5UQzlha2padzBYSW1XOHdVcWFIeE1yeTFnak95aGFFYmdoS2xVMFg0b3Ztd1gxNVJBWmpsSzdaNXZWQWxBUkJtVTdaU2d4cmVaUmthVzV2Q3k5OElyRFBS?oc=5",
+    "source": "nme",
+    "title": "Ed Gamble's Soundtrack Of My Life: David Bowie, Korn, Slipknot - NME",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ3hsd1Vrd195UlR1QU9nTlE2NXpQVnZJa0dsZlpGbEFoUnk0NFlBeTRMZmJtRTNyMklkYVduT0FIUnBfZTNianJiQWZjQmQyOXMzOW5UQzlha2padzBYSW1XOHdVcWFIeE1yeTFnak95aGFFYmdoS2xVMFg0b3Ztd1gxNVJBWmpsSzdaNXZWQWxBUkJtVTdaU2d4cmVaUmthVzV2Q3k5OElyRFBS?oc=5",
+    "publishedAt": "2026-07-03T11:24:20.000Z",
+    "summary": "Ed Gamble's Soundtrack Of My Life: David Bowie, Korn, Slipknot NME",
+    "image": null
+  },
+  {
     "id": "loudwire-https://loudwire.com/american-songs-non-usa-artists/",
     "source": "loudwire",
     "title": "11 Great Rock + Metal Songs About America by Non-U.S. Artists",
@@ -375,15 +402,6 @@
     "url": "https://www.uncut.co.uk/features/the-doors-10-greatest-songs-as-chosen-by-the-band-154098/",
     "publishedAt": "2026-07-03T10:56:19.000Z",
     "summary": "Robby Krieger and John Densmore run the rule over their finest tracks - from baroque pop to heavy rock and epic psychodramas",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMiywFBVV95cUxNMUJNQmpmdVpaQkhkNUZxR2hXYWQ3ZGt6OGNvX1hwT01kOExoNzNGd1kzbUJqb2pQb2p6WlA0NTllZUtCV2tUWERvdTBQMW9kdEI0aEZlcEtqWk1lU0RhcU1BNkZjZkRHSjd4Y196NVpudlRPdmpBZkZEVUdidWZsbG54aVg2UjlkeDZRX20xcG03dWFQVVFXOE41ZnBmODE5aEpQemluRy1nclUxQzNhcEg3aTl3YWEwYTQwRzFqMXNPejAyT0VqTXdmNA?oc=5",
-    "source": "nme",
-    "title": "Pharrell Williams doesn't want you to think that he's capable of \"frustration\", Seth Rogen reveals - NME",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMUJNQmpmdVpaQkhkNUZxR2hXYWQ3ZGt6OGNvX1hwT01kOExoNzNGd1kzbUJqb2pQb2p6WlA0NTllZUtCV2tUWERvdTBQMW9kdEI0aEZlcEtqWk1lU0RhcU1BNkZjZkRHSjd4Y196NVpudlRPdmpBZkZEVUdidWZsbG54aVg2UjlkeDZRX20xcG03dWFQVVFXOE41ZnBmODE5aEpQemluRy1nclUxQzNhcEg3aTl3YWEwYTQwRzFqMXNPejAyT0VqTXdmNA?oc=5",
-    "publishedAt": "2026-07-03T10:10:46.000Z",
-    "summary": "Pharrell Williams doesn't want you to think that he's capable of \"frustration\", Seth Rogen reveals NME",
     "image": null
   },
   {
@@ -549,15 +567,6 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/ex-godsmack-drummer-shannon-larkin-responds-nikki-sixx-calls-out/",
-    "source": "loudwire",
-    "title": "Ex-Godsmack Drummer Responds After Nikki Sixx Calls Him Out",
-    "url": "https://loudwire.com/ex-godsmack-drummer-shannon-larkin-responds-nikki-sixx-calls-out/",
-    "publishedAt": "2026-07-01T21:37:17.000Z",
-    "summary": "Ex-Godsmack drummer Shannon Larkin shared a video response after Motley Crue's Nikki Sixx called him a 'hater' on social media. Continue reading…",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/news/marina-herlop-readies-new-album-dja-dja/",
     "source": "pitchfork",
     "title": "Marina Herlop Readies New Album Dja Dja",
@@ -663,15 +672,6 @@
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGV0g4UEMzMENGbUdRX1NaVnJvNHNzT3JHbU5QbFd5QkMwaGc0OGVRVDNlcFFoZ3dVSlJRWmR5MUVOc2NBTExpbzBJc2NXTlN5bFBrSWx5LUl3TXZXNktnV2RrMjRwaWdKYnBrdDY5dlNKQQ?oc=5",
     "publishedAt": "2026-07-01T07:00:00.000Z",
     "summary": "Album review: HAWXX – THE WORLD SPLITS OPEN Kerrang!",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/news/yhwh-nailguns-magazine-is-technically-a-visual-album-now/",
-    "source": "pitchfork",
-    "title": "YHWH Nailgun’s Magazine Is Technically a Visual Album Now",
-    "url": "https://pitchfork.com/news/yhwh-nailguns-magazine-is-technically-a-visual-album-now/",
-    "publishedAt": "2026-06-30T16:15:45.000Z",
-    "summary": "The New York experimental rockers have shared a music video set to their new 11-minute LP",
     "image": null
   },
   {
