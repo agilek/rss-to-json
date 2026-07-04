@@ -1,5 +1,14 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/tyga-unveils-starface-alter-ego-10-track-project-1236287676/",
+    "source": "billboard",
+    "title": "Tyga Introduces New Artist Persona $TARFACE With ‘GAVE U RACKS’",
+    "url": "https://www.billboard.com/music/rb-hip-hop/tyga-unveils-starface-alter-ego-10-track-project-1236287676/",
+    "publishedAt": "2026-07-04T05:32:40.000Z",
+    "summary": "\"I wanted this character and music to live on its own,\" says Tyga.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/culture/product-recommendations/taylor-swift-travis-kelce-wedding-card-mug-gifts-fan-merch-1236287675/",
     "source": "billboard",
     "title": "From ‘Royal Wedding’ Mugs to ‘Paper Rings,’ Taylor & Travis Wedding Merch Has Already Hit the Internet",
@@ -14,7 +23,7 @@
     "title": "Taylor Swift’s Wedding Look Included a Subtle Eras Tour Nod",
     "url": "https://www.billboard.com/music/music-news/taylor-swift-wedding-look-dior-custom-louboutins-1236287677/",
     "publishedAt": "2026-07-04T02:56:44.000Z",
-    "summary": "The bride and groom’s wedding looks were designed by Jonathan Anderson, with Swift completing her look with Cartier jewelry.",
+    "summary": "The official wedding-style details follow Swift and Kelce’s Friday night ceremony at Madison Square Garden, where they married in front of family and friends.",
     "image": null
   },
   {
@@ -114,15 +123,6 @@
     "url": "https://www.billboard.com/pro/alexi-cory-smith-death-bella-figura-music/",
     "publishedAt": "2026-07-03T19:08:01.000Z",
     "summary": "The firm, which acquires and manages rights across music publishing and recordings, announced Cory-Smith's unexpected passing on Friday (July 3).",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/jon-pardi-announces-divorce-wife-summer-pardi-1236287462/",
-    "source": "billboard",
-    "title": "Jon Pardi and Wife Summer Divorcing After 5 Years of Marriage",
-    "url": "https://www.billboard.com/music/music-news/jon-pardi-announces-divorce-wife-summer-pardi-1236287462/",
-    "publishedAt": "2026-07-03T18:48:32.000Z",
-    "summary": "\"We are committed to moving forward with love and respect as co-parents,\" they wrote in a statement.",
     "image": null
   },
   {
@@ -405,6 +405,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcjFzdTVBaHRFM1hUdmJsdUxpbUVNUGtOVF82dEc3dlUwUFl6eTR2c1haOTUzcTNkQ0JNWnFsbEFpTUZKRlhpeTRNUGVLOVlvWDB3TXBpenBBU1RZMzhvMEpVVWw4QTFQNnRnRW5sdmlwRjdJTFV3U0tFdG5xQlF0ZjVybllLMjFWS1BCWHZTUERYc3RGTlRWYTItSmtQYnRjZHlIaVh4U3loV28?oc=5",
+    "source": "nme",
+    "title": "The internet thinks ‘Minions’ just name-checked Bonnie Blue in new film - NME",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcjFzdTVBaHRFM1hUdmJsdUxpbUVNUGtOVF82dEc3dlUwUFl6eTR2c1haOTUzcTNkQ0JNWnFsbEFpTUZKRlhpeTRNUGVLOVlvWDB3TXBpenBBU1RZMzhvMEpVVWw4QTFQNnRnRW5sdmlwRjdJTFV3U0tFdG5xQlF0ZjVybllLMjFWS1BCWHZTUERYc3RGTlRWYTItSmtQYnRjZHlIaVh4U3loV28?oc=5",
+    "publishedAt": "2026-07-02T18:26:37.000Z",
+    "summary": "The internet thinks ‘Minions’ just name-checked Bonnie Blue in new film NME",
+    "image": null
+  },
+  {
     "id": "nme-https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeG4ycVAzNzl6MDZLY2hGM1JhVl9CcUpHRS1NYXRpNmF4a0VRd01UYy0zMmVlUXN4bmJZY2F1NzIzMFRTb002cFlsV3ExY2tPcGdrOUJfcU1XZlhxVTRNbUJ0WWxiMGJqNmlhZWZabGMtVk5aZkRlQUM3YmlLRU5BSUFlRk9JVmh6X1VXanpZazNBT0Viakd6OG1qRjNvTHpvOU42RC1Tb3dQNU9pRGg5TFVFcXlpLS1ERGpKaVN2Q3NUd2lmYm04S2JJWWpzeGJ1ck91cV9hVUVvNTZT?oc=5",
     "source": "nme",
     "title": "Wolf Alice share tender new song 'Gospel Oak' from 'The Clearing: B-sides' and share Finsbury Park stage times - NME",
@@ -519,15 +528,6 @@
     "url": "https://www.uncut.co.uk/features/whats-going-on-with-bob-dylan-155246/",
     "publishedAt": "2026-07-02T11:01:06.000Z",
     "summary": "New guitarists, lost songs and strange online dispatches show rock 'n roll's most mercurial spirit remains impossible to predict",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMixAFBVV95cUxQYy12MXNJVmtSNG5sUkJVSEFGNlhlZFh4MGpuYmpKNGxOME9qYVZOa1RHY25nOWRiWHdBSmlrRGg3M2xQcUdEdGR1Q3J3cDUyNlRYZjJLbU85TFEwWkZlcFk2eWYtNHFFZ3JuNjFoOTFsVnhrYVFjNkM2a0ZrSnp5OTJOQ0VHZHhMRlhKZ01VZi0zTzNhbjQ4UHdXemtubHphWkxVYUt3UG1PQWFHdlJaNVpIVzN6RGNQZzNyR3ctWTdUV3pz?oc=5",
-    "source": "nme",
-    "title": "Early Coldplay studio recordings and unheard Chris Martin 'James Bond' demo go to auction - NME",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYy12MXNJVmtSNG5sUkJVSEFGNlhlZFh4MGpuYmpKNGxOME9qYVZOa1RHY25nOWRiWHdBSmlrRGg3M2xQcUdEdGR1Q3J3cDUyNlRYZjJLbU85TFEwWkZlcFk2eWYtNHFFZ3JuNjFoOTFsVnhrYVFjNkM2a0ZrSnp5OTJOQ0VHZHhMRlhKZ01VZi0zTzNhbjQ4UHdXemtubHphWkxVYUt3UG1PQWFHdlJaNVpIVzN6RGNQZzNyR3ctWTdUV3pz?oc=5",
-    "publishedAt": "2026-07-02T10:48:44.000Z",
-    "summary": "Early Coldplay studio recordings and unheard Chris Martin 'James Bond' demo go to auction NME",
     "image": null
   },
   {
