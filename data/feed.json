@@ -1,11 +1,47 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/music-news/beyonce-surprise-new-song-morning-dew-donk-bday-reissue-1236287816/",
+    "source": "billboard",
+    "title": "Beyoncé Drops Surprise New Song ‘Morning Dew (Donk)’ on Fourth of July",
+    "url": "https://www.billboard.com/music/music-news/beyonce-surprise-new-song-morning-dew-donk-bday-reissue-1236287816/",
+    "publishedAt": "2026-07-04T16:29:52.000Z",
+    "summary": "The track will appear on the upcoming 20th anniversary edition of her B'Day album.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/oasis-first-teaser-documentary-dont-look-back-in-anger-1235589204/",
+    "source": "rolling-stone",
+    "title": "Oasis Share First Teaser for Upcoming Doc ‘Don’t Look Back in Anger’",
+    "url": "https://www.rollingstone.com/music/music-news/oasis-first-teaser-documentary-dont-look-back-in-anger-1235589204/",
+    "publishedAt": "2026-07-04T15:32:37.000Z",
+    "summary": "Steven Knight-produced film about Gallagher brothers' unlikely reunion to hit cinemas in September before its Disney+ and Hulu streaming premiere later this year",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/macys-4th-of-july-fireworks-2026-watch-live-online-free-1236282198/",
+    "source": "billboard",
+    "title": "Here’s How to Watch the 2026 ‘Macy’s 4th of July Fireworks’ Live Online for Free",
+    "url": "https://www.billboard.com/culture/product-recommendations/macys-4th-of-july-fireworks-2026-watch-live-online-free-1236282198/",
+    "publishedAt": "2026-07-04T15:32:07.000Z",
+    "summary": "Celebrate the United States' 250th anniversary with Macy's annual fireworks spectacular — watch online without cable.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/stevie-nicks-performs-taylor-swift-travis-kelce-wedding-msg-1236287807/",
+    "source": "billboard",
+    "title": "Stevie Nicks Performs at Taylor Swift and Travis Kelce’s Wedding at Madison Square Garden",
+    "url": "https://www.billboard.com/music/music-news/stevie-nicks-performs-taylor-swift-travis-kelce-wedding-msg-1236287807/",
+    "publishedAt": "2026-07-04T15:16:14.000Z",
+    "summary": "The pop superstar and NFL player tied the knot in NYC on July 3.",
+    "image": null
+  },
+  {
     "id": "pitchfork-https://pitchfork.com/story/listen-to-beyonce-new-song-morning-dew-donk-bday-anniversary/",
     "source": "pitchfork",
-    "title": "Listen to Beyoncé's New Song “Morning Dew (Donk)”",
+    "title": "Beyoncé Surprise-Releases New Song “Morning Dew (Donk)”",
     "url": "https://pitchfork.com/story/listen-to-beyonce-new-song-morning-dew-donk-bday-anniversary/",
     "publishedAt": "2026-07-04T15:02:48.000Z",
-    "summary": "The new single will appear on an upcoming 20th anniversary reissue of B'Day",
+    "summary": "The single will appear on an upcoming 20th anniversary reissue of B’Day",
     "image": null
   },
   {
@@ -117,6 +153,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeC10d0paR2ROUHpkU3c3MlRkVUwzVk9nSkZ2b096a3UxSmJHaFZOR3ZjVDVoMkxGcld3ZVlBZGdWblBkWHVrbzRVNS1OS19iRnpMdjF5MFBIZmJDcDVob2hjazlXZGxYd2RKRV9JSlpDQWdJQWhKMUZPVHYyb0RhWXpKTTNRblkzVXktcVJ0V2ZubmRqWE5taXM2ZEM1QXQ3SzFqeDk1RmxIaWVvdFoxanRWMEZ5SHY0a1RBRWFKRFduRFplVDk0VmZSZk5kTUJIbVFFOWszQ1ZZbTdLNTJ3em9iRDZ0OWVoQkE?oc=5",
+    "source": "nme",
+    "title": "Watch Snow Patrol surprise fans at Crystal Palace Park gig with Kylie Minogue for live debut of collab 'These Alarms' - NME",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeC10d0paR2ROUHpkU3c3MlRkVUwzVk9nSkZ2b096a3UxSmJHaFZOR3ZjVDVoMkxGcld3ZVlBZGdWblBkWHVrbzRVNS1OS19iRnpMdjF5MFBIZmJDcDVob2hjazlXZGxYd2RKRV9JSlpDQWdJQWhKMUZPVHYyb0RhWXpKTTNRblkzVXktcVJ0V2ZubmRqWE5taXM2ZEM1QXQ3SzFqeDk1RmxIaWVvdFoxanRWMEZ5SHY0a1RBRWFKRFduRFplVDk0VmZSZk5kTUJIbVFFOWszQ1ZZbTdLNTJ3em9iRDZ0OWVoQkE?oc=5",
+    "publishedAt": "2026-07-04T10:34:00.000Z",
+    "summary": "Watch Snow Patrol surprise fans at Crystal Palace Park gig with Kylie Minogue for live debut of collab 'These Alarms' NME",
+    "image": null
+  },
+  {
     "id": "nme-https://news.google.com/rss/articles/CBMitwFBVV95cUxPU2xvUnNycVhaSkJIbVdLc2hMRmZqbWx6eXVGcTNFZzljUnhCTS1OamlXd1BpQ3RqREJIck54QXp1Sk03am5LcVhmXzdSb2xtR3JKRXhLeGpOTEl2RVM4dDRJcGdLUFJteEJKamdVR2xFOXI3U0M3a00yOWxyWmpYMVM0M21FcU0wTWk2MHNLX2d1X0I1c2RNTmVSWFMya250cnRHNjVfSTdpM0JKellETE9KWHFZOFE?oc=5",
     "source": "nme",
     "title": "Here’s what went down when Metallica kicked off the first of their two “no repeats” shows at London Stadium - NME",
@@ -216,24 +261,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/taylor-swift-travis-kelce-married-new-york-city-wedding-1236286882/",
-    "source": "billboard",
-    "title": "Taylor Swift & Travis Kelce Are Married",
-    "url": "https://www.billboard.com/music/music-news/taylor-swift-travis-kelce-married-new-york-city-wedding-1236286882/",
-    "publishedAt": "2026-07-03T23:49:29.000Z",
-    "summary": "The couple tied the knot at Madison Square Garden in New York City.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/taylor-swift-travis-kelce-relationship-timeline/",
-    "source": "billboard",
-    "title": "A Timeline of Taylor Swift & Travis Kelce’s Relationship",
-    "url": "https://www.billboard.com/lists/taylor-swift-travis-kelce-relationship-timeline/",
-    "publishedAt": "2026-07-03T23:49:00.000Z",
-    "summary": "Here's the full love story of the Grammy-winning pop star & the Kansas City Chiefs tight end, from meeting to marriage.",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/news/taylor-swift-travis-kelce-wedding-married/",
     "source": "pitchfork",
     "title": "Local Singer Marries Podcaster",
@@ -249,24 +276,6 @@
     "url": "https://www.rollingstone.com/music/music-news/taylor-swift-travis-kelce-wedding-ceremony-1235575513/",
     "publishedAt": "2026-07-03T23:35:39.000Z",
     "summary": "The celebrity power couple married on July 3 at Madison Square Garden",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/taylor-swift-travis-kelce-wedding-guests-msg-new-york-1236287633/",
-    "source": "billboard",
-    "title": "Taylor Swift and Travis Kelce’s Star-Studded Wedding Guests Arrive at MSG Ahead of Ceremony",
-    "url": "https://www.billboard.com/music/music-news/taylor-swift-travis-kelce-wedding-guests-msg-new-york-1236287633/",
-    "publishedAt": "2026-07-03T22:35:58.000Z",
-    "summary": "Ed Sheeran, Camila Cabello, Jack Antonoff and more celebs arrived in New York City ahead of the couple's July 3 wedding.",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/brad-paisley-taylor-swift-travis-kelce-donation-wedding-1235588953/",
-    "source": "rolling-stone",
-    "title": "Brad Paisley, Kimberly Williams-Paisley Thank Taylor Swift and Travis Kelce for ‘Amazing Donation’",
-    "url": "https://www.rollingstone.com/music/music-news/brad-paisley-taylor-swift-travis-kelce-donation-wedding-1235588953/",
-    "publishedAt": "2026-07-03T22:10:32.000Z",
-    "summary": "\"It will feed so many families, and what a way to start a marriage,\" the country singer said on social media ahead of the couple's wedding",
     "image": null
   },
   {
@@ -357,15 +366,6 @@
     "url": "https://louderthanwar.com/andrew-cushin-goodbye-single-review/",
     "publishedAt": "2026-07-03T11:35:38.000Z",
     "summary": "Andrew Cushin: Goodbye (First Run Records) Streaming Out Now STREAM HERE Fresh from a series of festival appearances and solo shows in June, Andrew Cushin releases his first new music of the year with his single Goodbye. It’s a song that is every bit the guitar-driven indie-rock anthem that has become his trademark sound as […] The post Andrew Cushin: Goodbye – Single Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ3hsd1Vrd195UlR1QU9nTlE2NXpQVnZJa0dsZlpGbEFoUnk0NFlBeTRMZmJtRTNyMklkYVduT0FIUnBfZTNianJiQWZjQmQyOXMzOW5UQzlha2padzBYSW1XOHdVcWFIeE1yeTFnak95aGFFYmdoS2xVMFg0b3Ztd1gxNVJBWmpsSzdaNXZWQWxBUkJtVTdaU2d4cmVaUmthVzV2Q3k5OElyRFBS?oc=5",
-    "source": "nme",
-    "title": "Ed Gamble's Soundtrack Of My Life: David Bowie, Korn, Slipknot - NME",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ3hsd1Vrd195UlR1QU9nTlE2NXpQVnZJa0dsZlpGbEFoUnk0NFlBeTRMZmJtRTNyMklkYVduT0FIUnBfZTNianJiQWZjQmQyOXMzOW5UQzlha2padzBYSW1XOHdVcWFIeE1yeTFnak95aGFFYmdoS2xVMFg0b3Ztd1gxNVJBWmpsSzdaNXZWQWxBUkJtVTdaU2d4cmVaUmthVzV2Q3k5OElyRFBS?oc=5",
-    "publishedAt": "2026-07-03T11:24:20.000Z",
-    "summary": "Ed Gamble's Soundtrack Of My Life: David Bowie, Korn, Slipknot NME",
     "image": null
   },
   {
