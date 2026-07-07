@@ -1,20 +1,263 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/rock/ramones-50th-anniversary-tribute-band-billie-joe-armstrong-1236288784/",
+    "source": "billboard",
+    "title": "Ramones 50th Anniversary Tribute to Feature Set By All-Star Cretins Band Fronted By Billie Joe Armstrong, Rancid’s Tim Armstrong",
+    "url": "https://www.billboard.com/music/rock/ramones-50th-anniversary-tribute-band-billie-joe-armstrong-1236288784/",
+    "publishedAt": "2026-07-07T18:00:00.000Z",
+    "summary": "The special Aug. 30 set will also feature Blink-182 drummer Travis Barker and ormer Ramones bassist CJ Ramone.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/billie-joe-armstrong-supergroup-ramones-anniversary-show-1235590395/",
+    "source": "rolling-stone",
+    "title": "Green Day’s Billie Joe Armstrong to Front Punk Supergroup Honoring the Ramones",
+    "url": "https://www.rollingstone.com/music/music-news/billie-joe-armstrong-supergroup-ramones-anniversary-show-1235590395/",
+    "publishedAt": "2026-07-07T18:00:00.000Z",
+    "summary": "Cretin Family — featuring Armstrong, Blink-182's Travis Barker, Rancid's Tim Armstrong, and Ramones bassist C.J. Ramone — will play L.A. on Aug. 30 to celebrate the Ramones' 50th anniversary",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/rihanna-encourages-fan-cancer-video-1236288931/",
+    "source": "billboard",
+    "title": "Watch Rihanna Uplift a Self-Conscious Fan Who’s Battling Cancer in Touching Interaction: ‘You’re Fire’",
+    "url": "https://www.billboard.com/music/rb-hip-hop/rihanna-encourages-fan-cancer-video-1236288931/",
+    "publishedAt": "2026-07-07T17:58:47.000Z",
+    "summary": "Ri also co-signed Yung Miami's \"Spend Dat\" an episode of Jason Lee's Grocery Shopping With Rihanna.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/evanescence-amy-lee-father-gong-show/",
+    "source": "loudwire",
+    "title": "The TV Talent Show Amy Lee's Dad Won in the Late 1970s",
+    "url": "https://loudwire.com/evanescence-amy-lee-father-gong-show/",
+    "publishedAt": "2026-07-07T17:55:54.000Z",
+    "summary": "Years before 'American Idol' or 'America's Got Talent,' Evanescence singer Amy Lee's father won the top prize on a late '70s talent competition series. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/olivia-rodrigo-gracie-abrams-address-careless-songwriting-1236289033/",
+    "source": "billboard",
+    "title": "Gracie Abrams Tells Olivia Rodrigo Why She’s Done ‘Pointing Fingers’ in Her Songs: ‘I Was Careless in the Past’",
+    "url": "https://www.billboard.com/music/music-news/olivia-rodrigo-gracie-abrams-address-careless-songwriting-1236289033/",
+    "publishedAt": "2026-07-07T17:53:49.000Z",
+    "summary": "The pair sat down with Spotify for a conversation about songwriting ahead of Abrams' new album.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/geese-weekday-management-news/",
+    "source": "billboard",
+    "title": "Geese Sign With Weekday Management",
+    "url": "https://www.billboard.com/pro/geese-weekday-management-news/",
+    "publishedAt": "2026-07-07T17:35:46.000Z",
+    "summary": "The fast-rising rock band is now managed by Tyler Richman and Anna Spaulding.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/top-taylor-swift-songs-top-100-hits/",
+    "source": "billboard",
+    "title": "Taylor Swift’s 50 Biggest Billboard Hot 100 Hits",
+    "url": "https://www.billboard.com/lists/top-taylor-swift-songs-top-100-hits/",
+    "publishedAt": "2026-07-07T17:35:36.000Z",
+    "summary": "From \"Tim McGraw\" to \"Anti-Hero\" and more, these are the pop superstar's biggest chart hits.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-lists/u2-album-leadoff-singles-ranked-1235589984/",
+    "source": "rolling-stone",
+    "title": "All of U2’s Album Leadoff Singles Ranked",
+    "url": "https://www.rollingstone.com/music/music-lists/u2-album-leadoff-singles-ranked-1235589984/",
+    "publishedAt": "2026-07-07T17:31:52.000Z",
+    "summary": "Sometimes they made the smart choice and led with \"New Year's Day\" or \"With or Without You.\" Other times, they made baffling picks like \"Get On Your Boots\"",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rock/u2-classic-sound-video-single-street-of-dreams-mexico-watch-1236289027/",
+    "source": "billboard",
+    "title": "U2 Get Drenched, Tap Into Classic, Soaring Sound in Video For Funky ‘Street of Dreams’ Single",
+    "url": "https://www.billboard.com/music/rock/u2-classic-sound-video-single-street-of-dreams-mexico-watch-1236289027/",
+    "publishedAt": "2026-07-07T17:29:02.000Z",
+    "summary": "The clip for the bilingual song from the veteran group's as-yet-unannounced new album was filmed in Mexico City in May.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/jermaine-dupri-sues-sony-music-for-18m-in-unpaid-royalties/",
+    "source": "billboard",
+    "title": "Jermaine Dupri Sues Sony Music for $18M in Unpaid Royalties on Mariah Carey & Usher Albums",
+    "url": "https://www.billboard.com/pro/jermaine-dupri-sues-sony-music-for-18m-in-unpaid-royalties/",
+    "publishedAt": "2026-07-07T17:08:11.000Z",
+    "summary": "The veteran hip-hop producer says Sony used “contemptuous accounting practices” to underpay him and his record label millions in royalties.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/gilla-band-new-album-pugnello/",
+    "source": "pitchfork",
+    "title": "Gilla Band Set Next Album Pugnello",
+    "url": "https://pitchfork.com/story/gilla-band-new-album-pugnello/",
+    "publishedAt": "2026-07-07T16:58:46.000Z",
+    "summary": "The Dublin quartet also shared “Placeholder,” an ode to vocalist Dara Kiely’s childhood creature comforts",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/clave-especial-celebrates-their-culture/",
+    "source": "billboard",
+    "title": "Clave Especial Celebrates Their Culture | Mi Mexicanidad",
+    "url": "https://www.billboard.com/video/clave-especial-celebrates-their-culture/",
+    "publishedAt": "2026-07-07T16:53:26.000Z",
+    "summary": "This is partner content. Música mexicana breakout stars Clave Especial explore their relationship with their Mexican heritage through music, celebration and more in an intimate interview, presented by Cerveza Victoria. Judy Sanchez: What are we gonna order? What’s the vibe? Clave Especial: Chicken, good evening. Favorite tacos, good evening. Judy Sanchez: Hello. Clave Especial: For […]",
+    "image": null
+  },
+  {
+    "id": "uncut-https://www.uncut.co.uk/news/watch-a-video-for-u2-new-single-street-of-dreams-155363/",
+    "source": "uncut",
+    "title": "Watch a video for U2’s new single, “Street Of Dreams”",
+    "url": "https://www.uncut.co.uk/news/watch-a-video-for-u2-new-single-street-of-dreams-155363/",
+    "publishedAt": "2026-07-07T16:51:35.000Z",
+    "summary": "It's the first song to be taken from their as-yet-untitled 16th album, due later this year",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/media/podcasts/taylor-swift-wedding-mccartney-stevie-nicks-pop-shop-podcast-1236288624/",
+    "source": "billboard",
+    "title": "Taylor Swift’s Wedding Doubles as a Once-in-a-Lifetime Concert From Paul McCartney & Stevie Nicks",
+    "url": "https://www.billboard.com/media/podcasts/taylor-swift-wedding-mccartney-stevie-nicks-pop-shop-podcast-1236288624/",
+    "publishedAt": "2026-07-07T16:34:13.000Z",
+    "summary": "On the new Billboard Pop Shop Podcast, Katie & Keith are talking about everything we know about what went down in Madison Square Garden.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/taylor-swift-travis-kelce-wedding-raffle-chanel-bag-who-won-1236288884/",
+    "source": "billboard",
+    "title": "Taylor Swift & Travis Kelce Raffled Off a Free Chanel Handbag at Their Wedding: Here’s Who Won",
+    "url": "https://www.billboard.com/music/music-news/taylor-swift-travis-kelce-wedding-raffle-chanel-bag-who-won-1236288884/",
+    "publishedAt": "2026-07-07T16:21:57.000Z",
+    "summary": "The accessory retails for more than $6,000.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-latin-lists/rosalias-lux-tour-confessionals-celebrity-appearances-1235571575/",
+    "source": "rolling-stone",
+    "title": "The Most Revealing Celebrity Confessionals From Rosalía’s ‘Lux’ Tour",
+    "url": "https://www.rollingstone.com/music/music-latin-lists/rosalias-lux-tour-confessionals-celebrity-appearances-1235571575/",
+    "publishedAt": "2026-07-07T16:18:25.000Z",
+    "summary": "The singer has been inviting stars, from Lola Young to Bad Gyal, to share their deepest secrets onstage before her song “La Perla”",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/corey-taylor-mental-health-therapy/",
+    "source": "loudwire",
+    "title": "Corey Taylor Sees 3 Therapists At Once And Says It's Working",
+    "url": "https://loudwire.com/corey-taylor-mental-health-therapy/",
+    "publishedAt": "2026-07-07T16:13:52.000Z",
+    "summary": "Corey Taylor has been seeing three therapists at the same time for three years — and the reason why says a lot about where he was mentally. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/listen-to-u2-new-single-street-of-dreams/",
+    "source": "pitchfork",
+    "title": "Watch U2 Crash a Family’s Apartment in New Music Video",
+    "url": "https://pitchfork.com/story/listen-to-u2-new-single-street-of-dreams/",
+    "publishedAt": "2026-07-07T16:02:02.000Z",
+    "summary": "“Street of Dreams” is from their forthcoming as-yet-untitled studio album",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/u2-new-song-street-of-dreams-upcoming-studio-album-1235590299/",
+    "source": "rolling-stone",
+    "title": "Hear U2’s Joyous New Single ‘Street of Dreams’ From Upcoming Studio Album",
+    "url": "https://www.rollingstone.com/music/music-news/u2-new-song-street-of-dreams-upcoming-studio-album-1235590299/",
+    "publishedAt": "2026-07-07T16:01:38.000Z",
+    "summary": "The single is the first song that U2 has shared from their upcoming studio album, which will come out sometime around their 50th anniversary later this year",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/rolling-stone-video-franchises-netflix-1235590301/",
+    "source": "rolling-stone",
+    "title": "Rolling Stone Video Series ‘The Breakdown’ and ‘My Life in 10 Songs’ Are Headed to Netflix",
+    "url": "https://www.rollingstone.com/music/music-news/rolling-stone-video-franchises-netflix-1235590301/",
+    "publishedAt": "2026-07-07T16:00:00.000Z",
+    "summary": "New and archival episodes from both franchises will be available to watch on the streaming platform starting in August",
+    "image": null
+  },
+  {
+    "id": "louder-than-war-https://louderthanwar.com/slaughter-and-the-dogs-announce-new-album-white-heat/",
+    "source": "louder-than-war",
+    "title": "SLAUGHTER AND THE DOGS ANNOUNCE NEW ALBUM ‘WHITE HEAT’",
+    "url": "https://louderthanwar.com/slaughter-and-the-dogs-announce-new-album-white-heat/",
+    "publishedAt": "2026-07-07T15:59:11.000Z",
+    "summary": "SLAUGHTER AND THE DOGS ANNOUNCE NEW ALBUM ‘WHITE HEAT’ TO BE RELEASED SEPTEMBER 4TH VIA CADIZ MUSIC PRE-ORDER THE ALBUM HERE: WATCH THE LYRIC VIDEO FOR ‘LOVE INSIDE’ HERE: Proto-punk icons Slaughter and the Dogs are set to embark on a new chapter of their long and influential career with a brand-new album titled ‘White Heat’, […] The post SLAUGHTER AND THE DOGS ANNOUNCE NEW ALBUM ‘WHITE HEAT’ appeared first on Louder Than War.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/garth-brooks-2026-tour-ticket-price-1235590284/",
+    "source": "rolling-stone",
+    "title": "Garth Brooks Is Going on Tour. Every Ticket Is Priced the Same",
+    "url": "https://www.rollingstone.com/music/music-country/garth-brooks-2026-tour-ticket-price-1235590284/",
+    "publishedAt": "2026-07-07T15:39:48.000Z",
+    "summary": "From front row to nosebleeds, it's all one price for the country star's Blame It All on My Roots Tour",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/duffy-performs-secret-london-concert-first-live-show-years-1235590204/",
+    "source": "rolling-stone",
+    "title": "Duffy Performs at Secret London Concert for Her First Live Show in 15 Years",
+    "url": "https://www.rollingstone.com/music/music-news/duffy-performs-secret-london-concert-first-live-show-years-1235590204/",
+    "publishedAt": "2026-07-07T15:31:38.000Z",
+    "summary": "The Grammy Award-winning vocalist performed a mix of fan favorites and new material",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/told-slant-new-album-whats-up/",
+    "source": "pitchfork",
+    "title": "Told Slant’s New Album is What's Up",
+    "url": "https://pitchfork.com/story/told-slant-new-album-whats-up/",
+    "publishedAt": "2026-07-07T15:14:25.000Z",
+    "summary": "Felix Walworth’s “New York record” arrives September 4",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/green-day-im-never-gonna-rip-nimrods-soundtrack-1235590276/",
+    "source": "rolling-stone",
+    "title": "Green Day Diss the Devil and Defy Death on New Song ‘I’m Never Gonna R.I.P.’",
+    "url": "https://www.rollingstone.com/music/music-news/green-day-im-never-gonna-rip-nimrods-soundtrack-1235590276/",
+    "publishedAt": "2026-07-07T14:59:01.000Z",
+    "summary": "The track will appear on the soundtrack for the punk group’s new coming-of-age comedy, Nimrods",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/girl-talk-readies-new-ep-with-michael-christmas-and-chris-crack/",
+    "source": "pitchfork",
+    "title": "Girl Talk Readies New EP With Michael Christmas and Chris Crack",
+    "url": "https://pitchfork.com/story/girl-talk-readies-new-ep-with-michael-christmas-and-chris-crack/",
+    "publishedAt": "2026-07-07T14:46:14.000Z",
+    "summary": "Don’t Come to My House Sharing Your Location lands August 14",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/corey-taylor-why-slipknot-use-kegs/",
+    "source": "loudwire",
+    "title": "Corey Taylor Explains the Purpose of Kegs in Slipknot's Music",
+    "url": "https://loudwire.com/corey-taylor-why-slipknot-use-kegs/",
+    "publishedAt": "2026-07-07T14:43:47.000Z",
+    "summary": "Corey Taylor explained why Slipknot started using kegs in their music during a recent appearance on Mythical Kitchen's 'Last Meals' series. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/alabama-shakes-announce-new-album-i-must-be-dreaming/",
+    "source": "pitchfork",
+    "title": "Alabama Shakes Announce First Album in 11 Years",
+    "url": "https://pitchfork.com/story/alabama-shakes-announce-new-album-i-must-be-dreaming/",
+    "publishedAt": "2026-07-07T14:41:33.000Z",
+    "summary": "I Must Be Dreaming is coming August 28",
+    "image": null
+  },
+  {
     "id": "uncut-https://www.uncut.co.uk/news/alabama-shakes-announce-new-album-i-must-be-dreaming-155351/",
     "source": "uncut",
     "title": "Alabama Shakes announce new album, I Must Be Dreaming",
     "url": "https://www.uncut.co.uk/news/alabama-shakes-announce-new-album-i-must-be-dreaming-155351/",
     "publishedAt": "2026-07-07T14:27:14.000Z",
     "summary": "It's their first since 2015's Sound & Color",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/ateez-ella-langley-bruno-mars-chart-highlights-july-11-2026/",
-    "source": "billboard",
-    "title": "ATEEZ, Ella Langley, Bruno Mars & More: Highlights of This Week’s Billboard Charts",
-    "url": "https://www.billboard.com/lists/ateez-ella-langley-bruno-mars-chart-highlights-july-11-2026/",
-    "publishedAt": "2026-07-07T14:26:50.000Z",
-    "summary": "All of Billboard’s charts update each Tuesday.",
     "image": null
   },
   {
@@ -45,15 +288,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/awards/madonna-confessions-ii-grammy-chances-1236288204/",
-    "source": "billboard",
-    "title": "Will Madonna Win a Grammy (or Three) for ‘Confessions II’?",
-    "url": "https://www.billboard.com/music/awards/madonna-confessions-ii-grammy-chances-1236288204/",
-    "publishedAt": "2026-07-07T14:00:00.000Z",
-    "summary": "How Grammy voters slowly came to embrace the Queen of Pop.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-country/dolly-parton-musical-2027-broadway-premiere-date-1235590198/",
     "source": "rolling-stone",
     "title": "Dolly Parton’s Musical Will Debut on Broadway on the Country Legend’s Birthday",
@@ -72,33 +306,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-lists/best-bts-songs-1316499/",
-    "source": "rolling-stone",
-    "title": "The 100 Best BTS Songs",
-    "url": "https://www.rollingstone.com/music/music-lists/best-bts-songs-1316499/",
-    "publishedAt": "2026-07-07T13:36:43.000Z",
-    "summary": "The finest moments so far from the biggest pop band in the world",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/country/garth-brooks-blame-it-all-on-my-roots-2026-arena-tour-1236288692/",
-    "source": "billboard",
-    "title": "Garth Brooks Sets 2026 Blame It All On My Roots Arena Tour",
-    "url": "https://www.billboard.com/music/country/garth-brooks-blame-it-all-on-my-roots-2026-arena-tour-1236288692/",
-    "publishedAt": "2026-07-07T13:06:12.000Z",
-    "summary": "Brooks will return to the road beginning in August.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/pop/taylor-swift-wedding-dress-designer-anderson-emotional-process-1236288704/",
-    "source": "billboard",
-    "title": "Taylor Swift Wedding Dress Designer Talks ‘Emotional’ Process: ‘It Was  Joy to Work With Her’",
-    "url": "https://www.billboard.com/music/pop/taylor-swift-wedding-dress-designer-anderson-emotional-process-1236288704/",
-    "publishedAt": "2026-07-07T12:55:42.000Z",
-    "summary": "The singer and husband Travis Kelce both wore custom Christian Dior Haute Couture at their July 3 Madison Square Garden ceremony.",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMiogFBVV95cUxOSHpQR1VmbnRxMEFCcFQwR1NHZkoyLVpxVzRVWENnRHl6RURXM1lkMEJnTHU2dllDZWZXYXBBODNRMTJURGMzc2dmZGd6RXh2YzRQckt1X3FPRzlPRGZWNl91MFRwOVNtZklseWkwNVVfVmJxRVNsdkF2WmNaWHFUeGNZRzFSNF9SN2JoQnlCUTVxRVBNQi1KWW96czhDdUk1UEE?oc=5",
     "source": "nme",
     "title": "Jay-Z announces huge London show at Tottenham Hotspur Stadium - NME",
@@ -108,21 +315,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/pop/charli-xcx-music-fashion-film-listening-parties-25-cities-1236288697/",
-    "source": "billboard",
-    "title": "Charli xcx Hosting ‘Music, Fashion, Film’ Album Listening Parties in 25 Cities Around the World",
-    "url": "https://www.billboard.com/music/pop/charli-xcx-music-fashion-film-listening-parties-25-cities-1236288697/",
-    "publishedAt": "2026-07-07T12:23:00.000Z",
-    "summary": "U.S. Fans in New York, Los Angeles, Atlanta, Boston, Chicago, Miami, Santa Cruz, Phoenix, Seattle and Denver will have a chance to hear the singer's upcoming seventh album first.",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/cynthia-plaster-caster-true-story-1235576984/",
-    "source": "rolling-stone",
-    "title": "The Legend of Cynthia Plaster Caster",
-    "url": "https://www.rollingstone.com/music/music-features/cynthia-plaster-caster-true-story-1235576984/",
-    "publishedAt": "2026-07-07T12:00:00.000Z",
-    "summary": "She was famous for her statues of rock stars’ penises, but this groupie’s entire story has never been told — until now",
+    "id": "nme-https://news.google.com/rss/articles/CBMioAFBVV95cUxObl9Zb1JXYWRaVVJPcXZaOTlhSjcwWlRMeHRyMDhUYjJyYzhCd3hxa21aV1lVRU9xbFJtVk9neDhZOG0xTmVpaXFNajJGOEU4TE90eUtPRVpxcjdEYm5vV2p6M3JGSmRQU2tOWVUzSWh1RldXQmkwSzNmWE9COGlsSjBrSnNEYmdRRkxPNWVpUFRsM1JVY2dEZVBPRDVJRmxU?oc=5",
+    "source": "nme",
+    "title": "Kate Winslet reportedly joining ‘Adolescence’ cast for series two - NME",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObl9Zb1JXYWRaVVJPcXZaOTlhSjcwWlRMeHRyMDhUYjJyYzhCd3hxa21aV1lVRU9xbFJtVk9neDhZOG0xTmVpaXFNajJGOEU4TE90eUtPRVpxcjdEYm5vV2p6M3JGSmRQU2tOWVUzSWh1RldXQmkwSzNmWE9COGlsSjBrSnNEYmdRRkxPNWVpUFRsM1JVY2dEZVBPRDVJRmxU?oc=5",
+    "publishedAt": "2026-07-07T12:07:59.000Z",
+    "summary": "Kate Winslet reportedly joining ‘Adolescence’ cast for series two NME",
     "image": null
   },
   {
@@ -132,15 +330,6 @@
     "url": "https://loudwire.com/best-alternative-rock-songs-1996/",
     "publishedAt": "2026-07-07T11:52:21.000Z",
     "summary": "It was one of the last great years of more melodic alternative rock before alternative stations radio flipped to heavier programming. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/eddie-vedder-chug-beer-us-men-world-cup-meltdown-belgium-1236288688/",
-    "source": "billboard",
-    "title": "Not Even Eddie Vedder Chugging a Whole Beer Could Help the U.S. Men’s Team During World Cup Meltdown",
-    "url": "https://www.billboard.com/music/music-news/eddie-vedder-chug-beer-us-men-world-cup-meltdown-belgium-1236288688/",
-    "publishedAt": "2026-07-07T11:48:33.000Z",
-    "summary": "He's still \"Alive,\" but the host nation is out after Monday's (July 6) humbling loss to Belgium.",
     "image": null
   },
   {
@@ -162,12 +351,30 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMiugFBVV95cUxOQmlHUWFsd2hRa0xsdFAzRXhnRGhSdFlNb1hwejhOQ285VDViTEdsM3lzZmxOcEdMdHpUQ3Q2QUl1V0VQZDdkQmFHc0VSaUJ1THZZVzE1aEZVZkVZOUtpSEwtbnBsVkhMVEdOY3R5NkZTdVRodUFZU2lCMVBMOW1BTlN3Q0JRc0c2VFkyUEJHOWI4cGZCeXhDY2dDcWVDM3NYLWtpWklPUFNfZ1FSYzRzYkp6bDZmdzVyU3c?oc=5",
+    "source": "nme",
+    "title": "Duffy returns to play first concert in 15 years after kidnap and assault ordeal - NME",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQmlHUWFsd2hRa0xsdFAzRXhnRGhSdFlNb1hwejhOQ285VDViTEdsM3lzZmxOcEdMdHpUQ3Q2QUl1V0VQZDdkQmFHc0VSaUJ1THZZVzE1aEZVZkVZOUtpSEwtbnBsVkhMVEdOY3R5NkZTdVRodUFZU2lCMVBMOW1BTlN3Q0JRc0c2VFkyUEJHOWI4cGZCeXhDY2dDcWVDM3NYLWtpWklPUFNfZ1FSYzRzYkp6bDZmdzVyU3c?oc=5",
+    "publishedAt": "2026-07-07T10:29:53.000Z",
+    "summary": "Duffy returns to play first concert in 15 years after kidnap and assault ordeal NME",
+    "image": null
+  },
+  {
     "id": "nme-https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMUt1X3RWdWQ1c29Xa3pXUEN2WE1sWEpsZFU5VDRNTFF2R2lTUVI3VkVyYnEyZDhuNk5vUy11UHk0TENwWV9WajhvOE1WSHhIX3ZKYW1zdUV3Z3VUQVIxazZFekl2dHNxWDYwQWVkb1Vtd1BJd1JjR1QyazF0cGxYQjk2YTNvZTVSSktmdWlWeGNRWmt6dFllMkVpbGJqamRnaW05cVZfbmQxQklDT1F0VmdQZlRXOHRVVkI5ZDhEc2kwalpqR0U1dXlxTFF1enJGREVFQlhzVXJxblVhWUgxRUlkcHJESi1xLXlkRm5MQkEzVGYxZVJYbA?oc=5",
     "source": "nme",
     "title": "Artists and entertainment figures share support for Yungblud after emotional speech over \"industry plant\" accusations - NME",
     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMUt1X3RWdWQ1c29Xa3pXUEN2WE1sWEpsZFU5VDRNTFF2R2lTUVI3VkVyYnEyZDhuNk5vUy11UHk0TENwWV9WajhvOE1WSHhIX3ZKYW1zdUV3Z3VUQVIxazZFekl2dHNxWDYwQWVkb1Vtd1BJd1JjR1QyazF0cGxYQjk2YTNvZTVSSktmdWlWeGNRWmt6dFllMkVpbGJqamRnaW05cVZfbmQxQklDT1F0VmdQZlRXOHRVVkI5ZDhEc2kwalpqR0U1dXlxTFF1enJGREVFQlhzVXJxblVhWUgxRUlkcHJESi1xLXlkRm5MQkEzVGYxZVJYbA?oc=5",
     "publishedAt": "2026-07-07T10:14:07.000Z",
     "summary": "Artists and entertainment figures share support for Yungblud after emotional speech over \"industry plant\" accusations NME",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMioAFBVV95cUxNUEdDemtrdGpSYlZjakFKUUhqR1BpbXFrMjZReFdUYm5GU2VtNVZYekx0X3ZjamtkRkdweGJIUUdiRl9FNVNGaW14dk11UnIwU0tVQXd2RU9Mai1XUUN3UkYyYWFrXzBYa1haY05rSGtmYlFFX25OTzg2djdMZDFGVWFyTXBFY3VmR1VSeUZXTXpwSjhWVXZFOHNSd1Q0NnlK?oc=5",
+    "source": "nme",
+    "title": "Dave Grohl reveals what he believes to be the \"perfect record” - NME",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUEdDemtrdGpSYlZjakFKUUhqR1BpbXFrMjZReFdUYm5GU2VtNVZYekx0X3ZjamtkRkdweGJIUUdiRl9FNVNGaW14dk11UnIwU0tVQXd2RU9Mai1XUUN3UkYyYWFrXzBYa1haY05rSGtmYlFFX25OTzg2djdMZDFGVWFyTXBFY3VmR1VSeUZXTXpwSjhWVXZFOHNSd1Q0NnlK?oc=5",
+    "publishedAt": "2026-07-07T09:40:36.000Z",
+    "summary": "Dave Grohl reveals what he believes to be the \"perfect record” NME",
     "image": null
   },
   {
@@ -180,21 +387,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/rock/dave-grohl-pixies-surfer-rosa-perfect-record-1236288682/",
-    "source": "billboard",
-    "title": "Dave Grohl Reveals the ‘Perfect Record’ He’s Listened to ‘10,000 Times’",
-    "url": "https://www.billboard.com/music/rock/dave-grohl-pixies-surfer-rosa-perfect-record-1236288682/",
-    "publishedAt": "2026-07-07T08:09:46.000Z",
-    "summary": "“I love that record so much for a lot of reasons,” Grohl said.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/duffy-returns-secret-london-show-1236288681/",
-    "source": "billboard",
-    "title": "Duffy Performs Secret London Concert in First Full Show in 15 Years",
-    "url": "https://www.billboard.com/music/music-news/duffy-returns-secret-london-show-1236288681/",
-    "publishedAt": "2026-07-07T07:48:43.000Z",
-    "summary": "The “Mercy” singer performed an intimate, ballot-only London show after teasing new music last month.",
+    "id": "nme-https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ3RMeER6NXBZN194WEpkSE9sSWRTbkdraUgxYUIxcjVjaGtZaUx2TzRmMlh5cG9HSktwRzZWd0l3Z2RaZDBncU9VUkVaVkF0VTBxNUVMVl95UlRwSm00YWI0WVdBdk9EbGlPaFg1MElRcVhZT2d3SnMxOVU0Z3U3dGxHVHNjODFfdDRua2tjRFFvemZMRmN1dWg5MlBlOE5kWWw2Yg?oc=5",
+    "source": "nme",
+    "title": "Taylor Swift wins \"absurd\" copyright lawsuit over her song lyrics - NME",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ3RMeER6NXBZN194WEpkSE9sSWRTbkdraUgxYUIxcjVjaGtZaUx2TzRmMlh5cG9HSktwRzZWd0l3Z2RaZDBncU9VUkVaVkF0VTBxNUVMVl95UlRwSm00YWI0WVdBdk9EbGlPaFg1MElRcVhZT2d3SnMxOVU0Z3U3dGxHVHNjODFfdDRua2tjRFFvemZMRmN1dWg5MlBlOE5kWWw2Yg?oc=5",
+    "publishedAt": "2026-07-07T09:18:03.000Z",
+    "summary": "Taylor Swift wins \"absurd\" copyright lawsuit over her song lyrics NME",
     "image": null
   },
   {
@@ -216,48 +414,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/concerts/missy-higgins-teskey-brothers-icehouse-headline-sydney-concert-series-the-point-1236288672/",
-    "source": "billboard",
-    "title": "Missy Higgins, The Teskey Brothers and ICEHOUSE to Headline New Sydney Concert Series",
-    "url": "https://www.billboard.com/music/concerts/missy-higgins-teskey-brothers-icehouse-headline-sydney-concert-series-the-point-1236288672/",
-    "publishedAt": "2026-07-07T05:42:50.000Z",
-    "summary": "The new Fuzzy-presented series will take over the Fleet Steps at Mrs Macquarie’s Point with a floating stage.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/yungblud-support-sza-scott-ian-1236288667/",
-    "source": "billboard",
-    "title": "Yungblud Backed by SZA, Scott Ian & More After Responding to ‘Industry Plant’ Accusations",
-    "url": "https://www.billboard.com/music/music-news/yungblud-support-sza-scott-ian-1236288667/",
-    "publishedAt": "2026-07-07T05:05:58.000Z",
-    "summary": "\"To be truthful. Recently, I’ve been really struggling,” Yungblud wrote.",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/kelela-and-pinkpantheress-take-it-to-the-bridge-on-new-song/",
     "source": "pitchfork",
     "title": "Kelela and PinkPantheress Take It to “The Bridge” on New Song",
     "url": "https://pitchfork.com/story/kelela-and-pinkpantheress-take-it-to-the-bridge-on-new-song/",
     "publishedAt": "2026-07-07T04:28:24.000Z",
     "summary": "The final single from New Avatar before Kelela drops the full album on Friday",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/paul-mccartney-taylor-swift-wedding-i-want-hold-your-hand-1235589938/",
-    "source": "rolling-stone",
-    "title": "Why Paul McCartney Gave Taylor Swift the Perfect Beatles Wedding Song",
-    "url": "https://www.rollingstone.com/music/music-features/paul-mccartney-taylor-swift-wedding-i-want-hold-your-hand-1235589938/",
-    "publishedAt": "2026-07-06T23:00:00.000Z",
-    "summary": "“I Want to Hold Your Hand” is the Beatles' most extravagantly passionate vision of romance. You can bet Taylor understands",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/abbey-road-institute-los-angeles-campus-1235589952/",
-    "source": "rolling-stone",
-    "title": "Abbey Road Institute to Launch New Production School Campus in Los Angeles",
-    "url": "https://www.rollingstone.com/music/music-news/abbey-road-institute-los-angeles-campus-1235589952/",
-    "publishedAt": "2026-07-06T22:21:00.000Z",
-    "summary": "Rafa Sardina, the celebrated Grammy-winning producer and engineer, will head up the program, which is slated to open in October",
     "image": null
   },
   {
@@ -270,15 +432,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/2026-world-cup-players-musicians-singers-1235589792/",
-    "source": "rolling-stone",
-    "title": "Did You Know These World Cup Players Also Make Music?",
-    "url": "https://www.rollingstone.com/music/music-features/2026-world-cup-players-musicians-singers-1235589792/",
-    "publishedAt": "2026-07-06T20:54:29.000Z",
-    "summary": "From Rafael Leão to Memphis Depay, here are a few soccer stars who moonlight as singers and rappers",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVTZwbFhJR2VFb09YLW1GTFVBWWNXR1NCZ3RrSlVEOTFUeGpONkxHNzcyV1pXS0owdEtmclFDYk9rZnoxZ0xXczB1Z0VnalM5TUtTUnljWXZnZEZRRDZtRkY0eHFXckx0Szl1OGJhdnBleUlMRW5yR1BXQ1hZN0xPT3lHUHBpYzNnMTRzYU5pVnV4dGlzbFA4VklpdkRLeWxhUXpPNGdqZ0hrWUduT2ZxSXZZUkpHNEwwR3Nn?oc=5",
     "source": "nme",
     "title": "Watch Swedish House Mafia debut new Lykke Li collab ‘Happiness Is So Sad’ in Ibiza - NME",
@@ -288,39 +441,12 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/phoebe-bridgers-lost-weekend-everything-we-know-1235589655/",
-    "source": "rolling-stone",
-    "title": "Your Guide to ‘Lost Weekend’: Everything We Know About Phoebe Bridgers’ New Album",
-    "url": "https://www.rollingstone.com/music/music-features/phoebe-bridgers-lost-weekend-everything-we-know-1235589655/",
-    "publishedAt": "2026-07-06T20:24:01.000Z",
-    "summary": "From John Lennon lore to mysterious puzzle pieces, there’s a lot of PB3 unpacking to do",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/vans-apologizes-confusion-fugazi-collaboration-1235589889/",
-    "source": "rolling-stone",
-    "title": "Fugazi Definitely Did Not Do a Brand Collab With Vans",
-    "url": "https://www.rollingstone.com/music/music-news/vans-apologizes-confusion-fugazi-collaboration-1235589889/",
-    "publishedAt": "2026-07-06T20:22:23.000Z",
-    "summary": "An exec for the shoe company apologized after its collaboration with a streetwear brand, also named Fugazi, was confused for a partnership with the famously anti-consumerist punk band",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/better-ozzy-solo-album-blizzard-of-ozz-vs-patient-number-9/",
     "source": "loudwire",
     "title": "Better Ozzy Solo Album - 'Blizzard of Ozz' vs. 'Patient Number 9'",
     "url": "https://loudwire.com/better-ozzy-solo-album-blizzard-of-ozz-vs-patient-number-9/",
     "publishedAt": "2026-07-06T20:09:20.000Z",
     "summary": "Vote in Chuck's Fight Club to determine the better Ozzy solo album. between 'Blizzard of Ozzy' and 'Patient Number 9.' Continue reading…",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/taylor-swift-travis-kelce-wedding-guests-why-invited-1235589687/",
-    "source": "rolling-stone",
-    "title": "The Most WTF Guests at Taylor Swift and Travis Kelce’s Wedding",
-    "url": "https://www.rollingstone.com/music/music-news/taylor-swift-travis-kelce-wedding-guests-why-invited-1235589687/",
-    "publishedAt": "2026-07-06T19:49:54.000Z",
-    "summary": "From old foes to controversial executives, here are the invites that still have us scratching our heads",
     "image": null
   },
   {
@@ -369,15 +495,6 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/story/madonna-nirosta-steel-kay-nive-this-weeks-pitchfork-selects-playlist/",
-    "source": "pitchfork",
-    "title": "Madonna, Nirosta Steel, Kay Nive$, and More: This Week’s Pitchfork Selects Playlist",
-    "url": "https://pitchfork.com/story/madonna-nirosta-steel-kay-nive-this-weeks-pitchfork-selects-playlist/",
-    "publishedAt": "2026-07-06T16:42:24.000Z",
-    "summary": "Our weekly playlist highlights songs that our writers, editors, and contributors are listening to on repeat",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMixAFBVV95cUxPRUF3WGNYZEMtV01xSnpRZTJUWHhMV2xaemM5NTRwYnFUOFpXc0dhTkRkZXNqMzF6TnFTVWRYQXpjaEk3a3hDTk5ZU0hhQ0ozZjNXWVdfOXJreFV6cV9tdGpqWnF1ZzAwcUtJZnVTNHFLN1ZuZUQwU2d4MEhqcU1mSkxsTXpvOW56UXR6UG11eTljZTIwRmVKNVNCWnJZWGlmMUJidllpRTl1QnRqVl9YQUdmdmlldlQ5VV9MLVZNc05jOXA5?oc=5",
     "source": "nme",
     "title": "Oasis reportedly set for huge 2027 UK and European tour – including Knebworth and massive Manchester residency - NME",
@@ -393,15 +510,6 @@
     "url": "https://louderthanwar.com/state-fayre-2026-sunday-festival-review/",
     "publishedAt": "2026-07-06T15:25:44.000Z",
     "summary": "State Fayre 2026 – Sunday (see also Friday and Saturday) Hylands Park, Chelmsford 28th June 2026 Laid back Sunday at State Fayre: A day for kicking back, soaking in sounds and atmosphere, and sitting in the sun. Friday and Saturday brought stunning main stage performances and stifling heat. Sunday brings balmy temperatures, a greater […] The post State Fayre 2026: Sunday – Festival review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/ringo-starr-announces-east-coast-tour/",
-    "source": "pitchfork",
-    "title": "Ringo Starr Announces East Coast Tour",
-    "url": "https://pitchfork.com/story/ringo-starr-announces-east-coast-tour/",
-    "publishedAt": "2026-07-06T14:54:19.000Z",
-    "summary": "The All-Starr band is hitting the road this fall",
     "image": null
   },
   {
@@ -432,33 +540,6 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/metallica-tribute-black-sabbath-anniversary-back-to-the-beginning/",
-    "source": "loudwire",
-    "title": "Metallica's Live Tribute to Black Sabbath 1 Year After Final Show",
-    "url": "https://loudwire.com/metallica-tribute-black-sabbath-anniversary-back-to-the-beginning/",
-    "publishedAt": "2026-07-06T14:00:02.000Z",
-    "summary": "Metallica honored Ozzy Osbourne with a performance of 'Electric Funeral' on the one year anniversary of the Back to the Beginning concert. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/news/new-album-releases/",
-    "source": "pitchfork",
-    "title": "New Music Releases and Upcoming Albums in 2026",
-    "url": "https://pitchfork.com/news/new-album-releases/",
-    "publishedAt": "2026-07-06T13:53:08.000Z",
-    "summary": "A regularly updated guide to the new albums, EPs, mixtapes, and projects getting released in the coming weeks and months",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/best-prog-rock-band-different-countries/",
-    "source": "loudwire",
-    "title": "The Best Prog Rock Band From 25 Different Countries",
-    "url": "https://loudwire.com/best-prog-rock-band-different-countries/",
-    "publishedAt": "2026-07-06T12:22:30.000Z",
-    "summary": "Highlighting popular and obscure prog rock bands from around the world! Continue reading…",
-    "image": null
-  },
-  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUDRJWWMtcGpUek1ZcWRwM0Z6S285TWNCeTUwQW5NcDR1NlNIZ1U4ZnVwYzdpMUhKSXFNOWhqT0FuRmpueFlNMU1NcEtaSjdpajlIaHBfS3lvemhGQVRsSjJSMHVUeFF6UjRCOFFsZkk0RWZJS3BFQi1BWXFmOGprV0pZMEVnc0VrN1FRV3Z2bXBQY3lXeThMdzJYUFE1NWlORHhsazlKemY3bnVpRjlnbVgtc0lhWG5fWlRzdlo2emYtZFc0ZG50WXVDQ19MVS1C?oc=5",
     "source": "kerrang",
     "title": "“Hurt people hurt people in this world”: TX2 team up with Reel Big Fish for ska-inspired single Evil Is Contagious - Kerrang!",
@@ -483,51 +564,6 @@
     "url": "https://www.uncut.co.uk/features/dr-john-album-by-album-34143/",
     "publishedAt": "2026-07-06T11:00:00.000Z",
     "summary": "The Night Tripper takes us on a journey through his key albums",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMi9AFBVV95cUxQMFBTMHU0MHlUOGJ2RFBSaHk0VF9JOWNqcGJCUHE3NV8xUXFyZjV0bzFDX3FQR1Z0VldITnZMbTM5YXpkZHY1RWpiUHhxYm05ZW83bU9TVklmMmk0SVBFSWtaTTB5Y1Z1RWF6U2tWYmZVdFZqZGFfZEJ5RE1iZUFaNFZ5bXhuNTNnZExMSV8zazZwWUtta1JkS0t6Y2d0aHhZemY1NnZEeHQwd21ocTJoMGo3aTZuRUlZTzMwU2p2M1Y0U1hJQlFKR2dJVi03QU1KUHBBcXdMUXo1MVlyZmFZaFY5SllQODd0V3pfWEdaSm50aW9p?oc=5",
-    "source": "nme",
-    "title": "Liam Gallagher reacts after another England World Cup win soundtracked by 'Wonderwall' and almost predicting the Mexico score - NME",
-    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQMFBTMHU0MHlUOGJ2RFBSaHk0VF9JOWNqcGJCUHE3NV8xUXFyZjV0bzFDX3FQR1Z0VldITnZMbTM5YXpkZHY1RWpiUHhxYm05ZW83bU9TVklmMmk0SVBFSWtaTTB5Y1Z1RWF6U2tWYmZVdFZqZGFfZEJ5RE1iZUFaNFZ5bXhuNTNnZExMSV8zazZwWUtta1JkS0t6Y2d0aHhZemY1NnZEeHQwd21ocTJoMGo3aTZuRUlZTzMwU2p2M1Y0U1hJQlFKR2dJVi03QU1KUHBBcXdMUXo1MVlyZmFZaFY5SllQODd0V3pfWEdaSm50aW9p?oc=5",
-    "publishedAt": "2026-07-06T10:10:12.000Z",
-    "summary": "Liam Gallagher reacts after another England World Cup win soundtracked by 'Wonderwall' and almost predicting the Mexico score NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMilwFBVV95cUxQOHNwTmwtRkk1NnRIR1NpMjlHSVhRSkVsbWtoaUpPQkg4MkF5QVVEWlFNNVNWWU1LaVlZVEVLdHBnSmpsUDBIQTBuNHFfYkFHMU9DXzV2Qk9GUEZ2SFdhTVlIeFVjbHJOTHdPTnpFZC1vUGNyN0lFSU03MFhtRXFXME54NjYxUUxZRmtxNzNyS2d2LUZkdFdN?oc=5",
-    "source": "nme",
-    "title": "Wolf Alice live in London: Britain’s finest come home in style - NME",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOHNwTmwtRkk1NnRIR1NpMjlHSVhRSkVsbWtoaUpPQkg4MkF5QVVEWlFNNVNWWU1LaVlZVEVLdHBnSmpsUDBIQTBuNHFfYkFHMU9DXzV2Qk9GUEZ2SFdhTVlIeFVjbHJOTHdPTnpFZC1vUGNyN0lFSU03MFhtRXFXME54NjYxUUxZRmtxNzNyS2d2LUZkdFdN?oc=5",
-    "publishedAt": "2026-07-06T09:35:16.000Z",
-    "summary": "Wolf Alice live in London: Britain’s finest come home in style NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMiowFBVV95cUxNX0RTSHc5NXBfbHdEMURWN3Ywa1hTWDZJenF1UWwwWGFVMUt5M3paWXRGblZJTWRFdVVHRnZ6d0M1VTJXcVBrUm5WeXpTZmtlTWZSTjFVemRUOThvVjk4bnJ0ekQ3Wk9feTN0QTBRLTJsNXhuMF93S2xJSDZBQ2hfeHE2ZjR4bWxNSEVwRmZLMHVuUHhfdkFqcEpSVWtrTnZUYnB3?oc=5",
-    "source": "nme",
-    "title": "Watch viral footage of System Of A Down’s wild crowds in France - NME",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX0RTSHc5NXBfbHdEMURWN3Ywa1hTWDZJenF1UWwwWGFVMUt5M3paWXRGblZJTWRFdVVHRnZ6d0M1VTJXcVBrUm5WeXpTZmtlTWZSTjFVemRUOThvVjk4bnJ0ekQ3Wk9feTN0QTBRLTJsNXhuMF93S2xJSDZBQ2hfeHE2ZjR4bWxNSEVwRmZLMHVuUHhfdkFqcEpSVWtrTnZUYnB3?oc=5",
-    "publishedAt": "2026-07-06T08:24:19.000Z",
-    "summary": "Watch viral footage of System Of A Down’s wild crowds in France NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMihwFBVV95cUxPVHBTR3NOaWdfNml1cWJSaFR0MXVCTlNuTmhUNXpzNERoOVZNVVVlVjRnaGwzb1I4N1p0YWFsUzhyaUF0eVJMT1pkaVdyY0ZyNzdWRU1SNHMzVkp6OXc4MFNtdW11ZXo4OElPZ2R6SmtfWkRsTm1NTDliSVRXN1lYaUVHX0Vzd0E?oc=5",
-    "source": "nme",
-    "title": "Robyn live in London: a pop superstar on supreme form - NME",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVHBTR3NOaWdfNml1cWJSaFR0MXVCTlNuTmhUNXpzNERoOVZNVVVlVjRnaGwzb1I4N1p0YWFsUzhyaUF0eVJMT1pkaVdyY0ZyNzdWRU1SNHMzVkp6OXc4MFNtdW11ZXo4OElPZ2R6SmtfWkRsTm1NTDliSVRXN1lYaUVHX0Vzd0E?oc=5",
-    "publishedAt": "2026-07-06T08:03:21.000Z",
-    "summary": "Robyn live in London: a pop superstar on supreme form NME",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/sammy-hagar-freedom-250/",
-    "source": "loudwire",
-    "title": "Sammy Hagar Defends Involvement in Freedom 250 Event",
-    "url": "https://loudwire.com/sammy-hagar-freedom-250/",
-    "publishedAt": "2026-07-05T22:17:38.000Z",
-    "summary": "The Red Rocker had a big speech planned for his appearance, before it got ruined by thunderstorms. Continue reading…",
     "image": null
   },
   {
@@ -564,24 +600,6 @@
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU3V1TXlXRjdoRjBva3IzalpyNkUwN2stSFF6OXNfRzNVbVBvUGFiX2hPZm1lOGh1X01uWVVDWXhoak9qQ2xCNkRaUkpkNmRzcjUyT3liYVBpZU5IT0d3M2RJVHNYTlBYdE1hTGJzYnNxaHV5ZENzR2pqd29HT0M4b2laR19zVzlOUEFvM1ZsTGVVODNJNmk0TkdsNzhfcjFPdi0zSTJR?oc=5",
     "publishedAt": "2026-07-04T15:28:00.000Z",
     "summary": "Live review: Biffy Clyro, London Finsbury Park Kerrang!",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/listen-to-beyonce-new-song-morning-dew-donk-bday-anniversary/",
-    "source": "pitchfork",
-    "title": "Beyoncé Surprise-Releases New Song “Morning Dew (Donk)”",
-    "url": "https://pitchfork.com/story/listen-to-beyonce-new-song-morning-dew-donk-bday-anniversary/",
-    "publishedAt": "2026-07-04T15:02:48.000Z",
-    "summary": "The single will appear on an upcoming 20th anniversary reissue of B’Day",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/news/taylor-swift-travis-kelce-wedding-married/",
-    "source": "pitchfork",
-    "title": "Local Singer Marries Podcaster",
-    "url": "https://pitchfork.com/news/taylor-swift-travis-kelce-wedding-married/",
-    "publishedAt": "2026-07-03T23:46:47.000Z",
-    "summary": "Sparks flew, per reports",
     "image": null
   },
   {
@@ -675,30 +693,12 @@
     "image": null
   },
   {
-    "id": "louder-than-war-https://louderthanwar.com/new-record-label-breaking-wave-group-launched-at-royal-albert-hall-with-special-10cc-show/",
-    "source": "louder-than-war",
-    "title": "New record label Breaking Wave Group launched at Royal Albert Hall with special 10cc show",
-    "url": "https://louderthanwar.com/new-record-label-breaking-wave-group-launched-at-royal-albert-hall-with-special-10cc-show/",
-    "publishedAt": "2026-07-02T22:20:40.000Z",
-    "summary": "Wednesday 1st July 2026 saw the launch of new music company Breaking Wave founded by a group of leading UK music industry figures with vast experience, announced as the new label and management home for artists including legendary group 10cc and multi platinum British singer songwriter Rumer. The evening begins with a very civilised screening […] The post New record label Breaking Wave Group launched at Royal Albert Hall with special 10cc show appeared first on Louder Than War.",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/reviews/brown-spirits-prove-krautrocks-future-is-still-being-written-155266/",
     "source": "uncut",
     "title": "Brown Spirits prove krautrock’s future is still being written",
     "url": "https://www.uncut.co.uk/reviews/brown-spirits-prove-krautrocks-future-is-still-being-written-155266/",
     "publishedAt": "2026-07-02T14:42:21.000Z",
     "summary": "Melbourne kosmische crew’s early works uncovered",
-    "image": null
-  },
-  {
-    "id": "uncut-https://www.uncut.co.uk/reviews/sari-lightmans-the-way-i-saw-you-reviewed-canadian-experimental-folk-musician-gets-literary-on-solo-debut-155264/",
-    "source": "uncut",
-    "title": "Sari Lightman’s The Way I Saw You reviewed: Canadian experimental folk musician gets literary on solo debut",
-    "url": "https://www.uncut.co.uk/reviews/sari-lightmans-the-way-i-saw-you-reviewed-canadian-experimental-folk-musician-gets-literary-on-solo-debut-155264/",
-    "publishedAt": "2026-07-02T14:32:25.000Z",
-    "summary": "A richly imagined song cycle shaped by memory, myth and sisterhood",
     "image": null
   },
   {
