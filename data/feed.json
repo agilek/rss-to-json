@@ -1,5 +1,41 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/jim-jones-better-catalog-90-percent-new-york-city-rappers-1236289349/",
+    "source": "billboard",
+    "title": "Jim Jones Claims He Has ‘Better Catalog Than Over 90 Percent of Rappers’ From New York City",
+    "url": "https://www.billboard.com/music/rb-hip-hop/jim-jones-better-catalog-90-percent-new-york-city-rappers-1236289349/",
+    "publishedAt": "2026-07-07T22:22:24.000Z",
+    "summary": "The Harlem rapper has a habit of making headlines.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/yung-miami-spend-dat-hot-100-top-20-city-girls-1236289480/",
+    "source": "billboard",
+    "title": "Yung Miami’s ‘Spend Dat’ Reaches Hot 100 Top 20, Surpassing City Girls’ Peak",
+    "url": "https://www.billboard.com/music/chart-beat/yung-miami-spend-dat-hot-100-top-20-city-girls-1236289480/",
+    "publishedAt": "2026-07-07T22:09:32.000Z",
+    "summary": "The cultural smash gives the rapper her first solo radio No. 1.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/charli-xcx-pinkpantheress-slam-peppa-pig-shading-clairo-1236289460/",
+    "source": "billboard",
+    "title": "Charli xcx & PinkPantheress Slam Peppa Pig for Shading Clairo: ‘Let’s F— Her Up’",
+    "url": "https://www.billboard.com/music/music-news/charli-xcx-pinkpantheress-slam-peppa-pig-shading-clairo-1236289460/",
+    "publishedAt": "2026-07-07T22:05:07.000Z",
+    "summary": "Let's just say that the \"Bags\" singer and cartoon character have a history.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/gts-telemundo-operacion-triunfo-united-states-launch-series/",
+    "source": "billboard",
+    "title": "Telemundo Partners With GTS Label for ‘Operación Triunfo Estados Unidos’ Music Competition Series",
+    "url": "https://www.billboard.com/pro/gts-telemundo-operacion-triunfo-united-states-launch-series/",
+    "publishedAt": "2026-07-07T21:31:42.000Z",
+    "summary": "The partnership gives the Spanish label a first-look signing right on artists emerging from the new U.S. TV show.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/culture/tv-film/salina-estitties-rupauls-drag-race-big-brother-2026-cast-1236289340/",
     "source": "billboard",
     "title": "This ‘RuPaul’s Drag Race’ Star Is Headed to the ‘Big Brother’ House for Season 28",
@@ -90,24 +126,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/pro/bad-bunny-lawsuit-taylor-swift-chris-brown-music-law/",
-    "source": "billboard",
-    "title": "Bad Bunny Lawsuit, Taylor Swift Ruling, Chris Brown Dog Verdict & More Top Music Law News",
-    "url": "https://www.billboard.com/pro/bad-bunny-lawsuit-taylor-swift-chris-brown-music-law/",
-    "publishedAt": "2026-07-07T20:09:40.000Z",
-    "summary": "In this week's Legal Beat newsletter, a massive reggaetón lawsuit moves forward, Taylor beats an \"absurd\" case, Chris Brown faces a $13 million verdict and more.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/criterion-collection-deals-music-films-buy-shop-online-1236288382/",
-    "source": "billboard",
-    "title": "Barnes & Noble Slashed Prices on Criterion Collection’s Concert Films, Music Documentaries and Musicals",
-    "url": "https://www.billboard.com/culture/product-recommendations/criterion-collection-deals-music-films-buy-shop-online-1236288382/",
-    "publishedAt": "2026-07-07T20:05:59.000Z",
-    "summary": "Save 50% on all sorts of music titles, like House Party, The Wiz, Hairspray and others — deals end on Sunday (July 26).",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-pictures/new-yorks-summerstage-at-40-best-moments-1235570201/",
     "source": "rolling-stone",
     "title": "New York’s SummerStage at 40: Best Moments",
@@ -117,30 +135,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/awards/2026-primetime-emmy-nominations-livestream-how-to-watch-1236289252/",
-    "source": "billboard",
-    "title": "How to Watch the 2026 Primetime Emmy Nominations Livestream",
-    "url": "https://www.billboard.com/music/awards/2026-primetime-emmy-nominations-livestream-how-to-watch-1236289252/",
-    "publishedAt": "2026-07-07T20:04:54.000Z",
-    "summary": "Bad Bunny, Zendaya, Selena Gomez, Lady Gaga and many more music stars are vying for nominations.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/lindsey-buckingham-fleetwood-mac-stalker-mental-health-exam-1235590423/",
     "source": "rolling-stone",
     "title": "Lindsey Buckingham’s Alleged Stalker to Undergo Mental Health Exam, Criminal Case Suspended",
     "url": "https://www.rollingstone.com/music/music-news/lindsey-buckingham-fleetwood-mac-stalker-mental-health-exam-1235590423/",
     "publishedAt": "2026-07-07T19:35:45.000Z",
     "summary": "Michelle Dick appeared in court as her public defender sought the exam",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/pop/charli-xcx-music-fashion-film-tracklist-david-cronenberg-1236289078/",
-    "source": "billboard",
-    "title": "Charli xcx Reveals ‘Music, Fashion, Film’ Tracklist Includes a Collab With Director David Cronenberg ",
-    "url": "https://www.billboard.com/music/pop/charli-xcx-music-fashion-film-tracklist-david-cronenberg-1236289078/",
-    "publishedAt": "2026-07-07T19:28:51.000Z",
-    "summary": "The album is set to arrive on July 24.",
     "image": null
   },
   {
