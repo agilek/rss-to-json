@@ -1,11 +1,47 @@
 [
   {
-    "id": "billboard-https://www.billboard.com/music/pop/little-mix-leigh-anne-pinnock-pregnant-andre-gray-1236290280/",
+    "id": "billboard-https://www.billboard.com/music/concerts/benson-boone-wanted-man-2026-australia-tour-1236290359/",
     "source": "billboard",
-    "title": "Little Mix’s Leigh-Anne Pinnock Announces Pregnancy: ‘As One Chapter Ends, Another Begins’",
-    "url": "https://www.billboard.com/music/pop/little-mix-leigh-anne-pinnock-pregnant-andre-gray-1236290280/",
-    "publishedAt": "2026-07-08T23:00:09.000Z",
-    "summary": "Pinnock had twin daughters in 2021 with husband Andre Gray & is pregnant with her third baby.",
+    "title": "Benson Boone Is a ‘Wanted Man’ In Australia: Check His 2026 Tour Dates",
+    "url": "https://www.billboard.com/music/concerts/benson-boone-wanted-man-2026-australia-tour-1236290359/",
+    "publishedAt": "2026-07-09T03:15:09.000Z",
+    "summary": "The chart-topping U.S. pop artist will perform nine total concerts in Brisbane, Melbourne and Sydney.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/brian-potter-dead-songwriter-rhinestone-cowboy-producer/",
+    "source": "billboard",
+    "title": "Brian Potter, ‘Rhinestone Cowboy’ Co-Producer & ’70s Hit Songwriter, Dies at 87",
+    "url": "https://www.billboard.com/pro/brian-potter-dead-songwriter-rhinestone-cowboy-producer/",
+    "publishedAt": "2026-07-09T00:57:17.000Z",
+    "summary": "With partner Dennis Lambert, Potter scored Billboard hits for Glen Campbell, Player, Tavares, the Four Tops & more.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/eslabon-armado-nocturno-double-top-10-billboard-entries-1236290330/",
+    "source": "billboard",
+    "title": "Eslabon Armado’s ‘NOCTURNO’ Scores Double Top 10 Billboard Entries",
+    "url": "https://www.billboard.com/music/chart-beat/eslabon-armado-nocturno-double-top-10-billboard-entries-1236290330/",
+    "publishedAt": "2026-07-09T00:45:09.000Z",
+    "summary": "The set arrives at No. 8 on Top Latin Albums and No. 5 on Regional Mexican Albums charts.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/awards/nikki-glaser-rupaul-2026-emmy-nomination-reactions-1236290304/",
+    "source": "billboard",
+    "title": "Nikki Glaser, RuPaul & More React to 2026 Primetime Emmy Nods",
+    "url": "https://www.billboard.com/music/awards/nikki-glaser-rupaul-2026-emmy-nomination-reactions-1236290304/",
+    "publishedAt": "2026-07-09T00:40:57.000Z",
+    "summary": "The Globes have been good for Glaser, and vice versa.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/future-the-real-me-album-track-list-cover-art-1236290289/",
+    "source": "billboard",
+    "title": "Future Reveals ‘The Real Me’ Cover Art & Track List: ‘Who U Think Featured on My Album’",
+    "url": "https://www.billboard.com/music/rb-hip-hop/future-the-real-me-album-track-list-cover-art-1236290289/",
+    "publishedAt": "2026-07-09T00:28:41.000Z",
+    "summary": "The Real Me arrives Friday.",
     "image": null
   },
   {
@@ -13,8 +49,35 @@
     "source": "billboard",
     "title": "Billboard’s Music Industry Events Calendar",
     "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-    "publishedAt": "2026-07-08T22:57:00.000Z",
+    "publishedAt": "2026-07-09T00:16:00.000Z",
     "summary": "A complete rundown of the most important events across the music business.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/my-own-worst-enemy-band-lit-settles-sony-streaming-lawsuit/",
+    "source": "billboard",
+    "title": "‘My Own Worst Enemy’ Band Lit Settles Sony Lawsuit Over ‘Streaming’ Clause From 1998",
+    "url": "https://www.billboard.com/pro/my-own-worst-enemy-band-lit-settles-sony-streaming-lawsuit/",
+    "publishedAt": "2026-07-08T23:51:28.000Z",
+    "summary": "The rock group said it was promised a 50% cut of streaming at a time when digital music was still in its infancy.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/rolling-stones-mick-jagger-ronnie-wood-play-ringing-hollow-1235591361/",
+    "source": "rolling-stone",
+    "title": "Watch Mick Jagger and Ronnie Wood Perform ‘Ringing Hollow’ at London Event",
+    "url": "https://www.rollingstone.com/music/music-news/rolling-stones-mick-jagger-ronnie-wood-play-ringing-hollow-1235591361/",
+    "publishedAt": "2026-07-08T23:45:53.000Z",
+    "summary": "The song appears on their upcoming album Foreign Tongues, which arrives Friday",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/little-mix-leigh-anne-pinnock-pregnant-andre-gray-1236290280/",
+    "source": "billboard",
+    "title": "Little Mix’s Leigh-Anne Pinnock Announces Pregnancy: ‘As One Chapter Ends, Another Begins’",
+    "url": "https://www.billboard.com/music/pop/little-mix-leigh-anne-pinnock-pregnant-andre-gray-1236290280/",
+    "publishedAt": "2026-07-08T23:00:09.000Z",
+    "summary": "Pinnock had twin daughters in 2021 with husband Andre Gray & is pregnant with her third baby.",
     "image": null
   },
   {
@@ -36,57 +99,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/best-amazon-portable-fans-buy-online-1235750420/",
-    "source": "billboard",
-    "title": "Music Fans Say Amazon’s $12 Portable Fan Helps Them Stay Cool at Concerts and Outdoor Events",
-    "url": "https://www.billboard.com/culture/product-recommendations/best-amazon-portable-fans-buy-online-1235750420/",
-    "publishedAt": "2026-07-08T21:41:00.000Z",
-    "summary": "A lifesaver in a heatwave, think of these mini fans like a personal air conditioner in a pinch.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/where-to-buy-affordable-lollapalooza-2026-tickets-1236202062/",
-    "source": "billboard",
-    "title": "Lollapalooza 2026: Here’s Where to Get Affordable Tickets to the Summer Music Festival Online",
-    "url": "https://www.billboard.com/culture/product-recommendations/where-to-buy-affordable-lollapalooza-2026-tickets-1236202062/",
-    "publishedAt": "2026-07-08T20:47:25.000Z",
-    "summary": "Starting on Thursday (July 30), the Chicago fest features live performances from Charli xcx, Lorde, Tate McRae, Smashing Pumpkins, Turnstile and others.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/willie-nelson-promiseland-chart-rewind-1986-1236290199/",
-    "source": "billboard",
-    "title": "Chart Rewind: In 1986, Willie Nelson’s Patriotic ‘Promiseland’ Carried the Torch for Immigration",
-    "url": "https://www.billboard.com/music/chart-beat/willie-nelson-promiseland-chart-rewind-1986-1236290199/",
-    "publishedAt": "2026-07-08T20:47:03.000Z",
-    "summary": "Nelson’s No. 1 played a key role as America celebrated the Statue of Liberty’s centennial.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/2026-emmy-nominations-music-categories-full-list/",
-    "source": "billboard",
-    "title": "Here Are the 2026 Primetime Emmy Nominees in the 7 Music Categories: Full List",
-    "url": "https://www.billboard.com/lists/2026-emmy-nominations-music-categories-full-list/",
-    "publishedAt": "2026-07-08T20:40:25.000Z",
-    "summary": "Lady Gaga, Trey Parker, Hans Zimmer, Michael Bearden and more scooped up Emmy nods in the music categories.",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/chris-isaak-bridgewater-hall-manchester-live-review/",
     "source": "louder-than-war",
     "title": "Chris Isaak: Bridgewater Hall, Manchester – Live Review",
     "url": "https://louderthanwar.com/chris-isaak-bridgewater-hall-manchester-live-review/",
     "publishedAt": "2026-07-08T20:38:23.000Z",
     "summary": "Chris Isaak | Skye Bishop Bridgewater Hall, Manchester 7th July 2026 American singer-songwriter Chris Isaak and his outstanding band bring timeless rock ‘n’ roll, effortless humour and world-class musicianship to Manchester’s Bridgewater Hall, leaving Claire Glover and Melanie Smith from Louder Than War completely captivated. Before Isaak takes to the stage, support comes from the […] The post Chris Isaak: Bridgewater Hall, Manchester – Live Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/sam-smith-normani-dismiss-dancing-with-a-stranger-lawsuit/",
-    "source": "billboard",
-    "title": "Sam Smith & Normani Try Again to Dismiss ‘Dancing With a Stranger’ Copyright Lawsuit: ‘Fatal Defect’",
-    "url": "https://www.billboard.com/pro/sam-smith-normani-dismiss-dancing-with-a-stranger-lawsuit/",
-    "publishedAt": "2026-07-08T20:19:28.000Z",
-    "summary": "The case was revived by an appeals court last year. Now, the musicians say it should be thrown out for a second time.",
     "image": null
   },
   {
@@ -105,15 +123,6 @@
     "url": "https://pitchfork.com/story/wavves-and-say-anything-collaborative-album-cherry-soda/",
     "publishedAt": "2026-07-08T20:11:49.000Z",
     "summary": "Nathan Williams and Max Bemis get the claymation treatment in the “Deathx1k” video",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/charli-xcx-music-fashion-film-alt-cover-1236290055/",
-    "source": "billboard",
-    "title": "Charli xcx Poses With Martin Scorsese, Marc Jacobs & John Cale for Alternate ‘Music, Fashion, Film’ Cover",
-    "url": "https://www.billboard.com/music/music-news/charli-xcx-music-fashion-film-alt-cover-1236290055/",
-    "publishedAt": "2026-07-08T19:59:07.000Z",
-    "summary": "\"i can’t believe this image existssss,\" the singer wrote.",
     "image": null
   },
   {
@@ -414,6 +423,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMikgFBVV95cUxQZVBTT2thMHUwSnhZQ0Y2RHRiUnRWSUtkUlNtZFBpUFNMZGJMR0xfVkhjMk1ZMFpkaGFrRXFqeENCRnNQa0l6azNaMWpqR3AxMjNpOFlGcHN4NE0xMkpLQ25qTjZoX1Z1Y3pTNDhEcUE4NWVKdnBSd1hCN1pYN3lmcmJYVGttT1RjRktfdnFnUUwtdw?oc=5",
+    "source": "nme",
+    "title": "Sacha Baron Cohen filmed new ‘Ali G’ movie in secret - NME",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZVBTT2thMHUwSnhZQ0Y2RHRiUnRWSUtkUlNtZFBpUFNMZGJMR0xfVkhjMk1ZMFpkaGFrRXFqeENCRnNQa0l6azNaMWpqR3AxMjNpOFlGcHN4NE0xMkpLQ25qTjZoX1Z1Y3pTNDhEcUE4NWVKdnBSd1hCN1pYN3lmcmJYVGttT1RjRktfdnFnUUwtdw?oc=5",
+    "publishedAt": "2026-07-08T11:02:52.000Z",
+    "summary": "Sacha Baron Cohen filmed new ‘Ali G’ movie in secret NME",
+    "image": null
+  },
+  {
     "id": "louder-than-war-https://louderthanwar.com/gilla-band-announce-new-album-pugnello/",
     "source": "louder-than-war",
     "title": "Gilla Band announce new album Pugnello",
@@ -438,15 +456,6 @@
     "url": "https://loudwire.com/bon-jovi-2026-tour-kickoff-set-list-video-review/",
     "publishedAt": "2026-07-08T03:49:22.000Z",
     "summary": "\"If I can't be great, I'm out,\" Jon Bon Jovi said in 2024. Did he keep his promise? Continue reading…",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/jermaine-dupri-sony-mariah-carey-usher-royalties-lawsuit-1235590624/",
-    "source": "rolling-stone",
-    "title": "Jermaine Dupri Sues Sony for $18 Million in Royalties Tied to Mariah Carey, Usher, and More",
-    "url": "https://www.rollingstone.com/music/music-news/jermaine-dupri-sony-mariah-carey-usher-royalties-lawsuit-1235590624/",
-    "publishedAt": "2026-07-07T23:58:30.000Z",
-    "summary": "The Grammy-winning producer claims Sony Music “engaged in willful deceitful actions” to withhold royalties",
     "image": null
   },
   {
@@ -573,15 +582,6 @@
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQckU2QjFhWUc3ZHN3ajZtRzZHdmJCcVBMbjdBNXpHcHc5ZjVkTHgtbDdIWF9ERXBBVElGVHlOZG12Sk9yOHVxSlVBakxadGJTZGl0Snd4M3FlT0dOUHV1V1hfMXBTRXpvQzZvQ25IdjNqTlcyYWJQUFhEaTFkWHFkcTdPRWRkRm0xVGxZY0RRVG4wMjRGSzQzTlJpMWdsbVY1TThv?oc=5",
     "publishedAt": "2026-07-07T13:08:00.000Z",
     "summary": "Green Day's new coming-of-age movie is getting an international cinema release Kerrang!",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMiogFBVV95cUxOSHpQR1VmbnRxMEFCcFQwR1NHZkoyLVpxVzRVWENnRHl6RURXM1lkMEJnTHU2dllDZWZXYXBBODNRMTJURGMzc2dmZGd6RXh2YzRQckt1X3FPRzlPRGZWNl91MFRwOVNtZklseWkwNVVfVmJxRVNsdkF2WmNaWHFUeGNZRzFSNF9SN2JoQnlCUTVxRVBNQi1KWW96czhDdUk1UEE?oc=5",
-    "source": "nme",
-    "title": "Jay-Z announces huge London show at Tottenham Hotspur Stadium - NME",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSHpQR1VmbnRxMEFCcFQwR1NHZkoyLVpxVzRVWENnRHl6RURXM1lkMEJnTHU2dllDZWZXYXBBODNRMTJURGMzc2dmZGd6RXh2YzRQckt1X3FPRzlPRGZWNl91MFRwOVNtZklseWkwNVVfVmJxRVNsdkF2WmNaWHFUeGNZRzFSNF9SN2JoQnlCUTVxRVBNQi1KWW96czhDdUk1UEE?oc=5",
-    "publishedAt": "2026-07-07T12:30:26.000Z",
-    "summary": "Jay-Z announces huge London show at Tottenham Hotspur Stadium NME",
     "image": null
   },
   {
