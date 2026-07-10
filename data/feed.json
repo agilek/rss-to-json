@@ -1,5 +1,86 @@
 [
   {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/anthony-hopkins-original-compositions-album-decca-classics-1235591844/",
+    "source": "rolling-stone",
+    "title": "Anthony Hopkins to Release Album of Original Compositions",
+    "url": "https://www.rollingstone.com/music/music-news/anthony-hopkins-original-compositions-album-decca-classics-1235591844/",
+    "publishedAt": "2026-07-10T07:17:20.000Z",
+    "summary": "The Oscar-winning actor signed a record deal with Decca Classics for Life Is a Dream, which was conducted by Gustavo Dudamel",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/colin-hay-men-at-work-episode-of-survivor-1236291490/",
+    "source": "billboard",
+    "title": "Colin Hay Recounts How Men at Work’s Fast Fame ‘Turned Into an Episode of ‘Survivor’’",
+    "url": "https://www.billboard.com/music/music-news/colin-hay-men-at-work-episode-of-survivor-1236291490/",
+    "publishedAt": "2026-07-10T06:59:44.000Z",
+    "summary": "In an interview for the Rock & Roll High School podcast, Hay remembered the high times, some “classic blunders” made along the way, turning his back on booze, and his comeback.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/teddy-swims-break-up-in-reverse-single-1235591836/",
+    "source": "rolling-stone",
+    "title": "Teddy Swims Reflects on Heartbreak on New Single ‘Break Up in Reverse’",
+    "url": "https://www.rollingstone.com/music/music-news/teddy-swims-break-up-in-reverse-single-1235591836/",
+    "publishedAt": "2026-07-10T06:28:15.000Z",
+    "summary": "The lovelorn song was inspired by the singer's real-life relationship coming to an end",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rock/jack-white-frozen-charlotte-stream-it-now-1236291482/",
+    "source": "billboard",
+    "title": "Jack White Heats up With ‘Frozen Charlotte’: Stream It Now",
+    "url": "https://www.billboard.com/music/rock/jack-white-frozen-charlotte-stream-it-now-1236291482/",
+    "publishedAt": "2026-07-10T05:39:47.000Z",
+    "summary": "Produced and mixed by the Detroit native, \"Frozen Charlotte\" took sonic shape at White's Third Man Studio in Nashville with a roll call of familiar collaborators.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/beyonce-suki-waterhouse-teddy-swims-new-music-friday-guide-1236288834/",
+    "source": "billboard",
+    "title": "Beyoncé, Suki Waterhouse, Teddy Swims & More: New Music Friday Guide",
+    "url": "https://www.billboard.com/music/music-news/beyonce-suki-waterhouse-teddy-swims-new-music-friday-guide-1236288834/",
+    "publishedAt": "2026-07-10T05:00:40.000Z",
+    "summary": "Check out the must-hear releases of the week.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rock/rolling-stones-foreign-tongues-stream-it-now-1236291458/",
+    "source": "billboard",
+    "title": "The Rolling Stones Roll On With ‘Foreign Tongues’: Stream It Now",
+    "url": "https://www.billboard.com/music/rock/rolling-stones-foreign-tongues-stream-it-now-1236291458/",
+    "publishedAt": "2026-07-10T04:09:15.000Z",
+    "summary": "The followup to the Grammy Award-winning 2023 collection Hackney Diamonds, the Stones' new album features an Amy Winehouse cover, a nod to Chuck Berry, and 12 new compositions.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/future-the-real-me-album-stream-1236291021/",
+    "source": "billboard",
+    "title": "Future Reveals ‘The Real Me’ With New Album: Stream It Now",
+    "url": "https://www.billboard.com/music/rb-hip-hop/future-the-real-me-album-stream-1236291021/",
+    "publishedAt": "2026-07-10T04:03:28.000Z",
+    "summary": "Pluto is back.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/2026-hard-rock-metal-album-release-calendar/",
+    "source": "loudwire",
+    "title": "The New Rock + Metal Albums Out Today",
+    "url": "https://loudwire.com/2026-hard-rock-metal-album-release-calendar/",
+    "publishedAt": "2026-07-10T04:01:48.000Z",
+    "summary": "See all the new releases coming each week of 2026. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/luis-r-conriquez-new-album-muchacho-alegre-essential-tracks/",
+    "source": "billboard",
+    "title": "Luis R. Conriquez Breaks Down 5 Essential Tracks From His New Album ‘Muchacho Alegre’",
+    "url": "https://www.billboard.com/lists/luis-r-conriquez-new-album-muchacho-alegre-essential-tracks/",
+    "publishedAt": "2026-07-10T04:01:00.000Z",
+    "summary": "The Mexican singer moves away from corridos bélicos, returning to his musical roots alongside guests such as Netón Vega, Peso Pluma, Fuerza Regida & Anuel AA.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/awards/baker-boy-drifting-clouds-2026-nimas-shortlist-1236291446/",
     "source": "billboard",
     "title": "Baker Boy, Drifting Clouds Lead 2026 NIMAs Shortlist",
@@ -45,48 +126,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-    "source": "billboard",
-    "title": "Billboard’s Music Industry Events Calendar",
-    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-    "publishedAt": "2026-07-10T00:03:00.000Z",
-    "summary": "A complete rundown of the most important events across the music business.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-latin/de-le-rose-ryan-castro-la-monda-collab-1235591743/",
     "source": "rolling-stone",
     "title": " De La Rose and Ryan Castro Throw a Cross-Cultural Party on ‘La Monda’",
     "url": "https://www.rollingstone.com/music/music-latin/de-le-rose-ryan-castro-la-monda-collab-1235591743/",
     "publishedAt": "2026-07-10T00:00:00.000Z",
     "summary": "\"Being able to see my music connect with people in different countries and cultures is something I’m extremely grateful for,\" De La Rose says",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/business/legal/dj-quik-son-murder-conviction-interview-1236291199/",
-    "source": "billboard",
-    "title": "DJ Quik Says His Son ‘Made a Mistake’ Following Murder Conviction, Pleads With Fans to Stop Asking About It",
-    "url": "https://www.billboard.com/business/legal/dj-quik-son-murder-conviction-interview-1236291199/",
-    "publishedAt": "2026-07-09T23:46:33.000Z",
-    "summary": "David Marvin Blake, Jr. was sentenced to 15 years to life for his part in a 2022 shooting that killed 33-year-old Julio Moises Cardoza Jr.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/country/riley-green-think-as-you-drunk-music-video-1236291298/",
-    "source": "billboard",
-    "title": "Watch an Overserved Riley Green (And His Beloved Corgi) In Tipsy New Music Video for ‘Think as You Drunk’",
-    "url": "https://www.billboard.com/music/country/riley-green-think-as-you-drunk-music-video-1236291298/",
-    "publishedAt": "2026-07-09T23:36:45.000Z",
-    "summary": "Green performs at his Nashville bar and gets arrested in the clip.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/tv-film/opetaia-foai-interview-moana-pacific-island-languages-1236291310/",
-    "source": "billboard",
-    "title": "Opetaia Foa‘i Calls Adding ‘Authenticity’ to ‘Moana’ Through Pacific Island Languages ‘A Huge Win’",
-    "url": "https://www.billboard.com/culture/tv-film/opetaia-foai-interview-moana-pacific-island-languages-1236291310/",
-    "publishedAt": "2026-07-09T23:22:18.000Z",
-    "summary": "The Samoa-born artist has written music for all three Moana films.",
     "image": null
   },
   {
@@ -99,30 +144,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/rock/spoon-hamilton-leithauser-summerstage-1236291189/",
-    "source": "billboard",
-    "title": "Spoon Brings Out Hamilton Leithauser to Cover a 1957 Rock Classic at SummerStage",
-    "url": "https://www.billboard.com/music/rock/spoon-hamilton-leithauser-summerstage-1236291189/",
-    "publishedAt": "2026-07-09T22:06:38.000Z",
-    "summary": "The Austin indie outfit also offered a version of a late-career Bowie gem on a gorgeous summer night.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/yungblud-cancels-cowboys-music-festival-performance-1235591760/",
     "source": "rolling-stone",
     "title": "Yungblud ‘Reluctantly’ Cancels Cowboys Music Festival Performance: ‘Working on Myself’",
     "url": "https://www.rollingstone.com/music/music-news/yungblud-cancels-cowboys-music-festival-performance-1235591760/",
     "publishedAt": "2026-07-09T22:04:43.000Z",
     "summary": "\"To all my family in Canada I apologize for not being there with you all this weekend,\" the singer says after sharing vulnerable post earlier in week",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/ed-sheeran-visits-team-england-camp-2026-world-cup-watch-1236291123/",
-    "source": "billboard",
-    "title": "Ed Sheeran Visits Team England’s Camp Amid 2026 World Cup: ‘Anyone Can Win, And I Think It’ll Be Us’",
-    "url": "https://www.billboard.com/music/music-news/ed-sheeran-visits-team-england-camp-2026-world-cup-watch-1236291123/",
-    "publishedAt": "2026-07-09T22:03:45.000Z",
-    "summary": "The pop star has been visiting Team England's camp since 2021.",
     "image": null
   },
   {
@@ -231,24 +258,6 @@
     "url": "https://www.rollingstone.com/music/music-country/twin-temple-satanic-imagery-charley-crockett-tour-1235591517/",
     "publishedAt": "2026-07-09T16:14:02.000Z",
     "summary": "L.A. duo Twin Temple were slated to open for the country singer this month but claim their use of symbols like pentagrams caused them to lose the gigs",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/neil-young-songs-wrote-teenager-1235591508/",
-    "source": "rolling-stone",
-    "title": "Neil Young Redid Two Songs He Wrote As a Teenager. Listen to the Original Recordings",
-    "url": "https://www.rollingstone.com/music/music-news/neil-young-songs-wrote-teenager-1235591508/",
-    "publishedAt": "2026-07-09T16:10:00.000Z",
-    "summary": "When Young ran out of new tunes for his forthcoming album Second Song, he dug deep into the archives for “I’ll Love You Forever” and “Casting Me Away From You”",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-live-reviews/my-chemical-romance-wembley-stadium-black-parade-review-1235591456/",
-    "source": "rolling-stone",
-    "title": "My Chemical Romance Bring Wembley Stadium to Its Knees With ‘Black Parade’ Show",
-    "url": "https://www.rollingstone.com/music/music-live-reviews/my-chemical-romance-wembley-stadium-black-parade-review-1235591456/",
-    "publishedAt": "2026-07-09T15:45:06.000Z",
-    "summary": "Almost 20 years after the album first marched into fans’ bleeding hearts, My Chemical Romance prove they aren’t just on a nostalgia trip",
     "image": null
   },
   {
@@ -501,15 +510,6 @@
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUUVYVi1WWldxb0VyZF91S0ZWaWp4NDI5Y05XN29zeElQOTN1VXJod1RkcWVzcjZWUnItdDdSQjh2YjFGYjBNMkQ5SUNKTy01aFlMOUhkUEFPT1lmMU5JZHQyc2JlRGJRY3hYR2o3QmJsQXZvVWtlUWk1WlF4a2RvRV9CVjlRdjlBVURTME1vc0hTa2puYTJfdlVVWGdLRklBdnpYXzktbGJIMXE0?oc=5",
     "publishedAt": "2026-07-08T15:06:00.000Z",
     "summary": "Converge announce UK and Europe tour with Sanguisugabogg, Blackbraid and Pupil Slicer Kerrang!",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/nene-royal-stuns-americas-got-talent-audience-cranberries-cover/",
-    "source": "loudwire",
-    "title": "16-Year-Old Guitar Prodigy Stuns 'America's Got Talent' Audience",
-    "url": "https://loudwire.com/nene-royal-stuns-americas-got-talent-audience-cranberries-cover/",
-    "publishedAt": "2026-07-08T14:56:13.000Z",
-    "summary": "Young Nene Royal stunned the 'America's Got Talent' audience and wowed the judges with her fierce performance of The Cranberries' 'Zombie.' Continue reading…",
     "image": null
   },
   {
