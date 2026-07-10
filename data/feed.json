@@ -1,5 +1,86 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/latin/benny-blanco-joven-salvaje-bb-trickz-spanish-album-hermoso-1236292176/",
+    "source": "billboard",
+    "title": "Benny Blanco Offers First Taste of Spanish-Language Album ‘Hermoso’ With ‘Joven y Salvaje,’ Featuring Bb trickz",
+    "url": "https://www.billboard.com/music/latin/benny-blanco-joven-salvaje-bb-trickz-spanish-album-hermoso-1236292176/",
+    "publishedAt": "2026-07-10T22:48:42.000Z",
+    "summary": "The Spanish rapper speaks of the carelessness that comes with being young on the new song.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/drake-bet-1-million-conor-mcgregor-ufc-1236292109/",
+    "source": "billboard",
+    "title": "Drake Makes $1 Million Bet on Conor McGregor to Win UFC Fight: ‘The Mac Is Back’",
+    "url": "https://www.billboard.com/music/rb-hip-hop/drake-bet-1-million-conor-mcgregor-ufc-1236292109/",
+    "publishedAt": "2026-07-10T22:42:11.000Z",
+    "summary": "McGregor returns to the Octagon on Saturday night to take on Max Holloway at UFC 329.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/hilary-duff-2004-throwback-concert-tee-la-forum-concerts-1236292162/",
+    "source": "billboard",
+    "title": "Hilary Duff Wears Her Own 2004 Throwback Concert Tee for 2 Sold-Out Nights at L.A.’s Forum",
+    "url": "https://www.billboard.com/music/pop/hilary-duff-2004-throwback-concert-tee-la-forum-concerts-1236292162/",
+    "publishedAt": "2026-07-10T22:20:31.000Z",
+    "summary": "The Lucky Me Tour continues Saturday night in Mountain View, California.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/pitbull-sets-guinness-world-record-most-bald-caps-bst-fest-1235592245/",
+    "source": "rolling-stone",
+    "title": "Pitbull Sets Guinness World Record for Most ‘Bald Caps’ at London Festival",
+    "url": "https://www.rollingstone.com/music/music-news/pitbull-sets-guinness-world-record-most-bald-caps-bst-fest-1235592245/",
+    "publishedAt": "2026-07-10T22:08:57.000Z",
+    "summary": "More than 20,000 people participated in the “largest gathering of people wearing bald caps” at BST Festival in Hyde Park",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/bad-bunny-ex-move-forward-un-verano-sin-ti-song-lawsuit/",
+    "source": "billboard",
+    "title": "Bad Bunny’s Ex-Girlfriend Can Keep Suing Him Over Voice Memo on ‘Un Verano Sin Ti’ Track, Court Rules",
+    "url": "https://www.billboard.com/pro/bad-bunny-ex-move-forward-un-verano-sin-ti-song-lawsuit/",
+    "publishedAt": "2026-07-10T21:51:49.000Z",
+    "summary": "Puerto Rico’s Supreme Court says Carliz De La Cruz Hernández can continue her suit over the line \"Bad Bunny baby\" on 2022's \"Dos Mil 16\", but not an earlier track.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/events/for-you-fest-lineup-podcasters-influencers-superfans-1236292089/",
+    "source": "billboard",
+    "title": "‘For You Fest’ Unveils Inaugural Lineup Featuring Sets From Your Favorite Podcasters, Influencers & Musicians",
+    "url": "https://www.billboard.com/culture/events/for-you-fest-lineup-podcasters-influencers-superfans-1236292089/",
+    "publishedAt": "2026-07-10T21:44:58.000Z",
+    "summary": "Social media stars such as Trisha Paytas, Tana Mongeau, Drew Afualo and more are on the bill.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/taylor-swift-nyc-permit-cost-msg-wedding-zohran-mamdani-1235592197/",
+    "source": "rolling-stone",
+    "title": "Taylor Swift Paid ‘Over $160,000’ to Obtain NYC Permit for MSG Wedding, Says Zohran Mamdani",
+    "url": "https://www.rollingstone.com/music/music-news/taylor-swift-nyc-permit-cost-msg-wedding-zohran-mamdani-1235592197/",
+    "publishedAt": "2026-07-10T21:37:28.000Z",
+    "summary": "The update comes after the superstar and her husband, Travis Kelce, faced criticism for their Fourth of July wedding",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/future-albums-ranked/",
+    "source": "billboard",
+    "title": "All of Future’s Albums Ranked From Worst to Best: Critics’ Picks",
+    "url": "https://www.billboard.com/lists/future-albums-ranked/",
+    "publishedAt": "2026-07-10T21:18:09.000Z",
+    "summary": "How Pluto became an Atlanta trap architect.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/metallica-reload-reissue-top10-billboard-charts-1236291445/",
+    "source": "billboard",
+    "title": "Metallica’s ‘ReLoad’ Makes Top 10 Return After Remastered Reissue",
+    "url": "https://www.billboard.com/music/chart-beat/metallica-reload-reissue-top10-billboard-charts-1236291445/",
+    "publishedAt": "2026-07-10T21:14:22.000Z",
+    "summary": "It’s No. 1 on Top Hard Rock Albums and top 10 on five more charts, including Top Album Sales.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/culture/product-recommendations/doordash-dashpass-signup-buy-online-1236276012/",
     "source": "billboard",
     "title": "DoorDash Delivers With the ‘Summer of DashPass’",
@@ -36,39 +117,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/pro/anthony-hopkins-signs-decca-classical-music-album/",
-    "source": "billboard",
-    "title": "Oscar-Winning Actor Anthony Hopkins Signs with Decca Classics as a Classical Composer",
-    "url": "https://www.billboard.com/pro/anthony-hopkins-signs-decca-classical-music-album/",
-    "publishedAt": "2026-07-10T20:16:07.000Z",
-    "summary": "Hopkins' album debut for the label will come out in August.",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/jack-osbourne-back-to-the-beginning-emotional-moments/",
     "source": "loudwire",
     "title": "Jack Osbourne's Most Emotional Back to the Beginning Moments",
     "url": "https://loudwire.com/jack-osbourne-back-to-the-beginning-emotional-moments/",
     "publishedAt": "2026-07-10T19:55:29.000Z",
     "summary": "Jack Osbourne recollects two emotional moments from the epic Back to the Beginning concert. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/beyonce-suki-waterhouse-teddy-swims-new-music-friday-guide-1236288834/",
-    "source": "billboard",
-    "title": "Beyoncé, Suki Waterhouse, Teddy Swims, Feid & More: New Music Friday Guide",
-    "url": "https://www.billboard.com/music/music-news/beyonce-suki-waterhouse-teddy-swims-new-music-friday-guide-1236288834/",
-    "publishedAt": "2026-07-10T19:55:00.000Z",
-    "summary": "Check out the must-hear releases of the week.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/future-real-me-album-tracks-ranked/",
-    "source": "billboard",
-    "title": "Future’s ‘The Real Me’ Album: All 22 Tracks Ranked",
-    "url": "https://www.billboard.com/lists/future-real-me-album-tracks-ranked/",
-    "publishedAt": "2026-07-10T19:54:28.000Z",
-    "summary": "Future makes his grand return with his 22-track effort, The Real Me.",
     "image": null
   },
   {
@@ -81,24 +135,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/pro/angine-de-poitrine-polaris-music-prize-list-canada-news/",
-    "source": "billboard",
-    "title": "In Canada: Angine de Poitrine, Peaches & More Make the Polaris Music Prize 2026 Short List",
-    "url": "https://www.billboard.com/pro/angine-de-poitrine-polaris-music-prize-list-canada-news/",
-    "publishedAt": "2026-07-10T19:25:10.000Z",
-    "summary": "Also up north this week: Nominations open for Billboard Canada Women in Music, and Rogers takes ownership of Maple Leaf Sports & Entertainment.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/bonnie-tyler-autobiography-read-book-online-stream-audiobook-1236290914/",
-    "source": "billboard",
-    "title": "Bonnie Tyler Opened Up About Singer Who Inspired Her Stage Name and Vocal Surgery That Changed Her Voice in Autobiography",
-    "url": "https://www.billboard.com/culture/product-recommendations/bonnie-tyler-autobiography-read-book-online-stream-audiobook-1236290914/",
-    "publishedAt": "2026-07-10T19:11:41.000Z",
-    "summary": "In 2023's Straight from the Heart, the Welsh singer wrote about her personal life, fame and the vocal cord surgery that resulted in her signature raspy sound.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/fiona-apple-new-music-video-update-1235592093/",
     "source": "rolling-stone",
     "title": "Fiona Apple Wants to Write About the ‘Endless Barrage of Horrors’ in Today’s World",
@@ -108,30 +144,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/lists/believe-suno-luminate-music-industry-hires/",
-    "source": "billboard",
-    "title": "Executive Turntable: Believe Unveils New Unified Structure; Suno Hires Marketing & Music Biz Development Execs",
-    "url": "https://www.billboard.com/lists/believe-suno-luminate-music-industry-hires/",
-    "publishedAt": "2026-07-10T18:57:48.000Z",
-    "summary": "This week’s music industry hires includes Luminate’s new CMO, A2IM's new board and more.",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/madison-square-garden-has-been-secretly-tracking-queer-musicians/",
     "source": "pitchfork",
     "title": "Madison Square Garden Has Been Secretly Tracking Queer Musicians",
     "url": "https://pitchfork.com/story/madison-square-garden-has-been-secretly-tracking-queer-musicians/",
     "publishedAt": "2026-07-10T18:57:07.000Z",
     "summary": "The venue’s database also assigned a “high risk” label to Freddie Gibbs, Lil Jon, and other rappers",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/country/megan-moroney-first-fragrance-calliope-1236291655/",
-    "source": "billboard",
-    "title": "Megan Moroney Launches First Fragrance, ‘Calliope’",
-    "url": "https://www.billboard.com/music/country/megan-moroney-first-fragrance-calliope-1236291655/",
-    "publishedAt": "2026-07-10T18:28:54.000Z",
-    "summary": "Moroney is also currently leading her headlining Cloud 9 Tour.",
     "image": null
   },
   {
@@ -204,24 +222,6 @@
     "url": "https://www.rollingstone.com/music/music-news/jack-white-invites-satanic-band-twin-temple-to-open-1235591970/",
     "publishedAt": "2026-07-10T16:34:48.000Z",
     "summary": "The invitation comes after the L.A. duo were reportedly fired from Charley Crockett’s tour over their Lucifer-loving imagery",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/suki-waterhouse-new-music-video-interview-1235588530/",
-    "source": "rolling-stone",
-    "title": "Suki Waterhouse on Her New Album — and Hanging with Taylor Swift and BTS",
-    "url": "https://www.rollingstone.com/music/music-features/suki-waterhouse-new-music-video-interview-1235588530/",
-    "publishedAt": "2026-07-10T16:21:33.000Z",
-    "summary": "Waterhouse explains how motherhood, Mick Fleetwood, and 50 Cent shaped Loveland",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/alabama-shakes-new-song-i-feel-hope-coming-new-album-1235591943/",
-    "source": "rolling-stone",
-    "title": "Alabama Shakes Unveil Optimistic Single ‘I Feel Hope Coming’ From Upcoming New Album",
-    "url": "https://www.rollingstone.com/music/music-news/alabama-shakes-new-song-i-feel-hope-coming-new-album-1235591943/",
-    "publishedAt": "2026-07-10T16:11:11.000Z",
-    "summary": "I Must Be Dreaming, band’s first album in 11 years, out Aug. 28",
     "image": null
   },
   {
