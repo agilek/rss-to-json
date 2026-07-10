@@ -1,5 +1,86 @@
 [
   {
+    "id": "loudwire-https://loudwire.com/longest-running-metal-bands-never-broke-up/",
+    "source": "loudwire",
+    "title": "The 12 Longest-Running Metal Bands That Never Broke Up",
+    "url": "https://loudwire.com/longest-running-metal-bands-never-broke-up/",
+    "publishedAt": "2026-07-10T13:59:51.000Z",
+    "summary": "These are some of the longest-running metal bands that have never broken up or gone on hiatus in a way that made the group inactive. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rock/yungblud-withdraws-canada-cowboys-music-festival-mental-health-1236291574/",
+    "source": "billboard",
+    "title": "Yungblud ‘Reluctantly’ Withdraws From Canada’s Cowboys Music Festival: ‘Working on Myself’",
+    "url": "https://www.billboard.com/music/rock/yungblud-withdraws-canada-cowboys-music-festival-mental-health-1236291574/",
+    "publishedAt": "2026-07-10T13:21:17.000Z",
+    "summary": "The decision comes just weeks after the singer became visibly emotional and told fans he's been struggling during his set at BludFest in Czechia on June 27.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/12-new-albums-you-should-listen-to-now-kelela-jack-white-rolling-stones/",
+    "source": "pitchfork",
+    "title": "12 New Albums You Should Listen to Now: Kelela, Jack White, and More",
+    "url": "https://pitchfork.com/story/12-new-albums-you-should-listen-to-now-kelela-jack-white-rolling-stones/",
+    "publishedAt": "2026-07-10T13:05:46.000Z",
+    "summary": "Stream new releases from Kelela, Jack White, Twisted Teens, and Gloorp",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/latin/shakira-egypt-concert-great-pyramids-giza-1236291545/",
+    "source": "billboard",
+    "title": "Shakira Returning to Egypt For First Time in 20 Years For Concert at the Great Pyramids of Giza",
+    "url": "https://www.billboard.com/music/latin/shakira-egypt-concert-great-pyramids-giza-1236291545/",
+    "publishedAt": "2026-07-10T12:45:10.000Z",
+    "summary": "The Nov. 28 show is the singer's long-awaited follow-up to her 2007 show at the pyramids on her Oral Fixation tour.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/new-rock-metal-tours-announced-july-4-9-2026/",
+    "source": "loudwire",
+    "title": "12 New Rock + Metal Tours Announced This Past Week",
+    "url": "https://loudwire.com/new-rock-metal-tours-announced-july-4-9-2026/",
+    "publishedAt": "2026-07-10T12:36:41.000Z",
+    "summary": "We've got tour news concerning Bayside, Danny Elfman, Suicidal Tendencies and plenty more this week. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/riaa-ifpi-more-create-system-for-tagging-ai-songs/",
+    "source": "billboard",
+    "title": "RIAA, IFPI & More Come Together to Create System for Tagging AI-Generated Songs",
+    "url": "https://www.billboard.com/pro/riaa-ifpi-more-create-system-for-tagging-ai-songs/",
+    "publishedAt": "2026-07-10T12:21:09.000Z",
+    "summary": "Working similarly to explicit labels on records, the tags will distinguish between \"AI-generated\" and \"AI-assisted\" songs.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/cage-the-elephant-signs-big-loud-rock/",
+    "source": "billboard",
+    "title": "Cage the Elephant Signs With Big Loud Rock",
+    "url": "https://www.billboard.com/pro/cage-the-elephant-signs-big-loud-rock/",
+    "publishedAt": "2026-07-10T12:00:00.000Z",
+    "summary": "The group has also released the new song \"Beaches in Tennessee.\"",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/features/montreux-jazz-festival-2026-sienna-spiro-raye-kwn-1236290646/",
+    "source": "billboard",
+    "title": "Montreux Jazz Festival: Why RAYE, Sienna Spiro and More ‘Feel At Home’ at Legendary Concert Series",
+    "url": "https://www.billboard.com/music/features/montreux-jazz-festival-2026-sienna-spiro-raye-kwn-1236290646/",
+    "publishedAt": "2026-07-10T11:55:07.000Z",
+    "summary": "CEO Mathieu Jaton has led the festival since 2013, inheriting the role from founder Claude Nobs.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/bts-immersive-bts-the-city-arirang-new-york-1236291524/",
+    "source": "billboard",
+    "title": "BTS Bringing Immersive ‘BTS The City Arirang’ To New York",
+    "url": "https://www.billboard.com/music/pop/bts-immersive-bts-the-city-arirang-new-york-1236291524/",
+    "publishedAt": "2026-07-10T11:43:10.000Z",
+    "summary": "The traveling exhibition has already taken place in Seoul, Las Vegas, Busan and London ahead of the group's shows in those cities.",
+    "image": null
+  },
+  {
     "id": "louder-than-war-https://louderthanwar.com/karl-d-silva-interview/",
     "source": "louder-than-war",
     "title": "Karl D’ Silva: Interview",
@@ -42,6 +123,15 @@
     "url": "https://www.billboard.com/music/chart-beat/madonna-confessions-ii-no-1-aria-chart-1236291506/",
     "publishedAt": "2026-07-10T09:15:39.000Z",
     "summary": "The queen of pop now boasts 13 No. 1s on the ARIA Albums Chart, and 22 appearances in the top 10 album.",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMingFBVV95cUxOM05hLTE4TXJFUHBlSGhOZlBCT2NyTThIcmxQaWk3bFBrdVkzcWgwSnZ4SmpqSlBZSHJocS0tdlh3TmZUQnFDRUw1WG82UnZPQzV2QlBkZU1xV1A3dWtBa29sa1pVajdSbFVEUVY4eW5FMDFBNzlxUXktNEgzUGJJZ1EtVWZSVDdUa1Z2RUwxWUFCcmdqb3Y4YjExZmlQQQ?oc=5",
+    "source": "nme",
+    "title": "Justin Baldoni breaks silence after Blake Lively settlement - NME",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM05hLTE4TXJFUHBlSGhOZlBCT2NyTThIcmxQaWk3bFBrdVkzcWgwSnZ4SmpqSlBZSHJocS0tdlh3TmZUQnFDRUw1WG82UnZPQzV2QlBkZU1xV1A3dWtBa29sa1pVajdSbFVEUVY4eW5FMDFBNzlxUXktNEgzUGJJZ1EtVWZSVDdUa1Z2RUwxWUFCcmdqb3Y4YjExZmlQQQ?oc=5",
+    "publishedAt": "2026-07-10T09:06:29.000Z",
+    "summary": "Justin Baldoni breaks silence after Blake Lively settlement NME",
     "image": null
   },
   {
@@ -167,7 +257,7 @@
     "title": "Teddy Swims Reflects on Heartbreak on New Single ‘Break Up in Reverse’",
     "url": "https://www.rollingstone.com/music/music-news/teddy-swims-break-up-in-reverse-single-1235591836/",
     "publishedAt": "2026-07-10T06:28:15.000Z",
-    "summary": "The lovelorn song was inspired by the singer's real-life relationship coming to an end",
+    "summary": "The lovelorn song was inspired by the singer’s real-life relationship coming to an end",
     "image": null
   },
   {
@@ -189,48 +279,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/rock/rolling-stones-foreign-tongues-stream-it-now-1236291458/",
-    "source": "billboard",
-    "title": "The Rolling Stones Roll On With ‘Foreign Tongues’: Stream It Now",
-    "url": "https://www.billboard.com/music/rock/rolling-stones-foreign-tongues-stream-it-now-1236291458/",
-    "publishedAt": "2026-07-10T04:09:15.000Z",
-    "summary": "The followup to the Grammy Award-winning 2023 collection Hackney Diamonds, the Stones' new album features an Amy Winehouse cover, a nod to Chuck Berry, and 12 new compositions.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/future-the-real-me-album-stream-1236291021/",
-    "source": "billboard",
-    "title": "Future Reveals ‘The Real Me’ With New Album: Stream It Now",
-    "url": "https://www.billboard.com/music/rb-hip-hop/future-the-real-me-album-stream-1236291021/",
-    "publishedAt": "2026-07-10T04:03:28.000Z",
-    "summary": "Pluto is back.",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/2026-hard-rock-metal-album-release-calendar/",
     "source": "loudwire",
     "title": "The New Rock + Metal Albums Out Today",
     "url": "https://loudwire.com/2026-hard-rock-metal-album-release-calendar/",
     "publishedAt": "2026-07-10T04:01:48.000Z",
     "summary": "See all the new releases coming each week of 2026. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/luis-r-conriquez-new-album-muchacho-alegre-essential-tracks/",
-    "source": "billboard",
-    "title": "Luis R. Conriquez Breaks Down 5 Essential Tracks From His New Album ‘Muchacho Alegre’",
-    "url": "https://www.billboard.com/lists/luis-r-conriquez-new-album-muchacho-alegre-essential-tracks/",
-    "publishedAt": "2026-07-10T04:01:00.000Z",
-    "summary": "The Mexican singer moves away from corridos bélicos, returning to his musical roots alongside guests such as Netón Vega, Peso Pluma, Fuerza Regida & Anuel AA.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/awards/baker-boy-drifting-clouds-2026-nimas-shortlist-1236291446/",
-    "source": "billboard",
-    "title": "Baker Boy, Drifting Clouds Lead 2026 NIMAs Shortlist",
-    "url": "https://www.billboard.com/music/awards/baker-boy-drifting-clouds-2026-nimas-shortlist-1236291446/",
-    "publishedAt": "2026-07-10T03:26:37.000Z",
-    "summary": "Six categories will be presented during a ceremony Saturday, Aug. 8 at Darwin Amphitheatre.",
     "image": null
   },
   {
@@ -243,30 +297,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/lululemon-summer-sale-2026-best-activewear-deals-buy-online-1236290891/",
-    "source": "billboard",
-    "title": "Lululemon’s Rare Sale Is Live With Align Pants, ABC Trousers & Summer Styles From $19",
-    "url": "https://www.billboard.com/culture/product-recommendations/lululemon-summer-sale-2026-best-activewear-deals-buy-online-1236290891/",
-    "publishedAt": "2026-07-10T00:44:25.000Z",
-    "summary": "The high-end activewear brand seen on musicians like Kelsea Ballerini rarely goes on sale, but shoppers can now score hundreds of Lululemon favorites for up to 65% off.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/run-dmc-raising-hell-album-40th-anniversary-video-1236291157/",
-    "source": "billboard",
-    "title": "Run-D.M.C. Celebrates 40 Years of Seminal ‘Raising Hell’ Album: ‘It’s the Sgt. Pepper’s of Hip-Hop’",
-    "url": "https://www.billboard.com/music/rb-hip-hop/run-dmc-raising-hell-album-40th-anniversary-video-1236291157/",
-    "publishedAt": "2026-07-10T00:26:01.000Z",
-    "summary": "The Queens-bred crew's third album was the first hip-hop LP to go platinum.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-latin/de-le-rose-ryan-castro-la-monda-collab-1235591743/",
     "source": "rolling-stone",
-    "title": " De La Rose and Ryan Castro Throw a Cross-Cultural Party on ‘La Monda’",
+    "title": "De La Rose and Ryan Castro Throw a Cross-Cultural Party on ‘La Monda’",
     "url": "https://www.rollingstone.com/music/music-latin/de-le-rose-ryan-castro-la-monda-collab-1235591743/",
     "publishedAt": "2026-07-10T00:00:00.000Z",
-    "summary": "\"Being able to see my music connect with people in different countries and cultures is something I’m extremely grateful for,\" De La Rose says",
+    "summary": "“Being able to see my music connect with people in different countries and cultures is something I’m extremely grateful for,” De La Rose says",
     "image": null
   },
   {
@@ -284,7 +320,7 @@
     "title": "Yungblud ‘Reluctantly’ Cancels Cowboys Music Festival Performance: ‘Working on Myself’",
     "url": "https://www.rollingstone.com/music/music-news/yungblud-cancels-cowboys-music-festival-performance-1235591760/",
     "publishedAt": "2026-07-09T22:04:43.000Z",
-    "summary": "\"To all my family in Canada I apologize for not being there with you all this weekend,\" the singer says after sharing vulnerable post earlier in week",
+    "summary": "“To all my family in Canada I apologize for not being there with you all this weekend,” the singer says after sharing vulnerable post earlier in week",
     "image": null
   },
   {
@@ -302,7 +338,7 @@
     "title": "How Much Did Taylor Swift’s Wedding to Travis Kelce Cost?",
     "url": "https://www.rollingstone.com/music/music-features/taylor-swift-travis-kelce-wedding-cost-estimate-1235590070/",
     "publishedAt": "2026-07-09T19:23:25.000Z",
-    "summary": "From security to flowers, here’s an estimate of what the popstar’s final tab could be",
+    "summary": "From security to flowers, here’s an estimate of what the pop star’s final tab could be",
     "image": null
   },
   {
@@ -477,15 +513,6 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/bonnie-tyler-dead-75/",
-    "source": "loudwire",
-    "title": "'Total Eclipse of the Heart' Singer Bonnie Tyler Dead at 75",
-    "url": "https://loudwire.com/bonnie-tyler-dead-75/",
-    "publishedAt": "2026-07-09T09:36:22.000Z",
-    "summary": "Tyler's long career also included the hits \"It's a Heartache\" and \"Holding Out for a Hero.\" Continue reading…",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMilgFBVV95cUxQTkVteEQ3Y1BFdGJMR3ZnV2tlbm41LThIUXphQjRUdkRZYzZ0TDVXdmFUMWFOUDdWWXdHM3dTNllZblVPb2tLZmN4MFk2czdRWVA5LVNERDNnbFNLUXFHS09JRmtZOGNkeDBXMXNIWW5HdUpxWEQtQ24zYmVveDAtLTdNSVlBRGc1Q21QV0JCeW9tR0tZZWc?oc=5",
     "source": "nme",
     "title": "World pays tribute as Bonnie Tyler dies \"unexpectedly\" aged 75: \"One of Britain's great recording artists\" - NME",
@@ -540,15 +567,6 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/mastodon-brent-hinds-death-new-video/",
-    "source": "loudwire",
-    "title": "Mastodon Open Up + Reflect on Brent Hinds in 35-Minute Video",
-    "url": "https://loudwire.com/mastodon-brent-hinds-death-new-video/",
-    "publishedAt": "2026-07-08T19:35:23.000Z",
-    "summary": "Mastodon have officially addressed founding member Brent Hinds' death in a new 35-minute video nearly a year after the tragedy took place. Continue reading…",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/justin-bieber-added-to-world-cup-final-halftime-show/",
     "source": "pitchfork",
     "title": "Justin Bieber Added to World Cup Final Halftime Show",
@@ -591,15 +609,6 @@
     "url": "https://pitchfork.com/story/mastodon-release-new-short-film-honoring-brent-hinds/",
     "publishedAt": "2026-07-08T17:11:34.000Z",
     "summary": "The metal band’s former singer-guitarist died in a motorcycle crash in 2025",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/lady-gaga-scores-emmy-nomination-for-her-wednesday-song/",
-    "source": "pitchfork",
-    "title": "Lady Gaga Scores Emmy Nomination for Her Wednesday Song",
-    "url": "https://pitchfork.com/story/lady-gaga-scores-emmy-nomination-for-her-wednesday-song/",
-    "publishedAt": "2026-07-08T17:00:39.000Z",
-    "summary": "“The Dead Dance” is up for Outstanding Original Music and Lyrics at the 2026 awards",
     "image": null
   },
   {
@@ -672,15 +681,6 @@
     "url": "https://louderthanwar.com/def-leppard-co-op-live-manchester-live-review/",
     "publishedAt": "2026-07-08T12:09:29.000Z",
     "summary": "Def Leppard | Extreme Co-op Live, Manchester 6th July, 2026 Step inside, walk this way – the great showmen are in town, bringing with them their own inimitable take on the rock ‘n’ roll fantasy. Forged in the unassuming city of Sheffield, Def Leppard have lived the dreams and endured the nightmares, but with 50 […] The post Def Leppard: Co-op Live, Manchester – Live Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMingFBVV95cUxORmRjb3QwOGd5VnhvMW5qRDhmNDFFQXdhbmg1b2pNdEE1cWxBUmhyc0VmZFpVdDZtbGRSOGVUNTBOalY3RUd1U3E2NFpmM1l5RDVLeThWSWs1Y0t0TVBuVGJQZTdwQk9GUFpTSi04dDM0NGc2dHkxODhFenJ3UGpLcDhQdlIxWmo0T0o5VlprcjFkdjZqbXk2X21RV0NVdw?oc=5",
-    "source": "nme",
-    "title": "Interpol stare down AI on atmospheric new single ‘Iron City’ - NME",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORmRjb3QwOGd5VnhvMW5qRDhmNDFFQXdhbmg1b2pNdEE1cWxBUmhyc0VmZFpVdDZtbGRSOGVUNTBOalY3RUd1U3E2NFpmM1l5RDVLeThWSWs1Y0t0TVBuVGJQZTdwQk9GUFpTSi04dDM0NGc2dHkxODhFenJ3UGpLcDhQdlIxWmo0T0o5VlprcjFkdjZqbXk2X21RV0NVdw?oc=5",
-    "publishedAt": "2026-07-08T12:00:35.000Z",
-    "summary": "Interpol stare down AI on atmospheric new single ‘Iron City’ NME",
     "image": null
   },
   {
