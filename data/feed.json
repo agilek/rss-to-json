@@ -1,5 +1,50 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/music-news/yeonjun-vote-favorite-new-music-release-this-week-poll-1236292228/",
+    "source": "billboard",
+    "title": "YEONJUN, The Rolling Stones, Beyoncé & More: Which Is Your Favorite New Music Release This Week? Vote!",
+    "url": "https://www.billboard.com/music/music-news/yeonjun-vote-favorite-new-music-release-this-week-poll-1236292228/",
+    "publishedAt": "2026-07-11T00:48:00.000Z",
+    "summary": "We also had new releases from Future, Suki Waterhouse, Teddy Swims, The Linda Lindas & Hayley Williams, Chris Lake & Tiga, and more.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/bad-bunny-ex-girlfriend-un-verano-sin-ti-lawsuit-1235592278/",
+    "source": "rolling-stone",
+    "title": "Bad Bunny’s Ex Wins Round in Battle Over Voice Note Used on ‘Un Verano Sin Ti’",
+    "url": "https://www.rollingstone.com/music/music-news/bad-bunny-ex-girlfriend-un-verano-sin-ti-lawsuit-1235592278/",
+    "publishedAt": "2026-07-11T00:34:32.000Z",
+    "summary": "Carliz De La Cruz Hernández got a green light to pursue her claim over the “Bad Bunny baby” tagline on “Dos Mil 16\"",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/taylor-swift-travis-kelce-nyc-wedding-permit-mayor-mamdani-1236292220/",
+    "source": "billboard",
+    "title": "Taylor Swift & Travis Kelce Paid ‘Over $160,000’ for NYC Wedding Permit, Mayor Zohran Mamdani Says",
+    "url": "https://www.billboard.com/music/pop/taylor-swift-travis-kelce-nyc-wedding-permit-mayor-mamdani-1236292220/",
+    "publishedAt": "2026-07-11T00:16:20.000Z",
+    "summary": "What did the couple have to pay to host their wedding in the thick of New York City?",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/insomniac-settles-lawsuit-miami-club-space-factory-town/",
+    "source": "billboard",
+    "title": "Insomniac to Stay Involved With Miami’s Club Space & Factory Town Venues After Legal Settlement",
+    "url": "https://www.billboard.com/pro/insomniac-settles-lawsuit-miami-club-space-factory-town/",
+    "publishedAt": "2026-07-10T23:56:40.000Z",
+    "summary": "The global dance music company has \"amicably resolved\" its lengthy legal battle with a trio of Miami club operators.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/country/big-rich-john-rich-usda-special-envoy-president-trump-1236292185/",
+    "source": "billboard",
+    "title": "Big & Rich’s John Rich Sworn In as USDA Special Envoy for American Landowners: ‘Let’s Get to Work’",
+    "url": "https://www.billboard.com/music/country/big-rich-john-rich-usda-special-envoy-president-trump-1236292185/",
+    "publishedAt": "2026-07-10T23:08:13.000Z",
+    "summary": "The post was made official during his swearing in at the Oval Office.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/latin/benny-blanco-joven-salvaje-bb-trickz-spanish-album-hermoso-1236292176/",
     "source": "billboard",
     "title": "Benny Blanco Offers First Taste of Spanish-Language Album ‘Hermoso’ With ‘Joven y Salvaje,’ Featuring Bb trickz",
@@ -69,42 +114,6 @@
     "url": "https://www.billboard.com/lists/future-albums-ranked/",
     "publishedAt": "2026-07-10T21:18:09.000Z",
     "summary": "How Pluto became an Atlanta trap architect.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/metallica-reload-reissue-top10-billboard-charts-1236291445/",
-    "source": "billboard",
-    "title": "Metallica’s ‘ReLoad’ Makes Top 10 Return After Remastered Reissue",
-    "url": "https://www.billboard.com/music/chart-beat/metallica-reload-reissue-top10-billboard-charts-1236291445/",
-    "publishedAt": "2026-07-10T21:14:22.000Z",
-    "summary": "It’s No. 1 on Top Hard Rock Albums and top 10 on five more charts, including Top Album Sales.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/doordash-dashpass-signup-buy-online-1236276012/",
-    "source": "billboard",
-    "title": "DoorDash Delivers With the ‘Summer of DashPass’",
-    "url": "https://www.billboard.com/culture/product-recommendations/doordash-dashpass-signup-buy-online-1236276012/",
-    "publishedAt": "2026-07-10T20:48:59.000Z",
-    "summary": "DashPass members can get massive savings during the 2026 FIFA World Cup this summer.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/country/zac-brown-band-tour-love-fear-1236291969/",
-    "source": "billboard",
-    "title": "Zac Brown Band Talks New Tour & Creating Their Recent Sphere Residency: ‘You Learn Your Limits’",
-    "url": "https://www.billboard.com/music/country/zac-brown-band-tour-love-fear-1236291969/",
-    "publishedAt": "2026-07-10T20:40:55.000Z",
-    "summary": "The Love & Fear Tour follows the band's independently released album.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-    "source": "billboard",
-    "title": "Billboard’s Music Industry Events Calendar",
-    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-    "publishedAt": "2026-07-10T20:33:00.000Z",
-    "summary": "A complete rundown of the most important events across the music business.",
     "image": null
   },
   {
@@ -213,15 +222,6 @@
     "url": "https://www.rollingstone.com/music/music-country/shania-twain-queens-of-the-stone-age-josh-homme-new-song-1235591937/",
     "publishedAt": "2026-07-10T16:42:43.000Z",
     "summary": "The gritty, nostalgic track previews the country pop queen’s forthcoming LP Little Miss Twain",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/jack-white-invites-satanic-band-twin-temple-to-open-1235591970/",
-    "source": "rolling-stone",
-    "title": "Jack White Invites ‘Satanic’ Band Twin Temple to Open for Him",
-    "url": "https://www.rollingstone.com/music/music-news/jack-white-invites-satanic-band-twin-temple-to-open-1235591970/",
-    "publishedAt": "2026-07-10T16:34:48.000Z",
-    "summary": "The invitation comes after the L.A. duo were reportedly fired from Charley Crockett’s tour over their Lucifer-loving imagery",
     "image": null
   },
   {
@@ -432,6 +432,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMiigFBVV95cUxQQnRqOEQ1TGFNZnRKNHI0Y3R2c2Y0U0xhU2RzQlRMV2pOdzhUeGhkYW1sNlhjeTBQSnhOV3dLM0F4S0kzcE5Yc0VucWZxeGd6N2gwRl9MZ2wxdWVyLUlyZlpOVTR0aUhMclR5TllnQm1ld0N4TjBwcTZsSmdHNFhQOW5oeGs4Nm42UEE?oc=5",
+    "source": "nme",
+    "title": "Jack White – ‘Frozen Charlotte’ review: cheeky classic rock meant for the stage - NME",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQnRqOEQ1TGFNZnRKNHI0Y3R2c2Y0U0xhU2RzQlRMV2pOdzhUeGhkYW1sNlhjeTBQSnhOV3dLM0F4S0kzcE5Yc0VucWZxeGd6N2gwRl9MZ2wxdWVyLUlyZlpOVTR0aUhMclR5TllnQm1ld0N4TjBwcTZsSmdHNFhQOW5oeGs4Nm42UEE?oc=5",
+    "publishedAt": "2026-07-10T09:00:35.000Z",
+    "summary": "Jack White – ‘Frozen Charlotte’ review: cheeky classic rock meant for the stage NME",
+    "image": null
+  },
+  {
     "id": "uncut-https://www.uncut.co.uk/features/a-lot-of-excitement-a-lot-of-wonder-keith-richards-on-brian-jones-the-beatles-and-his-favourite-rolling-stones-albums-155313/",
     "source": "uncut",
     "title": "“A lot of excitement, a lot of wonder” – Keith Richards on Brian Jones, The Beatles and his favourite Rolling Stones albums",
@@ -609,15 +618,6 @@
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTkVteEQ3Y1BFdGJMR3ZnV2tlbm41LThIUXphQjRUdkRZYzZ0TDVXdmFUMWFOUDdWWXdHM3dTNllZblVPb2tLZmN4MFk2czdRWVA5LVNERDNnbFNLUXFHS09JRmtZOGNkeDBXMXNIWW5HdUpxWEQtQ24zYmVveDAtLTdNSVlBRGc1Q21QV0JCeW9tR0tZZWc?oc=5",
     "publishedAt": "2026-07-09T09:27:41.000Z",
     "summary": "World pays tribute as Bonnie Tyler dies \"unexpectedly\" aged 75: \"One of Britain's great recording artists\" NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcllmSHJLYUVuSlRCQ1F1Q1djWC1hUEc5S2ZwUm5pMmRtTW9MdlNieW0xYk1NTUtNWnhHUThkMnRHeWZDVXBLOGlaOHVaRUE4QVJaQmRoWjZsTXc5Q1JlY0FXNzF2emZxN21PWmJWN1I5WVBTY256SHhqOWZUdW4tSnc4T1ZpQ05OckE4?oc=5",
-    "source": "nme",
-    "title": "The Rolling Stones – ‘Foreign Tongues’ review: a fresh and fluent follow-up to ‘Hackney Diamonds’ - NME",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcllmSHJLYUVuSlRCQ1F1Q1djWC1hUEc5S2ZwUm5pMmRtTW9MdlNieW0xYk1NTUtNWnhHUThkMnRHeWZDVXBLOGlaOHVaRUE4QVJaQmRoWjZsTXc5Q1JlY0FXNzF2emZxN21PWmJWN1I5WVBTY256SHhqOWZUdW4tSnc4T1ZpQ05OckE4?oc=5",
-    "publishedAt": "2026-07-09T09:00:22.000Z",
-    "summary": "The Rolling Stones – ‘Foreign Tongues’ review: a fresh and fluent follow-up to ‘Hackney Diamonds’ NME",
     "image": null
   },
   {
