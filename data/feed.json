@@ -1,5 +1,41 @@
 [
   {
+    "id": "louder-than-war-https://louderthanwar.com/albums-of-the-year-so-far-2/",
+    "source": "louder-than-war",
+    "title": "ALBUMS OF THE YEAR SO FAR…",
+    "url": "https://louderthanwar.com/albums-of-the-year-so-far-2/",
+    "publishedAt": "2026-07-13T10:23:34.000Z",
+    "summary": "As we pass that halfway mark, the summer sun scorching and the smell of weekend barbecues still in the air, we run down, in no discernible order, some of our favourite albums of the year so far… Dan O’Farrell & The Difference Engine: The Fish That Learned To Drown (Gare Du Nord Records) Dan O’Farrell […] The post ALBUMS OF THE YEAR SO FAR… appeared first on Louder Than War.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/sam-fender-olivia-dean-rein-mein-uk-chart-records/",
+    "source": "billboard",
+    "title": "How Sam Fender & Olivia Dean’s ‘Rein Me In’ Became a Record-Breaking U.K. Chart Success",
+    "url": "https://www.billboard.com/lists/sam-fender-olivia-dean-rein-mein-uk-chart-records/",
+    "publishedAt": "2026-07-13T10:10:34.000Z",
+    "summary": "The song is now the U.K.'s longest-running No. 1 single of the decade.",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMizwFBVV95cUxNbExkekttTTNoWmtaRGVQUkl5T2VFRHF5MjBrNHpFbWswN19UMUktdEtNbDl4WWpMNFR1ZkJBSDJDVGNsRENqTnp1QVRtcDlTRF83SmJaZU5MeVk4cVNpNko3RVRrYUNFc2tmYW1XLXFCZzVRenlfSnR5MTlhSnR2TnVuNkpQRy1vOXpMa0tMUzZ6M1Y3OWVmWGY0MXJNdnQwOWYyOXBhcHRRZGJadEN3QndIanRrVzI0dlE2Ym9WWmJKeC1pM21BNjVJTnBZalE?oc=5",
+    "source": "nme",
+    "title": "System Of A Down with Queens Of The Stone Age at Tottenham Hotspur Stadium: stage times revealed - NME",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbExkekttTTNoWmtaRGVQUkl5T2VFRHF5MjBrNHpFbWswN19UMUktdEtNbDl4WWpMNFR1ZkJBSDJDVGNsRENqTnp1QVRtcDlTRF83SmJaZU5MeVk4cVNpNko3RVRrYUNFc2tmYW1XLXFCZzVRenlfSnR5MTlhSnR2TnVuNkpQRy1vOXpMa0tMUzZ6M1Y3OWVmWGY0MXJNdnQwOWYyOXBhcHRRZGJadEN3QndIanRrVzI0dlE2Ym9WWmJKeC1pM21BNjVJTnBZalE?oc=5",
+    "publishedAt": "2026-07-13T09:01:57.000Z",
+    "summary": "System Of A Down with Queens Of The Stone Age at Tottenham Hotspur Stadium: stage times revealed NME",
+    "image": null
+  },
+  {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQ1VUWXhtT1J2cUd6RmRxR0ZjdXNKVWFMdW1TaU5fRlE1bmROMEhPOFlicU9qNWxBb1FDbnVScTBZUFZHVjNwZjlDTjVVTDhUaEZUeEdEVXZQRExnRURNMDRXMThvcm5sXy0xcFNNZlJHMWtYWC1iajB1RUxmRFpsQXJjdUNLMDk4bENXQk00LWFIWGFZU09zQkRTbG9KWmhRUUFGci03b09nZ2NzdEtEanBoQlBZRF9rWlFtZXpEZzd0RFE?oc=5",
+    "source": "kerrang",
+    "title": "Mastodon share explosive Josh Homme collaboration Snakes For Dinner and confirm new album Marrow Deep - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQ1VUWXhtT1J2cUd6RmRxR0ZjdXNKVWFMdW1TaU5fRlE1bmROMEhPOFlicU9qNWxBb1FDbnVScTBZUFZHVjNwZjlDTjVVTDhUaEZUeEdEVXZQRExnRURNMDRXMThvcm5sXy0xcFNNZlJHMWtYWC1iajB1RUxmRFpsQXJjdUNLMDk4bENXQk00LWFIWGFZU09zQkRTbG9KWmhRUUFGci03b09nZ2NzdEtEanBoQlBZRF9rWlFtZXpEZzd0RFE?oc=5",
+    "publishedAt": "2026-07-13T08:25:00.000Z",
+    "summary": "Mastodon share explosive Josh Homme collaboration Snakes For Dinner and confirm new album Marrow Deep Kerrang!",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/pop/madonna-club-confessions-new-york-city-1236292743/",
     "source": "billboard",
     "title": "Madonna, Stuart Price & Honey Dijon Knock Out New York City With Club Confessions",
@@ -114,15 +150,6 @@
     "url": "https://www.billboard.com/culture/tv-film/moana-box-office-opening-disney-1236292593/",
     "publishedAt": "2026-07-12T18:06:07.000Z",
     "summary": "The Disney live-action film cost a reported $250 million to produce.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/jay-z-yankee-stadium-concert-blueprint-best-moments/",
-    "source": "billboard",
-    "title": "Jay-Z Shuts Down Yankee Stadium With ‘The Blueprint’ & Special Guests: 7 Best Moments",
-    "url": "https://www.billboard.com/lists/jay-z-yankee-stadium-concert-blueprint-best-moments/",
-    "publishedAt": "2026-07-12T17:47:21.000Z",
-    "summary": "Jay's second night at Yankee Stadium had its fair share of highs and surprises, thanks to Slick Rick, Eminem and Pharrell.",
     "image": null
   },
   {
@@ -357,15 +384,6 @@
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zS01nS3BBTDB1c2xpTXdvUi1heHpNQlozN0ZTdmYwOUlTaThVVkkzaTVhS1lpMkNnNXRJOHBhbzBVaTE2Wlc1eW9EdjZGb19Pd0d5Z21BdzJsbG5FRzV2eUk5ajJBc0xVakVtVTJfS0xLcHhtWlAxSnBJS0VqcWc?oc=5",
     "publishedAt": "2026-07-11T10:23:22.000Z",
     "summary": "Robbie Williams joins CMAT on stage during day two of Bilbao BBK Live 2026 NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMi7wFBVV95cUxOS1dld3hKMkhsTkNUUVhUU3plQjFHLU54eEpDZFlxTkZfOFlvQlpOdW9Ma3NiYlFlcDFBc201dFdva2lRZEpJV0ZyTXdmdmJxNHcxVHF4TzN3NHExUnFIMDZKMXVFN1g0UUZHay02eVowajBpeTdWMGRib3NWQXV4SzFSSmhZM1c1SC1WT1htWE1nQ0V6Q1pYVTgwbWh2SVdPRnN1bmk2Mlo0RG5UQ0JWZ3VjNjFGQ0ZQYzYzVzZ1T0pRS1o2U2Jkcm5rSTFMX3ByM0MwYXMyZzVjRFdjM1VYWGxRc18yanF4a0VheWJhYw?oc=5",
-    "source": "nme",
-    "title": "Interpol play secret intimate Madrid warm-up show before smashing Mad Cool 2026 with The Walkmen's Matt Barrick on drums - NME",
-    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOS1dld3hKMkhsTkNUUVhUU3plQjFHLU54eEpDZFlxTkZfOFlvQlpOdW9Ma3NiYlFlcDFBc201dFdva2lRZEpJV0ZyTXdmdmJxNHcxVHF4TzN3NHExUnFIMDZKMXVFN1g0UUZHay02eVowajBpeTdWMGRib3NWQXV4SzFSSmhZM1c1SC1WT1htWE1nQ0V6Q1pYVTgwbWh2SVdPRnN1bmk2Mlo0RG5UQ0JWZ3VjNjFGQ0ZQYzYzVzZ1T0pRS1o2U2Jkcm5rSTFMX3ByM0MwYXMyZzVjRFdjM1VYWGxRc18yanF4a0VheWJhYw?oc=5",
-    "publishedAt": "2026-07-11T10:13:49.000Z",
-    "summary": "Interpol play secret intimate Madrid warm-up show before smashing Mad Cool 2026 with The Walkmen's Matt Barrick on drums NME",
     "image": null
   },
   {
@@ -666,15 +684,6 @@
     "image": null
   },
   {
-    "id": "louder-than-war-https://louderthanwar.com/king-gizzard-the-lizard-wizard-go-rave-with-level-5/",
-    "source": "louder-than-war",
-    "title": "King Gizzard & The Lizard Wizard go rave with Level 5.",
-    "url": "https://louderthanwar.com/king-gizzard-the-lizard-wizard-go-rave-with-level-5/",
-    "publishedAt": "2026-07-09T10:09:04.000Z",
-    "summary": "Photo credit: Maclay Heriot. The genre hopping Australian nut jobs King Gizzard return in spectacular fashion with a full on rave tune to blow us away in anticipation for their 28th album Alien Metal. If this doesn’t get you dancing, nothing will move you. Read on… King Gizzard & The Lizard Wizard have today announced details […] The post King Gizzard & The Lizard Wizard go rave with Level 5. appeared first on Louder Than War.",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/wavves-and-say-anything-collaborative-album-cherry-soda/",
     "source": "pitchfork",
     "title": "Wavves and Say Anything Crack Open Collaborative Album Cherry Soda",
@@ -708,15 +717,6 @@
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUUVYVi1WWldxb0VyZF91S0ZWaWp4NDI5Y05XN29zeElQOTN1VXJod1RkcWVzcjZWUnItdDdSQjh2YjFGYjBNMkQ5SUNKTy01aFlMOUhkUEFPT1lmMU5JZHQyc2JlRGJRY3hYR2o3QmJsQXZvVWtlUWk1WlF4a2RvRV9CVjlRdjlBVURTME1vc0hTa2puYTJfdlVVWGdLRklBdnpYXzktbGJIMXE0?oc=5",
     "publishedAt": "2026-07-08T15:06:00.000Z",
     "summary": "Converge announce UK and Europe tour with Sanguisugabogg, Blackbraid and Pupil Slicer Kerrang!",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLWtVcXpscllySnREZk1FbXlFYXRUWXNpZnV5WHY4Rm9KMjkza09hdndoc2E2UU5SYnFhNjYxMElhVW80S3JqV3BmbzdTMjg0LTJQaFFGZnVlWWxFYzRhY0Jack1TeHRUcXEyZnBMYW5TWEsxQjYxLU9JSGhZZm9waUlDVVBhN2hfTGZ3?oc=5",
-    "source": "kerrang",
-    "title": "Cancer Bats: “People genuinely get something out of our music. That's… - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLWtVcXpscllySnREZk1FbXlFYXRUWXNpZnV5WHY4Rm9KMjkza09hdndoc2E2UU5SYnFhNjYxMElhVW80S3JqV3BmbzdTMjg0LTJQaFFGZnVlWWxFYzRhY0Jack1TeHRUcXEyZnBMYW5TWEsxQjYxLU9JSGhZZm9waUlDVVBhN2hfTGZ3?oc=5",
-    "publishedAt": "2026-07-08T13:50:00.000Z",
-    "summary": "Cancer Bats: “People genuinely get something out of our music. That's… Kerrang!",
     "image": null
   }
 ]
