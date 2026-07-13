@@ -1,5 +1,41 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/pop/madonna-club-confessions-new-york-city-1236292743/",
+    "source": "billboard",
+    "title": "Madonna, Stuart Price & Honey Dijon Knock Out New York City With Club Confessions",
+    "url": "https://www.billboard.com/music/pop/madonna-club-confessions-new-york-city-1236292743/",
+    "publishedAt": "2026-07-13T00:05:22.000Z",
+    "summary": "The party happened the night before Madonna officially topped the Billboard 200 with Confessions II.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/shop/how-to-watch-love-island-usa-peacock-1235115133/",
+    "source": "billboard",
+    "title": "‘Love Island USA’: Here’s Where to Watch the Season 8 Finale Online",
+    "url": "https://www.billboard.com/shop/how-to-watch-love-island-usa-peacock-1235115133/",
+    "publishedAt": "2026-07-12T23:52:22.000Z",
+    "summary": "The Islanders are entering their final night in the villa, while America's vote decides which couple walks away with the season 8 title.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/drake-taylor-swift-most-billboard200-no1-albums-soloists/",
+    "source": "billboard",
+    "title": "Artists With the Most No. 1 Albums on the Billboard 200: The Beatles, Madonna & More",
+    "url": "https://www.billboard.com/lists/drake-taylor-swift-most-billboard200-no1-albums-soloists/",
+    "publishedAt": "2026-07-12T23:03:10.000Z",
+    "summary": "Madonna's CONFESSIONS II lands the Queen of Pop her 10th leader.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/madonna-michael-jackson-together-top10-billboard-200-1236292722/",
+    "source": "billboard",
+    "title": "Madonna & Michael Jackson Are in the Billboard 200’s Top 10 Together for the First Time in 25 Years",
+    "url": "https://www.billboard.com/music/chart-beat/madonna-michael-jackson-together-top10-billboard-200-1236292722/",
+    "publishedAt": "2026-07-12T23:00:31.000Z",
+    "summary": "Madonna’s CONFESSIONS II debuts at No. 1, joining Jackson’s chart-topping Thriller in the top 10.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/music-news/rolling-stones-foreign-tongues-best-new-music-poll-results-1236292705/",
     "source": "billboard",
     "title": "Fans Choose The Rolling Stones’ ‘Foreign Tongues’ as This Week’s Favorite New Music",
@@ -108,15 +144,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/niall-horan-thomas-rhett-hoosin-texas-ella-langley-1236292539/",
-    "source": "billboard",
-    "title": "Niall Horan & Thomas Rhett Cover Ella Langley’s ‘Choosin’ Texas’ in Nashville",
-    "url": "https://www.billboard.com/music/music-news/niall-horan-thomas-rhett-hoosin-texas-ella-langley-1236292539/",
-    "publishedAt": "2026-07-12T16:03:24.000Z",
-    "summary": "The pair performed a duet of the country hit at their co-headlining stadium gig at GEODIS Park.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-features/baby-rose-new-album-tour-olivia-dean-1235592172/",
     "source": "rolling-stone",
     "title": "Baby Rose’s Story Is Still Unfolding",
@@ -150,6 +177,15 @@
     "url": "https://www.rollingstone.com/music/music-news/jay-z-eminem-pharrell-williams-yankee-stadium-night-two-1235592434/",
     "publishedAt": "2026-07-12T14:04:58.000Z",
     "summary": "Rapper's second night in the Bronx focused on his 2001 album The Blueprint",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMiogFBVV95cUxOQmZsVzN6bFV4Q3ByR3J4N2loSFNxbjlFbUNDR2k1RU9tamZ1U2hRQ1JOX1ZkS2ZMR2FOcUR2WmpBalRjaHNGbHpmUkJNY3RacFNtMVFvSVpHb2lNYmJEbGowQ05tUnA2bjJIUXJQdDlCWWt5TXljT2pSbjdRcFlHb0RsRkh5SG1wY2RLd0JwanZRUlhoUm1reDEtbVVQYTA4TVE?oc=5",
+    "source": "nme",
+    "title": "Nick Cave & The Bad Seeds live at Mad Cool: the once-dark lord delivers a big dose of joy - NME",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQmZsVzN6bFV4Q3ByR3J4N2loSFNxbjlFbUNDR2k1RU9tamZ1U2hRQ1JOX1ZkS2ZMR2FOcUR2WmpBalRjaHNGbHpmUkJNY3RacFNtMVFvSVpHb2lNYmJEbGowQ05tUnA2bjJIUXJQdDlCWWt5TXljT2pSbjdRcFlHb0RsRkh5SG1wY2RLd0JwanZRUlhoUm1reDEtbVVQYTA4TVE?oc=5",
+    "publishedAt": "2026-07-12T14:04:06.000Z",
+    "summary": "Nick Cave & The Bad Seeds live at Mad Cool: the once-dark lord delivers a big dose of joy NME",
     "image": null
   },
   {
@@ -252,33 +288,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/lists/jay-z-yankee-stadium-night-two-setlist/",
-    "source": "billboard",
-    "title": "Jay-Z’s Yankee Stadium Night Two Setlist: Every Song Played at the Second Show",
-    "url": "https://www.billboard.com/lists/jay-z-yankee-stadium-night-two-setlist/",
-    "publishedAt": "2026-07-12T06:19:03.000Z",
-    "summary": "Night two included appearances from Slick Rick, Eminem and Pharrell. Check out every song that was performed.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rock/andy-bickers-cold-chisel-saxophonist-dies-1236292439/",
-    "source": "billboard",
-    "title": "Jimmy Barnes, ICEHOUSE and More Pay Tribute to Cold Chisel Saxophonist Andy Bickers",
-    "url": "https://www.billboard.com/music/rock/andy-bickers-cold-chisel-saxophonist-dies-1236292439/",
-    "publishedAt": "2026-07-12T06:08:54.000Z",
-    "summary": "\"He was funny, intelligent, and most importantly, he was a good man,\" Jimmy Barnes wrote.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/kpop-demon-hunters-squishmallows-plush-toys-shop-online-1236291847/",
-    "source": "billboard",
-    "title": "Squishmallows’ ‘KPop Demon Hunters’ Collection Features 4 Fan-Favorite Characters in Plushie Form",
-    "url": "https://www.billboard.com/culture/product-recommendations/kpop-demon-hunters-squishmallows-plush-toys-shop-online-1236291847/",
-    "publishedAt": "2026-07-12T03:00:26.000Z",
-    "summary": "The obsession with KPop Demon Hunters continues with this new collection of plush toys.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/record-industry-proposal-labels-ai-generated-music-1235592406/",
     "source": "rolling-stone",
     "title": "Record Industry Proposes Adding Labels to AI-Generated Music",
@@ -357,15 +366,6 @@
     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQU3BHMzRrQUhJOUhrY05EaEs0bGJJM05SY3RKb0JiRER6N2xfX3FITjJLVlBTSktiYVZESDY2MVJRa0hGUWVvc1AtVm9hbDQ4czRPejlBY0ROanpKOXNMZU1rYzRJVzlQTkY4QmdsMmtrNHJ3VnVaTXhuYlRCQ0pkemxQLXR2d0toaG4zTVh0WjhhSko2TFpXZFhKT2QwT1RJZDFsbjZ2a0dQaEwzTFJUNmlLb1NuRFZhbnlRcVQ2aFY2T3VvekZZWDE2NU03T3NfSDlJY08tbWFHR1ZCQXV6ZTJFVHo2SHFGVHc?oc=5",
     "publishedAt": "2026-07-11T09:17:23.000Z",
     "summary": "Jack White offers Twin Temple support slot after duo were dropped from Charley Crockett tour due to “Satanic imagery” NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMipAFBVV95cUxPbS1sbGlYWmNlelRqdmtuY1JKQTZyZjhZblo0eFJNTEZ2UEdWTGo3azVGaWZXcjJuMzJXTlYyWFVJNVU3cTVrM0lUTXh4bktXQURrT1J0a1RYdHdyVjdaZ0FJUXpiTDlnSlJYbUVPdHhoeXdSRlFsajVfS3Q0cG5mVG81UEhiLUpVZGhNMnRQUHhBVnNqTnZQc2d5UUhCV1FISjBPeQ?oc=5",
-    "source": "nme",
-    "title": "Pitbull fans set Guinness World Record at BST Hyde Park concert - NME",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbS1sbGlYWmNlelRqdmtuY1JKQTZyZjhZblo0eFJNTEZ2UEdWTGo3azVGaWZXcjJuMzJXTlYyWFVJNVU3cTVrM0lUTXh4bktXQURrT1J0a1RYdHdyVjdaZ0FJUXpiTDlnSlJYbUVPdHhoeXdSRlFsajVfS3Q0cG5mVG81UEhiLUpVZGhNMnRQUHhBVnNqTnZQc2d5UUhCV1FISjBPeQ?oc=5",
-    "publishedAt": "2026-07-11T07:59:28.000Z",
-    "summary": "Pitbull fans set Guinness World Record at BST Hyde Park concert NME",
     "image": null
   },
   {
