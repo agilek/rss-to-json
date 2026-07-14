@@ -1,20 +1,128 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/awards/daytime-emmy-nominations-2026-kelly-clarkson-show-1236293651/",
+    "source": "billboard",
+    "title": "‘The Kelly Clarkson Show,’ ‘The View’ Score in 2026 Daytime Emmy Nominations",
+    "url": "https://www.billboard.com/music/awards/daytime-emmy-nominations-2026-kelly-clarkson-show-1236293651/",
+    "publishedAt": "2026-07-14T17:12:02.000Z",
+    "summary": "Clarkson has been a double nominee in the two talk show categories for all seven seasons of her eponymous show.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/thundercat-north-american-tour/",
+    "source": "pitchfork",
+    "title": "Thundercat Sets Fall North American Tour",
+    "url": "https://pitchfork.com/story/thundercat-north-american-tour/",
+    "publishedAt": "2026-07-14T17:02:34.000Z",
+    "summary": "The Distracted AF run features support from Channel Tres, TiaCorine, Fera, 54 Ultra, and Kitty Ca$h",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/madonna-ella-langley-chart-highlights-july-18-2026/",
+    "source": "billboard",
+    "title": "Madonna, Ella Langley, Toby Keith & More: Highlights of This Week’s Billboard Charts",
+    "url": "https://www.billboard.com/lists/madonna-ella-langley-chart-highlights-july-18-2026/",
+    "publishedAt": "2026-07-14T17:01:13.000Z",
+    "summary": "All of Billboard’s charts update each Tuesday.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rock/oasis-wonderwall-team-england-world-cup-anthem-1236293831/",
+    "source": "billboard",
+    "title": "How Oasis’ ‘Wonderwall’ Became the Unofficial Anthem for England’s Epic World Cup Run",
+    "url": "https://www.billboard.com/music/rock/oasis-wonderwall-team-england-world-cup-anthem-1236293831/",
+    "publishedAt": "2026-07-14T16:56:36.000Z",
+    "summary": "Football's coming home to England? We think maaaaaybe...",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/teyana-taylor-jay-z-thanks-inviting-perform-with-him-1236293747/",
+    "source": "billboard",
+    "title": "Teyana Taylor Thanks Jay-Z for Inviting Her to Perform With Him: ‘The Gratitude Was Louder Than Any Mic Could Be’",
+    "url": "https://www.billboard.com/music/rb-hip-hop/teyana-taylor-jay-z-thanks-inviting-perform-with-him-1236293747/",
+    "publishedAt": "2026-07-14T16:54:28.000Z",
+    "summary": "The singer, who experienced audio issues, was among the special guests at the final show.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/blackberry-smoke-touring-drummer-brit-turner-jason-newsted-1235593228/",
+    "source": "rolling-stone",
+    "title": "Blackberry Smoke on How They Carried on Following the Death of Beloved Drummer",
+    "url": "https://www.rollingstone.com/music/music-features/blackberry-smoke-touring-drummer-brit-turner-jason-newsted-1235593228/",
+    "publishedAt": "2026-07-14T16:47:50.000Z",
+    "summary": "Frontman Charlie Starr says founding member Brit Turner, who died in 2024, didn't want to stop touring in a new interview on Nashville Now",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/museum-of-broadcast-communications-2026-experiences-auction/",
+    "source": "billboard",
+    "title": "Museum of Broadcast Communications Launches 2026 Front Row Experiences Auction",
+    "url": "https://www.billboard.com/pro/museum-of-broadcast-communications-2026-experiences-auction/",
+    "publishedAt": "2026-07-14T16:40:36.000Z",
+    "summary": "Music fans can bid on experiences with Billy Corgan and Smashing Pumpkins, Poi Dog Pondering, The Beach Boys' Al Jardine and the iHeartRadio Jingle Ball.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/latin/rauw-alejandro-rosalia-dancer-mykee-death-1236293762/",
+    "source": "billboard",
+    "title": "Dancer Who Performed With Rosalía, Rauw Alejandro Found Dead at 28",
+    "url": "https://www.billboard.com/music/latin/rauw-alejandro-rosalia-dancer-mykee-death-1236293762/",
+    "publishedAt": "2026-07-14T16:31:35.000Z",
+    "summary": "Michael-Anthony \"Mykee\" Leones Espino was last seen July 12 in Miami, according to the Miami-Dade Sheriff’s Office.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rock/nickelback-everything-under-the-sun-album-rattle-the-cage-single-1236293832/",
+    "source": "billboard",
+    "title": "Nickelback Announce ‘Everything Under the Sun’ Album, Drop Pummeling ‘Rattle the Cage’ Single",
+    "url": "https://www.billboard.com/music/rock/nickelback-everything-under-the-sun-album-rattle-the-cage-single-1236293832/",
+    "publishedAt": "2026-07-14T16:26:44.000Z",
+    "summary": "The Canadian rock band's 11th studio effort is due out on Oct. 30.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/nashville-session-musician-jimmy-nichols-dies-at-64/",
+    "source": "billboard",
+    "title": "Jimmy Nichols, Nashville Session Musician and Touring Musical Director, Dead at 64",
+    "url": "https://www.billboard.com/pro/nashville-session-musician-jimmy-nichols-dies-at-64/",
+    "publishedAt": "2026-07-14T16:23:59.000Z",
+    "summary": "Nichols is known for his work as a pianist, session musician and musical director who has worked with artists including Reba McEntire, Faith Hill and Tim McGraw.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/list-all-guests-rosalias-confessional-lux-tour/",
+    "source": "billboard",
+    "title": "A List of All the Guests in Rosalía’s Confessional on the U.S. Leg of Her ‘LUX’ Tour",
+    "url": "https://www.billboard.com/lists/list-all-guests-rosalias-confessional-lux-tour/",
+    "publishedAt": "2026-07-14T16:22:50.000Z",
+    "summary": "The singer has invited famous guests, from Marcello Hernández to Chappell Roan, to share their love life secrets in a confessional on stage.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/world-cup-closing-ceremony-jennifer-hudson-nicole-scherzinger-1236293796/",
+    "source": "billboard",
+    "title": "World Cup Closing Ceremony to Feature Jennifer Hudson, Nicole Scherzinger & More",
+    "url": "https://www.billboard.com/music/music-news/world-cup-closing-ceremony-jennifer-hudson-nicole-scherzinger-1236293796/",
+    "publishedAt": "2026-07-14T16:04:07.000Z",
+    "summary": "Tom Cruise will also be making a special appearance.",
+    "image": null
+  },
+  {
+    "id": "uncut-https://www.uncut.co.uk/reviews/album/patti-smith-right-hand-man-lenny-kaye-finally-releases-his-debut-solo-album-at-the-age-of-79-155451/",
+    "source": "uncut",
+    "title": "Patti Smith’s right-hand man Lenny Kaye finally releases his debut solo album at the age of 79",
+    "url": "https://www.uncut.co.uk/reviews/album/patti-smith-right-hand-man-lenny-kaye-finally-releases-his-debut-solo-album-at-the-age-of-79-155451/",
+    "publishedAt": "2026-07-14T15:29:06.000Z",
+    "summary": "Goin' Local is a surprisingly gentle beast, paying tribute to a family troubadour tradition",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/mike-d-solo-album-beastie-boys-sampler-1235593149/",
     "source": "rolling-stone",
     "title": "Mike D’s New Solo Album Contains Music Made With 1980s Beastie Boys Sampler",
     "url": "https://www.rollingstone.com/music/music-news/mike-d-solo-album-beastie-boys-sampler-1235593149/",
     "publishedAt": "2026-07-14T15:19:40.000Z",
-    "summary": "\"They'd be trying to find a sound, and you'd randomly hear a drum break that was on a Beastie Boys song,\" producer Tyran Donaldson says",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/country/shania-twain-harry-styles-prevented-taylor-swift-wedding-1236293741/",
-    "source": "billboard",
-    "title": "Shania Twain Jokingly Says Harry Styles Prevented Her From Attending Taylor Swift’s Wedding: ‘I Was Already Committed’",
-    "url": "https://www.billboard.com/music/country/shania-twain-harry-styles-prevented-taylor-swift-wedding-1236293741/",
-    "publishedAt": "2026-07-14T15:16:47.000Z",
-    "summary": "The country legend said her gig opening for Taylor's ex during his historic Wembley Stadium run last month conflicted with the MSG nuptials.",
+    "summary": "“They’d be trying to find a sound, and you’d randomly hear a drum break that was on a Beastie Boys song,” producer Tyran Donaldson says",
     "image": null
   },
   {
@@ -32,7 +140,7 @@
     "title": "Indiana Prosecutors Aghast at Phish Fans Who Showed Up to Concerts With Drugs",
     "url": "https://www.rollingstone.com/music/music-news/indiana-prosecutors-drugs-phish-show-1235593161/",
     "publishedAt": "2026-07-14T15:13:43.000Z",
-    "summary": "The Hamilton County Prosecuting Attorney’s Office claimed they made five felony-level drug arrests in a tut-tutting statement after Phish's three-day run at the Ruoff Music Center",
+    "summary": "The Hamilton County Prosecuting Attorney’s Office claimed it made five felony-level drug arrests in a tut-tutting statement after Phish’s three-day run at the Ruoff Music Center",
     "image": null
   },
   {
@@ -41,16 +149,7 @@
     "title": "Linea Personal’s Moment Has Arrived",
     "url": "https://www.rollingstone.com/music/music-latin/linea-personal-tour-new-music-1235592619/",
     "publishedAt": "2026-07-14T15:11:49.000Z",
-    "summary": "The música mexicana band will crisscross the U.S. during their first major tour — and the future is wide open",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/ariana-grande-eternal-sunshine-tour-road-work/",
-    "source": "billboard",
-    "title": "Road Work: Ariana Grande’s First Tour in Seven Years Squeezes Multiple Eras Into One Show",
-    "url": "https://www.billboard.com/lists/ariana-grande-eternal-sunshine-tour-road-work/",
-    "publishedAt": "2026-07-14T14:59:16.000Z",
-    "summary": "The Eternal Sunshine Tour is on track to circle $100 million in just three months.",
+    "summary": "The música mexicana band will crisscross the U.S. during its first major tour — and the future is wide-open",
     "image": null
   },
   {
@@ -69,33 +168,6 @@
     "url": "https://www.rollingstone.com/music/music-news/big-gigantic-trevor-hall-sonesta-international-hotels-1235592905/",
     "publishedAt": "2026-07-14T14:49:26.000Z",
     "summary": "It was an electric night in the Mile High City as Rolling Stone and Sonesta International Hotels hosted the second stop of the 2026 Musicians on Musicians live tour at the Sonesta Denver Downtown. Moderated by Rolling Stone deputy editor and Nashville Now podcast host Joseph Hudak, the event featured live interviews with Dominic Lalli […]",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/world-cup-july-4-songs-hot-100-1236293728/",
-    "source": "billboard",
-    "title": "July 4 & the World Cup Bring Toby Keith, Journey, Lynyrd Skynyrd & More Back to the Hot 100",
-    "url": "https://www.billboard.com/music/chart-beat/world-cup-july-4-songs-hot-100-1236293728/",
-    "publishedAt": "2026-07-14T14:35:30.000Z",
-    "summary": "Independence Day and the soccer tournament spark the return of nine beloved tracks.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/olivia-rodrigo-merch-apparel-shop-online-1236271313/",
-    "source": "billboard",
-    "title": "From Hot Topic to Aeropostale, Here’s Where to Find Official Olivia Rodrigo T-Shirts Online",
-    "url": "https://www.billboard.com/culture/product-recommendations/olivia-rodrigo-merch-apparel-shop-online-1236271313/",
-    "publishedAt": "2026-07-14T14:23:38.000Z",
-    "summary": "Olivia Rodrigo fans can shop these official T-shirts and accessories online before the Unraveled Tour kicks off.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/video/jay-z-yankee-stadium-shows-recap-beyonce-rihanna-nas/",
-    "source": "billboard",
-    "title": "Jay-Z’s Epic Yankee Stadium Run: Beyoncé, Nas, Rihanna & More | All Access",
-    "url": "https://www.billboard.com/video/jay-z-yankee-stadium-shows-recap-beyonce-rihanna-nas/",
-    "publishedAt": "2026-07-14T14:21:53.000Z",
-    "summary": "Go inside Jay-Z’s unforgettable three-night run at Yankee Stadium. From Reasonable Doubt and The Blueprint to a final night packed with surprise guests, the weekend felt like a celebration of hip-hop history. Watch Billboard staffers break down the biggest moments, the crowd energy and why this was one of Jay-Z’s most legendary live runs yet. […]",
     "image": null
   },
   {
@@ -144,15 +216,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/fbi-15k-reward-information-body-newborn-baby-electric-forest-1236293722/",
-    "source": "billboard",
-    "title": "FBI Offering $15,000 Reward For Information About Body of Newborn Baby Found at Electric Forest Festival",
-    "url": "https://www.billboard.com/music/music-news/fbi-15k-reward-information-body-newborn-baby-electric-forest-1236293722/",
-    "publishedAt": "2026-07-14T13:17:17.000Z",
-    "summary": "To date, no information has been released about the body found on June 28th in the camping area of the annual dance festival in Rothbury, Mich.",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/nnickelback-everything-under-the-sun-album-rattle-the-cage-song/",
     "source": "loudwire",
     "title": "Nickelback Return With Eleventh Studio Album, Debut New Song",
@@ -180,39 +243,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/pop/ariana-grande-thank-u-next-lyric-tweak-brooklyn-ricky-alvarez-1236293711/",
-    "source": "billboard",
-    "title": "Ariana Grande’s Latest ‘Thank U, Next’ Lyric Tweak During Brooklyn Show Has Fans Wondering About Her Ex Ricky Alvarez",
-    "url": "https://www.billboard.com/music/pop/ariana-grande-thank-u-next-lyric-tweak-brooklyn-ricky-alvarez-1236293711/",
-    "publishedAt": "2026-07-14T12:39:54.000Z",
-    "summary": "The line: \"Wrote song songs about Ricky/ We always find our way back\" got the crowd at Barclays Center howling on Monday night (July 13) in the latest switch-up to the 2018 single.",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMivAFBVV95cUxQNmQtaWZtcGtGLWVUZVZ3OGdkU2ZWWElLVU1ueVJMZFE5Tlk4dFc2UTVia2ZWLW5WZ2Q2QzhjMjVNQWpNcmxsQm9NMnA3cUlyYmkxUnltbXNqMUtnQlFJRTlobnROQUlPRFZrU2dtMTEzS3lEYVcyOVN4VndTdjRybnNheG5ab3duM2RwU3JfLURGbWZrVzUxVE52QUZHakp0M0o0eXYxQTNHNjNOeXlBcFFxQTc0T2RxZkhTbA?oc=5",
     "source": "nme",
     "title": "KKR Protesters at Boiler Room event in New York reportedly \"assaulted\" and \"trampled\" - NME",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNmQtaWZtcGtGLWVUZVZ3OGdkU2ZWWElLVU1ueVJMZFE5Tlk4dFc2UTVia2ZWLW5WZ2Q2QzhjMjVNQWpNcmxsQm9NMnA3cUlyYmkxUnltbXNqMUtnQlFJRTlobnROQUlPRFZrU2dtMTEzS3lEYVcyOVN4VndTdjRybnNheG5ab3duM2RwU3JfLURGbWZrVzUxVE52QUZHakp0M0o0eXYxQTNHNjNOeXlBcFFxQTc0T2RxZkhTbA?oc=5",
     "publishedAt": "2026-07-14T12:01:29.000Z",
     "summary": "KKR Protesters at Boiler Room event in New York reportedly \"assaulted\" and \"trampled\" NME",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/iron-maiden-sells-half-their-catalog-pophouse-entertainment/",
-    "source": "billboard",
-    "title": "Iron Maiden Members Sell 50% of Catalog, Name & Likeness Rights to Pophouse Entertainment",
-    "url": "https://www.billboard.com/pro/iron-maiden-sells-half-their-catalog-pophouse-entertainment/",
-    "publishedAt": "2026-07-14T12:00:00.000Z",
-    "summary": "The deal includes a stake in the rights relating to Eddie, Maiden's longtime mascot, which Pophouse says it will use to \"turbo-charge\" the rockers' cinematic and immersive projects.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/pop/noah-kahan-4-sold-out-fenway-shows-hole-in-one-hall-of-fame-1236293687/",
-    "source": "billboard",
-    "title": "Noah Kahan Is Having the Best Week Ever: Four Sold-Out Fenway Park Shows, a Hall of Fame Induction and a Hole-in-One!",
-    "url": "https://www.billboard.com/music/pop/noah-kahan-4-sold-out-fenway-shows-hole-in-one-hall-of-fame-1236293687/",
-    "publishedAt": "2026-07-14T11:54:11.000Z",
-    "summary": "Oh, and Patriots QB Drake Maye called in to one of the shows, because of course he did.",
     "image": null
   },
   {
@@ -302,25 +338,7 @@
     "title": "Mike Browning, Morbid Angel and Nocturnus Co-Founder, Dies at 62",
     "url": "https://pitchfork.com/story/mike-browning-morbid-angel-and-nocturnus-co-founder-dies-at-62/",
     "publishedAt": "2026-07-14T03:13:48.000Z",
-    "summary": "The pioneering death metal drummer and singer was known for aligning his vocals on beat",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/jack-white-the-white-stripes-cannon-daughter-scarlett-white-1235593068/",
-    "source": "rolling-stone",
-    "title": "Jack White Performs the White Stripes’ 1999 Track ‘Cannon’ With Daughter, Scarlett",
-    "url": "https://www.rollingstone.com/music/music-news/jack-white-the-white-stripes-cannon-daughter-scarlett-white-1235593068/",
-    "publishedAt": "2026-07-14T01:06:06.000Z",
-    "summary": "The track featured on the White Stripes’ debut album",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/awards/daytime-emmy-nominations-2026-kelly-clarkson-show-1236293651/",
-    "source": "billboard",
-    "title": "‘The Kelly Clarkson Show,’ ‘The View’ Score in 2026 Daytime Emmy Nominations",
-    "url": "https://www.billboard.com/music/awards/daytime-emmy-nominations-2026-kelly-clarkson-show-1236293651/",
-    "publishedAt": "2026-07-14T01:03:18.000Z",
-    "summary": "Clarkson has been a double nominee in the two talk show categories for all seven seasons of her eponymous show.",
+    "summary": "The pioneering death metal drummer and singer also performed with singer Lisa Lombardo in After Death, Devine Essence, and Wolf and Hawk",
     "image": null
   },
   {
@@ -576,15 +594,6 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/story/jay-z-yankee-stadium-run/",
-    "source": "pitchfork",
-    "title": "Everything You Missed at Jay-Z’s Yankee Stadium Run",
-    "url": "https://pitchfork.com/story/jay-z-yankee-stadium-run/",
-    "publishedAt": "2026-07-12T16:14:44.000Z",
-    "summary": "Featuring Pharrell, Beyoncé, Blue Ivy, and record-breaking ticket sales",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/features/the-allman-brothers-we-were-stretching-the-limits-of-what-had-been-done-in-rocknroll-71765/",
     "source": "uncut",
     "title": "The Allman Brothers: “We were stretching the limits of what had been done in rock’n’roll”",
@@ -672,15 +681,6 @@
     "url": "https://www.uncut.co.uk/features/we-started-to-feel-the-pressure-why-the-rolling-stones-escaped-to-jamaica-to-save-their-career-155354/",
     "publishedAt": "2026-07-10T09:02:38.000Z",
     "summary": "Court cases, robberies, hexes… it all fed into the spicy Goats Head Soup: \"It's nice to get your teeth into a lovely piece of meat\"",
-    "image": null
-  },
-  {
-    "id": "uncut-https://www.uncut.co.uk/features/parties-upstairs-music-downstairs-mick-jagger-and-keith-richards-on-the-myth-and-reality-of-the-rolling-stones-exile-on-main-st-155243/",
-    "source": "uncut",
-    "title": "Parties Upstairs, Music Downstairs: Mick Jagger and Keith Richards on the myth and reality of The Rolling Stones’ Exile On Main St.",
-    "url": "https://www.uncut.co.uk/features/parties-upstairs-music-downstairs-mick-jagger-and-keith-richards-on-the-myth-and-reality-of-the-rolling-stones-exile-on-main-st-155243/",
-    "publishedAt": "2026-07-10T09:01:56.000Z",
-    "summary": "How the band's defining work is also their most decadent",
     "image": null
   },
   {
