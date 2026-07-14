@@ -1,5 +1,95 @@
 [
   {
+    "id": "loudwire-https://loudwire.com/dave-mustaine-megadeth-ride-the-lightning-cover/",
+    "source": "loudwire",
+    "title": "How Megadeth's 'Ride the Lightning' Cover 'Pushed' Dave Mustaine",
+    "url": "https://loudwire.com/dave-mustaine-megadeth-ride-the-lightning-cover/",
+    "publishedAt": "2026-07-14T20:53:17.000Z",
+    "summary": "The cover gave Dave Mustaine a newfound appreciation for Metallica's James Hetfield. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/jason-newsted-metallica-stop-show-darts-interview-1235593579/",
+    "source": "rolling-stone",
+    "title": "Jason Newsted on the Time Metallica Had Darts Thrown at Them Onstage",
+    "url": "https://www.rollingstone.com/music/music-news/jason-newsted-metallica-stop-show-darts-interview-1235593579/",
+    "publishedAt": "2026-07-14T20:52:38.000Z",
+    "summary": "\"It was maybe the fourth time we ever stopped a show,\" the band's former bassist says. \"I look over at James, like, 'Dude!'\"",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/lil-durk-murder-for-hire-trial-on-track-judge-prosecutor/",
+    "source": "billboard",
+    "title": "Lil Durk’s August Murder-for-Hire Trial on Track as Judge Scolds Prosecutor: ‘You Had Over a Year’",
+    "url": "https://www.billboard.com/pro/lil-durk-murder-for-hire-trial-on-track-judge-prosecutor/",
+    "publishedAt": "2026-07-14T20:47:36.000Z",
+    "summary": "A federal judge rejected prosecutors’ “obvious” strategy to delay the Chicago rapper’s trial and bolster the case with new charges.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/latin/elena-rose-karol-g-invitation-viajando-por-el-mundo-tour-1236294103/",
+    "source": "billboard",
+    "title": "Elena Rose on Karol G’s ‘Genuine’ Invitation to Open Her Viajando Por El Mundo Tropitour: ‘I Feel Like I’m Going on Tour With a Friend’",
+    "url": "https://www.billboard.com/music/latin/elena-rose-karol-g-invitation-viajando-por-el-mundo-tour-1236294103/",
+    "publishedAt": "2026-07-14T20:23:51.000Z",
+    "summary": "Rose will join Karol G on 10 U.S. stadium dates, kicking off with two shows in Chicago on July 24 and 25.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/new-albums-2026-calendar-new-music-releases-this-year/",
+    "source": "billboard",
+    "title": "Looking Ahead: A Release Calendar of Upcoming Albums in 2026",
+    "url": "https://www.billboard.com/lists/new-albums-2026-calendar-new-music-releases-this-year/",
+    "publishedAt": "2026-07-14T20:18:38.000Z",
+    "summary": "We'll be updating our list as musicians announce their new music, so keep checking back for the latest!",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/phil-collins-oasis-noel-gallagher-comments-1235593452/",
+    "source": "rolling-stone",
+    "title": "Does Noel Gallagher Truly Believe Phil Collins Is the Antichrist? Collins Doesn’t Think So",
+    "url": "https://www.rollingstone.com/music/music-news/phil-collins-oasis-noel-gallagher-comments-1235593452/",
+    "publishedAt": "2026-07-14T20:14:27.000Z",
+    "summary": "Artists will likely meet for first time at pre-Rock Hall luncheon this fall",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/friendship-charlotte-cornfield-tour/",
+    "source": "pitchfork",
+    "title": "Friendship and Charlotte Cornfield Are Going on Tour Together",
+    "url": "https://pitchfork.com/story/friendship-charlotte-cornfield-tour/",
+    "publishedAt": "2026-07-14T19:55:22.000Z",
+    "summary": "The Philly band and Toronto songwriter’s joint run kicks off in December",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/mlb-all-star-game-2026-watch-livestream-online-free-1236290347/",
+    "source": "billboard",
+    "title": "How to Watch 2026 MLB All-Star Game Live Online for Free",
+    "url": "https://www.billboard.com/culture/product-recommendations/mlb-all-star-game-2026-watch-livestream-online-free-1236290347/",
+    "publishedAt": "2026-07-14T19:52:05.000Z",
+    "summary": "The 96th annual all-star game takes place on Tuesday (July 14) — watch online for free.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/country/toby-keith-courtesy-red-white-and-blue-biggest-hot-100-hit-1236294082/",
+    "source": "billboard",
+    "title": "Toby Keith’s ‘Courtesy of the Red, White & Blue’ Is Now His Highest-Peaking Hot 100 Hit Thanks to 4th of July Return",
+    "url": "https://www.billboard.com/music/country/toby-keith-courtesy-red-white-and-blue-biggest-hot-100-hit-1236294082/",
+    "publishedAt": "2026-07-14T19:48:49.000Z",
+    "summary": "The controversial patriotic anthem reenters the chart at No. 11 this week, beating his previous career best of No. 15.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/elena-rose-karol-g-stadium-tour-opener-1235593291/",
+    "source": "rolling-stone",
+    "title": "Karol G Is Bringing Powerhouse Women, Including Elena Rose, on Tour",
+    "url": "https://www.rollingstone.com/music/music-features/elena-rose-karol-g-stadium-tour-opener-1235593291/",
+    "publishedAt": "2026-07-14T19:45:25.000Z",
+    "summary": "The Venezuelan singer will open the Viajando Por El Mundo Tropitour in Las Vegas, Los Angeles, Boston, New York, Atlanta, Miami, Tampa, and Dallas",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/culture/product-recommendations/best-home-saunas-to-buy-1235610169/",
     "source": "billboard",
     "title": "The Best Home Saunas To Turn Your Home Into a Relaxing Spa",
@@ -63,15 +153,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/pro/legal-beat-bts-swim-lawsuit-bad-bunny-ruling/",
-    "source": "billboard",
-    "title": "BTS ‘Swim’ Lawsuit, Bad Bunny Ruling, StubHub Class Action & More Top Music Law News",
-    "url": "https://www.billboard.com/pro/legal-beat-bts-swim-lawsuit-bad-bunny-ruling/",
-    "publishedAt": "2026-07-14T17:45:12.000Z",
-    "summary": "In this week's Legal Beat newsletter, HYBE faces a pair of copyright cases, Bad Bunny gets bad news, StubHub sued over scalping, and much more.",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/news/watch-a-video-for-queens-of-the-stone-age-new-single-easy-street-155446/",
     "source": "uncut",
     "title": "Watch a video for Queens Of The Stone Age’s new single, “Easy Street”",
@@ -90,48 +171,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/pop/bts-normal-single-tabloid-late-night-gathering-newspaper-ads-1236293905/",
-    "source": "billboard",
-    "title": "BTS Hype ‘NORMAL’ Single Release With Tabloid-Style ‘Mysterious Late-Night Gathering’ Newspaper Ads",
-    "url": "https://www.billboard.com/music/pop/bts-normal-single-tabloid-late-night-gathering-newspaper-ads-1236293905/",
-    "publishedAt": "2026-07-14T17:23:29.000Z",
-    "summary": "The K-pop superstars appear to be taking a group bathroom break in the promo images.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/awards/daytime-emmy-nominations-2026-kelly-clarkson-show-1236293651/",
-    "source": "billboard",
-    "title": "‘The Kelly Clarkson Show,’ ‘The View’ Score in 2026 Daytime Emmy Nominations",
-    "url": "https://www.billboard.com/music/awards/daytime-emmy-nominations-2026-kelly-clarkson-show-1236293651/",
-    "publishedAt": "2026-07-14T17:12:02.000Z",
-    "summary": "Clarkson has been a double nominee in the two talk show categories for all seven seasons of her eponymous show.",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/thundercat-north-american-tour/",
     "source": "pitchfork",
     "title": "Thundercat Sets Fall North American Tour",
     "url": "https://pitchfork.com/story/thundercat-north-american-tour/",
     "publishedAt": "2026-07-14T17:02:34.000Z",
     "summary": "The Distracted AF run features support from Channel Tres, TiaCorine, Fera, 54 Ultra, and Kitty Ca$h",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/madonna-ella-langley-chart-highlights-july-18-2026/",
-    "source": "billboard",
-    "title": "Madonna, Ella Langley, Toby Keith & More: Highlights of This Week’s Billboard Charts",
-    "url": "https://www.billboard.com/lists/madonna-ella-langley-chart-highlights-july-18-2026/",
-    "publishedAt": "2026-07-14T17:01:13.000Z",
-    "summary": "All of Billboard’s charts update each Tuesday.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rock/oasis-wonderwall-team-england-world-cup-anthem-1236293831/",
-    "source": "billboard",
-    "title": "How Oasis’ ‘Wonderwall’ Became the Unofficial Anthem for England’s Epic World Cup Run",
-    "url": "https://www.billboard.com/music/rock/oasis-wonderwall-team-england-world-cup-anthem-1236293831/",
-    "publishedAt": "2026-07-14T16:56:36.000Z",
-    "summary": "Football's coming home to England? We think maaaaaybe...",
     "image": null
   },
   {
@@ -198,21 +243,12 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/big-gigantic-trevor-hall-sonesta-international-hotels-1235592905/",
-    "source": "rolling-stone",
-    "title": "Big Gigantic and Trevor Hall Bring the Energy to Rolling Stone and Sonesta International Hotels’ Musicians on Musicians Event in Denver ",
-    "url": "https://www.rollingstone.com/music/music-news/big-gigantic-trevor-hall-sonesta-international-hotels-1235592905/",
-    "publishedAt": "2026-07-14T14:49:26.000Z",
-    "summary": "It was an electric night in the Mile High City as Rolling Stone and Sonesta International Hotels hosted the second stop of the 2026 Musicians on Musicians live tour at the Sonesta Denver Downtown. Moderated by Rolling Stone deputy editor and Nashville Now podcast host Joseph Hudak, the event featured live interviews with Dominic Lalli […]",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/twin-temple-charley-crockett-interview-satan-worship-1235593136/",
-    "source": "rolling-stone",
-    "title": "Twin Temple Go to Hell: Duo Talk Satan Worship, Charley Crockett Drama",
-    "url": "https://www.rollingstone.com/music/music-features/twin-temple-charley-crockett-interview-satan-worship-1235593136/",
-    "publishedAt": "2026-07-14T14:21:03.000Z",
-    "summary": "The husband-and-wife band also announced their new album, Doomed Lovers, a record rooted in old-school country music",
+    "id": "nme-https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMDNyNkZMSm5uT0VkX0xxel9JR0RtbXBaamM5cm5YVVY0elVUeDMxNDUxTTgyaWxMUTFTMkp0bFo4eUJydjFCWFhmMjM2NFFUY01CZUk1RFNnQXhHenlRWi1XZWRDZzIxN0hDX1N6YjV6eXZQV3pPemR0aWsyd0xBWExFWFFMUnZPUUpmQWpOZVNjLTR4d19Ybm5fZVh5a0JtbzA3RzFvb0ZuU2JRdFhUSkszTUhFTVJxRGVXcWFZWmY1dw?oc=5",
+    "source": "nme",
+    "title": "Nickelback announce new album 'Everything Under The Sun' with explosive 'Rattle The Cage' - NME",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMDNyNkZMSm5uT0VkX0xxel9JR0RtbXBaamM5cm5YVVY0elVUeDMxNDUxTTgyaWxMUTFTMkp0bFo4eUJydjFCWFhmMjM2NFFUY01CZUk1RFNnQXhHenlRWi1XZWRDZzIxN0hDX1N6YjV6eXZQV3pPemR0aWsyd0xBWExFWFFMUnZPUUpmQWpOZVNjLTR4d19Ybm5fZVh5a0JtbzA3RzFvb0ZuU2JRdFhUSkszTUhFTVJxRGVXcWFZWmY1dw?oc=5",
+    "publishedAt": "2026-07-14T14:42:43.000Z",
+    "summary": "Nickelback announce new album 'Everything Under The Sun' with explosive 'Rattle The Cage' NME",
     "image": null
   },
   {
@@ -249,15 +285,6 @@
     "url": "https://www.uncut.co.uk/features/things-are-not-the-same-without-him-nick-cave-remembers-late-bad-seeds-pianist-conway-savage-155454/",
     "publishedAt": "2026-07-14T13:36:05.000Z",
     "summary": "A new anthology collects Savage's mordant country ballads: \"He was very genuine\"",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-album-reviews/future-the-real-me-album-review-1235593025/",
-    "source": "rolling-stone",
-    "title": "Future Can’t Quite Freshen His Formula on ‘The Real Me’",
-    "url": "https://www.rollingstone.com/music/music-album-reviews/future-the-real-me-album-review-1235593025/",
-    "publishedAt": "2026-07-14T13:20:49.000Z",
-    "summary": "One of the most interesting rappers alive dives deeper and works up an idiosyncratic mix that will please longtime fans — but the results aren’t as satisfying as you’d hope",
     "image": null
   },
   {
@@ -432,15 +459,6 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/story/beyonce-liim-gilla-band-and-more-this-weeks-pitchfork-selects-playlist/",
-    "source": "pitchfork",
-    "title": "Beyoncé, Liim, Gilla Band, and More: This Week’s Pitchfork Selects Playlist",
-    "url": "https://pitchfork.com/story/beyonce-liim-gilla-band-and-more-this-weeks-pitchfork-selects-playlist/",
-    "publishedAt": "2026-07-13T15:36:05.000Z",
-    "summary": "Our weekly playlist highlights songs that our writers, editors, and contributors are listening to on repeat",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRFZKRXdOaEg4WmU1dnlyakdxdVQ3N09oN3JhZDVPYTd2YXAxa0liNWxVd2RoVDZrZEYyeU82YkJBNlRsd2xXWXpzM0ZDcGJuRnFYN3lmNEVEbmFUZWNQb0RWNU1KNXhDRUdzUlhWYkZPN0lmcTVBUll0Y3VJYWxnRnp5UFhWOHFKRW04LXNBbU1HN0FoeEJnVThrc2lySUVsX1VkQ0c5WHBJcm9JcUZKWldNS082WFFpdDlPR3l0OFVMbEVHOEFFUklBb1dHYkhJV0M0X3l5ZjVBTEozTktRbW5vTUdFTHVxNzRsWmRTQzN6QQ?oc=5",
     "source": "nme",
     "title": "Mastodon announce first new album in five years 'Marrow Deep' with blistering Josh Homme-featuring single 'Snakes For Dinner' - NME",
@@ -495,15 +513,6 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/devildriver-dez-fafara-strike-and-kill-2026-interview/",
-    "source": "loudwire",
-    "title": "DevilDriver Singer Shares 'First' That Makes New Album Strongest",
-    "url": "https://loudwire.com/devildriver-dez-fafara-strike-and-kill-2026-interview/",
-    "publishedAt": "2026-07-13T12:39:02.000Z",
-    "summary": "DevilDriver's Dez Fafara reveals a suggestion given to the band has influenced why he feels that 'Strike and Kill' is one of the band's strongest records to date. Continue reading…",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/oriana-gidi-blue-bin-boy-single-review/",
     "source": "louder-than-war",
     "title": "Oriana Gidi: Blue Bin Boy – Single Review",
@@ -555,15 +564,6 @@
     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQzBVazZJVk0wc1VXZnVoTmQxUHA4UHg3TTVNM3R1MEhsRDRDNV8xeEozX0VJU3c5S3piNkJVYnh3YnJxaFQ2cmZKS0Mzc2s2NE5qVmNIb2RJU3Z3TFExemRsMmk1dmpVX2tPY1puUWVYckdPWnZyenM1ZlJhdUZUakZEUjV4VE9lNm9jZW4zSllaSkl2M3lOclh0SmdUckpSVGtROWQ0Y184bk1jZU0tVkl2VlpIRXhPaEF5d0hmakRkeU5iNmhQZGpVZm84NVFQ?oc=5",
     "publishedAt": "2026-07-13T10:57:48.000Z",
     "summary": "Watch Andy Burnham blind-rank his favourite bands – including Oasis, The Smiths, Wolf Alice and more NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUGxFNDd1eER4aFF6RWRWYVNUNENGZW9UVGRSNllPcXNHTmt0dk1RdTMzZ3JNcGZ1c3BFWGtyYTA3akdjeWhwUnhzbjVDNVI5RjU5ZUVTWTVTTnMtX3BmMDBvYWJJdnZOc2FUV3Z6bXVKMHp3VklwVEV1WkpUaXBOc3JMR0JOMzhmMXZOa0ZOMk80YWRkMU1nTEZ2WUZ1WjNEWHdwUnFiWks?oc=5",
-    "source": "nme",
-    "title": "Gerard Way pauses My Chemical Romance’s Wembley Stadium show to talk about ‘Baldur’s Gate’ - NME",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUGxFNDd1eER4aFF6RWRWYVNUNENGZW9UVGRSNllPcXNHTmt0dk1RdTMzZ3JNcGZ1c3BFWGtyYTA3akdjeWhwUnhzbjVDNVI5RjU5ZUVTWTVTTnMtX3BmMDBvYWJJdnZOc2FUV3Z6bXVKMHp3VklwVEV1WkpUaXBOc3JMR0JOMzhmMXZOa0ZOMk80YWRkMU1nTEZ2WUZ1WjNEWHdwUnFiWks?oc=5",
-    "publishedAt": "2026-07-13T10:57:34.000Z",
-    "summary": "Gerard Way pauses My Chemical Romance’s Wembley Stadium show to talk about ‘Baldur’s Gate’ NME",
     "image": null
   },
   {
