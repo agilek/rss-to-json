@@ -1,5 +1,50 @@
 [
   {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/jack-white-the-white-stripes-cannon-daughter-scarlett-white-1235593068/",
+    "source": "rolling-stone",
+    "title": "Jack White Performs the White Stripes’ 1999 Track ‘Cannon’ With Daughter Scarlett",
+    "url": "https://www.rollingstone.com/music/music-news/jack-white-the-white-stripes-cannon-daughter-scarlett-white-1235593068/",
+    "publishedAt": "2026-07-14T01:06:06.000Z",
+    "summary": "The track featured on the White Stripes' debut album",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/awards/daytime-emmy-nominations-2026-kelly-clarkson-show-1236293651/",
+    "source": "billboard",
+    "title": "‘The Kelly Clarkson Show,’ ‘The View’ Score in 2026 Daytime Emmy Nominations",
+    "url": "https://www.billboard.com/music/awards/daytime-emmy-nominations-2026-kelly-clarkson-show-1236293651/",
+    "publishedAt": "2026-07-14T01:03:18.000Z",
+    "summary": "Clarkson has been a double nominee in the two talk show categories for all seven seasons of her eponymous show.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "source": "billboard",
+    "title": "Billboard’s Music Industry Events Calendar",
+    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "publishedAt": "2026-07-13T23:57:00.000Z",
+    "summary": "A complete rundown of the most important events across the music business.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/madonna-confessions-ii-number-one-charts-message-to-fans-1235593057/",
+    "source": "rolling-stone",
+    "title": "Madonna Reflects on ‘Confessions II’ Success: ‘Words Cannot Express How Grateful and Surprised I Am’",
+    "url": "https://www.rollingstone.com/music/music-news/madonna-confessions-ii-number-one-charts-message-to-fans-1235593057/",
+    "publishedAt": "2026-07-13T23:29:07.000Z",
+    "summary": "The icon responded to her new album opening at Number One on the Billboard 200",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/stubhub-customer-fraud-lawsuit-ceo-ticket-broker-side-gig/",
+    "source": "billboard",
+    "title": "StubHub Hit With Customer Class Action Fraud Lawsuit Over CEO’s Ticket Broker Side Gig",
+    "url": "https://www.billboard.com/pro/stubhub-customer-fraud-lawsuit-ceo-ticket-broker-side-gig/",
+    "publishedAt": "2026-07-13T23:21:16.000Z",
+    "summary": "A fan claims that Eric Baker's involvement with a reselling fund, while disclosed in a regulatory filing, was not publicized to consumers.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/awards/kpop-demon-hunters-nominated-2026-humanitas-prize-full-list-1236293600/",
     "source": "billboard",
     "title": "‘KPop Demon Hunters,’ ‘Song Sung Blue,’ Billy Joel Doc & More Nominated for 2026 Humanitas Prizes: Full List",
@@ -87,33 +132,6 @@
     "url": "https://www.billboard.com/culture/product-recommendations/best-4k-tv-rgb-led-shop-buy-online-1236291573/",
     "publishedAt": "2026-07-13T20:48:52.000Z",
     "summary": "From Sony to LG, Shop Billboard rounded up the best 4K TVs for watching live music performances and live sports.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/latin/belinda-levis-brand-ambassador-latin-america-1236293357/",
-    "source": "billboard",
-    "title": "Belinda Is the New Face of This Denim Brand in Latin America",
-    "url": "https://www.billboard.com/music/latin/belinda-levis-brand-ambassador-latin-america-1236293357/",
-    "publishedAt": "2026-07-13T20:44:30.000Z",
-    "summary": "The Mexican pop singer is named brand ambassador for the iconic fashion company.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/doordash-sweet-treat-week-summer-deals-free-trial-1236292947/",
-    "source": "billboard",
-    "title": "DoorDash Sweet Treat Week: How to Get Deals on Starbucks, Wendy’s & Häagen-Dazs",
-    "url": "https://www.billboard.com/culture/product-recommendations/doordash-sweet-treat-week-summer-deals-free-trial-1236292947/",
-    "publishedAt": "2026-07-13T20:37:46.000Z",
-    "summary": "Running through July 22, the DoorDash promotion offers exclusive savings for DashPass members during the final week of Summer of DashPass.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/boosie-badazz-trump-pardon-rapper-demands-refund-lobbyists/",
-    "source": "billboard",
-    "title": "Boosie Badazz Files Legal Action After Paying $600K in Failed Effort at Trump Pardon: Report",
-    "url": "https://www.billboard.com/pro/boosie-badazz-trump-pardon-rapper-demands-refund-lobbyists/",
-    "publishedAt": "2026-07-13T20:33:00.000Z",
-    "summary": "The rapper says a pair of MAGA lobbyists must return a huge payment he made after they were \"talking like they had Trump on speed dial.\"",
     "image": null
   },
   {
@@ -405,6 +423,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMioAFBVV95cUxNV1BmcU51bnZIZkFHZGZQdHA3ajhoYzY5RXFnb2dFUWFxRkczYnhCbDlsQUhna3BZYVlIZXNRMlQxbmlMakJZdEtXREZRNVdPbHhPbVc5b0tmM0dZOTIwY2ZMZHZfRmxYVkh0Wmp0RUsxLTQ3NVdXUi1rb1ExV0FqMDMxNU9VSDRBZnRtcHVKYTZNVDdGdHhMNmZxV05NSGtj?oc=5",
+    "source": "nme",
+    "title": "Sam Neill, ‘Jurassic Park’ and ‘Peaky Blinders’ actor, dies aged 78 - NME",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV1BmcU51bnZIZkFHZGZQdHA3ajhoYzY5RXFnb2dFUWFxRkczYnhCbDlsQUhna3BZYVlIZXNRMlQxbmlMakJZdEtXREZRNVdPbHhPbVc5b0tmM0dZOTIwY2ZMZHZfRmxYVkh0Wmp0RUsxLTQ3NVdXUi1rb1ExV0FqMDMxNU9VSDRBZnRtcHVKYTZNVDdGdHhMNmZxV05NSGtj?oc=5",
+    "publishedAt": "2026-07-13T06:55:22.000Z",
+    "summary": "Sam Neill, ‘Jurassic Park’ and ‘Peaky Blinders’ actor, dies aged 78 NME",
+    "image": null
+  },
+  {
     "id": "nme-https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcnhsWHNybTFSdzhfZW0ySFlfS3UyY1FWemFYMHZ6ZzBGZXNZVHR4bzJwMkl4Sk1IbDR3bkZRMEVZU1FhT1o4d3JUNDgtQmg5YW1tTEtkR21EM3lHMzdleDNaeEd5NVBEcHZLYkhwdmxQVkpxbFpWSUtJalZmRTM5SzBSS3NzM3NZSXQtY1diX0VVMXV4aEtib1FsLTFfVm5IVnRjQ3JBank5TjdZN0hZS01XX1RSV3g0cExLb1RtVjE0LVJKbjhpb09kN3dZVlRPYW9vQUUzVWI?oc=5",
     "source": "nme",
     "title": "Watch the moment Pulp play 'Common People' at Mad Cool 2026 as England fans celebrate win against Norway - NME",
@@ -414,30 +441,12 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/madonna-number-one-charts-confessions-ii-1235592485/",
-    "source": "rolling-stone",
-    "title": "Madonna Returns to Number One on the Charts With ‘Confessions II’",
-    "url": "https://www.rollingstone.com/music/music-news/madonna-number-one-charts-confessions-ii-1235592485/",
-    "publishedAt": "2026-07-12T20:25:10.000Z",
-    "summary": "Singer scores her 10th chart-topping album and becomes first artist of the 2020s to land Number Ones in four different decades",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/live-inside-a-dream-02-hyde-park-book-club-festival-review/",
     "source": "louder-than-war",
     "title": "Live Inside A Dream 02: Hyde Park Book Club – Festival Review",
     "url": "https://louderthanwar.com/live-inside-a-dream-02-hyde-park-book-club-festival-review/",
     "publishedAt": "2026-07-12T20:23:21.000Z",
     "summary": "Live Inside a Dream Festival 02 Hyde Park Book Club, Leeds 4th July 2026 Live Inside A Dream festival returns to Hyde Park Book Club in Leeds to pay tribute to David Lynch. Expect dream pop and cherry pie. A full year after the very first Live Inside A Dream, it seems that festival you […] The post Live Inside A Dream 02: Hyde Park Book Club – Festival Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/ellie-goulding-performance-world-cup-quarterfinal-halftime-1235592231/",
-    "source": "rolling-stone",
-    "title": "Ellie Goulding Performs ‘Lights’ at World Cup Quarterfinal Game",
-    "url": "https://www.rollingstone.com/music/music-news/ellie-goulding-performance-world-cup-quarterfinal-halftime-1235592231/",
-    "publishedAt": "2026-07-12T19:02:42.000Z",
-    "summary": "“I already know the boys will make England proud, it’s coming home,” she wrote ahead of the game between England and Norway in Miami",
     "image": null
   },
   {
@@ -483,15 +492,6 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYkR2TE5kLUcyekNJWHFUbHAzWDRKT2o0a2pNeGxkZllkTEg2NHp6WkszazRfYlBMVVJiNGZKUWltUWhQS3paLTZPWllFdTV3enVIV1V0VDVWTnlKSTRaaTJkQndXelFsT1pDMTAycTlaUkkzVmFueXFjbnRVbTVwSzRjYmFXMXhBS1JRamoyamhYQkkwby1qdTRleGJJS1VlcWgxbXFzYzZOdzhsaHZRRllR?oc=5",
     "publishedAt": "2026-07-12T11:05:01.000Z",
     "summary": "Watch Pitbull cover Oasis’ ‘Wonderwall’ at record-breaking BST Hyde Park gig NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMitwFBVV95cUxQY2lOS3MxV2pvTzAydVRJOG5SbGQwSzZLR2NMT2NmMVRVc0w2SXpSOWpoNjUwMDRvYmdUcF9mNldtejFNZjlXZkhHeTZoU2NQWXVIUUpJajlOdktUaG5DVWROWXo0U3NLaDVRZjgzdkYxcGN3RzB3ZU1ydVlvMVl5Q1BnUWd6Y1NUOHRBNUE1ODZXNVVpWlhPckZ6SnVYZlNKSGFXRlpXelg3a0h6bHEyd0ZGZW1OUms?oc=5",
-    "source": "nme",
-    "title": "IDLES' Joe Talbot hails Interpol as “one of the main reasons I’m in a band” at Bilbao BBK Live 2026 - NME",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY2lOS3MxV2pvTzAydVRJOG5SbGQwSzZLR2NMT2NmMVRVc0w2SXpSOWpoNjUwMDRvYmdUcF9mNldtejFNZjlXZkhHeTZoU2NQWXVIUUpJajlOdktUaG5DVWROWXo0U3NLaDVRZjgzdkYxcGN3RzB3ZU1ydVlvMVl5Q1BnUWd6Y1NUOHRBNUE1ODZXNVVpWlhPckZ6SnVYZlNKSGFXRlpXelg3a0h6bHEyd0ZGZW1OUms?oc=5",
-    "publishedAt": "2026-07-12T10:36:12.000Z",
-    "summary": "IDLES' Joe Talbot hails Interpol as “one of the main reasons I’m in a band” at Bilbao BBK Live 2026 NME",
     "image": null
   },
   {
