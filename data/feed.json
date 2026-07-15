@@ -1,5 +1,41 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/rock/queens-of-the-stone-age-easy-street-tour-australia-and-nz-1236294451/",
+    "source": "billboard",
+    "title": "Queens of the Stone Age Return With ‘Easy Street,’ Announce Tour of Australia and NZ",
+    "url": "https://www.billboard.com/music/rock/queens-of-the-stone-age-easy-street-tour-australia-and-nz-1236294451/",
+    "publishedAt": "2026-07-15T09:57:51.000Z",
+    "summary": "“Easy Street” is the band’s first new song since 2023’s In Times New Roman.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/australia-prime-minister-commits-copyright-protections-ai/",
+    "source": "billboard",
+    "title": "‘Our Laws Will Spell That Out Plain as Day:’ Australia’s Prime Minister Commits to Copyright Protections In AI Age",
+    "url": "https://www.billboard.com/pro/australia-prime-minister-commits-copyright-protections-ai/",
+    "publishedAt": "2026-07-15T09:20:51.000Z",
+    "summary": "\"No company should use Australian books, music, art or news to build or train AI without the artist's control, and that includes the artist's control of the price and value of their work.\"",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/concerts/bryan-adams-roll-with-the-punches-2027-australasia-tour-1236294428/",
+    "source": "billboard",
+    "title": "Bryan Adams Will ‘Roll With The Punches’ For 2027 Australasia Arena Tour",
+    "url": "https://www.billboard.com/music/concerts/bryan-adams-roll-with-the-punches-2027-australasia-tour-1236294428/",
+    "publishedAt": "2026-07-15T08:29:45.000Z",
+    "summary": "The veteran Canadian rocker will play arenas in seven cities on both sides of the Tasman.",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSDdtM010ZTJ2YkluakVncGRpQVFuMUs5ampJdVAtc1NQNWUtVUFpX01BN0ZMbHFaZ2lmUUg4THY0aEpzbEZoaVpZWVBWU3VwNnNFNFpPaW1pUTZ3Q0UxT2FHazNXNEdRbm8yMGh4VC1udGdsMElrc0kzRFc2NTVqTUhOaFlNQl9wcDRiX3JETkVJSE92V2UxRklOaVBFam9TMXNULWVCMXFfaEFiX0hXSFVCQVhSNWhUeDF4WEIwSFBZMklYOUJoNkZ4N0ZuU0NaYW5lYmZ4Q21FM0thSXRZbHhuVDhlYTgzdzJkR2kwWQ?oc=5",
+    "source": "nme",
+    "title": "Phil Collins on meeting Oasis at upcoming Rock Hall induction after Noel Gallagher called him \"the Antichrist\" - NME",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSDdtM010ZTJ2YkluakVncGRpQVFuMUs5ampJdVAtc1NQNWUtVUFpX01BN0ZMbHFaZ2lmUUg4THY0aEpzbEZoaVpZWVBWU3VwNnNFNFpPaW1pUTZ3Q0UxT2FHazNXNEdRbm8yMGh4VC1udGdsMElrc0kzRFc2NTVqTUhOaFlNQl9wcDRiX3JETkVJSE92V2UxRklOaVBFam9TMXNULWVCMXFfaEFiX0hXSFVCQVhSNWhUeDF4WEIwSFBZMklYOUJoNkZ4N0ZuU0NaYW5lYmZ4Q21FM0thSXRZbHhuVDhlYTgzdzJkR2kwWQ?oc=5",
+    "publishedAt": "2026-07-15T07:10:06.000Z",
+    "summary": "Phil Collins on meeting Oasis at upcoming Rock Hall induction after Noel Gallagher called him \"the Antichrist\" NME",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/phoebe-bridgers-lost-boys-jimmy-fallon-1235593251/",
     "source": "rolling-stone",
     "title": "Phoebe Bridgers Plays Surprise Performance of ‘Lost Boys’ on ‘Fallon’",
@@ -108,24 +144,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/lists/snow-patrol-signs-bmg-morgan-wade-warner-signings/",
-    "source": "billboard",
-    "title": "Signed: Snow Patrol Runs to BMG; Morgan Wade Inks With Warner Nashville",
-    "url": "https://www.billboard.com/lists/snow-patrol-signs-bmg-morgan-wade-warner-signings/",
-    "publishedAt": "2026-07-14T22:12:32.000Z",
-    "summary": "Other recent artist signings include Ty Herndon, La Reezy, Restless Road and @.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/millie-bobby-brown-ice-spice-lil-yachty-drake-shabang-1236293904/",
-    "source": "billboard",
-    "title": "Watch Millie Bobby Brown, Ice Spice & Lil Yachty Join Drake’s ‘Shabang’ TikTok Challenge",
-    "url": "https://www.billboard.com/music/rb-hip-hop/millie-bobby-brown-ice-spice-lil-yachty-drake-shabang-1236293904/",
-    "publishedAt": "2026-07-14T21:17:08.000Z",
-    "summary": "Drizzy tried his hand at the viral trend last month.",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/england-soccer-team-sang-oasis-wonderwall-world-cup-victory/",
     "source": "loudwire",
     "title": "The '90s Rock Song England Has Sung After Every World Cup Win",
@@ -150,15 +168,6 @@
     "url": "https://www.rollingstone.com/music/music-news/jason-newsted-metallica-stop-show-darts-interview-1235593579/",
     "publishedAt": "2026-07-14T20:52:38.000Z",
     "summary": "“It was maybe the fourth time we ever stopped a show,” the band’s former bassist says. “I look over at James, like, ‘Dude!’”",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/lil-durk-murder-for-hire-trial-on-track-judge-prosecutor/",
-    "source": "billboard",
-    "title": "Lil Durk’s August Murder-for-Hire Trial on Track as Judge Scolds Prosecutor: ‘You Had Over a Year’",
-    "url": "https://www.billboard.com/pro/lil-durk-murder-for-hire-trial-on-track-judge-prosecutor/",
-    "publishedAt": "2026-07-14T20:47:36.000Z",
-    "summary": "A federal judge rejected prosecutors’ “obvious” strategy to delay the Chicago rapper’s trial and bolster the case with new charges.",
     "image": null
   },
   {
@@ -510,15 +519,6 @@
     "url": "https://pitchfork.com/story/l7s-jennifer-finch-diagnosed-with-brain-cancer/",
     "publishedAt": "2026-07-13T16:08:59.000Z",
     "summary": "The ’90s grunge outfit’s longtime bassist is raising funds to cover medical expenses and additional at-home care",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRFZKRXdOaEg4WmU1dnlyakdxdVQ3N09oN3JhZDVPYTd2YXAxa0liNWxVd2RoVDZrZEYyeU82YkJBNlRsd2xXWXpzM0ZDcGJuRnFYN3lmNEVEbmFUZWNQb0RWNU1KNXhDRUdzUlhWYkZPN0lmcTVBUll0Y3VJYWxnRnp5UFhWOHFKRW04LXNBbU1HN0FoeEJnVThrc2lySUVsX1VkQ0c5WHBJcm9JcUZKWldNS082WFFpdDlPR3l0OFVMbEVHOEFFUklBb1dHYkhJV0M0X3l5ZjVBTEozTktRbW5vTUdFTHVxNzRsWmRTQzN6QQ?oc=5",
-    "source": "nme",
-    "title": "Mastodon announce first new album in five years 'Marrow Deep' with blistering Josh Homme-featuring single 'Snakes For Dinner' - NME",
-    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRFZKRXdOaEg4WmU1dnlyakdxdVQ3N09oN3JhZDVPYTd2YXAxa0liNWxVd2RoVDZrZEYyeU82YkJBNlRsd2xXWXpzM0ZDcGJuRnFYN3lmNEVEbmFUZWNQb0RWNU1KNXhDRUdzUlhWYkZPN0lmcTVBUll0Y3VJYWxnRnp5UFhWOHFKRW04LXNBbU1HN0FoeEJnVThrc2lySUVsX1VkQ0c5WHBJcm9JcUZKWldNS082WFFpdDlPR3l0OFVMbEVHOEFFUklBb1dHYkhJV0M0X3l5ZjVBTEozTktRbW5vTUdFTHVxNzRsWmRTQzN6QQ?oc=5",
-    "publishedAt": "2026-07-13T14:42:11.000Z",
-    "summary": "Mastodon announce first new album in five years 'Marrow Deep' with blistering Josh Homme-featuring single 'Snakes For Dinner' NME",
     "image": null
   },
   {
