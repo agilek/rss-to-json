@@ -1,5 +1,59 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/pro/merlin-dan-nevin-vp-industry-relations/",
+    "source": "billboard",
+    "title": "Merlin Appoints Dan Nevin as VP, Industry Relations",
+    "url": "https://www.billboard.com/pro/merlin-dan-nevin-vp-industry-relations/",
+    "publishedAt": "2026-07-15T02:12:07.000Z",
+    "summary": "Nevin will lead Merlin's engagement with independent trade associations and strategic partners worldwide as vice president, industry relations, a new role.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/jay-z-drake-justin-bieber-soundtrack-fanatics-fest-playlist-1236293861/",
+    "source": "billboard",
+    "title": "Jay-Z, Drake, Justin Bieber & Don Toliver Soundtrack Official 2026 Fanatics Fest Playlist",
+    "url": "https://www.billboard.com/music/music-news/jay-z-drake-justin-bieber-soundtrack-fanatics-fest-playlist-1236293861/",
+    "publishedAt": "2026-07-15T00:27:45.000Z",
+    "summary": "It's all going down at Javits Center in NYC from July 16-19.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/media/podcasts/suki-waterhouse-loveland-album-interview-pop-shop-podcast-1236291263/",
+    "source": "billboard",
+    "title": "Suki Waterhouse on Feeling ‘Wiser & Also Sillier Than Ever’ on ‘Loveland’ Album, How Opening for Taylor Swift’s Eras Tour Will Impact Her Next Trek",
+    "url": "https://www.billboard.com/media/podcasts/suki-waterhouse-loveland-album-interview-pop-shop-podcast-1236291263/",
+    "publishedAt": "2026-07-15T00:20:09.000Z",
+    "summary": "\"I've kind of found my new self in this very joyful, delicate, interesting time in my life,\" she tells Billboard Pop Shop Podcast of her new album.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/billy-joel-stopped-songwriting-dilute-legacy-1235593755/",
+    "source": "rolling-stone",
+    "title": "Billy Joel Stopped Writing Songs Because He Didn’t Want to ‘Dilute’ His Legacy",
+    "url": "https://www.rollingstone.com/music/music-news/billy-joel-stopped-songwriting-dilute-legacy-1235593755/",
+    "publishedAt": "2026-07-15T00:17:17.000Z",
+    "summary": "The artist released his last rock album in 1993",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/michelle-branch-new-ep-25th-anniversary-new-radicals-1235592070/",
+    "source": "rolling-stone",
+    "title": "Michelle Branch Recreated Her Old Hits — And Has an Updated ‘The Game of Love’ With New Radicals",
+    "url": "https://www.rollingstone.com/music/music-features/michelle-branch-new-ep-25th-anniversary-new-radicals-1235592070/",
+    "publishedAt": "2026-07-15T00:00:00.000Z",
+    "summary": "The singer-songwriter will celebrate the 25th anniversary of her career with collaborative EP Everywhere and Back Again, and a tour",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/lil-durk-racketeering-chicago-killing-separated-la-trial-1235593517/",
+    "source": "rolling-stone",
+    "title": "Lil Durk Scores Major Win to Split Racketeering Charges, Chicago Killing Claims From L.A. Trial",
+    "url": "https://www.rollingstone.com/music/music-news/lil-durk-racketeering-chicago-killing-separated-la-trial-1235593517/",
+    "publishedAt": "2026-07-14T23:17:01.000Z",
+    "summary": "\"I’m here to make sure both sides have a fair trial,\" the judge says at a tense hearing",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/pro/travis-scott-lawsuit-drunken-assault-miami-yacht-crew/",
     "source": "billboard",
     "title": "Travis Scott Sued for Alleged Drunken Assault on Miami Yacht Crew in 2024",
@@ -90,24 +144,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/latin/elena-rose-karol-g-invitation-viajando-por-el-mundo-tour-1236294103/",
-    "source": "billboard",
-    "title": "Elena Rose on Karol G’s ‘Genuine’ Invitation to Open Her Viajando Por El Mundo Tropitour: ‘I Feel Like I’m Going on Tour With a Friend’",
-    "url": "https://www.billboard.com/music/latin/elena-rose-karol-g-invitation-viajando-por-el-mundo-tour-1236294103/",
-    "publishedAt": "2026-07-14T20:23:51.000Z",
-    "summary": "Rose will join Karol G on 10 U.S. stadium dates, kicking off with two shows in Chicago on July 24 and 25.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/new-albums-2026-calendar-new-music-releases-this-year/",
-    "source": "billboard",
-    "title": "Looking Ahead: A Release Calendar of Upcoming Albums in 2026",
-    "url": "https://www.billboard.com/lists/new-albums-2026-calendar-new-music-releases-this-year/",
-    "publishedAt": "2026-07-14T20:18:38.000Z",
-    "summary": "We'll be updating our list as musicians announce their new music, so keep checking back for the latest!",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/phil-collins-oasis-noel-gallagher-comments-1235593452/",
     "source": "rolling-stone",
     "title": "Does Noel Gallagher Truly Believe Phil Collins Is the Antichrist? Collins Doesn’t Think So",
@@ -123,15 +159,6 @@
     "url": "https://pitchfork.com/story/friendship-charlotte-cornfield-tour/",
     "publishedAt": "2026-07-14T19:55:22.000Z",
     "summary": "The Philly band and Toronto songwriter’s joint run kicks off in December",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/mlb-all-star-game-2026-watch-livestream-online-free-1236290347/",
-    "source": "billboard",
-    "title": "How to Watch 2026 MLB All-Star Game Live Online for Free",
-    "url": "https://www.billboard.com/culture/product-recommendations/mlb-all-star-game-2026-watch-livestream-online-free-1236290347/",
-    "publishedAt": "2026-07-14T19:52:05.000Z",
-    "summary": "The 96th annual all-star game takes place on Tuesday (July 14) — watch online for free.",
     "image": null
   },
   {
@@ -180,6 +207,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMirAJBVV95cUxQbEtwQ3VJeUdIRENMNU9zZllMc0lyaVllX0VsdnZOUW45b25RaG9yLWQxc0JMcGY3Qk9ZdDN6WmRobURnVVd4WVBCdVVicDl0Q0lldlg4dTgxUWVEdmplSHg0ajdNZWU1S3lDbXpEdjlsS2lJV3U3RDcxQTIzendxNTBTVGsxZ2tBWEdxQjJVU2NXMHhZVUwzYmVOTV9BYjhFRldqcjBrTkw4M3RXOXlZeWxiTjdYYjdoa0pWYWQtTG5LcThtUV9mWkk2eU1ldmM5TU9FVHJsZUtTcDkwbUo0d2VqM3ZzS1k0WVdBc0xqZ0IxV004T193c2p3UGhMWGUyenF2S3A1RmNVbTBWREhJbnJiQkpDclFZdFkxaDVrWkFjcjNvRXMydzYwanM?oc=5",
+    "source": "nme",
+    "title": "Queens Of The Stone Age return with psychedelic new single 'Easy Street': \"It’s like hitting your funny bone, where it’s funny because it hurts and it hurts because it’s funny\" - NME",
+    "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQbEtwQ3VJeUdIRENMNU9zZllMc0lyaVllX0VsdnZOUW45b25RaG9yLWQxc0JMcGY3Qk9ZdDN6WmRobURnVVd4WVBCdVVicDl0Q0lldlg4dTgxUWVEdmplSHg0ajdNZWU1S3lDbXpEdjlsS2lJV3U3RDcxQTIzendxNTBTVGsxZ2tBWEdxQjJVU2NXMHhZVUwzYmVOTV9BYjhFRldqcjBrTkw4M3RXOXlZeWxiTjdYYjdoa0pWYWQtTG5LcThtUV9mWkk2eU1ldmM5TU9FVHJsZUtTcDkwbUo0d2VqM3ZzS1k0WVdBc0xqZ0IxV004T193c2p3UGhMWGUyenF2S3A1RmNVbTBWREhJbnJiQkpDclFZdFkxaDVrWkFjcjNvRXMydzYwanM?oc=5",
+    "publishedAt": "2026-07-14T17:30:28.000Z",
+    "summary": "Queens Of The Stone Age return with psychedelic new single 'Easy Street': \"It’s like hitting your funny bone, where it’s funny because it hurts and it hurts because it’s funny\" NME",
+    "image": null
+  },
+  {
     "id": "pitchfork-https://pitchfork.com/story/thundercat-north-american-tour/",
     "source": "pitchfork",
     "title": "Thundercat Sets Fall North American Tour",
@@ -222,33 +258,6 @@
     "url": "https://www.uncut.co.uk/reviews/album/the-waterboys-atlantic-rain-theres-plenty-more-fishermans-blues-in-the-sea-155460/",
     "publishedAt": "2026-07-14T15:14:21.000Z",
     "summary": "Mike Scott finds three more discs of outtakes from the band's most prolific period",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/indiana-prosecutors-drugs-phish-show-1235593161/",
-    "source": "rolling-stone",
-    "title": "Indiana Prosecutors Aghast at Phish Fans Who Showed Up to Concerts With Drugs",
-    "url": "https://www.rollingstone.com/music/music-news/indiana-prosecutors-drugs-phish-show-1235593161/",
-    "publishedAt": "2026-07-14T15:13:43.000Z",
-    "summary": "The Hamilton County Prosecuting Attorney’s Office claimed it made five felony-level drug arrests in a tut-tutting statement after Phish’s three-day run at the Ruoff Music Center",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-latin/linea-personal-tour-new-music-1235592619/",
-    "source": "rolling-stone",
-    "title": "Linea Personal’s Moment Has Arrived",
-    "url": "https://www.rollingstone.com/music/music-latin/linea-personal-tour-new-music-1235592619/",
-    "publishedAt": "2026-07-14T15:11:49.000Z",
-    "summary": "The música mexicana band will crisscross the U.S. during its first major tour — and the future is wide-open",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-album-reviews/gracie-abrams-album-review-daughter-from-hell-1235587533/",
-    "source": "rolling-stone",
-    "title": "Gracie Abrams Cuts Deep on ‘Daughter From Hell’",
-    "url": "https://www.rollingstone.com/music/music-album-reviews/gracie-abrams-album-review-daughter-from-hell-1235587533/",
-    "publishedAt": "2026-07-14T14:52:03.000Z",
-    "summary": "The star’s third album dives more fully into her inner world, with a bigger, more satisfying sound to match",
     "image": null
   },
   {
@@ -555,15 +564,6 @@
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRGpDRDRveVA1eTY2TC1STWxVM0FiSl9KeU01Z05BVnVWaWxiU3NQbFBOOWtnZGhDSU9JbVh0X1Nvd09tZFpVZnFKUDFnWng1MGhHLVIxcDc4Nzk4SU44N0JtcURpMUQ4ZnU1TU1wR0VvMEdjYUMyRTg4cXQxUjVqRlJGcENsYVpsa3BjNlZpX0YzN3BJVXJJ?oc=5",
     "publishedAt": "2026-07-13T11:37:00.000Z",
     "summary": "unpeople announce biggest UK and Ireland headline dates yet for 2027 Kerrang!",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMizAFBVV95cUxOMG9ycEFJTkRIaUJmMzRhYnd4RC1NOHVvclNVLVowUllCcU81LVhDSUdFVHdZZjd6R1FXNC1rT04wMmNXY0lZNExiM3I2RWl2NGpRN0dIdkpJbWExenhoMHoyOXltRXdpY3ptTnJVOEo4VFBwY2RSZ25lRjdoU1R6Z2NMcVkyV1pFNEVfTk5GamFsOUM0cm0xMHpEZEFqOHlfWHRKa2o5bDVXaDB6VXdzVFRGc0p3Sy00eWZJTzV2RHBrZ2hJa1VZMWRHZmI?oc=5",
-    "source": "nme",
-    "title": "Garbage don kilts as Nicola Sturgeon pays tribute to the band at their last ever Scottish gig - NME",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMG9ycEFJTkRIaUJmMzRhYnd4RC1NOHVvclNVLVowUllCcU81LVhDSUdFVHdZZjd6R1FXNC1rT04wMmNXY0lZNExiM3I2RWl2NGpRN0dIdkpJbWExenhoMHoyOXltRXdpY3ptTnJVOEo4VFBwY2RSZ25lRjdoU1R6Z2NMcVkyV1pFNEVfTk5GamFsOUM0cm0xMHpEZEFqOHlfWHRKa2o5bDVXaDB6VXdzVFRGc0p3Sy00eWZJTzV2RHBrZ2hJa1VZMWRHZmI?oc=5",
-    "publishedAt": "2026-07-13T11:18:25.000Z",
-    "summary": "Garbage don kilts as Nicola Sturgeon pays tribute to the band at their last ever Scottish gig NME",
     "image": null
   },
   {
