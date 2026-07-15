@@ -1,29 +1,236 @@
 [
   {
-    "id": "billboard-https://www.billboard.com/music/rock/queens-of-the-stone-age-easy-street-tour-australia-and-nz-1236294451/",
-    "source": "billboard",
-    "title": "Queens of the Stone Age Return With ‘Easy Street,’ Announce Tour of Australia and NZ",
-    "url": "https://www.billboard.com/music/rock/queens-of-the-stone-age-easy-street-tour-australia-and-nz-1236294451/",
-    "publishedAt": "2026-07-15T09:57:51.000Z",
-    "summary": "“Easy Street” is the band’s first new song since 2023’s In Times New Roman.",
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-lists/chicago-peter-cetera-25-or-6-to-4-versions-1235593333/",
+    "source": "rolling-stone",
+    "title": "Watch Peter Cetera and All His Replacements Sing Chicago’s ’25 or 6 to 4′ Across Six Decades",
+    "url": "https://www.rollingstone.com/music/music-lists/chicago-peter-cetera-25-or-6-to-4-versions-1235593333/",
+    "publishedAt": "2026-07-15T13:44:03.000Z",
+    "summary": "Chicago has wrapped up just about every show they've ever played with this 1970 classic, even as they've changed their lineup more often than an NBA team",
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/pro/australia-prime-minister-commits-copyright-protections-ai/",
-    "source": "billboard",
-    "title": "‘Our Laws Will Spell That Out Plain as Day:’ Australia’s Prime Minister Commits to Copyright Protections In AI Age",
-    "url": "https://www.billboard.com/pro/australia-prime-minister-commits-copyright-protections-ai/",
-    "publishedAt": "2026-07-15T09:20:51.000Z",
-    "summary": "\"No company should use Australian books, music, art or news to build or train AI without the artist's control, and that includes the artist's control of the price and value of their work.\"",
+    "id": "pitchfork-https://pitchfork.com/story/meshell-ndegeocello-album-synonym-bill-callahan-anohni-cat-power/",
+    "source": "pitchfork",
+    "title": "Meshell Ndegeocello Launches New Album Featuring Bill Callahan, ANOHNI, Cat Power",
+    "url": "https://pitchfork.com/story/meshell-ndegeocello-album-synonym-bill-callahan-anohni-cat-power/",
+    "publishedAt": "2026-07-15T13:40:41.000Z",
+    "summary": "Synonym is out October 2 on Blue Note",
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/concerts/bryan-adams-roll-with-the-punches-2027-australasia-tour-1236294428/",
+    "id": "pitchfork-https://pitchfork.com/story/beck-announces-first-album-in-7-years/",
+    "source": "pitchfork",
+    "title": "Beck Announces First Album in 7 Years",
+    "url": "https://pitchfork.com/story/beck-announces-first-album-in-7-years/",
+    "publishedAt": "2026-07-15T13:35:49.000Z",
+    "summary": "Listen to “In the Night” from Ride Lonesome, which reunites Beck with Joey Waronker, Justin Meldal-Johnsen, and Nigel Godrich",
+    "image": null
+  },
+  {
+    "id": "uncut-https://www.uncut.co.uk/news/hear-the-previously-unreleased-1965-david-bowie-song-i-want-your-love-155485/",
+    "source": "uncut",
+    "title": "Hear the previously unreleased 1965 David Bowie song, “I Want Your Love”",
+    "url": "https://www.uncut.co.uk/news/hear-the-previously-unreleased-1965-david-bowie-song-i-want-your-love-155485/",
+    "publishedAt": "2026-07-15T13:30:55.000Z",
+    "summary": "It's one of several unreleased tracks on David Bowie: The Shel Talmy Recordings, due for release in September",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-live-reviews/gracie-abrams-new-york-album-release-show-bowery-ballroom-1235593878/",
+    "source": "rolling-stone",
+    "title": "Gracie Abrams Turns An Intimate Album Release Show Into a Glorious Homecoming",
+    "url": "https://www.rollingstone.com/music/music-live-reviews/gracie-abrams-new-york-album-release-show-bowery-ballroom-1235593878/",
+    "publishedAt": "2026-07-15T13:22:06.000Z",
+    "summary": "The singer-songwriter’s show at New York's Bowery Ballroom celebrated her new album Daughter From Hell — and how far she has come",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/vans-kpop-demon-hunters-golden-sneakers-kids-shop-online-1236294028/",
     "source": "billboard",
-    "title": "Bryan Adams Will ‘Roll With The Punches’ For 2027 Australasia Arena Tour",
-    "url": "https://www.billboard.com/music/concerts/bryan-adams-roll-with-the-punches-2027-australasia-tour-1236294428/",
-    "publishedAt": "2026-07-15T08:29:45.000Z",
-    "summary": "The veteran Canadian rocker will play arenas in seven cities on both sides of the Tasman.",
+    "title": "Vans Nods to ‘KPop Demon Hunters’ Oscar-winning Song With New ‘Golden’ Sneakers for Kids",
+    "url": "https://www.billboard.com/culture/product-recommendations/vans-kpop-demon-hunters-golden-sneakers-kids-shop-online-1236294028/",
+    "publishedAt": "2026-07-15T13:14:32.000Z",
+    "summary": "Vans is launching three 'KPop Demon Hunters' sneakers for kids on July 20, with golden accents inspired by the hit Oscar-winning song.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/beck-ride-lonesome-album-in-the-night-single-1235593818/",
+    "source": "rolling-stone",
+    "title": "Beck Previews New Album ‘Ride Lonesome’ With Plaintive ‘In the Night’",
+    "url": "https://www.rollingstone.com/music/music-news/beck-ride-lonesome-album-in-the-night-single-1235593818/",
+    "publishedAt": "2026-07-15T13:14:15.000Z",
+    "summary": "The LP is a follow-up to the musician's Grammy-winning effort Hyperspace",
+    "image": null
+  },
+  {
+    "id": "uncut-https://www.uncut.co.uk/news/beck-announces-new-album-ride-lonesome-155481/",
+    "source": "uncut",
+    "title": "Beck announces new album, Ride Lonesome",
+    "url": "https://www.uncut.co.uk/news/beck-announces-new-album-ride-lonesome-155481/",
+    "publishedAt": "2026-07-15T13:05:11.000Z",
+    "summary": "Watch a video for new single \"In The Night\" now",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/michael-2026-4k-blu-ray-steelbook-buy-online-1236233859/",
+    "source": "billboard",
+    "title": "Michael Jackson Movie Is Still in Theaters, But You Can Buy the 4K Ultra HD Blu-ray Online Now",
+    "url": "https://www.billboard.com/culture/product-recommendations/michael-2026-4k-blu-ray-steelbook-buy-online-1236233859/",
+    "publishedAt": "2026-07-15T13:00:39.000Z",
+    "summary": "Here's where you can buy Michael (2026) on DVD, Blu-ray and 4K Steelbook.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/cardi-b-headline-create-cultivate-festival-los-angeles-1236294242/",
+    "source": "billboard",
+    "title": "Cardi B to Headline Create & Cultivate Festival in Los Angeles",
+    "url": "https://www.billboard.com/music/rb-hip-hop/cardi-b-headline-create-cultivate-festival-los-angeles-1236294242/",
+    "publishedAt": "2026-07-15T13:00:00.000Z",
+    "summary": "The rapper will close out the two-day event, which celebrates women in business.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/latin/unidos-venezuela-benefit-concert-feid-marc-anthony-lineup-1236294353/",
+    "source": "billboard",
+    "title": "Feid, Marc Anthony, Ricardo Montaner & More Set for ‘Unidos Por Venezuela’ Benefit Concert",
+    "url": "https://www.billboard.com/music/latin/unidos-venezuela-benefit-concert-feid-marc-anthony-lineup-1236294353/",
+    "publishedAt": "2026-07-15T13:00:00.000Z",
+    "summary": "The humanitarian initiative was created to support the country’s recovery and reconstruction.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/morgan-wallen-ella-langley-luminate-2026-midyear-rankings-1236294366/",
+    "source": "billboard",
+    "title": "Morgan Wallen’s ‘I’m the Problem,’ Ella Langley’s ‘Choosin’ Texas’ Lead Luminate’s 2026 Midyear Rankings",
+    "url": "https://www.billboard.com/music/chart-beat/morgan-wallen-ella-langley-luminate-2026-midyear-rankings-1236294366/",
+    "publishedAt": "2026-07-15T13:00:00.000Z",
+    "summary": "I’m the Problem and ‘Choosin’ Texas’ were the United States’ most popular album and most-streamed audio song in the first half of the year.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/united-talent-agency-promotes-james-wright-co-head-uk-music/",
+    "source": "billboard",
+    "title": "United Talent Agency Promotes James Wright to Co-Head of U.K. Music",
+    "url": "https://www.billboard.com/pro/united-talent-agency-promotes-james-wright-co-head-uk-music/",
+    "publishedAt": "2026-07-15T13:00:00.000Z",
+    "summary": "The London-based music agent will work alongside live business legend Neil Warnock.",
+    "image": null
+  },
+  {
+    "id": "louder-than-war-https://louderthanwar.com/icons-of-filth-time-of-the-signs-album-review/",
+    "source": "louder-than-war",
+    "title": "Icons Of Filth: Time Of The Signs – Album Review",
+    "url": "https://louderthanwar.com/icons-of-filth-time-of-the-signs-album-review/",
+    "publishedAt": "2026-07-15T12:47:56.000Z",
+    "summary": "Icons Of Filth: Time Of The Signs (Grow Your Own) LP | CD | DL Out Now A searing razor sharp guitar and serrated, throaty vocals front the latest album from Cardiff’s Icons Of Filth. It clearly holds some of the DNA of the band’s seminal 1980s output but is still fresh says Nathan Brown. […] The post Icons Of Filth: Time Of The Signs – Album Review appeared first on Louder Than War.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/watch-phoebe-bridgers-perform-lost-boys-with-a-band-of-children-on-fallon/",
+    "source": "pitchfork",
+    "title": "Watch Phoebe Bridgers Perform “Lost Boys” With a Band of Children on Fallon",
+    "url": "https://pitchfork.com/story/watch-phoebe-bridgers-perform-lost-boys-with-a-band-of-children-on-fallon/",
+    "publishedAt": "2026-07-15T12:38:33.000Z",
+    "summary": "She made a surprise appearance to give the Lost Weekend track its TV debut",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rock/mastodon-marrow-deep-album-snakes-for-dinner-single-listen-1236294504/",
+    "source": "billboard",
+    "title": "Mastodon Announce ‘Marrow Deep’ Album, Drop Witchy Video For ‘Snakes For Dinner’",
+    "url": "https://www.billboard.com/music/rock/mastodon-marrow-deep-album-snakes-for-dinner-single-listen-1236294504/",
+    "publishedAt": "2026-07-15T12:31:36.000Z",
+    "summary": "The LP's first single features Queen of the Stone Ages' Josh Homme.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/hair-metal-bands-that-lost-classic-lineups/",
+    "source": "loudwire",
+    "title": "5 Hair Metal Bands Who Lost Their Classic Lineups",
+    "url": "https://loudwire.com/hair-metal-bands-that-lost-classic-lineups/",
+    "publishedAt": "2026-07-15T12:30:34.000Z",
+    "summary": "These bands left a lasting mark on hair metal, even if the lineups that built their legacies didn't last. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/avicii-community-new-archive-website-shows-tomorrowland-1236294435/",
+    "source": "billboard",
+    "title": "Expanded Avicii Online Platform Includes Show Footage, Setlists & More — And Fans Can Contribute To It",
+    "url": "https://www.billboard.com/music/music-news/avicii-community-new-archive-website-shows-tomorrowland-1236294435/",
+    "publishedAt": "2026-07-15T12:30:00.000Z",
+    "summary": "A project by Pophouse and The Avicii Estate, the Avicii Community launches today (July 15).",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/bandlab-acquires-ai-digital-music-studio-aiode/",
+    "source": "billboard",
+    "title": "BandLab Technologies Acquires AI-Powered Digital Music Studio Aiode",
+    "url": "https://www.billboard.com/pro/bandlab-acquires-ai-digital-music-studio-aiode/",
+    "publishedAt": "2026-07-15T12:00:00.000Z",
+    "summary": "The music creation platform, trained entirely on licensed material, allows users to upload a song idea and finish it out using AI models made with real musicians.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/lily-allen-scales-down-west-end-girl-tour-arenas-theaters-1236294482/",
+    "source": "billboard",
+    "title": "Lily Allen Scaling Down Fall 2026 Leg of North American West End Girl Tour From Arenas to Theaters: ‘We’ve Had to Make Some Adjustments’",
+    "url": "https://www.billboard.com/music/pop/lily-allen-scales-down-west-end-girl-tour-arenas-theaters-1236294482/",
+    "publishedAt": "2026-07-15T11:49:55.000Z",
+    "summary": "Most of the shows on the singer's upcoming tour will be moved into smaller spaces.",
+    "image": null
+  },
+  {
+    "id": "louder-than-war-https://louderthanwar.com/eddfest-festival-review/",
+    "source": "louder-than-war",
+    "title": "EddFest: Festival Review",
+    "url": "https://louderthanwar.com/eddfest-festival-review/",
+    "publishedAt": "2026-07-15T11:47:31.000Z",
+    "summary": "EddFest Knebworth Park, Hertfordshire 11th July 2026 EddFest: Iron Maiden’s triumphant 50th Anniversary celebration at Knebworth Park. Great performances, great bands, great weather, great atmosphere, and a supporting cast of tens of thousands combine to create a day to celebrate and remember. Knebworth holds a special place in UK rock history. It’s synonymous with iconic […] The post EddFest: Festival Review appeared first on Louder Than War.",
+    "image": null
+  },
+  {
+    "id": "louder-than-war-https://louderthanwar.com/dan-haywood-harvey-lord-ten-signs-album-review/",
+    "source": "louder-than-war",
+    "title": "Dan Haywood & Harvey Lord: Ten Signs – Album Review & Interview",
+    "url": "https://louderthanwar.com/dan-haywood-harvey-lord-ten-signs-album-review/",
+    "publishedAt": "2026-07-15T11:42:13.000Z",
+    "summary": "Dan Haywood & Harvey Lord: Ten Signs (Bandcamp) CD | DL | ST Available now Haywood and Lord join up for a musical journey through the changing landscape of Britain, meditating on change and a vanishing world. Dan Haywood and Harvey Lord both live on the Northwest coast of England with the Lake District, the […] The post Dan Haywood & Harvey Lord: Ten Signs – Album Review & Interview appeared first on Louder Than War.",
+    "image": null
+  },
+  {
+    "id": "louder-than-war-https://louderthanwar.com/rebellion-the-biggest-punk-rock-festival-in-the-uk-festival-preview/",
+    "source": "louder-than-war",
+    "title": "Rebellion: the biggest punk rock festival in the UK – Festival Preview",
+    "url": "https://louderthanwar.com/rebellion-the-biggest-punk-rock-festival-in-the-uk-festival-preview/",
+    "publishedAt": "2026-07-15T11:39:45.000Z",
+    "summary": "Celebrating 30 years of Rebellion – this incredible festival is just around the corner. Starting on Thursday 6th August through until Sunday – plus run-up shows from Monday 3rd August – Neil Crud delves a little into the lineup ahead of his trip to the seaside. August is an important date on the calendars of […] The post Rebellion: the biggest punk rock festival in the UK – Festival Preview appeared first on Louder Than War.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/mikkey-dee-lex-legion-debut-album-interview/",
+    "source": "loudwire",
+    "title": "Mikkey Dee Interview: Lex Legion, Motorhead, Scorpions + More",
+    "url": "https://loudwire.com/mikkey-dee-lex-legion-debut-album-interview/",
+    "publishedAt": "2026-07-15T11:15:04.000Z",
+    "summary": "Drummer Mikkey Dee celebrates his new band Lex Legion, reflects on his career and discusses why he turned down Motorhead at first. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "uncut-https://www.uncut.co.uk/features/introducing-the-new-uncut-jack-white-a-third-man-records-cd-alabama-shakes-the-fall-kevin-ayers-lambchop-and-more-155420/",
+    "source": "uncut",
+    "title": "Introducing the new Uncut: Jack White, a Third Man Records CD, Alabama Shakes, The Fall, Kevin Ayers, Lambchop and more!",
+    "url": "https://www.uncut.co.uk/features/introducing-the-new-uncut-jack-white-a-third-man-records-cd-alabama-shakes-the-fall-kevin-ayers-lambchop-and-more-155420/",
+    "publishedAt": "2026-07-15T11:14:37.000Z",
+    "summary": "Plus Family, Wilco & Billy Bragg, Carly Simon, The Triffids, John Carpenter plus, plus, plus!",
+    "image": null
+  },
+  {
+    "id": "uncut-https://www.uncut.co.uk/publications/uncut-september-2026-155374/",
+    "source": "uncut",
+    "title": "Uncut September 2026",
+    "url": "https://www.uncut.co.uk/publications/uncut-september-2026-155374/",
+    "publishedAt": "2026-07-15T10:51:23.000Z",
+    "summary": "Stars Jack White, Alabama Shakes, The Fall, Lambchop, Kevin Ayers and more!",
     "image": null
   },
   {
@@ -54,33 +261,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/pro/merlin-dan-nevin-vp-industry-relations/",
-    "source": "billboard",
-    "title": "Merlin Appoints Dan Nevin as VP, Industry Relations",
-    "url": "https://www.billboard.com/pro/merlin-dan-nevin-vp-industry-relations/",
-    "publishedAt": "2026-07-15T02:12:07.000Z",
-    "summary": "Nevin will lead Merlin's engagement with independent trade associations and strategic partners worldwide as vice president, industry relations, a new role.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/jay-z-drake-justin-bieber-soundtrack-fanatics-fest-playlist-1236293861/",
-    "source": "billboard",
-    "title": "Jay-Z, Drake, Justin Bieber & Don Toliver Soundtrack Official 2026 Fanatics Fest Playlist",
-    "url": "https://www.billboard.com/music/music-news/jay-z-drake-justin-bieber-soundtrack-fanatics-fest-playlist-1236293861/",
-    "publishedAt": "2026-07-15T00:27:45.000Z",
-    "summary": "It's all going down at Javits Center in NYC from July 16-19.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/media/podcasts/suki-waterhouse-loveland-album-interview-pop-shop-podcast-1236291263/",
-    "source": "billboard",
-    "title": "Suki Waterhouse on Feeling ‘Wiser & Also Sillier Than Ever’ on ‘Loveland’ Album, How Opening for Taylor Swift’s Eras Tour Will Impact Her Next Trek",
-    "url": "https://www.billboard.com/media/podcasts/suki-waterhouse-loveland-album-interview-pop-shop-podcast-1236291263/",
-    "publishedAt": "2026-07-15T00:20:09.000Z",
-    "summary": "\"I've kind of found my new self in this very joyful, delicate, interesting time in my life,\" she tells Billboard Pop Shop Podcast of her new album.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/billy-joel-stopped-songwriting-dilute-legacy-1235593755/",
     "source": "rolling-stone",
     "title": "Billy Joel Stopped Writing Songs Because He Didn’t Want to ‘Dilute’ His Legacy",
@@ -105,42 +285,6 @@
     "url": "https://www.rollingstone.com/music/music-news/lil-durk-racketeering-chicago-killing-separated-la-trial-1235593517/",
     "publishedAt": "2026-07-14T23:17:01.000Z",
     "summary": "\"I’m here to make sure both sides have a fair trial,\" the judge says at a tense hearing",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/travis-scott-lawsuit-drunken-assault-miami-yacht-crew/",
-    "source": "billboard",
-    "title": "Travis Scott Sued for Alleged Drunken Assault on Miami Yacht Crew in 2024",
-    "url": "https://www.billboard.com/pro/travis-scott-lawsuit-drunken-assault-miami-yacht-crew/",
-    "publishedAt": "2026-07-14T22:48:52.000Z",
-    "summary": "The rapper was arrested over the incident but did not face criminal charges.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/w-sound-myke-towers-ovy-on-the-drums-5-estrellas-w-sound-23-1236294219/",
-    "source": "billboard",
-    "title": "W Sound, Myke Towers & Ovy On The Drums Take ‘5 Estrellas (W Sound 23)’ to No. 1: ‘We Are Just Getting Started’",
-    "url": "https://www.billboard.com/music/chart-beat/w-sound-myke-towers-ovy-on-the-drums-5-estrellas-w-sound-23-1236294219/",
-    "publishedAt": "2026-07-14T22:33:36.000Z",
-    "summary": "The tripartite collab leads the Latin Airplay and Latin Rhythm Airplay charts.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/beyonce-morning-dew-rb-hip-hop-chart-1236294140/",
-    "source": "billboard",
-    "title": "Beyoncé’s Surprise ‘Morning Dew’ Drop Brings Her Back to the R&B/Hip-Hop Top 10",
-    "url": "https://www.billboard.com/music/chart-beat/beyonce-morning-dew-rb-hip-hop-chart-1236294140/",
-    "publishedAt": "2026-07-14T22:27:09.000Z",
-    "summary": "The song, which suffered various demo leaks, previews a 20th anniversary edition of B’Day.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/zara-hannah-montana-perfume-smell-price-where-to-buy-online-1236294131/",
-    "source": "billboard",
-    "title": "Zara’s Floral & Fruity Hannah Montana Perfume Grants ‘The Best of Both Worlds’ for Under $25",
-    "url": "https://www.billboard.com/culture/product-recommendations/zara-hannah-montana-perfume-smell-price-where-to-buy-online-1236294131/",
-    "publishedAt": "2026-07-14T22:24:54.000Z",
-    "summary": "In one of Zara's most nostalgic beauty drops yet, the retailer has bottled Hannah Montana's vibrant spirit with notes of red fruits, rose and vanilla.",
     "image": null
   },
   {
@@ -186,33 +330,6 @@
     "url": "https://pitchfork.com/story/friendship-charlotte-cornfield-tour/",
     "publishedAt": "2026-07-14T19:55:22.000Z",
     "summary": "The Philly band and Toronto songwriter’s joint run kicks off in December",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/elena-rose-karol-g-stadium-tour-opener-1235593291/",
-    "source": "rolling-stone",
-    "title": "Karol G Is Bringing Powerhouse Women, Including Elena Rose, on Tour",
-    "url": "https://www.rollingstone.com/music/music-features/elena-rose-karol-g-stadium-tour-opener-1235593291/",
-    "publishedAt": "2026-07-14T19:45:25.000Z",
-    "summary": "The Venezuelan singer will open the Viajando Por El Mundo Tropitour in Las Vegas, Los Angeles, Boston, New York, Atlanta, Miami, Tampa, and Dallas",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/ella-langley-choosin-texas-may-tie-whitney-houston-1235593283/",
-    "source": "rolling-stone",
-    "title": "How Big Is Ella Langley Right Now? She’s About to Tie Whitney and Mariah",
-    "url": "https://www.rollingstone.com/music/music-country/ella-langley-choosin-texas-may-tie-whitney-houston-1235593283/",
-    "publishedAt": "2026-07-14T17:46:03.000Z",
-    "summary": "If “Choosin’ Texas” holds its momentum on the Billboard Hot 100, Langley will join Houston and Carey as the only women to have a song spend 14 weeks on top of the chart",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/electric-forest-festival-fbi-reward-dead-newborn-1235593312/",
-    "source": "rolling-stone",
-    "title": "FBI Offers $15,000 Reward in Case of Deceased Newborn at Electric Forest Festival",
-    "url": "https://www.rollingstone.com/music/music-news/electric-forest-festival-fbi-reward-dead-newborn-1235593312/",
-    "publishedAt": "2026-07-14T17:45:48.000Z",
-    "summary": "Michigan State Police also said that a preliminary autopsy report determined the infant, who was found in a portable toilet, “was viable and was born alive.”",
     "image": null
   },
   {
@@ -335,7 +452,7 @@
   {
     "id": "loudwire-https://loudwire.com/nnickelback-everything-under-the-sun-album-rattle-the-cage-song/",
     "source": "loudwire",
-    "title": "Nickelback Return With Eleventh Studio Album, Debut New Song",
+    "title": "Nickelback Return With 11th Studio Album, Debut New Song",
     "url": "https://loudwire.com/nnickelback-everything-under-the-sun-album-rattle-the-cage-song/",
     "publishedAt": "2026-07-14T13:14:27.000Z",
     "summary": "Take a listen to Nickelback's 'Rattle the Cage' and get details on the new 'Everything Under the Sun' album. Continue reading…",
@@ -441,12 +558,21 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMipgFBVV95cUxOOHJrQWswU21CSGVJdk9fLVh0SXVxRi1vel9tV3BnZFp3Nk9mWGhHTEJMeUFqcTBzdEtJWi10SDhvMWx6TjFZblBfUTZmblNsYk1pTlozSTQzQ0hnT25NcVVMU2FWcWo0QzZrU1JQU0VQa3IwZkE0NVZYUDVXWnFvdUtfRjllRWlheTRrdWRZamNIQnNWUlNLSVdsN0NYWmRmcVNIOWln?oc=5",
+    "id": "nme-https://news.google.com/rss/articles/CBMi-AFBVV95cUxObDdtRnZ4bFRrNVNwdERJVUxlUkhsZ0ktbmdZT2NpMjkxN0p3MS1ITmlvTm5NYjYwam5iaUxoS1BvOE5tem9QS1U0RlZvdjBrZkxDTjhLODJGV09sOFRXLXV3SkNLbHhiR2ZyR1MwMXNUTXBZZS1sTVUwSzkxVXktbzViSzB0X1JLeGMzcFBUcEw3NVQxSVlERWZnMVhJSmVaenBXdEpEU3NEeDlzUy1hUmlTRFpuZ1p3U00zV3ZOZ19hLWUzZTY1WWNRVVJISkxUY3J4V3FQWlh5cnpiZTh1YkNDMlFQZjFZNVhucVJkdlJXYUNzZS1LOA?oc=5",
     "source": "nme",
-    "title": "L7 bassist Jennifer Finch diagnosed with aggressive brain cancer - NME",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOHJrQWswU21CSGVJdk9fLVh0SXVxRi1vel9tV3BnZFp3Nk9mWGhHTEJMeUFqcTBzdEtJWi10SDhvMWx6TjFZblBfUTZmblNsYk1pTlozSTQzQ0hnT25NcVVMU2FWcWo0QzZrU1JQU0VQa3IwZkE0NVZYUDVXWnFvdUtfRjllRWlheTRrdWRZamNIQnNWUlNLSVdsN0NYWmRmcVNIOWln?oc=5",
-    "publishedAt": "2026-07-14T06:54:11.000Z",
-    "summary": "L7 bassist Jennifer Finch diagnosed with aggressive brain cancer NME",
+    "title": "All Heritage Live festivals – with shows from Eric Clapton, Richard Ashcroft, Christina Aguilera – cancelled due to low ticket sales - NME",
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxObDdtRnZ4bFRrNVNwdERJVUxlUkhsZ0ktbmdZT2NpMjkxN0p3MS1ITmlvTm5NYjYwam5iaUxoS1BvOE5tem9QS1U0RlZvdjBrZkxDTjhLODJGV09sOFRXLXV3SkNLbHhiR2ZyR1MwMXNUTXBZZS1sTVUwSzkxVXktbzViSzB0X1JLeGMzcFBUcEw3NVQxSVlERWZnMVhJSmVaenBXdEpEU3NEeDlzUy1hUmlTRFpuZ1p3U00zV3ZOZ19hLWUzZTY1WWNRVVJISkxUY3J4V3FQWlh5cnpiZTh1YkNDMlFQZjFZNVhucVJkdlJXYUNzZS1LOA?oc=5",
+    "publishedAt": "2026-07-14T08:48:02.000Z",
+    "summary": "All Heritage Live festivals – with shows from Eric Clapton, Richard Ashcroft, Christina Aguilera – cancelled due to low ticket sales NME",
+    "image": null
+  },
+  {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMifkFVX3lxTE40RHdRS0lPTUM0M0llUVpEc01EdkxfdWF4bTJPMmJGUEdaUEdYc0pOeUFBei1fdzBYRTBYdjgxc2dOZ2kzOHNoVy1LaWFoSnh5YmxDeFJqX2tMa2xXa2UxaWdfS19Hb1JOVlVURmRaclZtSzB1QlNFOWhKU0FqZw?oc=5",
+    "source": "kerrang",
+    "title": "Album review: The Menzingers – Everything I Ever Saw - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40RHdRS0lPTUM0M0llUVpEc01EdkxfdWF4bTJPMmJGUEdaUEdYc0pOeUFBei1fdzBYRTBYdjgxc2dOZ2kzOHNoVy1LaWFoSnh5YmxDeFJqX2tMa2xXa2UxaWdfS19Hb1JOVlVURmRaclZtSzB1QlNFOWhKU0FqZw?oc=5",
+    "publishedAt": "2026-07-14T07:00:00.000Z",
+    "summary": "Album review: The Menzingers – Everything I Ever Saw Kerrang!",
     "image": null
   },
   {
@@ -468,15 +594,6 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/story/zayallcaps-announces-new-album-my-uncle-told-me-some-real-ass-shit-on-the-phone-yesterday/",
-    "source": "pitchfork",
-    "title": "zayALLCAPS Announces New Album My Uncle Told Me Some Real Ass Shit on the Phone Yesterday",
-    "url": "https://pitchfork.com/story/zayallcaps-announces-new-album-my-uncle-told-me-some-real-ass-shit-on-the-phone-yesterday/",
-    "publishedAt": "2026-07-13T20:59:38.000Z",
-    "summary": "The follow-up to 2025’s Art Pop * Pop Art is out this month",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/better-rocklahoma-headliner-papa-roach-vs-godsmack/",
     "source": "loudwire",
     "title": "Better Rocklahoma Headliner - Papa Roach vs. Godsmack",
@@ -495,48 +612,12 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/story/young-thug-announces-ysl-tour/",
-    "source": "pitchfork",
-    "title": "Young Thug Announces YSL Tour",
-    "url": "https://pitchfork.com/story/young-thug-announces-ysl-tour/",
-    "publishedAt": "2026-07-13T16:52:16.000Z",
-    "summary": "The New Generation trek features Thugger alongside Tezzus, Diamond*, 1300saint, and more",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/bill-ward-reflects-ozzy-osbournes-death-one-year-later/",
     "source": "loudwire",
     "title": "Bill Ward Reflects on Ozzy Osbourne's Death Nearly One Year Later",
     "url": "https://loudwire.com/bill-ward-reflects-ozzy-osbournes-death-one-year-later/",
     "publishedAt": "2026-07-13T16:23:28.000Z",
     "summary": "Drummer Bill Ward opens up about the death of Ozzy Osbourne as we near the one-year anniversary of Ozzy's death. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/l7s-jennifer-finch-diagnosed-with-brain-cancer/",
-    "source": "pitchfork",
-    "title": "L7’s Jennifer Finch Diagnosed With Brain Cancer",
-    "url": "https://pitchfork.com/story/l7s-jennifer-finch-diagnosed-with-brain-cancer/",
-    "publishedAt": "2026-07-13T16:08:59.000Z",
-    "summary": "The ’90s grunge outfit’s longtime bassist is raising funds to cover medical expenses and additional at-home care",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/alice-cooper-fall-2026-dates/",
-    "source": "loudwire",
-    "title": "Alice Cooper Announces Fall 2026 North American Tour Dates",
-    "url": "https://loudwire.com/alice-cooper-fall-2026-dates/",
-    "publishedAt": "2026-07-13T14:40:31.000Z",
-    "summary": "Solo shows will mingle with Hollywood Vampires dates and a book tour. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/prog-rock-covers-non-prog-rock-songs/",
-    "source": "loudwire",
-    "title": "11 Best Prog Rock Covers of Non-Prog Rock Songs",
-    "url": "https://loudwire.com/prog-rock-covers-non-prog-rock-songs/",
-    "publishedAt": "2026-07-13T14:36:50.000Z",
-    "summary": "How many Yes covers made the list? Click and find out! Continue reading…",
     "image": null
   },
   {
@@ -558,30 +639,12 @@
     "image": null
   },
   {
-    "id": "louder-than-war-https://louderthanwar.com/koyo-bloom-distance-album-review/",
-    "source": "louder-than-war",
-    "title": "Koyo Bloom: Distance – Album Review",
-    "url": "https://louderthanwar.com/koyo-bloom-distance-album-review/",
-    "publishedAt": "2026-07-13T11:47:45.000Z",
-    "summary": "Koyo Bloom: Distance Self-released Stream | CD Out 10 July With Distance, Koyo Bloom have produced an album which is unusually beautiful as it is beautifully unusual. If this is to be their swansong, it will stand as a fitting tribute. Koyo Bloom (previously KOYO) recently announced an indefinite hiatus, which may spell the end […] The post Koyo Bloom: Distance – Album Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMilwFBVV95cUxNRGpDRDRveVA1eTY2TC1STWxVM0FiSl9KeU01Z05BVnVWaWxiU3NQbFBOOWtnZGhDSU9JbVh0X1Nvd09tZFpVZnFKUDFnWng1MGhHLVIxcDc4Nzk4SU44N0JtcURpMUQ4ZnU1TU1wR0VvMEdjYUMyRTg4cXQxUjVqRlJGcENsYVpsa3BjNlZpX0YzN3BJVXJJ?oc=5",
     "source": "kerrang",
     "title": "unpeople announce biggest UK and Ireland headline dates yet for 2027 - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRGpDRDRveVA1eTY2TC1STWxVM0FiSl9KeU01Z05BVnVWaWxiU3NQbFBOOWtnZGhDSU9JbVh0X1Nvd09tZFpVZnFKUDFnWng1MGhHLVIxcDc4Nzk4SU44N0JtcURpMUQ4ZnU1TU1wR0VvMEdjYUMyRTg4cXQxUjVqRlJGcENsYVpsa3BjNlZpX0YzN3BJVXJJ?oc=5",
     "publishedAt": "2026-07-13T11:37:00.000Z",
     "summary": "unpeople announce biggest UK and Ireland headline dates yet for 2027 Kerrang!",
-    "image": null
-  },
-  {
-    "id": "louder-than-war-https://louderthanwar.com/lauren-moon-running-low-single-review/",
-    "source": "louder-than-war",
-    "title": "Lauren Moon: Running Low – Single Review",
-    "url": "https://louderthanwar.com/lauren-moon-running-low-single-review/",
-    "publishedAt": "2026-07-13T11:16:49.000Z",
-    "summary": "Lauren Moon: Running Low (Self-released) Streaming OUT NOW London based multi-instrumentalist Lauren Moon has once again stepped forward from behind the shadows of her keyboard to release a new single, Running Low. It’s a song which runs the full gamut of emotions from defiance through to hope and ultimately a plea for freedom in the […] The post Lauren Moon: Running Low – Single Review appeared first on Louder Than War.",
     "image": null
   },
   {
@@ -594,30 +657,12 @@
     "image": null
   },
   {
-    "id": "louder-than-war-https://louderthanwar.com/albums-of-the-year-so-far-2/",
-    "source": "louder-than-war",
-    "title": "ALBUMS OF THE YEAR SO FAR…",
-    "url": "https://louderthanwar.com/albums-of-the-year-so-far-2/",
-    "publishedAt": "2026-07-13T10:23:34.000Z",
-    "summary": "As we pass that halfway mark, the summer sun scorching and the smell of weekend barbecues still in the air, we run down, in no discernible order, some of our favourite albums of the year so far… Dan O’Farrell & The Difference Engine: The Fish That Learned To Drown (Gare Du Nord Records) Dan O’Farrell […] The post ALBUMS OF THE YEAR SO FAR… appeared first on Louder Than War.",
-    "image": null
-  },
-  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQ1VUWXhtT1J2cUd6RmRxR0ZjdXNKVWFMdW1TaU5fRlE1bmROMEhPOFlicU9qNWxBb1FDbnVScTBZUFZHVjNwZjlDTjVVTDhUaEZUeEdEVXZQRExnRURNMDRXMThvcm5sXy0xcFNNZlJHMWtYWC1iajB1RUxmRFpsQXJjdUNLMDk4bENXQk00LWFIWGFZU09zQkRTbG9KWmhRUUFGci03b09nZ2NzdEtEanBoQlBZRF9rWlFtZXpEZzd0RFE?oc=5",
     "source": "kerrang",
     "title": "Mastodon announce new album Marrow Deep, share explosive Josh Homme collaboration Snakes For Dinner - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQ1VUWXhtT1J2cUd6RmRxR0ZjdXNKVWFMdW1TaU5fRlE1bmROMEhPOFlicU9qNWxBb1FDbnVScTBZUFZHVjNwZjlDTjVVTDhUaEZUeEdEVXZQRExnRURNMDRXMThvcm5sXy0xcFNNZlJHMWtYWC1iajB1RUxmRFpsQXJjdUNLMDk4bENXQk00LWFIWGFZU09zQkRTbG9KWmhRUUFGci03b09nZ2NzdEtEanBoQlBZRF9rWlFtZXpEZzd0RFE?oc=5",
     "publishedAt": "2026-07-13T08:25:00.000Z",
     "summary": "Mastodon announce new album Marrow Deep, share explosive Josh Homme collaboration Snakes For Dinner Kerrang!",
-    "image": null
-  },
-  {
-    "id": "louder-than-war-https://louderthanwar.com/live-inside-a-dream-02-hyde-park-book-club-festival-review/",
-    "source": "louder-than-war",
-    "title": "Live Inside A Dream 02: Hyde Park Book Club – Festival Review",
-    "url": "https://louderthanwar.com/live-inside-a-dream-02-hyde-park-book-club-festival-review/",
-    "publishedAt": "2026-07-12T20:23:21.000Z",
-    "summary": "Live Inside a Dream Festival 02 Hyde Park Book Club, Leeds 4th July 2026 Live Inside A Dream festival returns to Hyde Park Book Club in Leeds to pay tribute to David Lynch. Expect dream pop and cherry pie. A full year after the very first Live Inside A Dream, it seems that festival you […] The post Live Inside A Dream 02: Hyde Park Book Club – Festival Review appeared first on Louder Than War.",
     "image": null
   },
   {
@@ -666,57 +711,12 @@
     "image": null
   },
   {
-    "id": "uncut-https://www.uncut.co.uk/features/interviews/keith-richards-on-the-rolling-stones-top-10-songs-152559/",
-    "source": "uncut",
-    "title": "Keith Richards on The Rolling Stones’ Top 10 songs: “We certainly rocked it”",
-    "url": "https://www.uncut.co.uk/features/interviews/keith-richards-on-the-rolling-stones-top-10-songs-152559/",
-    "publishedAt": "2026-07-10T09:05:17.000Z",
-    "summary": "Storms, sitars and a \"snarling bag of tigers\" – the Stones' songwriting secrets revealed!",
-    "image": null
-  },
-  {
-    "id": "uncut-https://www.uncut.co.uk/features/hes-a-living-miracle-mick-jagger-tom-waits-jimmy-page-johnny-marr-and-more-share-their-favourite-keith-richards-stories-155394/",
-    "source": "uncut",
-    "title": "“He’s a living miracle!” – Mick Jagger, Tom Waits, Jimmy Page, Johnny Marr and more share their favourite Keith Richards stories",
-    "url": "https://www.uncut.co.uk/features/hes-a-living-miracle-mick-jagger-tom-waits-jimmy-page-johnny-marr-and-more-share-their-favourite-keith-richards-stories-155394/",
-    "publishedAt": "2026-07-10T09:04:35.000Z",
-    "summary": "A complex, complicated - and frequently surprising - portrait of rock's most miraculous survivor",
-    "image": null
-  },
-  {
-    "id": "uncut-https://www.uncut.co.uk/features/how-the-past-informed-the-future-for-the-rolling-stones-155359/",
-    "source": "uncut",
-    "title": "“Blues purists? I’ve always had a problem with those cats…” – How the past informed the future for The Rolling Stones",
-    "url": "https://www.uncut.co.uk/features/how-the-past-informed-the-future-for-the-rolling-stones-155359/",
-    "publishedAt": "2026-07-10T09:03:59.000Z",
-    "summary": "Keith, Mick, Charlie and Ron on growing up with the blues – and how it keeps them youthful",
-    "image": null
-  },
-  {
-    "id": "uncut-https://www.uncut.co.uk/features/the-rolling-stones-we-ain-t-acting-29346/",
-    "source": "uncut",
-    "title": "“Who Hasn’t Had Fights?”: Mick Jagger and Keith Richards on friendship, rivalry and The Rolling Stones",
-    "url": "https://www.uncut.co.uk/features/the-rolling-stones-we-ain-t-acting-29346/",
-    "publishedAt": "2026-07-10T09:03:30.000Z",
-    "summary": "Rivalry, brotherhood, ageing in rock'n'roll... and why the Stones are still standing",
-    "image": null
-  },
-  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMid0FVX3lxTE5ROEhVbjJIckRESUhVNm5kMnFOQ1RJMFRtR1BaMk1JX19jREtZQVRVWGF1QjM5NmZUblF5R2dKa3dxblZVdmdoZ1p3NjR3eDUybUl4RGF6b09XSy1pckRYQUl6dnhfdlJEZWJBeDdYcVpMcEhfZ0RF?oc=5",
     "source": "kerrang",
     "title": "Album Review: No Cure – It Is Going To Get Dark - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ROEhVbjJIckRESUhVNm5kMnFOQ1RJMFRtR1BaMk1JX19jREtZQVRVWGF1QjM5NmZUblF5R2dKa3dxblZVdmdoZ1p3NjR3eDUybUl4RGF6b09XSy1pckRYQUl6dnhfdlJEZWJBeDdYcVpMcEhfZ0RF?oc=5",
     "publishedAt": "2026-07-10T07:00:00.000Z",
     "summary": "Album Review: No Cure – It Is Going To Get Dark Kerrang!",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMiekFVX3lxTE5Mc3BEMTNlbkNsRVE0ek1HV1BWSUdYRFVXXzFyU2RIdmM1dS1SQ21ISW1janFfTVlSZGRPYkMzLW9FWC1Zbl9VcjJ2NV9CNXkwSjVvYndKeXp6b1U0SUcwRGxkZmNXS2lJOHF1VHJaUEU4YzA5cjBVQWpB0gF_QVVfeXFMTWdFbF8xQlpGOXpGakRseUdTb1JuVVFobUoxVmdoemJrU3JTV2o3bHYyZlpfN0ZKRkRkUHltOXp2b1NCdHUwRFd4Q201UTI2by14aFFFOGM2SkVjWlNaTkVfQkh5S0FneFpNdWpGcEI1aWZScm1GQWFoUzJ3eE5fVQ?oc=5",
-    "source": "kerrang",
-    "title": "The Kerrang! Chart: The best new music this week - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Mc3BEMTNlbkNsRVE0ek1HV1BWSUdYRFVXXzFyU2RIdmM1dS1SQ21ISW1janFfTVlSZGRPYkMzLW9FWC1Zbl9VcjJ2NV9CNXkwSjVvYndKeXp6b1U0SUcwRGxkZmNXS2lJOHF1VHJaUEU4YzA5cjBVQWpB0gF_QVVfeXFMTWdFbF8xQlpGOXpGakRseUdTb1JuVVFobUoxVmdoemJrU3JTV2o3bHYyZlpfN0ZKRkRkUHltOXp2b1NCdHUwRFd4Q201UTI2by14aFFFOGM2SkVjWlNaTkVfQkh5S0FneFpNdWpGcEI1aWZScm1GQWFoUzJ3eE5fVQ?oc=5",
-    "publishedAt": "2026-07-10T07:00:00.000Z",
-    "summary": "The Kerrang! Chart: The best new music this week Kerrang!",
     "image": null
   }
 ]
