@@ -1,5 +1,50 @@
 [
   {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/lana-del-rey-companion-album-stove-1235594388/",
+    "source": "rolling-stone",
+    "title": "Lana Del Rey Announces a ‘Beautiful’ Companion Album to Long-Awaited ‘Stove’",
+    "url": "https://www.rollingstone.com/music/music-news/lana-del-rey-companion-album-stove-1235594388/",
+    "publishedAt": "2026-07-16T02:30:47.000Z",
+    "summary": "The singer said the secondary LP was \"compiled by as many people as I could find to help me gather my thoughts about how much was changing\"",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/lana-del-rey-new-album/",
+    "source": "pitchfork",
+    "title": "Lana Del Rey Claims Stove Has a “Companion Album”",
+    "url": "https://pitchfork.com/story/lana-del-rey-new-album/",
+    "publishedAt": "2026-07-16T01:48:13.000Z",
+    "summary": "“I need a month to finish putting it together. Thank you for waiting.”",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/latin/karol-g-pranks-best-friend-joining-love-island-cast-1236295541/",
+    "source": "billboard",
+    "title": "Karol G Hilariously Pranks Best Friend by Claiming She Joined ‘Love Island’ Cast",
+    "url": "https://www.billboard.com/music/latin/karol-g-pranks-best-friend-joining-love-island-cast-1236295541/",
+    "publishedAt": "2026-07-16T00:44:55.000Z",
+    "summary": "The star told Daiky Gamboa she was “moving” her tour to join the hit dating show: “It would take my career to the next level.”",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/r-kelly-trump-commute-prison-sentence-sex-abuse-1235594301/",
+    "source": "rolling-stone",
+    "title": "R. Kelly Asks Trump to Commute 30-Year Prison Sentence",
+    "url": "https://www.rollingstone.com/music/music-news/r-kelly-trump-commute-prison-sentence-sex-abuse-1235594301/",
+    "publishedAt": "2026-07-16T00:27:06.000Z",
+    "summary": "The disgraced R&B singer was convicted of racketeering and sex trafficking",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/watch-robyn-cover-erasures-always/",
+    "source": "pitchfork",
+    "title": "Watch Robyn Cover Erasure’s “Always”",
+    "url": "https://pitchfork.com/story/watch-robyn-cover-erasures-always/",
+    "publishedAt": "2026-07-15T23:25:39.000Z",
+    "summary": "The Swedish star dropped by BBC Radio 2 today to perform the 1994 synth-pop classic alongside three of her own songs",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/music-news/dave-kendall-death-mtv-120-minutes-host-dead-68-1236294513/",
     "source": "billboard",
     "title": "Dave Kendall, Former Creator/Host of MTV’s Alternative Music Show ‘120 Minutes,’ Has Died",
@@ -126,15 +171,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/awards/chris-stapleton-ashley-mcbryde-nashville-songwriter-awards-1236294978/",
-    "source": "billboard",
-    "title": "Chris Stapleton, Ashley McBryde, Steve Earle to Perform at NSAI’s Nashville Songwriter Awards",
-    "url": "https://www.billboard.com/music/awards/chris-stapleton-ashley-mcbryde-nashville-songwriter-awards-1236294978/",
-    "publishedAt": "2026-07-15T20:57:58.000Z",
-    "summary": "The awards are set for Sept. 22 at the Ryman Auditorium.",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/metallica-darts-onstage-jason-newsted/",
     "source": "loudwire",
     "title": "Jason Newsted Recalls When Darts Were Thrown at Metallica Onstage",
@@ -222,24 +258,6 @@
     "url": "https://pitchfork.com/story/sunn-o-lines-up-north-american-tour/",
     "publishedAt": "2026-07-15T18:06:22.000Z",
     "summary": "The drone-metal band is bringing their wall of sound across the States this fall",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/boosie-paid-for-trump-pardon-money-back-1235594024/",
-    "source": "rolling-stone",
-    "title": "Boosie Tried to Pay $600,000 for a Trump Pardon. It Was Never Going to Work",
-    "url": "https://www.rollingstone.com/music/music-news/boosie-paid-for-trump-pardon-money-back-1235594024/",
-    "publishedAt": "2026-07-15T17:57:03.000Z",
-    "summary": "The rapper reportedly paid a team of lobbyists to secure a presidential pardon over a handgun charge. He’s now asking for a refund",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/matty-healy-performs-the-1975-tribute-band-bachelor-party-1235594019/",
-    "source": "rolling-stone",
-    "title": "Watch Matty Healy Perform With the 1975 Tribute Band at His Own Bachelor Party",
-    "url": "https://www.rollingstone.com/music/music-news/matty-healy-performs-the-1975-tribute-band-bachelor-party-1235594019/",
-    "publishedAt": "2026-07-15T17:46:51.000Z",
-    "summary": "Meta Healy, more like ...",
     "image": null
   },
   {
@@ -342,15 +360,6 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/story/beck-announces-first-album-in-7-years/",
-    "source": "pitchfork",
-    "title": "Beck Announces First Album in Seven Years",
-    "url": "https://pitchfork.com/story/beck-announces-first-album-in-7-years/",
-    "publishedAt": "2026-07-15T13:35:49.000Z",
-    "summary": "Listen to “In the Night” from Ride Lonesome, which reunites Beck with Joey Waronker, Justin Meldal-Johnsen, and Nigel Godrich",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/news/hear-the-previously-unreleased-1965-david-bowie-song-i-want-your-love-155485/",
     "source": "uncut",
     "title": "Hear the previously unreleased 1965 David Bowie song, “I Want Your Love”",
@@ -384,15 +393,6 @@
     "url": "https://louderthanwar.com/icons-of-filth-time-of-the-signs-album-review/",
     "publishedAt": "2026-07-15T12:47:56.000Z",
     "summary": "Icons Of Filth: Time Of The Signs (Grow Your Own) LP | CD | DL Out Now A searing razor sharp guitar and serrated, throaty vocals front the latest album from Cardiff’s Icons Of Filth. It clearly holds some of the DNA of the band’s seminal 1980s output but is still fresh says Nathan Brown. […] The post Icons Of Filth: Time Of The Signs – Album Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/watch-phoebe-bridgers-perform-lost-boys-with-a-band-of-children-on-fallon/",
-    "source": "pitchfork",
-    "title": "Watch Phoebe Bridgers Perform “Lost Boys” With a Band of Children on Fallon",
-    "url": "https://pitchfork.com/story/watch-phoebe-bridgers-perform-lost-boys-with-a-band-of-children-on-fallon/",
-    "publishedAt": "2026-07-15T12:38:33.000Z",
-    "summary": "She made a surprise appearance to give the Lost Weekend track its TV debut",
     "image": null
   },
   {
@@ -495,6 +495,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMikAFBVV95cUxOQzdJYVozb2RNU3dXTTRSV1UyVFFaVEpnVTNMOFBjem9jc0NrTnlfOVJPcVUzX1owNXdxcGl5MzNyZUtlTjJZOHRnQnRJdlJsSkJYRFd2OGpoOVlqN2kwRDlXNlk4MHo2ZDlwX3E5YjJXczI2QmQ3a3dnLXc3YTdNTjJUbzVUNElBUWxIakNJN0g?oc=5",
+    "source": "nme",
+    "title": "James Franco claims he has real footage of aliens - NME",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQzdJYVozb2RNU3dXTTRSV1UyVFFaVEpnVTNMOFBjem9jc0NrTnlfOVJPcVUzX1owNXdxcGl5MzNyZUtlTjJZOHRnQnRJdlJsSkJYRFd2OGpoOVlqN2kwRDlXNlk4MHo2ZDlwX3E5YjJXczI2QmQ3a3dnLXc3YTdNTjJUbzVUNElBUWxIakNJN0g?oc=5",
+    "publishedAt": "2026-07-15T09:12:32.000Z",
+    "summary": "James Franco claims he has real footage of aliens NME",
+    "image": null
+  },
+  {
     "id": "nme-https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSDdtM010ZTJ2YkluakVncGRpQVFuMUs5ampJdVAtc1NQNWUtVUFpX01BN0ZMbHFaZ2lmUUg4THY0aEpzbEZoaVpZWVBWU3VwNnNFNFpPaW1pUTZ3Q0UxT2FHazNXNEdRbm8yMGh4VC1udGdsMElrc0kzRFc2NTVqTUhOaFlNQl9wcDRiX3JETkVJSE92V2UxRklOaVBFam9TMXNULWVCMXFfaEFiX0hXSFVCQVhSNWhUeDF4WEIwSFBZMklYOUJoNkZ4N0ZuU0NaYW5lYmZ4Q21FM0thSXRZbHhuVDhlYTgzdzJkR2kwWQ?oc=5",
     "source": "nme",
     "title": "Phil Collins on meeting Oasis at upcoming Rock Hall induction after Noel Gallagher called him \"the Antichrist\" - NME",
@@ -564,15 +573,6 @@
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY2t2VUpKMnpPQmtleUdKT05WWkpKRWIyRWhRSU5raFI0LWV0M2RLOE5fUnB3QmF5c2F0TWQxMFNkT25LaGNzd21GMDF3aERkMGdQajQ4R0h0cmFFVzN6Z2s4S0l5RGhnMC1VSngyTFVUeGhLMzdtRjEyeXJmN3lzM2tOZWh0bTRvTE5EbUozcFNwWG8?oc=5",
     "publishedAt": "2026-07-14T13:49:48.000Z",
     "summary": "Roger Taylor on the chances of Queen touring again NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMihwJBVV95cUxOTWFQZG5HVm01LXViZjRGaUd1bUNuWXR0c3Q5XzFTa094ODFOd2JXOEJGekdkNV85bGMxNmpnVmhueVN3ZVlhTm1DMnZyMGVhcHBaUGpTeFkwVlJlQTI2ZzhqbEdhRXF6XzdYZjB0ekVOVndtODUzSEpOQmYzR0pnSHJzYVNseGEzQjU3WGZrRG40amRNdklrbTdsQXVGWTA0R1RGcVpUazBUek90UWRqd1hFTjB6enhZMjlTdVJWaGc3Z2dCcTVwYk9FZU9YcE1BQTJHLUVscDhYWm5nUm5nclFJOFhyTV9jRWRxV0FPVXQ1bDVVVHBCSGFqY0VMOWx1Rk94SFRRYw?oc=5",
-    "source": "nme",
-    "title": "Reading & Leeds boss talks biggest-ever arena overhaul and “strength of UK and Irish music” on line-up: “We’re buzzing with ideas for the future” - NME",
-    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOTWFQZG5HVm01LXViZjRGaUd1bUNuWXR0c3Q5XzFTa094ODFOd2JXOEJGekdkNV85bGMxNmpnVmhueVN3ZVlhTm1DMnZyMGVhcHBaUGpTeFkwVlJlQTI2ZzhqbEdhRXF6XzdYZjB0ekVOVndtODUzSEpOQmYzR0pnSHJzYVNseGEzQjU3WGZrRG40amRNdklrbTdsQXVGWTA0R1RGcVpUazBUek90UWRqd1hFTjB6enhZMjlTdVJWaGc3Z2dCcTVwYk9FZU9YcE1BQTJHLUVscDhYWm5nUm5nclFJOFhyTV9jRWRxV0FPVXQ1bDVVVHBCSGFqY0VMOWx1Rk94SFRRYw?oc=5",
-    "publishedAt": "2026-07-14T13:45:45.000Z",
-    "summary": "Reading & Leeds boss talks biggest-ever arena overhaul and “strength of UK and Irish music” on line-up: “We’re buzzing with ideas for the future” NME",
     "image": null
   },
   {
