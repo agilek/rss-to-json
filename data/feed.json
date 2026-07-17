@@ -1,5 +1,68 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/build-your-own-bluetooth-speaker-diy-stem-kit-buy-online-1236296537/",
+    "source": "billboard",
+    "title": "This $35 DIY Kit Lets You Build Your Own Bluetooth Speaker",
+    "url": "https://www.billboard.com/culture/product-recommendations/build-your-own-bluetooth-speaker-diy-stem-kit-buy-online-1236296537/",
+    "publishedAt": "2026-07-17T02:44:38.000Z",
+    "summary": "This set combines STEM learning, sound engineering and hands-on assembly to let you build a working portable speaker",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/annie-leibovitz-sues-observer-justin-bieber-hailey-photo-1235594944/",
+    "source": "rolling-stone",
+    "title": "Annie Leibovitz Sues Observer Over Justin and Hailey Bieber Photo: ‘Exploitation’",
+    "url": "https://www.rollingstone.com/music/music-news/annie-leibovitz-sues-observer-justin-bieber-hailey-photo-1235594944/",
+    "publishedAt": "2026-07-17T01:17:59.000Z",
+    "summary": "The famed photographer is suing the media outlet for up to $150,000 per \"unauthorized\" use",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/wildfire-concerts-postponed-black-keys-john-mellencamp-1235594945/",
+    "source": "rolling-stone",
+    "title": "Wildfire Smoke Forces the Black Keys, Creed, and More to Postpone Concerts",
+    "url": "https://www.rollingstone.com/music/music-news/wildfire-concerts-postponed-black-keys-john-mellencamp-1235594945/",
+    "publishedAt": "2026-07-17T00:56:14.000Z",
+    "summary": "War and Treaty, John Mellencamp, and Mavis Staples were also among the growing list of artists either cancelling or postponing shows as the air quality hits dangerous levels",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/noah-kahan-massachusetts-ticketing-bill-cap-resale-prices/",
+    "source": "billboard",
+    "title": "Noah Kahan Endorses Mass. Bill to Cap Ticket Resale Prices: ‘I Love My Fans and Want to Protect Them’",
+    "url": "https://www.billboard.com/pro/noah-kahan-massachusetts-ticketing-bill-cap-resale-prices/",
+    "publishedAt": "2026-07-17T00:08:08.000Z",
+    "summary": "The Great Divide Act would also put a limit on fees charged by secondary platforms.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/drake-streamer-university-kai-cenat-1236296432/",
+    "source": "billboard",
+    "title": "Drake Surprises Streamer University Attendees With Video Message & Gifts: ‘Congratulations to Everybody That Got Accepted’",
+    "url": "https://www.billboard.com/music/rb-hip-hop/drake-streamer-university-kai-cenat-1236296432/",
+    "publishedAt": "2026-07-16T23:39:08.000Z",
+    "summary": "Invitees of the award-winning event could hardly contain themselves as the Toronto rapper delivered his words of encouragement.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/lorde-on-spotifys-ai-song-descriptions/",
+    "source": "pitchfork",
+    "title": "Lorde on Spotify’s AI Song Descriptions: “We Don’t Want This”",
+    "url": "https://pitchfork.com/story/lorde-on-spotifys-ai-song-descriptions/",
+    "publishedAt": "2026-07-16T23:34:07.000Z",
+    "summary": "On Instagram, the singer wrote that an ”inaccurate” AI-generated summary of “Current Affairs“ “limits free interpretation\"",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/lorde-slams-spotify-ai-generated-song-descriptions-1235594882/",
+    "source": "rolling-stone",
+    "title": "Lorde Slams Spotify Over Sloppy AI-Generated Song Descriptions",
+    "url": "https://www.rollingstone.com/music/music-news/lorde-slams-spotify-ai-generated-song-descriptions-1235594882/",
+    "publishedAt": "2026-07-16T23:02:30.000Z",
+    "summary": "The Grammy-winning artist slammed the streaming behemoth over its \"About the Song\" feature and accused it of sharing inaccurate information",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-album-reviews/steve-lacy-oh-yeah-album-review-1235594783/",
     "source": "rolling-stone",
     "title": "Steve Lacy Proves He’s One of His Era’s Defining Pop Auteurs With ‘Oh Yeah?’",
@@ -81,21 +144,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/latin/intocable-hollywood-walk-of-fame-star-ceremony-1236296274/",
-    "source": "billboard",
-    "title": "Intocable Receive Star on the Hollywood Walk of Fame: ‘Thank You for Putting Us Here’",
-    "url": "https://www.billboard.com/music/latin/intocable-hollywood-walk-of-fame-star-ceremony-1236296274/",
-    "publishedAt": "2026-07-16T20:45:51.000Z",
-    "summary": "Latin hitmaker Edgar Barrera and Nir Seroussi, president of Interscope Capitol Miami, attended the ceremony.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/hailey-bieber-gap-collection-shop-now-online-1236296053/",
-    "source": "billboard",
-    "title": "Hailey Bieber’s New Gap Collaboration Brings Back the ’90s Denim Looks Dominating Pop Culture",
-    "url": "https://www.billboard.com/culture/product-recommendations/hailey-bieber-gap-collection-shop-now-online-1236296053/",
-    "publishedAt": "2026-07-16T20:25:21.000Z",
-    "summary": "The 'Hailey Jean' capsule serves as the headline act of the Gap collaboration, featuring two denim silhouettes created with Bieber herself.",
+    "id": "nme-https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRG1vbjhqWnRlazFaNldjU0VmcndWc0I3aHdjUVRkeF95SkVQRm1pREloTEdRUUg2dDdiRW1nUUhvMWtDNktlRmZoaXQ4dERDOFZORDBabWl4anBDZ1E3S2VDMTRxYlJhTExzS1pMN09xd1dncm5XSHNtZXRoUVVWS19pV0J0MmZOcDE5LXgtMVVRdkF1Yk8xV0J4elBxRWJVamk5MXNtaF9VQy0wTXlyXzJRdjI2c1kyaTcwNjY3U2dRM2c?oc=5",
+    "source": "nme",
+    "title": "The Cure’s Robert Smith is not looking forward to Chris Martin’s World Cup halftime show - NME",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRG1vbjhqWnRlazFaNldjU0VmcndWc0I3aHdjUVRkeF95SkVQRm1pREloTEdRUUg2dDdiRW1nUUhvMWtDNktlRmZoaXQ4dERDOFZORDBabWl4anBDZ1E3S2VDMTRxYlJhTExzS1pMN09xd1dncm5XSHNtZXRoUVVWS19pV0J0MmZOcDE5LXgtMVVRdkF1Yk8xV0J4elBxRWJVamk5MXNtaF9VQy0wTXlyXzJRdjI2c1kyaTcwNjY3U2dRM2c?oc=5",
+    "publishedAt": "2026-07-16T20:40:34.000Z",
+    "summary": "The Cure’s Robert Smith is not looking forward to Chris Martin’s World Cup halftime show NME",
     "image": null
   },
   {
@@ -114,15 +168,6 @@
     "url": "https://www.rollingstone.com/music/music-features/americans-english-music-bad-bunny-luminate-report-1235594219/",
     "publishedAt": "2026-07-16T20:09:00.000Z",
     "summary": "One in 10 U.S. streams come from Spanish-language music — and other fascinating takeaways from Luminate’s midyear report",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/yellowstone-avengers-composer-sells-music-rights-deals/",
-    "source": "billboard",
-    "title": "The Deals: ‘Yellowstone’ & ‘Avengers’ Composer Brian Tyler Sells Music Rights to CEG",
-    "url": "https://www.billboard.com/lists/yellowstone-avengers-composer-sells-music-rights-deals/",
-    "publishedAt": "2026-07-16T20:08:21.000Z",
-    "summary": "Also this week: Too Lost acquires Australia's GYRO.Group, Artist Legacy Group signs on to represent the estate of The Mavericks frontman Raul Malo and more.",
     "image": null
   },
   {
@@ -171,15 +216,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/eric-church-debut-album-sinners-like-me-influence-1235594459/",
-    "source": "rolling-stone",
-    "title": "Eric Church’s Debut Album ‘Sinners Like Me’ Is Still Shaping Country Music",
-    "url": "https://www.rollingstone.com/music/music-features/eric-church-debut-album-sinners-like-me-influence-1235594459/",
-    "publishedAt": "2026-07-16T18:16:50.000Z",
-    "summary": "Twenty years since its release, the LP continues to show how country can mirror real-life, with songs about teen pregnancy, the death penalty, and bad decisions",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/carly-rae-jepsen-after-all-video/",
     "source": "pitchfork",
     "title": "Carly Rae Jepsen Surveys the Wreckage of a Dinner Party in “After All” Video",
@@ -195,24 +231,6 @@
     "url": "https://loudwire.com/charley-crockett-deactivates-social-media-twin-temple/",
     "publishedAt": "2026-07-16T18:09:33.000Z",
     "summary": "Charley Crockett went quiet on social media right around the same time things got loud over who he chose to cut from his tour. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/the-killers-olivia-dean-ocean-way-festival-2026-1235594583/",
-    "source": "rolling-stone",
-    "title": "The Killers, Olivia Dean, Jack White to Headline New Santa Monica Festival",
-    "url": "https://www.rollingstone.com/music/music-news/the-killers-olivia-dean-ocean-way-festival-2026-1235594583/",
-    "publishedAt": "2026-07-16T18:08:02.000Z",
-    "summary": "Taking place on the Santa Monica Beach in late September, the two-day Ocean Way will also feature sets from Sublime and Alvvays",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/rolling-stones-artificial-intelligence-olivia-rodrigo-1235594625/",
-    "source": "rolling-stone",
-    "title": "Mick Jagger: ‘If Someone Wants to Make Music by AI, Go Ahead, but It Has to Be Original’",
-    "url": "https://www.rollingstone.com/music/music-news/rolling-stones-artificial-intelligence-olivia-rodrigo-1235594625/",
-    "publishedAt": "2026-07-16T18:06:34.000Z",
-    "summary": "The Rolling Stones also gave their impression of Olivia Rodrigo's rock music in a new interview",
     "image": null
   },
   {
@@ -459,15 +477,6 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/story/suno-has-been-hacked-youtube-deezer-genius/",
-    "source": "pitchfork",
-    "title": "Suno Got Hacked",
-    "url": "https://pitchfork.com/story/suno-has-been-hacked-youtube-deezer-genius/",
-    "publishedAt": "2026-07-15T20:01:18.000Z",
-    "summary": "The AI music generator reportedly scraped millions of songs and lyrics from YouTube, Deezer, and Genius",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/slaughter-to-prevail-rev3rent-tour-backlash/",
     "source": "loudwire",
     "title": "Slaughter to Prevail Vocalist on Backlash Tour Opener Is Getting",
@@ -618,15 +627,6 @@
     "url": "https://www.uncut.co.uk/publications/uncut-september-2026-155374/",
     "publishedAt": "2026-07-15T10:51:23.000Z",
     "summary": "Stars Jack White, Alabama Shakes, The Fall, Lambchop, Kevin Ayers and more!",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMixwFBVV95cUxNOWVFdG9RdkVXZHpWZldMU203TFZMWWo3VURLNjV0MzZvcy1XVm9DcGxjYy16N3Jxa3Jsdm5oejRMMkF0ZkMyM0J4RjUtSzRjeWw4aTBmeFRVMWRBdk5lV084Ulk5Vjh3Sy1tcE5YRnlTc2U3X3dldHUzbk9GY2Fyck1QRVBLdVdINnd5c1hha0tmNTI3cWV2S1hLNFU4TXBSNGV5TzN6Y1V4dVFWZHg1bEpITVRLS3BYakNENFpZbzB6bkY5TmNj?oc=5",
-    "source": "nme",
-    "title": "PinkPantheress to make acting debut in Daniels’ ‘Everything Everywhere All At Once’ follow-up - NME",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOWVFdG9RdkVXZHpWZldMU203TFZMWWo3VURLNjV0MzZvcy1XVm9DcGxjYy16N3Jxa3Jsdm5oejRMMkF0ZkMyM0J4RjUtSzRjeWw4aTBmeFRVMWRBdk5lV084Ulk5Vjh3Sy1tcE5YRnlTc2U3X3dldHUzbk9GY2Fyck1QRVBLdVdINnd5c1hha0tmNTI3cWV2S1hLNFU4TXBSNGV5TzN6Y1V4dVFWZHg1bEpITVRLS3BYakNENFpZbzB6bkY5TmNj?oc=5",
-    "publishedAt": "2026-07-15T10:21:22.000Z",
-    "summary": "PinkPantheress to make acting debut in Daniels’ ‘Everything Everywhere All At Once’ follow-up NME",
     "image": null
   },
   {
