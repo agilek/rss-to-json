@@ -1,5 +1,50 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/pop/gracie-abrams-daughter-from-hell-thank-you-note-mom-1236296620/",
+    "source": "billboard",
+    "title": "Gracie Abrams Says ‘Daughter From Hell’ Is a ‘Thank-You Note’ To Her Mom",
+    "url": "https://www.billboard.com/music/pop/gracie-abrams-daughter-from-hell-thank-you-note-mom-1236296620/",
+    "publishedAt": "2026-07-17T09:52:59.000Z",
+    "summary": "The pop artist cracks open “Minibar” on \"The Tonight Show\" for its debut TV performance.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/olivia-rodrigo-australia-aria-chart-crown-1236296607/",
+    "source": "billboard",
+    "title": "Olivia Rodrigo Holds Off Rolling Stones For Australia’s Chart Crown",
+    "url": "https://www.billboard.com/music/chart-beat/olivia-rodrigo-australia-aria-chart-crown-1236296607/",
+    "publishedAt": "2026-07-17T07:51:09.000Z",
+    "summary": "The Rolling Stones drop in at No. 2 on the ARIA Chart with Foreign Tongues, their 25th studio album.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/lil-baby-pharrell-williams-dead-fresh-single-1235595020/",
+    "source": "rolling-stone",
+    "title": "Lil Baby Drops Pharrell Williams-Produced Single ‘Dead Fresh’",
+    "url": "https://www.rollingstone.com/music/music-news/lil-baby-pharrell-williams-dead-fresh-single-1235595020/",
+    "publishedAt": "2026-07-17T07:30:17.000Z",
+    "summary": "The rapper debuted the song last month at the Louis Vuitton’s Menswear Spring-Summer 2027 show in Paris",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/oliver-cronin-interview-paradise-1236296589/",
+    "source": "billboard",
+    "title": "From Cricket to the Catwalk: Australian Pop Newcomer Oliver Cronin Has Created His Own Piece of ‘Paradise’",
+    "url": "https://www.billboard.com/music/pop/oliver-cronin-interview-paradise-1236296589/",
+    "publishedAt": "2026-07-17T07:03:02.000Z",
+    "summary": "The Australian pop singer has lived a charmed life. He spoke with Billboard ahead of his new EP release, Lost On The Way To Paradise.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/gracie-abrams-minibar-performance-fallon-1235595016/",
+    "source": "rolling-stone",
+    "title": "Watch Gracie Abrams Showcase Evocative Song ‘Minibar’ on ‘Fallon’",
+    "url": "https://www.rollingstone.com/music/music-news/gracie-abrams-minibar-performance-fallon-1235595016/",
+    "publishedAt": "2026-07-17T06:50:37.000Z",
+    "summary": "The singer also discussed her new album, Daughter From Hell, on the late-night show",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/music-news/gracie-abrams-steve-lacy-new-music-friday-guide-1236296440/",
     "source": "billboard",
     "title": "Gracie Abrams, Steve Lacy, Carly Rae Jepsen & More: New Music Friday Guide",
@@ -41,7 +86,7 @@
     "title": "Gracie Abrams’ ‘Daughter From Hell’ Has Arrived",
     "url": "https://www.rollingstone.com/music/music-news/gracie-abrams-daughter-from-hell-album-release-1235594838/",
     "publishedAt": "2026-07-17T04:00:48.000Z",
-    "summary": "The singer-songwriter's third studio album has arrived, featuring hit singles \"Hit the Wall\" and \"Look at My Life\"",
+    "summary": "The singer-songwriter's third studio album is here, featuring hit singles \"Hit the Wall\" and \"Look at My Life\"",
     "image": null
   },
   {
@@ -108,24 +153,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/pro/noah-kahan-massachusetts-ticketing-bill-cap-resale-prices/",
-    "source": "billboard",
-    "title": "Noah Kahan Endorses Mass. Bill to Cap Ticket Resale Prices: ‘I Love My Fans and Want to Protect Them’",
-    "url": "https://www.billboard.com/pro/noah-kahan-massachusetts-ticketing-bill-cap-resale-prices/",
-    "publishedAt": "2026-07-17T00:08:08.000Z",
-    "summary": "The Great Divide Act would also put a limit on fees charged by secondary platforms.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/drake-streamer-university-kai-cenat-1236296432/",
-    "source": "billboard",
-    "title": "Drake Surprises Streamer University Attendees With Video Message & Gifts: ‘Congratulations to Everybody That Got Accepted’",
-    "url": "https://www.billboard.com/music/rb-hip-hop/drake-streamer-university-kai-cenat-1236296432/",
-    "publishedAt": "2026-07-16T23:39:08.000Z",
-    "summary": "Invitees of the award-winning event could hardly contain themselves as the Toronto rapper delivered his words of encouragement.",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/lorde-on-spotifys-ai-song-descriptions/",
     "source": "pitchfork",
     "title": "Lorde on Spotify’s AI Song Descriptions: “We Don’t Want This”",
@@ -150,15 +177,6 @@
     "url": "https://www.rollingstone.com/music/music-album-reviews/steve-lacy-oh-yeah-album-review-1235594783/",
     "publishedAt": "2026-07-16T22:56:42.000Z",
     "summary": "The singer-songwriter and multi-instrumentalist makes sincerity and absurdity sound like neighboring impulses on his restless, intimate new album",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/post-malone-hip-hop-return-tease-new-music-1236296025/",
-    "source": "billboard",
-    "title": "Post Malone Teases Return to Hip-Hop: ‘That One Mofo That Don’t Know When to Leave’",
-    "url": "https://www.billboard.com/music/rb-hip-hop/post-malone-hip-hop-return-tease-new-music-1236296025/",
-    "publishedAt": "2026-07-16T22:01:46.000Z",
-    "summary": "Posty appears to be returning to his rap roots following a country pivot.",
     "image": null
   },
   {
@@ -198,30 +216,12 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/noah-kahan-massachusetts-bill-limiting-ticket-resale-prices-1235594747/",
-    "source": "rolling-stone",
-    "title": "Noah Kahan Backs Massachusetts Bill Limiting Ticket Resale Prices",
-    "url": "https://www.rollingstone.com/music/music-news/noah-kahan-massachusetts-bill-limiting-ticket-resale-prices-1235594747/",
-    "publishedAt": "2026-07-16T19:59:23.000Z",
-    "summary": "Following similar legislature in his native Vermont, singer-songwriter supports “The Great Divide Act” combating speculative tickets, resale fees, and more",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/metallica-avatar-tour-compliment/",
     "source": "loudwire",
     "title": "Avatar Respond After Metallica Pay Them a HUGE Compliment",
     "url": "https://loudwire.com/metallica-avatar-tour-compliment/",
     "publishedAt": "2026-07-16T19:50:30.000Z",
     "summary": "Metallica seem pretty blown away with Avatar's performances as support on a U.K. and European leg of the M72 tour. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-lists/best-world-cup-songs-1235575434/",
-    "source": "rolling-stone",
-    "title": "The Best World Cup Songs — And the Ones You May Have Forgotten",
-    "url": "https://www.rollingstone.com/music/music-lists/best-world-cup-songs-1235575434/",
-    "publishedAt": "2026-07-16T19:44:14.000Z",
-    "summary": "From Shakira to Los Ramblers, here are the top World Cup anthems, including a few gems that have gotten lost to time",
     "image": null
   },
   {
@@ -393,6 +393,15 @@
     "url": "https://louderthanwar.com/bst-hyde-park-lewis-capaldi-festival-review/",
     "publishedAt": "2026-07-16T10:30:32.000Z",
     "summary": "BST Hyde Park – Lewis Capaldi | Conan Gray London 12th July 2026 Lewis Capaldi and Conan Gray Close BST Hyde Park 2026 with two massive shows BST Hyde Park ended its 2026 run on Sunday with a day of music and a headline set from Lewis Capaldi. I arrived while the park was filling […] The post BST Hyde Park: Lewis Capaldi – Festival Review appeared first on Louder Than War.",
+    "image": null
+  },
+  {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMixwFBVV95cUxQRU1EeDFGTUd1YXRpM0E1bGJFVGQxM2hkbzhHeHdtUGg3amlxc0hiSVpRazZ0YzVrZDlHNjFmd2RJZVJFdXQ0TXc2T01zdGhYbTlHRWo0aEJqcUVidHE1U0E5RzRQX1d3XzQzWHlmelJDMTM4RXZqVnpQMEZoRkx2TGQ5Szh5WEI2aWMzTDFTWVJpM3JtN2NNUmxaZUNKUUVnZHRHOTU1M2pfWDdaV2NJeW1iYTY5YjBQX1VrMW80S3pMdXRkUUVR?oc=5",
+    "source": "kerrang",
+    "title": "“There’s a new life with this stuff”: Jim Root offers update on Slipknot’s new album - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRU1EeDFGTUd1YXRpM0E1bGJFVGQxM2hkbzhHeHdtUGg3amlxc0hiSVpRazZ0YzVrZDlHNjFmd2RJZVJFdXQ0TXc2T01zdGhYbTlHRWo0aEJqcUVidHE1U0E5RzRQX1d3XzQzWHlmelJDMTM4RXZqVnpQMEZoRkx2TGQ5Szh5WEI2aWMzTDFTWVJpM3JtN2NNUmxaZUNKUUVnZHRHOTU1M2pfWDdaV2NJeW1iYTY5YjBQX1VrMW80S3pMdXRkUUVR?oc=5",
+    "publishedAt": "2026-07-16T09:57:00.000Z",
+    "summary": "“There’s a new life with this stuff”: Jim Root offers update on Slipknot’s new album Kerrang!",
     "image": null
   },
   {
@@ -708,15 +717,6 @@
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRGpDRDRveVA1eTY2TC1STWxVM0FiSl9KeU01Z05BVnVWaWxiU3NQbFBOOWtnZGhDSU9JbVh0X1Nvd09tZFpVZnFKUDFnWng1MGhHLVIxcDc4Nzk4SU44N0JtcURpMUQ4ZnU1TU1wR0VvMEdjYUMyRTg4cXQxUjVqRlJGcENsYVpsa3BjNlZpX0YzN3BJVXJJ?oc=5",
     "publishedAt": "2026-07-13T11:37:00.000Z",
     "summary": "unpeople announce biggest UK and Ireland headline dates yet for 2027 Kerrang!",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMibkFVX3lxTE1PcUctdHR2cWE0bW5lTmpNWGZHQm1xUGlIdDdEbEhjZXVBTS1Hcm10UzJmbmt1X3VNZFFOU0Z2WWtSRHhPQ1A1dzZjSzBpck1EYUZHTHVaaE9jTncwdmpWM09ISE10MXg5R3BrcVd3?oc=5",
-    "source": "kerrang",
-    "title": "Album review: Loathe – A Stranger To You - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PcUctdHR2cWE0bW5lTmpNWGZHQm1xUGlIdDdEbEhjZXVBTS1Hcm10UzJmbmt1X3VNZFFOU0Z2WWtSRHhPQ1A1dzZjSzBpck1EYUZHTHVaaE9jTncwdmpWM09ISE10MXg5R3BrcVd3?oc=5",
-    "publishedAt": "2026-07-13T10:38:00.000Z",
-    "summary": "Album review: Loathe – A Stranger To You Kerrang!",
     "image": null
   }
 ]
