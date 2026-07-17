@@ -1,11 +1,101 @@
 [
   {
+    "id": "uncut-https://www.uncut.co.uk/features/inside-our-new-free-cd-jack-white-presents-a-third-man-compendium-155521/",
+    "source": "uncut",
+    "title": "Inside our new free CD, Jack White Presents: A Third Man Compendium",
+    "url": "https://www.uncut.co.uk/features/inside-our-new-free-cd-jack-white-presents-a-third-man-compendium-155521/",
+    "publishedAt": "2026-07-17T15:00:53.000Z",
+    "summary": "The album features White and a host of his talented labelmates",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/at-band-philly-interview-autosmile-1235594580/",
+    "source": "rolling-stone",
+    "title": "Where It’s @: Get Familiar with the Incredible Band Whose Name Is a Symbol",
+    "url": "https://www.rollingstone.com/music/music-features/at-band-philly-interview-autosmile-1235594580/",
+    "publishedAt": "2026-07-17T15:00:00.000Z",
+    "summary": "After years of word-of-mouth buzz, the Philly psych-folk duo (whose name is pronounced “at”) prepare to release a great new album",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/james-blake-and-travis-scott-duet-on-the-odyssey-end-credits-song-when-im-home/",
+    "source": "pitchfork",
+    "title": "James Blake and Travis Scott Duet on The Odyssey End Credits Song “When I’m Home”",
+    "url": "https://pitchfork.com/story/james-blake-and-travis-scott-duet-on-the-odyssey-end-credits-song-when-im-home/",
+    "publishedAt": "2026-07-17T14:59:17.000Z",
+    "summary": "Listen to the closer of Ludwig Göransson’s original soundtrack, co-written by Christopher Nolan himself",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/mariah-carey-daydream-expanded-unreleased-tracks-anniversary-1236296695/",
+    "source": "billboard",
+    "title": "Mariah Carey Celebrates 30th Anniversary of ‘Daydream’ With Expanded Edition: ‘Era of Firsts for Me’",
+    "url": "https://www.billboard.com/music/pop/mariah-carey-daydream-expanded-unreleased-tracks-anniversary-1236296695/",
+    "publishedAt": "2026-07-17T14:59:01.000Z",
+    "summary": "This version includes previously unreleased \"rare writing demos\" and bonus tracks, remixes and more.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/jason-newsted-metallica-songs-go-country-1235594806/",
+    "source": "rolling-stone",
+    "title": "Jason Newsted Picks Best Metallica Thrashers to Transform into Country Songs",
+    "url": "https://www.rollingstone.com/music/music-country/jason-newsted-metallica-songs-go-country-1235594806/",
+    "publishedAt": "2026-07-17T14:46:49.000Z",
+    "summary": "The band’s former bassist has returned to the road with his own Chophouse Band, playing a string of shows with Southern rockers Blackberry Smoke",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/msg-sues-wired-for-defamation-over-article/",
+    "source": "billboard",
+    "title": "MSG Sues Wired for Defamation Over Article About Gay Celeb Surveillance List: ‘Shockingly Unethical’",
+    "url": "https://www.billboard.com/pro/msg-sues-wired-for-defamation-over-article/",
+    "publishedAt": "2026-07-17T14:18:47.000Z",
+    "summary": "MSG says the story created a \"false implication\" of discrimination. Wire said it would \"vigorously defend it against this baseless and ridiculous lawsuit.\"",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/leon-bridges-launches-new-album-with-four-singles/",
+    "source": "pitchfork",
+    "title": "Leon Bridges Launches New Album With Four Singles",
+    "url": "https://pitchfork.com/story/leon-bridges-launches-new-album-with-four-singles/",
+    "publishedAt": "2026-07-17T14:05:59.000Z",
+    "summary": "Happiness Anytime, produced by two members of Jungle, is due September 25",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/awards/grammy-predictions-2027-general-field-categories-1236295942/",
+    "source": "billboard",
+    "title": "Grammys 2027 Predictions: Who Could Score a Nomination in the Biggest Categories?",
+    "url": "https://www.billboard.com/music/awards/grammy-predictions-2027-general-field-categories-1236295942/",
+    "publishedAt": "2026-07-17T14:05:12.000Z",
+    "summary": "Billboard's first look at some of the top contenders at the 69th annual Grammy Awards.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/rock-bands-40-years-never-broke-up/",
+    "source": "loudwire",
+    "title": "Rock Bands That Have Been Together 40+ Years and Never Broke Up",
+    "url": "https://loudwire.com/rock-bands-40-years-never-broke-up/",
+    "publishedAt": "2026-07-17T14:00:34.000Z",
+    "summary": "These bands have been together for at least four decades and have never formally broken up, even if they underwent lineup changes. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/11-new-albums-you-should-listen-to-now-steve-lacy-syd-and-more/",
+    "source": "pitchfork",
+    "title": "11 New Albums You Should Listen to Now: Steve Lacy, Syd, and More",
+    "url": "https://pitchfork.com/story/11-new-albums-you-should-listen-to-now-steve-lacy-syd-and-more/",
+    "publishedAt": "2026-07-17T13:56:03.000Z",
+    "summary": "Stream new releases from Steve Lacy, Syd, Helado Tropical, and more",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/brandon-flowers-paradise-country-1235594687/",
     "source": "rolling-stone",
     "title": "Brandon Flowers Sings One for the Croupiers on New Song ‘Paradise’",
     "url": "https://www.rollingstone.com/music/music-news/brandon-flowers-paradise-country-1235594687/",
     "publishedAt": "2026-07-17T13:22:43.000Z",
-    "summary": "Song will appear on Killers frontman's upcoming solo album, Thrasher",
+    "summary": "Song will appear on Killers frontman’s upcoming solo album, Thrasher",
     "image": null
   },
   {
@@ -90,6 +180,15 @@
     "image": null
   },
   {
+    "id": "louder-than-war-https://louderthanwar.com/louder-than-words-music-and-books-festival-announces-nov-2026-bill/",
+    "source": "louder-than-war",
+    "title": "Louder Than Words music and books festival announces Nov 2026 bill",
+    "url": "https://louderthanwar.com/louder-than-words-music-and-books-festival-announces-nov-2026-bill/",
+    "publishedAt": "2026-07-17T10:06:34.000Z",
+    "summary": "Louder Than Words announces 2026 festival bill The post Louder Than Words music and books festival announces Nov 2026 bill appeared first on Louder Than War.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/pop/gracie-abrams-daughter-from-hell-thank-you-note-mom-1236296620/",
     "source": "billboard",
     "title": "Gracie Abrams Says ‘Daughter From Hell’ Is a ‘Thank-You Note’ To Her Mom",
@@ -105,6 +204,15 @@
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWDctZVg4Q1gyZWVaRzhCLVBDeUtJMGhwbElZb2x1OFdCdUVZTk1XX3pmOF9aYzVOZE1sNDJ1UmNjVmRsOGNqanVFX1ZKR0dkSUR1RzJ4LTFpRFpIbXp3a1lyTVd2RVFWMlUzbWg2SEpjZzBOX1RDVUV2MUtyY0VJLXhGdzlTai16N2hKdVNBdnZEU1FjUmpWSlZvUllrdEZQTTB4bWFCdzIwaTk4eGNLMjVqUGJqeGlFSldj?oc=5",
     "publishedAt": "2026-07-17T09:08:04.000Z",
     "summary": "Check out William Shatner and his metal band’s outrageous Riot Fest rider demands NME",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMifkFVX3lxTE83TGFfNkNlVU5YSnJ1Wkl4RmJwa1VYMVRkM0pLeVl4aE9SWWxPejZTcUxBRVBkWFVFSDhUazVHX2Z3RjFIQU1PWnJLT2JIQWo1LXZlTFFNeWJaUmxReEVXV29NcU1sd2hTUGI4UHpoYVY2TWVTRktjdktJeGtrUQ?oc=5",
+    "source": "nme",
+    "title": "Loathe – ‘A Stranger To You’ review: a barn-storming collection of maximalist, genre-bending digi-metal - NME",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE83TGFfNkNlVU5YSnJ1Wkl4RmJwa1VYMVRkM0pLeVl4aE9SWWxPejZTcUxBRVBkWFVFSDhUazVHX2Z3RjFIQU1PWnJLT2JIQWo1LXZlTFFNeWJaUmxReEVXV29NcU1sd2hTUGI4UHpoYVY2TWVTRktjdktJeGtrUQ?oc=5",
+    "publishedAt": "2026-07-17T08:00:24.000Z",
+    "summary": "Loathe – ‘A Stranger To You’ review: a barn-storming collection of maximalist, genre-bending digi-metal NME",
     "image": null
   },
   {
@@ -144,30 +252,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/gracie-abrams-steve-lacy-new-music-friday-guide-1236296440/",
-    "source": "billboard",
-    "title": "Gracie Abrams, Steve Lacy, Carly Rae Jepsen & More: New Music Friday Guide",
-    "url": "https://www.billboard.com/music/music-news/gracie-abrams-steve-lacy-new-music-friday-guide-1236296440/",
-    "publishedAt": "2026-07-17T05:11:07.000Z",
-    "summary": "Check out the must-hear releases of the week.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/pop/bts-normal-music-video-watch-1236296582/",
-    "source": "billboard",
-    "title": "BTS Let Off Steam After a Big Night In ‘NORMAL’ Music Video: Watch",
-    "url": "https://www.billboard.com/music/pop/bts-normal-music-video-watch-1236296582/",
-    "publishedAt": "2026-07-17T05:07:17.000Z",
-    "summary": "The wintry video gives us the now-viral image of Jin, Suga, J-Hope, RM, Jimin, V, and Jung Kook standing before a row of toilets.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/bts-normal-music-video-arirang-album-1235594976/",
     "source": "rolling-stone",
     "title": "BTS Invite Fans to Look Beyond the Spotlight in ‘Normal’ Video",
     "url": "https://www.rollingstone.com/music/music-news/bts-normal-music-video-arirang-album-1235594976/",
     "publishedAt": "2026-07-17T04:02:35.000Z",
-    "summary": "The song features on the band's massive hit album, Arirang",
+    "summary": "The song features on the band’s massive hit album, Arirang",
     "image": null
   },
   {
@@ -185,16 +275,7 @@
     "title": "Gracie Abrams’ ‘Daughter From Hell’ Has Arrived",
     "url": "https://www.rollingstone.com/music/music-news/gracie-abrams-daughter-from-hell-album-release-1235594838/",
     "publishedAt": "2026-07-17T04:00:48.000Z",
-    "summary": "The singer-songwriter's third studio album is here, featuring hit singles \"Hit the Wall\" and \"Look at My Life\"",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/gracie-abrams-daughter-from-hell-tracks-ranked/",
-    "source": "billboard",
-    "title": "Gracie Abrams’ ‘Daughter From Hell’: All 16 Tracks Ranked",
-    "url": "https://www.billboard.com/lists/gracie-abrams-daughter-from-hell-tracks-ranked/",
-    "publishedAt": "2026-07-17T04:00:00.000Z",
-    "summary": "The pop star's third studio album has finally arrived.",
+    "summary": "The singer-songwriter’s third studio album is here, featuring hit singles “Hit the Wall” and “Look at My Life”",
     "image": null
   },
   {
@@ -203,16 +284,7 @@
     "title": "Annie Leibovitz Sues Observer Over Justin and Hailey Bieber Photo: ‘Exploitation’",
     "url": "https://www.rollingstone.com/music/music-news/annie-leibovitz-sues-observer-justin-bieber-hailey-photo-1235594944/",
     "publishedAt": "2026-07-17T01:17:59.000Z",
-    "summary": "The famed photographer is suing the media outlet for up to $150,000 per \"unauthorized\" use",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/wildfire-concerts-postponed-black-keys-john-mellencamp-1235594945/",
-    "source": "rolling-stone",
-    "title": "Wildfire Smoke Forces the Black Keys, Creed, and More to Postpone Concerts",
-    "url": "https://www.rollingstone.com/music/music-news/wildfire-concerts-postponed-black-keys-john-mellencamp-1235594945/",
-    "publishedAt": "2026-07-17T00:56:14.000Z",
-    "summary": "War and Treaty, John Mellencamp, and Mavis Staples were also among the growing list of artists either cancelling or postponing shows as the air quality hits dangerous levels",
+    "summary": "The famed photographer is suing the media outlet for up to $150,000 per “unauthorized” use",
     "image": null
   },
   {
@@ -222,15 +294,6 @@
     "url": "https://pitchfork.com/story/lorde-on-spotifys-ai-song-descriptions/",
     "publishedAt": "2026-07-16T23:34:07.000Z",
     "summary": "On Instagram, the singer wrote that an ”inaccurate” AI-generated summary of “Current Affairs“ “limits free interpretation\"",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/lorde-slams-spotify-ai-generated-song-descriptions-1235594882/",
-    "source": "rolling-stone",
-    "title": "Lorde Slams Spotify Over Sloppy AI-Generated Song Descriptions",
-    "url": "https://www.rollingstone.com/music/music-news/lorde-slams-spotify-ai-generated-song-descriptions-1235594882/",
-    "publishedAt": "2026-07-16T23:02:30.000Z",
-    "summary": "The Grammy-winning artist slammed the streaming behemoth over its \"About the Song\" feature and accused it of sharing inaccurate information",
     "image": null
   },
   {
@@ -330,15 +393,6 @@
     "url": "https://pitchfork.com/story/tinashe-announces-new-album-popstar/",
     "publishedAt": "2026-07-16T15:33:53.000Z",
     "summary": "A crunk-inflected single, “Crash Out,” follows last month’s “Too Easy”",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/ghost-2-big-to-rig-concert-movie/",
-    "source": "loudwire",
-    "title": "Does Ghost's New Film Title Mock Trump 2024 Election Slogan?",
-    "url": "https://loudwire.com/ghost-2-big-to-rig-concert-movie/",
-    "publishedAt": "2026-07-16T15:18:04.000Z",
-    "summary": "Yes that title sounds a little familiar, but what are Ghost doing with their latest concert film, '2 Big to Rig'? Continue reading…",
     "image": null
   },
   {
@@ -486,42 +540,6 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMirAFBVV95cUxPWVQwU3diZU1xelRwdFRKLWpOeWQzSlR2dU9KS1FyLUhKYzhDUjlueFd1UnIxQVRZYklQWjU5WloxNlpFeEU5UDhHRVdVb3dscDdCRzlRREZiT2x3elJUMHhncGQ5VzlFeUtUeF92RXRqckVHRUZkSHpyRkVTNjZENzFTclB5c2M1Q194b2V4RmFTNVNYTk9qd2JTZTdmcmYxc0ZXY0NiT1h5OF96?oc=5",
-    "source": "nme",
-    "title": "Lana Del Rey announces untitled companion album to long-awaited ‘Stove’ - NME",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWVQwU3diZU1xelRwdFRKLWpOeWQzSlR2dU9KS1FyLUhKYzhDUjlueFd1UnIxQVRZYklQWjU5WloxNlpFeEU5UDhHRVdVb3dscDdCRzlRREZiT2x3elJUMHhncGQ5VzlFeUtUeF92RXRqckVHRUZkSHpyRkVTNjZENzFTclB5c2M1Q194b2V4RmFTNVNYTk9qd2JTZTdmcmYxc0ZXY0NiT1h5OF96?oc=5",
-    "publishedAt": "2026-07-16T06:56:10.000Z",
-    "summary": "Lana Del Rey announces untitled companion album to long-awaited ‘Stove’ NME",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/lana-del-rey-new-album/",
-    "source": "pitchfork",
-    "title": "Lana Del Rey Claims Stove Has a “Companion Album”",
-    "url": "https://pitchfork.com/story/lana-del-rey-new-album/",
-    "publishedAt": "2026-07-16T01:48:13.000Z",
-    "summary": "“I need a month to finish putting it together. Thank you for waiting.”",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/watch-robyn-cover-erasures-always/",
-    "source": "pitchfork",
-    "title": "Watch Robyn Cover Erasure’s “Always”",
-    "url": "https://pitchfork.com/story/watch-robyn-cover-erasures-always/",
-    "publishedAt": "2026-07-15T23:25:39.000Z",
-    "summary": "The Swedish star dropped by BBC Radio 2 to perform the 1994 synth-pop classic along with three of her own songs",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/david-bowie-collection-jimmy-page/",
-    "source": "pitchfork",
-    "title": "New David Bowie Collection to Feature Unreleased Songs With Jimmy Page",
-    "url": "https://pitchfork.com/story/david-bowie-collection-jimmy-page/",
-    "publishedAt": "2026-07-15T22:32:41.000Z",
-    "summary": "The Shel Talmy Recordings gathers material the late singer, then going by Davie Jones, made with the titular producer",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/the-hu-play-the-mongolian-embassy-and-release-new-video/",
     "source": "louder-than-war",
     "title": "The Hu play the Mongolian Embassy, Knebworth and release new video Echoes Of My Father",
@@ -663,24 +681,6 @@
     "url": "https://www.uncut.co.uk/reviews/album/the-waterboys-atlantic-rain-theres-plenty-more-fishermans-blues-in-the-sea-155460/",
     "publishedAt": "2026-07-14T15:14:21.000Z",
     "summary": "Mike Scott finds three more discs of outtakes from the band's most prolific period",
-    "image": null
-  },
-  {
-    "id": "uncut-https://www.uncut.co.uk/features/things-are-not-the-same-without-him-nick-cave-remembers-late-bad-seeds-pianist-conway-savage-155454/",
-    "source": "uncut",
-    "title": "“Things are not the same without him”: Nick Cave remembers late Bad Seeds pianist Conway Savage",
-    "url": "https://www.uncut.co.uk/features/things-are-not-the-same-without-him-nick-cave-remembers-late-bad-seeds-pianist-conway-savage-155454/",
-    "publishedAt": "2026-07-14T13:36:05.000Z",
-    "summary": "A new anthology collects Savage's mordant country ballads: \"He was very genuine\"",
-    "image": null
-  },
-  {
-    "id": "louder-than-war-https://louderthanwar.com/the-jayhawks-to-return-with-new-album-sanctuary-park/",
-    "source": "louder-than-war",
-    "title": "The Jayhawks to return with new album Sanctuary Park.",
-    "url": "https://louderthanwar.com/the-jayhawks-to-return-with-new-album-sanctuary-park/",
-    "publishedAt": "2026-07-14T11:38:06.000Z",
-    "summary": "Long running Minneapolis alt-country rock stalwarts The Jayhawks are set to release their new album – their twelfth since 1986 – at the end of August. The album is titled Sanctuary Park and is due out on 28th August on the Thirty Tigers label. The album’s release will be prefaced by a lead-off single Keeping […] The post The Jayhawks to return with new album Sanctuary Park. appeared first on Louder Than War.",
     "image": null
   },
   {
