@@ -1,5 +1,77 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/music-news/best-new-music-poll-gracie-abrams-buju-banton-steve-lacy-1236296976/",
+    "source": "billboard",
+    "title": "Gracie Abrams, Rick Ross, Steve Lacy & More: Which Is Your Favorite New Music Release This Week? Vote!",
+    "url": "https://www.billboard.com/music/music-news/best-new-music-poll-gracie-abrams-buju-banton-steve-lacy-1236296976/",
+    "publishedAt": "2026-07-17T20:45:11.000Z",
+    "summary": "There are also new releases from Buju Banton, Carly Rae Jepsen, Syd and others.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/polaris-music-prize-changes-angine-de-poitrine-canada-news/",
+    "source": "billboard",
+    "title": "In Canada: Inside the Polaris Music Prize’s Big Period of Change, Plus Angine de Poitrine Debuts in Toronto",
+    "url": "https://www.billboard.com/pro/polaris-music-prize-changes-angine-de-poitrine-canada-news/",
+    "publishedAt": "2026-07-17T20:27:30.000Z",
+    "summary": "Also up north this week: Kneecap moves to sue after being denied entry to Canada.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/lil-wayne-joint-venture-podcast-craig-carton-1236296998/",
+    "source": "billboard",
+    "title": "Lil Wayne to Launch ‘The Joint Venture’ Podcast With Radio Host Craig Carton",
+    "url": "https://www.billboard.com/music/rb-hip-hop/lil-wayne-joint-venture-podcast-craig-carton-1236296998/",
+    "publishedAt": "2026-07-17T20:15:28.000Z",
+    "summary": "A live episode will be recorded this weekend at Fanatics Fest NYC.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/travis-scott-james-blake-ludwig-goransson-the-odyssey-song-1235595206/",
+    "source": "rolling-stone",
+    "title": "Travis Scott Teams With James Blake, Ludwig Goransson for ‘The Odyssey’ Closer ‘When I’m Home’",
+    "url": "https://www.rollingstone.com/music/music-news/travis-scott-james-blake-ludwig-goransson-the-odyssey-song-1235595206/",
+    "publishedAt": "2026-07-17T20:13:00.000Z",
+    "summary": "Rapper, who has a cameo role in Christopher Nolan's epic, previously contributed end credits track to the director's Tenet",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rock/rolling-stones-amy-winehouse-unfinished-music-1236297098/",
+    "source": "billboard",
+    "title": "Amy Winehouse, Werner Herzog & Unfinished Music: Extras From The Rolling Stones’ Billboard Cover Story",
+    "url": "https://www.billboard.com/music/rock/rolling-stones-amy-winehouse-unfinished-music-1236297098/",
+    "publishedAt": "2026-07-17T20:07:25.000Z",
+    "summary": "More wagging Tongues.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/believe-appoints-marcela-moreira-as-country-director-brazil/",
+    "source": "billboard",
+    "title": "Executive Turntable: Believe Appoints Marcela Moreira as Country Director in Brazil",
+    "url": "https://www.billboard.com/lists/believe-appoints-marcela-moreira-as-country-director-brazil/",
+    "publishedAt": "2026-07-17T20:06:06.000Z",
+    "summary": "David Goldsen joins Warner Chappell Music, NIVA elects new board members, AEG expands its venue development team and more music industry hires and promotions.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/howard-benson-interview-grunge-hair-metal/",
+    "source": "loudwire",
+    "title": "What REALLY Killed Hair Metal? Veteran Rock Producer Weighs In",
+    "url": "https://loudwire.com/howard-benson-interview-grunge-hair-metal/",
+    "publishedAt": "2026-07-17T19:35:28.000Z",
+    "summary": "The answer isn't as cut-and-dry as you've been led to believe. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-album-reviews/aaron-lee-tasjan-get-over-it-underdog-1235595309/",
+    "source": "rolling-stone",
+    "title": "Aaron Lee Tasjan Listens to the Spirit of Todd Snider on ‘Get Over It, Underdog’",
+    "url": "https://www.rollingstone.com/music/music-album-reviews/aaron-lee-tasjan-get-over-it-underdog-1235595309/",
+    "publishedAt": "2026-07-17T19:35:08.000Z",
+    "summary": "The singer-songwriter — and longtime friend of Snider, who died last year — champions those who perpetually have the deck stacked against them on an inspiring new album",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/pro/jay-z-yankee-stadium-gatecrashers-security-experts-discuss/",
     "source": "billboard",
     "title": "How to Handle Gatecrashers: After Jay-Z, Experts Talk Training, Prevention & FOMO’s Possible Role",
@@ -14,7 +86,7 @@
     "title": "Ava Max Scores: The Pop Star on the World Cup, Her Favorite ABBA Song, and More",
     "url": "https://www.rollingstone.com/music/music-features/ava-max-energy-fifa-world-cup-interview-1235594478/",
     "publishedAt": "2026-07-17T19:04:27.000Z",
-    "summary": "The singer talks about her thrilling single \"Energy\" at the opening night of FIFA House in NYC",
+    "summary": "The singer talks about her thrilling single “Energy” at the opening night of FIFA House in NYC",
     "image": null
   },
   {
@@ -54,33 +126,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/latin/best-new-latin-music-poll-gabito-ballesteros-ednita-nazario-1236296852/",
-    "source": "billboard",
-    "title": "Gabito Ballesteros & La Joaqui’s ‘Báilame’ & More: Vote for the Best New Latin Music Release This Week",
-    "url": "https://www.billboard.com/music/latin/best-new-latin-music-poll-gabito-ballesteros-ednita-nazario-1236296852/",
-    "publishedAt": "2026-07-17T17:59:02.000Z",
-    "summary": "Which new Latin music release is your favorite? Vote below!",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/songs-that-were-big-uk-hits-but-not-in-the-u-s/",
-    "source": "billboard",
-    "title": "Every Song That Topped the U.K. Chart for 8 or More Weeks, But Didn’t Make the Top 10 on the Hot 100",
-    "url": "https://www.billboard.com/lists/songs-that-were-big-uk-hits-but-not-in-the-u-s/",
-    "publishedAt": "2026-07-17T17:52:38.000Z",
-    "summary": "\"Rein Me In” by Sam Fender and Olivia Dean is the first single to log 17 weeks at No. 1 in the U.K. without making the top 40 on the Hot 100.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rock/ozzy-osbourne-honored-ozzy-day-year-after-his-death-1236296845/",
-    "source": "billboard",
-    "title": "Mama, I’m Coming Home: Birmingham to Honor Ozzy Osbourne With ‘Ozzy Day’ Celebrations",
-    "url": "https://www.billboard.com/music/rock/ozzy-osbourne-honored-ozzy-day-year-after-his-death-1236296845/",
-    "publishedAt": "2026-07-17T17:48:39.000Z",
-    "summary": "The festivities will come one year after the late rocker's passing.",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/fantastic-negrito-new-live-album-and-interview/",
     "source": "louder-than-war",
     "title": "Fantastic Negrito – New Live Album And Interview",
@@ -96,24 +141,6 @@
     "url": "https://www.rollingstone.com/music/music-news/mariah-carey-daydream-30th-anniversary-edition-1235595110/",
     "publishedAt": "2026-07-17T17:31:37.000Z",
     "summary": "The superstar is celebrating her seminal album with an extended version, including rare demos, and remixes",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/pop/benny-blanco-crossing-atlantic-selena-gomez-fear-of-flying-1236296861/",
-    "source": "billboard",
-    "title": "Benny Blanco’s Love For Selena Gomez Is as Wide as the Atlantic Ocean, Which He’s Crossing By Boat to See Her Because He’s Afraid of Flying",
-    "url": "https://www.billboard.com/music/pop/benny-blanco-crossing-atlantic-selena-gomez-fear-of-flying-1236296861/",
-    "publishedAt": "2026-07-17T17:26:41.000Z",
-    "summary": "The things we do for love.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/pop/ariana-grande-ty-dolla-sign-safety-net-eternal-sunshine-show-1236296763/",
-    "source": "billboard",
-    "title": "Ariana Grande Brings Out Ty Dolla $ign to Perform Their ‘Positions’ Collaboration ‘Safety Net’",
-    "url": "https://www.billboard.com/music/pop/ariana-grande-ty-dolla-sign-safety-net-eternal-sunshine-show-1236296763/",
-    "publishedAt": "2026-07-17T17:19:20.000Z",
-    "summary": "The Eternal Sunshine Tour is currently in the midst of a five-show run in Brooklyn.",
     "image": null
   },
   {
@@ -261,30 +288,12 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/the-rolling-stones-residencies-tour-scenarios-1235594735/",
-    "source": "rolling-stone",
-    "title": "The Rolling Stones Are Considering ‘Residencies’ in 2027. What Could That Mean?",
-    "url": "https://www.rollingstone.com/music/music-features/the-rolling-stones-residencies-tour-scenarios-1235594735/",
-    "publishedAt": "2026-07-17T12:55:53.000Z",
-    "summary": "Might they pull a Harry Styles and block-book Madison Square Garden? Could they hit three or four big stadiums? What about a single blowout gig to wrap it all up?",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/wildfires-concert-postponements/",
     "source": "loudwire",
     "title": "Wildfires Cause Creed, Sebastian Bach Concert Postponements",
     "url": "https://loudwire.com/wildfires-concert-postponements/",
     "publishedAt": "2026-07-17T12:33:03.000Z",
     "summary": "Over 800 blazes in Canada have led to health warnings in the U.S., with artists changing plans to minimize risk to fans. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/felice-brothers-tribute-album-lumineers-bright-eyes-1235594554/",
-    "source": "rolling-stone",
-    "title": "Lumineers, Bright Eyes to Sing for the Felice Brothers on Star-Studded Tribute Album",
-    "url": "https://www.rollingstone.com/music/music-country/felice-brothers-tribute-album-lumineers-bright-eyes-1235594554/",
-    "publishedAt": "2026-07-17T12:00:00.000Z",
-    "summary": "Old Crow Medicine Show, Brandon Flowers, and more will interpret the catalog of the upstate New York folk-roots band",
     "image": null
   },
   {
@@ -402,15 +411,6 @@
     "url": "https://pitchfork.com/story/carly-rae-jepsen-after-all-video/",
     "publishedAt": "2026-07-16T18:12:13.000Z",
     "summary": "It’s the latest single from her forthcoming album Day and Night",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/charley-crockett-deactivates-social-media-twin-temple/",
-    "source": "loudwire",
-    "title": "Charley Crockett's Social Media Goes Dark After Twin Temple Split",
-    "url": "https://loudwire.com/charley-crockett-deactivates-social-media-twin-temple/",
-    "publishedAt": "2026-07-16T18:09:33.000Z",
-    "summary": "Charley Crockett went quiet on social media right around the same time things got loud over who he chose to cut from his tour. Continue reading…",
     "image": null
   },
   {
