@@ -1,5 +1,86 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/music-news/gracie-abrams-steve-lacy-new-music-friday-guide-1236296440/",
+    "source": "billboard",
+    "title": "Gracie Abrams, Steve Lacy, Carly Rae Jepsen & More: New Music Friday Guide",
+    "url": "https://www.billboard.com/music/music-news/gracie-abrams-steve-lacy-new-music-friday-guide-1236296440/",
+    "publishedAt": "2026-07-17T05:11:07.000Z",
+    "summary": "Check out the must-hear releases of the week.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/bts-normal-music-video-watch-1236296582/",
+    "source": "billboard",
+    "title": "BTS Let Off Steam After a Big Night In ‘NORMAL’ Music Video: Watch",
+    "url": "https://www.billboard.com/music/pop/bts-normal-music-video-watch-1236296582/",
+    "publishedAt": "2026-07-17T05:07:17.000Z",
+    "summary": "The wintry video gives us the now-viral image of Jin, Suga, J-Hope, RM, Jimin, V, and Jung Kook standing before a row of toilets.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/bts-normal-music-video-arirang-album-1235594976/",
+    "source": "rolling-stone",
+    "title": "BTS Invite Fans to Look Beyond the Spotlight in ‘Normal’ Video",
+    "url": "https://www.rollingstone.com/music/music-news/bts-normal-music-video-arirang-album-1235594976/",
+    "publishedAt": "2026-07-17T04:02:35.000Z",
+    "summary": "The song features on the band's massive hit album, Arirang",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/2026-hard-rock-metal-album-release-calendar/",
+    "source": "loudwire",
+    "title": "The New Rock + Metal Albums Out Today",
+    "url": "https://loudwire.com/2026-hard-rock-metal-album-release-calendar/",
+    "publishedAt": "2026-07-17T04:01:48.000Z",
+    "summary": "See all the new releases coming each week of 2026. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/gracie-abrams-daughter-from-hell-album-release-1235594838/",
+    "source": "rolling-stone",
+    "title": "Gracie Abrams’ ‘Daughter From Hell’ Has Arrived",
+    "url": "https://www.rollingstone.com/music/music-news/gracie-abrams-daughter-from-hell-album-release-1235594838/",
+    "publishedAt": "2026-07-17T04:00:48.000Z",
+    "summary": "The singer-songwriter's third studio album has arrived, featuring hit singles \"Hit the Wall\" and \"Look at My Life\"",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/gracie-abrams-daughter-from-hell-tracks-ranked/",
+    "source": "billboard",
+    "title": "Gracie Abrams’ ‘Daughter From Hell’: All 16 Tracks Ranked",
+    "url": "https://www.billboard.com/lists/gracie-abrams-daughter-from-hell-tracks-ranked/",
+    "publishedAt": "2026-07-17T04:00:00.000Z",
+    "summary": "The pop star's third studio album has finally arrived.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/gracie-abrams-daughter-from-hell-1236295999/",
+    "source": "billboard",
+    "title": "Gracie Abrams’ ‘Daughter From Hell’ Has Arrived: Stream It Now",
+    "url": "https://www.billboard.com/music/pop/gracie-abrams-daughter-from-hell-1236295999/",
+    "publishedAt": "2026-07-17T04:00:00.000Z",
+    "summary": "The \"Hit the Wall\" singer has said her third release is her favorite to date.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/sienna-spiro-visitor-album-top-10-chart-debut-1236296532/",
+    "source": "billboard",
+    "title": "Sienna Spiro’s ‘Visitor’ Album Makes Top 10 Debut on Three Charts",
+    "url": "https://www.billboard.com/music/chart-beat/sienna-spiro-visitor-album-top-10-chart-debut-1236296532/",
+    "publishedAt": "2026-07-17T03:22:36.000Z",
+    "summary": "It’s the singer-songwriter’s first full-length studio set.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/country/australian-country-artist-brad-cox-good-life-interview-1236296547/",
+    "source": "billboard",
+    "title": "‘I’ve Got It So Good’: How Australian Country Artist Brad Cox Is Living His Best Life",
+    "url": "https://www.billboard.com/music/country/australian-country-artist-brad-cox-good-life-interview-1236296547/",
+    "publishedAt": "2026-07-17T03:00:10.000Z",
+    "summary": "On the eve of his latest tour, Cox says his new single \"would’ve been the perfect wedding song, but I'm just two years late on that one.\"",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/culture/product-recommendations/build-your-own-bluetooth-speaker-diy-stem-kit-buy-online-1236296537/",
     "source": "billboard",
     "title": "This $35 DIY Kit Lets You Build Your Own Bluetooth Speaker",
@@ -81,66 +162,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/fifa-world-cup-2026-buy-match-game-tickets-online-1236245397/",
-    "source": "billboard",
-    "title": "Here’s Where to Get 2026 FIFA World Cup Final Tickets Online",
-    "url": "https://www.billboard.com/culture/product-recommendations/fifa-world-cup-2026-buy-match-game-tickets-online-1236245397/",
-    "publishedAt": "2026-07-16T21:59:39.000Z",
-    "summary": "The tournament ends with Spain vs. Argentina at New York New Jersey Stadium on Sunday (July 19) — buy match tickets here.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/music-catalog-investment-market-grows-investors-cash-out/",
-    "source": "billboard",
-    "title": "As the Music Catalog Investment Market Hits a High Note, Financial Investors Are Cashing Out",
-    "url": "https://www.billboard.com/pro/music-catalog-investment-market-grows-investors-cash-out/",
-    "publishedAt": "2026-07-16T21:06:31.000Z",
-    "summary": "Iconoclast, Anthem and Crescendo are among the music rights catalog companies in the final stages of sales.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/kacey-musgraves-stanley-cup-collection-shop-tumblers-online-1236296034/",
-    "source": "billboard",
-    "title": "Kacey Musgraves’ Rodeo-Inspired Stanley Collection Is Almost Sold Out: Here’s What’s Still Available",
-    "url": "https://www.billboard.com/culture/product-recommendations/kacey-musgraves-stanley-cup-collection-shop-tumblers-online-1236296034/",
-    "publishedAt": "2026-07-16T20:57:40.000Z",
-    "summary": "The 'Dry Spell' singer's collaboration with Stanley includes three drinkware items for humans and one for pets.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/pop/gracie-abrams-interview-daughter-from-hell-mews-sober-1236296116/",
-    "source": "billboard",
-    "title": "Gracie Abrams Shares Voice Notes From Upcoming ‘Daughter From Hell’ Tracks, Including One With an Alternate Melody",
-    "url": "https://www.billboard.com/music/pop/gracie-abrams-interview-daughter-from-hell-mews-sober-1236296116/",
-    "publishedAt": "2026-07-16T20:57:32.000Z",
-    "summary": "The pop singer-songwriter sat backstage with Billboard at her intimate Bowery Ballroom concert.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/country/ne-yo-highway-79-album-interview-1236296024/",
-    "source": "billboard",
-    "title": "Ne-Yo Takes a Country Road With ‘Highway 79’: ‘We Wanted to Make Music People Related To’",
-    "url": "https://www.billboard.com/music/country/ne-yo-highway-79-album-interview-1236296024/",
-    "publishedAt": "2026-07-16T20:57:22.000Z",
-    "summary": "Ne-Yo builds upon his previous country collaborations on his new country-inspired album.",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/riot-fest-william-shatner-demands/",
     "source": "loudwire",
     "title": "Riot Fest Drops Wild List of William Shatner's  Rider 'Demands' ",
     "url": "https://loudwire.com/riot-fest-william-shatner-demands/",
     "publishedAt": "2026-07-16T20:47:27.000Z",
     "summary": "Riot Fest claims actor William Shatner has made a long list of demands ahead of his performance on the final day of this year's festival. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/latin/rosalia-balletcore-sneakerinas-summer-fashion-trend-2026-1236294949/",
-    "source": "billboard",
-    "title": "Rosalía, Balletcore and Sneakerinas’ Latest Fashion Revival",
-    "url": "https://www.billboard.com/music/latin/rosalia-balletcore-sneakerinas-summer-fashion-trend-2026-1236294949/",
-    "publishedAt": "2026-07-16T20:46:54.000Z",
-    "summary": "Google searches in Spain for Adidas’ Taekwondo Mei jumped 252% over the last month, as balletcore-inspired footwear gains momentum.",
     "image": null
   },
   {
@@ -195,24 +222,6 @@
     "url": "https://www.rollingstone.com/music/music-lists/best-world-cup-songs-1235575434/",
     "publishedAt": "2026-07-16T19:44:14.000Z",
     "summary": "From Shakira to Los Ramblers, here are the top World Cup anthems, including a few gems that have gotten lost to time",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/carly-rae-jepsen-after-all-single-1235594657/",
-    "source": "rolling-stone",
-    "title": "Carly Rae Jepsen Pens an Ode to a New Chapter on Latest Song ‘After All’",
-    "url": "https://www.rollingstone.com/music/music-news/carly-rae-jepsen-after-all-single-1235594657/",
-    "publishedAt": "2026-07-16T19:21:33.000Z",
-    "summary": "It’s the second taste of Day and Night, her first double album arriving in September",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/jack-white-tour-2026-white-stripes-solo-1235593493/",
-    "source": "rolling-stone",
-    "title": "Seven Reasons Why You Should See Jack White’s Tour Right Now",
-    "url": "https://www.rollingstone.com/music/music-features/jack-white-tour-2026-white-stripes-solo-1235593493/",
-    "publishedAt": "2026-07-16T18:52:51.000Z",
-    "summary": "From catalog-spanning deep cuts to $20 tickets for students, he's playing some of the most thrilling shows of his career",
     "image": null
   },
   {
@@ -414,6 +423,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMikwFBVV95cUxOOGZIZFVZZ19nbWtRZE1jZ09Ba0hMSzdOWDJUOTItSHV5VlYxT1BSNS1YbTVHUDZjSDBmU3NpaUQ0aDYwZ3BzQTdyLWNsVFY4UmR4bTlqWTJaQnZyVmNHX2hfZC1lYmdLN1N0YUZwOXRUQTVTN2ZCTTN2NEJXNVkxUk1MMUJWX0duRHdxY2hacWJkd1U?oc=5",
+    "source": "nme",
+    "title": "Yard Act – ‘You’re Gonna Need A Little Music’ review: Leeds lads hone in on their truest form - NME",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOGZIZFVZZ19nbWtRZE1jZ09Ba0hMSzdOWDJUOTItSHV5VlYxT1BSNS1YbTVHUDZjSDBmU3NpaUQ0aDYwZ3BzQTdyLWNsVFY4UmR4bTlqWTJaQnZyVmNHX2hfZC1lYmdLN1N0YUZwOXRUQTVTN2ZCTTN2NEJXNVkxUk1MMUJWX0duRHdxY2hacWJkd1U?oc=5",
+    "publishedAt": "2026-07-16T08:00:25.000Z",
+    "summary": "Yard Act – ‘You’re Gonna Need A Little Music’ review: Leeds lads hone in on their truest form NME",
+    "image": null
+  },
+  {
     "id": "nme-https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaTl0bkZyb08zWmx1dUtZWllVV1RMLUQ4c1Jya0dSU1V0UFpmc19IYjk3UDVjUERadGZGSGRzX0dmeE9uVVdEUzZwTjZMOGJ4LVI3THlxc3FUVE5BOWM4R25OcUsxSjVYZ0VKazh4cFpqSy1lZjRxdjZxektULXpTcll4OE9KVjZsNmgzSHZTd2tYZkdHa0Z0Nm04cVFJRF8yMHUtR0RnMURGeENaUGJnVHQ5dUZtT2xKR2toODFmLTc1dnVHSXA1Rm1TekszdzN0R0xIaVc3RUlYMGJOcENPaUsybDFBT05h?oc=5",
     "source": "nme",
     "title": "System Of A Down's Daron Malakian blames Oasis for England's World Cup loss at second Tottenham Hotspur Stadium show - NME",
@@ -474,15 +492,6 @@
     "url": "https://loudwire.com/jim-root-slipknot-producer-album-update-2026/",
     "publishedAt": "2026-07-15T20:06:25.000Z",
     "summary": "Slipknot guitarist Jim Root speaks about their progress on a new album that will be the follow-up to 'The End. So Far' Continue reading…",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/slaughter-to-prevail-rev3rent-tour-backlash/",
-    "source": "loudwire",
-    "title": "Slaughter to Prevail Vocalist on Backlash Tour Opener Is Getting",
-    "url": "https://loudwire.com/slaughter-to-prevail-rev3rent-tour-backlash/",
-    "publishedAt": "2026-07-15T18:10:40.000Z",
-    "summary": "Alex Terrible comments on the backlash that Rev3rent have received for appearing as part of their upcoming 2026 tour bill. Continue reading…",
     "image": null
   },
   {
@@ -582,15 +591,6 @@
     "url": "https://louderthanwar.com/rebellion-the-biggest-punk-rock-festival-in-the-uk-festival-preview/",
     "publishedAt": "2026-07-15T11:39:45.000Z",
     "summary": "Celebrating 30 years of Rebellion – this incredible festival is just around the corner. Starting on Thursday 6th August through until Sunday – plus run-up shows from Monday 3rd August – Neil Crud delves a little into the lineup ahead of his trip to the seaside. August is an important date on the calendars of […] The post Rebellion: the biggest punk rock festival in the UK – Festival Preview appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdndjVWx6NzJlN242Sk5XNnpOZ3hKR1BqSVR0anF0WXJyRVlVYWZJRkszdi1TbDhMT0ZPVzI0VU1rdWFuWFZmNTIwTkxDM21OVWxVSVJ4ejBQeUQxVVBvLU5sOEJRZ3pPdzYwTjZjMWJRTGNrckhXeG1pTGhZTElMZ0ZGUDNLMV9Md2lxUVBlTTF3cUI0amNKOE1kUkVvQVJkZ2VSbEhTanowNHhaYk80SE1EMm8tTWV3RXp4MGUtdWtHelNqVXYwaE1VTmcxeElPVFlrNHhhQ0FjUkRCTzVGRA?oc=5",
-    "source": "nme",
-    "title": "Festival Republic's Melvin Benn on lessons learned from the Kanye West controversy and the future of Wireless - NME",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdndjVWx6NzJlN242Sk5XNnpOZ3hKR1BqSVR0anF0WXJyRVlVYWZJRkszdi1TbDhMT0ZPVzI0VU1rdWFuWFZmNTIwTkxDM21OVWxVSVJ4ejBQeUQxVVBvLU5sOEJRZ3pPdzYwTjZjMWJRTGNrckhXeG1pTGhZTElMZ0ZGUDNLMV9Md2lxUVBlTTF3cUI0amNKOE1kUkVvQVJkZ2VSbEhTanowNHhaYk80SE1EMm8tTWV3RXp4MGUtdWtHelNqVXYwaE1VTmcxeElPVFlrNHhhQ0FjUkRCTzVGRA?oc=5",
-    "publishedAt": "2026-07-15T11:20:16.000Z",
-    "summary": "Festival Republic's Melvin Benn on lessons learned from the Kanye West controversy and the future of Wireless NME",
     "image": null
   },
   {
