@@ -1,5 +1,23 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/music-news/bonnie-tyler-funeral-1236297290/",
+    "source": "billboard",
+    "title": "Bonnie Tyler Fans Invited to Line the Streets in Wales for Final Farewell",
+    "url": "https://www.billboard.com/music/music-news/bonnie-tyler-funeral-1236297290/",
+    "publishedAt": "2026-07-18T04:51:53.000Z",
+    "summary": "The late “Total Eclipse of the Heart” singer will be honored with a celebration of life in Swansea before a private family service.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/metallica-lars-ulrich-u2-sphere-residency-las-vegas-1235595521/",
+    "source": "rolling-stone",
+    "title": "How Metallica’s Lars Ulrich Was Inspired by U2’s Sphere Residency: ‘F-cking Awestruck’",
+    "url": "https://www.rollingstone.com/music/music-news/metallica-lars-ulrich-u2-sphere-residency-las-vegas-1235595521/",
+    "publishedAt": "2026-07-18T04:41:19.000Z",
+    "summary": "Metallica will kick off their Life Burns Faster residency at the Sphere Las Vegas in the fall",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/pro/apple-music-raises-streaming-subscription-prices/",
     "source": "billboard",
     "title": "Apple Music Raises Streaming Subscription Prices for First Time in Nearly Four Years",
@@ -117,15 +135,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/lil-wayne-joint-venture-podcast-craig-carton-1236296998/",
-    "source": "billboard",
-    "title": "Lil Wayne to Launch ‘The Joint Venture’ Podcast With Radio Host Craig Carton",
-    "url": "https://www.billboard.com/music/rb-hip-hop/lil-wayne-joint-venture-podcast-craig-carton-1236296998/",
-    "publishedAt": "2026-07-17T20:15:28.000Z",
-    "summary": "A live episode will be recorded this weekend at Fanatics Fest NYC.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/travis-scott-james-blake-ludwig-goransson-the-odyssey-song-1235595206/",
     "source": "rolling-stone",
     "title": "Travis Scott Teams With James Blake, Ludwig Goransson for ‘The Odyssey’ Closer ‘When I’m Home’",
@@ -231,15 +240,6 @@
     "url": "https://loudwire.com/system-of-a-down-change-title-toxicity-arto/",
     "publishedAt": "2026-07-17T16:19:41.000Z",
     "summary": "System of a Down have changed the title of the 'Toxicity' track 'Arto' to 'Der Voghormia' because it's an Armenian hymn. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/steve-lacy-oh-yeah-love-songwriting-1235594602/",
-    "source": "rolling-stone",
-    "title": "Steve Lacy Told Us How ‘Oh Yeah?’ Would Happen. We Just Had to Wait a Year",
-    "url": "https://www.rollingstone.com/music/music-features/steve-lacy-oh-yeah-love-songwriting-1235594602/",
-    "publishedAt": "2026-07-17T15:49:49.000Z",
-    "summary": "Across months of conversations in Los Angeles and Paris, Lacy explained how new love, creative doubt, and relentless rewriting transformed an album that was still finding itself",
     "image": null
   },
   {
