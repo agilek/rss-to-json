@@ -1,5 +1,32 @@
 [
   {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/yard-act-new-music-interview-1235595182/",
+    "source": "rolling-stone",
+    "title": "Yard Act: New Beginnings for the U.K. Rock Band",
+    "url": "https://www.rollingstone.com/music/music-features/yard-act-new-music-interview-1235595182/",
+    "publishedAt": "2026-07-18T14:00:00.000Z",
+    "summary": "The Leeds group's third album, You’re Gonna Need A Little Music, sees the tight-knit band coming to terms with fame and unveiling an all-new sound as their art continues to evolve",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/yes-peter-frampton-concert-riot-1976-1235592921/",
+    "source": "rolling-stone",
+    "title": "50 Years Ago Today: Yes and Peter Frampton Spark a Riot in San Diego",
+    "url": "https://www.rollingstone.com/music/music-features/yes-peter-frampton-concert-riot-1976-1235592921/",
+    "publishedAt": "2026-07-18T14:00:00.000Z",
+    "summary": "At the peak of Frampton Comes Alive! mania, so many people showed up to one of his stadium shows with Yes that the police arrived with riot gear",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/latin/shakira-tickets-ximena-sarinana-hispanic-heritage-belicofest-1236296712/",
+    "source": "billboard",
+    "title": "Shakira Gifts Brooklyn Show Tickets to World Cup Workers, Venezuela Relief Volunteers & More Uplifting Moments in Latin Music",
+    "url": "https://www.billboard.com/music/latin/shakira-tickets-ximena-sarinana-hispanic-heritage-belicofest-1236296712/",
+    "publishedAt": "2026-07-18T14:00:00.000Z",
+    "summary": "Plus, Ximena Sariñana lands a major career honor from the Hispanic Heritage Foundation and BelicoFest makes its L.A. debut.",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-features/world-cup-music-fifa-1235595591/",
     "source": "rolling-stone",
     "title": "What Makes the World Cup Hit Different? Ask the Music Industry",
@@ -51,6 +78,15 @@
     "url": "https://www.billboard.com/music/concerts/spilt-milk-festival-confirms-2026-return-1236297293/",
     "publishedAt": "2026-07-18T08:11:01.000Z",
     "summary": "Last year's lineup was headlined by Kendrick Lamar and featured Doechii, Dominic Fike, Sara Landry, ScHoolboy Q, sombr, and more.",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWnpKSlViOF8tUEpjdml2OGVQMTZRcmN4VWZ2QnNBNURCX0ROUjU0TUxkWk4yMkVJS19XUWcxUDFxeFJnOWEyTnVoN1U2cXI0MTk1c0RQUWk3TFB5UEJLVWRJOElJd19qTnBXckNiSlRQZmxnS2lrUUlDVF9XRWJOczB0dFdNdkxKOHdlUzR0NC1NZlFKc2c4bk9xMkZlZmpGUjBTSzZGd0MwOW1rMGFnZkxIdHV2cDh6M0k0TzlPWVhxTjN0LUg1ekxnSktKLXdYY29oQk45cjUyQUNXaWVB?oc=5",
+    "source": "nme",
+    "title": "Bonnie Tyler funeral plans announced, with fans invited to line the streets of Swansea to pay their respects - NME",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWnpKSlViOF8tUEpjdml2OGVQMTZRcmN4VWZ2QnNBNURCX0ROUjU0TUxkWk4yMkVJS19XUWcxUDFxeFJnOWEyTnVoN1U2cXI0MTk1c0RQUWk3TFB5UEJLVWRJOElJd19qTnBXckNiSlRQZmxnS2lrUUlDVF9XRWJOczB0dFdNdkxKOHdlUzR0NC1NZlFKc2c4bk9xMkZlZmpGUjBTSzZGd0MwOW1rMGFnZkxIdHV2cDh6M0k0TzlPWVhxTjN0LUg1ekxnSktKLXdYY29oQk45cjUyQUNXaWVB?oc=5",
+    "publishedAt": "2026-07-18T07:30:27.000Z",
+    "summary": "Bonnie Tyler funeral plans announced, with fans invited to line the streets of Swansea to pay their respects NME",
     "image": null
   },
   {
@@ -171,15 +207,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/best-new-music-poll-gracie-abrams-buju-banton-steve-lacy-1236296976/",
-    "source": "billboard",
-    "title": "Gracie Abrams, Rick Ross, Steve Lacy & More: Which Is Your Favorite New Music Release This Week? Vote!",
-    "url": "https://www.billboard.com/music/music-news/best-new-music-poll-gracie-abrams-buju-banton-steve-lacy-1236296976/",
-    "publishedAt": "2026-07-17T20:45:11.000Z",
-    "summary": "There are also new releases from Buju Banton, Carly Rae Jepsen, Syd and others.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/travis-scott-james-blake-ludwig-goransson-the-odyssey-song-1235595206/",
     "source": "rolling-stone",
     "title": "Travis Scott Teams With James Blake, Ludwig Goransson for ‘The Odyssey’ Closer ‘When I’m Home’",
@@ -240,24 +267,6 @@
     "url": "https://louderthanwar.com/fantastic-negrito-new-live-album-and-interview/",
     "publishedAt": "2026-07-17T17:44:03.000Z",
     "summary": "For more than a decade Fantastic Negrito has been disproving rumours that the blues, along with vintage soul and reggae, is dying a death in the 21st century. Tim Cooper caught up with Mr Negrito – Xavier to his friends – to talk to the “self-produced, self-managed, self-financed, self-determined” musician about his new album, the […] The post Fantastic Negrito – New Live Album And Interview appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/mariah-carey-daydream-30th-anniversary-edition-1235595110/",
-    "source": "rolling-stone",
-    "title": "Mariah Carey Honors ‘Daydream’ With Unreleased Songs, ‘Private Writing Sessions’",
-    "url": "https://www.rollingstone.com/music/music-news/mariah-carey-daydream-30th-anniversary-edition-1235595110/",
-    "publishedAt": "2026-07-17T17:31:37.000Z",
-    "summary": "The superstar is celebrating her seminal album with an extended version, including rare demos, and remixes",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/gracie-abrams-steve-lacy-beabadoobee-songs-you-need-to-know-1235595178/",
-    "source": "rolling-stone",
-    "title": "Gracie Abrams, Steve Lacy, Beabadoobee, and All the Songs You Need to Know This Week",
-    "url": "https://www.rollingstone.com/music/music-features/gracie-abrams-steve-lacy-beabadoobee-songs-you-need-to-know-1235595178/",
-    "publishedAt": "2026-07-17T17:09:36.000Z",
-    "summary": "Looking for the week’s best new music? Check out our Songs You Need to Know playlist",
     "image": null
   },
   {
@@ -510,15 +519,6 @@
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM0c3ZEE4UFV6ckVrQzRaallQTGlZb0Ryd0ZQTkxBcXhEc251M0FGVzFoVTJPbUpQRmlGYkVMTnYtcXA5aFlWcE5CU19jZ3VwZFNKeUlUam02czVpUWpIX1ItQUFhS1E3ajJUTU5qU2RpaGhMcWQ4eUV4d0txanhGeWl2UGU1ZWJvVGpXRXBCZlFseGdTYm5HUk9FcWlNaW1Yb3BleFNZMGdmUQ?oc=5",
     "publishedAt": "2026-07-16T15:00:36.000Z",
     "summary": "Bob Dylan announces 2026 UK tour – including five-night London residency NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMVFubF82MERlNTM0N1I3QmhxZVVkYlJrQ3BnaWduZERUelR0cTRud2h6UVBtbGN6YlVaelh0dXFHNjh2QmNUd2FBVnd4RTVjQ3RSUGdEQmYyQWFuMlBhMXczVnFOaDZWeElYVzR5dEgzOHB5MTMxSU9ndGp1RUpXWWZpOVN6MWZMRFNVMVBZVTVNQmlLNUtfdDYtSXhFdzkwUVVnUWZ4OGc4Vzg?oc=5",
-    "source": "nme",
-    "title": "Queens Of The Stone Age’s Josh Homme to appear on ‘Celebrity Gogglebox’ - NME",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMVFubF82MERlNTM0N1I3QmhxZVVkYlJrQ3BnaWduZERUelR0cTRud2h6UVBtbGN6YlVaelh0dXFHNjh2QmNUd2FBVnd4RTVjQ3RSUGdEQmYyQWFuMlBhMXczVnFOaDZWeElYVzR5dEgzOHB5MTMxSU9ndGp1RUpXWWZpOVN6MWZMRFNVMVBZVTVNQmlLNUtfdDYtSXhFdzkwUVVnUWZ4OGc4Vzg?oc=5",
-    "publishedAt": "2026-07-16T14:35:57.000Z",
-    "summary": "Queens Of The Stone Age’s Josh Homme to appear on ‘Celebrity Gogglebox’ NME",
     "image": null
   },
   {
