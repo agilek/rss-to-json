@@ -1,5 +1,32 @@
 [
   {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/l7-jennifer-finch-dead-obituary-1235595523/",
+    "source": "rolling-stone",
+    "title": "Jennifer Finch, L7 Bassist, Dead at 59",
+    "url": "https://www.rollingstone.com/music/music-news/l7-jennifer-finch-dead-obituary-1235595523/",
+    "publishedAt": "2026-07-19T02:48:12.000Z",
+    "summary": "Rocker was diagnosed with aggressive form of brain cancer",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/noah-kahan-nyc-concert-canceled-weather-1236297438/",
+    "source": "billboard",
+    "title": "Noah Kahan Concert Among Shows Canceled in New York Due to Inclement Weather on Saturday",
+    "url": "https://www.billboard.com/music/music-news/noah-kahan-nyc-concert-canceled-weather-1236297438/",
+    "publishedAt": "2026-07-19T00:10:40.000Z",
+    "summary": "Performances at outdoor pavilions Citi Field and Forest Hills Stadium in Queens were called off just ahead of showtime Saturday (July 18).",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/lifestyle/matty-healy-gabbriette-wedding-rehearsal-video-1236297411/",
+    "source": "billboard",
+    "title": "Matty Healy & Gabbriette’s Wedding Rehearsal, With a Cute Dip-Kiss, Spotted in Paparazzi Video",
+    "url": "https://www.billboard.com/culture/lifestyle/matty-healy-gabbriette-wedding-rehearsal-video-1236297411/",
+    "publishedAt": "2026-07-18T22:55:25.000Z",
+    "summary": "The 1975 star and his fiancée said the wedding celebration was just getting started in a clip ahead of the big day.",
+    "image": null
+  },
+  {
     "id": "louder-than-war-https://louderthanwar.com/rum-lad-hold-three-times-and-cancel-album-review/",
     "source": "louder-than-war",
     "title": "Rum Lad: Hold Three Times And Cancel – Album Review",
@@ -63,6 +90,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMi2gFBVV95cUxNR3I3SkhpTjZ5bzQza25VZUFOdVNvNG1NbXJ4cU9SSjRXVTB0eFFSUXI5b3VWdDVaR3lVV215WUVHRmNmY2RWNzJYVkt6MzNRaExrMnFzSmlOQjRhcE8tWE41M2VVRWUtNzZSR214Mlc2RkIyb0FZN1pfWVRidWd1R0RYZXlaQ1cxd1IxTF9EaHJoUUVPcVJVRVNNR0dDVXNzcjZsc192UmNmd3JhNTJQNlp0NzZpVzU5a2F4dnJMV1FsNEZCUjhQWExTQi1vdXlVSHJfdUZBTWo1dw?oc=5",
+    "source": "nme",
+    "title": "Poppy misses Upheaval Festival set due to “hazardous” wildfire smoke as band perform without her in masks - NME",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNR3I3SkhpTjZ5bzQza25VZUFOdVNvNG1NbXJ4cU9SSjRXVTB0eFFSUXI5b3VWdDVaR3lVV215WUVHRmNmY2RWNzJYVkt6MzNRaExrMnFzSmlOQjRhcE8tWE41M2VVRWUtNzZSR214Mlc2RkIyb0FZN1pfWVRidWd1R0RYZXlaQ1cxd1IxTF9EaHJoUUVPcVJVRVNNR0dDVXNzcjZsc192UmNmd3JhNTJQNlp0NzZpVzU5a2F4dnJMV1FsNEZCUjhQWExTQi1vdXlVSHJfdUZBTWo1dw?oc=5",
+    "publishedAt": "2026-07-18T16:23:43.000Z",
+    "summary": "Poppy misses Upheaval Festival set due to “hazardous” wildfire smoke as band perform without her in masks NME",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/culture/product-recommendations/obsession-streaming-release-watch-movie-online-1236297286/",
     "source": "billboard",
     "title": "‘Obsession’: Here’s Where to Stream the Horror Romance Movie Online",
@@ -117,21 +153,21 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/yes-peter-frampton-concert-riot-1976-1235592921/",
-    "source": "rolling-stone",
-    "title": "50 Years Ago Today: Yes and Peter Frampton Spark a Riot in San Diego",
-    "url": "https://www.rollingstone.com/music/music-features/yes-peter-frampton-concert-riot-1976-1235592921/",
-    "publishedAt": "2026-07-18T14:00:00.000Z",
-    "summary": "At the peak of Frampton Comes Alive! mania, so many people showed up to one of his stadium shows with Yes that the police arrived with riot gear",
-    "image": null
-  },
-  {
     "id": "billboard-https://www.billboard.com/music/latin/shakira-tickets-ximena-sarinana-hispanic-heritage-belicofest-1236296712/",
     "source": "billboard",
     "title": "Shakira Gifts Brooklyn Show Tickets to World Cup Workers, Venezuela Relief Volunteers & More Uplifting Moments in Latin Music",
     "url": "https://www.billboard.com/music/latin/shakira-tickets-ximena-sarinana-hispanic-heritage-belicofest-1236296712/",
     "publishedAt": "2026-07-18T14:00:00.000Z",
     "summary": "Plus, Ximena Sariñana lands a major career honor from the Hispanic Heritage Foundation and BelicoFest makes its L.A. debut.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/yes-peter-frampton-concert-riot-1976-1235592921/",
+    "source": "rolling-stone",
+    "title": "50 Years Ago Today: Yes and Peter Frampton Spark a Riot in San Diego",
+    "url": "https://www.rollingstone.com/music/music-features/yes-peter-frampton-concert-riot-1976-1235592921/",
+    "publishedAt": "2026-07-18T14:00:00.000Z",
+    "summary": "At the peak of Frampton Comes Alive! mania, so many people showed up to one of his stadium shows with Yes that the police arrived with riot gear",
     "image": null
   },
   {
@@ -207,30 +243,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/bonnie-tyler-funeral-1236297290/",
-    "source": "billboard",
-    "title": "Bonnie Tyler Fans Invited to Line the Streets in Wales for Final Farewell",
-    "url": "https://www.billboard.com/music/music-news/bonnie-tyler-funeral-1236297290/",
-    "publishedAt": "2026-07-18T04:51:53.000Z",
-    "summary": "The late “Total Eclipse of the Heart” singer will be honored with a celebration of life in Swansea before a private family service.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/metallica-lars-ulrich-u2-sphere-residency-las-vegas-1235595521/",
     "source": "rolling-stone",
     "title": "How Metallica’s Lars Ulrich Was Inspired by U2’s Sphere Residency: ‘F-cking Awestruck’",
     "url": "https://www.rollingstone.com/music/music-news/metallica-lars-ulrich-u2-sphere-residency-las-vegas-1235595521/",
     "publishedAt": "2026-07-18T04:41:19.000Z",
     "summary": "Metallica will kick off their Life Burns Faster residency at the Sphere Las Vegas in the fall",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/apple-music-raises-streaming-subscription-prices/",
-    "source": "billboard",
-    "title": "Apple Music Raises Streaming Subscription Prices for First Time in Nearly Four Years",
-    "url": "https://www.billboard.com/pro/apple-music-raises-streaming-subscription-prices/",
-    "publishedAt": "2026-07-18T01:47:59.000Z",
-    "summary": "The service last raised prices in October 2022.",
     "image": null
   },
   {
@@ -258,15 +276,6 @@
     "url": "https://www.rollingstone.com/music/music-news/jelly-roll-bunnie-xo-finalize-divorce-1235595450/",
     "publishedAt": "2026-07-17T22:53:55.000Z",
     "summary": "The two split after 10 years of marriage",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/ozzy-osbournebirmingham-honor-singer-anniversary-death-1235595424/",
-    "source": "rolling-stone",
-    "title": "Ozzy Osbourne’s Hometown of Birmingham to Honor Singer on Anniversary of Death",
-    "url": "https://www.rollingstone.com/music/music-news/ozzy-osbournebirmingham-honor-singer-anniversary-death-1235595424/",
-    "publishedAt": "2026-07-17T20:59:02.000Z",
-    "summary": "Ozzy Day on July 22 will celebrate “the life, legacy and Birmingham roots of the Prince of Darkness,” city council says",
     "image": null
   },
   {
@@ -456,15 +465,6 @@
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQWt3MEY2UnhFc1FjVmNxZDhtYWl6UWk5TW9ic3ZPNHI2c1hMcFdMYkFhVkJXaUExNFEzNUdQbU9xbk8xQnFGRWFvd1A3ZXpiaC1NUWdGR2FjUUZrU2F1bG5RUTZTcERWcTdVUGE0UVBTaE84RTEyTkp0QlU1NE1jN3JKbEplOS1VVGN1SFI5NXItdjdxTzFNYS1Fb05OLUp3Q2JDNFAtal9INnJuU3FDSnEtOXFfdTJSdll6ZmdqWWVEdw?oc=5",
     "publishedAt": "2026-07-17T10:03:28.000Z",
     "summary": "Gracie Abrams – ‘Daughter From Hell’ review: a dramatic reckoning with her younger self NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMidkFVX3lxTE9GUUxUQ1VsMzZEMEFiWldHbE01MWhTOVBnajA3UG00ZmxVT3lJbzBzWG5iR1l6VVZ0TDBfTzJOa0g2NmR4TUxlUXhaLUx2YmozV24zOHhaR3V5RV9OSlJ6UEFOTThlRjF3aWpKOXU3ZzhmNkhfUlE?oc=5",
-    "source": "nme",
-    "title": "Steve Lacy – ‘Oh Yeah?’ review: a radical assessment of himself and the zeitgeist - NME",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GUUxUQ1VsMzZEMEFiWldHbE01MWhTOVBnajA3UG00ZmxVT3lJbzBzWG5iR1l6VVZ0TDBfTzJOa0g2NmR4TUxlUXhaLUx2YmozV24zOHhaR3V5RV9OSlJ6UEFOTThlRjF3aWpKOXU3ZzhmNkhfUlE?oc=5",
-    "publishedAt": "2026-07-17T09:30:24.000Z",
-    "summary": "Steve Lacy – ‘Oh Yeah?’ review: a radical assessment of himself and the zeitgeist NME",
     "image": null
   },
   {
@@ -693,6 +693,15 @@
     "image": null
   },
   {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMipgFBVV95cUxPZnZMSDFKRWtWNVdCSnI4LVIyV0l4QzkyanFyeC1Vckdxd2JDZEpKcGlvT05PVDJCSTlJeW1uR0ltbUdsdkpvdmZKeE1PTEZUeG50aXJKSUw5MU1yeUZXWFVjYWt5cDRzTVhwajNoUll1QXI2RnVkalpOSFlKek1rZEVrQVBYRWNmdmlZWHJZUHJRc0ZIMV9YakpzbGxjYkRxX3Q2V3JR?oc=5",
+    "source": "kerrang",
+    "title": "Bury Tomorrow launch new independent era under Dea†h Records with new single Sx - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZnZMSDFKRWtWNVdCSnI4LVIyV0l4QzkyanFyeC1Vckdxd2JDZEpKcGlvT05PVDJCSTlJeW1uR0ltbUdsdkpvdmZKeE1PTEZUeG50aXJKSUw5MU1yeUZXWFVjYWt5cDRzTVhwajNoUll1QXI2RnVkalpOSFlKek1rZEVrQVBYRWNmdmlZWHJZUHJRc0ZIMV9YakpzbGxjYkRxX3Q2V3JR?oc=5",
+    "publishedAt": "2026-07-15T10:35:00.000Z",
+    "summary": "Bury Tomorrow launch new independent era under Dea†h Records with new single Sx Kerrang!",
+    "image": null
+  },
+  {
     "id": "uncut-https://www.uncut.co.uk/news/watch-a-video-for-queens-of-the-stone-age-new-single-easy-street-155446/",
     "source": "uncut",
     "title": "Watch a video for Queens Of The Stone Age’s new single, “Easy Street”",
@@ -708,15 +717,6 @@
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeDZ5UDUzN1FtUDA0UVpubnNJVjR6SExmekFoSmR3Vk1JRWpyVmpzbzlrR281NVlrWFJVSGo0Um5PN0ZkQm1HR3hhM0VOWWkxcWJJQWZoam5UVkh1amwxVG9FSFlzaHpta0dGelZWNk5SZnJYaFB5REVzN2Y1aENYUklqZjVFSnlOY1ZxQVhLZFZjSlJNSjVENV9ZSVE2NUw3b0ZCa2hZZzQzS2ZxN3c?oc=5",
     "publishedAt": "2026-07-14T11:15:00.000Z",
     "summary": "“The sound of life at its best”: What happened when System Of A Down brought Toxicity to Tottenham Kerrang!",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMinAFBVV95cUxNVHhGWHdYWklrTFZuVkhmallCbDlpTlVPX1MzM09xT25pQU1HVU1JU0xxem54YXNaNHZHRFp6ajBkM2tZeHU1NFpDcDFzdU94YmhlbUV6cVA3ejNDV2J3TGJtZDlFRVNzOWRNOU9SSUhJVElXZkc2elF5UVVfMmZ1ajdwQ3NVZWFLM3ExMlQzeEEwbUVkVWJwR0tEcnc?oc=5",
-    "source": "kerrang",
-    "title": "Death metal legend Mike Browning has died, aged 62 - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVHhGWHdYWklrTFZuVkhmallCbDlpTlVPX1MzM09xT25pQU1HVU1JU0xxem54YXNaNHZHRFp6ajBkM2tZeHU1NFpDcDFzdU94YmhlbUV6cVA3ejNDV2J3TGJtZDlFRVNzOWRNOU9SSUhJVElXZkc2elF5UVVfMmZ1ajdwQ3NVZWFLM3ExMlQzeEEwbUVkVWJwR0tEcnc?oc=5",
-    "publishedAt": "2026-07-14T09:33:00.000Z",
-    "summary": "Death metal legend Mike Browning has died, aged 62 Kerrang!",
     "image": null
   }
 ]
