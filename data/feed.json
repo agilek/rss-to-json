@@ -1,5 +1,32 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/music-news/liam-gallagher-fifa-world-cup-halftime-show-1236297975/",
+    "source": "billboard",
+    "title": "Liam Gallagher Says FIFA’s World Cup Halftime Show Was ‘Like a Bad Trip’",
+    "url": "https://www.billboard.com/music/music-news/liam-gallagher-fifa-world-cup-halftime-show-1236297975/",
+    "publishedAt": "2026-07-20T06:36:27.000Z",
+    "summary": "The star-studded show marked the first halftime performance staged during a FIFA World Cup final.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/gracie-abrams-daughter-from-hell-bonus-tracks-1235595848/",
+    "source": "rolling-stone",
+    "title": "Gracie Abrams Shares Two Bonus ‘Daughter From Hell’ Tracks",
+    "url": "https://www.rollingstone.com/music/music-news/gracie-abrams-daughter-from-hell-bonus-tracks-1235595848/",
+    "publishedAt": "2026-07-20T06:10:14.000Z",
+    "summary": "The musician's third album, produced by Aaron Dessner, dropped last week",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/concerts/fisher-2026-melbourne-cup-carnival-closing-party-1236297940/",
+    "source": "billboard",
+    "title": "FISHER to Headline 2026 Melbourne Cup Carnival Closing Party",
+    "url": "https://www.billboard.com/music/concerts/fisher-2026-melbourne-cup-carnival-closing-party-1236297940/",
+    "publishedAt": "2026-07-20T04:19:23.000Z",
+    "summary": "The Gold Coast-born artist has become one of Australia’s most recognizable dance music exports.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/lists/world-cup-final-2026-things-you-missed-tv/",
     "source": "billboard",
     "title": "World Cup Final 2026: 8 Things You May Have Missed On TV",
@@ -81,24 +108,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/lists/2026-world-cup-halftime-show-shakira-madonna-bieber-bts/",
-    "source": "billboard",
-    "title": "Shakira, Madonna, BTS, Justin Bieber & More Take Over FIFA’s First-Ever World Cup Final Halftime Show",
-    "url": "https://www.billboard.com/lists/2026-world-cup-halftime-show-shakira-madonna-bieber-bts/",
-    "publishedAt": "2026-07-19T21:07:46.000Z",
-    "summary": "Burna Boy, Gustavo Dudamel, Chris Martin & the PS22 Chorus joined a tightly packed 11-minute spectacle in New Jersey.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/pop/bts-2026-world-cup-final-halftime-show-dynamite-performance-1236297653/",
-    "source": "billboard",
-    "title": "BTS Light Up 2026 FIFA World Cup Final Halftime Show With Dynamic ‘Dynamite’ Performance",
-    "url": "https://www.billboard.com/music/pop/bts-2026-world-cup-final-halftime-show-dynamite-performance-1236297653/",
-    "publishedAt": "2026-07-19T20:48:52.000Z",
-    "summary": "The South Korean septet also joined all the halftime performers for \"We Dance,\" an original song written by Coldplay for the show.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/justin-bieber-bts-shakira-madonna-performance-world-cup-1235594935/",
     "source": "rolling-stone",
     "title": "Justin Bieber, Shakira, Madonna, BTS Deliver Electric Halftime Set at World Cup Final",
@@ -139,6 +148,15 @@
     "source": "kerrang",
     "title": "Film review: The Odyssey - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rNV95aWdMTU9WTUVZWUJfSVRmVnR1UEh4dDRIai1QamRJaHFwUldKSENUXzUySVMwVkMyZ3ZkdW1oNDE4cVNqV0pPWHJHVmNZeW1NelJrdWpDclE?oc=5",
+    "publishedAt": "2026-07-19T16:13:00.000Z",
+    "summary": "Film review: The Odyssey Kerrang!",
+    "image": null
+  },
+  {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMingFBVV95cUxPalBnNkJCdUh4ZXcxbGR5NnZya2hjNURkSmJGdzlBMmc4aXM0cjNQWWRYX2liYXpKMThSVmM0RlYtNDNlZm5OYWNETjRQbW9TYXB0dXcxWVFXOWhzb3hPNmlYS1d0bWthekladWxFN091czkyOURHeFdfeFJ3dENrbWs3eTBHalQ2bjQ5b2NZVDRGZEdLYjlUMmFHamF4QQ?oc=5",
+    "source": "kerrang",
+    "title": "Film review: The Odyssey - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPalBnNkJCdUh4ZXcxbGR5NnZya2hjNURkSmJGdzlBMmc4aXM0cjNQWWRYX2liYXpKMThSVmM0RlYtNDNlZm5OYWNETjRQbW9TYXB0dXcxWVFXOWhzb3hPNmlYS1d0bWthekladWxFN091czkyOURHeFdfeFJ3dENrbWs3eTBHalQ2bjQ5b2NZVDRGZEdLYjlUMmFHamF4QQ?oc=5",
     "publishedAt": "2026-07-19T16:13:00.000Z",
     "summary": "Film review: The Odyssey Kerrang!",
     "image": null
@@ -279,6 +297,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMirgFBVV95cUxPeVNnem5KSDBoclZLY0ZGTEViVlBjbXp1X1ljVTFST3NVMHh5WTc2Ykw2eDBMQlBFQ3ItcHFPYmEtME1fT3FsdlBtaTM5Z1hnR1NqTGFMRTdOdjJLZWJJdjVFNm9Ra2RMaUVMWjc2VGtJa1pXX25yNlA1Tl9sOGJheEd6dktpTkhydEhfLWdjVmRweFFqaDJvdHphRmtUYWtKSFhrRS1BcDFiaEhVZ1E?oc=5",
+    "source": "nme",
+    "title": "Growth in CD sales outpaces vinyl in the US for the first half of 2026 - NME",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeVNnem5KSDBoclZLY0ZGTEViVlBjbXp1X1ljVTFST3NVMHh5WTc2Ykw2eDBMQlBFQ3ItcHFPYmEtME1fT3FsdlBtaTM5Z1hnR1NqTGFMRTdOdjJLZWJJdjVFNm9Ra2RMaUVMWjc2VGtJa1pXX25yNlA1Tl9sOGJheEd6dktpTkhydEhfLWdjVmRweFFqaDJvdHphRmtUYWtKSFhrRS1BcDFiaEhVZ1E?oc=5",
+    "publishedAt": "2026-07-18T21:28:11.000Z",
+    "summary": "Growth in CD sales outpaces vinyl in the US for the first half of 2026 NME",
+    "image": null
+  },
+  {
     "id": "louder-than-war-https://louderthanwar.com/rum-lad-hold-three-times-and-cancel-album-review/",
     "source": "louder-than-war",
     "title": "Rum Lad: Hold Three Times And Cancel – Album Review",
@@ -351,15 +378,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/yard-act-new-music-interview-1235595182/",
-    "source": "rolling-stone",
-    "title": "Yard Act: New Beginnings for the U.K. Rock Band",
-    "url": "https://www.rollingstone.com/music/music-features/yard-act-new-music-interview-1235595182/",
-    "publishedAt": "2026-07-18T14:00:00.000Z",
-    "summary": "The Leeds group's third album, You’re Gonna Need A Little Music, sees the tight-knit band coming to terms with fame and unveiling an all-new sound as their art continues to evolve",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/essential-2000s-emo-albums-vinyl/",
     "source": "loudwire",
     "title": "17 Essential Early 2000s Emo Albums You Should Own on Vinyl",
@@ -393,15 +411,6 @@
     "url": "https://www.uncut.co.uk/features/how-phoebe-bridgers-became-the-voice-of-a-generation-155468/",
     "publishedAt": "2026-07-18T10:00:00.000Z",
     "summary": "The feted singer-songwriter combines Laurel Canyon classicism with alt.folk intensity and a spot of witchcraft",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMisgFBVV95cUxPYVZHMzZQMjRmcEd0NjRmbXNUMG9SMy1jQlc0QUJZT2dIb2NoUDVKZU1zOVQyeERaMW9HZXVXUkIyZFpWRHpENFNJNXVyZmI3aW0tV1BfcTVKNXozSWhtMEpTUnFCSExTcUxHR3Z0bnFpUGVfVWNLNVNydzBoYTdnd3lmblMzY2MyWEs0MjRwV3FZMWFaeFhhUVRaZWppY3QyaTczZV9KSUNhMVpvVXdFcTBR?oc=5",
-    "source": "nme",
-    "title": "Lena Headey blasts \"weird protection\" extended to \"predatory men\" in Hollywood - NME",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYVZHMzZQMjRmcEd0NjRmbXNUMG9SMy1jQlc0QUJZT2dIb2NoUDVKZU1zOVQyeERaMW9HZXVXUkIyZFpWRHpENFNJNXVyZmI3aW0tV1BfcTVKNXozSWhtMEpTUnFCSExTcUxHR3Z0bnFpUGVfVWNLNVNydzBoYTdnd3lmblMzY2MyWEs0MjRwV3FZMWFaeFhhUVRaZWppY3QyaTczZV9KSUNhMVpvVXdFcTBR?oc=5",
-    "publishedAt": "2026-07-18T09:09:56.000Z",
-    "summary": "Lena Headey blasts \"weird protection\" extended to \"predatory men\" in Hollywood NME",
     "image": null
   },
   {
@@ -690,15 +699,6 @@
     "url": "https://www.uncut.co.uk/features/introducing-the-new-uncut-jack-white-a-third-man-records-cd-alabama-shakes-the-fall-kevin-ayers-lambchop-and-more-155420/",
     "publishedAt": "2026-07-15T11:14:37.000Z",
     "summary": "Plus Family, Wilco & Billy Bragg, Carly Simon, The Triffids, John Carpenter plus, plus, plus!",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMibEFVX3lxTE9hbUxpbV9KYWRyR2pNeVNUS3V1MUluOVNjemwwbmRoSkFfd3NsanN5bkdVa3AwaDdDTGNnUDdBbFJKYVZ6TngxaXpZMllpdHMzUjhjcFY1ZVcyZXgzaVhPbkJEbXVtSy1FS3dOSQ?oc=5",
-    "source": "kerrang",
-    "title": "Album Review: Protest The Hero – Within - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hbUxpbV9KYWRyR2pNeVNUS3V1MUluOVNjemwwbmRoSkFfd3NsanN5bkdVa3AwaDdDTGNnUDdBbFJKYVZ6TngxaXpZMllpdHMzUjhjcFY1ZVcyZXgzaVhPbkJEbXVtSy1FS3dOSQ?oc=5",
-    "publishedAt": "2026-07-15T10:53:00.000Z",
-    "summary": "Album Review: Protest The Hero – Within Kerrang!",
     "image": null
   },
   {
