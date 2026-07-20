@@ -1,5 +1,176 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/lists/hot-100-number-1-songs-on-top-longest/",
+    "source": "billboard",
+    "title": "The Longest-Leading Billboard Hot 100 No. 1s",
+    "url": "https://www.billboard.com/lists/hot-100-number-1-songs-on-top-longest/",
+    "publishedAt": "2026-07-20T18:00:54.000Z",
+    "summary": "A select few hits have led the chart for at least 10 weeks.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/country/darius-rucker-touring-hootie-blowfish-1236298213/",
+    "source": "billboard",
+    "title": "Darius Rucker Says He’s Considering Retiring From Touring in Two Years",
+    "url": "https://www.billboard.com/music/country/darius-rucker-touring-hootie-blowfish-1236298213/",
+    "publishedAt": "2026-07-20T17:54:19.000Z",
+    "summary": "During an appearance on The Dan Patrick Show, Rucker noted he has definite ideas for what a final concert would look like.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/ariana-grande-be-alright-tech-difficulty-nyc-show-1236298204/",
+    "source": "billboard",
+    "title": "Ariana Grande Sings Decade-Old Hit for the First Time in Years During Tech Difficulty at NYC Show",
+    "url": "https://www.billboard.com/music/music-news/ariana-grande-be-alright-tech-difficulty-nyc-show-1236298204/",
+    "publishedAt": "2026-07-20T17:19:01.000Z",
+    "summary": "\"I love things like this, because it means we get to spend more time together,\" she said as her crew fixed the issue.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/beastie-boys-mike-d-adds-tour-dates-in-north-america-and-europe/",
+    "source": "pitchfork",
+    "title": "Beastie Boys’ Mike D Adds Tour Dates in North America and Europe",
+    "url": "https://pitchfork.com/story/beastie-boys-mike-d-adds-tour-dates-in-north-america-and-europe/",
+    "publishedAt": "2026-07-20T17:09:36.000Z",
+    "summary": "His Mike D 5D band heads out on its first major trek in late summer",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/steve-lacy-beck-and-more-this-weeks-pitchfork-selects-playlist/",
+    "source": "pitchfork",
+    "title": "Steve Lacy, Beck, and More: This Week’s Pitchfork Selects Playlist",
+    "url": "https://pitchfork.com/story/steve-lacy-beck-and-more-this-weeks-pitchfork-selects-playlist/",
+    "publishedAt": "2026-07-20T17:04:35.000Z",
+    "summary": "Our weekly playlist highlights songs that our writers, editors, and contributors are listening to on repeat",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "source": "billboard",
+    "title": "Billboard’s Music Industry Events Calendar",
+    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "publishedAt": "2026-07-20T17:04:00.000Z",
+    "summary": "A complete rundown of the most important events across the music business.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/anthrax-oral-history-graphic-novel-retail-cover/",
+    "source": "loudwire",
+    "title": "Exclusive - See Retail-Only Cover Art for Anthrax's Graphic Novel",
+    "url": "https://loudwire.com/anthrax-oral-history-graphic-novel-retail-cover/",
+    "publishedAt": "2026-07-20T17:00:13.000Z",
+    "summary": "Anthrax's entire history is told through 108 illustrated pages in 'NOT: The Illustrated Oral History of Anthrax.' Continue reading…",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rock/goose-dates-annual-goosemas-holiday-shows-1236298252/",
+    "source": "billboard",
+    "title": "Goose Announces Dates For 13th Annual Goosemas Holiday Shows",
+    "url": "https://www.billboard.com/music/rock/goose-dates-annual-goosemas-holiday-shows-1236298252/",
+    "publishedAt": "2026-07-20T16:56:46.000Z",
+    "summary": "This year's holiday celebration will take place on Dec. 11-12 at the historic Jim Whelan Boardwalk Hall in Atlantic City, N.J.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/ella-langley-choosin-texas-hot-100-number-one-14th-week/",
+    "source": "billboard",
+    "title": "Ella Langley’s ‘Choosin’ Texas’ Makes More History With 14th Week at No. 1 on Billboard Hot 100",
+    "url": "https://www.billboard.com/lists/ella-langley-choosin-texas-hot-100-number-one-14th-week/",
+    "publishedAt": "2026-07-20T16:52:31.000Z",
+    "summary": "Plus, Stella Lefty lands her first Hot 100 top 10 and Olivia Dean has the biggest song on radio.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/tedeschi-trucks-band-cancel-newport-susan-tedeschi-surgery-1235596006/",
+    "source": "rolling-stone",
+    "title": "Tedeschi Trucks Band Cancel Newport Appearance After Susan Tedeschi Needs Surgery",
+    "url": "https://www.rollingstone.com/music/music-country/tedeschi-trucks-band-cancel-newport-susan-tedeschi-surgery-1235596006/",
+    "publishedAt": "2026-07-20T16:51:53.000Z",
+    "summary": "The singer-guitarist says she \"had an appendix scare\" that will also require the group to miss their slot at this weekend's FloydFest in Virginia",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/madonna-trump-world-cup-rumor-1235595216/",
+    "source": "rolling-stone",
+    "title": "No, Madonna Was Not in Trump’s Suite at the World Cup Final",
+    "url": "https://www.rollingstone.com/music/music-news/madonna-trump-world-cup-rumor-1235595216/",
+    "publishedAt": "2026-07-20T16:32:07.000Z",
+    "summary": "A viral tweet claimed the pop icon watched the final from Donald Trump’s suite. The woman in the footage was clearly someone else",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/songer-british-rapper-new-album-what-if-i-say-no-1235595843/",
+    "source": "rolling-stone",
+    "title": "Meet Songer, the British Star Who Rhymes Over Britney Spears and Says He’s ‘Not a Rapper’",
+    "url": "https://www.rollingstone.com/music/music-features/songer-british-rapper-new-album-what-if-i-say-no-1235595843/",
+    "publishedAt": "2026-07-20T16:16:35.000Z",
+    "summary": "Songer is not from London, remains resolutely independent, and fills his albums with confessional bars about mental health. It's all working splendidly",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/nicki-minaj-wants-out-of-lawsuit-alleged-275k-concert-debt/",
+    "source": "billboard",
+    "title": "Nicki Minaj Wants Out of Lawsuit Over Alleged $275K Concert Debt: ‘Fanciful & Baseless’",
+    "url": "https://www.billboard.com/pro/nicki-minaj-wants-out-of-lawsuit-alleged-275k-concert-debt/",
+    "publishedAt": "2026-07-20T16:14:22.000Z",
+    "summary": "A concert production company says Minaj is refusing to pay back a big bill, but she now says she shouldn't have been named in the case at all.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/doc-blackpink-lisa-always-lalisa-world-premiere-toronto-fest-1236298190/",
+    "source": "billboard",
+    "title": "Documentary about BLACKPINK’s LISA, ‘Always Lalisa,’ to World Premiere at 2026 Toronto International Film Festival",
+    "url": "https://www.billboard.com/music/pop/doc-blackpink-lisa-always-lalisa-world-premiere-toronto-fest-1236298190/",
+    "publishedAt": "2026-07-20T16:10:33.000Z",
+    "summary": "The movie looks at the singer's massive breakout year, which included the 2026 FIFA World Cup opening ceremony and 2025 Coachella.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/john-coltrane-100-birthday-verve-label-group-jamie-krents/",
+    "source": "billboard",
+    "title": "John Coltrane’s Centennial: How Artists From Ariana Grande to Beastie Boys Have Been Inspired by the Jazz Pioneer",
+    "url": "https://www.billboard.com/pro/john-coltrane-100-birthday-verve-label-group-jamie-krents/",
+    "publishedAt": "2026-07-20T16:04:08.000Z",
+    "summary": "Verve Label Group president/CEO Jamie Krents on discovering new recordings and new audiences to celebrate the late legend at 100 years.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/noah-kahan-apologizes-canceled-show-1236298174/",
+    "source": "billboard",
+    "title": "Noah Kahan Gives Impassioned Apology to Fans Affected by Canceled Show: ‘I Don’t Expect Any Sympathy’",
+    "url": "https://www.billboard.com/music/music-news/noah-kahan-apologizes-canceled-show-1236298174/",
+    "publishedAt": "2026-07-20T16:03:32.000Z",
+    "summary": "\"I promise you we did everything we could,\" the singer said on stage in New York City.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/melissa-auf-der-maur-unveils-first-new-music-in-16-years/",
+    "source": "pitchfork",
+    "title": "Melissa Auf der Maur Unveils First New Music in 16 Years",
+    "url": "https://pitchfork.com/story/melissa-auf-der-maur-unveils-first-new-music-in-16-years/",
+    "publishedAt": "2026-07-20T16:02:36.000Z",
+    "summary": "On Bass Womb Room, several new compositions thread together an unvaulted set of ’90s demos",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/melissa-auf-der-maur-new-music-bass-womb-room-1235595950/",
+    "source": "rolling-stone",
+    "title": "Melissa Auf der Maur Digs Into Her Archive for First New Music in Over 15 Years",
+    "url": "https://www.rollingstone.com/music/music-news/melissa-auf-der-maur-new-music-bass-womb-room-1235595950/",
+    "publishedAt": "2026-07-20T16:01:09.000Z",
+    "summary": "Bass Womb Room will find the Hole and Smashing Pumpkins bassist pairing previously unreleased demos with new \"interludes\" composed for an upcoming photo exhibit",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/jim-gilstrap-singer-stevie-wonder-good-times-theme-dead-1235595862/",
+    "source": "rolling-stone",
+    "title": "Jim Gilstrap, ‘Good Times’ Singer and Vocalist for Stevie Wonder and Others, Dead at 79",
+    "url": "https://www.rollingstone.com/music/music-news/jim-gilstrap-singer-stevie-wonder-good-times-theme-dead-1235595862/",
+    "publishedAt": "2026-07-20T15:28:39.000Z",
+    "summary": "Gilstrap sang backup for Whitney Houston, Michael Jackson, and Harry Styles, among many others",
+    "image": null
+  },
+  {
     "id": "pitchfork-https://pitchfork.com/story/arca-announces-new-album-xxxxx/",
     "source": "pitchfork",
     "title": "Arca Announces New Album XXXXX",
@@ -47,19 +218,10 @@
   {
     "id": "uncut-https://www.uncut.co.uk/features/gram-parsons-20-best-songs-69257/",
     "source": "uncut",
-    "title": "From The Byrds to The Flying Burrito Brothers, here are Gram Parsons’ 20 best songs",
+    "title": "From The Byrds to The Flying Burrito Brothers, here is Gram Parsons’ 20 best songs",
     "url": "https://www.uncut.co.uk/features/gram-parsons-20-best-songs-69257/",
     "publishedAt": "2026-07-20T12:53:30.000Z",
     "summary": "The country-rock pioneer's greatest tracks",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rock/liam-gallagher-no-new-oasis-album-teases-2027-shows-1236298125/",
-    "source": "billboard",
-    "title": "Liam Gallagher Says There Won’t Be a New Oasis Album Because He’s Not Up For the Criticism If It ‘Doesn’t Sell 100 Million Copies in the 1st Hour’",
-    "url": "https://www.billboard.com/music/rock/liam-gallagher-no-new-oasis-album-teases-2027-shows-1236298125/",
-    "publishedAt": "2026-07-20T12:32:49.000Z",
-    "summary": "But the band's singer seemed to all but confirm that there might be more reunion shows in 2027.",
     "image": null
   },
   {
@@ -72,12 +234,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/mel-c-spice-girls-wedding-chris-dingwall-spice-girls-reunite-1236298118/",
-    "source": "billboard",
-    "title": "Spice Girls (Mostly) Reunite For Melanie C’s Wedding to Chris Dingwall",
-    "url": "https://www.billboard.com/music/music-news/mel-c-spice-girls-wedding-chris-dingwall-spice-girls-reunite-1236298118/",
-    "publishedAt": "2026-07-20T11:48:32.000Z",
-    "summary": "The couple were wed at a British countryside manor on Saturday (July 18), with the bride wearing a dress designed by former bandmate Victoria \"Posh Spice\" Beckham.",
+    "id": "nme-https://news.google.com/rss/articles/CBMivgFBVV95cUxQcnZoRzJpZ0loR1hqNnhfTU94VkpuLUVEZVd4WVNXdGVUOUhsQS1XLXZweWZyLWJQUEV0dWpCb095al8tZkJOVHYwWGRubnNnSXJmOVl1T05yM2hCaWc0clRjRFZEN19EVTZRTE9vbnNLeDctaHJkYlozZmcyelMxLXdwNWluUUJFcjROUFhkRS1rdkV5VnVTb2Y2VzNaRGZoSm9CcUtsSUpqbEhLaFFoQlhtS3QtSWJ2QTNyazJR?oc=5",
+    "source": "nme",
+    "title": "Talk Talk announce ‘The Colour Of Spring’ 40th anniversary reissue cut at half speed - NME",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcnZoRzJpZ0loR1hqNnhfTU94VkpuLUVEZVd4WVNXdGVUOUhsQS1XLXZweWZyLWJQUEV0dWpCb095al8tZkJOVHYwWGRubnNnSXJmOVl1T05yM2hCaWc0clRjRFZEN19EVTZRTE9vbnNLeDctaHJkYlozZmcyelMxLXdwNWluUUJFcjROUFhkRS1rdkV5VnVTb2Y2VzNaRGZoSm9CcUtsSUpqbEhLaFFoQlhtS3QtSWJ2QTNyazJR?oc=5",
+    "publishedAt": "2026-07-20T11:41:30.000Z",
+    "summary": "Talk Talk announce ‘The Colour Of Spring’ 40th anniversary reissue cut at half speed NME",
     "image": null
   },
   {
@@ -96,15 +258,6 @@
     "url": "https://louderthanwar.com/angry-true-stories-album-review/",
     "publishedAt": "2026-07-20T09:34:35.000Z",
     "summary": "Album Review Angry! True Stories DL / CD Out today 20 July 2026 LTW was the only major outlet to cover Angry! when they released their debut single in April 2026, because we still believe that Punk Rock is not just a 50 year old museum piece and series of anniversaries but a living, breathing, […] The post Angry!: True Stories – Album Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rock/l7-jennifer-finch-tributes-1236297981/",
-    "source": "billboard",
-    "title": "Tom Morello, Garbage, Violet Grohl and More Pay Tribute to L7’s Jennifer Finch",
-    "url": "https://www.billboard.com/music/rock/l7-jennifer-finch-tributes-1236297981/",
-    "publishedAt": "2026-07-20T09:01:46.000Z",
-    "summary": "“A super cool person, a true artist with a kind and welcoming heart,” Morello wrote.",
     "image": null
   },
   {
@@ -153,15 +306,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/liam-gallagher-fifa-world-cup-halftime-show-1236297975/",
-    "source": "billboard",
-    "title": "Liam Gallagher Says FIFA’s World Cup Halftime Show Was ‘Like a Bad Trip’",
-    "url": "https://www.billboard.com/music/music-news/liam-gallagher-fifa-world-cup-halftime-show-1236297975/",
-    "publishedAt": "2026-07-20T06:36:27.000Z",
-    "summary": "The star-studded show marked the first halftime performance staged during a FIFA World Cup final.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/gracie-abrams-daughter-from-hell-bonus-tracks-1235595848/",
     "source": "rolling-stone",
     "title": "Gracie Abrams Shares Two Bonus ‘Daughter From Hell’ Tracks",
@@ -171,63 +315,18 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/concerts/fisher-2026-melbourne-cup-carnival-closing-party-1236297940/",
-    "source": "billboard",
-    "title": "FISHER to Headline 2026 Melbourne Cup Carnival Closing Party",
-    "url": "https://www.billboard.com/music/concerts/fisher-2026-melbourne-cup-carnival-closing-party-1236297940/",
-    "publishedAt": "2026-07-20T04:19:23.000Z",
-    "summary": "The Gold Coast-born artist has become one of Australia’s most recognizable dance music exports.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/world-cup-final-2026-things-you-missed-tv/",
-    "source": "billboard",
-    "title": "World Cup Final 2026: 8 Things You May Have Missed On TV",
-    "url": "https://www.billboard.com/lists/world-cup-final-2026-things-you-missed-tv/",
-    "publishedAt": "2026-07-20T02:43:56.000Z",
-    "summary": "As the World Cup concluded with a historic first-ever halftime show performance, here are several things you may have missed while watching on TV.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/gracie-abrams-bonus-tracks-out-of-nowhere-love-letter-1236297898/",
-    "source": "billboard",
-    "title": "Gracie Abrams Announces ‘Daughter From Hell’ Bonus Tracks Available ‘For a Limited Time’",
-    "url": "https://www.billboard.com/music/music-news/gracie-abrams-bonus-tracks-out-of-nowhere-love-letter-1236297898/",
-    "publishedAt": "2026-07-20T00:18:17.000Z",
-    "summary": "She's surprising fans with two more new songs, \"Out of Nowhere\" and \"Love Letter.\"",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/morgan-wallen-been-by-now-new-song-live-debut-1236297867/",
-    "source": "billboard",
-    "title": "Morgan Wallen Debuts ‘Been By Now,’ His Next Single, Live in Baltimore",
-    "url": "https://www.billboard.com/music/music-news/morgan-wallen-been-by-now-new-song-live-debut-1236297867/",
-    "publishedAt": "2026-07-19T23:24:41.000Z",
-    "summary": "The country hitmaker announced the song will be released Friday (July 24).",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/spain-world-cup-2026-winners-champions-merch-t-shirts-buy-1236297822/",
-    "source": "billboard",
-    "title": "Spain World Cup Champions Merch Drops Online: Shop Official T-Shirts, Hoodies and Jerseys Here",
-    "url": "https://www.billboard.com/culture/product-recommendations/spain-world-cup-2026-winners-champions-merch-t-shirts-buy-1236297822/",
-    "publishedAt": "2026-07-19T22:40:19.000Z",
-    "summary": "Sunday's victory over Argentina marked the second World Cup win for Spain, who also took home the trophy in 2010.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/top-country-albums-number-ones-biggest/",
-    "source": "billboard",
-    "title": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
-    "url": "https://www.billboard.com/lists/top-country-albums-number-ones-biggest/",
-    "publishedAt": "2026-07-19T22:17:38.000Z",
-    "summary": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.",
+    "id": "loudwire-https://loudwire.com/jonathan-cain-bruce-springsteen-shut-up-about-politics/",
+    "source": "loudwire",
+    "title": "Jonathan Cain Tells Bruce Springsteen to 'Shut Up' About Politics",
+    "url": "https://loudwire.com/jonathan-cain-bruce-springsteen-shut-up-about-politics/",
+    "publishedAt": "2026-07-20T02:24:49.000Z",
+    "summary": "Journey keyboardist describes the Boss as an 'annoying, bitter old man.' Continue reading…",
     "image": null
   },
   {
     "id": "pitchfork-https://pitchfork.com/story/watch-madonna-the-muppets-and-more-perform-at-2026-world-cup-final-halftime/",
     "source": "pitchfork",
-    "title": "Madonna, the Muppets, and More Perform at 2026 World Cup Final Halftime",
+    "title": "Watch Madonna, the Muppets, and More Perform at 2026 World Cup Final Halftime",
     "url": "https://pitchfork.com/story/watch-madonna-the-muppets-and-more-perform-at-2026-world-cup-final-halftime/",
     "publishedAt": "2026-07-19T21:48:09.000Z",
     "summary": "The 11-minute spectacle also included performances by Shakira, Justin Bieber, BTS, Burna Boy, and Coldplay’s Chris Martin",
@@ -249,15 +348,6 @@
     "url": "https://www.rollingstone.com/music/music-news/post-malone-performance-world-cup-final-pregame-ceremony-1235594952/",
     "publishedAt": "2026-07-19T18:35:31.000Z",
     "summary": "Jennifer Hudson delivered the United States national anthem and IShowSpeed performed “Champions” before Spain and Argentina match at New York New Jersey Stadium",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/noah-kahan-queens-concert-canceled-inclement-weather-1235595704/",
-    "source": "rolling-stone",
-    "title": "Noah Kahan’s Queens Concert Canceled Due to Inclement Weather: ‘I’m Devastated’",
-    "url": "https://www.rollingstone.com/music/music-news/noah-kahan-queens-concert-canceled-inclement-weather-1235595704/",
-    "publishedAt": "2026-07-19T16:32:07.000Z",
-    "summary": "Saturday’s show at Citi Field canceled at last minute after “it became clear that it wasn’t safe for us, the crew or all of you”; singer still booked to play Sunday night at Mets’ stadium",
     "image": null
   },
   {
@@ -288,15 +378,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/jan-and-dean-dean-torrence-car-crash-1235594481/",
-    "source": "rolling-stone",
-    "title": "Jan and Dean’s Dean Torrence Is Still Cruising, 60 Years After ‘Deadman’s Curve’ Crash",
-    "url": "https://www.rollingstone.com/music/music-features/jan-and-dean-dean-torrence-car-crash-1235594481/",
-    "publishedAt": "2026-07-19T15:52:15.000Z",
-    "summary": "The surf-rock icon sang lead on the Beach Boys classic “Barbara Ann,” but his life was never the same after his musical partner Jan Berry was involved in a devastating car accident",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/l7-bassist-jennifer-finch-dies-at-59/",
     "source": "pitchfork",
     "title": "L7 Bassist Jennifer Finch Dies at 59",
@@ -312,15 +393,6 @@
     "url": "https://loudwire.com/liam-gallagher-shuts-down-fan-new-oasis-album-valid-amusing-reason/",
     "publishedAt": "2026-07-19T14:45:13.000Z",
     "summary": "Don't expect a follow-up to 2008's 'Dig Out Your Soul' anytime soon. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-album-reviews/yard-act-youre-gonna-need-a-little-music-album-review-1235595166/",
-    "source": "rolling-stone",
-    "title": "Yard Act Loosen Their Collar and Rock Adventurously on ‘You’re Gonna Need A Little Music’",
-    "url": "https://www.rollingstone.com/music/music-album-reviews/yard-act-youre-gonna-need-a-little-music-album-review-1235595166/",
-    "publishedAt": "2026-07-19T14:00:00.000Z",
-    "summary": "The rising British band’s most musically adventurous album yet delivers rousing highs, even if a few songs struggle to keep pace",
     "image": null
   },
   {
@@ -423,15 +495,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/l7-jennifer-finch-dead-obituary-1235595523/",
-    "source": "rolling-stone",
-    "title": "Jennifer Finch, L7 Bassist, Dead at 59",
-    "url": "https://www.rollingstone.com/music/music-news/l7-jennifer-finch-dead-obituary-1235595523/",
-    "publishedAt": "2026-07-19T02:48:12.000Z",
-    "summary": "Rocker was diagnosed with an aggressive form of brain cancer",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMirgFBVV95cUxPeVNnem5KSDBoclZLY0ZGTEViVlBjbXp1X1ljVTFST3NVMHh5WTc2Ykw2eDBMQlBFQ3ItcHFPYmEtME1fT3FsdlBtaTM5Z1hnR1NqTGFMRTdOdjJLZWJJdjVFNm9Ra2RMaUVMWjc2VGtJa1pXX25yNlA1Tl9sOGJheEd6dktpTkhydEhfLWdjVmRweFFqaDJvdHphRmtUYWtKSFhrRS1BcDFiaEhVZ1E?oc=5",
     "source": "nme",
     "title": "Growth in CD sales outpaces vinyl in the US for the first half of 2026 - NME",
@@ -450,30 +513,12 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/shania-twain-surprise-concert-horseshoe-tavern-recap-1235595620/",
-    "source": "rolling-stone",
-    "title": "Shania Twain Finally Plays Her Dream Gig: A Tiny Dive Bar in Toronto",
-    "url": "https://www.rollingstone.com/music/music-country/shania-twain-surprise-concert-horseshoe-tavern-recap-1235595620/",
-    "publishedAt": "2026-07-18T18:56:16.000Z",
-    "summary": "The superstar held court at the Horseshoe Tavern on Friday night, delivering a set that mixed her hits with the autobiographical tracks off new album Little Miss Twain",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMitAFBVV95cUxNOU44R3RDSm54LVp3M0lGYkRZMkViZGctTG1GNFFtTjJkV1dXbjhraHBodE5NV1lHSXR1M2N6MzFoQ1BHYVZpQjRlY21UVTUyMkhGTG00UXd3Q2IyTWRSWUJDNHNWVkRtUi1lb0lLU1VNbjN0THJjSjFWZmxqQkEwLVdEcUV3aWEyQ0NRMm80ZElCSjR4cnJOX2tGc19PQUZkT2dXeTFOODB6Ukd1bEFqd2d5WC0?oc=5",
     "source": "nme",
     "title": "Watch Pavement play hilariously mangled ‘Stairway To Heaven’ cover in Oakland - NME",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOU44R3RDSm54LVp3M0lGYkRZMkViZGctTG1GNFFtTjJkV1dXbjhraHBodE5NV1lHSXR1M2N6MzFoQ1BHYVZpQjRlY21UVTUyMkhGTG00UXd3Q2IyTWRSWUJDNHNWVkRtUi1lb0lLU1VNbjN0THJjSjFWZmxqQkEwLVdEcUV3aWEyQ0NRMm80ZElCSjR4cnJOX2tGc19PQUZkT2dXeTFOODB6Ukd1bEFqd2d5WC0?oc=5",
     "publishedAt": "2026-07-18T18:46:10.000Z",
     "summary": "Watch Pavement play hilariously mangled ‘Stairway To Heaven’ cover in Oakland NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMi2gFBVV95cUxNR3I3SkhpTjZ5bzQza25VZUFOdVNvNG1NbXJ4cU9SSjRXVTB0eFFSUXI5b3VWdDVaR3lVV215WUVHRmNmY2RWNzJYVkt6MzNRaExrMnFzSmlOQjRhcE8tWE41M2VVRWUtNzZSR214Mlc2RkIyb0FZN1pfWVRidWd1R0RYZXlaQ1cxd1IxTF9EaHJoUUVPcVJVRVNNR0dDVXNzcjZsc192UmNmd3JhNTJQNlp0NzZpVzU5a2F4dnJMV1FsNEZCUjhQWExTQi1vdXlVSHJfdUZBTWo1dw?oc=5",
-    "source": "nme",
-    "title": "Poppy misses Upheaval Festival set due to “hazardous” wildfire smoke as band perform without her in masks - NME",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNR3I3SkhpTjZ5bzQza25VZUFOdVNvNG1NbXJ4cU9SSjRXVTB0eFFSUXI5b3VWdDVaR3lVV215WUVHRmNmY2RWNzJYVkt6MzNRaExrMnFzSmlOQjRhcE8tWE41M2VVRWUtNzZSR214Mlc2RkIyb0FZN1pfWVRidWd1R0RYZXlaQ1cxd1IxTF9EaHJoUUVPcVJVRVNNR0dDVXNzcjZsc192UmNmd3JhNTJQNlp0NzZpVzU5a2F4dnJMV1FsNEZCUjhQWExTQi1vdXlVSHJfdUZBTWo1dw?oc=5",
-    "publishedAt": "2026-07-18T16:23:43.000Z",
-    "summary": "Poppy misses Upheaval Festival set due to “hazardous” wildfire smoke as band perform without her in masks NME",
     "image": null
   },
   {
@@ -540,30 +585,12 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/amy-lee-evanescence-open-metallica-interview/",
-    "source": "loudwire",
-    "title": "What It's Like Opening For Metallica (Ft. Evanescence's Amy Lee)",
-    "url": "https://loudwire.com/amy-lee-evanescence-open-metallica-interview/",
-    "publishedAt": "2026-07-17T16:45:45.000Z",
-    "summary": "Amy Lee tells Loudwire about what it was like opening for Metallica on the M72 tour. Continue reading…",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/bill-callahan-audiobook-matthew-schnipper/",
     "source": "pitchfork",
     "title": "Bill Callahan Is Entering the Audiobook Space",
     "url": "https://pitchfork.com/story/bill-callahan-audiobook-matthew-schnipper/",
     "publishedAt": "2026-07-17T16:21:27.000Z",
     "summary": "The singer-songwriter is set to narrate a new memoir about grief",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/system-of-a-down-change-title-toxicity-arto/",
-    "source": "loudwire",
-    "title": "Why Did System of a Down Change the Title of a 'Toxicity' Track?",
-    "url": "https://loudwire.com/system-of-a-down-change-title-toxicity-arto/",
-    "publishedAt": "2026-07-17T16:19:41.000Z",
-    "summary": "System of a Down have changed the title of the 'Toxicity' track 'Arto' to 'Der Voghormia' because it's an Armenian hymn. Continue reading…",
     "image": null
   },
   {
@@ -594,15 +621,6 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/story/11-new-albums-you-should-listen-to-now-steve-lacy-syd-and-more/",
-    "source": "pitchfork",
-    "title": "11 New Albums You Should Listen to Now: Steve Lacy, Syd, and More",
-    "url": "https://pitchfork.com/story/11-new-albums-you-should-listen-to-now-steve-lacy-syd-and-more/",
-    "publishedAt": "2026-07-17T13:56:03.000Z",
-    "summary": "Stream new releases from Steve Lacy, Syd, Helado Tropical, and more",
-    "image": null
-  },
-  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMidEFVX3lxTE82WXpRRFE2aUZmNVI2NTlfYWVySlR0cHVOLTlGb1RBbGlNM0NSWjRrVk9vRlZ1WTdrUHBTZGg3SnowUTkwR2s1WVNYVXl0UnRQa3lNSmVEcDRnWFp1cHBUbHNwTDE2RVBmOUlPUkhaLVZpSGtK?oc=5",
     "source": "kerrang",
     "title": "Album review: Fuming Mouth - The Ringing Bell - Kerrang!",
@@ -612,30 +630,21 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/story/lorde-on-spotifys-ai-song-descriptions/",
-    "source": "pitchfork",
-    "title": "Lorde on Spotify’s AI Song Descriptions: “We Don’t Want This”",
-    "url": "https://pitchfork.com/story/lorde-on-spotifys-ai-song-descriptions/",
-    "publishedAt": "2026-07-16T23:34:07.000Z",
-    "summary": "On Instagram, the singer wrote that an ”inaccurate” AI-generated summary of “Current Affairs“ “limits free interpretation\"",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/carly-rae-jepsen-after-all-video/",
-    "source": "pitchfork",
-    "title": "Carly Rae Jepsen Surveys the Wreckage of a Dinner Party in “After All” Video",
-    "url": "https://pitchfork.com/story/carly-rae-jepsen-after-all-video/",
-    "publishedAt": "2026-07-16T18:12:13.000Z",
-    "summary": "It’s the latest single from her forthcoming album Day and Night",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/news/bob-dylan-announces-uk-tour-dates-for-november-and-december-155503/",
     "source": "uncut",
     "title": "Bob Dylan announces new UK tour dates for November and December",
     "url": "https://www.uncut.co.uk/news/bob-dylan-announces-uk-tour-dates-for-november-and-december-155503/",
     "publishedAt": "2026-07-16T15:03:21.000Z",
     "summary": "Includes a five-night residency at London's Royal Festival Hall",
+    "image": null
+  },
+  {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMijAFBVV95cUxOMEVDT1VldzhCQW1yWGxHbjdmSzRhMlh0Z2hjUmdVU1pESi1uX2tDVmhvWlF4MlpTUFVPQm10ekl2M1VqTXFVQnQ5blVDUTA1cS1JalY5ME04Z1JBeUZsajNLTG9pRjlQZUF0QVFoU24wa1lQMHZCc1RjZ19pTldOVzlOR2hYZmRXRnVDaA?oc=5",
+    "source": "kerrang",
+    "title": "Ghost confirm details of Skeletour concert film 2 Big To Rig - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMEVDT1VldzhCQW1yWGxHbjdmSzRhMlh0Z2hjUmdVU1pESi1uX2tDVmhvWlF4MlpTUFVPQm10ekl2M1VqTXFVQnQ5blVDUTA1cS1JalY5ME04Z1JBeUZsajNLTG9pRjlQZUF0QVFoU24wa1lQMHZCc1RjZ19pTldOVzlOR2hYZmRXRnVDaA?oc=5",
+    "publishedAt": "2026-07-16T14:27:00.000Z",
+    "summary": "Ghost confirm details of Skeletour concert film 2 Big To Rig Kerrang!",
     "image": null
   },
   {
@@ -690,15 +699,6 @@
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaUVXR3ZRcVA2YnYyQ1NUNkpPTFdHSV9BSEtIOHRWRWNYMTl2U3JGMG12M1RHc0NVQkVfRDBlUEJnZWN6aEMyWHAwUm1ickdOWXViNlpnc1JKQm54S2NFbHVBSnhPWGdMNTRGRTFDekgxcG9RVkdQemFWajAtSjZmMkFlWnpPNWZfbDQ4ZWpsWldXM2JxajhBMXoxSXJub3B4ZGdjNWxyWnJQWTdKTjBIR2FkZUphNmc?oc=5",
     "publishedAt": "2026-07-15T14:50:00.000Z",
     "summary": "Mastodon: “Underneath the grief, there is a sea of gratitude” Kerrang!",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMGw3azNYRnJYV0NGT2k0ZGoyMDcwWTFBUHppRWlSNnE1a2o2TVpsMVFMU2ZaWENtM2lMWTE0TkxzOTUxNThzS3dFY1VCcEx0Ymo5aFNIVUtuXy0tY2tSX3hJb2toLWxtaXAzS3c1SVhmcWMwakYtN1d3bUhsY3JfT3BIVHdCRWVpcmZ1Nm1QSFY3ZWg1NnkwTUFCLWU4Y1lwUjFaOVNhTE5tV2NLNjhiX0U1SmsydUJuLVZuTVZxZWRZUE0?oc=5",
-    "source": "kerrang",
-    "title": "The 10 performances that defined Mad Cool 2026 - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMGw3azNYRnJYV0NGT2k0ZGoyMDcwWTFBUHppRWlSNnE1a2o2TVpsMVFMU2ZaWENtM2lMWTE0TkxzOTUxNThzS3dFY1VCcEx0Ymo5aFNIVUtuXy0tY2tSX3hJb2toLWxtaXAzS3c1SVhmcWMwakYtN1d3bUhsY3JfT3BIVHdCRWVpcmZ1Nm1QSFY3ZWg1NnkwTUFCLWU4Y1lwUjFaOVNhTE5tV2NLNjhiX0U1SmsydUJuLVZuTVZxZWRZUE0?oc=5",
-    "publishedAt": "2026-07-15T14:40:00.000Z",
-    "summary": "The 10 performances that defined Mad Cool 2026 Kerrang!",
     "image": null
   },
   {
