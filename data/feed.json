@@ -1,5 +1,95 @@
 [
   {
+    "id": "pitchfork-https://pitchfork.com/story/arca-announces-new-album-xxxxx/",
+    "source": "pitchfork",
+    "title": "Arca Announces New Album XXXXX",
+    "url": "https://pitchfork.com/story/arca-announces-new-album-xxxxx/",
+    "publishedAt": "2026-07-20T14:01:22.000Z",
+    "summary": "The follow-up to the Kick series will launch with a livestream this week",
+    "image": null
+  },
+  {
+    "id": "louder-than-war-https://louderthanwar.com/cmat-the-piece-hall-halifax-live-review/",
+    "source": "louder-than-war",
+    "title": "CMAT: The Piece Hall, Halifax – Live Review",
+    "url": "https://louderthanwar.com/cmat-the-piece-hall-halifax-live-review/",
+    "publishedAt": "2026-07-20T13:51:31.000Z",
+    "summary": "CMAT The Piece Hall, Halifax Friday 16th July 2026 Natural-born performer CMAT continues to rise in arena shows as her adoring fans went wild for a joyous set of country pop bangers. I first saw CMAT running riot in a small tent at Sheffield’s Tramlines Festival and thought at the time this Irish bundle of energy […] The post CMAT: The Piece Hall, Halifax – Live Review appeared first on Louder Than War.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/the-band-last-waltz-asbury-park-1235595345/",
+    "source": "rolling-stone",
+    "title": "50 Years Ago Today: The Band Warm Up for ‘The Last Waltz’ in Asbury Park",
+    "url": "https://www.rollingstone.com/music/music-features/the-band-last-waltz-asbury-park-1235595345/",
+    "publishedAt": "2026-07-20T13:51:07.000Z",
+    "summary": "For a much better idea of what a Band concert was like, check out this priceless video from a July 20, 1976, concert in New Jersey",
+    "image": null
+  },
+  {
+    "id": "uncut-https://www.uncut.co.uk/news/send-us-your-questions-for-roland-orzabal-of-tears-for-fears-155543/",
+    "source": "uncut",
+    "title": "Send us your questions for Roland Orzabal of Tears For Fears!",
+    "url": "https://www.uncut.co.uk/news/send-us-your-questions-for-roland-orzabal-of-tears-for-fears-155543/",
+    "publishedAt": "2026-07-20T13:23:47.000Z",
+    "summary": "The pensive pop songwriter will field your enquiries in a future issue of Uncut",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/dianno-iron-maiden-lost-singer-wes-orshoski-big-takeaway-2026-interview/",
+    "source": "loudwire",
+    "title": "'Di'Anno: Iron Maiden's Lost Singer' Director Reveals Takeaway",
+    "url": "https://loudwire.com/dianno-iron-maiden-lost-singer-wes-orshoski-big-takeaway-2026-interview/",
+    "publishedAt": "2026-07-20T12:58:55.000Z",
+    "summary": "Director Wes Orshoski shares what he gets after watching back the journey of Paul Di'Anno in the new 'Di'Anno: Iron Maiden's Lost Singe' documentary.' Continue reading…",
+    "image": null
+  },
+  {
+    "id": "uncut-https://www.uncut.co.uk/features/gram-parsons-20-best-songs-69257/",
+    "source": "uncut",
+    "title": "From The Byrds to The Flying Burrito Brothers, here are Gram Parsons’ 20 best songs",
+    "url": "https://www.uncut.co.uk/features/gram-parsons-20-best-songs-69257/",
+    "publishedAt": "2026-07-20T12:53:30.000Z",
+    "summary": "The country-rock pioneer's greatest tracks",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rock/liam-gallagher-no-new-oasis-album-teases-2027-shows-1236298125/",
+    "source": "billboard",
+    "title": "Liam Gallagher Says There Won’t Be a New Oasis Album Because He’s Not Up For the Criticism If It ‘Doesn’t Sell 100 Million Copies in the 1st Hour’",
+    "url": "https://www.billboard.com/music/rock/liam-gallagher-no-new-oasis-album-teases-2027-shows-1236298125/",
+    "publishedAt": "2026-07-20T12:32:49.000Z",
+    "summary": "But the band's singer seemed to all but confirm that there might be more reunion shows in 2027.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/best-prog-metal-covers-prog-rock-songs/",
+    "source": "loudwire",
+    "title": "11 Best Prog Metal Covers of Prog Rock Songs",
+    "url": "https://loudwire.com/best-prog-metal-covers-prog-rock-songs/",
+    "publishedAt": "2026-07-20T11:55:13.000Z",
+    "summary": "Bands who nailed making prog rock songs more metal! Continue reading…",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/mel-c-spice-girls-wedding-chris-dingwall-spice-girls-reunite-1236298118/",
+    "source": "billboard",
+    "title": "Spice Girls (Mostly) Reunite For Melanie C’s Wedding to Chris Dingwall",
+    "url": "https://www.billboard.com/music/music-news/mel-c-spice-girls-wedding-chris-dingwall-spice-girls-reunite-1236298118/",
+    "publishedAt": "2026-07-20T11:48:32.000Z",
+    "summary": "The couple were wed at a British countryside manor on Saturday (July 18), with the bride wearing a dress designed by former bandmate Victoria \"Posh Spice\" Beckham.",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMinwFBVV95cUxPaWNIc3ZGZS1CcG5pSnNXQW1LelYzbG1saWlZaG1BbTdCZF9qdlRpa1JVal9mejhSdHYyT0pwMXRaOXUzTDhDSElOeWk2WkR2NnlHWC1fQlNBSTQtenl6empERUowcDJaMWVKcWp2ZFdiSFZmRnlwZnhQYUFKdGR6QmFCOWRNX1lLNkMtRVZReUpfOFg5ZFk2aEZyUG9vMTA?oc=5",
+    "source": "nme",
+    "title": "Liam Gallagher responds to fan’s request for new Oasis album - NME",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaWNIc3ZGZS1CcG5pSnNXQW1LelYzbG1saWlZaG1BbTdCZF9qdlRpa1JVal9mejhSdHYyT0pwMXRaOXUzTDhDSElOeWk2WkR2NnlHWC1fQlNBSTQtenl6empERUowcDJaMWVKcWp2ZFdiSFZmRnlwZnhQYUFKdGR6QmFCOWRNX1lLNkMtRVZReUpfOFg5ZFk2aEZyUG9vMTA?oc=5",
+    "publishedAt": "2026-07-20T11:04:51.000Z",
+    "summary": "Liam Gallagher responds to fan’s request for new Oasis album NME",
+    "image": null
+  },
+  {
     "id": "louder-than-war-https://louderthanwar.com/angry-true-stories-album-review/",
     "source": "louder-than-war",
     "title": "Angry!: True Stories – Album Review",
@@ -15,6 +105,15 @@
     "url": "https://www.billboard.com/music/rock/l7-jennifer-finch-tributes-1236297981/",
     "publishedAt": "2026-07-20T09:01:46.000Z",
     "summary": "“A super cool person, a true artist with a kind and welcoming heart,” Morello wrote.",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMiigFBVV95cUxOeDVwaU9iU2xOR0dXa3ZLclU5X1l3X1ZlTHNCY1A3eE9SSkl4SmFaeTE5VzZjbFdxNDFjSlVnUVFYYi1QLVR1NnlGRHllQzJiczZtei1jT195M1ZNS19rNS1Ycy1OMjB0TU5oSHZwckxXd1k5MUNsZk5DV3Y4V21EVmpIbzdsUERsNkE?oc=5",
+    "source": "nme",
+    "title": "Ryan Reynolds confirms there will be another ‘Deadpool’ film - NME",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeDVwaU9iU2xOR0dXa3ZLclU5X1l3X1ZlTHNCY1A3eE9SSkl4SmFaeTE5VzZjbFdxNDFjSlVnUVFYYi1QLVR1NnlGRHllQzJiczZtei1jT195M1ZNS19rNS1Ycy1OMjB0TU5oSHZwckxXd1k5MUNsZk5DV3Y4V21EVmpIbzdsUERsNkE?oc=5",
+    "publishedAt": "2026-07-20T08:57:05.000Z",
+    "summary": "Ryan Reynolds confirms there will be another ‘Deadpool’ film NME",
     "image": null
   },
   {
@@ -68,7 +167,7 @@
     "title": "Gracie Abrams Shares Two Bonus ‘Daughter From Hell’ Tracks",
     "url": "https://www.rollingstone.com/music/music-news/gracie-abrams-daughter-from-hell-bonus-tracks-1235595848/",
     "publishedAt": "2026-07-20T06:10:14.000Z",
-    "summary": "The musician's third album, produced by Aaron Dessner, dropped last week",
+    "summary": "The musician’s third album, produced by Aaron Dessner, dropped last week",
     "image": null
   },
   {
@@ -126,30 +225,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/ted-lasso-justin-bieber-2026-world-cup-halftime-show-1236297661/",
-    "source": "billboard",
-    "title": "Ted Lasso Sends Justin Bieber Out on the World Cup Field for ‘Everything Hallelujah’ in 2026 Halftime Show",
-    "url": "https://www.billboard.com/music/music-news/ted-lasso-justin-bieber-2026-world-cup-halftime-show-1236297661/",
-    "publishedAt": "2026-07-19T22:12:19.000Z",
-    "summary": "Jason Sudeikis (aka Ted Lasso) made a surprise cameo ahead of Bieber's halftime performance.",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/watch-madonna-the-muppets-and-more-perform-at-2026-world-cup-final-halftime/",
     "source": "pitchfork",
-    "title": "Watch Madonna, the Muppets, and More Perform at 2026 World Cup Final Halftime",
+    "title": "Madonna, the Muppets, and More Perform at 2026 World Cup Final Halftime",
     "url": "https://pitchfork.com/story/watch-madonna-the-muppets-and-more-perform-at-2026-world-cup-final-halftime/",
     "publishedAt": "2026-07-19T21:48:09.000Z",
-    "summary": "The 11-minute spectacle included performances by Shakira, Justin Bieber, BTS, Burna Boy, and Coldplay’s Chris Martin",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/world-cup-halftime-show-super-bowl-1236297614/",
-    "source": "billboard",
-    "title": "How Similar Was the World Cup Halftime Show to the Super Bowl?",
-    "url": "https://www.billboard.com/music/music-news/world-cup-halftime-show-super-bowl-1236297614/",
-    "publishedAt": "2026-07-19T21:37:54.000Z",
-    "summary": "Did FIFA offer reheated nachos or create a fresh flavor?",
+    "summary": "The 11-minute spectacle also included performances by Shakira, Justin Bieber, BTS, Burna Boy, and Coldplay’s Chris Martin",
     "image": null
   },
   {
@@ -167,7 +248,7 @@
     "title": "Post Malone Debuts New Song ‘Chrome Heartbreaker’ at World Cup Final Pregame Ceremony",
     "url": "https://www.rollingstone.com/music/music-news/post-malone-performance-world-cup-final-pregame-ceremony-1235594952/",
     "publishedAt": "2026-07-19T18:35:31.000Z",
-    "summary": "Jennifer Hudson delivered the United States national anthem and IShowSpeed performed \"Champions\" before Spain and Argentina match at New York New Jersey Stadium",
+    "summary": "Jennifer Hudson delivered the United States national anthem and IShowSpeed performed “Champions” before Spain and Argentina match at New York New Jersey Stadium",
     "image": null
   },
   {
@@ -176,7 +257,7 @@
     "title": "Noah Kahan’s Queens Concert Canceled Due to Inclement Weather: ‘I’m Devastated’",
     "url": "https://www.rollingstone.com/music/music-news/noah-kahan-queens-concert-canceled-inclement-weather-1235595704/",
     "publishedAt": "2026-07-19T16:32:07.000Z",
-    "summary": "Saturday's show at Citi Field canceled at last minute after \"it became clear that it wasn't safe for us, the crew or all of you\"; singer still booked to play Sunday night at Mets' stadium",
+    "summary": "Saturday’s show at Citi Field canceled at last minute after “it became clear that it wasn’t safe for us, the crew or all of you”; singer still booked to play Sunday night at Mets’ stadium",
     "image": null
   },
   {
@@ -212,7 +293,7 @@
     "title": "Jan and Dean’s Dean Torrence Is Still Cruising, 60 Years After ‘Deadman’s Curve’ Crash",
     "url": "https://www.rollingstone.com/music/music-features/jan-and-dean-dean-torrence-car-crash-1235594481/",
     "publishedAt": "2026-07-19T15:52:15.000Z",
-    "summary": "The surf-rock icon sang lead on the Beach Boys classic \"Barbara Ann,\" but his life was never the same after his musical partner Jan Berry was involved in a devastating car accident",
+    "summary": "The surf-rock icon sang lead on the Beach Boys classic “Barbara Ann,” but his life was never the same after his musical partner Jan Berry was involved in a devastating car accident",
     "image": null
   },
   {
@@ -285,6 +366,15 @@
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY2JwMHp2aEdmNnpNUlVyM0p6Q242UEdHYVdzZHRSOFpIXzJwU3FmZ2hIQmNORTNvV1d2MkRNZGpCLTRUeWdpNThmd3UzS0Zld2JLVWIzczlGc1FjMFpITFJXWnh3Z01sOEFqci15RExhV1M2d3RkeGFZY3pmSGhMWHZaM2tENTNTLXNscHdxVnB5OXZlY3dzVDg4MmM1RzdTNWtQcnJMckdoTTFBU1BjcDdtT2oyWkFPU2FuNUxJakozNnFyVlI2aA?oc=5",
     "publishedAt": "2026-07-19T10:12:53.000Z",
     "summary": "Matty Healy and Gabbriette Bechtel marry in star-studded wedding at Madonna’s former estate NME",
+    "image": null
+  },
+  {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMioAFBVV95cUxOZU50UGRCTDRsYldxam5XOHJkMGVjV3N5UHNQdEpEazhtSzVfakJKaTNHMXNlTXR1QlJBWUVFY3VLVk0zMy1zcHpMdzljWmtaUkI0ekJ6dmhRYUFYa0NPR0lUS05tVzhBd3hSQi13S2lZSmV1cDk4TW54OXM1aHN0a05xSmdCU1V5em44MzRzeWcxeGZ5VWxSRkVLSWF2OE1E?oc=5",
+    "source": "kerrang",
+    "title": "L7 bassist Jennifer Finch has died, aged 59 - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZU50UGRCTDRsYldxam5XOHJkMGVjV3N5UHNQdEpEazhtSzVfakJKaTNHMXNlTXR1QlJBWUVFY3VLVk0zMy1zcHpMdzljWmtaUkI0ekJ6dmhRYUFYa0NPR0lUS05tVzhBd3hSQi13S2lZSmV1cDk4TW54OXM1aHN0a05xSmdCU1V5em44MzRzeWcxeGZ5VWxSRkVLSWF2OE1E?oc=5",
+    "publishedAt": "2026-07-19T10:10:00.000Z",
+    "summary": "L7 bassist Jennifer Finch has died, aged 59 Kerrang!",
     "image": null
   },
   {
@@ -369,15 +459,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/jelly-roll-san-quentin-new-video-hands-up-1235595617/",
-    "source": "rolling-stone",
-    "title": "Jelly Roll Goes to San Quentin for New Video ‘Hands Up’",
-    "url": "https://www.rollingstone.com/music/music-news/jelly-roll-san-quentin-new-video-hands-up-1235595617/",
-    "publishedAt": "2026-07-18T18:49:50.000Z",
-    "summary": "\"Truly one of the most special things I’ve ever had the opportunity to do,\" singer says of shooting visual at same California prison that Johnny Cash performed at",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMitAFBVV95cUxNOU44R3RDSm54LVp3M0lGYkRZMkViZGctTG1GNFFtTjJkV1dXbjhraHBodE5NV1lHSXR1M2N6MzFoQ1BHYVZpQjRlY21UVTUyMkhGTG00UXd3Q2IyTWRSWUJDNHNWVkRtUi1lb0lLU1VNbjN0THJjSjFWZmxqQkEwLVdEcUV3aWEyQ0NRMm80ZElCSjR4cnJOX2tGc19PQUZkT2dXeTFOODB6Ukd1bEFqd2d5WC0?oc=5",
     "source": "nme",
     "title": "Watch Pavement play hilariously mangled ‘Stairway To Heaven’ cover in Oakland - NME",
@@ -393,15 +474,6 @@
     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNR3I3SkhpTjZ5bzQza25VZUFOdVNvNG1NbXJ4cU9SSjRXVTB0eFFSUXI5b3VWdDVaR3lVV215WUVHRmNmY2RWNzJYVkt6MzNRaExrMnFzSmlOQjRhcE8tWE41M2VVRWUtNzZSR214Mlc2RkIyb0FZN1pfWVRidWd1R0RYZXlaQ1cxd1IxTF9EaHJoUUVPcVJVRVNNR0dDVXNzcjZsc192UmNmd3JhNTJQNlp0NzZpVzU5a2F4dnJMV1FsNEZCUjhQWExTQi1vdXlVSHJfdUZBTWo1dw?oc=5",
     "publishedAt": "2026-07-18T16:23:43.000Z",
     "summary": "Poppy misses Upheaval Festival set due to “hazardous” wildfire smoke as band perform without her in masks NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMixwFBVV95cUxObWhqSEVrblYyczlTMUYyRGl2bFlRSW9Nb3dSWFowcnhlT0ZkSUlIY1BHQVA0UGZNMDJubm9tVGxWZjlqSUVXb1RPbTlVTUFFc2RrWU1YNVVWelpPVW14c1djSVowYUxtZl94T2F1dEVlTTIxY2FoUmdWMzZCQ3NjY2VENEdNRWY4bXJUTWFMU0doYmpoZUNvOEszX3BVdzFZOTE0ZEc1bEI1Y2E4Sjlrd08yek82amJQZlJZQ3pET0R2MTRaN01r?oc=5",
-    "source": "nme",
-    "title": "Watch The Edge join Martin Garrix at Tomorrowland to debut new U2 collaboration ‘Fireflies’ - NME",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObWhqSEVrblYyczlTMUYyRGl2bFlRSW9Nb3dSWFowcnhlT0ZkSUlIY1BHQVA0UGZNMDJubm9tVGxWZjlqSUVXb1RPbTlVTUFFc2RrWU1YNVVWelpPVW14c1djSVowYUxtZl94T2F1dEVlTTIxY2FoUmdWMzZCQ3NjY2VENEdNRWY4bXJUTWFMU0doYmpoZUNvOEszX3BVdzFZOTE0ZEc1bEI1Y2E4Sjlrd08yek82amJQZlJZQ3pET0R2MTRaN01r?oc=5",
-    "publishedAt": "2026-07-18T15:37:10.000Z",
-    "summary": "Watch The Edge join Martin Garrix at Tomorrowland to debut new U2 collaboration ‘Fireflies’ NME",
     "image": null
   },
   {
@@ -432,30 +504,12 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdXhYRFhYUVN3WHFGU2swcjNZOThLcTBKNUZ4YUVKWUVLVlR1c1ZMT1pTSmRZUW1sZXBwZ296VnpHY2dnUEd0cGx1YlQxWHo5b015a0NVbENBN1NiRXdvcXhWamw4YWlhZGdwV0F4My01TVY5Y2FrNVpCVENxdDVmc2tGWDlvT1N1Vk9XY0x3NUZvY0F0TzRGaERlMkozY1p2S0x5UC1IbG14azFnTS1PdVVuRWpTaDJ4NFZKR1AyaU5fM3VJOVRfbEV6c1Y4b3FQU2ZocjdQbnBIcmRJWFluUQ?oc=5",
-    "source": "nme",
-    "title": "Christopher Nolan says it’ll be \"at least\" three years until his next film after gruelling shoot for ‘The Odyssey’ - NME",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdXhYRFhYUVN3WHFGU2swcjNZOThLcTBKNUZ4YUVKWUVLVlR1c1ZMT1pTSmRZUW1sZXBwZ296VnpHY2dnUEd0cGx1YlQxWHo5b015a0NVbENBN1NiRXdvcXhWamw4YWlhZGdwV0F4My01TVY5Y2FrNVpCVENxdDVmc2tGWDlvT1N1Vk9XY0x3NUZvY0F0TzRGaERlMkozY1p2S0x5UC1IbG14azFnTS1PdVVuRWpTaDJ4NFZKR1AyaU5fM3VJOVRfbEV6c1Y4b3FQU2ZocjdQbnBIcmRJWFluUQ?oc=5",
-    "publishedAt": "2026-07-18T10:28:59.000Z",
-    "summary": "Christopher Nolan says it’ll be \"at least\" three years until his next film after gruelling shoot for ‘The Odyssey’ NME",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/features/how-phoebe-bridgers-became-the-voice-of-a-generation-155468/",
     "source": "uncut",
     "title": "“She has an allergy to bulls**t” – how Phoebe Bridgers became the voice of a generation",
     "url": "https://www.uncut.co.uk/features/how-phoebe-bridgers-became-the-voice-of-a-generation-155468/",
     "publishedAt": "2026-07-18T10:00:00.000Z",
     "summary": "The feted singer-songwriter combines Laurel Canyon classicism with alt.folk intensity and a spot of witchcraft",
-    "image": null
-  },
-  {
-    "id": "louder-than-war-https://louderthanwar.com/fabienne-delsol-indigo-red-album-review/",
-    "source": "louder-than-war",
-    "title": "Fabienne Delsol: Indigo Red – Album Review",
-    "url": "https://louderthanwar.com/fabienne-delsol-indigo-red-album-review/",
-    "publishedAt": "2026-07-18T08:20:14.000Z",
-    "summary": "Fabienne Delsol: Indigo Red (Damaged Goods) LP | CD | DL Out now Fabienne Delsol returns with Indigo Red, a mix of originals and covers that span her blend of neo-psych-pop ye-ye. A more than welcome return after seven years. BUY HERE It was Fabienne Delsol’s fourth album that turned us on to her hazy […] The post Fabienne Delsol: Indigo Red – Album Review appeared first on Louder Than War.",
     "image": null
   },
   {
@@ -540,30 +594,12 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/rock-bands-40-years-never-broke-up/",
-    "source": "loudwire",
-    "title": "Rock Bands That Have Been Together 40+ Years and Never Broke Up",
-    "url": "https://loudwire.com/rock-bands-40-years-never-broke-up/",
-    "publishedAt": "2026-07-17T14:00:34.000Z",
-    "summary": "These bands have been together for at least four decades and have never formally broken up, even if they underwent lineup changes. Continue reading…",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/11-new-albums-you-should-listen-to-now-steve-lacy-syd-and-more/",
     "source": "pitchfork",
     "title": "11 New Albums You Should Listen to Now: Steve Lacy, Syd, and More",
     "url": "https://pitchfork.com/story/11-new-albums-you-should-listen-to-now-steve-lacy-syd-and-more/",
     "publishedAt": "2026-07-17T13:56:03.000Z",
     "summary": "Stream new releases from Steve Lacy, Syd, Helado Tropical, and more",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/wildfires-concert-postponements/",
-    "source": "loudwire",
-    "title": "Wildfires Cause Creed, Sebastian Bach Concert Postponements",
-    "url": "https://loudwire.com/wildfires-concert-postponements/",
-    "publishedAt": "2026-07-17T12:33:03.000Z",
-    "summary": "Over 800 blazes in Canada have led to health warnings in the U.S., with artists changing plans to minimize risk to fans. Continue reading…",
     "image": null
   },
   {
@@ -591,15 +627,6 @@
     "url": "https://pitchfork.com/story/carly-rae-jepsen-after-all-video/",
     "publishedAt": "2026-07-16T18:12:13.000Z",
     "summary": "It’s the latest single from her forthcoming album Day and Night",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/ocean-way-festival-santa-monica-coachella-organizers-goldenvoice/",
-    "source": "pitchfork",
-    "title": "Coachella Organizers Announce New Santa Monica Beach Festival",
-    "url": "https://pitchfork.com/story/ocean-way-festival-santa-monica-coachella-organizers-goldenvoice/",
-    "publishedAt": "2026-07-16T18:00:41.000Z",
-    "summary": "The Killers and Olivia Dean will headline the first Ocean Way Festival",
     "image": null
   },
   {
@@ -690,33 +717,6 @@
     "url": "https://www.uncut.co.uk/news/beck-announces-new-album-ride-lonesome-155481/",
     "publishedAt": "2026-07-15T13:05:11.000Z",
     "summary": "Watch a video for new single \"In The Night\" now",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMitgFBVV95cUxPUzNLYy1fWFBzN1g3QmZweXhXUjJ1THB3VHBlNTZaTFZMWWdrR01Va0JLM3RneDBfak1FVXJtR1lHWTNNVm1ickNsTGtnXzJQdE5VcWpTWWZRelFjOXJQbkt4U0tVRmViX3hFQmxzcWJwd2xpa2ZqOUpULUVVX0dKcUJYcnBOdUFqTUNqLWltZS1ZQ2NKTVFQaFBIbEdpdW9WeVFMeFlOT0xjVXUzSkcwcUpHbFFLQQ?oc=5",
-    "source": "kerrang",
-    "title": "Burner have teamed up with Josh Middleton for “rallying cry for democracy” What Will You Give? - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUzNLYy1fWFBzN1g3QmZweXhXUjJ1THB3VHBlNTZaTFZMWWdrR01Va0JLM3RneDBfak1FVXJtR1lHWTNNVm1ickNsTGtnXzJQdE5VcWpTWWZRelFjOXJQbkt4U0tVRmViX3hFQmxzcWJwd2xpa2ZqOUpULUVVX0dKcUJYcnBOdUFqTUNqLWltZS1ZQ2NKTVFQaFBIbEdpdW9WeVFMeFlOT0xjVXUzSkcwcUpHbFFLQQ?oc=5",
-    "publishedAt": "2026-07-15T12:24:00.000Z",
-    "summary": "Burner have teamed up with Josh Middleton for “rallying cry for democracy” What Will You Give? Kerrang!",
-    "image": null
-  },
-  {
-    "id": "uncut-https://www.uncut.co.uk/features/introducing-the-new-uncut-jack-white-a-third-man-records-cd-alabama-shakes-the-fall-kevin-ayers-lambchop-and-more-155420/",
-    "source": "uncut",
-    "title": "Introducing the new Uncut: Jack White, a Third Man Records CD, Alabama Shakes, The Fall, Kevin Ayers, Lambchop and more!",
-    "url": "https://www.uncut.co.uk/features/introducing-the-new-uncut-jack-white-a-third-man-records-cd-alabama-shakes-the-fall-kevin-ayers-lambchop-and-more-155420/",
-    "publishedAt": "2026-07-15T11:14:37.000Z",
-    "summary": "Plus Family, Wilco & Billy Bragg, Carly Simon, The Triffids, John Carpenter plus, plus, plus!",
-    "image": null
-  },
-  {
-    "id": "uncut-https://www.uncut.co.uk/publications/uncut-september-2026-155374/",
-    "source": "uncut",
-    "title": "Uncut September 2026",
-    "url": "https://www.uncut.co.uk/publications/uncut-september-2026-155374/",
-    "publishedAt": "2026-07-15T10:51:23.000Z",
-    "summary": "Stars Jack White, Alabama Shakes, The Fall, Lambchop, Kevin Ayers and more!",
     "image": null
   }
 ]
