@@ -1,5 +1,50 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/music-news/the-beatles-paul-mccartney-magical-mystery-tour-cameo-1236299425/",
+    "source": "billboard",
+    "title": "Paul McCartney Shocks Fans With Surprise Cameo on Beatles’ Magical Mystery Tour in Liverpool",
+    "url": "https://www.billboard.com/music/music-news/the-beatles-paul-mccartney-magical-mystery-tour-cameo-1236299425/",
+    "publishedAt": "2026-07-21T09:45:45.000Z",
+    "summary": "Macca was spotted by guests on the unofficial tour while stuck in traffic.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/deezer-50-percent-daily-song-uploads-fully-ai-generated/",
+    "source": "billboard",
+    "title": "Deezer Says Daily Delivery of Fully AI Music Reaches More Than 50% for the First Time",
+    "url": "https://www.billboard.com/pro/deezer-50-percent-daily-song-uploads-fully-ai-generated/",
+    "publishedAt": "2026-07-21T08:00:00.000Z",
+    "summary": "The service is now removing AI tracks it suspects have been used in streaming fraud — as well as those that haven't been streamed for at least six months.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/live-nation-nfl-melbourne-kickoff-festival/",
+    "source": "billboard",
+    "title": "NFL Expands Australia Push With Live Nation-Backed Melbourne Kickoff Festival",
+    "url": "https://www.billboard.com/pro/live-nation-nfl-melbourne-kickoff-festival/",
+    "publishedAt": "2026-07-21T07:42:36.000Z",
+    "summary": "The Kickoff Festival will also host the official watch party for the 2026 NFL season opener.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/concerts/budjerah-australian-tour-debut-album-gentleman-1236299165/",
+    "source": "billboard",
+    "title": "Budjerah Announces Australian Tour Ahead of Debut Album ‘Gentleman’",
+    "url": "https://www.billboard.com/music/concerts/budjerah-australian-tour-debut-album-gentleman-1236299165/",
+    "publishedAt": "2026-07-21T07:21:45.000Z",
+    "summary": "The two-time ARIA Award winner will release his debut album on Friday before hitting the road in October.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/abbey-road-music-photography-awards-masayoshi-sukita-1235596421/",
+    "source": "rolling-stone",
+    "title": "Abbey Road Music Photography Awards to Honor Masayoshi Sukita With Lifetime Achievement Award",
+    "url": "https://www.rollingstone.com/music/music-news/abbey-road-music-photography-awards-masayoshi-sukita-1235596421/",
+    "publishedAt": "2026-07-21T07:15:59.000Z",
+    "summary": "The recording studio's annual photography awards, established in 2022, will take place in London in September",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/latin/shakira-barclays-center-guests-tyla-ed-sheeran-burna-boy-1236299164/",
     "source": "billboard",
     "title": "Shakira Brings Out Tyla, Ed Sheeran & Burna Boy at Her First Show Post FIFA World Cup in New York City",
@@ -69,42 +114,6 @@
     "url": "https://www.billboard.com/music/music-news/burna-boy-2026-world-cup-halftime-video-diary-bieber-shakira-1236298724/",
     "publishedAt": "2026-07-20T23:16:49.000Z",
     "summary": "Billboard's exclusive Day in the Life video follows the Grammy-winning artist as he takes part in one of the biggest performances of his career.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/offset-probation-cannabis-dispensary-criminal-assault-case/",
-    "source": "billboard",
-    "title": "Offset Gets Probation in Cannabis Dispensary Criminal Assault Case",
-    "url": "https://www.billboard.com/pro/offset-probation-cannabis-dispensary-criminal-assault-case/",
-    "publishedAt": "2026-07-20T23:06:34.000Z",
-    "summary": "The rapper was accused of striking a security guard after being asked to show I.D. in March 2025.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/jalen-brunson-not-at-taylor-swift-wedding-knicks-nba-finals-1236298678/",
-    "source": "billboard",
-    "title": "Knicks Star Jalen Brunson Says It Was ‘Really Cool’ Having Taylor Swift at NBA Finals — But He Wasn’t at Her Wedding",
-    "url": "https://www.billboard.com/music/rb-hip-hop/jalen-brunson-not-at-taylor-swift-wedding-knicks-nba-finals-1236298678/",
-    "publishedAt": "2026-07-20T22:53:31.000Z",
-    "summary": "While the NBA Finals MVP didn't confirm whether he and the rest of New York's starting five were invited, he did say he wasn't there.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/j-cole-bra-ontage-fall-off-tour-miami-1236298625/",
-    "source": "billboard",
-    "title": "J. Cole Shocked After Bra Is Thrown Onstage During ‘Work Out’ Performance: ‘Gotta Cherish That Sh–‘",
-    "url": "https://www.billboard.com/music/rb-hip-hop/j-cole-bra-ontage-fall-off-tour-miami-1236298625/",
-    "publishedAt": "2026-07-20T22:27:41.000Z",
-    "summary": "The North Carolina rapper laughed and held the bra up to the crowd during a tour stop in Miami.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/sony-new-ai-music-copyright-lawsuit-udio-why/",
-    "source": "billboard",
-    "title": "Why Sony Just Filed a New AI Music Copyright Lawsuit Against Udio",
-    "url": "https://www.billboard.com/pro/sony-new-ai-music-copyright-lawsuit-udio-why/",
-    "publishedAt": "2026-07-20T22:26:34.000Z",
-    "summary": "The major music company is expanding the scope of its claims against the AI platform, even after Universal and Warner made licensing peace.",
     "image": null
   },
   {
@@ -198,6 +207,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMi3AFBVV95cUxNa1NKTW9OdlF0dThibzZfb1ZhUmREcTlicFEta1NmbEp3c3duTlAzSGxsLU5QTndoRUlxd1RGSTdRQWhiai0xUDlHM3hCcE5ReFpHYUptN0RnZHNVRGVwSG41T1FIbGxRZHVzREFVU0JzbWJiWE5wemdMS2hNaEttNVQ5aDVXWUZQQURGekVqREhTSXhUVmhfTnJmV1hkd3Vjb0lFcVEwelJPemMtLUV5VFBzQmtNVzlvTWJheG1VMl9MVzJKQWU5ZVl4Nkt1dWJfNWhVNHdiZ2JQNE5P?oc=5",
+    "source": "nme",
+    "title": "Beastie Boys’ Mike D adds more UK dates to 2026 solo tour – including headlining Mutations alongside Fat Dog - NME",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNa1NKTW9OdlF0dThibzZfb1ZhUmREcTlicFEta1NmbEp3c3duTlAzSGxsLU5QTndoRUlxd1RGSTdRQWhiai0xUDlHM3hCcE5ReFpHYUptN0RnZHNVRGVwSG41T1FIbGxRZHVzREFVU0JzbWJiWE5wemdMS2hNaEttNVQ5aDVXWUZQQURGekVqREhTSXhUVmhfTnJmV1hkd3Vjb0lFcVEwelJPemMtLUV5VFBzQmtNVzlvTWJheG1VMl9MVzJKQWU5ZVl4Nkt1dWJfNWhVNHdiZ2JQNE5P?oc=5",
+    "publishedAt": "2026-07-20T18:32:03.000Z",
+    "summary": "Beastie Boys’ Mike D adds more UK dates to 2026 solo tour – including headlining Mutations alongside Fat Dog NME",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-latin-lists/rosalias-lux-tour-confessionals-celebrity-appearances-1235571575/",
     "source": "rolling-stone",
     "title": "The Most Revealing Celebrity Confessionals From Rosalía’s ‘Lux’ Tour",
@@ -258,15 +276,6 @@
     "url": "https://www.rollingstone.com/music/music-news/madonna-trump-world-cup-rumor-1235595216/",
     "publishedAt": "2026-07-20T16:32:07.000Z",
     "summary": "A viral tweet claimed the pop icon watched the final from Donald Trump’s suite. The woman in the footage was clearly someone else",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/songer-british-rapper-new-album-what-if-i-say-no-1235595843/",
-    "source": "rolling-stone",
-    "title": "Meet Songer, the British Star Who Rhymes Over Britney Spears and Says He’s ‘Not a Rapper’",
-    "url": "https://www.rollingstone.com/music/music-features/songer-british-rapper-new-album-what-if-i-say-no-1235595843/",
-    "publishedAt": "2026-07-20T16:16:35.000Z",
-    "summary": "Songer is not from London, remains resolutely independent, and fills his albums with confessional bars about mental health. It’s all working splendidly",
     "image": null
   },
   {
@@ -351,6 +360,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbFdpT1pPUTRleEk2R1cwYmFHc3QzNkZ1ZTZjR3NYS2RoRncxaFJyUE9ReWtBUHlzdFhzVVpKdkVncHgtWWVjRlRfakw3dTRWUUNoYzdXVnJPN28tZ1Y4bDZ0bkpjU0JscjBiTThQRXdfemRyYnpiVlJRWXJpOVRzdTVHcVphNXlSVkN5UXlsQXNfOG5kLU5IakVTMG55ck5iemo5QzJ6VUxTdlhwVDFVT25XbWt0VU1OMlVveGRLeFBISEtYWkEzRnlaQ1RZbzYwc21DWnJNUnk?oc=5",
+    "source": "nme",
+    "title": "Tributes paid after death of influential soul singer Ray King – who inspired the ska and 2 Tone movement - NME",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbFdpT1pPUTRleEk2R1cwYmFHc3QzNkZ1ZTZjR3NYS2RoRncxaFJyUE9ReWtBUHlzdFhzVVpKdkVncHgtWWVjRlRfakw3dTRWUUNoYzdXVnJPN28tZ1Y4bDZ0bkpjU0JscjBiTThQRXdfemRyYnpiVlJRWXJpOVRzdTVHcVphNXlSVkN5UXlsQXNfOG5kLU5IakVTMG55ck5iemo5QzJ6VUxTdlhwVDFVT25XbWt0VU1OMlVveGRLeFBISEtYWkEzRnlaQ1RZbzYwc21DWnJNUnk?oc=5",
+    "publishedAt": "2026-07-20T12:38:29.000Z",
+    "summary": "Tributes paid after death of influential soul singer Ray King – who inspired the ska and 2 Tone movement NME",
+    "image": null
+  },
+  {
     "id": "loudwire-https://loudwire.com/best-prog-metal-covers-prog-rock-songs/",
     "source": "loudwire",
     "title": "11 Best Prog Metal Covers of Prog Rock Songs",
@@ -405,21 +423,21 @@
     "image": null
   },
   {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMilgFBVV95cUxNLTdyU1RoZEJRZGZMNkc0Z09jcXRaQ3dOTWVWMGctQ1ZaeU5QdXJGNTEtYy15NEZ4RmROeXBRMXBkLXNxa3B3WXBHM0tPcDBvUHNMSEhoQWIyMGhkckRHeWNtTEVDdVdwWEg2b3lKWkkxc3JaUkpNZElnZUJHeGRmRzEtME8zaTBTd0tkMFY0QXFSbnhGT3c?oc=5",
+    "source": "kerrang",
+    "title": "Album review: Waterparks – JINX - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLTdyU1RoZEJRZGZMNkc0Z09jcXRaQ3dOTWVWMGctQ1ZaeU5QdXJGNTEtYy15NEZ4RmROeXBRMXBkLXNxa3B3WXBHM0tPcDBvUHNMSEhoQWIyMGhkckRHeWNtTEVDdVdwWEg2b3lKWkkxc3JaUkpNZElnZUJHeGRmRzEtME8zaTBTd0tkMFY0QXFSbnhGT3c?oc=5",
+    "publishedAt": "2026-07-20T09:10:00.000Z",
+    "summary": "Album review: Waterparks – JINX Kerrang!",
+    "image": null
+  },
+  {
     "id": "nme-https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeHNpYXhuNmpuemF5dlBRV1N5U24wVGoyeElLZG53ZDktTnAxa3dpRjVVbXZBUG5DRGg4WU9qcTU1dExhVzdKT3dwd0Z6eDdOb05jbjNJMmdNcVRVMGl6M0EzaHIyaW5WV1ozM0JKZEh0a1ZTWHBqajNPUF9hWjJiRzJNdG9xdXZJekJYUXNkTlhrZVFwZE1xTkVwaTV1dEhzNTZIUFJmMTVYWXc?oc=5",
     "source": "nme",
     "title": "Liam Gallagher compares \"cuckoo\" World Cup halftime show to \"a bad trip\" - NME",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeHNpYXhuNmpuemF5dlBRV1N5U24wVGoyeElLZG53ZDktTnAxa3dpRjVVbXZBUG5DRGg4WU9qcTU1dExhVzdKT3dwd0Z6eDdOb05jbjNJMmdNcVRVMGl6M0EzaHIyaW5WV1ozM0JKZEh0a1ZTWHBqajNPUF9hWjJiRzJNdG9xdXZJekJYUXNkTlhrZVFwZE1xTkVwaTV1dEhzNTZIUFJmMTVYWXc?oc=5",
     "publishedAt": "2026-07-20T09:01:37.000Z",
     "summary": "Liam Gallagher compares \"cuckoo\" World Cup halftime show to \"a bad trip\" NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMiigFBVV95cUxOeDVwaU9iU2xOR0dXa3ZLclU5X1l3X1ZlTHNCY1A3eE9SSkl4SmFaeTE5VzZjbFdxNDFjSlVnUVFYYi1QLVR1NnlGRHllQzJiczZtei1jT195M1ZNS19rNS1Ycy1OMjB0TU5oSHZwckxXd1k5MUNsZk5DV3Y4V21EVmpIbzdsUERsNkE?oc=5",
-    "source": "nme",
-    "title": "Ryan Reynolds confirms there will be another ‘Deadpool’ film - NME",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeDVwaU9iU2xOR0dXa3ZLclU5X1l3X1ZlTHNCY1A3eE9SSkl4SmFaeTE5VzZjbFdxNDFjSlVnUVFYYi1QLVR1NnlGRHllQzJiczZtei1jT195M1ZNS19rNS1Ycy1OMjB0TU5oSHZwckxXd1k5MUNsZk5DV3Y4V21EVmpIbzdsUERsNkE?oc=5",
-    "publishedAt": "2026-07-20T08:57:05.000Z",
-    "summary": "Ryan Reynolds confirms there will be another ‘Deadpool’ film NME",
     "image": null
   },
   {
@@ -510,15 +528,6 @@
     "url": "https://loudwire.com/liam-gallagher-shuts-down-fan-new-oasis-album-valid-amusing-reason/",
     "publishedAt": "2026-07-19T14:45:13.000Z",
     "summary": "Don't expect a follow-up to 2008's 'Dig Out Your Soul' anytime soon. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMipAFBVV95cUxOWVk1dU9GZWVIWUstTFY2azBlZmpldDljX3FxVUg5bl84elpyS21qeF90cTNEWTg2MDd4QnNVUEQycktuenNhY2FmQjh4Nms2c3JCWTZwblVGcGpIa0o0VVp1eEJMMDVOWGNvM1BXTmdOOGx4d1lTVjNlQ2s2RUYzUEZHRG9kUVNrSm5vbFNJNzM2blF6azVIejRfYnpmaTdNRU5jbQ?oc=5",
-    "source": "nme",
-    "title": "Netflix paid over $500million in cash for Ben Affleck’s AI company - NME",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWVk1dU9GZWVIWUstTFY2azBlZmpldDljX3FxVUg5bl84elpyS21qeF90cTNEWTg2MDd4QnNVUEQycktuenNhY2FmQjh4Nms2c3JCWTZwblVGcGpIa0o0VVp1eEJMMDVOWGNvM1BXTmdOOGx4d1lTVjNlQ2s2RUYzUEZHRG9kUVNrSm5vbFNJNzM2blF6azVIejRfYnpmaTdNRU5jbQ?oc=5",
-    "publishedAt": "2026-07-19T13:08:29.000Z",
-    "summary": "Netflix paid over $500million in cash for Ben Affleck’s AI company NME",
     "image": null
   },
   {
@@ -690,15 +699,6 @@
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WaXJpTjlVcGh6Y0xYQThXTnAxR0ZpMkJCR3J0eF80dENXT3cyYWdOaGh6U2YzWHF3ZE9jMWNBc2FBQ0w3VTMzcjhkeUgzdkxxUUVseG1HWFVueGRlRVQ2LVNvY0tuTkdkNFNBdWhWY2xvdw?oc=5",
     "publishedAt": "2026-07-16T08:28:00.000Z",
     "summary": "Album review: Motionless In White – Decades Kerrang!",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcDZZUXNOSFlrcUNrQTJZT1NSX09jT2Y2RnE4VXc5ZHpoMHBPa2c3WTFWc0ltVzZkY2Q2MExGZThkdkFYYjRJckdUMVJBU0w4eUhLdTRpeTk3R1F1dEw0N2ZhSXp2eUs4alpxVmM1RnN6dzkyaEZPMmpaUXNqeS1GOERaZC0xa0t5WWtRNmxTU1NtQlRxSnVEM2p6MnEwcHpBR0ExR0FYbDFiSGJJcnZETUpLMnQwSmRfYjdac2ttOVZndzJYOHlSN05rWnFTRmxHMlRoMjZCZEY2U3MxcFB5NnNyWGVXRUNT?oc=5",
-    "source": "kerrang",
-    "title": "“Chaotic recession pop, Y2K-coded, metal madness”: Scene Queen… - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcDZZUXNOSFlrcUNrQTJZT1NSX09jT2Y2RnE4VXc5ZHpoMHBPa2c3WTFWc0ltVzZkY2Q2MExGZThkdkFYYjRJckdUMVJBU0w4eUhLdTRpeTk3R1F1dEw0N2ZhSXp2eUs4alpxVmM1RnN6dzkyaEZPMmpaUXNqeS1GOERaZC0xa0t5WWtRNmxTU1NtQlRxSnVEM2p6MnEwcHpBR0ExR0FYbDFiSGJJcnZETUpLMnQwSmRfYjdac2ttOVZndzJYOHlSN05rWnFTRmxHMlRoMjZCZEY2U3MxcFB5NnNyWGVXRUNT?oc=5",
-    "publishedAt": "2026-07-15T17:00:00.000Z",
-    "summary": "“Chaotic recession pop, Y2K-coded, metal madness”: Scene Queen… Kerrang!",
     "image": null
   },
   {
