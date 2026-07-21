@@ -1,20 +1,137 @@
 [
   {
-    "id": "billboard-https://www.billboard.com/lists/future-rolling-stones-chart-highlights-july-25-2026/",
+    "id": "billboard-https://www.billboard.com/pro/spotify-launches-music-video-charts-playlists/",
     "source": "billboard",
-    "title": "Future, The Rolling Stones, Stella Lefty & More: Highlights of This Week’s Billboard Charts",
-    "url": "https://www.billboard.com/lists/future-rolling-stones-chart-highlights-july-25-2026/",
-    "publishedAt": "2026-07-21T15:47:35.000Z",
-    "summary": "All of Billboard’s charts update each Tuesday.",
+    "title": "Spotify Furthers Video Integration With Global Music Video Charts, Full-Length Uploads",
+    "url": "https://www.billboard.com/pro/spotify-launches-music-video-charts-playlists/",
+    "publishedAt": "2026-07-21T17:20:41.000Z",
+    "summary": "The streaming platform also launches full-length video uploads and a music video pitching tool.",
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/harry-styles-show-canceled-brazil-together-together-tour-1236299613/",
+    "id": "loudwire-https://loudwire.com/guns-n-roses-wildest-appetite-for-destruction-stories/",
+    "source": "loudwire",
+    "title": "Guns N' Roses' 11 Wildest Pre-'Appetite for Destruction' Stories",
+    "url": "https://loudwire.com/guns-n-roses-wildest-appetite-for-destruction-stories/",
+    "publishedAt": "2026-07-21T17:15:21.000Z",
+    "summary": "These are some of the Guns N' Roses members' wildest stories from before 'Appetite for Destruction' even came out in 1987. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
     "source": "billboard",
-    "title": "Harry Styles Cancels Together, Together Tour Date in Brazil: Here’s Why",
-    "url": "https://www.billboard.com/music/music-news/harry-styles-show-canceled-brazil-together-together-tour-1236299613/",
-    "publishedAt": "2026-07-21T15:40:32.000Z",
-    "summary": "The pop star was due to play the third show of a four-night run in São Paulo on July 21.",
+    "title": "Billboard’s Music Industry Events Calendar",
+    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "publishedAt": "2026-07-21T17:02:00.000Z",
+    "summary": "A complete rundown of the most important events across the music business.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/buy-kpop-demon-hunters-ramen-noodle-cup-3-flavors-online-1236298781/",
+    "source": "billboard",
+    "title": "Rumi Ramen? ‘KPop Demon Hunters’ Cook Up Instant Noodle Collab That You Can Buy Online Now",
+    "url": "https://www.billboard.com/culture/product-recommendations/buy-kpop-demon-hunters-ramen-noodle-cup-3-flavors-online-1236298781/",
+    "publishedAt": "2026-07-21T16:58:35.000Z",
+    "summary": "Each HUNTR/X member gets her own ramen flavor as part of the Nongshim collaboration.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/john-bonham-jensen-interceptor-auction-1235596516/",
+    "source": "rolling-stone",
+    "title": "A Car John Bonham Probably Drove Into a Ditch Is Headed to Auction",
+    "url": "https://www.rollingstone.com/music/music-news/john-bonham-jensen-interceptor-auction-1235596516/",
+    "publishedAt": "2026-07-21T16:57:26.000Z",
+    "summary": "The fully-rehabbed 1972 Jensen Interceptor III — which the Led Zeppelin drummer may have crashed in 1977 — will hit the block on July 25",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/shaboozey-outlaw-cherie-lee-album-features-gunna-kehlani-1235596578/",
+    "source": "rolling-stone",
+    "title": "Shaboozey Recruits Gunna, Teyana Taylor, and…Sam Elliott for ‘Outlaw Cherie Lee’ Album",
+    "url": "https://www.rollingstone.com/music/music-country/shaboozey-outlaw-cherie-lee-album-features-gunna-kehlani-1235596578/",
+    "publishedAt": "2026-07-21T16:49:38.000Z",
+    "summary": "The cinematic LP, out July 31, also features Kehlani, Orville Peck, Leon Bridges, and Jamie Foxx",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/her0ism-interview-j-pop-global-moment-maj-grammys-1236299672/",
+    "source": "billboard",
+    "title": "her0ism Talks J-Pop’s Global Moment, From MAJ’s Co-Writing Camp to the Grammys’ New Asian Category",
+    "url": "https://www.billboard.com/music/music-news/her0ism-interview-j-pop-global-moment-maj-grammys-1236299672/",
+    "publishedAt": "2026-07-21T16:49:30.000Z",
+    "summary": "Billboard Japan spoke with her0ism, who shared his perspective on the current state and future of the industry.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/harry-styles-cancels-brazil-show-health-issue-1235596495/",
+    "source": "rolling-stone",
+    "title": "Harry Styles Cancels Brazil Show Over ‘Health Issue’",
+    "url": "https://www.rollingstone.com/music/music-news/harry-styles-cancels-brazil-show-health-issue-1235596495/",
+    "publishedAt": "2026-07-21T16:31:55.000Z",
+    "summary": "The star was scheduled to perform four nights in the city, and Live Nation Brazil said Friday’s show in São Paulo will proceed as normal",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/robbie-williams-white-substance-face-world-cup-final-1236299636/",
+    "source": "billboard",
+    "title": "Robbie Williams Explains the White Substance on His Face That Sparked Concern at World Cup Final",
+    "url": "https://www.billboard.com/music/music-news/robbie-williams-white-substance-face-world-cup-final-1236299636/",
+    "publishedAt": "2026-07-21T16:29:29.000Z",
+    "summary": "The singer shut down speculation that the flake that fell onto his microphone was drug-related.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/dagmar-zuniga-to-tour-this-fall/",
+    "source": "pitchfork",
+    "title": "Dagmar Zuniga to Tour This Fall",
+    "url": "https://pitchfork.com/story/dagmar-zuniga-to-tour-this-fall/",
+    "publishedAt": "2026-07-21T16:26:13.000Z",
+    "summary": "Including opening dates for Cate Le Bon and Black Country, New Road",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/record-label-market-share-midyear-2026-republic-interscope/",
+    "source": "billboard",
+    "title": "2026 Midyear Record Label Market Share: REPUBLIC, Interscope Surge Back; Atlantic, Columbia Stay Hot",
+    "url": "https://www.billboard.com/pro/record-label-market-share-midyear-2026-republic-interscope/",
+    "publishedAt": "2026-07-21T16:25:52.000Z",
+    "summary": "After an unusual first quarter, big albums by Drake and Noah Kahan have REPUBLIC rising in current market share, while Interscope and Atlantic are up.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/2026-stellar-gospel-music-awards-kirk-franklin-host-nominees/",
+    "source": "billboard",
+    "title": "Kirk Franklin to Host 2026 Stellar Gospel Music Awards: Here’s the Full Nominations List",
+    "url": "https://www.billboard.com/lists/2026-stellar-gospel-music-awards-kirk-franklin-host-nominees/",
+    "publishedAt": "2026-07-21T16:12:43.000Z",
+    "summary": "Tasha Cobbs Leonard and Pastor Mike Jr. are set to receive honorary awards.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/world-cup-final-streaming-gains-shakira-bts-madonna/",
+    "source": "billboard",
+    "title": "Which Artist Got the Biggest Boost Performing at the World Cup?",
+    "url": "https://www.billboard.com/pro/world-cup-final-streaming-gains-shakira-bts-madonna/",
+    "publishedAt": "2026-07-21T16:10:52.000Z",
+    "summary": "Here's who enjoyed streaming bumps in the U.S. following performances during the title match.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/alley-boy-death-rapper-dead-1236299513/",
+    "source": "billboard",
+    "title": "Rapper Alley Boy Dead at 42 Following Battle With Kidney Disease: 21 Savage, Master P & More Pay Tribute",
+    "url": "https://www.billboard.com/music/rb-hip-hop/alley-boy-death-rapper-dead-1236299513/",
+    "publishedAt": "2026-07-21T16:03:15.000Z",
+    "summary": "The late artist's daughter confirmed his death in a post to social media on July 20.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/legal-beat-top-lawyers-list-x-music-settlement-bad-bunny/",
+    "source": "billboard",
+    "title": "Top Lawyers List, X Music Settlement, Bad Bunny Lawsuit & More Legal News Stories",
+    "url": "https://www.billboard.com/pro/legal-beat-top-lawyers-list-x-music-settlement-bad-bunny/",
+    "publishedAt": "2026-07-21T16:01:24.000Z",
+    "summary": "In this week's Legal Beat newsletter, Billboard names music's top attorneys, X settles with publishers, Bad Bunny fights a reggaeton ruling, and much more.",
     "image": null
   },
   {
@@ -27,57 +144,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/lists/jelly-roll-bunnie-xo-relationship-timeline/",
-    "source": "billboard",
-    "title": "A Timeline of Jelly Roll & Bunnie Xo’s Relationship",
-    "url": "https://www.billboard.com/lists/jelly-roll-bunnie-xo-relationship-timeline/",
-    "publishedAt": "2026-07-21T15:23:07.000Z",
-    "summary": "The country star filed for divorce after nearly 10 years of marriage to the podcaster.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/johnny-cash-i-walk-the-line-chart-rewind-1956-1236294687/",
-    "source": "billboard",
-    "title": "Chart Rewind: In 1956, Johnny Cash Took His First ‘Walk’ to No. 1",
-    "url": "https://www.billboard.com/music/chart-beat/johnny-cash-i-walk-the-line-chart-rewind-1956-1236294687/",
-    "publishedAt": "2026-07-21T15:12:52.000Z",
-    "summary": "The Man in Black performed “I Walk the Line” the night he met his future wife.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/jelly-roll-bunnie-xo-split-daughter-hints-reason-divorce-1236299508/",
-    "source": "billboard",
-    "title": "Jelly Roll’s Daughter Says Internet Will ‘Crumble’ When People ‘Find Out’ Why He & Bunnie Xo Split",
-    "url": "https://www.billboard.com/music/music-news/jelly-roll-bunnie-xo-split-daughter-hints-reason-divorce-1236299508/",
-    "publishedAt": "2026-07-21T15:08:25.000Z",
-    "summary": "The couple reportedly finalized their split in July after the country star filed in May.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/biggest-music-business-deals-2026-so-far/",
-    "source": "billboard",
-    "title": "The 13 Biggest Music Business Deals of 2026 So Far",
-    "url": "https://www.billboard.com/lists/biggest-music-business-deals-2026-so-far/",
-    "publishedAt": "2026-07-21T15:03:40.000Z",
-    "summary": "The industry saw a higher-than-normal number of big-money mergers, acquisitions, investments and capital raises in the first six months of the year.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/michael-jackson-billie-jean-number-1-top-gabb-music-songs-1236299515/",
-    "source": "billboard",
-    "title": "Michael Jackson Reigns With Top Two of Top Gabb Music Songs Chart",
-    "url": "https://www.billboard.com/music/chart-beat/michael-jackson-billie-jean-number-1-top-gabb-music-songs-1236299515/",
-    "publishedAt": "2026-07-21T15:03:08.000Z",
-    "summary": "The June 2026 edition features “Billie Jean” at No. 1, followed by “Beat It.”",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/rainbow-kitten-surprise-rolling-stone-rock-tour-1235595997/",
     "source": "rolling-stone",
     "title": "Rainbow Kitten Surprise Join Rolling Stone Rock Tour",
     "url": "https://www.rollingstone.com/music/music-news/rainbow-kitten-surprise-rolling-stone-rock-tour-1235595997/",
     "publishedAt": "2026-07-21T15:00:00.000Z",
-    "summary": "Alt-rock crew will bring their excellent live show to New York's Terminal 5 on Sept. 24",
+    "summary": "Alt-rock crew will bring their excellent live show to New York’s Terminal 5 on Sept. 24",
     "image": null
   },
   {
@@ -90,39 +162,21 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/awards/billboard-latin-music-awards-2026-date-1236299523/",
-    "source": "billboard",
-    "title": "Here’s the Date of the 2026 Billboard Latin Music Awards",
-    "url": "https://www.billboard.com/music/awards/billboard-latin-music-awards-2026-date-1236299523/",
-    "publishedAt": "2026-07-21T14:50:38.000Z",
-    "summary": "The event will coincide with Billboard Latin Music Week.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-features/public-image-ltd-sex-pistols-john-lydon-interview-1235585098/",
     "source": "rolling-stone",
     "title": "John Lydon: The Odds of Re-Joining the Sex Pistols are in the ‘Minus Infinities’",
     "url": "https://www.rollingstone.com/music/music-features/public-image-ltd-sex-pistols-john-lydon-interview-1235585098/",
     "publishedAt": "2026-07-21T14:41:54.000Z",
-    "summary": "With his most extensive Public Image Ltd. tour on the horizon, the former Johnny Rotten also explains his Trump comment and opens up about how Oasis' Noel Gallagher are helping PiL record a new album",
+    "summary": "With his most extensive Public Image Ltd. tour on the horizon, the former Johnny Rotten also explains his Trump comment and opens up about how Oasis’ Noel Gallagher are helping PiL record a new album",
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/pro/the-academy-of-country-music-names-andy-schuon-new-ceo/",
-    "source": "billboard",
-    "title": "The Academy of Country Music Names Andy Schuon New CEO: ‘Country Music is Having a Global Moment’",
-    "url": "https://www.billboard.com/pro/the-academy-of-country-music-names-andy-schuon-new-ceo/",
-    "publishedAt": "2026-07-21T14:30:00.000Z",
-    "summary": "Seasoned executive Schuon has held leadership roles at MTV, CBS Radio, Universal Music Group and more.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/gwen-stefani-blake-shelton-glam-5th-anniversary-date-night-1236299485/",
-    "source": "billboard",
-    "title": "Gwen Stefani and Blake Shelton Go Glam For Their Fifth Wedding Anniversary Date Night",
-    "url": "https://www.billboard.com/music/music-news/gwen-stefani-blake-shelton-glam-5th-anniversary-date-night-1236299485/",
-    "publishedAt": "2026-07-21T14:25:28.000Z",
-    "summary": "The couple who married on July 3, 2021, shared some footage of their night out, including Blake singing a bit of Montell Jordan's \"This Is How We Do It.\"",
+    "id": "louder-than-war-https://louderthanwar.com/james-taylor-piece-hall-halifax-live-review/",
+    "source": "louder-than-war",
+    "title": "James Taylor: Piece Hall, Halifax – Live Review",
+    "url": "https://louderthanwar.com/james-taylor-piece-hall-halifax-live-review/",
+    "publishedAt": "2026-07-21T14:15:09.000Z",
+    "summary": "James Taylor Piece Hall, Halifax Thursday 17th July 2026 Legendary singer/songwriter James Taylor took his fans on a trip down memory lane with his All-Star Band. Paul Clarke joins in the mellow vibe. Back in the seventies, when I was fighting the punk wars, sensitive West Coast influenced singer/songwriters, including James Taylor, seemed to be […] The post James Taylor: Piece Hall, Halifax – Live Review appeared first on Louder Than War.",
     "image": null
   },
   {
@@ -132,6 +186,15 @@
     "url": "https://www.rollingstone.com/music/music-news/patti-smith-carlos-santana-john-coltrane-book-excerpts-1235593207/",
     "publishedAt": "2026-07-21T14:12:28.000Z",
     "summary": "Coltrane: The Definitive Visual Celebration of the Legend, out in September, also contains essays by Phil Lesh and Wayne Coyne",
+    "image": null
+  },
+  {
+    "id": "louder-than-war-https://louderthanwar.com/super-furry-animals-fuzzy-logic-1996-revisited-album-reappraisal/",
+    "source": "louder-than-war",
+    "title": "Super Furry Animals : Fuzzy Logic (1996) – Revisited (album reappraisal)",
+    "url": "https://louderthanwar.com/super-furry-animals-fuzzy-logic-1996-revisited-album-reappraisal/",
+    "publishedAt": "2026-07-21T14:12:03.000Z",
+    "summary": "Backtracking once more to the golden decade of the 1990s, Louder Than War’s self-confessed music nostalgist Martin Gray revisits for its 30th anniversary (albeit belatedly) the near-flawless debut album from quite possibly the greatest Welsh band of modern times: Fuzzy Logic by Super Furry Animals. My first inaugural encounter with Super Furry Animals came – […] The post Super Furry Animals : Fuzzy Logic (1996) – Revisited (album reappraisal) appeared first on Louder Than War.",
     "image": null
   },
   {
@@ -243,15 +306,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/l7-1994-interview-1235595978/",
-    "source": "rolling-stone",
-    "title": "L7 Bask in the Sweet Stink of Success",
-    "url": "https://www.rollingstone.com/music/music-features/l7-1994-interview-1235595978/",
-    "publishedAt": "2026-07-20T22:12:12.000Z",
-    "summary": "Now that they signed with a major label, they're ordering the most expensive item on the menu. It's the punk thing to do",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/watch-john-glacier-live-out-her-007-fantasies-on-bond-girl/",
     "source": "pitchfork",
     "title": "Watch John Glacier Live Out Her 007 Fantasies in New “Bond Girl” Video",
@@ -279,15 +333,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/justin-bieber-world-cup-everything-hallelujah-streams-spike-1235596096/",
-    "source": "rolling-stone",
-    "title": "Justin Bieber’s Weird ‘Everything Hallelujah’ Song Gets 240 Percent Streaming Bump After World Cup",
-    "url": "https://www.rollingstone.com/music/music-news/justin-bieber-world-cup-everything-hallelujah-streams-spike-1235596096/",
-    "publishedAt": "2026-07-20T20:53:20.000Z",
-    "summary": "Some people thought the track didn’t match the vibe of the championship game, but it saw a huge spike in listeners",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/2000-trees-2026-wednesday-festival-review/",
     "source": "louder-than-war",
     "title": "2000 Trees 2026: Wednesday – Festival Review",
@@ -312,15 +357,6 @@
     "url": "https://loudwire.com/better-classic-metal-album-ozzy-osbourne-diary-of-a-madman-vs-black-sabbath-paranoid/",
     "publishedAt": "2026-07-20T20:21:54.000Z",
     "summary": "Let us know which is the better classic metal album - Ozzy's 'Diary of a Madman' or Black Sabbath's 'Paranoid.' Continue reading…",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/ai-artists-pushback-sza-doja-cat-1235585855/",
-    "source": "rolling-stone",
-    "title": "Have Artists Reached Their Breaking Point With AI?",
-    "url": "https://www.rollingstone.com/music/music-features/ai-artists-pushback-sza-doja-cat-1235585855/",
-    "publishedAt": "2026-07-20T19:45:51.000Z",
-    "summary": "With AI content and training models developing at a rapid pace, artists and streaming services are pushing back against the technology",
     "image": null
   },
   {
@@ -522,24 +558,6 @@
     "image": null
   },
   {
-    "id": "louder-than-war-https://louderthanwar.com/dispatches-from-the-kingdom-of-outsiders-by-tim-sommer-book-review/",
-    "source": "louder-than-war",
-    "title": "Dispatches From the Kingdom of Outsiders by Tim Sommer – Book Review",
-    "url": "https://louderthanwar.com/dispatches-from-the-kingdom-of-outsiders-by-tim-sommer-book-review/",
-    "publishedAt": "2026-07-20T07:47:50.000Z",
-    "summary": "Dispatches From The Kingdom Of Outsiders by Tim Sommer Published by: Trouser Press Books Release date: 4th August 2026 At various times a music journalist and a music business insider, Tim Sommer has created a stylish, entertaining and erudite collection of writings from, or about, the different stages of his career. The subtitle is ‘Writing […] The post Dispatches From the Kingdom of Outsiders by Tim Sommer – Book Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "louder-than-war-https://louderthanwar.com/the-come-apart-by-susannah-felts-book-review/",
-    "source": "louder-than-war",
-    "title": "The Come Apart by Susannah Felts – Book Review",
-    "url": "https://louderthanwar.com/the-come-apart-by-susannah-felts-book-review/",
-    "publishedAt": "2026-07-20T07:47:12.000Z",
-    "summary": "The Come Apart by Susannah Felts Published by: Northwestern University Press Release date: 15th July 2026 Susannah Felts’ novel about a female musician is as authentic as indie and as melancholy as the best country song. A “come apart” is a Southern US saying that means a breakdown. In this tale, it’s a phrase […] The post The Come Apart by Susannah Felts – Book Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/features/a-call-to-action-for-people-to-wake-up-the-wild-story-of-l7s-grunge-anthem-pretend-were-dead-155538/",
     "source": "uncut",
     "title": "“A call to action for people to wake up”: The wild story of L7’s grunge anthem, “Pretend We’re Dead”",
@@ -564,15 +582,6 @@
     "url": "https://pitchfork.com/story/watch-madonna-the-muppets-and-more-perform-at-2026-world-cup-final-halftime/",
     "publishedAt": "2026-07-19T21:48:09.000Z",
     "summary": "The 11-minute spectacle also included performances by Shakira, Justin Bieber, BTS, Burna Boy, and Coldplay’s Chris Martin",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/classic-nu-metal-band-skrape-returns-20-years-new-name-skrapegoat/",
-    "source": "loudwire",
-    "title": "Classic Nu-Metal Band Returns After 20 Years + With New Name",
-    "url": "https://loudwire.com/classic-nu-metal-band-skrape-returns-20-years-new-name-skrapegoat/",
-    "publishedAt": "2026-07-19T16:22:22.000Z",
-    "summary": "Their return comes several months after \"legal objections from certain members of the original lineup brought the project to an unexpected standstill,\" the singer's announcement clarifies. Continue reading…",
     "image": null
   },
   {
@@ -627,15 +636,6 @@
     "url": "https://www.uncut.co.uk/features/how-phoebe-bridgers-became-the-voice-of-a-generation-155468/",
     "publishedAt": "2026-07-18T10:00:00.000Z",
     "summary": "The feted singer-songwriter combines Laurel Canyon classicism with alt.folk intensity and a spot of witchcraft",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/jeff-tweedy-brings-out-in-the-dark-to-kimmel/",
-    "source": "pitchfork",
-    "title": "Jeff Tweedy Brings “Out in the Dark” to Kimmel",
-    "url": "https://pitchfork.com/story/jeff-tweedy-brings-out-in-the-dark-to-kimmel/",
-    "publishedAt": "2026-07-17T17:07:17.000Z",
-    "summary": "The singer played the Twilight Override track as Wilco wrap up their North American trek",
     "image": null
   },
   {
