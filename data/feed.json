@@ -1,5 +1,50 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/pop/kylie-minogue-snow-patrol-these-alarms-music-video-watch-1236300486/",
+    "source": "billboard",
+    "title": "Kylie Minogue Teams Up With Snow Patrol For ‘These Alarms’ Concert Video: Watch",
+    "url": "https://www.billboard.com/music/pop/kylie-minogue-snow-patrol-these-alarms-music-video-watch-1236300486/",
+    "publishedAt": "2026-07-22T05:10:15.000Z",
+    "summary": "Kylie joined forces with Snow Patrol on stage at Crystal Palace Park, for the debut performance of “These Alarms.\"",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/ozzy-osbourne-best-song-every-album/",
+    "source": "loudwire",
+    "title": " What's The Best Song Off Every Ozzy Osbourne Solo Album?",
+    "url": "https://loudwire.com/ozzy-osbourne-best-song-every-album/",
+    "publishedAt": "2026-07-22T05:00:00.000Z",
+    "summary": "These songs reinforce the Prince of Darkness' legacy and knack for reinvention. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/awards/intocable-history-six-riaa-latin-diamond-awards-1236300473/",
+    "source": "billboard",
+    "title": "Intocable Makes History With Six RIAA Latin Diamond Awards",
+    "url": "https://www.billboard.com/music/awards/intocable-history-six-riaa-latin-diamond-awards-1236300473/",
+    "publishedAt": "2026-07-22T04:21:21.000Z",
+    "summary": "The Texas-based outfit has now collected more RIAA Latin Diamond certifications than any other band.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/paul-mccartney-facetimes-ringo-beatles-magical-mystery-tour-1235596950/",
+    "source": "rolling-stone",
+    "title": "Paul McCartney Facetiming Ringo Starr During Beatles’ Magical Mystery Tour Is the Cameo of the Year",
+    "url": "https://www.rollingstone.com/music/music-news/paul-mccartney-facetimes-ringo-beatles-magical-mystery-tour-1235596950/",
+    "publishedAt": "2026-07-22T04:09:56.000Z",
+    "summary": "Lucky fans on the acclaimed Liverpool tour got the ultimate surprise from the icon this week",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/tv-film/sarah-hardwig-natural-gift-inspiring-audition-agt-watch-1236300462/",
+    "source": "billboard",
+    "title": "Sarah Hardwig Showcases Her ‘Natural Gift’ With Inspiring Audition on ‘AGT’: Watch",
+    "url": "https://www.billboard.com/culture/tv-film/sarah-hardwig-natural-gift-inspiring-audition-agt-watch-1236300462/",
+    "publishedAt": "2026-07-22T02:59:42.000Z",
+    "summary": "\"That was a really, really good audition,\" Simon Cowell remarked. \"I really hope this boosts your confidence, because you really, really have a natural gift.”",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/chart-beat/maluma-tu-recuerdo-tropical-airplay-number-1-1236300422/",
     "source": "billboard",
     "title": "Maluma’s ‘Loco X Volver’ Spins Off a Second Tropical Airplay No. 1",
@@ -63,39 +108,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/pop/5-seconds-of-summer-hot-ones-versus-video-1236300262/",
-    "source": "billboard",
-    "title": "Watch 5 Seconds of Summer Choose to Eat ‘Death Wings’ Rather Than Rank Each Other’s Solo Albums",
-    "url": "https://www.billboard.com/music/pop/5-seconds-of-summer-hot-ones-versus-video-1236300262/",
-    "publishedAt": "2026-07-21T23:53:54.000Z",
-    "summary": "The Australian band trade loyalty for ultimate bragging rights on Hot Ones Versus while eating scorching wings & asking brutally honest questions.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/doja-cat-latto-okayyy-video-tour-ma-vie-1236300237/",
-    "source": "billboard",
-    "title": "Doja Cat & Latto Team Up for Sexy 2000s-Themed ‘Okayyy’ Video, Atlanta Rapper to Join Doja’s Ma Vie World Tour",
-    "url": "https://www.billboard.com/music/rb-hip-hop/doja-cat-latto-okayyy-video-tour-ma-vie-1236300237/",
-    "publishedAt": "2026-07-21T23:37:47.000Z",
-    "summary": "The North American leg of Doja's trek kicks off Oct. 1 in Detroit.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/cher-1-million-legal-fees-sonny-bono-widow-mary-royalties-1235596860/",
     "source": "rolling-stone",
     "title": "Cher Must Pay Own $1 Million Legal Tab Over Royalties Battle With Sonny Bono’s Widow",
     "url": "https://www.rollingstone.com/music/music-news/cher-1-million-legal-fees-sonny-bono-widow-mary-royalties-1235596860/",
     "publishedAt": "2026-07-21T23:27:43.000Z",
     "summary": "Despite her victory in a legal feud over royalties with Mary Bono last year, Cher must pay the eye-watering legal fees she racked up",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/lizzo-sports-illustrated-swimsuit-cover-debut-photos-1236300238/",
-    "source": "billboard",
-    "title": "Lizzo Is ‘That Grrrl’ In ‘Sports Illustrated’ Swimsuit Cover Debut: ‘My Newest Fantasy Is Feeling Good in My Body & Enjoying My Life’",
-    "url": "https://www.billboard.com/music/music-news/lizzo-sports-illustrated-swimsuit-cover-debut-photos-1236300238/",
-    "publishedAt": "2026-07-21T22:43:11.000Z",
-    "summary": "The Grammy winner also gave an update on her forthcoming Sister Rosetta Tharpe biopic.",
     "image": null
   },
   {
@@ -117,6 +135,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMi4wFBVV95cUxPV0FwYi1TYzJlNG41cC1pVEkzbTBlTnVEU0dXRFNzMnpBM194dHh0N2xHQXlyWWVXVnBmN3ByQkFJLXVySjVBVGF6aWlEZ1JWM0dHay05T1RZejFrVVNvZ2t3UlFjOEg0a2xEamZ5TkpaVXVpM1R5amt1YjdoY1k4QUd0SmhIU01yTnFyYnBYcUxLZDRWTFJsdmlzdXZKNXFOMVloN1g2bi0wR1lyMVBMVzExRE5US2ZsV3FZY2trLXBaQmJXeVg4X2IwRmN5NGVjVmpVdjFMN2hQSloxRWtadDRBUQ?oc=5",
+    "source": "nme",
+    "title": "Charli XCX shares reflective new single ‘Camera’ with video directed by Aidan Zamiri and starring Vincent Cassel - NME",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPV0FwYi1TYzJlNG41cC1pVEkzbTBlTnVEU0dXRFNzMnpBM194dHh0N2xHQXlyWWVXVnBmN3ByQkFJLXVySjVBVGF6aWlEZ1JWM0dHay05T1RZejFrVVNvZ2t3UlFjOEg0a2xEamZ5TkpaVXVpM1R5amt1YjdoY1k4QUd0SmhIU01yTnFyYnBYcUxLZDRWTFJsdmlzdXZKNXFOMVloN1g2bi0wR1lyMVBMVzExRE5US2ZsV3FZY2trLXBaQmJXeVg4X2IwRmN5NGVjVmpVdjFMN2hQSloxRWtadDRBUQ?oc=5",
+    "publishedAt": "2026-07-21T20:39:44.000Z",
+    "summary": "Charli XCX shares reflective new single ‘Camera’ with video directed by Aidan Zamiri and starring Vincent Cassel NME",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/charli-xcx-vincent-cassel-camera-music-video-1235596723/",
     "source": "rolling-stone",
     "title": "Charli XCX Keeps the ‘Camera’ Rolling on Vincent Cassel in New Video",
@@ -128,7 +155,7 @@
   {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/d4vd-evidence-hearing-celeste-rivas-hernandez-photos-1235596063/",
     "source": "rolling-stone",
-    "title": "Celeste Rivas Hernandez Was ‘Unrecognizable,’ Cop Who Saw Remains Recalls at D4vd Hearing",
+    "title": "Celeste Rivas Hernandez Was ‘Unrecognizable,’ Cop Who Saw Remains Testifies at D4vd Hearing",
     "url": "https://www.rollingstone.com/music/music-news/d4vd-evidence-hearing-celeste-rivas-hernandez-photos-1235596063/",
     "publishedAt": "2026-07-21T18:40:14.000Z",
     "summary": "Prosecutors began to lay out the evidence against the 21-year-old singer, who's accused of murdering and dismembering the 14-year-old girl",
@@ -267,15 +294,6 @@
     "url": "https://louderthanwar.com/james-taylor-piece-hall-halifax-live-review/",
     "publishedAt": "2026-07-21T14:15:09.000Z",
     "summary": "James Taylor Piece Hall, Halifax Thursday 17th July 2026 Legendary singer/songwriter James Taylor took his fans on a trip down memory lane with his All-Star Band. Paul Clarke joins in the mellow vibe. Back in the seventies, when I was fighting the punk wars, sensitive West Coast influenced singer/songwriters, including James Taylor, seemed to be […] The post James Taylor: Piece Hall, Halifax – Live Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/patti-smith-carlos-santana-john-coltrane-book-excerpts-1235593207/",
-    "source": "rolling-stone",
-    "title": "Patti Smith, Carlos Santana Capture John Coltrane’s Singularities in Book Excerpt",
-    "url": "https://www.rollingstone.com/music/music-news/patti-smith-carlos-santana-john-coltrane-book-excerpts-1235593207/",
-    "publishedAt": "2026-07-21T14:12:28.000Z",
-    "summary": "Coltrane: The Definitive Visual Celebration of the Legend, out in September, also contains essays by Phil Lesh and Wayne Coyne",
     "image": null
   },
   {
@@ -495,15 +513,6 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ0tDZVNxYjhIYVVCNFFrRjQ0RUVCdllPRkpxODY3ajRNMHJuTFJ6SFctOGllbHNwUUpsR09rRjlYaHVpS2FHOXhfX01pWWNReXVPTEljOVFhX1Q0T3BON25KODNqX19jS1JoUFVIeER1NUpacmkwN1dlMkNrTFQtMFpEZk43aU1adDllMDRGeVp2ZGRMeUhaRnZheXF0ZURiZjRNdWVXQkpEb1hyQ0tCMk1fNTl6czFsRUM4?oc=5",
-    "source": "nme",
-    "title": "Arca announces new album ‘XXXXX’ and ambitious Daniel Sannwald-directed livestream - NME",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ0tDZVNxYjhIYVVCNFFrRjQ0RUVCdllPRkpxODY3ajRNMHJuTFJ6SFctOGllbHNwUUpsR09rRjlYaHVpS2FHOXhfX01pWWNReXVPTEljOVFhX1Q0T3BON25KODNqX19jS1JoUFVIeER1NUpacmkwN1dlMkNrTFQtMFpEZk43aU1adDllMDRGeVp2ZGRMeUhaRnZheXF0ZURiZjRNdWVXQkpEb1hyQ0tCMk1fNTl6czFsRUM4?oc=5",
-    "publishedAt": "2026-07-20T14:00:14.000Z",
-    "summary": "Arca announces new album ‘XXXXX’ and ambitious Daniel Sannwald-directed livestream NME",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/cmat-the-piece-hall-halifax-live-review/",
     "source": "louder-than-war",
     "title": "CMAT: The Piece Hall, Halifax – Live Review",
@@ -582,15 +591,6 @@
     "url": "https://www.uncut.co.uk/features/a-call-to-action-for-people-to-wake-up-the-wild-story-of-l7s-grunge-anthem-pretend-were-dead-155538/",
     "publishedAt": "2026-07-20T07:35:04.000Z",
     "summary": "Donita Sparks, Suzi Gardner and producer Butch Vig revisit the making of the 1992 hit",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/jonathan-cain-bruce-springsteen-shut-up-about-politics/",
-    "source": "loudwire",
-    "title": "Jonathan Cain Tells Bruce Springsteen to 'Shut Up' About Politics",
-    "url": "https://loudwire.com/jonathan-cain-bruce-springsteen-shut-up-about-politics/",
-    "publishedAt": "2026-07-20T02:24:49.000Z",
-    "summary": "Journey keyboardist describes the Boss as an 'annoying, bitter old man.' Continue reading…",
     "image": null
   },
   {
