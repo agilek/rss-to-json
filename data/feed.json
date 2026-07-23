@@ -1,5 +1,32 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/the-black-eyed-peas-my-humps-1-billion-views-youtube-1236301265/",
+    "source": "billboard",
+    "title": "The Black Eyed Peas’ ‘My Humps’ Bounces to 1 Billion Views on YouTube",
+    "url": "https://www.billboard.com/music/rb-hip-hop/the-black-eyed-peas-my-humps-1-billion-views-youtube-1236301265/",
+    "publishedAt": "2026-07-23T09:53:39.000Z",
+    "summary": "It's their third music video to reach the milestone after “Where Is the Love?” and “RITMO.”",
+    "image": null
+  },
+  {
+    "id": "uncut-https://www.uncut.co.uk/news/listen-to-teenage-fanclubs-day-in-the-sun-from-new-album-do-not-dare-to-dream-155553/",
+    "source": "uncut",
+    "title": "Listen to Teenage Fanclub’s “Day In The Sun”, from new album Do Not Dare To Dream",
+    "url": "https://www.uncut.co.uk/news/listen-to-teenage-fanclubs-day-in-the-sun-from-new-album-do-not-dare-to-dream-155553/",
+    "publishedAt": "2026-07-23T09:32:22.000Z",
+    "summary": "Please give a warm welcome to the band's 13th studio album",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/country/shania-twain-talks-taylor-swift-new-album-fallon-1236301256/",
+    "source": "billboard",
+    "title": "‘I Love Everything About Her’: Shania Twain Has Only Good Things to Say About Taylor Swift",
+    "url": "https://www.billboard.com/music/country/shania-twain-talks-taylor-swift-new-album-fallon-1236301256/",
+    "publishedAt": "2026-07-23T08:27:17.000Z",
+    "summary": "The legendary Canadian singer and songwriter also confirmed the rumors of a musical and biopic. “It’s all real, it’s all happening.\"",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/shania-twain-dirty-rosie-performance-fallon-1235597635/",
     "source": "rolling-stone",
     "title": "Shania Twain Performs Rousing Single ‘Dirty Rosie’ on ‘Fallon’",
@@ -108,30 +135,21 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/rock/tony-thorpe-death-rubettes-guitarist-songwriter-1236301131/",
-    "source": "billboard",
-    "title": "Tony Thorpe, Guitarist & Songwriter for Glam Rockers The Rubettes, Dies at 80",
-    "url": "https://www.billboard.com/music/rock/tony-thorpe-death-rubettes-guitarist-songwriter-1236301131/",
-    "publishedAt": "2026-07-22T22:53:21.000Z",
-    "summary": "The musician is remembered by family & former bandmate Alan Williams in a heartfelt tribute.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/country/johnny-cash-personal-archives-belmont-university-1236300861/",
-    "source": "billboard",
-    "title": "Belmont University to House Johnny Cash’s Personal Archives",
-    "url": "https://www.billboard.com/music/country/johnny-cash-personal-archives-belmont-university-1236300861/",
-    "publishedAt": "2026-07-22T22:36:37.000Z",
-    "summary": "The archives will be part of the new Johnny Cash Learning Center at Belmont University's Mike Curb College of Entertainment & Music Business.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/victoria-monet-new-album-song-frequency-of-love-reach-out-1235597490/",
     "source": "rolling-stone",
     "title": "Victoria Monét Previews ‘Frequency of Love’ Album With New Song ‘Reach Out’",
     "url": "https://www.rollingstone.com/music/music-news/victoria-monet-new-album-song-frequency-of-love-reach-out-1235597490/",
     "publishedAt": "2026-07-22T22:21:34.000Z",
     "summary": "Singer’s sophomore record is slated to arrive in the fall",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMitAFBVV95cUxNbUdRdjdVNmxiVGRDM2pRMGFGVTBERFBfeDkxRG9UQlVsajhYc1BJQU1fcFJJcGN1Y1diNnF4VzZmOWNhbEdWSGx1dGFxcFFsVmNGTE53bkpQd2RvS0N2bnhzR1ZISjJzTHF2Y2VsVmQ0RXJvMDhnSnoyNlVoMGYtVEExc3RWWHNmVGRrOWwxbFUwTXgyck9qZ29hZmQ1cTRSWEtaR0RGcmlxOTlxcXV5YUpQcDU?oc=5",
+    "source": "nme",
+    "title": "The Rolling Stones’ Mick Jagger says there’s “nothing good” about getting older - NME",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbUdRdjdVNmxiVGRDM2pRMGFGVTBERFBfeDkxRG9UQlVsajhYc1BJQU1fcFJJcGN1Y1diNnF4VzZmOWNhbEdWSGx1dGFxcFFsVmNGTE53bkpQd2RvS0N2bnhzR1ZISjJzTHF2Y2VsVmQ0RXJvMDhnSnoyNlVoMGYtVEExc3RWWHNmVGRrOWwxbFUwTXgyck9qZ29hZmQ1cTRSWEtaR0RGcmlxOTlxcXV5YUpQcDU?oc=5",
+    "publishedAt": "2026-07-22T20:36:05.000Z",
+    "summary": "The Rolling Stones’ Mick Jagger says there’s “nothing good” about getting older NME",
     "image": null
   },
   {
@@ -342,6 +360,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMizAFBVV95cUxNM3dYV1QxaUgzU3h5dFE5WGdkWlA0VHV6SVBYUVVyU09mRVg2aWt5VlNJSTgzQkNQd0NoVE1MbThIMEgtNTlBdlMxZEFwck1LX3lFdHF1dGoybm5YTThnbGFFWmI1UG5tOXNXNmVJS2NSN2MwWmZ2WllLMG11QmV2SktGZW0zYUhKUDZLUExXWDVoTTVSekNnRU84TzQ4Y1dudWV5Um1xOUJxOVBydURMd1pKTnotcHZ0TmJhZXptdlZwbVlUWXM3cUJfdXM?oc=5",
+    "source": "nme",
+    "title": "John Lydon says Sex Pistols are \"special people with special needs” and he'll \"never forgive\" them - NME",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNM3dYV1QxaUgzU3h5dFE5WGdkWlA0VHV6SVBYUVVyU09mRVg2aWt5VlNJSTgzQkNQd0NoVE1MbThIMEgtNTlBdlMxZEFwck1LX3lFdHF1dGoybm5YTThnbGFFWmI1UG5tOXNXNmVJS2NSN2MwWmZ2WllLMG11QmV2SktGZW0zYUhKUDZLUExXWDVoTTVSekNnRU84TzQ4Y1dudWV5Um1xOUJxOVBydURMd1pKTnotcHZ0TmJhZXptdlZwbVlUWXM3cUJfdXM?oc=5",
+    "publishedAt": "2026-07-22T13:52:04.000Z",
+    "summary": "John Lydon says Sex Pistols are \"special people with special needs” and he'll \"never forgive\" them NME",
+    "image": null
+  },
+  {
     "id": "pitchfork-https://pitchfork.com/story/listen-to-militarie-guns-new-song-with-mannequin-pussy/",
     "source": "pitchfork",
     "title": "Listen to Militarie Gun’s New Song With Mannequin Pussy",
@@ -450,6 +477,15 @@
     "image": null
   },
   {
+    "id": "uncut-https://www.uncut.co.uk/news/paul-mccartney-155555/",
+    "source": "uncut",
+    "title": "When Paul McCartney gave a bus full of Beatles fans the shock of their lives in Liverpool",
+    "url": "https://www.uncut.co.uk/news/paul-mccartney-155555/",
+    "publishedAt": "2026-07-22T09:00:00.000Z",
+    "summary": "Roll up for the Mystery Tour!",
+    "image": null
+  },
+  {
     "id": "loudwire-https://loudwire.com/ozzy-osbourne-albums-ranked/",
     "source": "loudwire",
     "title": "Ozzy Osbourne Albums Ranked From Worst to Best",
@@ -495,30 +531,12 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRXlnOUc4Q0J5VTVIMUlacXdQSUJpZTVCSjg4UFFCNXRVd1kzLUlUQ01PMGpLYXJYOUxJTlRDZS0xdGVsTjJNTmFlbFNUU1BiNldxaU9fcVAyUGhzUW9ualhneFpqMktXdWlnVjJfeEJDcE9GWEp2M0hoVmU2TWxiOUx5VGdtRUJ5ZERhRWdGa0J0QXJ1TTRtVWVLTDRrcFhJblpFLXRxX000Z21YUF9sVGtPODFLeFJRS1c4?oc=5",
-    "source": "nme",
-    "title": "Oasis’ ‘(What’s The Story) Morning Glory?’ named “biggest studio album of all time” in UK - NME",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRXlnOUc4Q0J5VTVIMUlacXdQSUJpZTVCSjg4UFFCNXRVd1kzLUlUQ01PMGpLYXJYOUxJTlRDZS0xdGVsTjJNTmFlbFNUU1BiNldxaU9fcVAyUGhzUW9ualhneFpqMktXdWlnVjJfeEJDcE9GWEp2M0hoVmU2TWxiOUx5VGdtRUJ5ZERhRWdGa0J0QXJ1TTRtVWVLTDRrcFhJblpFLXRxX000Z21YUF9sVGtPODFLeFJRS1c4?oc=5",
-    "publishedAt": "2026-07-22T06:28:54.000Z",
-    "summary": "Oasis’ ‘(What’s The Story) Morning Glory?’ named “biggest studio album of all time” in UK NME",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/ozzy-osbourne-best-song-every-album/",
     "source": "loudwire",
     "title": " What's The Best Song Off Every Ozzy Osbourne Solo Album?",
     "url": "https://loudwire.com/ozzy-osbourne-best-song-every-album/",
     "publishedAt": "2026-07-22T05:00:00.000Z",
     "summary": "These songs reinforce the Prince of Darkness' legacy and knack for reinvention. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMi4wFBVV95cUxPV0FwYi1TYzJlNG41cC1pVEkzbTBlTnVEU0dXRFNzMnpBM194dHh0N2xHQXlyWWVXVnBmN3ByQkFJLXVySjVBVGF6aWlEZ1JWM0dHay05T1RZejFrVVNvZ2t3UlFjOEg0a2xEamZ5TkpaVXVpM1R5amt1YjdoY1k4QUd0SmhIU01yTnFyYnBYcUxLZDRWTFJsdmlzdXZKNXFOMVloN1g2bi0wR1lyMVBMVzExRE5US2ZsV3FZY2trLXBaQmJXeVg4X2IwRmN5NGVjVmpVdjFMN2hQSloxRWtadDRBUQ?oc=5",
-    "source": "nme",
-    "title": "Charli XCX shares reflective new single ‘Camera’ with video directed by Aidan Zamiri and starring Vincent Cassel - NME",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPV0FwYi1TYzJlNG41cC1pVEkzbTBlTnVEU0dXRFNzMnpBM194dHh0N2xHQXlyWWVXVnBmN3ByQkFJLXVySjVBVGF6aWlEZ1JWM0dHay05T1RZejFrVVNvZ2t3UlFjOEg0a2xEamZ5TkpaVXVpM1R5amt1YjdoY1k4QUd0SmhIU01yTnFyYnBYcUxLZDRWTFJsdmlzdXZKNXFOMVloN1g2bi0wR1lyMVBMVzExRE5US2ZsV3FZY2trLXBaQmJXeVg4X2IwRmN5NGVjVmpVdjFMN2hQSloxRWtadDRBUQ?oc=5",
-    "publishedAt": "2026-07-21T20:39:44.000Z",
-    "summary": "Charli XCX shares reflective new single ‘Camera’ with video directed by Aidan Zamiri and starring Vincent Cassel NME",
     "image": null
   },
   {
@@ -699,24 +717,6 @@
     "url": "https://www.uncut.co.uk/news/bob-dylan-announces-uk-tour-dates-for-november-and-december-155503/",
     "publishedAt": "2026-07-16T15:03:21.000Z",
     "summary": "Includes a five-night residency at London's Royal Festival Hall",
-    "image": null
-  },
-  {
-    "id": "uncut-https://www.uncut.co.uk/news/echo-the-bunnymen-unveil-their-first-new-album-in-12-years-apples-for-isaac-155498/",
-    "source": "uncut",
-    "title": "Echo & The Bunnymen unveil their first new album in 12 years, Apples For Isaac",
-    "url": "https://www.uncut.co.uk/news/echo-the-bunnymen-unveil-their-first-new-album-in-12-years-apples-for-isaac-155498/",
-    "publishedAt": "2026-07-16T09:49:55.000Z",
-    "summary": "Watch a video for lead single \"Brussels Is Haunted\" now",
-    "image": null
-  },
-  {
-    "id": "uncut-https://www.uncut.co.uk/news/hear-the-previously-unreleased-1965-david-bowie-song-i-want-your-love-155485/",
-    "source": "uncut",
-    "title": "Hear the previously unreleased 1965 David Bowie song, “I Want Your Love”",
-    "url": "https://www.uncut.co.uk/news/hear-the-previously-unreleased-1965-david-bowie-song-i-want-your-love-155485/",
-    "publishedAt": "2026-07-15T13:30:55.000Z",
-    "summary": "It's one of several unreleased tracks on David Bowie: The Shel Talmy Recordings, due for release in September",
     "image": null
   }
 ]
