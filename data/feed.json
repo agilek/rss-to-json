@@ -1,11 +1,164 @@
 [
   {
-    "id": "billboard-https://www.billboard.com/pro/label-look-music-soup-vincent-mason-wisp/",
+    "id": "billboard-https://www.billboard.com/lists/songs-that-were-big-uk-hits-but-not-in-the-u-s/",
     "source": "billboard",
-    "title": "Label Look: From Vincent Mason to Wisp, Music Soup Is Heating Up — And Its Founders Are Hungry for More",
-    "url": "https://www.billboard.com/pro/label-look-music-soup-vincent-mason-wisp/",
-    "publishedAt": "2026-07-24T15:00:00.000Z",
-    "summary": "As several of the label’s artists gain steam, co-founders Sean Lewow and Max Motley say they “haven’t remotely scratched the surface” of their ambitions.",
+    "title": "Every Song That Topped the U.K. Chart for 8 or More Weeks, But Didn’t Make the Top 10 on the Hot 100",
+    "url": "https://www.billboard.com/lists/songs-that-were-big-uk-hits-but-not-in-the-u-s/",
+    "publishedAt": "2026-07-24T17:34:46.000Z",
+    "summary": "\"Rein Me In” by Sam Fender and Olivia Dean is the first single to log 18 weeks at No. 1 in the U.K. without making the top 40 on the Hot 100.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rock/luis-maldonado-foreigner-journey-mexico-interview-1236221517/",
+    "source": "billboard",
+    "title": "From Rock-Loving Kid in Mexico to Lead Singer of Foreigner: This is Luis Maldonado",
+    "url": "https://www.billboard.com/music/rock/luis-maldonado-foreigner-journey-mexico-interview-1236221517/",
+    "publishedAt": "2026-07-24T17:30:04.000Z",
+    "summary": "\"That's kind of what made me obsessed with music,\" the Nogales, Sonora-born singer says of the legendary classic rock band's sound.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/charli-xcx-tyla-anitta-songs-you-need-to-know-1235598457/",
+    "source": "rolling-stone",
+    "title": "Charli XCX, Tyla, Anitta, and All the Songs You Need to Know This Week",
+    "url": "https://www.rollingstone.com/music/music-features/charli-xcx-tyla-anitta-songs-you-need-to-know-1235598457/",
+    "publishedAt": "2026-07-24T17:27:00.000Z",
+    "summary": "Looking for the week’s best new music? Check out our Songs You Need to Know playlist",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/ministry-announce-final-album-and-farewell-tours/",
+    "source": "pitchfork",
+    "title": "Ministry Announce Final Album and Farewell Tours",
+    "url": "https://pitchfork.com/story/ministry-announce-final-album-and-farewell-tours/",
+    "publishedAt": "2026-07-24T17:12:43.000Z",
+    "summary": "The industrial metallers are winding things down with Hate to Go (Take Out or Delivery)",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/white-stripes-most-expensive-discogs/",
+    "source": "loudwire",
+    "title": "The Rarest White Stripes Single + Why It's Worth $25,000",
+    "url": "https://loudwire.com/white-stripes-most-expensive-discogs/",
+    "publishedAt": "2026-07-24T17:06:10.000Z",
+    "summary": "A White Stripes single from 1998 just sold for $25,000 — and it originally went for six bucks at the counter. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/katseye-demi-moore-animal-music-video-watch-1236302362/",
+    "source": "billboard",
+    "title": "‘Alright, Let’s Get Wild’: Demi Moore Helps KATSEYE Unlock Their Inner ‘Animal’: Watch",
+    "url": "https://www.billboard.com/music/music-news/katseye-demi-moore-animal-music-video-watch-1236302362/",
+    "publishedAt": "2026-07-24T17:01:41.000Z",
+    "summary": "The track marks the band's second single from upcoming EP Wild.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/guns-n-roses-2026-tour-charlotte-setlist-photos/",
+    "source": "loudwire",
+    "title": "Guns N' Roses Kick off 2026 North American Tour - Setlist + Photo",
+    "url": "https://loudwire.com/guns-n-roses-2026-tour-charlotte-setlist-photos/",
+    "publishedAt": "2026-07-24T17:00:42.000Z",
+    "summary": "See the 29-song setlist and photos from Guns N' Roses' North American tour kickoff on July 23 in Raleigh, North Carolina. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/sam-fender-olivia-dean-rein-me-in-all-time-record-uk-number-1-1236302219/",
+    "source": "billboard",
+    "title": "Sam Fender & Olivia Dean’s ‘Rein Me In’ Ties All-Time Record with 18th Week as U.K. No. 1 Single",
+    "url": "https://www.billboard.com/music/chart-beat/sam-fender-olivia-dean-rein-me-in-all-time-record-uk-number-1-1236302219/",
+    "publishedAt": "2026-07-24T17:00:00.000Z",
+    "summary": "The song is level with Frankie Laine's 1953 song \"I Believe.\"",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/gracie-abrams-daughter-from-hell-uk-number-one-album-1236302265/",
+    "source": "billboard",
+    "title": "Gracie Abrams Scores Second U.K. No. 1 LP with ‘Daughter From Hell’",
+    "url": "https://www.billboard.com/music/chart-beat/gracie-abrams-daughter-from-hell-uk-number-one-album-1236302265/",
+    "publishedAt": "2026-07-24T17:00:00.000Z",
+    "summary": "Abrams' 2024 album The Story of Us also hit the top spot.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/nike-music-exec-charged-with-stealing-1m-from-company/",
+    "source": "billboard",
+    "title": "Nike Music Exec Charged With Stealing $1M From Company in ‘Orchestrated Kickback Scheme’",
+    "url": "https://www.billboard.com/pro/nike-music-exec-charged-with-stealing-1m-from-company/",
+    "publishedAt": "2026-07-24T16:58:59.000Z",
+    "summary": "Prosecutors charged a former music supervisor at the sneaker giant with racketeering, theft and money laundering over the alleged scheme.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/king-diamond-split-andy-larocque-gus-g-added/",
+    "source": "loudwire",
+    "title": "King Diamond Split With Co-Founding Guitarist, Reveal Replacement",
+    "url": "https://loudwire.com/king-diamond-split-andy-larocque-gus-g-added/",
+    "publishedAt": "2026-07-24T16:56:26.000Z",
+    "summary": "Andy LaRocque's replacement in King Diamond has been revealed. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/country/orville-peck-4th-studio-album-mule-too-little-too-late-single-1236302257/",
+    "source": "billboard",
+    "title": "Orville Peck Announces Fourth Studio Album, ‘Mule,’ Drops Boot-Scootin’ ‘Too Little, Too Late’ Single",
+    "url": "https://www.billboard.com/music/country/orville-peck-4th-studio-album-mule-too-little-too-late-single-1236302257/",
+    "publishedAt": "2026-07-24T16:36:27.000Z",
+    "summary": "The LP, the masked country singer's most personal to date, is due out on Sept. 18 on Warner Records.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/nate-bargatze-june-comedy-boxscore-2026/",
+    "source": "billboard",
+    "title": "Nate Bargatze Lands Milestone No. 1 on Monthly Comedy Boxscore Recap: By the Numbers",
+    "url": "https://www.billboard.com/lists/nate-bargatze-june-comedy-boxscore-2026/",
+    "publishedAt": "2026-07-24T16:19:30.000Z",
+    "summary": "A detailed breakdown of the biggest touring comedians of the month.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/corridos-del-rey-signs-management-deal-vhr-music/",
+    "source": "billboard",
+    "title": "Corridos del Rey Signs Management Deal With VHR Music",
+    "url": "https://www.billboard.com/pro/corridos-del-rey-signs-management-deal-vhr-music/",
+    "publishedAt": "2026-07-24T16:00:00.000Z",
+    "summary": "The Colombian artist, who's gone viral with the track \"Ayer Hablé con Dios,\" will be co-managed by Victor Ruiz and Gustavo Ariza.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/david-lee-roth-tour-canceled/",
+    "source": "loudwire",
+    "title": "Sammy Hagar's Response to David Lee Roth's Tour Cancelation",
+    "url": "https://loudwire.com/david-lee-roth-tour-canceled/",
+    "publishedAt": "2026-07-24T15:50:13.000Z",
+    "summary": "Red Rocker invites his counterpart to join his band for Las Vegas residency, even it’s just to compare the shows. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/sean-combs-solitary-confinement-after-prison-fight-1235597168/",
+    "source": "rolling-stone",
+    "title": "Sean Combs Placed in Solitary Confinement After Brawl With Fellow Inmate: Reports",
+    "url": "https://www.rollingstone.com/music/music-news/sean-combs-solitary-confinement-after-prison-fight-1235597168/",
+    "publishedAt": "2026-07-24T15:39:31.000Z",
+    "summary": "An inmate at the low-security federal prison in New Jersey allegedly taunted Sean Combs, who reportedly lashed out at the man, according to multiple reports",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/lil-wayne-hollywood-star-walk-of-fame-2027-reaction-1236302294/",
+    "source": "billboard",
+    "title": "Lil Wayne Reacts in Disbelief to Hollywood Walk of Fame Star Reveal: ‘U Serious Boy’",
+    "url": "https://www.billboard.com/music/rb-hip-hop/lil-wayne-hollywood-star-walk-of-fame-2027-reaction-1236302294/",
+    "publishedAt": "2026-07-24T15:37:21.000Z",
+    "summary": "Weezy was named as part of the star-studded class of 2027.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/dinosaur-jr-join-john-r-miller-onstage-opry-1235598172/",
+    "source": "rolling-stone",
+    "title": "WTF Was J Mascis Doing Onstage at the Grand Ole Opry?",
+    "url": "https://www.rollingstone.com/music/music-country/dinosaur-jr-join-john-r-miller-onstage-opry-1235598172/",
+    "publishedAt": "2026-07-24T15:33:35.000Z",
+    "summary": "Turns out, the Dinosaur Jr. frontman was there to join John R. Miller for a guitar-shredding performance of “Steering Wheel Drums”",
     "image": null
   },
   {
@@ -18,21 +171,21 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/loe-shimmy-hip-hop-up-and-comer-uly-2026-interview-1236301622/",
-    "source": "billboard",
-    "title": "Hip-Hop Up-and-Comer Loe Shimmy’s Quest to Conquer Every Genre Has Only Just Begun",
-    "url": "https://www.billboard.com/music/rb-hip-hop/loe-shimmy-hip-hop-up-and-comer-uly-2026-interview-1236301622/",
-    "publishedAt": "2026-07-24T14:45:54.000Z",
-    "summary": "The Florida star's new project Pretty Girls Run the World is out today (July 24).",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/jack-white-the-black-crowes-chris-robinson-surprise-guest-1235598308/",
     "source": "rolling-stone",
     "title": "Jack White Brings Out Black Crowes’ Chris Robinson to Tear Up Free’s ‘I’m a Mover’",
     "url": "https://www.rollingstone.com/music/music-news/jack-white-the-black-crowes-chris-robinson-surprise-guest-1235598308/",
     "publishedAt": "2026-07-24T14:42:43.000Z",
-    "summary": "The two rockers covered the Seventies deep cut during White's show in Chicago",
+    "summary": "The two rockers covered the Seventies deep cut during White’s show in Chicago",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMi9AFBVV95cUxQOEk0aFZhRzFvVnQ4aUdnbjBmTGdkNGgteW9kUmdwU2RRckdKTUl5NnQtVTltT3A0MXlMYmNKbDktZDJiWXQ4bzlDN2pDdU0yMDdxelloSlRtWXlvUkwxS3pyNURDbm9xVk5YUUtVUTdrOXVzdTdGV0s5ZjlWdUFzNzhvQy1GLUhEc0tySml2RHZWZ0N2VFpaWk1MTWF5X2wxbUVpN0VXSncxSDh4MHdBM2k0NWE5VElUc05EXzBoVGdweFVnZWZWNUs1MGc2Um5vSU12UkRwd2FfU1RXelpMcFA0dWxkbENvLUJrUTRsbDFuRWJ5?oc=5",
+    "source": "nme",
+    "title": "Phill Jupitus says \"David Byrne effectively shat on a minority\" for excluding disabled people and fans who can't stand at show - NME",
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQOEk0aFZhRzFvVnQ4aUdnbjBmTGdkNGgteW9kUmdwU2RRckdKTUl5NnQtVTltT3A0MXlMYmNKbDktZDJiWXQ4bzlDN2pDdU0yMDdxelloSlRtWXlvUkwxS3pyNURDbm9xVk5YUUtVUTdrOXVzdTdGV0s5ZjlWdUFzNzhvQy1GLUhEc0tySml2RHZWZ0N2VFpaWk1MTWF5X2wxbUVpN0VXSncxSDh4MHdBM2k0NWE5VElUc05EXzBoVGdweFVnZWZWNUs1MGc2Um5vSU12UkRwd2FfU1RXelpMcFA0dWxkbENvLUJrUTRsbDFuRWJ5?oc=5",
+    "publishedAt": "2026-07-24T14:35:30.000Z",
+    "summary": "Phill Jupitus says \"David Byrne effectively shat on a minority\" for excluding disabled people and fans who can't stand at show NME",
     "image": null
   },
   {
@@ -50,16 +203,7 @@
     "title": "Demi Moore Gets Front-Row Seat to Katseye’s Breakdown in ‘Animal’ Video",
     "url": "https://www.rollingstone.com/music/music-news/katseye-new-single-animal-video-guest-demi-moore-1235598166/",
     "publishedAt": "2026-07-24T14:26:16.000Z",
-    "summary": "The single, written by Ed Sheeran and produced by Omer Fedi and Blake Slatkin, will appear on Katseye's upcoming five-track EP Wild",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/shania-twains-little-miss-twain-every-track-ranked-list/",
-    "source": "billboard",
-    "title": "Shania Twain’s ‘Little Miss Twain’: Every Track, Ranked",
-    "url": "https://www.billboard.com/lists/shania-twains-little-miss-twain-every-track-ranked-list/",
-    "publishedAt": "2026-07-24T14:16:29.000Z",
-    "summary": "Billboard ranks all 15 songs on Shania Twain's first album since 2023.",
+    "summary": "The single, written by Ed Sheeran and produced by Omer Fedi and Blake Slatkin, will appear on Katseye’s upcoming five-track EP Wild",
     "image": null
   },
   {
@@ -78,15 +222,6 @@
     "url": "https://www.rollingstone.com/music/music-news/kelsea-ballerini-patrick-droney-duet-math-of-us-video-1235598266/",
     "publishedAt": "2026-07-24T14:00:00.000Z",
     "summary": "Droney’s new album, Made You Look, is out now",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/features/the-way-you-look-tonight-anniversary-song-history-1236295562/",
-    "source": "billboard",
-    "title": "In Praise of a 90-Year-Old Song That Simply Never Ages",
-    "url": "https://www.billboard.com/music/features/the-way-you-look-tonight-anniversary-song-history-1236295562/",
-    "publishedAt": "2026-07-24T14:00:00.000Z",
-    "summary": "“The Way You Look Tonight” has made people swoon for nine decades.",
     "image": null
   },
   {
@@ -144,24 +279,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/pop/beach-boys-reschedule-summer-2026-tour-mike-love-recharge-1236302244/",
-    "source": "billboard",
-    "title": "Beach Boys Reschedule Remaining Summer 2026 North American Tour Dates to Allow Singer Mike Love to ‘Recharge’",
-    "url": "https://www.billboard.com/music/pop/beach-boys-reschedule-summer-2026-tour-mike-love-recharge-1236302244/",
-    "publishedAt": "2026-07-24T13:03:42.000Z",
-    "summary": "Love, 85, is the last remaining classic-era member of the \"Good Vibrations\" band.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/stubhub-house-democrats-ceo-ticket-broker-collusion/",
-    "source": "billboard",
-    "title": "StubHub Under Scrutiny From House Dems Over CEO’s ‘Alleged Collusion’ With Ticket Broker",
-    "url": "https://www.billboard.com/pro/stubhub-house-democrats-ceo-ticket-broker-collusion/",
-    "publishedAt": "2026-07-24T13:00:00.000Z",
-    "summary": "Rep. Robert Garcia, ranking member of the House Oversight Committee, sent a letter to StubHub CEO Eric Baker on Friday (July 24).",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/new-rock-metal-tours-announced-july-17-23-2026/",
     "source": "loudwire",
     "title": "14 New Rock + Metal Tours Announced This Past Week",
@@ -180,15 +297,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/waxahatchee-katie-crutchfield-kevin-morby-announce-birth-son-1236302231/",
-    "source": "billboard",
-    "title": "Waxahatchee’s Katie Crutchfield and Kevin Morby Welcome First Child: ‘He Is Perfect’",
-    "url": "https://www.billboard.com/music/music-news/waxahatchee-katie-crutchfield-kevin-morby-announce-birth-son-1236302231/",
-    "publishedAt": "2026-07-24T12:09:13.000Z",
-    "summary": "Morby announced the news on his Substack, revealing that the little guy decided to \"kick the door in to weeks ahead of schedule.\"",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-features/orville-peck-overdose-rehab-new-album-mule-1235597852/",
     "source": "rolling-stone",
     "title": "Orville Peck Overdosed and Nearly Died. He Turned It into His Best Album Yet",
@@ -198,21 +306,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/oliver-tree-celebration-life-santa-cruz-diplo-tribute-videos-1236302216/",
-    "source": "billboard",
-    "title": "Oliver Tree Celebration of Life in Santa Cruz to Feature Diplo, Tribute Videos, Live Music",
-    "url": "https://www.billboard.com/music/music-news/oliver-tree-celebration-life-santa-cruz-diplo-tribute-videos-1236302216/",
-    "publishedAt": "2026-07-24T11:40:21.000Z",
-    "summary": "Saturday's (July 25) event will also include unreleased video content and caskets for each of the late singer's characters.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/concerts/lewis-capaldi-raye-headline-australia-2026-spilt-milk-1236302204/",
-    "source": "billboard",
-    "title": "Lewis Capaldi and RAYE to Headline Australia’s 2026 Spilt Milk Fest",
-    "url": "https://www.billboard.com/music/concerts/lewis-capaldi-raye-headline-australia-2026-spilt-milk-1236302204/",
-    "publishedAt": "2026-07-24T09:16:36.000Z",
-    "summary": "The 2026 edition will visit Canberra, Gold Coast, Geelong and Perth this December, the start of the southern summer.",
+    "id": "nme-https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTXEyZnkzWEs2TjFsS0pzNFlJSlo1ZFN3ckFCNXV5TjF3ZXpoa0J5ZFBEU0s4YkdKamhsWW91WDNBclZ0U0xWWmgxOTBfRF81RjBNMXozb0Foei05Y2U1alM0dUZEZlM3X2RPSEN6X1hSdFpJZk9JX09wMEVzX0V3QlpqekJJU0pOU21GeEJGU1ZBR2I3UkhRZlhEMmdSajhYQjVDU2MyOFVEdklyaDUwX3FwYlhyckdnWlhlUE9fdVJGdnM?oc=5",
+    "source": "nme",
+    "title": "Finn Wolfhard shares update on The Replacements biopic he's been working on with his dad - NME",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTXEyZnkzWEs2TjFsS0pzNFlJSlo1ZFN3ckFCNXV5TjF3ZXpoa0J5ZFBEU0s4YkdKamhsWW91WDNBclZ0U0xWWmgxOTBfRF81RjBNMXozb0Foei05Y2U1alM0dUZEZlM3X2RPSEN6X1hSdFpJZk9JX09wMEVzX0V3QlpqekJJU0pOU21GeEJGU1ZBR2I3UkhRZlhEMmdSajhYQjVDU2MyOFVEdklyaDUwX3FwYlhyckdnWlhlUE9fdVJGdnM?oc=5",
+    "publishedAt": "2026-07-24T11:17:56.000Z",
+    "summary": "Finn Wolfhard shares update on The Replacements biopic he's been working on with his dad NME",
     "image": null
   },
   {
@@ -225,39 +324,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/gracie-abrams-no-1-australia-daughter-from-hell-1236302195/",
-    "source": "billboard",
-    "title": "Gracie Abrams Charges to No. 1 In Australia With ‘Daughter From Hell’",
-    "url": "https://www.billboard.com/music/chart-beat/gracie-abrams-no-1-australia-daughter-from-hell-1236302195/",
-    "publishedAt": "2026-07-24T08:00:57.000Z",
-    "summary": "The week’s best-seller on vinyl, Daughter From Hell is the second leader for Abrams after 2024's The Secret Of Us.",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMi1wFBVV95cUxNckVsYXZuN2VYcTNVdi1BQ1p3T2FEOUpqMHplV3J1UmxPN0dmajl6QURZTGlsSTNQN0lQQU5yZU9VQktONWs1NUg2OEJFUW92blUwMC1lVU5PaF9SY2NqNHBQSDJfbXFHWDF5Wjh6LWttRnlkX1lKY3ltUUozVDZNSzEyVFlzNGtpbUJoT3FjTFNrc3BvbDNLbnJ3MEJtdTVPNUV0enVNZExVaEVHeGdRSkNmV1FhUm5xMmpUZE9VS2lEODVOcUJYcGNCbFpUVjEzc3Vaczg4WQ?oc=5",
     "source": "nme",
     "title": "Watch The Strokes record 'Reality Awaits' in 'In Transit: Part II' – over 20 years on from original mini-doc - NME",
     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNckVsYXZuN2VYcTNVdi1BQ1p3T2FEOUpqMHplV3J1UmxPN0dmajl6QURZTGlsSTNQN0lQQU5yZU9VQktONWs1NUg2OEJFUW92blUwMC1lVU5PaF9SY2NqNHBQSDJfbXFHWDF5Wjh6LWttRnlkX1lKY3ltUUozVDZNSzEyVFlzNGtpbUJoT3FjTFNrc3BvbDNLbnJ3MEJtdTVPNUV0enVNZExVaEVHeGdRSkNmV1FhUm5xMmpUZE9VS2lEODVOcUJYcGNCbFpUVjEzc3Vaczg4WQ?oc=5",
     "publishedAt": "2026-07-24T06:37:11.000Z",
     "summary": "Watch The Strokes record 'Reality Awaits' in 'In Transit: Part II' – over 20 years on from original mini-doc NME",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/blackpink-jennie-less-than-a-lover-solo-single-1235598273/",
-    "source": "rolling-stone",
-    "title": "Blackpink’s Jennie Debuts Wistful Single ‘Less Than a Lover’",
-    "url": "https://www.rollingstone.com/music/music-news/blackpink-jennie-less-than-a-lover-solo-single-1235598273/",
-    "publishedAt": "2026-07-24T06:32:28.000Z",
-    "summary": "The singer’s debut solo album, Ruby, was released last year via her own record label Odd Atelier",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/u2-martin-garrix-fireflies-single-1235598269/",
-    "source": "rolling-stone",
-    "title": "Hear U2, Martin Garrix Team Up for Anthemic Single ‘Fireflies’",
-    "url": "https://www.rollingstone.com/music/music-news/u2-martin-garrix-fireflies-single-1235598269/",
-    "publishedAt": "2026-07-24T06:11:55.000Z",
-    "summary": "The producer originally debuted the joint track during his set at Tomorrowland earlier this month",
     "image": null
   },
   {
@@ -270,15 +342,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/noah-kahan-call-congress-fans-wear-diapers-concerts-1235598251/",
-    "source": "rolling-stone",
-    "title": "Noah Kahan Gets a Fake Call From Congress Ordering Fans to Wear Diapers at Concerts",
-    "url": "https://www.rollingstone.com/music/music-news/noah-kahan-call-congress-fans-wear-diapers-concerts-1235598251/",
-    "publishedAt": "2026-07-24T05:11:18.000Z",
-    "summary": "During his stop in Washington, the singer pretended to get a phone call from the government about fans relieving themselves mid-show",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/listen-to-orville-pecks-new-song-too-little-too-late/",
     "source": "pitchfork",
     "title": "Listen to Orville Peck’s New Song “Too Little, Too Late”",
@@ -288,39 +351,12 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/2026-hard-rock-metal-album-release-calendar/",
-    "source": "loudwire",
-    "title": "The New Rock + Metal Albums Out Today",
-    "url": "https://loudwire.com/2026-hard-rock-metal-album-release-calendar/",
-    "publishedAt": "2026-07-24T04:01:48.000Z",
-    "summary": "See all the new releases coming each week of 2026. Continue reading…",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/madison-square-garden-disabled-its-surveillance-system-for-taylor-swifts-wedding/",
     "source": "pitchfork",
     "title": "Madison Square Garden Disabled Its Surveillance System for Taylor Swift’s Wedding",
     "url": "https://pitchfork.com/story/madison-square-garden-disabled-its-surveillance-system-for-taylor-swifts-wedding/",
     "publishedAt": "2026-07-23T21:13:09.000Z",
     "summary": "A new Wired report confirms the shutdown was the result of a “client privacy request,” something unheard of in the venue’s history",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/photos-jonathan-davis-brittany-parisi-wedding/",
-    "source": "loudwire",
-    "title": "See Photos From Jonathan Davis + Brittany Parisi's Wedding",
-    "url": "https://loudwire.com/photos-jonathan-davis-brittany-parisi-wedding/",
-    "publishedAt": "2026-07-23T20:03:31.000Z",
-    "summary": "You can now see photos from Jonathan Davis and Brittany Parisi's Italian Renaissance-inspired wedding earlier this month. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/korn-jonathan-davis-married-brittany-parisi/",
-    "source": "loudwire",
-    "title": "Korn's Jonathan Davis Got Married (The Same Day As Taylor Swift)",
-    "url": "https://loudwire.com/korn-jonathan-davis-married-brittany-parisi/",
-    "publishedAt": "2026-07-23T19:06:06.000Z",
-    "summary": "After getting engaged in June of 2025, Korn's Jonathan Davis married Brittany Parisi earlier this month. Continue reading…",
     "image": null
   },
   {
@@ -384,24 +420,6 @@
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNb2RhOVJQVjByRDRXTnNub2gtMkZMT19nZkhKakpfbVVLRmx1VHdzVVBpVU5hTFFSTzVjMlY3RF9SMGZxeEtTTGlRX2FLcTRScmRaN3I1TXhoU0hzRVBuN2hsZ3I3TzVpN2hIbjk5RHVOcmZLN2xlLWk2UEFqcGxTZWhYdHZodWpuZHJsWGFJQndGUjY2VGlRdmE2eG1zQWFySHlqc2pna2lDSDh6TFZ5R3ptUUVjeGlpTVJtVWRHRTRWbkRXdUV0Q1JfSjFDOE9UVjRlMWIyNmJranc?oc=5",
     "publishedAt": "2026-07-23T15:51:43.000Z",
     "summary": "Trailer and one-night-only cinema release date announced for Pulp's new 'What Do You Do For An Encore' film NME",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/nicko-mcbrain-steve-harris-best-iron-maiden-songs/",
-    "source": "loudwire",
-    "title": "Nicko McBrain Names 3 Best Iron Maiden Songs Steve Harris Wrote",
-    "url": "https://loudwire.com/nicko-mcbrain-steve-harris-best-iron-maiden-songs/",
-    "publishedAt": "2026-07-23T15:48:07.000Z",
-    "summary": "He cites classics AND modern-day epics. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/fuji-rock-2026-livestream-schedule-and-details/",
-    "source": "pitchfork",
-    "title": "Fuji Rock 2026 Livestream Schedule and Details",
-    "url": "https://pitchfork.com/story/fuji-rock-2026-livestream-schedule-and-details/",
-    "publishedAt": "2026-07-23T15:42:48.000Z",
-    "summary": "Find out when to stream sets by the xx, Mitski, Turnstile, and many more",
     "image": null
   },
   {
@@ -519,24 +537,6 @@
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTm1FNVBFZURMdHRsS3FCWFFHWUZHVHgtRW9saVRfaFBPSVhoM1A1SEN3OGcxM254a2MwWDl2NU56dkNaNEgtWVNIdmZyNVcwQ1JQU2Y0VGsyY2JqTzdMTVJ4UEZFS2hOcTNOdjJVNDRva3QxUzRIdm9vMDZmODJDV3hZWnRQN2JiNS1XNXFmZkFhS2N2c1E?oc=5",
     "publishedAt": "2026-07-22T17:30:32.000Z",
     "summary": "Imminence – Axis Mundi splatter vinyl with signed art card Kerrang!",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMisgFBVV95cUxNSnF2cWRzTGJwLVFLcUZlbjBOOUM0cmh1OWJCR0ppcXRRRG43N1dUejlkdHJjcUhZam90WFlyOHlacW16SWwwcnJWOUNMQ1l6UVNuWEthbXNSbUI3dDkxUXAwNDBXbEo3TXpvZEtuSGRlV3c3OGY1QWxBa1NPRW5VN2JOU0RsdlM5UXp3UVpSSXJ0ZUxRd2ZXMmVrRWN0dXBkZndfOUdRMXRpZFhZWWs1bmRR?oc=5",
-    "source": "nme",
-    "title": "‘Stuart Fails To Save The Universe’ review: bizarro ‘Big Bang Theory’ spin-off - NME",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSnF2cWRzTGJwLVFLcUZlbjBOOUM0cmh1OWJCR0ppcXRRRG43N1dUejlkdHJjcUhZam90WFlyOHlacW16SWwwcnJWOUNMQ1l6UVNuWEthbXNSbUI3dDkxUXAwNDBXbEo3TXpvZEtuSGRlV3c3OGY1QWxBa1NPRW5VN2JOU0RsdlM5UXp3UVpSSXJ0ZUxRd2ZXMmVrRWN0dXBkZndfOUdRMXRpZFhZWWs1bmRR?oc=5",
-    "publishedAt": "2026-07-22T16:01:02.000Z",
-    "summary": "‘Stuart Fails To Save The Universe’ review: bizarro ‘Big Bang Theory’ spin-off NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMi8gFBVV95cUxPOGdSZkdnREE3bG5BVTl5RzhQYXYxTnVCOXJlWVFvV2JPakg5TUVzelRXZV9zdDJ6Q0hDbWQwZ0V5bkRzeTlxaTdjalFwcmJsWjQwLVpQMDV3ZzR6NVBpUXl1WC1sQjltckkweTBuNDB2NVN3S1VUcHlPSDNzQlJMblpEaFpSZGFYeWhRclhLbl9IY0pRdjAyM29NUFVjN3VuZFdDWkk3OGZXbmUzc20wTjA5T2I4RTEyb0N0VmdvV05mQ1ZyVWRJUWF3djJJNmpYUDZPdlNjYUNCbHF0Q0xfWTVBNUtjM3hXeFdRZHlkbldfZw?oc=5",
-    "source": "nme",
-    "title": "Ben Folds hits out at Donald's Trump’s Kennedy Center takeover before Congress: \"When you politicise art, you’ve got propaganda” - NME",
-    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPOGdSZkdnREE3bG5BVTl5RzhQYXYxTnVCOXJlWVFvV2JPakg5TUVzelRXZV9zdDJ6Q0hDbWQwZ0V5bkRzeTlxaTdjalFwcmJsWjQwLVpQMDV3ZzR6NVBpUXl1WC1sQjltckkweTBuNDB2NVN3S1VUcHlPSDNzQlJMblpEaFpSZGFYeWhRclhLbl9IY0pRdjAyM29NUFVjN3VuZFdDWkk3OGZXbmUzc20wTjA5T2I4RTEyb0N0VmdvV05mQ1ZyVWRJUWF3djJJNmpYUDZPdlNjYUNCbHF0Q0xfWTVBNUtjM3hXeFdRZHlkbldfZw?oc=5",
-    "publishedAt": "2026-07-22T15:41:00.000Z",
-    "summary": "Ben Folds hits out at Donald's Trump’s Kennedy Center takeover before Congress: \"When you politicise art, you’ve got propaganda” NME",
     "image": null
   },
   {
