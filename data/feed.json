@@ -1,5 +1,59 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/edgar-berlanga-jr-baby-mama-steven-butler-interview-1236302557/",
+    "source": "billboard",
+    "title": "With Cosigns From Fat Joe and DJ Khaled, Boxer Edgar Berlanga Jr. Is Ready to Step Into the Music Ring",
+    "url": "https://www.billboard.com/music/rb-hip-hop/edgar-berlanga-jr-baby-mama-steven-butler-interview-1236302557/",
+    "publishedAt": "2026-07-24T20:36:17.000Z",
+    "summary": "For Entry 022 of Mic Drops and Elbow Drops, Carl Lamarre speaks with boxer Edgar Berlanga Jr. about his first song \"Baby Mama,\" advice from Fat Joe and being ready for the music game.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/bad-bunny-record-breaking-world-tour/",
+    "source": "billboard",
+    "title": "Bad Bunny Wraps Record-Breaking $467 Million World Tour: By the Numbers",
+    "url": "https://www.billboard.com/lists/bad-bunny-record-breaking-world-tour/",
+    "publishedAt": "2026-07-24T20:29:28.000Z",
+    "summary": "The DTMF World Tour drew to a close after shows on five continents.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/ella-langley-chart-records-choosin-texas/",
+    "source": "billboard",
+    "title": "Ten Chart Records Ella Langley Has Broken or Set",
+    "url": "https://www.billboard.com/lists/ella-langley-chart-records-choosin-texas/",
+    "publishedAt": "2026-07-24T20:16:19.000Z",
+    "summary": "The country singer's hit 'Choosin' Texas' and its parent album 'Dandelion,' have ruled country and pop charts.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/charli-xcx-katseye-jennie-best-new-music-this-week-poll-1236302512/",
+    "source": "billboard",
+    "title": "From Charli xcx to KATSEYE, JENNIE & More, Which New Music Release Is Your Favorite This Week? Vote!",
+    "url": "https://www.billboard.com/music/music-news/charli-xcx-katseye-jennie-best-new-music-this-week-poll-1236302512/",
+    "publishedAt": "2026-07-24T20:07:32.000Z",
+    "summary": "Tyla, Morgan Wallen and The Strokes also dropped new projects.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/the-festival-coachella-for-broadway-feature-1236302505/",
+    "source": "billboard",
+    "title": "‘Wouldn’t It Be Fun If There Were a Coachella for Broadway?’ Now There Is ",
+    "url": "https://www.billboard.com/music/pop/the-festival-coachella-for-broadway-feature-1236302505/",
+    "publishedAt": "2026-07-24T19:58:30.000Z",
+    "summary": "With Tony-winning headliners, campfire singalongs, an original Rent cast reunion and a destination venue, The Festival will bring Broadway crowds way north of Times Square this summer.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/latin/best-new-latin-music-poll-anitta-ryan-castro-lunay-more-1236302418/",
+    "source": "billboard",
+    "title": "Anitta’s ‘EQUILIBRIVM II’ Album & More: Vote for the Best New Latin Music Release This Week",
+    "url": "https://www.billboard.com/music/latin/best-new-latin-music-poll-anitta-ryan-castro-lunay-more-1236302418/",
+    "publishedAt": "2026-07-24T19:40:43.000Z",
+    "summary": "Which new Latin music release is your favorite? Vote below!",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
     "source": "billboard",
     "title": "Billboard’s Music Industry Events Calendar",
@@ -50,7 +104,7 @@
     "title": "Billie Joe Armstrong Enlists Iron Maiden’s Bruce Dickinson for Surprise Cover",
     "url": "https://www.rollingstone.com/music/music-news/iron-maiden-bruce-dickinson-billie-joe-armstrong-perform-1235598444/",
     "publishedAt": "2026-07-24T18:36:36.000Z",
-    "summary": "Dickinson surprised guests at Comic-Con party to cover Mott the Hoople’s “All the Young Dudes”",
+    "summary": "Dickinson surprised guests at Fandom's Comic-Con party to cover Mott the Hoople’s “All the Young Dudes”",
     "image": null
   },
   {
@@ -72,48 +126,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/business/legal/chris-brown-pleads-guilty-lesser-charge-affray-london-assault-1236302428/",
-    "source": "billboard",
-    "title": "Chris Brown Pleads Guilty to Lesser Charge of ‘Affray’ in 2023 London Club Assault Case",
-    "url": "https://www.billboard.com/business/legal/chris-brown-pleads-guilty-lesser-charge-affray-london-assault-1236302428/",
-    "publishedAt": "2026-07-24T18:09:51.000Z",
-    "summary": "The singer's plea led to the dropping of more serious charges of assault and suspicion of grievous bodily harm.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/pop/charli-xcx-favorite-songs-1236302342/",
-    "source": "billboard",
-    "title": "Charli xcx Reveals the Top Five Songs She’s Ever Released",
-    "url": "https://www.billboard.com/music/pop/charli-xcx-favorite-songs-1236302342/",
-    "publishedAt": "2026-07-24T17:52:35.000Z",
-    "summary": "Charli on Charli.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-features/musicians-couch-performances-trend-1235597677/",
     "source": "rolling-stone",
     "title": "Why Are So Many Musicians Singing on Couches? An Investigation",
     "url": "https://www.rollingstone.com/music/music-features/musicians-couch-performances-trend-1235597677/",
     "publishedAt": "2026-07-24T17:52:32.000Z",
     "summary": "From Lily Allen to Charli XCX to Hilary Duff, there’s never been a more popular piece of furniture to deliver your music from",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/songs-that-were-big-uk-hits-but-not-in-the-u-s/",
-    "source": "billboard",
-    "title": "Every Song That Topped the U.K. Chart for 8 or More Weeks, But Didn’t Make the Top 10 on the Hot 100",
-    "url": "https://www.billboard.com/lists/songs-that-were-big-uk-hits-but-not-in-the-u-s/",
-    "publishedAt": "2026-07-24T17:34:46.000Z",
-    "summary": "\"Rein Me In” by Sam Fender and Olivia Dean is the first single to log 18 weeks at No. 1 in the U.K. without making the top 40 on the Hot 100.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rock/luis-maldonado-foreigner-journey-mexico-interview-1236221517/",
-    "source": "billboard",
-    "title": "From Rock-Loving Kid in Mexico to Lead Singer of Foreigner: This is Luis Maldonado",
-    "url": "https://www.billboard.com/music/rock/luis-maldonado-foreigner-journey-mexico-interview-1236221517/",
-    "publishedAt": "2026-07-24T17:30:04.000Z",
-    "summary": "\"That's kind of what made me obsessed with music,\" the Nogales, Sonora-born singer says of the legendary classic rock band's sound.",
     "image": null
   },
   {
@@ -144,30 +162,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/katseye-demi-moore-animal-music-video-watch-1236302362/",
-    "source": "billboard",
-    "title": "‘Alright, Let’s Get Wild’: Demi Moore Helps KATSEYE Unlock Their Inner ‘Animal’: Watch",
-    "url": "https://www.billboard.com/music/music-news/katseye-demi-moore-animal-music-video-watch-1236302362/",
-    "publishedAt": "2026-07-24T17:01:41.000Z",
-    "summary": "The track marks the band's second single from upcoming EP Wild.",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/guns-n-roses-2026-tour-charlotte-setlist-photos/",
     "source": "loudwire",
     "title": "Guns N' Roses Kick off 2026 North American Tour - Setlist + Photo",
     "url": "https://loudwire.com/guns-n-roses-2026-tour-charlotte-setlist-photos/",
     "publishedAt": "2026-07-24T17:00:42.000Z",
     "summary": "See the 29-song setlist and photos from Guns N' Roses' North American tour kickoff on July 23 in Raleigh, North Carolina. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/sam-fender-olivia-dean-rein-me-in-all-time-record-uk-number-1-1236302219/",
-    "source": "billboard",
-    "title": "Sam Fender & Olivia Dean’s ‘Rein Me In’ Ties All-Time Record with 18th Week as U.K. No. 1 Single",
-    "url": "https://www.billboard.com/music/chart-beat/sam-fender-olivia-dean-rein-me-in-all-time-record-uk-number-1-1236302219/",
-    "publishedAt": "2026-07-24T17:00:00.000Z",
-    "summary": "The song is level with Frankie Laine's 1953 song \"I Believe.\"",
     "image": null
   },
   {
@@ -203,13 +203,13 @@
     "title": "WTF Was J Mascis Doing Onstage at the Grand Ole Opry?",
     "url": "https://www.rollingstone.com/music/music-country/dinosaur-jr-join-john-r-miller-onstage-opry-1235598172/",
     "publishedAt": "2026-07-24T15:33:35.000Z",
-    "summary": "Turns out, the Dinosaur Jr. frontman was there to join John R. Miller for a guitar-shredding performance of “Steering Wheel Drums”",
+    "summary": "Turns out the Dinosaur Jr. frontman was there to join John R. Miller for a guitar-shredding performance of “Steering Wheel Drums”",
     "image": null
   },
   {
     "id": "loudwire-https://loudwire.com/oldest-rock-metal-bands-never-broke-up/",
     "source": "loudwire",
-    "title": "The 25 Oldest Rock + Metal Bands That Have Never Broken Up",
+    "title": "The 25 Longest-Running Bands in Rock + Metal History",
     "url": "https://loudwire.com/oldest-rock-metal-bands-never-broke-up/",
     "publishedAt": "2026-07-24T14:55:25.000Z",
     "summary": "These are the 25 oldest rock and metal bands that have been together for over four decades and have never stopped or broken up. Continue reading…",
