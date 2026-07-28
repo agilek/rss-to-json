@@ -1,5 +1,41 @@
 [
   {
+    "id": "uncut-https://www.uncut.co.uk/news/send-us-your-questions-for-dave-stewart-155578/",
+    "source": "uncut",
+    "title": "Send us your questions for Dave Stewart!",
+    "url": "https://www.uncut.co.uk/news/send-us-your-questions-for-dave-stewart-155578/",
+    "publishedAt": "2026-07-28T08:37:11.000Z",
+    "summary": "The Eurythmics man and trusted collaborator of Dylan, Jagger, Petty, Nicks, Harrison and many more will field your enquiries in a future issue of Uncut",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/country/dolly-parton-brother-coy-denver-parton-dies-1236304122/",
+    "source": "billboard",
+    "title": "Dolly Parton’s Older Brother Coy ‘Denver’ Parton Dies at 82",
+    "url": "https://www.billboard.com/music/country/dolly-parton-brother-coy-denver-parton-dies-1236304122/",
+    "publishedAt": "2026-07-28T07:58:57.000Z",
+    "summary": "Denver was one of 12 children born to Lee Parton and Avie Lee Owens Parton in Sevier County, Tenn.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/bebe-rexha-new-religion-sad-girls-performance-fallon-1235599515/",
+    "source": "rolling-stone",
+    "title": "Watch Bebe Rexha Perform Joyous Medley of ‘New Religion,’ ‘Sad Girls’ on ‘Fallon’",
+    "url": "https://www.rollingstone.com/music/music-news/bebe-rexha-new-religion-sad-girls-performance-fallon-1235599515/",
+    "publishedAt": "2026-07-28T07:45:41.000Z",
+    "summary": "The tracks come off the singer's latest album, Dirty Blonde, which marks her first independent release",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/awards/marlene-cummins-saltwater-band-2026-nimas-hall-of-fame-inductees-1236304119/",
+    "source": "billboard",
+    "title": "Blues Voice Marlene Cummins and Saltwater Band Announced as 2026 NIMAs Hall of Fame Inductees",
+    "url": "https://www.billboard.com/music/awards/marlene-cummins-saltwater-band-2026-nimas-hall-of-fame-inductees-1236304119/",
+    "publishedAt": "2026-07-28T06:28:52.000Z",
+    "summary": "The 2026 NIMAs take place at Darwin Amphitheater in Garramilla/Darwin on Saturday, Aug. 8, hosted by Rob Collins and Leila Gurruwiwi.",
+    "image": null
+  },
+  {
     "id": "pitchfork-https://pitchfork.com/story/linda-perhacs-is-reported-missing/",
     "source": "pitchfork",
     "title": "Linda Perhacs Is Reported Missing",
@@ -14,7 +50,7 @@
     "title": "Ariana Grande Sues Hackers Over Alleged Theft of Unreleased Music, Photos, and Video Footage",
     "url": "https://www.rollingstone.com/music/music-news/ariana-grande-sues-hackers-unreleased-music-leak-1235599473/",
     "publishedAt": "2026-07-28T04:38:25.000Z",
-    "summary": "Lawsuit states that 45 unreleased songs reportedly hit the internet in 2023 alone",
+    "summary": "Lawsuit states that 45 unreleased songs hit the internet in 2023 alone",
     "image": null
   },
   {
@@ -105,24 +141,6 @@
     "url": "https://www.billboard.com/music/music-news/fred-again-latin-mafia-mixtape-creation-livestream-mexico-1236303864/",
     "publishedAt": "2026-07-27T22:09:00.000Z",
     "summary": "The British producer and Mexican trio will start the stream 1 p.m. CT on July 28.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/latin/calibre-50-celebrates-number-1-hits-mazatlan-pop-up-moment-1236302646/",
-    "source": "billboard",
-    "title": "Calibre 50 Celebrates Its Historic 28th No. 1 Hit at Billboard’s First-Ever Mazatlán Pop-Up Moment",
-    "url": "https://www.billboard.com/music/latin/calibre-50-celebrates-number-1-hits-mazatlan-pop-up-moment-1236302646/",
-    "publishedAt": "2026-07-27T22:00:00.000Z",
-    "summary": "Billboard hosted the event at the birthplace of banda music to honor the regional Mexican band.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/video/calibre-50-28th-no-1-hit-billboard-mazatlan-pop-up-moment/",
-    "source": "billboard",
-    "title": "Calibre 50 Celebrates Historic 28th No. 1 Hit at Billboard’s First-Ever Mazatlán Pop-Up Moment | Noticias Billboard",
-    "url": "https://www.billboard.com/video/calibre-50-28th-no-1-hit-billboard-mazatlan-pop-up-moment/",
-    "publishedAt": "2026-07-27T22:00:00.000Z",
-    "summary": "For the first time ever, Billboard brought its signature Pop-Up Moment beyond U.S. borders—landing in the vibrant, sun-soaked city of Mazatlán, along the Pacific coast in Sinaloa, Mexico. Known as the birthplace of banda and a heartbeat of regional Mexican music, Mazatlán provided a powerful backdrop for this milestone celebration. The occasion was especially meaningful […]",
     "image": null
   },
   {
@@ -243,12 +261,12 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/miley-cyrus-atlantic-records-1235598988/",
-    "source": "rolling-stone",
-    "title": "Miley Cyrus Signs to Atlantic Records",
-    "url": "https://www.rollingstone.com/music/music-news/miley-cyrus-atlantic-records-1235598988/",
-    "publishedAt": "2026-07-27T16:15:15.000Z",
-    "summary": "The pop star had been with Columbia Records since 2021",
+    "id": "kerrang-https://news.google.com/rss/articles/CBMi1gFBVV95cUxQU0NnT3ZGQlVwOTV2SzZTRWxQeDlGaVVSSVdXVk5kMzhmcU5BdGFmSVJWcGhVZ3pjLVBjS0QtUkJ2dDFzSWdDbnVYa1ZZdUliNkRkRzZlVmk5S2l4TnVVNWp2aEpoVzkxRTh3QTFSWnVqUzdqMnVQR2tXeVBaNjNwOWdmLWFyQ0xrQkRsdFdNSmZMdWJQbzY2MDFKV0Fld3gzZEVVOW54ZUctRkNpeGctV0xoRlBUVGhRZ0thTi0yQUhXTjNSc1ZodE5BVXNhT0R1UXVRS01R?oc=5",
+    "source": "kerrang",
+    "title": "Watch Star Wars: Ahsoka’s Eman Esfandi join Story Of The Year for a… - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQU0NnT3ZGQlVwOTV2SzZTRWxQeDlGaVVSSVdXVk5kMzhmcU5BdGFmSVJWcGhVZ3pjLVBjS0QtUkJ2dDFzSWdDbnVYa1ZZdUliNkRkRzZlVmk5S2l4TnVVNWp2aEpoVzkxRTh3QTFSWnVqUzdqMnVQR2tXeVBaNjNwOWdmLWFyQ0xrQkRsdFdNSmZMdWJQbzY2MDFKV0Fld3gzZEVVOW54ZUctRkNpeGctV0xoRlBUVGhRZ0thTi0yQUhXTjNSc1ZodE5BVXNhT0R1UXVRS01R?oc=5",
+    "publishedAt": "2026-07-27T16:11:00.000Z",
+    "summary": "Watch Star Wars: Ahsoka’s Eman Esfandi join Story Of The Year for a… Kerrang!",
     "image": null
   },
   {
@@ -675,15 +693,6 @@
     "image": null
   },
   {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMirAFBVV95cUxQOE1nbFA2eHZCOUZ6M3JfMjQta1lnRTJGdFhKbkJkTFhVQlBOZWRjUWFBQVVXUElsRlAwTV9IUHR4cTcxWk1qd3hWTmxNaE51bk53WDFzam83SGhsaHBnNUdfWUV6UWxrejFxdGtublNMNnpseVZxb0lEaFNEZzBSOF9YT2J1NkRfTkh4VjIxdlN6VWVXRy14b05rRHBKemZLN1ItVHNPbWhZdXFT?oc=5",
-    "source": "kerrang",
-    "title": "Imminence: “I was always determined that this is the thing I want to… - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOE1nbFA2eHZCOUZ6M3JfMjQta1lnRTJGdFhKbkJkTFhVQlBOZWRjUWFBQVVXUElsRlAwTV9IUHR4cTcxWk1qd3hWTmxNaE51bk53WDFzam83SGhsaHBnNUdfWUV6UWxrejFxdGtublNMNnpseVZxb0lEaFNEZzBSOF9YT2J1NkRfTkh4VjIxdlN6VWVXRy14b05rRHBKemZLN1ItVHNPbWhZdXFT?oc=5",
-    "publishedAt": "2026-07-22T14:50:00.000Z",
-    "summary": "Imminence: “I was always determined that this is the thing I want to… Kerrang!",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/news/paul-mccartney-155555/",
     "source": "uncut",
     "title": "When Paul McCartney gave a bus full of Beatles fans the shock of their lives in Liverpool",
@@ -708,15 +717,6 @@
     "url": "https://www.uncut.co.uk/features/gram-parsons-20-best-songs-69257/",
     "publishedAt": "2026-07-20T12:53:30.000Z",
     "summary": "The country-rock pioneer's greatest tracks",
-    "image": null
-  },
-  {
-    "id": "uncut-https://www.uncut.co.uk/features/a-call-to-action-for-people-to-wake-up-the-wild-story-of-l7s-grunge-anthem-pretend-were-dead-155538/",
-    "source": "uncut",
-    "title": "“A call to action for people to wake up”: The wild story of L7’s grunge anthem, “Pretend We’re Dead”",
-    "url": "https://www.uncut.co.uk/features/a-call-to-action-for-people-to-wake-up-the-wild-story-of-l7s-grunge-anthem-pretend-were-dead-155538/",
-    "publishedAt": "2026-07-20T07:35:04.000Z",
-    "summary": "Donita Sparks, Suzi Gardner and producer Butch Vig revisit the making of the 1992 hit",
     "image": null
   }
 ]
