@@ -1,5 +1,95 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/country/charles-wesley-godwin-album-christian-name-interview-1236304575/",
+    "source": "billboard",
+    "title": "Charles Wesley Godwin on Weathering Tragedy and Hope on New Album ‘Christian Name’: ‘I’m Just Different Than I Was Before’",
+    "url": "https://www.billboard.com/music/country/charles-wesley-godwin-album-christian-name-interview-1236304575/",
+    "publishedAt": "2026-07-28T20:53:54.000Z",
+    "summary": "On his new album, Godwin welcomes collaborators including Luke Combs and Wyatt Flores.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/carter-faith-laci-kaye-booth-pearl-handled-pistol-video-1235600035/",
+    "source": "rolling-stone",
+    "title": "Carter Faith Partakes in a Country Music Tradition in New Video: Murder",
+    "url": "https://www.rollingstone.com/music/music-country/carter-faith-laci-kaye-booth-pearl-handled-pistol-video-1235600035/",
+    "publishedAt": "2026-07-28T20:52:02.000Z",
+    "summary": "On “Pearl Handled Pistol,” Faith, Laci Kaye Booth, and Baby Nova follow the Chicks’ lead with a little light revenge (and a man in the trunk)",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/band-maid-energetic-interview-1236304653/",
+    "source": "billboard",
+    "title": "How BAND-MAID Poured Their Determination into ‘Energetic’ Before Their ‘OKYU-JI’ Hiatus",
+    "url": "https://www.billboard.com/music/music-news/band-maid-energetic-interview-1236304653/",
+    "publishedAt": "2026-07-28T20:38:04.000Z",
+    "summary": "Billboard Japan interviews the group.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/motionless-in-white-hard-rock-album-song-charts/",
+    "source": "billboard",
+    "title": "Motionless in White Reigns on Top Hard Rock Albums, Hot Hard Rock Songs Charts",
+    "url": "https://www.billboard.com/pro/motionless-in-white-hard-rock-album-song-charts/",
+    "publishedAt": "2026-07-28T20:17:56.000Z",
+    "summary": "The rock band’s Decades rules the albums list, while “Fight Like Hell” tops the songs survey.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/gracie-abrams-daughter-from-hell-five-burning-questions-1236304479/",
+    "source": "billboard",
+    "title": "Does Gracie Abrams’ ‘Daughter From Hell’ First-Week Performance Establish Her as an Inner-Circle Pop Superstar?",
+    "url": "https://www.billboard.com/music/chart-beat/gracie-abrams-daughter-from-hell-five-burning-questions-1236304479/",
+    "publishedAt": "2026-07-28T20:11:25.000Z",
+    "summary": "This week's Five Burning Questions looks at the rising singer-songwriter scoring her first No. 1 album.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/nab-marconi-radio-awards-2026-complete-nominations-list/",
+    "source": "billboard",
+    "title": "Ryan Seacrest, Ellen K & More Nominated for 2026 NAB Marconi Radio Awards: Complete List",
+    "url": "https://www.billboard.com/pro/nab-marconi-radio-awards-2026-complete-nominations-list/",
+    "publishedAt": "2026-07-28T19:54:30.000Z",
+    "summary": "The National Association of Broadcasters will announce the winners on Oct. 20.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "source": "billboard",
+    "title": "Billboard’s Music Industry Events Calendar",
+    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "publishedAt": "2026-07-28T19:47:00.000Z",
+    "summary": "A complete rundown of the most important events across the music business.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/ed-sheeran-katseye-animal-making-of-1236304476/",
+    "source": "billboard",
+    "title": "Ed Sheeran Reveals KATSEYE’s ‘Gnarly’ Inspired Him to Reach Out & Write ‘Animal’",
+    "url": "https://www.billboard.com/music/pop/ed-sheeran-katseye-animal-making-of-1236304476/",
+    "publishedAt": "2026-07-28T19:44:24.000Z",
+    "summary": "The singer-songwriter shared a behind-the-scenes look at the making of the girl group's new single.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/deezer-q2-earnings-h1-revenue-gains-more-direct-subscribers/",
+    "source": "billboard",
+    "title": "Deezer’s First Half Revenue Grows on More Direct Subscribers",
+    "url": "https://www.billboard.com/pro/deezer-q2-earnings-h1-revenue-gains-more-direct-subscribers/",
+    "publishedAt": "2026-07-28T19:43:38.000Z",
+    "summary": "Deezer reported a slight revenue increase and a profitable first half as more direct subscribers offset a decline in business partnership subscribers.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/olivia-rodrigo-lego/",
+    "source": "billboard",
+    "title": "Olivia Rodrigo Reveals Favorite Song She Wrote for Her New Album & the Inspiration Behind Daisy Chain Festival | All Access",
+    "url": "https://www.billboard.com/video/olivia-rodrigo-lego/",
+    "publishedAt": "2026-07-28T19:41:30.000Z",
+    "summary": "Olivia Rodrigo reveals which song from her new album you seem pretty sad for a girl so in love was her favorite to write, the inspiration behind creating the all-female Daisy Chain festival (which is a month away) and her favorite thing to eat after her shows at her LEGO x Olivia Rodrigo Vinyl event […]",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/lists/madison-beer-justin-herbert-relationship-timeline/",
     "source": "billboard",
     "title": "A Timeline of Madison Beer & Justin Herbert’s Relationship",
@@ -9,57 +99,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/lists/michelle-branch-bmg-liamini-segura-lighthouse-signings/",
-    "source": "billboard",
-    "title": "Signed: Michelle Branch Moves to BMG;  ‘Descendants’ Star Liamini Segura Inks With Music Manager",
-    "url": "https://www.billboard.com/lists/michelle-branch-bmg-liamini-segura-lighthouse-signings/",
-    "publishedAt": "2026-07-28T19:22:56.000Z",
-    "summary": "Other signings this week include Rhiannon Giddens, Chiodos, George Benson, Ashe and Goth Babe.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/eminem-air-jordan-nike-sneaker-collection-auction-1236304434/",
-    "source": "billboard",
-    "title": "Eminem Is Auctioning Off Rare Autographed Air Jordans From His Personal Collection for the Marshall Mathers Foundation",
-    "url": "https://www.billboard.com/music/rb-hip-hop/eminem-air-jordan-nike-sneaker-collection-auction-1236304434/",
-    "publishedAt": "2026-07-28T19:21:50.000Z",
-    "summary": "Bidding is open and the auction will be held on Aug. 25.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/zendaya-spider-man-t-shirt-vintage-ebay-look-buy-online-1236304416/",
-    "source": "billboard",
-    "title": "Amazon Is Selling a $17 Version of the Vintage ‘Spider-Man’ T-Shirt Zendaya Wore in Paris",
-    "url": "https://www.billboard.com/culture/product-recommendations/zendaya-spider-man-t-shirt-vintage-ebay-look-buy-online-1236304416/",
-    "publishedAt": "2026-07-28T19:17:04.000Z",
-    "summary": "While she sourced her shirt from eBay, fans can get a similar version just in time for the web slinger's new film.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-country/tyler-childers-long-violent-history-interview-1235599961/",
     "source": "rolling-stone",
     "title": "Tyler Childers Looks Back on ‘Long Violent History’: ‘It’s Ruffled Some Feathers’",
     "url": "https://www.rollingstone.com/music/music-country/tyler-childers-long-violent-history-interview-1235599961/",
     "publishedAt": "2026-07-28T19:16:26.000Z",
-    "summary": "The songwriter also encourages Ameicans to listen to New Orleans piano player James Booker's \"Make a Better World\"",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/bts-gracie-abrams-ella-langley-chart-highlights-aug-1-2026/",
-    "source": "billboard",
-    "title": "BTS, Gracie Abrams, Ella Langley & More: Highlights of This Week’s Billboard Charts",
-    "url": "https://www.billboard.com/lists/bts-gracie-abrams-ella-langley-chart-highlights-aug-1-2026/",
-    "publishedAt": "2026-07-28T19:08:48.000Z",
-    "summary": "All of Billboard’s charts update each Tuesday.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/jean-michel-jarre-book-history-of-electonic-music-1236304347/",
-    "source": "billboard",
-    "title": "Jean-Michel Jarre to Release a Book About the History of Electronic Music: Here’s When It Arrives",
-    "url": "https://www.billboard.com/music/music-news/jean-michel-jarre-book-history-of-electonic-music-1236304347/",
-    "publishedAt": "2026-07-28T18:48:23.000Z",
-    "summary": "Machines: A History of Electronic Music will feature contributions from Richie Hawtin, Armin Van Buuren, Johnny Marr and more.",
+    "summary": "The songwriter also encourages Ameicans to listen to New Orleans piano player James Booker’s “Make a Better World”",
     "image": null
   },
   {
@@ -69,24 +114,6 @@
     "url": "https://pitchfork.com/story/listen-to-king-gizzard-and-the-lizard-wizards-new-song-alien-metal/",
     "publishedAt": "2026-07-28T18:47:31.000Z",
     "summary": "It’s the title track of their forthcoming EDM album",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/madison-beer-engaged-justin-herbert-1236304290/",
-    "source": "billboard",
-    "title": "Madison Beer Is Engaged to NFL Quarterback Justin Herbert: ‘Meet My Fiancé’",
-    "url": "https://www.billboard.com/music/music-news/madison-beer-engaged-justin-herbert-1236304290/",
-    "publishedAt": "2026-07-28T18:36:22.000Z",
-    "summary": "The pair sparked dating rumors in August 2025.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/ariana-grande-lawsuit-d4vd-murder-trial-music-law-news/",
-    "source": "billboard",
-    "title": "Ariana Grande Lawsuit, D4vd Murder Trial, Cher Ruling & More Top Music Law News",
-    "url": "https://www.billboard.com/pro/ariana-grande-lawsuit-d4vd-murder-trial-music-law-news/",
-    "publishedAt": "2026-07-28T18:32:07.000Z",
-    "summary": "In this week's Legal Beat newsletter, Ari sues over leaked music, the D4vd case heads toward a jury, Cher pays her own legal bill, and much more.",
     "image": null
   },
   {
@@ -114,24 +141,6 @@
     "url": "https://pitchfork.com/news/phoebe-bridgers-returns-with-new-album-lost-weekend/",
     "publishedAt": "2026-07-28T18:13:54.000Z",
     "summary": "The Punisher follow-up arrives August 14",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rock/tom-morello-anti-fascist-new-song-album-release-date-1236304318/",
-    "source": "billboard",
-    "title": "Tom Morello to Drop First Solo Rock Album With ‘Anti-Fascist’ & ‘Anti-Racist’ Songs",
-    "url": "https://www.billboard.com/music/rock/tom-morello-anti-fascist-new-song-album-release-date-1236304318/",
-    "publishedAt": "2026-07-28T17:57:10.000Z",
-    "summary": "He also released new song \"Date Night\" about three girls who assassinated Nazis during World War II.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/little-island-new-york-summer-programming-lineup-1236302614/",
-    "source": "billboard",
-    "title": "Little Island, Big Ideas: How New York’s Most Unusual Outdoor Venue Crafts Its Lineup",
-    "url": "https://www.billboard.com/music/music-news/little-island-new-york-summer-programming-lineup-1236302614/",
-    "publishedAt": "2026-07-28T17:55:55.000Z",
-    "summary": "Producing artistic director Zack Winokur explains how \"the whole 2.4-acre park becomes one big idea and one canvas.\"",
     "image": null
   },
   {
@@ -297,12 +306,12 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-lists/best-trump-protest-songs-1235597698/",
-    "source": "rolling-stone",
-    "title": "The 25 Best Anti-Trump Protest Songs",
-    "url": "https://www.rollingstone.com/music/music-lists/best-trump-protest-songs-1235597698/",
-    "publishedAt": "2026-07-28T13:52:21.000Z",
-    "summary": "From hip-hop to folk to punk, from personal statements to sweeping anthems — here are our favorite songs about the worst president ever",
+    "id": "nme-https://news.google.com/rss/articles/CBMizAFBVV95cUxOT0NrNGh0NTMxMlRfZ1pUMTZpV0hGb1RUZWZBZnpmS1RlVlZhVnJpdTJ2eGlxTV84Sld1aXc1YXNVa3czYTVLc0VKVGpDaUFjUHdrUERnRGtIck9yaC1jTHpIVHF2YkZucUdNNmlEM0gwbFFXLWE5Q3VSc3FnemgwazRrUnFoVGIyU29qc291M0VEWVMzOW9MeW9ZdnVHUngxYnVHMlpjM1BLTENZNTV6WFpZTnpTazg2T2lmbHBHR3NNZC1zWGcwaUVaQ3c?oc=5",
+    "source": "nme",
+    "title": "Viral New Zealand metal gig ruined by \"mess of shit, just completely spread all in the mosh pit\" - NME",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOT0NrNGh0NTMxMlRfZ1pUMTZpV0hGb1RUZWZBZnpmS1RlVlZhVnJpdTJ2eGlxTV84Sld1aXc1YXNVa3czYTVLc0VKVGpDaUFjUHdrUERnRGtIck9yaC1jTHpIVHF2YkZucUdNNmlEM0gwbFFXLWE5Q3VSc3FnemgwazRrUnFoVGIyU29qc291M0VEWVMzOW9MeW9ZdnVHUngxYnVHMlpjM1BLTENZNTV6WFpZTnpTazg2T2lmbHBHR3NNZC1zWGcwaUVaQ3c?oc=5",
+    "publishedAt": "2026-07-28T13:40:33.000Z",
+    "summary": "Viral New Zealand metal gig ruined by \"mess of shit, just completely spread all in the mosh pit\" NME",
     "image": null
   },
   {
@@ -546,15 +555,6 @@
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaVJ6dkNvZTRPY1l0WlJlYjVRVUJ1TWxFY294SWxpYUZLV1p5TGZrbEIwMHBhUHh5WFdiN0ZMRmFxeTktZ2VZUVFhTEFPRDY1YW9ySnVPcHBBQUIwQWZCX2psSGNMOFJGVy1rVU01TE04S1VBSnYzeW9ucWM4T2xKWE9qVko?oc=5",
     "publishedAt": "2026-07-27T09:00:53.000Z",
     "summary": "Charli XCX – ‘Music, Fashion, Film’ review: a snapshot of stardom from a true modern artist NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeUtSZkROZmlxWG1SbUNmV01xNkxqOURyVEhlRWluZXNBTkw1MGxQMlYxb2VxTkhXYk9uTnRENi1ZeWVYUzE2MDNHUVJfOHZfLV9VSkcyQjhCVXFrRFphNjdDTy1EcmR0V0xacV95ekdvQ1VKVmJCd2dDZTBVMUg5SDNWRl93S05NMC1yZU5sbWUyT28yeGM0bEI5XzFPSklWeHlZS1p5aUxHb0FjcFRKVFlwVHBIYXN5ZFQwOEZfc0Y4YS0taTJTeVVkeDZsWWZOTklQLQ?oc=5",
-    "source": "nme",
-    "title": "Mercury Prize 2026: shortlist announcement date and judging panel announced with tickets on sale now - NME",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeUtSZkROZmlxWG1SbUNmV01xNkxqOURyVEhlRWluZXNBTkw1MGxQMlYxb2VxTkhXYk9uTnRENi1ZeWVYUzE2MDNHUVJfOHZfLV9VSkcyQjhCVXFrRFphNjdDTy1EcmR0V0xacV95ekdvQ1VKVmJCd2dDZTBVMUg5SDNWRl93S05NMC1yZU5sbWUyT28yeGM0bEI5XzFPSklWeHlZS1p5aUxHb0FjcFRKVFlwVHBIYXN5ZFQwOEZfc0Y4YS0taTJTeVVkeDZsWWZOTklQLQ?oc=5",
-    "publishedAt": "2026-07-27T09:00:37.000Z",
-    "summary": "Mercury Prize 2026: shortlist announcement date and judging panel announced with tickets on sale now NME",
     "image": null
   },
   {
