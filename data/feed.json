@@ -1,5 +1,41 @@
 [
   {
+    "id": "pitchfork-https://pitchfork.com/story/linda-perhacs-is-reported-missing/",
+    "source": "pitchfork",
+    "title": "Linda Perhacs Is Reported Missing",
+    "url": "https://pitchfork.com/story/linda-perhacs-is-reported-missing/",
+    "publishedAt": "2026-07-28T05:00:55.000Z",
+    "summary": "Julia Holter and other musicians are asking for help finding the Parallelograms singer-songwriter",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/ariana-grande-sues-hackers-unreleased-music-leak-1235599473/",
+    "source": "rolling-stone",
+    "title": "Ariana Grande Sues Hackers Over Alleged Theft of Unreleased Music, Photos, and Video Footage",
+    "url": "https://www.rollingstone.com/music/music-news/ariana-grande-sues-hackers-unreleased-music-leak-1235599473/",
+    "publishedAt": "2026-07-28T04:38:25.000Z",
+    "summary": "Lawsuit states that 45 unreleased songs reportedly hit the internet in 2023 alone",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/linda-perhacs-missing-cult-singer-songwriter-1235599411/",
+    "source": "rolling-stone",
+    "title": "Linda Perhacs’ Friends Say Cult Singer-Songwriter Has ‘Gone Missing’",
+    "url": "https://www.rollingstone.com/music/music-news/linda-perhacs-missing-cult-singer-songwriter-1235599411/",
+    "publishedAt": "2026-07-28T03:13:10.000Z",
+    "summary": "The 82-year-old musician, who struggles with dementia, was discharged from a care facility eight months ago, according to a statement",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/concerts/beyond-the-valley-lineup-john-summit-black-eyed-peas-1236304111/",
+    "source": "billboard",
+    "title": "Beyond the Valley Announces 11th-Edition Lineup Led by John Summit and Black Eyed Peas",
+    "url": "https://www.billboard.com/music/concerts/beyond-the-valley-lineup-john-summit-black-eyed-peas-1236304111/",
+    "publishedAt": "2026-07-28T03:08:56.000Z",
+    "summary": "The Australian festival returns to Barunah Plains in Victoria from Dec. 28 through Jan. 1, 2027, after selling out in under an hour last year.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/pro/ariana-grande-lawsuit-sues-hackers-music-leaks/",
     "source": "billboard",
     "title": "Ariana Grande Sues Hackers Over Leaks of Unreleased Music: ‘Unlawful and Egregious’",
@@ -87,15 +123,6 @@
     "url": "https://www.billboard.com/video/calibre-50-28th-no-1-hit-billboard-mazatlan-pop-up-moment/",
     "publishedAt": "2026-07-27T22:00:00.000Z",
     "summary": "For the first time ever, Billboard brought its signature Pop-Up Moment beyond U.S. borders—landing in the vibrant, sun-soaked city of Mazatlán, along the Pacific coast in Sinaloa, Mexico. Known as the birthplace of banda and a heartbeat of regional Mexican music, Mazatlán provided a powerful backdrop for this milestone celebration. The occasion was especially meaningful […]",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/d4vd-stand-trial-celeste-rivas-hernandez-murder-case-judge/",
-    "source": "billboard",
-    "title": "D4vd Must Stand Trial in Celeste Rivas Hernandez Murder Case, Judge Rules",
-    "url": "https://www.billboard.com/pro/d4vd-stand-trial-celeste-rivas-hernandez-murder-case-judge/",
-    "publishedAt": "2026-07-27T21:56:37.000Z",
-    "summary": "Prosecutors sufficiently established \"probable cause\" during a five-day preliminary hearing in the gruesome case.",
     "image": null
   },
   {
@@ -258,24 +285,6 @@
     "url": "https://pitchfork.com/story/tyla-announces-tour/",
     "publishedAt": "2026-07-27T15:08:17.000Z",
     "summary": "The South African star is taking her sophomore album A*POP on the road",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/ella-langley-choosin-texas-song-of-the-summer-2026-1235598551/",
-    "source": "rolling-stone",
-    "title": "Admit It: ‘Choosin’ Texas’ Is the Song of the Summer",
-    "url": "https://www.rollingstone.com/music/music-features/ella-langley-choosin-texas-song-of-the-summer-2026-1235598551/",
-    "publishedAt": "2026-07-27T15:02:30.000Z",
-    "summary": "With 14 weeks and counting atop the charts, why is it so hard for us to call 2026 the summer of Ella Langley?",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/faith-no-more-2027-reunion-shows-system-of-a-down-1235599027/",
-    "source": "rolling-stone",
-    "title": "Faith No More Are Finally Reuniting in 2027",
-    "url": "https://www.rollingstone.com/music/music-news/faith-no-more-2027-reunion-shows-system-of-a-down-1235599027/",
-    "publishedAt": "2026-07-27T15:00:15.000Z",
-    "summary": "After a few false starts and canceled shows, the band will return to the stage for the first time in over a decade next year in Australia and New Zealand",
     "image": null
   },
   {
@@ -456,15 +465,6 @@
     "url": "https://pitchfork.com/story/listen-to-michael-stipes-new-song-hum-desiderata/",
     "publishedAt": "2026-07-26T22:28:33.000Z",
     "summary": "The R.E.M. frontman’s debut solo album is in the works",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/watch-hayley-williams-bring-out-wednesdays-karly-hartzman-jenny-lewis-at-newport-folk-festival/",
-    "source": "pitchfork",
-    "title": "Watch Hayley Williams Bring Out Wednesday’s Karly Hartzman, Jenny Lewis at Newport Folk Festival",
-    "url": "https://pitchfork.com/story/watch-hayley-williams-bring-out-wednesdays-karly-hartzman-jenny-lewis-at-newport-folk-festival/",
-    "publishedAt": "2026-07-26T21:46:44.000Z",
-    "summary": "Jack Antonoff, Lucy Dacus, This Is Lorelei, Kelsey Lu, and Joy Oladokun also hopped onstage",
     "image": null
   },
   {
