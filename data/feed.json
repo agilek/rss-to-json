@@ -1,11 +1,218 @@
 [
   {
-    "id": "billboard-https://www.billboard.com/lists/ella-langley-choosin-texas-top-songwriters-weigh-in/",
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/usher-responds-fan-kicked-off-stage-reacts-criticism-1236305005/",
     "source": "billboard",
-    "title": "Top Songwriters For Morgan Wallen, Post Malone & Demi Lovato Reveal Why Ella Langley’s ‘Choosin’ Texas’ Is a Lasting Hit: ‘There Are No Wasted Notes’",
-    "url": "https://www.billboard.com/lists/ella-langley-choosin-texas-top-songwriters-weigh-in/",
-    "publishedAt": "2026-07-29T14:00:00.000Z",
-    "summary": "“Choosin’ Texas’ is now the longest non-holiday No. 1 by a solo woman artist on the Billboard Hot 100.",
+    "title": "Usher Claps Back After Fan He Kicked Off Stage Reacted to Criticism of Viral Moment",
+    "url": "https://www.billboard.com/music/rb-hip-hop/usher-responds-fan-kicked-off-stage-reacts-criticism-1236305005/",
+    "publishedAt": "2026-07-29T17:12:07.000Z",
+    "summary": "Touring mate Chris Brown couldn't help but laugh.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "source": "billboard",
+    "title": "Billboard’s Music Industry Events Calendar",
+    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "publishedAt": "2026-07-29T17:09:00.000Z",
+    "summary": "A complete rundown of the most important events across the music business.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/kanye-west-settles-with-former-assistant-in-sexual-battery-lawsuit/",
+    "source": "pitchfork",
+    "title": "Kanye West Settles With Former Assistant in Sexual Battery Lawsuit",
+    "url": "https://pitchfork.com/story/kanye-west-settles-with-former-assistant-in-sexual-battery-lawsuit/",
+    "publishedAt": "2026-07-29T16:58:47.000Z",
+    "summary": "Lauren Pisciotta had alleged that West sexually harassed and assaulted her",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/selena-gomez-benny-blanco-tease-becky-g-latin-pop-collab-1236305319/",
+    "source": "billboard",
+    "title": "Selena Gomez & Benny Blanco Tease Summery New Latin Song ‘Te Olvido (La La)’ With Becky G",
+    "url": "https://www.billboard.com/music/music-news/selena-gomez-benny-blanco-tease-becky-g-latin-pop-collab-1236305319/",
+    "publishedAt": "2026-07-29T16:56:47.000Z",
+    "summary": "The track will appear on the producer's upcoming Hermoso album.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/beatles-special-edition-rubber-soul-new-mixes-home-demos-details-1236305232/",
+    "source": "billboard",
+    "title": "The Beatles Releasing Super Deluxe ‘Rubber Soul’ With New Stereo & Dolby Atmos Mixes, Previously Unreleased Recordings, Home Demos",
+    "url": "https://www.billboard.com/music/pop/beatles-special-edition-rubber-soul-new-mixes-home-demos-details-1236305232/",
+    "publishedAt": "2026-07-29T16:41:12.000Z",
+    "summary": "The revamped 1965 classic is due out on Oct. 2 and will also feature an 88-page book with an introduction by Paul McCartney and a never-heard John Lennon song snippet.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/jared-leto-responds-sexual-misconduct-claims-bbc-documentary/",
+    "source": "loudwire",
+    "title": "Jared Leto Responds to Sexual Misconduct Claims in BBC Doc",
+    "url": "https://loudwire.com/jared-leto-responds-sexual-misconduct-claims-bbc-documentary/",
+    "publishedAt": "2026-07-29T16:32:36.000Z",
+    "summary": "Jared Leto has issued a statement addressing the sexual misconduct allegations against him in a new BBC documentary. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/glen-hansard-irish-singer-songwriter-and-once-star-dies-at-56/",
+    "source": "pitchfork",
+    "title": "Glen Hansard, Irish Singer-Songwriter and Once Star, Dies at 56",
+    "url": "https://pitchfork.com/story/glen-hansard-irish-singer-songwriter-and-once-star-dies-at-56/",
+    "publishedAt": "2026-07-29T16:24:37.000Z",
+    "summary": "The Frames frontman died in a motorcycle crash today in Dublin",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/ariana-grande-debuts-new-petal-song-eternal-sunshine-tour-1236305216/",
+    "source": "billboard",
+    "title": "Ariana Grande Debuts ‘Petal’ Title Track at Eternal Sunshine Tour Show: ‘Don’t Need Someone to Save Me’",
+    "url": "https://www.billboard.com/music/music-news/ariana-grande-debuts-new-petal-song-eternal-sunshine-tour-1236305216/",
+    "publishedAt": "2026-07-29T16:16:24.000Z",
+    "summary": "\"This music and I will never die,\" the vocalist sings on the unreleased track.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/fan-army-face-off-2026-voting-1236294570/",
+    "source": "billboard",
+    "title": "Fan Army Face-Off 2026 Enters Round 3: Vote Now for the Remaining 16",
+    "url": "https://www.billboard.com/music/music-news/fan-army-face-off-2026-voting-1236294570/",
+    "publishedAt": "2026-07-29T16:07:29.000Z",
+    "summary": "Which artist's fan army is the strongest?",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/bts-wont-submit-for-2027-grammy-awards-1235600350/",
+    "source": "rolling-stone",
+    "title": "BTS Won’t Submit Comeback Album for Consideration at 2027 Grammys",
+    "url": "https://www.rollingstone.com/music/music-news/bts-wont-submit-for-2027-grammy-awards-1235600350/",
+    "publishedAt": "2026-07-29T16:01:07.000Z",
+    "summary": "The group expressed \"hope that music can be heard and loved by itself rather than being divided by region or language\" after the introduction of a Best Asian Pop Music Performance category",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/country-music-artists-oppose-data-centers-1235600150/",
+    "source": "rolling-stone",
+    "title": "Country Music Is Coming Out Strong Against Data Centers",
+    "url": "https://www.rollingstone.com/music/music-country/country-music-artists-oppose-data-centers-1235600150/",
+    "publishedAt": "2026-07-29T15:58:33.000Z",
+    "summary": "From Brad Paisley and Willie Nelson to Tanya Tucker and even Gavin Adcock, country artists are decrying the industrial facilities",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/tommy-iommi-announces-first-solo-album-in-21-years-from-the-dark/",
+    "source": "pitchfork",
+    "title": "Tony Iommi Announces First Solo Album in 21 Years",
+    "url": "https://pitchfork.com/story/tommy-iommi-announces-first-solo-album-in-21-years-from-the-dark/",
+    "publishedAt": "2026-07-29T15:55:24.000Z",
+    "summary": "The longtime Black Sabbath guitarist’s From the Dark drops October 23",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/jorn-lande-tony-iommi-from-the-dark/",
+    "source": "loudwire",
+    "title": "What to Know About the Singer on Tony Iommi's New Solo Album",
+    "url": "https://loudwire.com/jorn-lande-tony-iommi-from-the-dark/",
+    "publishedAt": "2026-07-29T15:49:10.000Z",
+    "summary": "Norwegian vocalist, who performed at Dio's memorial show in 2010, first wrote songs with the Black Sabbath guitarist in 2005. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/jared-leto-accused-sexual-misconduct-denies-claims-1236305074/",
+    "source": "billboard",
+    "title": "Jared Leto Accused by 4 Women of Sexual Misconduct When They Were Teens, Star Calls Claims ‘False’",
+    "url": "https://www.billboard.com/music/music-news/jared-leto-accused-sexual-misconduct-denies-claims-1236305074/",
+    "publishedAt": "2026-07-29T15:43:42.000Z",
+    "summary": "\"I have never sexually assaulted anyone in my entire life,\" he said in a statement.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/afroman-sues-ohio-police-officer-failed-defamation-lawsuit/",
+    "source": "billboard",
+    "title": "Afroman Sues Ohio Police Officer Who Filed Failed Defamation Lawsuit: ‘Malicious Prosecution’",
+    "url": "https://www.billboard.com/pro/afroman-sues-ohio-police-officer-failed-defamation-lawsuit/",
+    "publishedAt": "2026-07-29T15:41:17.000Z",
+    "summary": "Months after winning an epic free speech victory, the \"Because I Got High\" rapper is turning the tables on one of the cops that sued him.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/tv-film/american-idol-renewed-season-25-audition-details-1236305124/",
+    "source": "billboard",
+    "title": "‘American Idol’ Renewed For 25th Season",
+    "url": "https://www.billboard.com/culture/tv-film/american-idol-renewed-season-25-audition-details-1236305124/",
+    "publishedAt": "2026-07-29T15:24:49.000Z",
+    "summary": "Season 25 auditions will kick off on Aug. 25 with the return of \"Idol Across America\" virtual nationwide talent search in all 50 states.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/umg-wmg-sony-propose-principles-ai-song-chart-eligibility/",
+    "source": "billboard",
+    "title": "UMG, WMG, Sony, HYBE, Believe, BMG & More Propose New Principles for AI Song Chart Eligibility",
+    "url": "https://www.billboard.com/pro/umg-wmg-sony-propose-principles-ai-song-chart-eligibility/",
+    "publishedAt": "2026-07-29T15:21:29.000Z",
+    "summary": "The recent proposal follows a coalition of industry trade groups who teamed up to propose a system for labeling AI-generated songs on streaming services.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/tony-iommi-from-the-dark-album-world-alone-song/",
+    "source": "loudwire",
+    "title": "Tony Iommi Announces 'From the Dark' Solo Album, Debuts New Song",
+    "url": "https://loudwire.com/tony-iommi-from-the-dark-album-world-alone-song/",
+    "publishedAt": "2026-07-29T15:01:10.000Z",
+    "summary": "Black Sabbath guitarist Tony Iommi has announced his new album, 'From the Dark.' The first single, \"World Alone,\" is out now. See who else is on it! Continue reading…",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/kavinsky-death-obituary-1235600260/",
+    "source": "rolling-stone",
+    "title": "Kavinsky, French DJ-Producer Whose Chilly ‘Nightcall’ Defined ‘Drive,’ Dead at 50",
+    "url": "https://www.rollingstone.com/music/music-news/kavinsky-death-obituary-1235600260/",
+    "publishedAt": "2026-07-29T15:01:02.000Z",
+    "summary": "Artist had resurgence after appearance at 2024 Olympics",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/tony-iommi-from-the-dark-interview-black-sabbath-ozzy-1235599849/",
+    "source": "rolling-stone",
+    "title": "Tony Iommi on New Solo Album, Missing Ozzy Osbourne, and How He’s Not Going Anywhere",
+    "url": "https://www.rollingstone.com/music/music-features/tony-iommi-from-the-dark-interview-black-sabbath-ozzy-1235599849/",
+    "publishedAt": "2026-07-29T15:00:00.000Z",
+    "summary": "In his first interview since Ozzy's death, the Black Sabbath guitarist also previews \"World Alone\" from the new solo album he's releasing this fall",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/sour-widows-ready-jay-som-produced-sophomore-album/",
+    "source": "pitchfork",
+    "title": "Sour Widows Ready Jay Som-Produced Sophomore Album",
+    "url": "https://pitchfork.com/story/sour-widows-ready-jay-som-produced-sophomore-album/",
+    "publishedAt": "2026-07-29T14:48:31.000Z",
+    "summary": "Susanna Thomson wrote “Blood in the Grass,” the lead single from Sigil, for Babehoven’s Maya Bon",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/jared-leto-sexual-misconduct-bbc-documentary-allegations/",
+    "source": "loudwire",
+    "title": "Jared Leto Accused of Criminal Sexual Misconduct in BBC Doc",
+    "url": "https://loudwire.com/jared-leto-sexual-misconduct-bbc-documentary-allegations/",
+    "publishedAt": "2026-07-29T14:33:21.000Z",
+    "summary": "The documentary speaks to 10 women, four of which share stories of criminal sexual misconduct related to incidents with Jared Leto. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/olivia-rodrigo-brandi-carlile-festivals-women-lineup-1235597556/",
+    "source": "rolling-stone",
+    "title": "Olivia Rodrigo and Brandi Carlile Are Debunking the Myth That Women Can’t Lead Festivals",
+    "url": "https://www.rollingstone.com/music/music-features/olivia-rodrigo-brandi-carlile-festivals-women-lineup-1235597556/",
+    "publishedAt": "2026-07-29T14:26:39.000Z",
+    "summary": "With Rodrigo’s sold-out Daisy Chain Fields and Carlile’s established Girls Just Wanna Weekend, gender equity may finally be coming to the live stage",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/nickelback-mike-kroeger-new-song-album-interview-2026/",
+    "source": "loudwire",
+    "title": "Mike Kroeger Celebrates New Nickelback Music — Interview",
+    "url": "https://loudwire.com/nickelback-mike-kroeger-new-song-album-interview-2026/",
+    "publishedAt": "2026-07-29T14:17:59.000Z",
+    "summary": "Nickelback founding member and bassist Mike Kroeger discusses the band's latest song, \"Rattle the Cage,\" new album and more in this interview. Continue reading…",
     "image": null
   },
   {
@@ -36,15 +243,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/rock/glen-hansard-death-oscar-winning-once-singer-dies-obituary-1236305047/",
-    "source": "billboard",
-    "title": "Glen Hansard, Oscar-Winning ‘Once’ Singer-Songwriter Dies in Motorcycle Crash at 56",
-    "url": "https://www.billboard.com/music/rock/glen-hansard-death-oscar-winning-once-singer-dies-obituary-1236305047/",
-    "publishedAt": "2026-07-29T13:34:46.000Z",
-    "summary": "The solo star and leader of the Irish group the Frames was killed in the accident near his home in Dublin.",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/strawhouses-time-in-the-light-album-review/",
     "source": "louder-than-war",
     "title": "Strawhouses: Time in the Light – Album Review",
@@ -54,30 +252,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/awards/bts-2027-grammy-awards-not-enter-arirang-consideration-boycott-1236305040/",
-    "source": "billboard",
-    "title": "BTS Will Not Enter ‘Arirang’ Songs for Consideration at 2027 Grammy Awards",
-    "url": "https://www.billboard.com/music/awards/bts-2027-grammy-awards-not-enter-arirang-consideration-boycott-1236305040/",
-    "publishedAt": "2026-07-29T13:05:03.000Z",
-    "summary": "The news comes just over a month after the introduction of the best Asian pop music performance category.",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/news/the-beatles-announce-expanded-rubber-soul-reissue-featuring-unreleased-john-lennon-demo-155643/",
     "source": "uncut",
     "title": "The Beatles announce expanded Rubber Soul reissue featuring unreleased John Lennon demo",
     "url": "https://www.uncut.co.uk/news/the-beatles-announce-expanded-rubber-soul-reissue-featuring-unreleased-john-lennon-demo-155643/",
     "publishedAt": "2026-07-29T13:01:34.000Z",
     "summary": "You can also hear \"Michelle (Take 1)\" now",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/awards/phil-wickham-cece-winans-lead-gma-dove-awards-nominees-1236304947/",
-    "source": "billboard",
-    "title": "Phil Wickham, Brandon Lake, CeCe Winans Lead 57th Annual GMA Dove Awards Nominees: Exclusive",
-    "url": "https://www.billboard.com/music/awards/phil-wickham-cece-winans-lead-gma-dove-awards-nominees-1236304947/",
-    "publishedAt": "2026-07-29T13:00:00.000Z",
-    "summary": "Tauren Wells will host the GMA Dove Awards for a fourth consecutive year.",
     "image": null
   },
   {
@@ -99,30 +279,21 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMi9wFBVV95cUxOc1VmSVpUY1lUZ0VSMUpLVGl0alFJdFdJSHM5NFBrQjBxU0V2bXVhQ29tRTlsSzhFemstOVV0bHZyVUVpWHJERF9YdG4yNDR1YmVwMjk2VmFUbmZKYVBvNGJnNGc5bl9leUhNd1VlYzVuYnNqajVZNlYxeFdLNGFpSllFeWszcEtjQ09JWnZWQ1A1bVJGN1c4S0xDN1hFWFF1dDNHd3pDQjJvcElJVk83TTAxajQ4SEpPQWxlYUlrY3FJaUNnQ0dyNkhRVjgxMndBdlRMbnVVdjNQTDl2SzQ5a0RNSHl6bC1iSGItVHU3WnpKVVRpcWpF?oc=5",
+    "source": "nme",
+    "title": "BTS refuse to submit to Grammys in response to new Asian Pop category - NME",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOc1VmSVpUY1lUZ0VSMUpLVGl0alFJdFdJSHM5NFBrQjBxU0V2bXVhQ29tRTlsSzhFemstOVV0bHZyVUVpWHJERF9YdG4yNDR1YmVwMjk2VmFUbmZKYVBvNGJnNGc5bl9leUhNd1VlYzVuYnNqajVZNlYxeFdLNGFpSllFeWszcEtjQ09JWnZWQ1A1bVJGN1c4S0xDN1hFWFF1dDNHd3pDQjJvcElJVk83TTAxajQ4SEpPQWxlYUlrY3FJaUNnQ0dyNkhRVjgxMndBdlRMbnVVdjNQTDl2SzQ5a0RNSHl6bC1iSGItVHU3WnpKVVRpcWpF?oc=5",
+    "publishedAt": "2026-07-29T12:42:01.000Z",
+    "summary": "BTS refuse to submit to Grammys in response to new Asian Pop category NME",
+    "image": null
+  },
+  {
     "id": "louder-than-war-https://louderthanwar.com/long-distance-runner-zero-single-review/",
     "source": "louder-than-war",
     "title": "Long Distance Runner: Zero – Single Review",
     "url": "https://louderthanwar.com/long-distance-runner-zero-single-review/",
     "publishedAt": "2026-07-29T12:39:39.000Z",
     "summary": "Long Distance Runner: Zero Via Sounds Management Stream Out Now A new guitar band with no singer or bass player has released a song of rare emotional depth and will tour the UK this Autumn with their spiritual forefathers, Swervedriver. MK Bennett heartily […] The post Long Distance Runner: Zero – Single Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/country/willie-nelson-lashes-out-ai-data-center-construction-texas-1236305039/",
-    "source": "billboard",
-    "title": "Willie Nelson Lashes Out at AI Data Center Construction in Texas: ‘Loud, Water-Thieving, Light Polluting’",
-    "url": "https://www.billboard.com/music/country/willie-nelson-lashes-out-ai-data-center-construction-texas-1236305039/",
-    "publishedAt": "2026-07-29T12:37:32.000Z",
-    "summary": "The country icon is concerned that the water and energy-swallowing centers are an existential threat to his hometown of Abbott, Texas.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/pop/noah-kahan-slams-white-house-unauthorized-use-american-cars-1236305033/",
-    "source": "billboard",
-    "title": "Noah Kahan Latest Musician to Slam White House For Unauthorized Use of His Music in Social Media Hype Clip: ‘Would Never Approve’",
-    "url": "https://www.billboard.com/music/pop/noah-kahan-slams-white-house-unauthorized-use-american-cars-1236305033/",
-    "publishedAt": "2026-07-29T12:03:42.000Z",
-    "summary": "The singer adamantly took issue with the administration using \"American Cars\" in clip about Trump visit with autoworkers in Michigan.",
     "image": null
   },
   {
@@ -140,16 +311,34 @@
     "title": "Glen Hansard, Oscar-Winning ‘Once’ Musician, Dead at 56",
     "url": "https://www.rollingstone.com/music/music-news/glen-hansard-once-musician-dead-obituary-1235600244/",
     "publishedAt": "2026-07-29T11:43:25.000Z",
-    "summary": "Irish singer-songwriter dies after motorcycle crash in Dublin",
+    "summary": "Singer-songwriter, who performed solo, with the Frames, and Swell Seasn, dies after motorcycle crash in Dublin",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQ0dHdi1vRUZzSkRvUXdiY256dlUydlpwdWlYNUFVVjBjbkxlWHItQXhIdGFQM2oxdzJvdWtrOVROa3BXQ3ZReHB6M2V1RmR0aXdCSWNXX0dFZmctMWp4VVloa2J0cUdXNmlSa0llbWxJZFg5THRad25hNXBOdmp6NUl5NWJCZlZRMld5VmVodC14R19CX09TRWFZWVlhb2p3THBBU1pRRWlXQ1RhQl8tQ1Z4MFR1Um5VLUFPbFlvSG1JeHhSMG5ycG51T2ZLLWlHLUhHeVlnSk9JVGZyWHBTMkUtUGxrT0E3aHdJSUYzMA?oc=5",
+    "source": "nme",
+    "title": "Spiritbox’s Courtney LaPlante defends ejecting \"old drunk man punching people in the head\" from gig - NME",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQ0dHdi1vRUZzSkRvUXdiY256dlUydlpwdWlYNUFVVjBjbkxlWHItQXhIdGFQM2oxdzJvdWtrOVROa3BXQ3ZReHB6M2V1RmR0aXdCSWNXX0dFZmctMWp4VVloa2J0cUdXNmlSa0llbWxJZFg5THRad25hNXBOdmp6NUl5NWJCZlZRMld5VmVodC14R19CX09TRWFZWVlhb2p3THBBU1pRRWlXQ1RhQl8tQ1Z4MFR1Um5VLUFPbFlvSG1JeHhSMG5ycG51T2ZLLWlHLUhHeVlnSk9JVGZyWHBTMkUtUGxrT0E3aHdJSUYzMA?oc=5",
+    "publishedAt": "2026-07-29T11:23:16.000Z",
+    "summary": "Spiritbox’s Courtney LaPlante defends ejecting \"old drunk man punching people in the head\" from gig NME",
     "image": null
   },
   {
     "id": "nme-https://news.google.com/rss/articles/CBMimAFBVV95cUxOMV9SOFFXQUxMWWJtdWF1SGhRNFg2ZVBZel9GM0hwclphTTc0WFM1SWREOWhjV3NBV3lxWEtYTzlEY3V0bXFwdUNvXzk5Um03YUp4Q3BCMWRUdF9wS0dpZUNwdGgwLTlGb1FuanpRRzlzOXdKQldLbmstXzBTTUpETjdmZTVJX2ZVdjRTTm1NUHMtb0RKMGZMdg?oc=5",
     "source": "nme",
-    "title": "Glen Hansard dies following motorcycle crash in Dublin - NME",
+    "title": "Tributes paid after Glen Hansard dies in motorcycle crash: \"A remarkable artist whose music touched so many lives\" - NME",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMV9SOFFXQUxMWWJtdWF1SGhRNFg2ZVBZel9GM0hwclphTTc0WFM1SWREOWhjV3NBV3lxWEtYTzlEY3V0bXFwdUNvXzk5Um03YUp4Q3BCMWRUdF9wS0dpZUNwdGgwLTlGb1FuanpRRzlzOXdKQldLbmstXzBTTUpETjdmZTVJX2ZVdjRTTm1NUHMtb0RKMGZMdg?oc=5",
     "publishedAt": "2026-07-29T11:18:18.000Z",
-    "summary": "Glen Hansard dies following motorcycle crash in Dublin NME",
+    "summary": "Tributes paid after Glen Hansard dies in motorcycle crash: \"A remarkable artist whose music touched so many lives\" NME",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMiigFBVV95cUxNN0lBTmt1U1p1M1RYSFhNWFdhN3BlTnk4SmZydEdZZDBEeFRDWHFwYVRYZno5VEdDVmRFdUtPd1lxVVBIRXB3MEttd00wOFBDalIzSndsRkFzaXFVRC0tU0VJV2pZUUVsN2tjckl4bXdzTDdzQjZ4TnJsZUdRNHJyeVNPZVZObzAyUUE?oc=5",
+    "source": "nme",
+    "title": "French DJ and ‘Nightcall’ star Kavinsky found dead in Paris home - NME",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNN0lBTmt1U1p1M1RYSFhNWFdhN3BlTnk4SmZydEdZZDBEeFRDWHFwYVRYZno5VEdDVmRFdUtPd1lxVVBIRXB3MEttd00wOFBDalIzSndsRkFzaXFVRC0tU0VJV2pZUUVsN2tjckl4bXdzTDdzQjZ4TnJsZUdRNHJyeVNPZVZObzAyUUE?oc=5",
+    "publishedAt": "2026-07-29T10:26:22.000Z",
+    "summary": "French DJ and ‘Nightcall’ star Kavinsky found dead in Paris home NME",
     "image": null
   },
   {
@@ -159,24 +348,6 @@
     "url": "https://www.uncut.co.uk/features/wish-you-were-here-before-ibiza-became-a-party-island-it-was-a-hippie-paradise-for-pink-floyd-joni-mitchell-and-more-155632/",
     "publishedAt": "2026-07-29T09:33:00.000Z",
     "summary": "Nick Mason, Robert Wyatt and others revisit the islands that helped shape a generation of music",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/dua-lipa-london-literature-festival-lineup-2026-1236304256/",
-    "source": "billboard",
-    "title": "Dua Lipa Reveals Her Curated Lineup for 2026 London Literature Festival: ‘We’ll Be Joined by Icons’",
-    "url": "https://www.billboard.com/music/music-news/dua-lipa-london-literature-festival-lineup-2026-1236304256/",
-    "publishedAt": "2026-07-29T09:00:00.000Z",
-    "summary": "She will appear in conversation with punk-rock icon Patti Smith, poet and musician Mustafa and author Zadie Smith.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/ministry-of-sound-35th-anniversary-lineup-1236304288/",
-    "source": "billboard",
-    "title": "Ministry of Sound’s 35th Anniversary Lineup to Feature Kerri Chandler, Moodymann & More",
-    "url": "https://www.billboard.com/music/music-news/ministry-of-sound-35th-anniversary-lineup-1236304288/",
-    "publishedAt": "2026-07-29T09:00:00.000Z",
-    "summary": "The event will take place over the first weekend in October.",
     "image": null
   },
   {
@@ -198,15 +369,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/concerts/john-summit-2026-lost-paradise-lineup-1236305022/",
-    "source": "billboard",
-    "title": "John Summit Leads 2026 Lost Paradise Lineup",
-    "url": "https://www.billboard.com/music/concerts/john-summit-2026-lost-paradise-lineup-1236305022/",
-    "publishedAt": "2026-07-29T07:45:23.000Z",
-    "summary": "Presented across the five days from Dec. 28 to Jan. 1 in Glenworth Valley, New South Wales, Lost Paradise is coming off four consecutive sell-outs.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/willie-nelson-data-centers-statement-1235600229/",
     "source": "rolling-stone",
     "title": "Willie Nelson Voices Concern About ‘Data Centers Invading Our Land’",
@@ -225,66 +387,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/country/megan-moroney-ends-denver-concert-early-illness-1236305001/",
-    "source": "billboard",
-    "title": "‘The Hardest Decision I’ve Ever Had to Make’: Megan Moroney Ends Denver Concert Early Due to Illness",
-    "url": "https://www.billboard.com/music/country/megan-moroney-ends-denver-concert-early-illness-1236305001/",
-    "publishedAt": "2026-07-29T04:38:01.000Z",
-    "summary": "“Megan is unable to continue her performance this evening due to illness, and we must end the show at this time,\" a statement reads.",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/pearl-jam-photography-book-jeff-ament-since-forever-1235600216/",
-    "source": "rolling-stone",
-    "title": "Pearl Jam’s Early Years Revealed in New Intimate Photography Book",
-    "url": "https://www.rollingstone.com/music/music-news/pearl-jam-photography-book-jeff-ament-since-forever-1235600216/",
-    "publishedAt": "2026-07-29T04:30:32.000Z",
-    "summary": "Bassist Jeff Ament’s Since Forever captures the iconic band in rare moments throughout the decades",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/noah-kahan-white-house-music-trump-video-1235600195/",
-    "source": "rolling-stone",
-    "title": "Noah Kahan Slams White House for Using His Song in Trump Promo Video",
-    "url": "https://www.rollingstone.com/music/music-news/noah-kahan-white-house-music-trump-video-1235600195/",
-    "publishedAt": "2026-07-29T02:47:40.000Z",
-    "summary": "The administration used Kahan’s “American Cars” to soundtrack photos of the president visiting General Motors’ flagship test site",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-latin/fred-again-latin-mafia-mixtape-livestream-youtube-1235600186/",
-    "source": "rolling-stone",
-    "title": "Fred Again.. and Latin Mafia Are Making a Mixtape and Livestreaming the Entire Process",
-    "url": "https://www.rollingstone.com/music/music-latin/fred-again-latin-mafia-mixtape-livestream-youtube-1235600186/",
-    "publishedAt": "2026-07-29T01:12:03.000Z",
-    "summary": "The livestream will only end when they finish recording their latest collab",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/phoebe-bridgers-lost-weekend-track-list-1235600133/",
-    "source": "rolling-stone",
-    "title": "Phoebe Bridgers Reveals ‘Lost Weekend’ Track List",
-    "url": "https://www.rollingstone.com/music/music-news/phoebe-bridgers-lost-weekend-track-list-1235600133/",
-    "publishedAt": "2026-07-28T22:20:28.000Z",
-    "summary": "The 16-track project, her first solo album in six years, arrives in August",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/ninajirachi-teams-up-with-porter-robinson-for-new-single-wannacry/",
     "source": "pitchfork",
     "title": "Ninajirachi Teams Up With Porter Robinson for New Single “WannaCry”",
     "url": "https://pitchfork.com/story/ninajirachi-teams-up-with-porter-robinson-for-new-single-wannacry/",
     "publishedAt": "2026-07-28T22:05:45.000Z",
     "summary": "The Australian producer and DJ reunites with her teenage idol on her first original track of 2026",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/jim-james-new-song-album-wowed-out-tour-dates-1235600120/",
-    "source": "rolling-stone",
-    "title": "Jim James Previews First Solo Album in Eight Years With Title Track ‘Wowed Out’",
-    "url": "https://www.rollingstone.com/music/music-news/jim-james-new-song-album-wowed-out-tour-dates-1235600120/",
-    "publishedAt": "2026-07-28T21:57:11.000Z",
-    "summary": "My Morning Jacket frontman shares new single and will celebrate the solo album’s release by hitting the road",
     "image": null
   },
   {
@@ -333,15 +441,6 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/news/phoebe-bridgers-returns-with-new-album-lost-weekend/",
-    "source": "pitchfork",
-    "title": "Phoebe Bridgers Returns With New Album Lost Weekend",
-    "url": "https://pitchfork.com/news/phoebe-bridgers-returns-with-new-album-lost-weekend/",
-    "publishedAt": "2026-07-28T18:13:54.000Z",
-    "summary": "The Punisher follow-up arrives August 14",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/news/jeff-ament-to-release-pearl-jam-photo-book-since-forever-155607/",
     "source": "uncut",
     "title": "Jeff Ament to release Pearl Jam photo book, Since Forever",
@@ -360,30 +459,12 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/story/richard-thompson-readies-20th-solo-album/",
-    "source": "pitchfork",
-    "title": "Richard Thompson Readies 20th Solo Album",
-    "url": "https://pitchfork.com/story/richard-thompson-readies-20th-solo-album/",
-    "publishedAt": "2026-07-28T16:41:23.000Z",
-    "summary": "A raucous bar-rock ditty titled “Cocaine Walking, Booze Talking” leads Hippies Thugs, and Heroes",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/fcukers-remix-ep-nuyork/",
-    "source": "pitchfork",
-    "title": "Fcukers Announce New Ö Remix EP NüYork",
-    "url": "https://pitchfork.com/story/fcukers-remix-ep-nuyork/",
-    "publishedAt": "2026-07-28T16:31:50.000Z",
-    "summary": "Eli Escobar’s flip of “If You Wanna Party, Come Over to My House” is out now",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/alice-coltranes-ashram-tapes-finally-get-authorized-release/",
-    "source": "pitchfork",
-    "title": "Alice Coltrane’s Ashram Tapes Are Finally Getting Released",
-    "url": "https://pitchfork.com/story/alice-coltranes-ashram-tapes-finally-get-authorized-release/",
-    "publishedAt": "2026-07-28T16:31:46.000Z",
-    "summary": "The four devotional albums have long been unavailable to the public in any format",
+    "id": "kerrang-https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZ1g5T3A5WmVLU0RISk1IZllKc0Q1NktnUkVpeGdobDJJZ3gxazNxRzZUWkFwcVI2LTJZbzlwOXpvd2prbTNZaE1PZlFmVXphYzhKN1pRWlY0ZFhYNTc3aDZsSHJHUjMtT3FGc1Zod0F0cV9CVW80ODAtNXBURW5lT0l3SWlWR3dveDhCSGRGemdLRzJUaWcxTkZVZG5LdENXZlpHNlpvWDZWaUZ2VTZMY08wZDdvQnRCS2tRSVhCNHZRN0o2MzFxMmV1dzFUZHBlUUVkaXhKbms2TXNNaU04?oc=5",
+    "source": "kerrang",
+    "title": "10 reasons why you need Die Spitz in your life - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZ1g5T3A5WmVLU0RISk1IZllKc0Q1NktnUkVpeGdobDJJZ3gxazNxRzZUWkFwcVI2LTJZbzlwOXpvd2prbTNZaE1PZlFmVXphYzhKN1pRWlY0ZFhYNTc3aDZsSHJHUjMtT3FGc1Zod0F0cV9CVW80ODAtNXBURW5lT0l3SWlWR3dveDhCSGRGemdLRzJUaWcxTkZVZG5LdENXZlpHNlpvWDZWaUZ2VTZMY08wZDdvQnRCS2tRSVhCNHZRN0o2MzFxMmV1dzFUZHBlUUVkaXhKbms2TXNNaU04?oc=5",
+    "publishedAt": "2026-07-28T17:25:00.000Z",
+    "summary": "10 reasons why you need Die Spitz in your life Kerrang!",
     "image": null
   },
   {
@@ -468,66 +549,12 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOElFSmljSFBhWjZrNkFhcXU4a1FUbGpTMW84WV9JZUlzaVhnVmJXdm5zcGJqNWlYQmRfSVJOal9CTjZMalhqNHBYQTJSOEY0UHB2S21DbklMSWsxLTBLaFhGclRwVnlVUnlocHBQblpJdnhZWmtCZzNRZ2pKekR5OXdWSVBfdURsNWJqS2pHM0JoUWd2SURka3NkRndyRlBfaGs4Uk5TdW1zM0lIN0ZadzA4SktoM0FSTFRnTFhOVkY4Q0V0ZEU3bjhnbE85aHV4STV2RGJ4NDRIZ1hS?oc=5",
-    "source": "nme",
-    "title": "Modest Mouse guitarist Simon O'Connor responds to allegations of sending inappropriate messages to a minor - NME",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOElFSmljSFBhWjZrNkFhcXU4a1FUbGpTMW84WV9JZUlzaVhnVmJXdm5zcGJqNWlYQmRfSVJOal9CTjZMalhqNHBYQTJSOEY0UHB2S21DbklMSWsxLTBLaFhGclRwVnlVUnlocHBQblpJdnhZWmtCZzNRZ2pKekR5OXdWSVBfdURsNWJqS2pHM0JoUWd2SURka3NkRndyRlBfaGs4Uk5TdW1zM0lIN0ZadzA4SktoM0FSTFRnTFhOVkY4Q0V0ZEU3bjhnbE85aHV4STV2RGJ4NDRIZ1hS?oc=5",
-    "publishedAt": "2026-07-28T09:22:44.000Z",
-    "summary": "Modest Mouse guitarist Simon O'Connor responds to allegations of sending inappropriate messages to a minor NME",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/news/send-us-your-questions-for-dave-stewart-155578/",
     "source": "uncut",
     "title": "Send us your questions for Dave Stewart!",
     "url": "https://www.uncut.co.uk/news/send-us-your-questions-for-dave-stewart-155578/",
     "publishedAt": "2026-07-28T08:37:11.000Z",
     "summary": "The Eurythmics man and trusted collaborator of Dylan, Jagger, Petty, Nicks, Harrison and many more will field your enquiries in a future issue of Uncut",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/david-lee-roth-alex-van-halen-2026/",
-    "source": "loudwire",
-    "title": "David Lee Roth to Join Alex Van Halen for First Time Since 2015",
-    "url": "https://loudwire.com/david-lee-roth-alex-van-halen-2026/",
-    "publishedAt": "2026-07-28T05:32:53.000Z",
-    "summary": "Former bandmates haven’t shared the stage since Van Halen’s final concert. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaEpXZzBLdDVsLTdFZDR2N1BHWWFfUW4xMDhqeEV1UzF6djdUWTFzWW1oQ1ZQeDhncnRKaG1na3FyOXhmTzdSbHJ6Nk5wT0cwWVJlcTMwQXRvOEdvNzMxUWZzdGFaWW0wNmJYSlY3WXA2UzZLOFQ5NFhFbDR2UXJxNDhoVTFLTUJlamZ4MWhjc0hlYkZxc01IT0ZhSEl4UWo0Um55NENPNVQ5UnVnODFSM2F1QUViamo2WVJBckVoYVByYXF5N3NhY1c1aVZoS0RYZ3VJNjVpRQ?oc=5",
-    "source": "nme",
-    "title": "Dave Davies reignites The Kinks’ feud with The Beatles: “George Harrison was the only one I really liked” - NME",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaEpXZzBLdDVsLTdFZDR2N1BHWWFfUW4xMDhqeEV1UzF6djdUWTFzWW1oQ1ZQeDhncnRKaG1na3FyOXhmTzdSbHJ6Nk5wT0cwWVJlcTMwQXRvOEdvNzMxUWZzdGFaWW0wNmJYSlY3WXA2UzZLOFQ5NFhFbDR2UXJxNDhoVTFLTUJlamZ4MWhjc0hlYkZxc01IT0ZhSEl4UWo0Um55NENPNVQ5UnVnODFSM2F1QUViamo2WVJBckVoYVByYXF5N3NhY1c1aVZoS0RYZ3VJNjVpRQ?oc=5",
-    "publishedAt": "2026-07-27T20:39:05.000Z",
-    "summary": "Dave Davies reignites The Kinks’ feud with The Beatles: “George Harrison was the only one I really liked” NME",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/better-ride-the-lightning-metallica-vs-megadeth/",
-    "source": "loudwire",
-    "title": "VOTE: Better 'Ride the Lightning' - Metallica vs. Megadeth",
-    "url": "https://loudwire.com/better-ride-the-lightning-metallica-vs-megadeth/",
-    "publishedAt": "2026-07-27T20:19:36.000Z",
-    "summary": "Vote for either Metallica or Megadeth's version of 'Ride the Lightning.' Continue reading…",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/story-of-the-year-warped-tour-star-wars-eman-esfandi/",
-    "source": "loudwire",
-    "title": "Story Of The Year's California Shows Featured A Surprise Jedi Guest",
-    "url": "https://loudwire.com/story-of-the-year-warped-tour-star-wars-eman-esfandi/",
-    "publishedAt": "2026-07-27T18:20:44.000Z",
-    "summary": "A Jedi walked into a punk show in San Diego — and nobody seemed to think that was weird. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/guns-n-roses-axl-rose-sweet-gelato-shop-saratoga-springs/",
-    "source": "loudwire",
-    "title": "Gelato Shop Employee Didn't Realize She Served Axl Rose",
-    "url": "https://loudwire.com/guns-n-roses-axl-rose-sweet-gelato-shop-saratoga-springs/",
-    "publishedAt": "2026-07-27T16:44:08.000Z",
-    "summary": "Axl Rose popped into a gelato shop in Saratoga Springs late last week and the server didn't realize who he was until after he'd already left. Continue reading…",
     "image": null
   },
   {
@@ -540,30 +567,12 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMilwFBVV95cUxPV0xKR0xqTWRLZWtaX0dVZmQ0MFVLVXJSc0Z6RlByYkFLN1FOSTlzUTNrMlFiekk1NU1YZFlWeEcxWWRLTWdKMVRnRWh6SW5fN0Vab2xEU0VYeTZNbHlqYVlVSTZCVGFad05NREpjYy0xNjBKUHd0MEVfRERWY2Nwcm5NWGc5OWFHaWwwRHVmbWVPV3FqRWVz?oc=5",
-    "source": "nme",
-    "title": "Boy George shares pro-Israel song ‘We Will Dance Again’ - NME",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV0xKR0xqTWRLZWtaX0dVZmQ0MFVLVXJSc0Z6RlByYkFLN1FOSTlzUTNrMlFiekk1NU1YZFlWeEcxWWRLTWdKMVRnRWh6SW5fN0Vab2xEU0VYeTZNbHlqYVlVSTZCVGFad05NREpjYy0xNjBKUHd0MEVfRERWY2Nwcm5NWGc5OWFHaWwwRHVmbWVPV3FqRWVz?oc=5",
-    "publishedAt": "2026-07-27T15:50:38.000Z",
-    "summary": "Boy George shares pro-Israel song ‘We Will Dance Again’ NME",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/news/carly-simon-reveals-parkinsons-diagnosis-it-is-difficult-frustrating-and-sometimes-frightening-155582/",
     "source": "uncut",
     "title": "Carly Simon reveals Parkinson’s diagnosis: “It is difficult, frustrating and sometimes frightening”",
     "url": "https://www.uncut.co.uk/news/carly-simon-reveals-parkinsons-diagnosis-it-is-difficult-frustrating-and-sometimes-frightening-155582/",
     "publishedAt": "2026-07-27T15:27:04.000Z",
     "summary": "She is carrying on working despite the news",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/new-zealand-metal-show-poop-mosh-pit/",
-    "source": "loudwire",
-    "title": "New Zealand Metal Show Ruined by 'Huge Mess of S--t' in the Pit",
-    "url": "https://loudwire.com/new-zealand-metal-show-poop-mosh-pit/",
-    "publishedAt": "2026-07-27T14:26:36.000Z",
-    "summary": "One audience member's defecation in the pit led to a messy and sickly situation in the moshpit at a recent Devilskin performance. Continue reading…",
     "image": null
   },
   {
@@ -708,15 +717,6 @@
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdGhjQnVvNjhRbUw4SGpmallKaHp3b0g5NzRhRmhhOGRaN2VxUjRXTGpXZkRfUURqelU4WlJzNG95VjhsZzZRRHEycHlOaGRVMjFXV2piYXM2dzd4cnBTcEh1bUwyLUd6cmFLQTFZdnpUaU5sNVhNUWcxT1dXOVRyWkRscw?oc=5",
     "publishedAt": "2026-07-23T07:36:00.000Z",
     "summary": "Marmozets have parted ways with bassist Sam Macintyre Kerrang!",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMilgFBVV95cUxQTm1FNVBFZURMdHRsS3FCWFFHWUZHVHgtRW9saVRfaFBPSVhoM1A1SEN3OGcxM254a2MwWDl2NU56dkNaNEgtWVNIdmZyNVcwQ1JQU2Y0VGsyY2JqTzdMTVJ4UEZFS2hOcTNOdjJVNDRva3QxUzRIdm9vMDZmODJDV3hZWnRQN2JiNS1XNXFmZkFhS2N2c1E?oc=5",
-    "source": "kerrang",
-    "title": "Imminence – Axis Mundi splatter vinyl with signed art card - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTm1FNVBFZURMdHRsS3FCWFFHWUZHVHgtRW9saVRfaFBPSVhoM1A1SEN3OGcxM254a2MwWDl2NU56dkNaNEgtWVNIdmZyNVcwQ1JQU2Y0VGsyY2JqTzdMTVJ4UEZFS2hOcTNOdjJVNDRva3QxUzRIdm9vMDZmODJDV3hZWnRQN2JiNS1XNXFmZkFhS2N2c1E?oc=5",
-    "publishedAt": "2026-07-22T17:30:32.000Z",
-    "summary": "Imminence – Axis Mundi splatter vinyl with signed art card Kerrang!",
     "image": null
   }
 ]
