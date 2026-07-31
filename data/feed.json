@@ -1,5 +1,86 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/pro/does-fender-own-stratocaster-guitar-design-legal-fight/",
+    "source": "billboard",
+    "title": "Does Fender Own the Stratocaster Design? Inside a Legal Feud Dividing the Global Guitar Business",
+    "url": "https://www.billboard.com/pro/does-fender-own-stratocaster-guitar-design-legal-fight/",
+    "publishedAt": "2026-07-31T20:51:14.000Z",
+    "summary": "Fender claims a recent German court ruling provides broad copyright protection over the Strat electric guitar shape. Some competitors disagree.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/concerts/one-musicfest-2026-festival-statement-1236307305/",
+    "source": "billboard",
+    "title": "Atlanta’s ONE Musicfest Cancels This Year’s Festival, Wants to Build New Iteration",
+    "url": "https://www.billboard.com/music/concerts/one-musicfest-2026-festival-statement-1236307305/",
+    "publishedAt": "2026-07-31T20:33:40.000Z",
+    "summary": "The 16-year-old festival has decided to hit pause in 2026 to rethink their strategy in time for next year.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-latin/white-house-video-bad-bunny-la-mudanza-deportation-irony-1235601562/",
+    "source": "rolling-stone",
+    "title": "The Insane Irony of the White House Using Bad Bunny’s ‘La Mudanza’ for Deportation Videos",
+    "url": "https://www.rollingstone.com/music/music-latin/white-house-video-bad-bunny-la-mudanza-deportation-irony-1235601562/",
+    "publishedAt": "2026-07-31T20:19:56.000Z",
+    "summary": "The Puerto Rican star has openly criticized the Trump administration's immigration policies",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/drake-adin-ross-streaming-lawsuit-stake-arbitration-1235601620/",
+    "source": "rolling-stone",
+    "title": "Drake ‘Fraudulent Streams’ Case on Ice as Judge Sends Online Casino Claims to Arbitration",
+    "url": "https://www.rollingstone.com/music/music-news/drake-adin-ross-streaming-lawsuit-stake-arbitration-1235601620/",
+    "publishedAt": "2026-07-31T20:11:07.000Z",
+    "summary": "A judge has paused a lawsuit claiming Drake helped inflate his music streaming numbers, saying the plaintiffs must first complete arbitration with the gaming platform named in the complaint",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/phish-madison-square-garden-90s-nineties-journey-1235601100/",
+    "source": "rolling-stone",
+    "title": "Phish in the Nineties: What a Time It Was",
+    "url": "https://www.rollingstone.com/music/music-features/phish-madison-square-garden-90s-nineties-journey-1235601100/",
+    "publishedAt": "2026-07-31T20:05:37.000Z",
+    "summary": "As the band wraps a throwback run at Madison Square Garden, one longtime fan reflects on what it was like to discover their music",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/hybe-jenni-pfaff-chief-people-and-transformation-officer/",
+    "source": "billboard",
+    "title": "Executive Turntable: HYBE Elevates Jenni Pfaff to Chief People and Transformation Officer",
+    "url": "https://www.billboard.com/lists/hybe-jenni-pfaff-chief-people-and-transformation-officer/",
+    "publishedAt": "2026-07-31T20:04:00.000Z",
+    "summary": "In this week's Executive Turntable, Sony Music Publishing, K-LOVE and Secretly Distribution are among those to hire and promote people to senior roles.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/hitting-road-to-stateside-hertz-sydney-rose-arcy-drive-1235596431/",
+    "source": "rolling-stone",
+    "title": "How 26 Golden Retrievers Took Over Stateside",
+    "url": "https://www.rollingstone.com/music/music-news/hitting-road-to-stateside-hertz-sydney-rose-arcy-drive-1235596431/",
+    "publishedAt": "2026-07-31T20:01:06.000Z",
+    "summary": "And why we were totally OK with that",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/photos/lollapalooza-2026-best-photos-1236307203/",
+    "source": "billboard",
+    "title": "Lollapalooza 2026: Best Photos From the Festival",
+    "url": "https://www.billboard.com/photos/lollapalooza-2026-best-photos-1236307203/",
+    "publishedAt": "2026-07-31T19:51:05.000Z",
+    "summary": "The genre-spanning annual music event kicked off July 30 with sets from Lorde, 5 Seconds of Summer, sombr and more.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/ted-lasso-season-4-watch-apple-tv-show-online-free-stream-1236307114/",
+    "source": "billboard",
+    "title": "‘Ted Lasso’ Returns for Season 4: How to Watch the Comeback Online for Free",
+    "url": "https://www.billboard.com/culture/product-recommendations/ted-lasso-season-4-watch-apple-tv-show-online-free-stream-1236307114/",
+    "publishedAt": "2026-07-31T19:46:53.000Z",
+    "summary": "Jason Sudeikis’ beloved coach is back on the sidelines Aug. 5, this time leading a women’s soccer team.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/latin/best-new-latin-music-poll-erick-brian-karol-g-kapo-releases-1236307253/",
     "source": "billboard",
     "title": "Erick Brian, Dale Pututi & Nesty’s ‘Efímero’ & More: Vote for the Best New Latin Music Release This Week",
@@ -29,7 +110,7 @@
   {
     "id": "billboard-https://www.billboard.com/pro/drake-avoids-lawsuit-gambling-endorsements-stream-bots/",
     "source": "billboard",
-    "title": "Drake Avoids Class Action Lawsuit Over Gambling Endorsements & Stream Bots",
+    "title": "Drake Avoids Class Action Lawsuit Over Gambling Endorsements & Stream Bots – For Now",
     "url": "https://www.billboard.com/pro/drake-avoids-lawsuit-gambling-endorsements-stream-bots/",
     "publishedAt": "2026-07-31T19:16:20.000Z",
     "summary": "The case, one of many over Drake's partnership with the Stake platform, has been sent to private arbitration.",
@@ -45,21 +126,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/white-house-bad-bunny-drake-songs-ice-deportation-videos-1236307191/",
-    "source": "billboard",
-    "title": "White House Uses Bad Bunny & Drake Songs in New ICE Deportation Videos: ‘You’re Going Home’",
-    "url": "https://www.billboard.com/music/music-news/white-house-bad-bunny-drake-songs-ice-deportation-videos-1236307191/",
-    "publishedAt": "2026-07-31T18:59:12.000Z",
-    "summary": "TikTok clips pair Benito's “La Mudanza” and the rapper's “Hoe Phase” with footage of ICE arrests.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/glen-hansard-family-memorial-arrangements-public-funeral-1235601653/",
     "source": "rolling-stone",
     "title": "Glen Hansard: Family Announces Memorial Arrangements, Public Funeral",
     "url": "https://www.rollingstone.com/music/music-news/glen-hansard-family-memorial-arrangements-public-funeral-1235601653/",
     "publishedAt": "2026-07-31T18:55:09.000Z",
-    "summary": "\"Music at the funeral will be provided by Glen's friends and family,\" family says of August 4th memorial",
+    "summary": "“Music at the funeral will be provided by Glen’s friends and family,” family says of August 4th memorial",
     "image": null
   },
   {
@@ -72,48 +144,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/awards/bts-grammy-awards-critics-take-1236306764/",
-    "source": "billboard",
-    "title": "BTS’ Grammy Decision: Was the Band Getting Ahead of Another Awards Show Sidelining? (Critic’s Take)",
-    "url": "https://www.billboard.com/music/awards/bts-grammy-awards-critics-take-1236306764/",
-    "publishedAt": "2026-07-31T18:44:36.000Z",
-    "summary": "The group's decision isn't a snub; it's recognition of a pattern the group has been navigating for years.",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/simon-oconnor-dropped-from-modest-mouse-tour/",
     "source": "pitchfork",
     "title": "Simon O’Connor Dropped From Modest Mouse Tour",
     "url": "https://pitchfork.com/story/simon-oconnor-dropped-from-modest-mouse-tour/",
     "publishedAt": "2026-07-31T18:27:31.000Z",
     "summary": "The guitarist was recently accused of sending inappropriate messages to an underage fan",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/songs-that-were-big-uk-hits-but-not-in-the-u-s/",
-    "source": "billboard",
-    "title": "Every Song That Topped the U.K. Chart for 8 or More Weeks, But Didn’t Make the Top 10 on the Hot 100",
-    "url": "https://www.billboard.com/lists/songs-that-were-big-uk-hits-but-not-in-the-u-s/",
-    "publishedAt": "2026-07-31T18:11:22.000Z",
-    "summary": "\"Rein Me In” by Sam Fender and Olivia Dean is the first single to log 19 weeks at No. 1 in the U.K. It hasn't even made the top 40 on the Hot 100.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/best-new-music-week-poll-vote-ariana-grande-cardi-b-1236307119/",
-    "source": "billboard",
-    "title": "From Ariana Grande to Cardi B & More, Which New Music Release Is Your Favorite This Week? Vote!",
-    "url": "https://www.billboard.com/music/music-news/best-new-music-week-poll-vote-ariana-grande-cardi-b-1236307119/",
-    "publishedAt": "2026-07-31T18:06:10.000Z",
-    "summary": "Selena Gomez, Benny Blanco and Becky G have also unveiled their new summer single.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/lollapalooza-2026-best-moments-recap/",
-    "source": "billboard",
-    "title": "The Best Moments So Far From Lollapalooza 2026",
-    "url": "https://www.billboard.com/lists/lollapalooza-2026-best-moments-recap/",
-    "publishedAt": "2026-07-31T18:00:41.000Z",
-    "summary": "A Charli xcx and Lorde reunion, John Summit's homecoming and Sombr's collab with 5 Seconds of Summer led night one.",
     "image": null
   },
   {
@@ -162,15 +198,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/tom-waits-new-spoken-word-the-fly-1235601532/",
-    "source": "rolling-stone",
-    "title": "Tom Waits Shares New Spoken Word Piece ‘The Fly’: ‘My Appreciation for the Winged Nuisance’",
-    "url": "https://www.rollingstone.com/music/music-news/tom-waits-new-spoken-word-the-fly-1235601532/",
-    "publishedAt": "2026-07-31T16:55:41.000Z",
-    "summary": "The track features as B-side for Waits’ “Boots on the Ground” collaboration with Massive Attack, his first new music since 2011",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/ariana-grandes-audition-goes-wrong-in-new-petal-video/",
     "source": "pitchfork",
     "title": "Ariana Grande’s Audition Goes Wrong in New “Petal” Video",
@@ -186,33 +213,6 @@
     "url": "https://loudwire.com/best-grunge-song-each-year-1987-1996/",
     "publishedAt": "2026-07-31T16:20:07.000Z",
     "summary": "Here are our picks for the best grunge song of each year from 1987 through 1996 because that was the era that the subgenre was most popular. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-album-reviews/shaboozey-new-music-outlaw-cherie-lee-other-western-tales-1235599492/",
-    "source": "rolling-stone",
-    "title": "Shaboozey Thinks Big on ‘The Outlaw Cherie Lee & Other Western Tales’",
-    "url": "https://www.rollingstone.com/music/music-album-reviews/shaboozey-new-music-outlaw-cherie-lee-other-western-tales-1235599492/",
-    "publishedAt": "2026-07-31T15:07:01.000Z",
-    "summary": "The country hitmaker takes a major swing with his new Wild West concept album, and mostly connects",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-pictures/lollapalooza-2026-best-photos-backstage-onstage-1235601413/",
-    "source": "rolling-stone",
-    "title": "Lollapalooza 2026: The Best Photos",
-    "url": "https://www.rollingstone.com/music/music-pictures/lollapalooza-2026-best-photos-backstage-onstage-1235601413/",
-    "publishedAt": "2026-07-31T15:02:57.000Z",
-    "summary": "See the best photos from Lollapalooza 2026, including Lorde, John Summit, Charli XCX, Olivia Dean, Smashing Pumpkins, and more.",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/massive-attack-investigation-palestine-support-singapore-1235601492/",
-    "source": "rolling-stone",
-    "title": "Massive Attack Under Investigation for Palestine Support at Singapore Concert",
-    "url": "https://www.rollingstone.com/music/music-news/massive-attack-investigation-palestine-support-singapore-1235601492/",
-    "publishedAt": "2026-07-31T15:02:08.000Z",
-    "summary": "“Police confirm that reports were lodged and investigations are ongoing,” authorities said after band waved Palestinian flag onstage, a violation of local law",
     "image": null
   },
   {
