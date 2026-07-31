@@ -1,5 +1,41 @@
 [
   {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/jae-stephens-new-single-sugar-trap-1235599353/",
+    "source": "rolling-stone",
+    "title": "Power Tastes So Sweet on New Jae Stephens Single ‘Sugar Trap’",
+    "url": "https://www.rollingstone.com/music/music-news/jae-stephens-new-single-sugar-trap-1235599353/",
+    "publishedAt": "2026-07-31T02:30:24.000Z",
+    "summary": "Later this week, Stephens will place the cherry on top of \"Sugar Trap\" release week with a performance at Lollapalooza",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/sombr-5-seconds-of-summer-performance-lollapalooza-2026-1235600361/",
+    "source": "rolling-stone",
+    "title": "Sombr Brings Out 5 Seconds of Summer During High-Octane Lollapalooza Set",
+    "url": "https://www.rollingstone.com/music/music-news/sombr-5-seconds-of-summer-performance-lollapalooza-2026-1235600361/",
+    "publishedAt": "2026-07-31T01:26:34.000Z",
+    "summary": "The musicians surprise performed \"She Looks So Perfect\" for the fest's massive crowd Thursday night",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/disney-old-navy-halloween-collection-kids-adult-shop-online-1236306415/",
+    "source": "billboard",
+    "title": "Disney and Old Navy Are Back With Another Fan-Favorite Halloween Collection Starting at $8",
+    "url": "https://www.billboard.com/culture/product-recommendations/disney-old-navy-halloween-collection-kids-adult-shop-online-1236306415/",
+    "publishedAt": "2026-07-31T01:21:42.000Z",
+    "summary": "Shop the collection exclusive to Old Navy, featuring clothing and footwear in adult, child and toddler sizes, as well as an adorable pet sweater and Disney accessories.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/boy-george-drops-out-jesus-christ-superstar-musical-1235601316/",
+    "source": "rolling-stone",
+    "title": "Boy George Drops Out of ‘Jesus Christ Superstar’ After Pro-Israel Song Release",
+    "url": "https://www.rollingstone.com/music/music-news/boy-george-drops-out-jesus-christ-superstar-musical-1235601316/",
+    "publishedAt": "2026-07-30T23:12:14.000Z",
+    "summary": "The singer's AI-assisted song, “We Will Dance Again,” minimizes Palestinian suffering and praises Israel’s military actions in Gaza",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/music-news/desert-hearts-returns-with-microfest-after-pausing-festival-1236306749/",
     "source": "billboard",
     "title": "Desert Hearts Returns With Intimate Microfest After Pausing Flagship Festival",
@@ -96,15 +132,6 @@
     "url": "https://www.billboard.com/music/latin/milo-j-trueno-lamc-panel-2026-1236306496/",
     "publishedAt": "2026-07-30T20:35:33.000Z",
     "summary": "In a conversation with Billboard's Leila Cobo, the Argentine artists reflected on authenticity, belonging and the road to global reach.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/new-albums-2026-calendar-new-music-releases-this-year/",
-    "source": "billboard",
-    "title": "Looking Ahead: A Release Calendar of Upcoming Albums in 2026",
-    "url": "https://www.billboard.com/lists/new-albums-2026-calendar-new-music-releases-this-year/",
-    "publishedAt": "2026-07-30T20:33:45.000Z",
-    "summary": "We'll be updating our list as musicians announce their new music, so keep checking back for the latest!",
     "image": null
   },
   {
@@ -261,12 +288,12 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-lists/genesis-carpet-crawlers-best-weirdest-versions-1235599633/",
-    "source": "rolling-stone",
-    "title": "See 12 Incarnations of Genesis Perform ‘The Carpet Crawlers’ Across Five Decades",
-    "url": "https://www.rollingstone.com/music/music-lists/genesis-carpet-crawlers-best-weirdest-versions-1235599633/",
-    "publishedAt": "2026-07-30T13:19:45.000Z",
-    "summary": "What was once a failed single from The Lamb Lies Down on Broadway has somehow become one of the most beloved Genesis songs, reappearing again and again throughout the years",
+    "id": "nme-https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ1Q1TEdXZXdwaU9MRGQtZml1cG5BRklldVRyVnBtdDRXS1cxT2Z5MGExVmV2cDRxTUZIMkF6dDFKOGN6WlkyNjBkOEUwOVN1WlhoY1VaV25QVGNPR2FyeGV0Ti1EQlNGSVk3QkEyQjBDNW40YVJ2NmoycG40ZkJ4WXgwT0cwM2x5dGc?oc=5",
+    "source": "nme",
+    "title": "Soundgarden’s final album is now being mixed - NME",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ1Q1TEdXZXdwaU9MRGQtZml1cG5BRklldVRyVnBtdDRXS1cxT2Z5MGExVmV2cDRxTUZIMkF6dDFKOGN6WlkyNjBkOEUwOVN1WlhoY1VaV25QVGNPR2FyeGV0Ti1EQlNGSVk3QkEyQjBDNW40YVJ2NmoycG40ZkJ4WXgwT0cwM2x5dGc?oc=5",
+    "publishedAt": "2026-07-30T12:47:55.000Z",
+    "summary": "Soundgarden’s final album is now being mixed NME",
     "image": null
   },
   {
@@ -351,6 +378,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUVhmXzJXUXNIYTZfajAxT3hGSzd6VzQtQ3ZZZXlZTUxIRXRzZWJVZWxCQ3JQR3c0TDV0NnBNVnNydHo2dFp0bGQ2WE5SLW9jLWNkd3JkWndJZkZSZmV5OU5LUXMwMlN4UkF5LXVmeDBDanh2akR1WUlLOWo5b2VRbmZodFltdF9rLVkxZ3JsVS1lRnczemRZMDZYeEhsMXlDb3JTTWVDVkRCR0h4VmlpZ2N1eFg0bXdRWEVpUFBWcTl2bXh2c1VsbURucjJmenpTX2lPMGRSNA?oc=5",
+    "source": "nme",
+    "title": "Billie Eilish and Finneas \"would not be who they are\" without Glen Hansard's music as family pay tribute - NME",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUVhmXzJXUXNIYTZfajAxT3hGSzd6VzQtQ3ZZZXlZTUxIRXRzZWJVZWxCQ3JQR3c0TDV0NnBNVnNydHo2dFp0bGQ2WE5SLW9jLWNkd3JkWndJZkZSZmV5OU5LUXMwMlN4UkF5LXVmeDBDanh2akR1WUlLOWo5b2VRbmZodFltdF9rLVkxZ3JsVS1lRnczemRZMDZYeEhsMXlDb3JTTWVDVkRCR0h4VmlpZ2N1eFg0bXdRWEVpUFBWcTl2bXh2c1VsbURucjJmenpTX2lPMGRSNA?oc=5",
+    "publishedAt": "2026-07-30T08:54:15.000Z",
+    "summary": "Billie Eilish and Finneas \"would not be who they are\" without Glen Hansard's music as family pay tribute NME",
+    "image": null
+  },
+  {
     "id": "nme-https://news.google.com/rss/articles/CBMingFBVV95cUxOTGlYWU5sdXl3cXBhejByaFFONFlGZGUzYm5QM195U1VpeWZfbjZqVVhKZTREYzFLTW9hRTVkVXhWX3BVUGpUbG84OVlNbDcyUWRidFUtMDVscXc4Ukp1Zl9sU0kwb0lDZ1o2cDZLZ1oyMzAyWGd2VVVEbDQ5b2dRRWN6eURYZ3hkTXBXQ1RMOUZVaHJUS3JKeUxwRzJ3dw?oc=5",
     "source": "nme",
     "title": "Macaulay Culkin reportedly in talks for new ‘Home Alone’ film - NME",
@@ -369,15 +405,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/twin-temple-haunt-me-performance-the-daily-show-jack-white-1235600430/",
-    "source": "rolling-stone",
-    "title": "Twin Temple Bring Satanic Panic to ‘Daily Show,’ Will Officially Open for Jack White",
-    "url": "https://www.rollingstone.com/music/music-country/twin-temple-haunt-me-performance-the-daily-show-jack-white-1235600430/",
-    "publishedAt": "2026-07-30T07:52:58.000Z",
-    "summary": "The devilish duo, who were bounced from a country music tour over their satanic imagery, performed their song “Haunt Me”",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/the-surge-meow-album-review-band-backlash-and-interview/",
     "source": "louder-than-war",
     "title": "The Surge: Meow – Album Review, band backlash and interview",
@@ -387,12 +414,12 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/shaboozey-ciara-miller-cowgirl-performance-fallon-1235600827/",
-    "source": "rolling-stone",
-    "title": "Shaboozey Taps Ciara Miller for ‘Cowgirl’ Performance on ‘Fallon’",
-    "url": "https://www.rollingstone.com/music/music-news/shaboozey-ciara-miller-cowgirl-performance-fallon-1235600827/",
-    "publishedAt": "2026-07-30T07:39:51.000Z",
-    "summary": "The country singer’s new album, The Outlaw Cherie Lee & Other Western Tales, is out Friday",
+    "id": "nme-https://news.google.com/rss/articles/CBMirgFBVV95cUxQTVd6N0w5ZWMxaEhjNWRDZVFvQV8za0JISEVYYlpCRjRKUjhBd1JoZVJTRmRQd01oTTlyVktNRE9yVEhSaGlCcHdnRG5SVEIxYW5USHFjUmVGUlF0SHBuWFByVXB0SGlPOE5zLV9YcGRhX0JieWo3VXJuWjFPbUNkWHZIWVRHZjN6QmxjaFZMQXNCcmdaRW02eGVnd3NOeVVOVUd5dFU5aDVMNm9UWGc?oc=5",
+    "source": "nme",
+    "title": "Grammys CEO reacts to BTS’ backing out in protest to Asian pop category - NME",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTVd6N0w5ZWMxaEhjNWRDZVFvQV8za0JISEVYYlpCRjRKUjhBd1JoZVJTRmRQd01oTTlyVktNRE9yVEhSaGlCcHdnRG5SVEIxYW5USHFjUmVGUlF0SHBuWFByVXB0SGlPOE5zLV9YcGRhX0JieWo3VXJuWjFPbUNkWHZIWVRHZjN6QmxjaFZMQXNCcmdaRW02eGVnd3NOeVVOVUd5dFU5aDVMNm9UWGc?oc=5",
+    "publishedAt": "2026-07-30T07:45:12.000Z",
+    "summary": "Grammys CEO reacts to BTS’ backing out in protest to Asian pop category NME",
     "image": null
   },
   {
@@ -504,15 +531,6 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMivwFBVV95cUxNVzJ0UHRveEpHbE5Ka2FFR0hUTUVLVEVXNGNuajBFQlkzei02NUJXRDV2N0tBbzI3UGttcUU2STZZUDhoazNJSktmOE9jcFpJVmZKUnluYkdNb1BUUlRXRWthY1dQYUdzMkladVJLX2RXNGllclRTMEVhY3dxeEs0MzVzdWN0ejdLbkdzem5OaWJLdFg0d2xnOEFYak8zZEJwYUl5VjBfSlBLSG11c3FROUMwaW1aZ2Vadm5PQ3ZaTQ?oc=5",
-    "source": "nme",
-    "title": "Glen Hansard recently spoke of his powerful friendship with Pearl Jam’s Eddie Vedder - NME",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVzJ0UHRveEpHbE5Ka2FFR0hUTUVLVEVXNGNuajBFQlkzei02NUJXRDV2N0tBbzI3UGttcUU2STZZUDhoazNJSktmOE9jcFpJVmZKUnluYkdNb1BUUlRXRWthY1dQYUdzMkladVJLX2RXNGllclRTMEVhY3dxeEs0MzVzdWN0ejdLbkdzem5OaWJLdFg0d2xnOEFYak8zZEJwYUl5VjBfSlBLSG11c3FROUMwaW1aZ2Vadm5PQ3ZaTQ?oc=5",
-    "publishedAt": "2026-07-29T16:16:05.000Z",
-    "summary": "Glen Hansard recently spoke of his powerful friendship with Pearl Jam’s Eddie Vedder NME",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/tommy-iommi-announces-first-solo-album-in-21-years-from-the-dark/",
     "source": "pitchfork",
     "title": "Tony Iommi Announces First Solo Album in 21 Years",
@@ -531,30 +549,12 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZU9CRmROcWM5bmdEOGN5MXd3RF9lQklFVUVWRjZIeUMtVm1GdldQQnVKWUJ1b2U2Nzg4Uzl4bng2cFdtQ2hmZmgtWS1XcThtX1RZbndaQXhpcmNrUDhXbjMzMk8ya2Y4SVJDbVJ6M2xkb1lNZUpyQTdTa1RxNDJpWEh1MVltMTBVeVp0d09Fb0pDWHlpUEU0TC1nMmFvbVk0cjN1TXdLV2pLbkpDNkpBRWJzWTJSeWdRWWVSd3V4a2dldnFKM2xNcE05SVN1ZllpMFRxSWxFRQ?oc=5",
-    "source": "nme",
-    "title": "The Beatles announce expanded reissue of 'Rubber Soul' featuring previously unreleased John Lennon demo - NME",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZU9CRmROcWM5bmdEOGN5MXd3RF9lQklFVUVWRjZIeUMtVm1GdldQQnVKWUJ1b2U2Nzg4Uzl4bng2cFdtQ2hmZmgtWS1XcThtX1RZbndaQXhpcmNrUDhXbjMzMk8ya2Y4SVJDbVJ6M2xkb1lNZUpyQTdTa1RxNDJpWEh1MVltMTBVeVp0d09Fb0pDWHlpUEU0TC1nMmFvbVk0cjN1TXdLV2pLbkpDNkpBRWJzWTJSeWdRWWVSd3V4a2dldnFKM2xNcE05SVN1ZllpMFRxSWxFRQ?oc=5",
-    "publishedAt": "2026-07-29T15:27:56.000Z",
-    "summary": "The Beatles announce expanded reissue of 'Rubber Soul' featuring previously unreleased John Lennon demo NME",
-    "image": null
-  },
-  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMigAFBVV95cUxQU2dpRVRmZ2xIbjY0bXdaU05aa0xOa0V5bW1HUllycm82MERpQTFqWlVoOWpzVVZIUjg1WWRTLWRnZ0lReG1zZ2Fqa2U4VXZWeU9MODhLZERyZjktQWtNZHROZzhDZ2YtNWJTb1RTUlN0SDNEMTVQWE9JMElqa3lMUQ?oc=5",
     "source": "kerrang",
     "title": "Waterparks: “This was the most challenging record to write ever” - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU2dpRVRmZ2xIbjY0bXdaU05aa0xOa0V5bW1HUllycm82MERpQTFqWlVoOWpzVVZIUjg1WWRTLWRnZ0lReG1zZ2Fqa2U4VXZWeU9MODhLZERyZjktQWtNZHROZzhDZ2YtNWJTb1RTUlN0SDNEMTVQWE9JMElqa3lMUQ?oc=5",
     "publishedAt": "2026-07-29T14:50:00.000Z",
     "summary": "Waterparks: “This was the most challenging record to write ever” Kerrang!",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMingFBVV95cUxNWjVjamZ5MUZHdEh3a0ZiaGhNTDlyR0dOOTJab2dZQnhEeWdqX2JoTk52bTMwSnU4YzFzMTZNcThxa2Q1WWpGaTlpXzNiMktESEw4M2NhZlp5Xy1DSF9Ia0YtaHBaUjI0SVo2SG8tSHBtQ2VSVDIwSmxsRHNzSTJta2ZvMjVTQ1hkZnhMSTZOTUtDQXFKYXg2dTdyODBVQQ?oc=5",
-    "source": "nme",
-    "title": "The National return to announce first live show since 2024 - NME",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWjVjamZ5MUZHdEh3a0ZiaGhNTDlyR0dOOTJab2dZQnhEeWdqX2JoTk52bTMwSnU4YzFzMTZNcThxa2Q1WWpGaTlpXzNiMktESEw4M2NhZlp5Xy1DSF9Ia0YtaHBaUjI0SVo2SG8tSHBtQ2VSVDIwSmxsRHNzSTJta2ZvMjVTQ1hkZnhMSTZOTUtDQXFKYXg2dTdyODBVQQ?oc=5",
-    "publishedAt": "2026-07-29T13:36:08.000Z",
-    "summary": "The National return to announce first live show since 2024 NME",
     "image": null
   },
   {
