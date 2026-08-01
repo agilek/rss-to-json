@@ -1,5 +1,50 @@
 [
   {
+    "id": "loudwire-https://loudwire.com/sid-wilson-split-slipknot-report/",
+    "source": "loudwire",
+    "title": "Report - Sid Wilson No Longer a Member of Slipknot",
+    "url": "https://loudwire.com/sid-wilson-split-slipknot-report/",
+    "publishedAt": "2026-08-01T02:56:04.000Z",
+    "summary": "TMZ is reporting the band notified Wilson that he would no longer be a member moving forward. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/yungblud-performance-lollapalooza-2026-1235600567/",
+    "source": "rolling-stone",
+    "title": "Yungblud Makes Triumphant Return at Lollapalooza and Rocks Out With Fan Katie",
+    "url": "https://www.rollingstone.com/music/music-news/yungblud-performance-lollapalooza-2026-1235600567/",
+    "publishedAt": "2026-08-01T01:32:14.000Z",
+    "summary": "The musician canceled an event date earlier in the month preceding his appearance at the Chicago festival",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/angine-de-poitrine-polaris-song-prize-list-canada-news/",
+    "source": "billboard",
+    "title": "In Canada: Angine de Poitrine, PUP & More Make SOCAN Polaris Song Prize Short List",
+    "url": "https://www.billboard.com/pro/angine-de-poitrine-polaris-song-prize-list-canada-news/",
+    "publishedAt": "2026-08-01T00:45:45.000Z",
+    "summary": "Also this week: SOCAN acquires the Canadian Musical Reproduction Rights Agency (CMRRA).",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/music-company-earnings-q2-2026-umg-live-nation-hybe-made/",
+    "source": "billboard",
+    "title": "What Every Music Company Made in Q2 2026 (Updating)",
+    "url": "https://www.billboard.com/lists/music-company-earnings-q2-2026-umg-live-nation-hybe-made/",
+    "publishedAt": "2026-07-31T23:57:37.000Z",
+    "summary": "From Live Nation to UMG to SiriusXM, a roundup of what the biggest publicly traded music companies have reported so far for the quarter ending June 30.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/business/record-labels/befirst-us-partners-new-song-ep-interview-1236307108/",
+    "source": "billboard",
+    "title": "BE:FIRST Is Ready for the World: Inside the J-Pop Superstars’ Long-Planned U.S. Breakthrough",
+    "url": "https://www.billboard.com/business/record-labels/befirst-us-partners-new-song-ep-interview-1236307108/",
+    "publishedAt": "2026-07-31T23:12:31.000Z",
+    "summary": "The chart-topping Japanese boy band is taking on the U.S. market with new partners including The Orchard, THE·TEAM and Nebula17.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/culture/product-recommendations/kpop-demon-hunters-blind-box-phone-huggers-buy-shop-online-1236307256/",
     "source": "billboard",
     "title": "‘KPop Demon Hunters’ Continues Blind Box Trend With New Phone Huggers",
@@ -60,33 +105,6 @@
     "url": "https://www.billboard.com/pro/tom-corson-coo-warner-music-group/",
     "publishedAt": "2026-07-31T21:30:25.000Z",
     "summary": "The executive, who succeeds Armin Zerza in the role, has served as co-chairman and COO at Warner Records since 2018.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/michelle-branch-new-radicals-game-of-love-chart-debut-1236307406/",
-    "source": "billboard",
-    "title": "‘Game’ Back On: Michelle Branch’s Classic, Remade With New Radicals, Makes Billboard Chart Debut",
-    "url": "https://www.billboard.com/music/chart-beat/michelle-branch-new-radicals-game-of-love-chart-debut-1236307406/",
-    "publishedAt": "2026-07-31T21:20:07.000Z",
-    "summary": "Branch’s original “The Game of Love,” with Santana, ruled Adult Pop Airplay for 13 weeks in 2002-03.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/warner-music-group-cfo-coo-armin-zerza-steps-down-one-year/",
-    "source": "billboard",
-    "title": "Warner Music Group CFO & COO Armin Zerza Steps Down After One Year",
-    "url": "https://www.billboard.com/pro/warner-music-group-cfo-coo-armin-zerza-steps-down-one-year/",
-    "publishedAt": "2026-07-31T21:15:20.000Z",
-    "summary": "Chief accounting officer Louis Dickler has been named acting CFO, while Warner Records co-chairman and COO Tom Corson will succeed Zerza as COO.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/kpop-demon-hunters-squishmallows-plush-toys-shop-online-1236291847/",
-    "source": "billboard",
-    "title": "‘KPop Demon Hunters’ Squishmallows Are Back in Stock, With 4 Fan-Favorite Characters in Plushie Form",
-    "url": "https://www.billboard.com/culture/product-recommendations/kpop-demon-hunters-squishmallows-plush-toys-shop-online-1236291847/",
-    "publishedAt": "2026-07-31T21:11:00.000Z",
-    "summary": "The obsession with KPop Demon Hunters continues with this new collection of plush toys.",
     "image": null
   },
   {
@@ -186,15 +204,6 @@
     "url": "https://www.rollingstone.com/music/music-features/bts-grammys-boycott-controversy-1235601631/",
     "publishedAt": "2026-07-31T17:42:15.000Z",
     "summary": "Experts say the group’s decision reflects their unique status in the industry",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-latin/selena-gomez-becky-g-benny-blancos-te-olvido-la-la-video-1235601484/",
-    "source": "rolling-stone",
-    "title": "Selena Gomez, Becky G, and Benny Blanco Just Dropped the Video of the Summer",
-    "url": "https://www.rollingstone.com/music/music-latin/selena-gomez-becky-g-benny-blancos-te-olvido-la-la-video-1235601484/",
-    "publishedAt": "2026-07-31T17:19:52.000Z",
-    "summary": "The video, directed by Stillz, also features iconic Mexican American actor Danny Trejo",
     "image": null
   },
   {
@@ -306,6 +315,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU2lHMTgwa2dMVkFqRV9tRGVyLVdtYVhlaVNUeUJuVzA2THdkZHl5dW5FQnI3UWlEU2ZwakVNbENOY3gyMWhDYXcwM0kzdldDSmY4REhIV01mNWhuUmhGTzE5OTF0WFhqWGFTVWstQjJkVEVDSVRLVlBOV0pFUlhzSl9BcUFZZ01uNloydkVWNVZXYTZaeW43c0hjSi1UM3NfVG50OWRvZXBuaWc?oc=5",
+    "source": "nme",
+    "title": "Netflix is being sued for \"loss\" of a Nicolas Cage film that was stolen - NME",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU2lHMTgwa2dMVkFqRV9tRGVyLVdtYVhlaVNUeUJuVzA2THdkZHl5dW5FQnI3UWlEU2ZwakVNbENOY3gyMWhDYXcwM0kzdldDSmY4REhIV01mNWhuUmhGTzE5OTF0WFhqWGFTVWstQjJkVEVDSVRLVlBOV0pFUlhzSl9BcUFZZ01uNloydkVWNVZXYTZaeW43c0hjSi1UM3NfVG50OWRvZXBuaWc?oc=5",
+    "publishedAt": "2026-07-31T11:05:21.000Z",
+    "summary": "Netflix is being sued for \"loss\" of a Nicolas Cage film that was stolen NME",
+    "image": null
+  },
+  {
     "id": "louder-than-war-https://louderthanwar.com/madeleine-earth-cry-ep-review/",
     "source": "louder-than-war",
     "title": "MADELEINE: Earth Cry – EP Review",
@@ -330,6 +348,15 @@
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE52RWllczdRRWQxT2ZTenFKekxMa01qajJpb2VGZTgzLUtQRmJwdkRXb1d0a0VZTG44cWFIUXVMUW9Pcm1BVFN3LThNR1V0UUJrX0kybGZ5dHlOODVFdTJsN2FoaUVYNTRtNHhR?oc=5",
     "publishedAt": "2026-07-31T09:30:13.000Z",
     "summary": "Arca – ‘XXXXX’ review: a psychedelic trip from electronica’s great experimentalist NME",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMi-wFBVV95cUxQQVNYSVRMTFNoQmxFcUdoalNDTFRGdWFEQm1pOXRYMVpMb3BLQ3N2NTM1SDBhdXJ6dUFmOGlzOHQxcFN6UU1nS3dxOWo3SDE1NVluOFFqNk1SRndLaXhNbFdEaEhCWGF2MDBQRlJCcGRoN2dnclhORWFlbXZLNlUtQmhGbl9kRVV0TnZReF80VVIzbF8yQUl2b05kZnN5cFhSSmZwY3JubndtVm9pQnFHaDY5NTJXcEFIaWdkdW4wcUlvS2xjVHhQZ0Q0bGwtVFBILU9JM2VXZGRMd2gxWWdKT1RaTWVLd2Zhb3MwXzQ0OVZSLWxWMkRGR3d1OA?oc=5",
+    "source": "nme",
+    "title": "Watch Smashing Pumpkins reunite with Melissa Auf der Maur and bring out 'The Brady Bunch’s Barry Williams at Lollapalooza pre-show - NME",
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQQVNYSVRMTFNoQmxFcUdoalNDTFRGdWFEQm1pOXRYMVpMb3BLQ3N2NTM1SDBhdXJ6dUFmOGlzOHQxcFN6UU1nS3dxOWo3SDE1NVluOFFqNk1SRndLaXhNbFdEaEhCWGF2MDBQRlJCcGRoN2dnclhORWFlbXZLNlUtQmhGbl9kRVV0TnZReF80VVIzbF8yQUl2b05kZnN5cFhSSmZwY3JubndtVm9pQnFHaDY5NTJXcEFIaWdkdW4wcUlvS2xjVHhQZ0Q0bGwtVFBILU9JM2VXZGRMd2gxWWdKT1RaTWVLd2Zhb3MwXzQ0OVZSLWxWMkRGR3d1OA?oc=5",
+    "publishedAt": "2026-07-31T08:55:11.000Z",
+    "summary": "Watch Smashing Pumpkins reunite with Melissa Auf der Maur and bring out 'The Brady Bunch’s Barry Williams at Lollapalooza pre-show NME",
     "image": null
   },
   {
@@ -477,15 +504,6 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/tommy-lee-opens-motley-crue-split-mick-mars/",
-    "source": "loudwire",
-    "title": "Tommy Lee Opens Up on Motley Crue's Split With Mick Mars",
-    "url": "https://loudwire.com/tommy-lee-opens-motley-crue-split-mick-mars/",
-    "publishedAt": "2026-07-30T14:56:27.000Z",
-    "summary": "Tommy Lee opened up a bit on Motley Crue's split with Mick Mars during an appearance on 'The Magnificent Others with Billy Corgan.' Continue reading…",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/lollapalooza-2026-hulu-livestream-schedule-and-details/",
     "source": "pitchfork",
     "title": "Lollapalooza 2026: Hulu Livestream Schedule & Details",
@@ -537,24 +555,6 @@
     "url": "https://www.uncut.co.uk/features/the-most-radical-thing-george-harrison-did-happened-after-he-left-the-beatles-155638/",
     "publishedAt": "2026-07-30T10:15:53.000Z",
     "summary": "The Concert For Bangladesh created a new role for the rock star",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMitgFBVV95cUxQdlk1RzNQX01rbHNsdWh3N0FyaGIwYlAwQXpNVXRfTkdhSTdpSGVoVTZnMGRUZG9RMGkzS0JCY3hoVVVhNlNQS1JmM0NKSDBEcGNtVTBET29ZcWZFVU5OZGtJckVFQ25JbHVweGFRTGJFd2Z4LUxJdEY4R082M1c1OWNHd0dReUFaWDFPN2dUaWt2aTdGSnVzdnY2d3l0NDhjZzR4MW5VdEJPZm9MVEhKNWNKZXN0dw?oc=5",
-    "source": "nme",
-    "title": "The Strokes' 'Is This It' turns 25: Producer Gordon Raphael talks bottling magic and if it could ever happen again - NME",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdlk1RzNQX01rbHNsdWh3N0FyaGIwYlAwQXpNVXRfTkdhSTdpSGVoVTZnMGRUZG9RMGkzS0JCY3hoVVVhNlNQS1JmM0NKSDBEcGNtVTBET29ZcWZFVU5OZGtJckVFQ25JbHVweGFRTGJFd2Z4LUxJdEY4R082M1c1OWNHd0dReUFaWDFPN2dUaWt2aTdGSnVzdnY2d3l0NDhjZzR4MW5VdEJPZm9MVEhKNWNKZXN0dw?oc=5",
-    "publishedAt": "2026-07-30T10:00:26.000Z",
-    "summary": "The Strokes' 'Is This It' turns 25: Producer Gordon Raphael talks bottling magic and if it could ever happen again NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS1pZdEpXc1E5blpyX1ZLNEVTN1hNcFhZbEhlWDFCOU01Nko5aWhnX0duWjBISnZ1bWFlUU43emNkeEZYWmpiZXVjaHZxdzhDOWZ1RTlpYTgwd1pVNi0xUldReVNpZXk3YzFEaXBpWnMtWXplU2szaVJ1UkMxTlBfZGpIVDV4eXhxS3l4RzY3clZIVWZCM0hkRVdsa19VZWFKNkF1TUtfUWM?oc=5",
-    "source": "nme",
-    "title": "Ride to play the classics on ‘Here And Now’ 2027 UK tour - NME",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS1pZdEpXc1E5blpyX1ZLNEVTN1hNcFhZbEhlWDFCOU01Nko5aWhnX0duWjBISnZ1bWFlUU43emNkeEZYWmpiZXVjaHZxdzhDOWZ1RTlpYTgwd1pVNi0xUldReVNpZXk3YzFEaXBpWnMtWXplU2szaVJ1UkMxTlBfZGpIVDV4eXhxS3l4RzY3clZIVWZCM0hkRVdsa19VZWFKNkF1TUtfUWM?oc=5",
-    "publishedAt": "2026-07-30T09:51:13.000Z",
-    "summary": "Ride to play the classics on ‘Here And Now’ 2027 UK tour NME",
     "image": null
   },
   {
