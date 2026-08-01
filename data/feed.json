@@ -1,5 +1,23 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/music-news/modest-mouse-replaces-guitarist-simon-oconnor-allegations-1236307608/",
+    "source": "billboard",
+    "title": "Modest Mouse Replaces Guitarist Simon O’Connor Amid Allegations",
+    "url": "https://www.billboard.com/music/music-news/modest-mouse-replaces-guitarist-simon-oconnor-allegations-1236307608/",
+    "publishedAt": "2026-08-01T19:09:20.000Z",
+    "summary": "Les Savy Fav guitarist Seth Jabour will fill in on the band's upcoming tour.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/phish-bust-out-xtc-melt-the-guns-first-time-since-1987-1235602147/",
+    "source": "rolling-stone",
+    "title": "See Phish Bust Out XTC’s ‘Melt the Guns’ for First Time Since 1987",
+    "url": "https://www.rollingstone.com/music/music-news/phish-bust-out-xtc-melt-the-guns-first-time-since-1987-1235602147/",
+    "publishedAt": "2026-08-01T18:00:29.000Z",
+    "summary": "Days after nostalgic MSG run, jam band provides Fenway Park with the biggest \"bust out\" in Phistory",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/music-news/glen-hansard-funeral-memorial-details-announced-1236307573/",
     "source": "billboard",
     "title": "Glen Hansard’s Family Announces Public Memorial and Funeral Details in Dublin",
@@ -198,15 +216,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/camron-dmx-dog-raccoon-1236307403/",
-    "source": "billboard",
-    "title": "Cam’ron Shares a Wild Story Involving DMX, a Dog and a Raccoon",
-    "url": "https://www.billboard.com/music/rb-hip-hop/camron-dmx-dog-raccoon-1236307403/",
-    "publishedAt": "2026-07-31T22:25:00.000Z",
-    "summary": "Yes, you read that correctly.",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR1N1ZmtaZzFlRGVULUNMWTh0MmtMVEhxRHZfWE81ZXNEUFNEcFpzNEJiZ0ItWEtPU3Z2QlNhUnFoM1F5N2NzVEV4MHptSFFLTDVVNE1tM0lnbmtsRVBuMmhndzVZaDkydWJoeElwTWlZSTdZcmlfb24wWkhvWU5HYzJ4Nnh6Z1VOQ3lIeUhYc2hwdFc3anl6N3BYY0EtNlUxc0xpbWhtdTR0UVVaNFBsVDRWNGc0M05YLUVKYm5TSjVnVExEUk0zZA?oc=5",
     "source": "nme",
     "title": "Jared Leto documentary director says it is a \"mystery\" allegations haven't impacted his career - nme.com",
@@ -231,15 +240,6 @@
     "url": "https://www.rollingstone.com/music/music-news/drake-adin-ross-streaming-lawsuit-stake-arbitration-1235601620/",
     "publishedAt": "2026-07-31T20:11:07.000Z",
     "summary": "A judge has paused a lawsuit claiming Drake helped inflate his music streaming numbers, saying the plaintiffs must first complete arbitration with the gaming platform named in the complaint",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/phish-madison-square-garden-90s-nineties-journey-1235601100/",
-    "source": "rolling-stone",
-    "title": "Phish in the Nineties: What a Time It Was",
-    "url": "https://www.rollingstone.com/music/music-features/phish-madison-square-garden-90s-nineties-journey-1235601100/",
-    "publishedAt": "2026-07-31T20:05:37.000Z",
-    "summary": "As the band wraps a throwback run at Madison Square Garden, one longtime fan reflects on what it was like to discover their music",
     "image": null
   },
   {
