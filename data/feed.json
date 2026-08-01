@@ -1,5 +1,23 @@
 [
   {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/olivia-rodrigo-yungblud-smashing-pumpkins-lollapalooza-1235601995/",
+    "source": "rolling-stone",
+    "title": "Olivia Rodrigo and Yungblud Join Smashing Pumpkins for Nostalgia-Fueled Lollapalooza Set",
+    "url": "https://www.rollingstone.com/music/music-news/olivia-rodrigo-yungblud-smashing-pumpkins-lollapalooza-1235601995/",
+    "publishedAt": "2026-08-01T03:34:08.000Z",
+    "summary": "Billy Corgan delivered \"Luna\" and \"Thirty-Three\" with his surprise guests",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/modest-mouse-drops-guitarist-simon-oconnor-upcoming-tour-1235601830/",
+    "source": "rolling-stone",
+    "title": "Modest Mouse Drops Guitarist Simon O’Connor From Upcoming Tour",
+    "url": "https://www.rollingstone.com/music/music-news/modest-mouse-drops-guitarist-simon-oconnor-upcoming-tour-1235601830/",
+    "publishedAt": "2026-08-01T03:22:11.000Z",
+    "summary": "Guitarist was accused of sending inappropriate messages to teenage fan on social media; Les Savy Fav's Seth Jabour enlisted to take O'Connor's place",
+    "image": null
+  },
+  {
     "id": "loudwire-https://loudwire.com/sid-wilson-split-slipknot-report/",
     "source": "loudwire",
     "title": "Report - Sid Wilson No Longer a Member of Slipknot",
@@ -186,24 +204,6 @@
     "url": "https://www.rollingstone.com/music/music-features/ariana-grande-shaboozey-rachel-chinouriri-songs-you-need-to-know-1235601257/",
     "publishedAt": "2026-07-31T17:54:54.000Z",
     "summary": "Looking for the week’s best new music? Check out our Songs You Need to Know playlist",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-album-reviews/francisca-valenzuela-maldita-album-review-1235601497/",
-    "source": "rolling-stone",
-    "title": "Francisca Valenzuela’s ‘Maldita’ Is an Unflinching — and Cathartic — Look at Motherhood ",
-    "url": "https://www.rollingstone.com/music/music-album-reviews/francisca-valenzuela-maldita-album-review-1235601497/",
-    "publishedAt": "2026-07-31T17:48:30.000Z",
-    "summary": "The Chilean-American singer-songwriter goes deep and finds healing on her new album",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/bts-grammys-boycott-controversy-1235601631/",
-    "source": "rolling-stone",
-    "title": "BTS Boycott the Grammys, But Will Other Artists Follow?",
-    "url": "https://www.rollingstone.com/music/music-features/bts-grammys-boycott-controversy-1235601631/",
-    "publishedAt": "2026-07-31T17:42:15.000Z",
-    "summary": "Experts say the group’s decision reflects their unique status in the industry",
     "image": null
   },
   {
@@ -578,10 +578,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMigAFBVV95cUxQU2dpRVRmZ2xIbjY0bXdaU05aa0xOa0V5bW1HUllycm82MERpQTFqWlVoOWpzVVZIUjg1WWRTLWRnZ0lReG1zZ2Fqa2U4VXZWeU9MODhLZERyZjktQWtNZHROZzhDZ2YtNWJTb1RTUlN0SDNEMTVQWE9JMElqa3lMUQ?oc=5",
     "source": "kerrang",
-    "title": "Waterparks: “This was the most challenging record to write ever” - Kerrang!",
+    "title": "Waterparks: “This was the most challenging record to write ever” - kerrang.com",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU2dpRVRmZ2xIbjY0bXdaU05aa0xOa0V5bW1HUllycm82MERpQTFqWlVoOWpzVVZIUjg1WWRTLWRnZ0lReG1zZ2Fqa2U4VXZWeU9MODhLZERyZjktQWtNZHROZzhDZ2YtNWJTb1RTUlN0SDNEMTVQWE9JMElqa3lMUQ?oc=5",
     "publishedAt": "2026-07-29T14:50:00.000Z",
-    "summary": "Waterparks: “This was the most challenging record to write ever” Kerrang!",
+    "summary": "Waterparks: “This was the most challenging record to write ever” kerrang.com",
     "image": null
   },
   {
@@ -596,10 +596,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMirAFBVV95cUxOUXVyUE1BVWlzQm9EYjR5UEVEX2xlZHVWcVlBS2dSRTlFTC1MR21WT1FBeXk5LV92NW9KdWE1Q1pDTFRiTUVlem5rdXg2N3VqYjBxdi1uVkFLN0VBUnpibEllSFdxMXVQQy1fRjNqUDYzMUR1ckY4RjRsYkxzUWJpbDQ3RXJLV3VHYTVKaDRFVUNhRzNySF9fYi1KMjdqb0hGTXJZTld4SHZZSF82?oc=5",
     "source": "kerrang",
-    "title": "Soundgarden’s final album with Chris Cornell is being mixed, says drummer Matt Cameron - Kerrang!",
+    "title": "Soundgarden’s final album with Chris Cornell is being mixed, says drummer Matt Cameron - kerrang.com",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUXVyUE1BVWlzQm9EYjR5UEVEX2xlZHVWcVlBS2dSRTlFTC1MR21WT1FBeXk5LV92NW9KdWE1Q1pDTFRiTUVlem5rdXg2N3VqYjBxdi1uVkFLN0VBUnpibEllSFdxMXVQQy1fRjNqUDYzMUR1ckY4RjRsYkxzUWJpbDQ3RXJLV3VHYTVKaDRFVUNhRzNySF9fYi1KMjdqb0hGTXJZTld4SHZZSF82?oc=5",
     "publishedAt": "2026-07-29T10:28:00.000Z",
-    "summary": "Soundgarden’s final album with Chris Cornell is being mixed, says drummer Matt Cameron Kerrang!",
+    "summary": "Soundgarden’s final album with Chris Cornell is being mixed, says drummer Matt Cameron kerrang.com",
     "image": null
   },
   {
@@ -650,10 +650,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMibkFVX3lxTE9nTm5sWW1UbjZBSHFnT0NkcVo3QWl6TkRVRkxxbWFVS0kzSFExcTNkTWFlTVFQSWk3WmNrRGFIblJwcUtGRGFZeGZ1SWtIaVBSQ1hhRGU1NEl2ZjFiMk8tVkstelNpRWh6RkQtb0t3?oc=5",
     "source": "kerrang",
-    "title": "Album Review: Future Palace – Resurgence - Kerrang!",
+    "title": "Album Review: Future Palace – Resurgence - kerrang.com",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9nTm5sWW1UbjZBSHFnT0NkcVo3QWl6TkRVRkxxbWFVS0kzSFExcTNkTWFlTVFQSWk3WmNrRGFIblJwcUtGRGFZeGZ1SWtIaVBSQ1hhRGU1NEl2ZjFiMk8tVkstelNpRWh6RkQtb0t3?oc=5",
     "publishedAt": "2026-07-28T10:00:00.000Z",
-    "summary": "Album Review: Future Palace – Resurgence Kerrang!",
+    "summary": "Album Review: Future Palace – Resurgence kerrang.com",
     "image": null
   },
   {
@@ -668,19 +668,19 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMilwFBVV95cUxOVHFoeVJkWTZCWVhfWGZ4UTA1eGRPMkdTZXBEcjhMLU1KOWdRQmJKcEFVNGRITEV6R0g4VnlZcUF3LUFqbUs4QTlXRW9QWEJFSUpEZ2s0V2tnWkJnZkJUM04teW9MeS1VbXhzTHB4Yk82YldCM3NCSW9BUWxYSkhxNlNFanRnVGU1QnZFQ1hVM0RmQy04emVN?oc=5",
     "source": "kerrang",
-    "title": "Album review: Changing Places In The Fire – Changing… - Kerrang!",
+    "title": "Album review: Changing Places In The Fire – Changing… - kerrang.com",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVHFoeVJkWTZCWVhfWGZ4UTA1eGRPMkdTZXBEcjhMLU1KOWdRQmJKcEFVNGRITEV6R0g4VnlZcUF3LUFqbUs4QTlXRW9QWEJFSUpEZ2s0V2tnWkJnZkJUM04teW9MeS1VbXhzTHB4Yk82YldCM3NCSW9BUWxYSkhxNlNFanRnVGU1QnZFQ1hVM0RmQy04emVN?oc=5",
     "publishedAt": "2026-07-28T08:00:00.000Z",
-    "summary": "Album review: Changing Places In The Fire – Changing… Kerrang!",
+    "summary": "Album review: Changing Places In The Fire – Changing… kerrang.com",
     "image": null
   },
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMi1gFBVV95cUxQU0NnT3ZGQlVwOTV2SzZTRWxQeDlGaVVSSVdXVk5kMzhmcU5BdGFmSVJWcGhVZ3pjLVBjS0QtUkJ2dDFzSWdDbnVYa1ZZdUliNkRkRzZlVmk5S2l4TnVVNWp2aEpoVzkxRTh3QTFSWnVqUzdqMnVQR2tXeVBaNjNwOWdmLWFyQ0xrQkRsdFdNSmZMdWJQbzY2MDFKV0Fld3gzZEVVOW54ZUctRkNpeGctV0xoRlBUVGhRZ0thTi0yQUhXTjNSc1ZodE5BVXNhT0R1UXVRS01R?oc=5",
     "source": "kerrang",
-    "title": "Watch Star Wars: Ahsoka’s Eman Esfandi join Story Of The Year for a… - Kerrang!",
+    "title": "Watch Star Wars: Ahsoka’s Eman Esfandi join Story Of The Year for a… - kerrang.com",
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQU0NnT3ZGQlVwOTV2SzZTRWxQeDlGaVVSSVdXVk5kMzhmcU5BdGFmSVJWcGhVZ3pjLVBjS0QtUkJ2dDFzSWdDbnVYa1ZZdUliNkRkRzZlVmk5S2l4TnVVNWp2aEpoVzkxRTh3QTFSWnVqUzdqMnVQR2tXeVBaNjNwOWdmLWFyQ0xrQkRsdFdNSmZMdWJQbzY2MDFKV0Fld3gzZEVVOW54ZUctRkNpeGctV0xoRlBUVGhRZ0thTi0yQUhXTjNSc1ZodE5BVXNhT0R1UXVRS01R?oc=5",
     "publishedAt": "2026-07-27T16:11:00.000Z",
-    "summary": "Watch Star Wars: Ahsoka’s Eman Esfandi join Story Of The Year for a… Kerrang!",
+    "summary": "Watch Star Wars: Ahsoka’s Eman Esfandi join Story Of The Year for a… kerrang.com",
     "image": null
   },
   {
@@ -704,19 +704,19 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMibkFVX3lxTFAyaFpqSW9sZlhLcXB0alJLdVg0MGQtbDRtRFdzZFZmNEpkNThoZWxMWHExS05LZHcxamRFYTVLZmpEVmpnVGd5c0NMMnU1UF84YTJzZFVacWRYZUhWMDlBMjM4aTV3UENkZFVCRDJB?oc=5",
     "source": "kerrang",
-    "title": "Album review: Madball – Not Your Kingdom - Kerrang!",
+    "title": "Album review: Madball – Not Your Kingdom - kerrang.com",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyaFpqSW9sZlhLcXB0alJLdVg0MGQtbDRtRFdzZFZmNEpkNThoZWxMWHExS05LZHcxamRFYTVLZmpEVmpnVGd5c0NMMnU1UF84YTJzZFVacWRYZUhWMDlBMjM4aTV3UENkZFVCRDJB?oc=5",
     "publishedAt": "2026-07-27T09:04:00.000Z",
-    "summary": "Album review: Madball – Not Your Kingdom Kerrang!",
+    "summary": "Album review: Madball – Not Your Kingdom kerrang.com",
     "image": null
   },
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMigAFBVV95cUxPTGhXU29SUGVsYlQtZVllSUFDUUlZYW9INWloUWVIWTMzVmM4djgtTkJ3RktDZ1d0bnBhcXZDVDBkcmhicEJNWUREUzlrbEFoWERfTER6UWxMcWwzcC1Sa3JfNVFVX1lPcy05aC1HMFpjZzg3WHBIanhYOFcxZmFlNg?oc=5",
     "source": "kerrang",
-    "title": "Sick Of It All frontman Lou Koller has died, aged 59 - Kerrang!",
+    "title": "Sick Of It All frontman Lou Koller has died, aged 59 - kerrang.com",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTGhXU29SUGVsYlQtZVllSUFDUUlZYW9INWloUWVIWTMzVmM4djgtTkJ3RktDZ1d0bnBhcXZDVDBkcmhicEJNWUREUzlrbEFoWERfTER6UWxMcWwzcC1Sa3JfNVFVX1lPcy05aC1HMFpjZzg3WHBIanhYOFcxZmFlNg?oc=5",
     "publishedAt": "2026-07-24T22:36:00.000Z",
-    "summary": "Sick Of It All frontman Lou Koller has died, aged 59 Kerrang!",
+    "summary": "Sick Of It All frontman Lou Koller has died, aged 59 kerrang.com",
     "image": null
   }
 ]
