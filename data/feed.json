@@ -1,5 +1,14 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/music-news/kylie-minogue-nick-cave-and-the-bad-seeds-where-the-wild-roses-brighton-1236307687/",
+    "source": "billboard",
+    "title": "Kylie Minogue Joins Nick Cave and the Bad Seeds for ‘Where the Wild Roses Grow’ in Brighton",
+    "url": "https://www.billboard.com/music/music-news/kylie-minogue-nick-cave-and-the-bad-seeds-where-the-wild-roses-brighton-1236307687/",
+    "publishedAt": "2026-08-02T05:28:22.000Z",
+    "summary": "The duet marked the first time the pair had performed the song together live since 2019.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/lists/lollapalooza-2026-best-moments-recap/",
     "source": "billboard",
     "title": "The Best Moments So Far From Lollapalooza 2026",
@@ -213,15 +222,6 @@
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYkFGWW1KbWVpb3U4RVJaVXVMc3h5VXdiVzNsMG9iLU44MDMxanZ4cnpwX0NsRGc4VXdSWFBzQV9RMzB4QmRQV3lGTlZCaHkwNzZYdlg5Q3FRNzJPLVRLRy1lbGgxVmJiQmFiMnREclh0MTl2YVFzZnp2MzZ1Y0JIU3d3?oc=5",
     "publishedAt": "2026-08-01T07:35:11.000Z",
     "summary": "Elastica tease their return: \"Missed us?\" NME",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rock/olivia-rodrigo-yungblud-join-smashing-pumpkins-lollapalooza-set-1236307547/",
-    "source": "billboard",
-    "title": "Olivia Rodrigo and Yungblud Join Smashing Pumpkins for Surprise Lollapalooza Set",
-    "url": "https://www.billboard.com/music/rock/olivia-rodrigo-yungblud-join-smashing-pumpkins-lollapalooza-set-1236307547/",
-    "publishedAt": "2026-08-01T07:27:22.000Z",
-    "summary": "The set marked the Chicago-bred band's first Lollapalooza headlining slot in 32 years — they last played the festival in 1994.",
     "image": null
   },
   {
@@ -693,6 +693,15 @@
     "image": null
   },
   {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMVJZbHhYZmZFNHp6dXo1RjhCcXhqcFNFTnBtZ1NiWHdnLTdSYVRFaVM0UlU1MV9QMENLaDVYcXVnR3BlWWROVDNJTVhTM1c5cktSTG5wdFowX2p6NWZKTmQ0MnZVaUIzOEJGQzVhb2p2bnEzeEJVZlcyY2VseS1ndTJhaDNxSkdFalJkcm05TWliNzRjTTd4R1JRSktMc3NkdlBYWDU4dUVQUjlxbFBFMWpiUVBLZHJKdzBfZlZ1XzdfY2xBcXBITUYwbFREZG9LUGRlV0xnb3VkTVluc2NVXw?oc=5",
+    "source": "kerrang",
+    "title": "“A groundbreaking creative force in the punk, metal, and hardcore… - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMVJZbHhYZmZFNHp6dXo1RjhCcXhqcFNFTnBtZ1NiWHdnLTdSYVRFaVM0UlU1MV9QMENLaDVYcXVnR3BlWWROVDNJTVhTM1c5cktSTG5wdFowX2p6NWZKTmQ0MnZVaUIzOEJGQzVhb2p2bnEzeEJVZlcyY2VseS1ndTJhaDNxSkdFalJkcm05TWliNzRjTTd4R1JRSktMc3NkdlBYWDU4dUVQUjlxbFBFMWpiUVBLZHJKdzBfZlZ1XzdfY2xBcXBITUYwbFREZG9LUGRlV0xnb3VkTVluc2NVXw?oc=5",
+    "publishedAt": "2026-07-27T15:12:00.000Z",
+    "summary": "“A groundbreaking creative force in the punk, metal, and hardcore… Kerrang!",
+    "image": null
+  },
+  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMisAFBVV95cUxNQzB6N3R2eGtOWEJOckxhZ21vSVFscjRORlRPYnRnYTJTa2oyVm1oYkxpN0ZtSG1jQnhtalZkT0NoTkZZSng3OXB5NWFPU3BBOUktcVBtNGdFY3FYanl0cjVWeGUzeE1IMjdfN184c2psRG82RzlKUFMwaXZabHlJMXBVSzZLeDFxWFJIM2dLY2hKNk40dVRERUNnWWRwMlltTl94OTFQdkRPZEc1M3pmZA?oc=5",
     "source": "kerrang",
     "title": "Faith No More and System Of A Down announce Australia and New Zealand co-headline shows - Kerrang!",
@@ -708,15 +717,6 @@
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWUJLMzB3U3g2dEVsZFJmVDFTLWVacnFtbnVqVHJvTVRyallFclQ3VkdDSFVSOFRqZEpzRklWbkdoSU5IRWN2SUV5enlQRjdYX3VpOVAyRDVJMkY1WmotdjNsTXFNdml3V0J0bTdzTF9HeUpZTURzNUVRYmgtVkJNdVdURFpGOXVjUXBaWUtWMXM2dDJCMS1jVkpqWlpCTU5GemNTQQ?oc=5",
     "publishedAt": "2026-07-27T10:01:00.000Z",
     "summary": "Watch Avenged Sevenfold open for themselves as Statica – without coming on stage Kerrang!",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMibkFVX3lxTFAyaFpqSW9sZlhLcXB0alJLdVg0MGQtbDRtRFdzZFZmNEpkNThoZWxMWHExS05LZHcxamRFYTVLZmpEVmpnVGd5c0NMMnU1UF84YTJzZFVacWRYZUhWMDlBMjM4aTV3UENkZFVCRDJB?oc=5",
-    "source": "kerrang",
-    "title": "Album review: Madball – Not Your Kingdom - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyaFpqSW9sZlhLcXB0alJLdVg0MGQtbDRtRFdzZFZmNEpkNThoZWxMWHExS05LZHcxamRFYTVLZmpEVmpnVGd5c0NMMnU1UF84YTJzZFVacWRYZUhWMDlBMjM4aTV3UENkZFVCRDJB?oc=5",
-    "publishedAt": "2026-07-27T09:04:00.000Z",
-    "summary": "Album review: Madball – Not Your Kingdom Kerrang!",
     "image": null
   }
 ]
