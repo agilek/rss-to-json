@@ -1,5 +1,50 @@
 [
   {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/bob-dylan-u2-joshua-tree-daniel-lanois-interview-1235601255/",
+    "source": "rolling-stone",
+    "title": "Fights with Bob Dylan, Magic with U2: Daniel Lanois on His Life in Music",
+    "url": "https://www.rollingstone.com/music/music-features/bob-dylan-u2-joshua-tree-daniel-lanois-interview-1235601255/",
+    "publishedAt": "2026-08-02T15:00:00.000Z",
+    "summary": "In our super-sized new interview, the legendary producer goes deep on making some of the greatest albums ever, from U2's The Joshua Tree to Bob Dylan's Time Out of Mind to Peter Gabriel's So",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/bts-arirang-tour-new-york-metlife-stadium-best-moments/",
+    "source": "billboard",
+    "title": "BTS Return to MetLife Stadium With a Full ARIRANG World Tour Show: 15 Best Moments",
+    "url": "https://www.billboard.com/lists/bts-arirang-tour-new-york-metlife-stadium-best-moments/",
+    "publishedAt": "2026-08-02T14:55:18.000Z",
+    "summary": "Two weeks after their World Cup Final Halftime Show performance in the same stadium, BTS gave New Jersey the complete two-and-a-half-hour version.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/tony-iommi-reflects-on-life-without-ozzy-black-sabbath-legacy/",
+    "source": "loudwire",
+    "title": "Tony Iommi Reflects on Life Without Ozzy + Black Sabbath’s Legacy",
+    "url": "https://loudwire.com/tony-iommi-reflects-on-life-without-ozzy-black-sabbath-legacy/",
+    "publishedAt": "2026-08-02T14:41:11.000Z",
+    "summary": "The legendary guitarist recently looked back on Ozzy Osbourne's death and Black Sabbath's final show. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/new-album-releases/",
+    "source": "pitchfork",
+    "title": "New Music Releases and Upcoming Albums in 2026",
+    "url": "https://pitchfork.com/news/new-album-releases/",
+    "publishedAt": "2026-08-02T14:34:58.000Z",
+    "summary": "A regularly updated guide to the new albums, EPs, mixtapes, and projects getting released in the coming weeks and months",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/new-radicals-first-new-song-28-years-one-night-only-1235602202/",
+    "source": "rolling-stone",
+    "title": "New Radicals Release First New Song in 28 Years for ‘One Night Only’ Rom-Com",
+    "url": "https://www.rollingstone.com/music/music-news/new-radicals-first-new-song-28-years-one-night-only-1235602202/",
+    "publishedAt": "2026-08-02T13:38:11.000Z",
+    "summary": "\"You Get What You Give\" band's \"One Night Only (Break Loose Break Free!)\" appears on soundtrack for upcoming film",
+    "image": null
+  },
+  {
     "id": "louder-than-war-https://louderthanwar.com/watch-this-old-foes-floods-of-shit/",
     "source": "louder-than-war",
     "title": "Watch This! Old Foes: Floods of Shit",
@@ -42,6 +87,15 @@
     "url": "https://www.billboard.com/music/music-news/phil-collins-praises-taylor-swift-1236307708/",
     "publishedAt": "2026-08-02T09:03:27.000Z",
     "summary": "Speaking on BBC Radio 2's Tracks of My Years, Collins recalled meeting Swift at a Songwriters Hall of Fame event years ago.",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMipAFBVV95cUxPVjhRSkQzNlpfbElzSzRoTnJsckMwUlpwV1FlRHNncWRUTTlVeWxjYVFOeDVyYUo2NF9rV0o5VDh5VldNVmRJcl9IVEJwMU1ZOFVOdmNMMjdhWXMyUUo1bVlaTDlqcE5UQjRPaVRaLVFlbS11d1hIay1OeE9qVzF5WVpSRHZyTWVYcUY5S2phcDJ5M01ZMzZiX2lGdUIzVmxFREtkXw?oc=5",
+    "source": "nme",
+    "title": "Watch Tori Amos cover ‘Falling Slowly’ in tribute to Glen Hansard - NME",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVjhRSkQzNlpfbElzSzRoTnJsckMwUlpwV1FlRHNncWRUTTlVeWxjYVFOeDVyYUo2NF9rV0o5VDh5VldNVmRJcl9IVEJwMU1ZOFVOdmNMMjdhWXMyUUo1bVlaTDlqcE5UQjRPaVRaLVFlbS11d1hIay1OeE9qVzF5WVpSRHZyTWVYcUY5S2phcDJ5M01ZMzZiX2lGdUIzVmxFREtkXw?oc=5",
+    "publishedAt": "2026-08-02T08:28:11.000Z",
+    "summary": "Watch Tori Amos cover ‘Falling Slowly’ in tribute to Glen Hansard NME",
     "image": null
   },
   {
@@ -150,15 +204,6 @@
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRl92c1dfWk1Nbm8tSy13NUV3SlNld240YVF0dUxBOFp2bEk4TVlKNnpKM01HOVJtdXBRTm54UHRSVTB0U05wRWFkMy1CbXIwWkxIRnhJWU9qY01HNi1ERGRubnVfRjIwdHBmRFNKUmJDQlpMY0xqMjhCWDlNaU9YaVVyXzZ1RS1IenNXYU9NeDhmS3hpOUV4VzhURVFySE9WaDBNRFZCOG43SUUxSHE1dlJsUE0yNlhTX1N6UVpsVFgxQzRaMzIxS0pkbXczZw?oc=5",
     "publishedAt": "2026-08-01T16:39:50.000Z",
     "summary": "Boy George parts ways with \"gutless\" record label manager who refused to release pro-Israel song NME",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/wwe-summerslam-2026-how-to-watch-live-online-free-1236303355/",
-    "source": "billboard",
-    "title": "Here’s Where to Watch WWE SummerSlam 2026 Live Online for Free",
-    "url": "https://www.billboard.com/culture/product-recommendations/wwe-summerslam-2026-how-to-watch-live-online-free-1236303355/",
-    "publishedAt": "2026-08-01T15:39:11.000Z",
-    "summary": "Don't miss Liv Morgan vs. Iyo Sky and Roman Reigns vs. Seth Rollins during the two-night wrestling event, with Darius Rucker set to perform.",
     "image": null
   },
   {
@@ -306,24 +351,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-latin/white-house-video-bad-bunny-la-mudanza-deportation-irony-1235601562/",
-    "source": "rolling-stone",
-    "title": "The Insane Irony of the White House Using Bad Bunny’s ‘La Mudanza’ for Deportation Videos",
-    "url": "https://www.rollingstone.com/music/music-latin/white-house-video-bad-bunny-la-mudanza-deportation-irony-1235601562/",
-    "publishedAt": "2026-07-31T20:19:56.000Z",
-    "summary": "The Puerto Rican star has openly criticized the Trump administration's immigration policies",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/drake-adin-ross-streaming-lawsuit-stake-arbitration-1235601620/",
-    "source": "rolling-stone",
-    "title": "Drake ‘Fraudulent Streams’ Case on Ice as Judge Sends Online Casino Claims to Arbitration",
-    "url": "https://www.rollingstone.com/music/music-news/drake-adin-ross-streaming-lawsuit-stake-arbitration-1235601620/",
-    "publishedAt": "2026-07-31T20:11:07.000Z",
-    "summary": "A judge has paused a lawsuit claiming Drake helped inflate his music streaming numbers, saying the plaintiffs must first complete arbitration with the gaming platform named in the complaint",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/best-album-alternative-rock-bands/",
     "source": "loudwire",
     "title": "Best Album By 11 Legendary Alternative Rock Bands",
@@ -402,15 +429,6 @@
     "url": "https://loudwire.com/greta-van-fleet-palace-of-the-people-saw-you-stand/",
     "publishedAt": "2026-07-31T14:13:50.000Z",
     "summary": "Greta Van Fleet's new album 'Palace for the People' will be out later this year. Hear the new song \"Saw You Stand.\" Continue reading…",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMingFBVV95cUxQbVBjMXhoS1R0c1VYZmZiZUNkOEdPRGRFT3NPYjVUSDd5OWg5NkV4T0x1MEg0UUJqbm5rOFZKMElOTzBmd0pYX0l3Tjdkd0hueGI2dHVvXzVqY0FGOEZ5bGRrdDJHMm5aUlZPTC1xM1pQeGh0bWpSekVacnI1azVOWkl5V0FwSjRxWldUVF9OaEhCb0hLcVB1SVk1R0REZw?oc=5",
-    "source": "nme",
-    "title": "John Robb looks back on the earliest days and unreleased music of Fontaines D.C.: \"They made the world a better place\" - NME",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbVBjMXhoS1R0c1VYZmZiZUNkOEdPRGRFT3NPYjVUSDd5OWg5NkV4T0x1MEg0UUJqbm5rOFZKMElOTzBmd0pYX0l3Tjdkd0hueGI2dHVvXzVqY0FGOEZ5bGRrdDJHMm5aUlZPTC1xM1pQeGh0bWpSekVacnI1azVOWkl5V0FwSjRxWldUVF9OaEhCb0hLcVB1SVk1R0REZw?oc=5",
-    "publishedAt": "2026-07-31T14:03:44.000Z",
-    "summary": "John Robb looks back on the earliest days and unreleased music of Fontaines D.C.: \"They made the world a better place\" NME",
     "image": null
   },
   {
@@ -531,15 +549,6 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/2026-hard-rock-metal-album-release-calendar/",
-    "source": "loudwire",
-    "title": "The New Rock + Metal Albums Out Today",
-    "url": "https://loudwire.com/2026-hard-rock-metal-album-release-calendar/",
-    "publishedAt": "2026-07-31T04:01:48.000Z",
-    "summary": "See all the new releases coming each week of 2026. Continue reading…",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/the-sinclairs-dirty-river-feat-emily-breeze-rat-scabies-billy-shinbone/",
     "source": "louder-than-war",
     "title": "The Sinclairs: Dirty River (feat. Emily Breeze, Rat Scabies & Billy Shinbone)",
@@ -564,15 +573,6 @@
     "url": "https://pitchfork.com/story/john-legend-cast-as-harry-belafonte-in-new-film/",
     "publishedAt": "2026-07-30T16:04:29.000Z",
     "summary": "Bill Condon’s The Road Home delves into Paul Simon’s Apartheid-era Graceland tour",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/lollapalooza-2026-hulu-livestream-schedule-and-details/",
-    "source": "pitchfork",
-    "title": "Lollapalooza 2026: Hulu Livestream Schedule & Details",
-    "url": "https://pitchfork.com/story/lollapalooza-2026-hulu-livestream-schedule-and-details/",
-    "publishedAt": "2026-07-30T14:04:12.000Z",
-    "summary": "Here’s when to catch Charli XCX, Lorde, Turnstile, Zara Larsson, the xx, Olivia Dean, and more",
     "image": null
   },
   {
@@ -605,10 +605,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMikgFBVV95cUxOU3doR0ZOZGVyTVlOVVpWZG96TFVZVndZT2l6cmIyVldEZ2lvSW5ZYkJqemRNa3VldjVwVmktbFAzbXk2NWo1TERBMnltQi1MRkw2RzdhVGpLZ3c5eUhmWVVtSkdqRG5YeF9rX3BNT245a1ZNbGVjd0MyOEx5dDVITUJwelpaWGZBWVlmSmQzUm5udw?oc=5",
     "source": "kerrang",
-    "title": "WARGASM sign to Hopeless Records for pulsing new single Get Down - kerrang.com",
+    "title": "WARGASM sign to Hopeless Records for pulsing new single Get Down - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU3doR0ZOZGVyTVlOVVpWZG96TFVZVndZT2l6cmIyVldEZ2lvSW5ZYkJqemRNa3VldjVwVmktbFAzbXk2NWo1TERBMnltQi1MRkw2RzdhVGpLZ3c5eUhmWVVtSkdqRG5YeF9rX3BNT245a1ZNbGVjd0MyOEx5dDVITUJwelpaWGZBWVlmSmQzUm5udw?oc=5",
     "publishedAt": "2026-07-29T15:56:00.000Z",
-    "summary": "WARGASM sign to Hopeless Records for pulsing new single Get Down kerrang.com",
+    "summary": "WARGASM sign to Hopeless Records for pulsing new single Get Down Kerrang!",
     "image": null
   },
   {
