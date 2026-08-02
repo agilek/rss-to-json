@@ -1,5 +1,59 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/morgan-wallen-problem-14th-week-number-one-billboard-200-1236307852/",
+    "source": "billboard",
+    "title": "Morgan Wallen’s ‘I’m the Problem’ Back at No. 1 on Billboard 200 for 14th Week",
+    "url": "https://www.billboard.com/music/chart-beat/morgan-wallen-problem-14th-week-number-one-billboard-200-1236307852/",
+    "publishedAt": "2026-08-02T19:00:12.000Z",
+    "summary": "Plus, Charli xcx’s Music, Fashion, Film debuts in the top three.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/madonna-kylie-minogue-love-sensation-remix-amsterdam-1235602313/",
+    "source": "rolling-stone",
+    "title": "See Madonna Bring Out Kylie Minogue to Preview ‘Love Sensation’ Remix in Amsterdam",
+    "url": "https://www.rollingstone.com/music/music-news/madonna-kylie-minogue-love-sensation-remix-amsterdam-1235602313/",
+    "publishedAt": "2026-08-02T18:33:18.000Z",
+    "summary": "Material Girl also performs Confessions on a Dance Floor's \"Sorry\" live for first time since 2008 at WorldPride Amsterdam's Club Confessions gig",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/listen-to-tom-waits-new-spoken-word-track-the-fly/",
+    "source": "pitchfork",
+    "title": "Listen to Tom Waits’ New Spoken-Word Track “The Fly”",
+    "url": "https://pitchfork.com/story/listen-to-tom-waits-new-spoken-word-track-the-fly/",
+    "publishedAt": "2026-08-02T17:37:11.000Z",
+    "summary": "It’s the B-side to his recent collaboration with Massive Attack, “Boots on the Ground”",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/lollapalooza-2026-flooding-delays-wolf-alice-cortis-sets-1236307838/",
+    "source": "billboard",
+    "title": "Lollapalooza 2026 Shortens Wolf Alice and Cortis Sets Due to Severe Flooding",
+    "url": "https://www.billboard.com/music/music-news/lollapalooza-2026-flooding-delays-wolf-alice-cortis-sets-1236307838/",
+    "publishedAt": "2026-08-02T17:32:00.000Z",
+    "summary": "The schedule changes on Aug. 1 came after heavy overnight rain soaked Chicago.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/harry-styles-falls-on-stage-mexico-city-concert-1236307831/",
+    "source": "billboard",
+    "title": "Watch Harry Styles Recover in Style From a Fall During His Second Night in Mexico City",
+    "url": "https://www.billboard.com/music/music-news/harry-styles-falls-on-stage-mexico-city-concert-1236307831/",
+    "publishedAt": "2026-08-02T17:22:22.000Z",
+    "summary": "The British superstar was performing the second show of his residency at GNP Seguros Stadium on Aug. 1 when he slipped on the rain-slicked stage.",
+    "image": null
+  },
+  {
+    "id": "louder-than-war-https://louderthanwar.com/say-she-she-the-drill-shed-margate-kent-live-review/",
+    "source": "louder-than-war",
+    "title": "Say She She: The Drill Shed, Margate, Kent – Live Review",
+    "url": "https://louderthanwar.com/say-she-she-the-drill-shed-margate-kent-live-review/",
+    "publishedAt": "2026-08-02T17:08:44.000Z",
+    "summary": "Say She She|Ponceau The Drill Shed, Margate, Kent 30th July 2026 Say She She, supported by Ponceau, brought their “discodelic soul” and “dreamy harmonies” to the South-East coast to help Margate celebrate 25 years of its now legendary Soul Weekender. In the relatively new and repurposed event space of the 750 capacity Drill Shed, the […] The post Say She She: The Drill Shed, Margate, Kent – Live Review appeared first on Louder Than War.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/culture/product-recommendations/wwe-summerslam-2026-how-to-watch-live-online-free-1236303355/",
     "source": "billboard",
     "title": "Here’s Where to Watch WWE SummerSlam 2026 Live Online for Free",
@@ -198,39 +252,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/patti-smith-pope-leo-xiv-meet-photo-1236307650/",
-    "source": "billboard",
-    "title": "Patti Smith Reflects On Meeting Pope Leo XIV: ‘A Moment That Will Forever Produce a Smile’",
-    "url": "https://www.billboard.com/music/music-news/patti-smith-pope-leo-xiv-meet-photo-1236307650/",
-    "publishedAt": "2026-08-01T22:27:56.000Z",
-    "summary": "He was familiar with Smith's tune \"Wave.\" “That was marvelous,” he said.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/country/parker-mccollum-welcomes-second-baby-hallie-ray-1236307634/",
-    "source": "billboard",
-    "title": "Parker McCollum Welcomes Second Baby With Wife Hallie Ray",
-    "url": "https://www.billboard.com/music/country/parker-mccollum-welcomes-second-baby-hallie-ray-1236307634/",
-    "publishedAt": "2026-08-01T20:30:10.000Z",
-    "summary": "\"Rocker Tommy Light McCollum!\" the country singer captioned his post.",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZUFzenZIUjJoVkFmVXdfUF9RVGVsRnBheWFtYU5FZkZLODFyRzlhTjY2ZzlJTVJnT3Z4ejNTdEhrNThVb1Z3MTNFQUw4c3BOZHlBOXQ0aFdxdldnSU8wMUUtOFNORVFUUk00dE1GbkFiWFZrMnBrVWJSOUljd2VweHE5Qlh2NE82RHhhTDBrQWNvUEJLVjlkYnlOQ3lYdmdGdExzZVN3MXdXaWdwZEtwamo5dWxySnI0Y2dLdFFJNHUxUkk?oc=5",
     "source": "nme",
     "title": "William Shatner leaks that he and his metal band are on the line-up for Coachella 2027 - NME",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZUFzenZIUjJoVkFmVXdfUF9RVGVsRnBheWFtYU5FZkZLODFyRzlhTjY2ZzlJTVJnT3Z4ejNTdEhrNThVb1Z3MTNFQUw4c3BOZHlBOXQ0aFdxdldnSU8wMUUtOFNORVFUUk00dE1GbkFiWFZrMnBrVWJSOUljd2VweHE5Qlh2NE82RHhhTDBrQWNvUEJLVjlkYnlOQ3lYdmdGdExzZVN3MXdXaWdwZEtwamo5dWxySnI0Y2dLdFFJNHUxUkk?oc=5",
     "publishedAt": "2026-08-01T19:47:09.000Z",
     "summary": "William Shatner leaks that he and his metal band are on the line-up for Coachella 2027 NME",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/harry-styles-together-together-tour-mexico-best-moments/",
-    "source": "billboard",
-    "title": "‘¡Viva México!’ Harry Styles Kicks Off His GNP Seguros Stadium Residency: 5 Best Moments",
-    "url": "https://www.billboard.com/lists/harry-styles-together-together-tour-mexico-best-moments/",
-    "publishedAt": "2026-08-01T19:22:03.000Z",
-    "summary": "The British superstar performed the first of six concerts in Mexico City on July 31, on a night that sealed his love for the Latin American country.",
     "image": null
   },
   {
@@ -357,15 +384,6 @@
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYkFGWW1KbWVpb3U4RVJaVXVMc3h5VXdiVzNsMG9iLU44MDMxanZ4cnpwX0NsRGc4VXdSWFBzQV9RMzB4QmRQV3lGTlZCaHkwNzZYdlg5Q3FRNzJPLVRLRy1lbGgxVmJiQmFiMnREclh0MTl2YVFzZnp2MzZ1Y0JIU3d3?oc=5",
     "publishedAt": "2026-08-01T07:35:11.000Z",
     "summary": "Elastica tease their return: \"Missed us?\" NME",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/olivia-rodrigo-yungblud-smashing-pumpkins-lollapalooza-1235601995/",
-    "source": "rolling-stone",
-    "title": "Olivia Rodrigo and Yungblud Join Smashing Pumpkins for Nostalgia-Fueled Lollapalooza Set",
-    "url": "https://www.rollingstone.com/music/music-news/olivia-rodrigo-yungblud-smashing-pumpkins-lollapalooza-1235601995/",
-    "publishedAt": "2026-08-01T03:34:08.000Z",
-    "summary": "Billy Corgan delivered \"Luna\" and \"Thirty-Three\" with his surprise guests",
     "image": null
   },
   {
@@ -522,15 +540,6 @@
     "image": null
   },
   {
-    "id": "louder-than-war-https://louderthanwar.com/montreux-jazz-festival-2026-festival-review/",
-    "source": "louder-than-war",
-    "title": "Montreux Jazz Festival 2026 – Festival Review",
-    "url": "https://louderthanwar.com/montreux-jazz-festival-2026-festival-review/",
-    "publishedAt": "2026-07-31T06:34:23.000Z",
-    "summary": "Montreux Jazz Festival Montreux, Switzerland 3rd-18th July 2026 A handful of places are synonymous with the music festivals they host: Newport and folk, Bayreuth and Wagner and Glastonbury and British pop. Since 1967, Montreux has performed the same function for jazz although, over 60 editions, the festival’s remit has expanded far beyond that genre. The […] The post Montreux Jazz Festival 2026 – Festival Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/remi-wolf-returns-with-new-song-twiggy/",
     "source": "pitchfork",
     "title": "Remi Wolf Returns With New Song “Twiggy”",
@@ -564,15 +573,6 @@
     "url": "https://pitchfork.com/story/cardi-b-new-song-ah-ha/",
     "publishedAt": "2026-07-31T04:05:02.000Z",
     "summary": "It’s her first single since 2025’s Am I the Drama?",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/jam-city-lines-up-new-album-my-world/",
-    "source": "pitchfork",
-    "title": "Jam City Lines Up New Album My World",
-    "url": "https://pitchfork.com/story/jam-city-lines-up-new-album-my-world/",
-    "publishedAt": "2026-07-30T19:06:09.000Z",
-    "summary": "Listen to the title track of Jack Chatham’s Jam City Presents EFM follow-up",
     "image": null
   },
   {
