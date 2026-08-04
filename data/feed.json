@@ -1,11 +1,83 @@
 [
   {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/joe-jackson-documentary-collaboration-marlon-jackson-1235603122/",
+    "source": "rolling-stone",
+    "title": "New Doc Will Depict Joe Jackson’s Life in Collaboration With Marlon Jackson",
+    "url": "https://www.rollingstone.com/music/music-news/joe-jackson-documentary-collaboration-marlon-jackson-1235603122/",
+    "publishedAt": "2026-08-04T02:12:02.000Z",
+    "summary": "The series is set to release soon on BLK PRIME",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/media/podcasts/bts-grammy-decision-debate-asian-category-pop-shop-podcast-1236308553/",
+    "source": "billboard",
+    "title": "BTS Grammy Decision Sparks Debate About New Asian Pop Category, But Who Wins & Who Loses?",
+    "url": "https://www.billboard.com/media/podcasts/bts-grammy-decision-debate-asian-category-pop-shop-podcast-1236308553/",
+    "publishedAt": "2026-08-04T01:09:59.000Z",
+    "summary": "On the new Billboard Pop Shop Podcast, Katie & Keith also discuss Madonna & Kylie remix, Ariana Grande's decision to step back after tour.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/bts-surprise-songs-arirang-tour-every-track/",
+    "source": "billboard",
+    "title": "Every Surprise Song BTS Has Performed on the ARIRANG World Tour (So Far)",
+    "url": "https://www.billboard.com/lists/bts-surprise-songs-arirang-tour-every-track/",
+    "publishedAt": "2026-08-04T00:30:00.000Z",
+    "summary": "The K-pop group has played two surprise songs during every show's encore.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/joe-jackson-docuseries-blk-prime-marlon-jackson-narrates-1236308548/",
+    "source": "billboard",
+    "title": "Marlon Jackson Developing Docuseries Exploring Father Joe Jackson’s Legacy",
+    "url": "https://www.billboard.com/music/music-news/joe-jackson-docuseries-blk-prime-marlon-jackson-narrates-1236308548/",
+    "publishedAt": "2026-08-04T00:18:42.000Z",
+    "summary": "The upcoming BLK Prime series will examine the life of the Jackson family through the perspective of son Marlon Jackson.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/cardi-b-megan-thee-stallion-wap-diamond-1236308423/",
+    "source": "billboard",
+    "title": "Cardi B Celebrates ‘WAP’ Going Diamond With Megan Thee Stallion: We ‘Really Did That’",
+    "url": "https://www.billboard.com/music/rb-hip-hop/cardi-b-megan-thee-stallion-wap-diamond-1236308423/",
+    "publishedAt": "2026-08-04T00:09:00.000Z",
+    "summary": "Cardi has the most diamond plaques of any female rapper, with four.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/kylie-cantrall-valley-girl-problems-tour-dates-1236308486/",
+    "source": "billboard",
+    "title": "Kylie Cantrall Taking Her ‘Valley Girl Problems’ on First Headlining Tour",
+    "url": "https://www.billboard.com/music/pop/kylie-cantrall-valley-girl-problems-tour-dates-1236308486/",
+    "publishedAt": "2026-08-03T23:42:26.000Z",
+    "summary": "The Descendants star is set to perform across North America to celebrate the release of her new EP.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/country/ella-langley-beer-dandelion-honey-kolsch-shiner-1236308475/",
+    "source": "billboard",
+    "title": "Ella Langley Brings ‘Dandelion’ Vibes to New Beer Collaboration",
+    "url": "https://www.billboard.com/music/country/ella-langley-beer-dandelion-honey-kolsch-shiner-1236308475/",
+    "publishedAt": "2026-08-03T23:10:35.000Z",
+    "summary": "The country hitmaker has teamed up with Shiner for a collaboration inspired by her Billboard 200 chart-topping album.",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-features/earl-sweatshirt-drake-dont-worry-cover-1235602917/",
     "source": "rolling-stone",
-    "title": "Earl Sweatshirt is Right: ‘Don’t Worry’ is a Great Drake Song",
+    "title": "Earl Sweatshirt Is Right: ‘Don’t Worry’ is a Great Drake Song",
     "url": "https://www.rollingstone.com/music/music-features/earl-sweatshirt-drake-dont-worry-cover-1235602917/",
     "publishedAt": "2026-08-03T23:00:00.000Z",
     "summary": "The underground hero's viral karaoke-style performances of the Iceman deep cut are a reminder of what Drake still does better than almost anyone",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/lollapalooza-2026-best-moments-recap/",
+    "source": "billboard",
+    "title": "The Best Moments From Lollapalooza 2026",
+    "url": "https://www.billboard.com/lists/lollapalooza-2026-best-moments-recap/",
+    "publishedAt": "2026-08-03T23:00:00.000Z",
+    "summary": "Tate McRae's golden dip closed out the weekend on a high note.",
     "image": null
   },
   {
@@ -45,42 +117,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/pro/australia-biggest-outback-music-festival-sells-out-2026-event/",
-    "source": "billboard",
-    "title": "Australia’s Biggest Outback Music Festival Sells Out 2026 Edition",
-    "url": "https://www.billboard.com/pro/australia-biggest-outback-music-festival-sells-out-2026-event/",
-    "publishedAt": "2026-08-03T21:00:00.000Z",
-    "summary": "This year’s lineup includes The Teskey Brothers, Jon Stevens, John Butler, Boy & Bear, and more.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/music-company-earnings-q2-2026-umg-live-nation-hybe-made/",
-    "source": "billboard",
-    "title": "What Every Music Company Made in Q2 2026 (Updating)",
-    "url": "https://www.billboard.com/lists/music-company-earnings-q2-2026-umg-live-nation-hybe-made/",
-    "publishedAt": "2026-08-03T20:49:00.000Z",
-    "summary": "From Live Nation to UMG to SiriusXM, a roundup of what the biggest publicly traded music companies have reported so far for the quarter ending June 30.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/country/buffalo-traffic-jam-debut-album-pictures-of-you-1236308412/",
-    "source": "billboard",
-    "title": "Buffalo Traffic Jam Talks Capturing a Transformative Year on Its ‘Audible Photo Catalog’ of a Debut Album, ‘Pictures of You’",
-    "url": "https://www.billboard.com/music/country/buffalo-traffic-jam-debut-album-pictures-of-you-1236308412/",
-    "publishedAt": "2026-08-03T20:35:19.000Z",
-    "summary": "The duo’s Frankie Cassidy and Nathan Ross chronicle their evolution as artists and performers on their debut album.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/oscar-winners-best-original-song-number-one-hits-hot-100/",
-    "source": "billboard",
-    "title": "Will Taylor Swift’s ‘Toy Story 5’ Song Become the 19th Best Original Song Oscar Winner That Hit No. 1 on the Hot 100? Full List",
-    "url": "https://www.billboard.com/lists/oscar-winners-best-original-song-number-one-hits-hot-100/",
-    "publishedAt": "2026-08-03T20:15:00.000Z",
-    "summary": "There is no assurance that Swift’s song will win. But it has a lot going for it.",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/better-birthday-boy-bruce-dickinson-vs-james-hetfield/",
     "source": "loudwire",
     "title": "VOTE: Better Birthday Boy - Bruce Dickinson vs. James Hetfield",
@@ -90,39 +126,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/david-rivkin-death-david-z-producer-1236308315/",
-    "source": "billboard",
-    "title": "David Z, Grammy-Winning Producer Who Helped Prince’s Early Career, Dies at 78",
-    "url": "https://www.billboard.com/music/music-news/david-rivkin-death-david-z-producer-1236308315/",
-    "publishedAt": "2026-08-03T19:59:41.000Z",
-    "summary": "Seasoned producer David Rivkin worked with Etta James, Jody Watley and contributed to Hot 100 toppers \"Funkytown\" and \"She Drives Me Crazy.\"",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/alicia-keys-signs-caa/",
-    "source": "billboard",
-    "title": "Alicia Keys Signs With CAA",
-    "url": "https://www.billboard.com/pro/alicia-keys-signs-caa/",
-    "publishedAt": "2026-08-03T19:52:06.000Z",
-    "summary": "The singer was previously booked by WME.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-features/ed-sheeran-katseye-animal-songwriting-1235599355/",
     "source": "rolling-stone",
     "title": "More Pop Stars Should Call Ed Sheeran to Write Their Songs",
     "url": "https://www.rollingstone.com/music/music-features/ed-sheeran-katseye-animal-songwriting-1235599355/",
     "publishedAt": "2026-08-03T19:39:54.000Z",
     "summary": "Katseye’s latest single, “Animal,” written by Sheeran, is one of their best — and shows Sheeran knows how to craft a pop hit that sticks, even when it's not for him",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/apple-music-dance-head-club-livestreams-how/",
-    "source": "billboard",
-    "title": "How Apple Music’s Stephen Campbell Is Building ‘A Portal Into the Depth & Breadth’ of Dance Music",
-    "url": "https://www.billboard.com/pro/apple-music-dance-head-club-livestreams-how/",
-    "publishedAt": "2026-08-03T19:23:29.000Z",
-    "summary": "As Apple Music’s global head of dance, electronic and DJ mixes, Campbell recently helped launch the streamer's newest dance offering, Club Live.",
     "image": null
   },
   {
@@ -195,15 +204,6 @@
     "url": "https://www.rollingstone.com/music/music-news/bruce-springsteen-wife-cancer-diagnosis-born-to-run-1235602650/",
     "publishedAt": "2026-08-03T17:17:46.000Z",
     "summary": "Springsteen appeared virtually at an event for the Pan-Mass Challenge, which raises funds for the Dana-Farber Cancer Institute, where Scialfa — who he said is in remission — is being treated",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/maggie-rogers-big-sports-summer-knicks-1235601828/",
-    "source": "rolling-stone",
-    "title": "Maggie Rogers Needed the Salve of a ‘Big Sports Summer.’ Didn’t We All",
-    "url": "https://www.rollingstone.com/music/music-features/maggie-rogers-big-sports-summer-knicks-1235601828/",
-    "publishedAt": "2026-08-03T16:55:05.000Z",
-    "summary": "From the Knicks’ championship run to Wimbledon, the singer-songwriter has been a regular presence at arenas this summer, finding inspiration for a new album in the process",
     "image": null
   },
   {
