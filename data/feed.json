@@ -1,5 +1,41 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/music-news/il-divo-carlos-marin-new-music-concerts-1236309303/",
+    "source": "billboard",
+    "title": "Il Divo Remember Carlos Marín, Talk New Music",
+    "url": "https://www.billboard.com/music/music-news/il-divo-carlos-marin-new-music-concerts-1236309303/",
+    "publishedAt": "2026-08-05T02:40:05.000Z",
+    "summary": "The classical crossover group is mapping out new music and will share a stage later this year with Jose Carreras at Brisbane's Gabba Stadium.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/glen-hansard-funeral-bono-eddie-vedder-music-tribute-1236309280/",
+    "source": "billboard",
+    "title": "Watch Bono, Eddie Vedder & More Honor Glen Hansard With Emotional Musical Tributes at Dublin Funeral",
+    "url": "https://www.billboard.com/music/music-news/glen-hansard-funeral-bono-eddie-vedder-music-tribute-1236309280/",
+    "publishedAt": "2026-08-05T01:22:55.000Z",
+    "summary": "The late singer/songwriter was remembered by friends, family & fellow musicians during Tuesday's service.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/billboard-hot-latin-songs-top-10-countdown-august-8th-2026/",
+    "source": "billboard",
+    "title": "Billboard Hot Latin Songs Top 10 Countdown for August 8th, 2026 | Billboard Latin",
+    "url": "https://www.billboard.com/video/billboard-hot-latin-songs-top-10-countdown-august-8th-2026/",
+    "publishedAt": "2026-08-05T01:11:55.000Z",
+    "summary": "Bad Bunny continues to dominate the Hot Latin Songs chart with several tracks off his album ‘Debí Tirar Más Fotos’ and Karol G comes in strong with a new song “Matadora.” NarratorHere’s the Billboard Hot Latin Songs top 10 for the week dated August 8th. Calle 24 and Fuerza Regida move up to No. 10. […]",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/snoop-dogg-kevin-richardson-backstreet-boys-meet-twin-memes-1236309267/",
+    "source": "billboard",
+    "title": "When Kevin Met Calvin: Backstreet Boys’ Kevin Richardson & Snoop Dogg ‘Finally’ Meet After Viral Twin Memes",
+    "url": "https://www.billboard.com/music/music-news/snoop-dogg-kevin-richardson-backstreet-boys-meet-twin-memes-1236309267/",
+    "publishedAt": "2026-08-05T01:05:15.000Z",
+    "summary": "\"IYKYK,\" the BSB social accounts caption photos of the celebrity doppelgangers crossing paths at Paw Patrol: The Dino Movie premiere.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/culture/tv-film/50-cent-power-kanan-salary-pay-cut-1236309152/",
     "source": "billboard",
     "title": "50 Cent Reveals How Much He Made to Play Kanan Stark on ‘Power’: ‘I Took a Pay Cut to Be There’",
@@ -60,42 +96,6 @@
     "url": "https://www.billboard.com/music/music-news/linkin-park-unshatter-documentary-film-trailer-1236309148/",
     "publishedAt": "2026-08-04T22:10:37.000Z",
     "summary": "The film, directed by LP's Joe Hahn, follows the band's journey back to the stage after Chester Bennington's death & a seven-year hiatus.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/calle-24-fuerza-regida-noche-perfecta-latin-airplay-chart-1236309136/",
-    "source": "billboard",
-    "title": "Calle 24 & Fuerza Regida Score a ‘Noche Perfecta’ With Joint No. 1: ‘Imagine, I Am Going Crazy!’",
-    "url": "https://www.billboard.com/music/chart-beat/calle-24-fuerza-regida-noche-perfecta-latin-airplay-chart-1236309136/",
-    "publishedAt": "2026-08-04T21:43:52.000Z",
-    "summary": "The partnership marks Calle 24’s first Billboard champ.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/temper-new-electronic-festival-san-diego-zeds-dead-landry-1236308977/",
-    "source": "billboard",
-    "title": "A New Electronic Festival Is Debuting in San Diego This Winter With Zeds Dead, Ninajirachi, Sara Landry & More",
-    "url": "https://www.billboard.com/music/music-news/temper-new-electronic-festival-san-diego-zeds-dead-landry-1236308977/",
-    "publishedAt": "2026-08-04T21:39:16.000Z",
-    "summary": "Temper will happen at the city's Petco Park in December.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/universal-music-group-stock-dropped-q2-earnings-report-why/",
-    "source": "billboard",
-    "title": "UMG Reported a 5.3% Increase in Revenue — So Why Did Its Stock Drop 25%?",
-    "url": "https://www.billboard.com/pro/universal-music-group-stock-dropped-q2-earnings-report-why/",
-    "publishedAt": "2026-08-04T21:13:05.000Z",
-    "summary": "The company's share price plummeted in the wake of its earnings release. Billboard analyzes the reasons behind the dip.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/charli-xcx-music-fashion-film-five-burning-questions-1236309081/",
-    "source": "billboard",
-    "title": "How Did Charli xcx’s First-Week ‘Music, Fashion, Film’ Performance Meet Our Expectations?",
-    "url": "https://www.billboard.com/music/chart-beat/charli-xcx-music-fashion-film-five-burning-questions-1236309081/",
-    "publishedAt": "2026-08-04T21:06:29.000Z",
-    "summary": "This week's Five Burning Questions looks at the No. 3 Billboard 200 debut for Charli's new album.",
     "image": null
   },
   {
@@ -353,10 +353,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMi_AFBVV95cUxOS2dVSmZOcnJRcGRrdDM0SERPQ2VpdUdUeUs4VFhwVklkR1pFeGlfUm1rZkpkTkM0WVlPbVlXU204U2lWMkVRQ2NCWHl4RjdWY2lCSWJPYWlOMUtWVmp2andXZWdCaldxSjRoSXJTRWRFc01oczBnSkl2amhDd2cwbzgwaUZ0OE1jTlFpbU1qMVY1T2tRczR2SWljdmU0TFk2SWIzMkNrWEVZdGFUQV9TcWJvelpodWUyQU1ab29aWG56dTRkVWV3X1htaVdZdVlZUzF6UF90WEpCNXVHaFBLUGhBTTNaRGdpLS02UUNkWWdWWUpDRE5JVDVzZ0s?oc=5",
     "source": "kerrang",
-    "title": "10 reasons why you need Castle Rat in your life - kerrang.com",
+    "title": "10 reasons why you need Castle Rat in your life - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOS2dVSmZOcnJRcGRrdDM0SERPQ2VpdUdUeUs4VFhwVklkR1pFeGlfUm1rZkpkTkM0WVlPbVlXU204U2lWMkVRQ2NCWHl4RjdWY2lCSWJPYWlOMUtWVmp2andXZWdCaldxSjRoSXJTRWRFc01oczBnSkl2amhDd2cwbzgwaUZ0OE1jTlFpbU1qMVY1T2tRczR2SWljdmU0TFk2SWIzMkNrWEVZdGFUQV9TcWJvelpodWUyQU1ab29aWG56dTRkVWV3X1htaVdZdVlZUzF6UF90WEpCNXVHaFBLUGhBTTNaRGdpLS02UUNkWWdWWUpDRE5JVDVzZ0s?oc=5",
     "publishedAt": "2026-08-04T11:00:00.000Z",
-    "summary": "10 reasons why you need Castle Rat in your life kerrang.com",
+    "summary": "10 reasons why you need Castle Rat in your life Kerrang!",
     "image": null
   },
   {
@@ -506,10 +506,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMiigFBVV95cUxOUXNzd3lBa0ljcndPX3d6eUw3VnJQdXZwb09tUkJSYUpIM2JhODlKMlNfQUVwa1lqUWh4NzlXUk9xX0pFYm1KbmxqeGNfdkQ3UlgzZGt6d1RsT2J6Z0I3c2IxTEVhVmF5alNsWGdBVTdPcUw5ZVFpUkZ4MVRWQTVmSjEwMEtWQzB1TXc?oc=5",
     "source": "kerrang",
-    "title": "Watch Citizen’s whimsical video for new single, Good Fortune - kerrang.com",
+    "title": "Watch Citizen’s whimsical video for new single, Good Fortune - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUXNzd3lBa0ljcndPX3d6eUw3VnJQdXZwb09tUkJSYUpIM2JhODlKMlNfQUVwa1lqUWh4NzlXUk9xX0pFYm1KbmxqeGNfdkQ3UlgzZGt6d1RsT2J6Z0I3c2IxTEVhVmF5alNsWGdBVTdPcUw5ZVFpUkZ4MVRWQTVmSjEwMEtWQzB1TXc?oc=5",
     "publishedAt": "2026-08-03T14:00:00.000Z",
-    "summary": "Watch Citizen’s whimsical video for new single, Good Fortune kerrang.com",
+    "summary": "Watch Citizen’s whimsical video for new single, Good Fortune Kerrang!",
     "image": null
   },
   {
@@ -558,6 +558,15 @@
     "image": null
   },
   {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMinwFBVV95cUxPajdOQlBSNThIQUZ6dGlvN2VhbVdIQzJSZzRJOVpfNTlOVzhQdXR0M25jYy0ya1hPZk0zbEpCWGkwbElNWVNuSGdrakd0V0JJaFpiMlp1U2MwSkE5QXlXV21aeTdrMVFFaldKWHhXZUpBRE96TDYzdHJOSTNZZkEzRGg5aFVfSFhyUFAtSzYyN1c3VDJJdjVNOW1TM2ctbTA?oc=5",
+    "source": "kerrang",
+    "title": "Megadeth announce last ever UK tour with Black Label Society and Testament - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPajdOQlBSNThIQUZ6dGlvN2VhbVdIQzJSZzRJOVpfNTlOVzhQdXR0M25jYy0ya1hPZk0zbEpCWGkwbElNWVNuSGdrakd0V0JJaFpiMlp1U2MwSkE5QXlXV21aeTdrMVFFaldKWHhXZUpBRE96TDYzdHJOSTNZZkEzRGg5aFVfSFhyUFAtSzYyN1c3VDJJdjVNOW1TM2ctbTA?oc=5",
+    "publishedAt": "2026-08-03T10:57:00.000Z",
+    "summary": "Megadeth announce last ever UK tour with Black Label Society and Testament Kerrang!",
+    "image": null
+  },
+  {
     "id": "uncut-https://www.uncut.co.uk/features/before-yes-the-bands-that-shaped-prog-rocks-future-giants-155648/",
     "source": "uncut",
     "title": "Before Yes: the bands that shaped prog-rock’s future giants",
@@ -578,10 +587,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMihgFBVV95cUxPQzl0RE5CdU0zQUxKaDdBamdoalFXWnZuT0tZQkRHQ3BvalVQOXJwdXo4MExMY2pHakVxVzBkQ0o2YVFsQjFLWEFfb0UyTmFqMU83LW4xNXJJYjlEYU5CUkFxWk5kUUdScXRkb1JjeUtCbWxVbm5MS2xjeXVEejJKVkk3dk84dw?oc=5",
     "source": "kerrang",
-    "title": "Album review: Public Opinion – The Curse Of Public Opinion - kerrang.com",
+    "title": "Album review: Public Opinion – The Curse Of Public Opinion - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQzl0RE5CdU0zQUxKaDdBamdoalFXWnZuT0tZQkRHQ3BvalVQOXJwdXo4MExMY2pHakVxVzBkQ0o2YVFsQjFLWEFfb0UyTmFqMU83LW4xNXJJYjlEYU5CUkFxWk5kUUdScXRkb1JjeUtCbWxVbm5MS2xjeXVEejJKVkk3dk84dw?oc=5",
     "publishedAt": "2026-08-03T08:00:00.000Z",
-    "summary": "Album review: Public Opinion – The Curse Of Public Opinion kerrang.com",
+    "summary": "Album review: Public Opinion – The Curse Of Public Opinion Kerrang!",
     "image": null
   },
   {
@@ -596,10 +605,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMixAFBVV95cUxQOXRaRFA5d2JZcUxoYzlzN3VsaW41Sk56c1Y3b2hEWjltazZvZUdmbW1qMXQ3R3FEaXkwTWdqVHl3ZnRkZGUtU0pkQl9mYmdxaFNwbkhiV2dEeXZVNjdid0V5VFdGc0gzcEFWMjhuT1dwa0lSQUJQUG1od3BOWnFTblJDQ2NURDJzcXdvcjlkSUQ1X256QzhZb21TQnRScW9peW8teEJlWG1NUXFLazg5azRObl9MbW56LXFDRnFubWQ1YW9M?oc=5",
     "source": "kerrang",
-    "title": "Wacken announces first bands for 2027, including Electric Callboy, Five Finger Death Punch and Helloween - kerrang.com",
+    "title": "Wacken announces first bands for 2027, including Electric Callboy, Five Finger Death Punch and Helloween - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOXRaRFA5d2JZcUxoYzlzN3VsaW41Sk56c1Y3b2hEWjltazZvZUdmbW1qMXQ3R3FEaXkwTWdqVHl3ZnRkZGUtU0pkQl9mYmdxaFNwbkhiV2dEeXZVNjdid0V5VFdGc0gzcEFWMjhuT1dwa0lSQUJQUG1od3BOWnFTblJDQ2NURDJzcXdvcjlkSUQ1X256QzhZb21TQnRScW9peW8teEJlWG1NUXFLazg5azRObl9MbW56LXFDRnFubWQ1YW9M?oc=5",
     "publishedAt": "2026-08-02T19:05:00.000Z",
-    "summary": "Wacken announces first bands for 2027, including Electric Callboy, Five Finger Death Punch and Helloween kerrang.com",
+    "summary": "Wacken announces first bands for 2027, including Electric Callboy, Five Finger Death Punch and Helloween Kerrang!",
     "image": null
   },
   {
@@ -704,19 +713,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMikgFBVV95cUxOU3doR0ZOZGVyTVlOVVpWZG96TFVZVndZT2l6cmIyVldEZ2lvSW5ZYkJqemRNa3VldjVwVmktbFAzbXk2NWo1TERBMnltQi1MRkw2RzdhVGpLZ3c5eUhmWVVtSkdqRG5YeF9rX3BNT245a1ZNbGVjd0MyOEx5dDVITUJwelpaWGZBWVlmSmQzUm5udw?oc=5",
     "source": "kerrang",
-    "title": "WARGASM sign to Hopeless Records for pulsing new single Get Down - kerrang.com",
+    "title": "WARGASM sign to Hopeless Records for pulsing new single Get Down - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU3doR0ZOZGVyTVlOVVpWZG96TFVZVndZT2l6cmIyVldEZ2lvSW5ZYkJqemRNa3VldjVwVmktbFAzbXk2NWo1TERBMnltQi1MRkw2RzdhVGpLZ3c5eUhmWVVtSkdqRG5YeF9rX3BNT245a1ZNbGVjd0MyOEx5dDVITUJwelpaWGZBWVlmSmQzUm5udw?oc=5",
     "publishedAt": "2026-07-29T15:56:00.000Z",
-    "summary": "WARGASM sign to Hopeless Records for pulsing new single Get Down kerrang.com",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMigAFBVV95cUxQU2dpRVRmZ2xIbjY0bXdaU05aa0xOa0V5bW1HUllycm82MERpQTFqWlVoOWpzVVZIUjg1WWRTLWRnZ0lReG1zZ2Fqa2U4VXZWeU9MODhLZERyZjktQWtNZHROZzhDZ2YtNWJTb1RTUlN0SDNEMTVQWE9JMElqa3lMUQ?oc=5",
-    "source": "kerrang",
-    "title": "Waterparks: “This was the most challenging record to write ever” - kerrang.com",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU2dpRVRmZ2xIbjY0bXdaU05aa0xOa0V5bW1HUllycm82MERpQTFqWlVoOWpzVVZIUjg1WWRTLWRnZ0lReG1zZ2Fqa2U4VXZWeU9MODhLZERyZjktQWtNZHROZzhDZ2YtNWJTb1RTUlN0SDNEMTVQWE9JMElqa3lMUQ?oc=5",
-    "publishedAt": "2026-07-29T14:50:00.000Z",
-    "summary": "Waterparks: “This was the most challenging record to write ever” kerrang.com",
+    "summary": "WARGASM sign to Hopeless Records for pulsing new single Get Down Kerrang!",
     "image": null
   }
 ]
