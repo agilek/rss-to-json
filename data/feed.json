@@ -1,5 +1,41 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/pop/charlie-puth-partners-lucky-brand-1236310174/",
+    "source": "billboard",
+    "title": "Charlie Puth Partners Up With Lucky Brand",
+    "url": "https://www.billboard.com/music/pop/charlie-puth-partners-lucky-brand-1236310174/",
+    "publishedAt": "2026-08-06T05:12:50.000Z",
+    "summary": "The U.S. pop artist is the latest ambassador for the apparel and lifestyle company.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/ralph-carr-unmasked-businessman-convicted-rape/",
+    "source": "billboard",
+    "title": "Ralph Carr, Australian Artist Manager, Unmasked as Businessman Convicted of Rape",
+    "url": "https://www.billboard.com/pro/ralph-carr-unmasked-businessman-convicted-rape/",
+    "publishedAt": "2026-08-06T03:53:40.000Z",
+    "summary": "The businessman was identified when a longstanding suppression order was lifted by the County Court of Victoria.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/zz-top-cancel-hollywood-bowl-concert-cheap-trick-troubador-1235604394/",
+    "source": "rolling-stone",
+    "title": "ZZ Top Cancel Hollywood Bowl Concert Due to ‘Insurmountable Obstacles’",
+    "url": "https://www.rollingstone.com/music/music-news/zz-top-cancel-hollywood-bowl-concert-cheap-trick-troubador-1235604394/",
+    "publishedAt": "2026-08-06T03:52:59.000Z",
+    "summary": "Cheap Trick, who have been sharing select tour dates with the band, announced that they would hold an \"intimate\" show at the Troubadour instead",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/bmg-andrew-stockdales-wolfmother-rights/",
+    "source": "billboard",
+    "title": "BMG Buys Andrew Stockdale’s Wolfmother Rights",
+    "url": "https://www.billboard.com/pro/bmg-andrew-stockdales-wolfmother-rights/",
+    "publishedAt": "2026-08-06T03:03:23.000Z",
+    "summary": "The music company now controls Stockdale’s publishing, recorded music royalties and neighboring rights interests for Wolfmother’s works.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/pop/role-model-convinced-label-no-big-name-producers-chuck-timel-1236310090/",
     "source": "billboard",
     "title": "How Role Model Convinced His Label Not to Pair Him With Big-Name Producers After ‘Sally’ Success: ‘I Got to Trust My Gut This Time’",
@@ -72,15 +108,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/moby-georgia-concert-interview-1236309957/",
-    "source": "billboard",
-    "title": "At His First Show In Georgia, Moby Talks About ‘Music’s Ability to Reach Everybody – And to Reach Them In the Most Personal Way’",
-    "url": "https://www.billboard.com/music/music-news/moby-georgia-concert-interview-1236309957/",
-    "publishedAt": "2026-08-05T22:29:47.000Z",
-    "summary": "Billboard Georgia sat down with the artist near the Georgian capital of Tbilisi to talk about music, activism, AI & more.",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/outside-lands-2026-amazon-music-livestream-schedule-and-details/",
     "source": "pitchfork",
     "title": "Outside Lands 2026: Amazon Music Livestream Schedule & Details",
@@ -90,30 +117,21 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/pop/sombr-body-image-issues-lifelong-struggle-eating-1236309917/",
-    "source": "billboard",
-    "title": "Sombr Opens Up About Body Image Issues & ‘Lifelong Struggle’ With Eating",
-    "url": "https://www.billboard.com/music/pop/sombr-body-image-issues-lifelong-struggle-eating-1236309917/",
-    "publishedAt": "2026-08-05T22:21:43.000Z",
-    "summary": "“Most of the time before shows I’m literally eating against my will,\" the singer shared.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/tv-film/carson-daly-nbc-the-voice-keke-palmer-celebrity-spin-off-1236309905/",
-    "source": "billboard",
-    "title": "Carson Daly Clears the Air About His Future on ‘The Voice’ & Why Keke Palmer is ‘Perfect’ as Host for Celebrity Spin-Off",
-    "url": "https://www.billboard.com/culture/tv-film/carson-daly-nbc-the-voice-keke-palmer-celebrity-spin-off-1236309905/",
-    "publishedAt": "2026-08-05T22:15:11.000Z",
-    "summary": "Daly says he will continue producing The Voice: Celebrity and welcomes Palmer to the NBC show's family.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/sam-smith-when-hes-gone-single-hazel-eyes-1235603990/",
     "source": "rolling-stone",
     "title": "Sam Smith Releases Bluesy Lament ‘When He’s Gone’ Ahead of New Album, ‘Hazel Eyes’",
     "url": "https://www.rollingstone.com/music/music-news/sam-smith-when-hes-gone-single-hazel-eyes-1235603990/",
     "publishedAt": "2026-08-05T19:02:17.000Z",
     "summary": "Smith’s fifth studio album arrives on Aug. 21",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMiswFBVV95cUxQaVNRMWZ4bXNDQXR5U3pqMEwtUFFnS0NGNmRXSlRzVEprVWJJUlhSLWtvWVlsUXBjNkg1czRYbXFhaTRWTm1GOWVPWlU4cXhfV2x3YUNncmt6SmMxLVJFS0lkUUV6dFRaUVNuc21VVDA0SjRjQVdJbnlyNHN5VWZQZE9NVDUwaUdvYk8zeFNwQWFXMjFmeWsyYXNyVzd2TmtILW5lbG9wS0pGYTJ4b0o4T0ZkMA?oc=5",
+    "source": "nme",
+    "title": "U2 share re-written ‘Beautiful Day’ lyrics from Glen Hansard funeral tribute - NME",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaVNRMWZ4bXNDQXR5U3pqMEwtUFFnS0NGNmRXSlRzVEprVWJJUlhSLWtvWVlsUXBjNkg1czRYbXFhaTRWTm1GOWVPWlU4cXhfV2x3YUNncmt6SmMxLVJFS0lkUUV6dFRaUVNuc21VVDA0SjRjQVdJbnlyNHN5VWZQZE9NVDUwaUdvYk8zeFNwQWFXMjFmeWsyYXNyVzd2TmtILW5lbG9wS0pGYTJ4b0o4T0ZkMA?oc=5",
+    "publishedAt": "2026-08-05T18:32:40.000Z",
+    "summary": "U2 share re-written ‘Beautiful Day’ lyrics from Glen Hansard funeral tribute NME",
     "image": null
   },
   {
@@ -285,15 +303,6 @@
     "url": "https://pitchfork.com/story/jay-z-hops-on-beyonces-morning-dew-donk-remix/",
     "publishedAt": "2026-08-05T13:09:50.000Z",
     "summary": "Featuring interpolations of Sheck Wes, Soulja Boy, and the Isley Brothers",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/weezer-ceo-music-video-tony-hawk-tour-dates-1235603846/",
-    "source": "rolling-stone",
-    "title": "Weezer Go Back in Time for ‘C.E.O.’ Music Video",
-    "url": "https://www.rollingstone.com/music/music-news/weezer-ceo-music-video-tony-hawk-tour-dates-1235603846/",
-    "publishedAt": "2026-08-05T13:04:36.000Z",
-    "summary": "The rock band tapped Tony Hawk, Giovanni Ribisi, Michael Peña, Rob Riggle, and Rob Huebel for the throwback clip",
     "image": null
   },
   {
@@ -600,15 +609,6 @@
     "url": "https://www.uncut.co.uk/news/mike-joyce-and-stephen-street-announce-in-conversation-tour-marking-the-40th-anniversary-of-the-smiths-the-queen-is-dead-155725/",
     "publishedAt": "2026-08-04T10:19:35.000Z",
     "summary": "There is a light...",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMimwFBVV95cUxOQnF0b0JfNmNmejUyNlhLR09OXzVmWFpGLW01c0V0eGdOR2ZTUkJFUXZ2TnFxQS1YaV9mQjBIUTlnUnZ1ZVh1NFl5TlNfejM5Z0RNc2NXRkwtVWo2WV9heDcxZVFLQnp1UG9DVkVlak1SN1M1VW14T1dzOWVmOEZzTzNFWGpHb1F3al9xSmFvU2p3ZXRYSFd2SXc1dw?oc=5",
-    "source": "nme",
-    "title": "Van Morrison announces 10 extra 2026 UK tour dates - NME",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQnF0b0JfNmNmejUyNlhLR09OXzVmWFpGLW01c0V0eGdOR2ZTUkJFUXZ2TnFxQS1YaV9mQjBIUTlnUnZ1ZVh1NFl5TlNfejM5Z0RNc2NXRkwtVWo2WV9heDcxZVFLQnp1UG9DVkVlak1SN1M1VW14T1dzOWVmOEZzTzNFWGpHb1F3al9xSmFvU2p3ZXRYSFd2SXc1dw?oc=5",
-    "publishedAt": "2026-08-04T09:58:15.000Z",
-    "summary": "Van Morrison announces 10 extra 2026 UK tour dates NME",
     "image": null
   },
   {
