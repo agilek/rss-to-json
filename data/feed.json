@@ -1,5 +1,23 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/pro/universal-music-korea-hukky-shibaseki/",
+    "source": "billboard",
+    "title": "Universal Music Korea Signs Hukky Shibaseki",
+    "url": "https://www.billboard.com/pro/universal-music-korea-hukky-shibaseki/",
+    "publishedAt": "2026-08-07T10:09:55.000Z",
+    "summary": "At UMK, the hip-hop standout joins a roster that includes DEAN, Okasian, Bryan Chase, LIM KIM, 1300, and HEYOON.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/yes-boone-signs-warner-music-australasia/",
+    "source": "billboard",
+    "title": "Yes Boone Signs With Warner Music Australasia",
+    "url": "https://www.billboard.com/pro/yes-boone-signs-warner-music-australasia/",
+    "publishedAt": "2026-08-07T09:42:40.000Z",
+    "summary": "The Sydney electronic music artist was shortlisted for breakthrough independent artist of the year at the 2026 AIR Awards.",
+    "image": null
+  },
+  {
     "id": "uncut-https://www.uncut.co.uk/features/how-creedence-clearwater-revival-became-bigger-than-the-beatles-155690/",
     "source": "uncut",
     "title": "How Creedence Clearwater Revival became bigger than The Beatles",
@@ -162,24 +180,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/culture/lifestyle/barbra-streisand-childrens-picture-book-and-by-the-way-1236311190/",
-    "source": "billboard",
-    "title": "Barbra Streisand Is Stepping Into Children’s Literature With Debut Picture Book ‘And By the Way…’",
-    "url": "https://www.billboard.com/culture/lifestyle/barbra-streisand-childrens-picture-book-and-by-the-way-1236311190/",
-    "publishedAt": "2026-08-07T00:01:52.000Z",
-    "summary": "The book will be released in March 2027.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/umg-sony-music-copyright-lawsuit-canadian-streaming-app/",
-    "source": "billboard",
-    "title": "Universal & Sony Music Take Legal Action in Canada Against ‘Parasitic’ Streaming App Musi",
-    "url": "https://www.billboard.com/pro/umg-sony-music-copyright-lawsuit-canadian-streaming-app/",
-    "publishedAt": "2026-08-07T00:01:17.000Z",
-    "summary": "IFPI and Music Canada are coordinating the action against the app, which unlawfully sources music from YouTube.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/why-everyone-is-convinced-tate-mcrae-is-maga-1235604671/",
     "source": "rolling-stone",
     "title": "Why Is Everyone Convinced Tate McRae Is MAGA?",
@@ -326,19 +326,19 @@
   {
     "id": "nme-https://news.google.com/rss/articles/CBMipwFBVV95cUxOeDYxRnB6Qk1DSkFXN1ZkS3R0TG1BSlo5MEdLUTJCVVdjYXpucmk0aEc0LXVrZEV2T0t5dzFGVVhXajVQMmZtcjc4NVdrZ3dKQW1taGJJVEtBUVV3NHN2NkVYREkybWUyT04wTlItMmZ0NW5KN1ZHNkFzd2dtTy1aZENCMkhQYVl3SFNRSEh1ZTJQQi1reXpaMGpCLWVYYW9kX0xkUHlPWQ?oc=5",
     "source": "nme",
-    "title": "Joan Jett cancels tour dates due to \"healing process\" after surgery - nme.com",
+    "title": "Joan Jett cancels tour dates due to \"healing process\" after surgery - NME",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeDYxRnB6Qk1DSkFXN1ZkS3R0TG1BSlo5MEdLUTJCVVdjYXpucmk0aEc0LXVrZEV2T0t5dzFGVVhXajVQMmZtcjc4NVdrZ3dKQW1taGJJVEtBUVV3NHN2NkVYREkybWUyT04wTlItMmZ0NW5KN1ZHNkFzd2dtTy1aZENCMkhQYVl3SFNRSEh1ZTJQQi1reXpaMGpCLWVYYW9kX0xkUHlPWQ?oc=5",
     "publishedAt": "2026-08-06T12:54:18.000Z",
-    "summary": "Joan Jett cancels tour dates due to \"healing process\" after surgery nme.com",
+    "summary": "Joan Jett cancels tour dates due to \"healing process\" after surgery NME",
     "image": null
   },
   {
     "id": "nme-https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVGY5SGdxRWhLTW0ycExvYVVqQ2h1cDAxeWd2WEFCd3dQaUY4S3k1cW9ZOVpvakZLU0NaU1J0QVhMajNuLXcwMTF4azZQME9fakdmZWJ1eF9YQTFWOVlDTzVQTnkyUXRzVmdXVUJjam1HeVVnRHlnQlVveW1ERE5TY0hWdXhNT1dwM1RpRVVneENKTWRUTV9qMXNBWUF6Qk5ieVNFMDlVQllGOFV3VWhVRmZXcklGdTZPVnpPLWhpWTY2Zw?oc=5",
     "source": "nme",
-    "title": "Gary Glitter appears in court over historical sex offence charges dating back to 1978 - nme.com",
+    "title": "Gary Glitter appears in court over historical sex offence charges dating back to 1978 - NME",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVGY5SGdxRWhLTW0ycExvYVVqQ2h1cDAxeWd2WEFCd3dQaUY4S3k1cW9ZOVpvakZLU0NaU1J0QVhMajNuLXcwMTF4azZQME9fakdmZWJ1eF9YQTFWOVlDTzVQTnkyUXRzVmdXVUJjam1HeVVnRHlnQlVveW1ERE5TY0hWdXhNT1dwM1RpRVVneENKTWRUTV9qMXNBWUF6Qk5ieVNFMDlVQllGOFV3VWhVRmZXcklGdTZPVnpPLWhpWTY2Zw?oc=5",
     "publishedAt": "2026-08-06T12:35:09.000Z",
-    "summary": "Gary Glitter appears in court over historical sex offence charges dating back to 1978 nme.com",
+    "summary": "Gary Glitter appears in court over historical sex offence charges dating back to 1978 NME",
     "image": null
   },
   {
@@ -443,10 +443,10 @@
   {
     "id": "nme-https://news.google.com/rss/articles/CBMivAFBVV95cUxPVWZEZ3ZUdmtyT1Z5QTlGeEpzejlZeWF2Z0YzTlNNb1RMTmpUamtqUDJqWTFVaElsSHNNZ21mUDE0ZnZfUmpTeGo2TnFzbXpvbEVZdUM5QXEwSndTQ1RGejZlWjhtTDBsQXlRbnN4VDZmcWZibjhSS2w4NXlUbmFrZXN4YWV5TDhNcnpOZlJfd1pnZnJjMXhDaVVHNVJKQ0QxRThUbk4xSTEyZWxUMHA4N0c1d3JmclZEYzN5Mg?oc=5",
     "source": "nme",
-    "title": "Classics professor Emily Wilson doubles down on ‘The Odyssey’ criticism: “We need more” - nme.com",
+    "title": "Classics professor Emily Wilson doubles down on ‘The Odyssey’ criticism: “We need more” - NME",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVWZEZ3ZUdmtyT1Z5QTlGeEpzejlZeWF2Z0YzTlNNb1RMTmpUamtqUDJqWTFVaElsSHNNZ21mUDE0ZnZfUmpTeGo2TnFzbXpvbEVZdUM5QXEwSndTQ1RGejZlWjhtTDBsQXlRbnN4VDZmcWZibjhSS2w4NXlUbmFrZXN4YWV5TDhNcnpOZlJfd1pnZnJjMXhDaVVHNVJKQ0QxRThUbk4xSTEyZWxUMHA4N0c1d3JmclZEYzN5Mg?oc=5",
     "publishedAt": "2026-08-06T10:14:52.000Z",
-    "summary": "Classics professor Emily Wilson doubles down on ‘The Odyssey’ criticism: “We need more” nme.com",
+    "summary": "Classics professor Emily Wilson doubles down on ‘The Odyssey’ criticism: “We need more” NME",
     "image": null
   },
   {
@@ -461,19 +461,19 @@
   {
     "id": "nme-https://news.google.com/rss/articles/CBMilgFBVV95cUxOUEIxTC1wanlYWDRYSVlnS1NEb2NvdXRtWnlFYW9oRGkzRU1hdXF3bXl0M0xaMjZQNDdpYXpIQkZPMzl3SURLeEl0QlBDdGpnN2RwVnZaLWtJQUJfeFRFR1RMaHpkOU14bkpvSFFVb0Jld0pIQlVpUUpqVlRKQjZpd2Y4TFdVOU5vLU93R2V6Vi13OHdENFE?oc=5",
     "source": "nme",
-    "title": "‘Spider-Man: Brand New Day’ post-credits scene explained - nme.com",
+    "title": "‘Spider-Man: Brand New Day’ post-credits scene explained - NME",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUEIxTC1wanlYWDRYSVlnS1NEb2NvdXRtWnlFYW9oRGkzRU1hdXF3bXl0M0xaMjZQNDdpYXpIQkZPMzl3SURLeEl0QlBDdGpnN2RwVnZaLWtJQUJfeFRFR1RMaHpkOU14bkpvSFFVb0Jld0pIQlVpUUpqVlRKQjZpd2Y4TFdVOU5vLU93R2V6Vi13OHdENFE?oc=5",
     "publishedAt": "2026-08-06T09:56:19.000Z",
-    "summary": "‘Spider-Man: Brand New Day’ post-credits scene explained nme.com",
+    "summary": "‘Spider-Man: Brand New Day’ post-credits scene explained NME",
     "image": null
   },
   {
     "id": "nme-https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ0RBV0NWa3pkRHNjSHZPMEFtTWt3SEVYQ3F6LVVLMm5QcGJCUUNxWlZUcXFVazA4NjliTUlVT1FOSnczMUtyTW5lY2U0MElNOWh4VTdCNkh4cTVCNldLOXpsbmxsMW0yR1JkSHJVU2tVQWppMnRsb2dPY2ZJa1dESFBrMjFIWEwwR0ZfUkFQUEFiUW5JenhaakJtcVM?oc=5",
     "source": "nme",
-    "title": "Oasis tour promoter granted licence for gigs at Knebworth - nme.com",
+    "title": "Oasis tour promoter granted licence for gigs at Knebworth - NME",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ0RBV0NWa3pkRHNjSHZPMEFtTWt3SEVYQ3F6LVVLMm5QcGJCUUNxWlZUcXFVazA4NjliTUlVT1FOSnczMUtyTW5lY2U0MElNOWh4VTdCNkh4cTVCNldLOXpsbmxsMW0yR1JkSHJVU2tVQWppMnRsb2dPY2ZJa1dESFBrMjFIWEwwR0ZfUkFQUEFiUW5JenhaakJtcVM?oc=5",
     "publishedAt": "2026-08-06T09:56:19.000Z",
-    "summary": "Oasis tour promoter granted licence for gigs at Knebworth nme.com",
+    "summary": "Oasis tour promoter granted licence for gigs at Knebworth NME",
     "image": null
   },
   {
@@ -515,10 +515,10 @@
   {
     "id": "nme-https://news.google.com/rss/articles/CBMisAFBVV95cUxPclhhMmtIbUxtMWZ5TG90REd5ZjVHdUZlNVhnNEdpcVVjZGlqRlNsSkw1S2lkRG1DamdEMk1DcjFpNlZ2aExxcEFEZVRIZ1VrSWlObHhlSEx1UFJmTVhMdGZmZUZTSzNzNDZIaEZSZkc3RHMxbnVFMjZpUDBSc242TGZOMno4TWNpVmhWUlozcGZFbnhYbU9xX2Y5S25ZX2NOTEFRR0gyUGM3UFl2aVpaMg?oc=5",
     "source": "nme",
-    "title": "Jack White’s Third Man Records announces UK and Ireland pop-up store tour - nme.com",
+    "title": "Jack White’s Third Man Records announces UK and Ireland pop-up store tour - NME",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPclhhMmtIbUxtMWZ5TG90REd5ZjVHdUZlNVhnNEdpcVVjZGlqRlNsSkw1S2lkRG1DamdEMk1DcjFpNlZ2aExxcEFEZVRIZ1VrSWlObHhlSEx1UFJmTVhMdGZmZUZTSzNzNDZIaEZSZkc3RHMxbnVFMjZpUDBSc242TGZOMno4TWNpVmhWUlozcGZFbnhYbU9xX2Y5S25ZX2NOTEFRR0gyUGM3UFl2aVpaMg?oc=5",
     "publishedAt": "2026-08-05T20:00:08.000Z",
-    "summary": "Jack White’s Third Man Records announces UK and Ireland pop-up store tour nme.com",
+    "summary": "Jack White’s Third Man Records announces UK and Ireland pop-up store tour NME",
     "image": null
   },
   {
@@ -533,10 +533,10 @@
   {
     "id": "nme-https://news.google.com/rss/articles/CBMijwFBVV95cUxQc2RxSE5lUUd0ajhHNlZESTR1VzdLQXlKSUJ5ZWhVNmRJZFQ2M1B0T2w5cWpRdzRadFRWZkFhRWlGLVk1Zl9VXzZmQW92czVQdTJBSzlEdTZ5eDdxc1d6aGhpblY1eXctOGVxbGplTzgzc01nanNXX0NIU3doSlFKSklSMFBvS3A5Qi1hOXJwcw?oc=5",
     "source": "nme",
-    "title": "‘The Mummy’ posters banned from London Underground - nme.com",
+    "title": "‘The Mummy’ posters banned from London Underground - NME",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc2RxSE5lUUd0ajhHNlZESTR1VzdLQXlKSUJ5ZWhVNmRJZFQ2M1B0T2w5cWpRdzRadFRWZkFhRWlGLVk1Zl9VXzZmQW92czVQdTJBSzlEdTZ5eDdxc1d6aGhpblY1eXctOGVxbGplTzgzc01nanNXX0NIU3doSlFKSklSMFBvS3A5Qi1hOXJwcw?oc=5",
     "publishedAt": "2026-08-05T17:36:08.000Z",
-    "summary": "‘The Mummy’ posters banned from London Underground nme.com",
+    "summary": "‘The Mummy’ posters banned from London Underground NME",
     "image": null
   },
   {
