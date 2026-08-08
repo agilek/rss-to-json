@@ -1,5 +1,32 @@
 [
   {
+    "id": "loudwire-https://loudwire.com/least-played-rush-songs-live/",
+    "source": "loudwire",
+    "title": "The Least Played Song Off All 19 Rush Albums",
+    "url": "https://loudwire.com/least-played-rush-songs-live/",
+    "publishedAt": "2026-08-08T11:20:36.000Z",
+    "summary": "See how many times they were played and when Rush last played them. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/forgotten-1990s-bands-hair-metal-legends/",
+    "source": "loudwire",
+    "title": "11 Forgotten ‘90s Bands Formed by '80s Hair Metal Legends",
+    "url": "https://loudwire.com/forgotten-1990s-bands-hair-metal-legends/",
+    "publishedAt": "2026-08-08T11:00:47.000Z",
+    "summary": "As hair metal fizzled and lineups splintered, many '80s stars attempted to start over. Most projects, however, have been forgotten decades later. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMi3gFBVV95cUxNd1RlY2dsM3d3SUZiZnJyN194SHhRcXU3ZlJ6VTlwSWc5YzRuNmxPNl9KTUZOenUxVmRXTWRCSmRxdzFWYUVVMjVLbVFNYVpnSGhkOXpuc1RkQ01wdmxIVEh2cGF5bXFwWGxEMHg1cTVkVW55T0JEclNHU1hITGRpRU5tSmdGMjZxRDZYUkUxSFJGcjZMZ1NYZ3dTbUl5bktVS3RfVm84WklibU5fbUlTR0VTMEQxY1lUaVN4ZEZ2NGc2THBvM0JEd2hwZGItb21kVEpRdzR4SHV3R01pR0E?oc=5",
+    "source": "nme",
+    "title": "Morrissey cancels Las Vegas residency due to “unforeseen logistical challenges” a week before the first show - NME",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNd1RlY2dsM3d3SUZiZnJyN194SHhRcXU3ZlJ6VTlwSWc5YzRuNmxPNl9KTUZOenUxVmRXTWRCSmRxdzFWYUVVMjVLbVFNYVpnSGhkOXpuc1RkQ01wdmxIVEh2cGF5bXFwWGxEMHg1cTVkVW55T0JEclNHU1hITGRpRU5tSmdGMjZxRDZYUkUxSFJGcjZMZ1NYZ3dTbUl5bktVS3RfVm84WklibU5fbUlTR0VTMEQxY1lUaVN4ZEZ2NGc2THBvM0JEd2hwZGItb21kVEpRdzR4SHV3R01pR0E?oc=5",
+    "publishedAt": "2026-08-08T07:42:16.000Z",
+    "summary": "Morrissey cancels Las Vegas residency due to “unforeseen logistical challenges” a week before the first show NME",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/music-news/vera-blue-radiohead-creep-triple-j-like-a-version-1236312212/",
     "source": "billboard",
     "title": "Vera Blue covers Radiohead’s ‘Creep’ for triple j’s Like A Version",
@@ -342,6 +369,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMirAFBVV95cUxNM3VkMUhXM2E3c1puc3BRd0hFajJHaVp5NEFEYnpraVdEWGRCNkhtQnNLYWhqbWlNMEgtLV9oeG1wNWg5cUF4U3FlUklVc2lGNGVhUEdiTGpGMms0Nk9KM2NHSlJMUjhNOEU5NEQ0bDZQa1FlQUZJNi1ESTZPcXI0YjFtczhGMkFRX3RzaEpyOG11UXRVaE1qVDRzUlNNODJqSGpnUE5DLTF0QWFt?oc=5",
+    "source": "nme",
+    "title": "Madonna and Kylie Minogue team up for ‘Love Sensation (Afterhours remix)’ - NME",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM3VkMUhXM2E3c1puc3BRd0hFajJHaVp5NEFEYnpraVdEWGRCNkhtQnNLYWhqbWlNMEgtLV9oeG1wNWg5cUF4U3FlUklVc2lGNGVhUEdiTGpGMms0Nk9KM2NHSlJMUjhNOEU5NEQ0bDZQa1FlQUZJNi1ESTZPcXI0YjFtczhGMkFRX3RzaEpyOG11UXRVaE1qVDRzUlNNODJqSGpnUE5DLTF0QWFt?oc=5",
+    "publishedAt": "2026-08-07T11:38:32.000Z",
+    "summary": "Madonna and Kylie Minogue team up for ‘Love Sensation (Afterhours remix)’ NME",
+    "image": null
+  },
+  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMElNNENOelVnRzVVRkRpTUg1enBETjZiY2NIZGNaU0FUTWNLSG1ZTE1VY2ZRWFBkTzAybmMyR1lIUkhGMHNseUF2MzV3N0ZGOGdqeGFvTmZPREsyX2FUcGlzQ28wd05LWVd5QzZqTTJXOXdHZVdOZ3p1UTNoNjNSUDFtS2FHRmZlb0dlbnZONklyWHlxVTlSb1BVSU1KTmx1em9Cc3VTVGd2ajA0SDYxN3N4ek54eTRfMFlYbzF0S0ZWZ2RPMWZid3NUMHc4V0pjS1JnV2F2eGs1ajNwTFp4ajhRT213WHM?oc=5",
     "source": "kerrang",
     "title": "\"We wanted to carve out our own piece of territory\": Dead Poet… - Kerrang!",
@@ -477,15 +513,6 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/did-kelly-osbourne-sid-wilson-end-engagement/",
-    "source": "loudwire",
-    "title": "Did Kelly Osbourne + Sid Wilson End Their Engagement?",
-    "url": "https://loudwire.com/did-kelly-osbourne-sid-wilson-end-engagement/",
-    "publishedAt": "2026-08-06T17:22:55.000Z",
-    "summary": "A source has shared with 'People' magazine that Kelly Osbourne and Sid Wilson have broken off their engagement as Kelly remains focused on now being a parent to their son Sidney. Continue reading…",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/rock-en-seine-2026-festival-preview/",
     "source": "louder-than-war",
     "title": "Rock En Seine 2026 – Festival Preview",
@@ -504,15 +531,6 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/nikki-sixx-motley-crue-backing-tracks/",
-    "source": "loudwire",
-    "title": "Nikki Sixx Addresses Motley Crue's Use of Backing Tracks Live",
-    "url": "https://loudwire.com/nikki-sixx-motley-crue-backing-tracks/",
-    "publishedAt": "2026-08-06T14:06:35.000Z",
-    "summary": "Motley Crue's Nikki Sixx offers a detailed explanation on their use of backing tracks while assuring that all four members are playing 100 percent live. Continue reading…",
-    "image": null
-  },
-  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMikwFBVV95cUxPcU11c3R5Y1dsVDZhc2NjbnVBSkhNbVVpdl96UHpQU21CMjJHSWZudjdnRVYxZDlZVHMxblhrZTZTSjNNMGZxVkR3VkRyZ0NJOTk5RGN6OWhJMl9hMVRpY0t0bE5FYXl6MW5JRDNkNmNLdU9ZcTYtaEc1WW9RbTg4TS1SSkY5SXoybmhIT1J6ZG9wOUk?oc=5",
     "source": "kerrang",
     "title": "The rise of Lamb Of God, as told through their most important gigs - Kerrang!",
@@ -528,15 +546,6 @@
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeDYxRnB6Qk1DSkFXN1ZkS3R0TG1BSlo5MEdLUTJCVVdjYXpucmk0aEc0LXVrZEV2T0t5dzFGVVhXajVQMmZtcjc4NVdrZ3dKQW1taGJJVEtBUVV3NHN2NkVYREkybWUyT04wTlItMmZ0NW5KN1ZHNkFzd2dtTy1aZENCMkhQYVl3SFNRSEh1ZTJQQi1reXpaMGpCLWVYYW9kX0xkUHlPWQ?oc=5",
     "publishedAt": "2026-08-06T12:54:18.000Z",
     "summary": "Joan Jett cancels tour dates due to \"healing process\" after surgery NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVGY5SGdxRWhLTW0ycExvYVVqQ2h1cDAxeWd2WEFCd3dQaUY4S3k1cW9ZOVpvakZLU0NaU1J0QVhMajNuLXcwMTF4azZQME9fakdmZWJ1eF9YQTFWOVlDTzVQTnkyUXRzVmdXVUJjam1HeVVnRHlnQlVveW1ERE5TY0hWdXhNT1dwM1RpRVVneENKTWRUTV9qMXNBWUF6Qk5ieVNFMDlVQllGOFV3VWhVRmZXcklGdTZPVnpPLWhpWTY2Zw?oc=5",
-    "source": "nme",
-    "title": "Gary Glitter appears in court over historical sex offence charges dating back to 1978 - NME",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVGY5SGdxRWhLTW0ycExvYVVqQ2h1cDAxeWd2WEFCd3dQaUY4S3k1cW9ZOVpvakZLU0NaU1J0QVhMajNuLXcwMTF4azZQME9fakdmZWJ1eF9YQTFWOVlDTzVQTnkyUXRzVmdXVUJjam1HeVVnRHlnQlVveW1ERE5TY0hWdXhNT1dwM1RpRVVneENKTWRUTV9qMXNBWUF6Qk5ieVNFMDlVQllGOFV3VWhVRmZXcklGdTZPVnpPLWhpWTY2Zw?oc=5",
-    "publishedAt": "2026-08-06T12:35:09.000Z",
-    "summary": "Gary Glitter appears in court over historical sex offence charges dating back to 1978 NME",
     "image": null
   },
   {
@@ -609,15 +618,6 @@
     "url": "https://louderthanwar.com/rebellion-festival-opening-night-with-spike-steve-conte-monty-oxymoron-and-voices-from-the-pool/",
     "publishedAt": "2026-08-06T11:11:16.000Z",
     "summary": "Spike (Quireboys) Steve Conte Voices From The Pool Monty Oxymoron (The Damned) Rebellion Festival Blackpool Aug 2026 My oh my Rebellion Festival how much you have grown! Blackpool is full of punks of all shapes and sizes and nations and generations for a record breaking seven days this year and opens with this event […] The post Rebellion Festival opening night with Spike, Steve Conte, Monty Oxymoron and Voices From The Pool appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMivAFBVV95cUxPVWZEZ3ZUdmtyT1Z5QTlGeEpzejlZeWF2Z0YzTlNNb1RMTmpUamtqUDJqWTFVaElsSHNNZ21mUDE0ZnZfUmpTeGo2TnFzbXpvbEVZdUM5QXEwSndTQ1RGejZlWjhtTDBsQXlRbnN4VDZmcWZibjhSS2w4NXlUbmFrZXN4YWV5TDhNcnpOZlJfd1pnZnJjMXhDaVVHNVJKQ0QxRThUbk4xSTEyZWxUMHA4N0c1d3JmclZEYzN5Mg?oc=5",
-    "source": "nme",
-    "title": "Classics professor Emily Wilson doubles down on ‘The Odyssey’ criticism: “We need more” - NME",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVWZEZ3ZUdmtyT1Z5QTlGeEpzejlZeWF2Z0YzTlNNb1RMTmpUamtqUDJqWTFVaElsSHNNZ21mUDE0ZnZfUmpTeGo2TnFzbXpvbEVZdUM5QXEwSndTQ1RGejZlWjhtTDBsQXlRbnN4VDZmcWZibjhSS2w4NXlUbmFrZXN4YWV5TDhNcnpOZlJfd1pnZnJjMXhDaVVHNVJKQ0QxRThUbk4xSTEyZWxUMHA4N0c1d3JmclZEYzN5Mg?oc=5",
-    "publishedAt": "2026-08-06T10:14:52.000Z",
-    "summary": "Classics professor Emily Wilson doubles down on ‘The Odyssey’ criticism: “We need more” NME",
     "image": null
   },
   {
