@@ -1,11 +1,29 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/concerts/la-jazz-festival-canceled-postponed-2027-john-legend-1236312333/",
+    "source": "billboard",
+    "title": "LA Jazz Festival Featuring John Legend & Janelle Monáe Canceled at Last Minute",
+    "url": "https://www.billboard.com/music/concerts/la-jazz-festival-canceled-postponed-2027-john-legend-1236312333/",
+    "publishedAt": "2026-08-09T17:41:32.000Z",
+    "summary": "The 17-day event has been postponed to 2027, organizers announced.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/charli-xcx-the-strokes-outside-lands/",
+    "source": "pitchfork",
+    "title": "Watch Charli XCX Join the Strokes for “Take It Or Leave It” at Outside Lands",
+    "url": "https://pitchfork.com/story/charli-xcx-the-strokes-outside-lands/",
+    "publishedAt": "2026-08-09T17:23:04.000Z",
+    "summary": "“We’ve got a special little guest; a big guest. Well, a superstar.”",
+    "image": null
+  },
+  {
     "id": "loudwire-https://loudwire.com/motley-crue-nikki-sixx-doesnt-believe-in-making-full-length-records-anymore/",
     "source": "loudwire",
     "title": "Why Nikki Sixx Doesn't 'Believe in Making' LPs Anymore",
     "url": "https://loudwire.com/motley-crue-nikki-sixx-doesnt-believe-in-making-full-length-records-anymore/",
     "publishedAt": "2026-08-09T16:17:06.000Z",
-    "summary": "The bassist explains why creating 'full-length records' is no longer appealing or worthwhile for him. Continue reading…",
+    "summary": "The bassist explains why creating \"full-length records\" is no longer appealing or worthwhile for him. Continue reading…",
     "image": null
   },
   {
@@ -351,15 +369,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/vera-blue-radiohead-creep-triple-j-like-a-version-1236312212/",
-    "source": "billboard",
-    "title": "Vera Blue covers Radiohead’s ‘Creep’ for triple j’s Like A Version",
-    "url": "https://www.billboard.com/music/music-news/vera-blue-radiohead-creep-triple-j-like-a-version-1236312212/",
-    "publishedAt": "2026-08-08T07:29:29.000Z",
-    "summary": "Blue also performed \"Maze,\" a track from her forthcoming album Modern Rituals.",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/william-orbit-rip-an-appreciation/",
     "source": "louder-than-war",
     "title": "William Orbit RIP : an appreciation",
@@ -546,15 +555,6 @@
     "url": "https://pitchfork.com/story/you-can-now-comment-on-this-post-pitchfork/",
     "publishedAt": "2026-08-06T21:00:37.000Z",
     "summary": "Starting today, Pitchfork subscribers can comment on all stories",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/the-avalanches-announce-new-album-no-bad-memories/",
-    "source": "pitchfork",
-    "title": "The Avalanches Announce New Album No Bad Memories",
-    "url": "https://pitchfork.com/story/the-avalanches-announce-new-album-no-bad-memories/",
-    "publishedAt": "2026-08-06T19:25:40.000Z",
-    "summary": "Plus, they dropped a new single featuring Portraits of Tracy",
     "image": null
   },
   {
