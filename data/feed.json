@@ -1,5 +1,32 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/fugees-lauryn-hill-diaspora-calling-set-cut-short-curfew-1236312422/",
+    "source": "billboard",
+    "title": "Fans Dismayed As Fugees Set at Lauryn Hill’s Diaspora Calling! Festival Cut Short Due to Curfew",
+    "url": "https://www.billboard.com/music/rb-hip-hop/fugees-lauryn-hill-diaspora-calling-set-cut-short-curfew-1236312422/",
+    "publishedAt": "2026-08-10T11:09:05.000Z",
+    "summary": "Lauryn Hill and Wyclef Jean were mid-song when the 11 p.m. restrictions kicked in.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/sam-fender-olivia-dean-rein-mein-uk-chart-records/",
+    "source": "billboard",
+    "title": "How Sam Fender & Olivia Dean’s ‘Rein Me In’ Became the U.K.’s Longest-Running No. 1 Single Ever",
+    "url": "https://www.billboard.com/lists/sam-fender-olivia-dean-rein-mein-uk-chart-records/",
+    "publishedAt": "2026-08-10T09:25:59.000Z",
+    "summary": "The song now holds the all-time record for the longest-running U.K. No. 1 single.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/ariana-grande-brother-frankie-support-1236312413/",
+    "source": "billboard",
+    "title": "Frankie Grande Voices Support for Sister Ariana After Hiatus Announcement",
+    "url": "https://www.billboard.com/music/pop/ariana-grande-brother-frankie-support-1236312413/",
+    "publishedAt": "2026-08-10T09:25:05.000Z",
+    "summary": "\"Family forever. I will have your back until the end of time,\" Frankie wrote in a heartfelt post to Instagram.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/concerts/suzi-quatro-australia-tour-2026-1236312409/",
     "source": "billboard",
     "title": "Suzi Quatro Announces 2026 Australian Tour With Baby Animals",
@@ -135,33 +162,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/pop/whitney-houston-barbie-signature-doll-mattel-1236312340/",
-    "source": "billboard",
-    "title": "Whitney Houston Joins Barbie Signature Family",
-    "url": "https://www.billboard.com/music/pop/whitney-houston-barbie-signature-doll-mattel-1236312340/",
-    "publishedAt": "2026-08-09T19:32:40.000Z",
-    "summary": "Inspired by singer's classic video \"I Wanna Dance with Somebody,\" collector's doll was unveiled at fifth annual Legacy of Love Gala in Atlanta.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/top-country-albums-number-ones-biggest/",
-    "source": "billboard",
-    "title": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
-    "url": "https://www.billboard.com/lists/top-country-albums-number-ones-biggest/",
-    "publishedAt": "2026-08-09T19:14:52.000Z",
-    "summary": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/ariana-grande-petal-number-one-billboard-200-chart-1236312334/",
-    "source": "billboard",
-    "title": "Ariana Grande Achieves Seventh No. 1 Album on Billboard 200 With ‘petal’",
-    "url": "https://www.billboard.com/music/chart-beat/ariana-grande-petal-number-one-billboard-200-chart-1236312334/",
-    "publishedAt": "2026-08-09T19:00:18.000Z",
-    "summary": "The set scores Grande her biggest week by units earned this decade.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/inaugural-los-angeles-jazz-festival-canceled-last-minute-1235606056/",
     "source": "rolling-stone",
     "title": "Inaugural L.A. Jazz Festival Canceled at Last Minute",
@@ -186,6 +186,15 @@
     "url": "https://loudwire.com/motley-crue-nikki-sixx-doesnt-believe-in-making-full-length-records-anymore/",
     "publishedAt": "2026-08-09T16:17:06.000Z",
     "summary": "The bassist explains why creating \"full-length records\" is no longer appealing or worthwhile for him. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMijAJBVV95cUxPdGNIN0xqcXUwN1M1dU45RWEwbTBFVzNvSF9DOWlvY3d4X2l5aExYQmJ5VWJfakhNN19jM1hVdzFPdmVNUkpQX1F4UmdTazNKb2otUmg2bzdUR19SMkhfTGZSN0cwandMdDZTdkVuYWlvOFdweHc3UWZxM1A5S3dhNWpfZmZ6amM1cGljWUNfci1QNU5JVkgwRXdXUWxRTmFjOWFQVldoZmdOdUNhc0N6SlJkVDJobEplUFNBTTdhNG9uUXBteGVJaEtqSnA4c1g4ZEc3bFVjOUxqMERNRXB3bzRXUHMtbFNSRGtPX1VVaGRSSmdHTFRieHI3WXB2OEhtYzQyZ09ZVjhpVW5Y?oc=5",
+    "source": "nme",
+    "title": "Fans complain after Fugees set cut short at Lauryn Hill's Diaspora Calling! festival: \"The ending was ridiculous\" - NME",
+    "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPdGNIN0xqcXUwN1M1dU45RWEwbTBFVzNvSF9DOWlvY3d4X2l5aExYQmJ5VWJfakhNN19jM1hVdzFPdmVNUkpQX1F4UmdTazNKb2otUmg2bzdUR19SMkhfTGZSN0cwandMdDZTdkVuYWlvOFdweHc3UWZxM1A5S3dhNWpfZmZ6amM1cGljWUNfci1QNU5JVkgwRXdXUWxRTmFjOWFQVldoZmdOdUNhc0N6SlJkVDJobEplUFNBTTdhNG9uUXBteGVJaEtqSnA4c1g4ZEc3bFVjOUxqMERNRXB3bzRXUHMtbFNSRGtPX1VVaGRSSmdHTFRieHI3WXB2OEhtYzQyZ09ZVjhpVW5Y?oc=5",
+    "publishedAt": "2026-08-09T15:27:45.000Z",
+    "summary": "Fans complain after Fugees set cut short at Lauryn Hill's Diaspora Calling! festival: \"The ending was ridiculous\" NME",
     "image": null
   },
   {
@@ -243,6 +252,15 @@
     "image": null
   },
   {
+    "id": "louder-than-war-https://louderthanwar.com/avi-engel-seedhead-album-review/",
+    "source": "louder-than-war",
+    "title": "Avi Engel: Seedhead – Album Review",
+    "url": "https://louderthanwar.com/avi-engel-seedhead-album-review/",
+    "publishedAt": "2026-08-09T11:00:30.000Z",
+    "summary": "Avi Engel: Seedhead (Elephant Shrew Editions) CD | DL Released 14 August 2026 BUY HERE Avi Engel embraces the mystery with their latest album of ethereal songcraft. Andy Brown steps inside Seedhead for Louder Than War. “Wherever we turn in the storm of roses, the night is lit up by thorns, and the thunder […] The post Avi Engel: Seedhead – Album Review appeared first on Louder Than War.",
+    "image": null
+  },
+  {
     "id": "loudwire-https://loudwire.com/death-metal-debut-album-best/",
     "source": "loudwire",
     "title": "13 Death Metal Bands Whose Debut Album Is Their Best",
@@ -254,10 +272,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMijwFBVV95cUxNd3BzRUFFQ3Zfc1h1ay01bXd5NFVFYjdSa1Vra0dfU0szSXNYUWJGVUI1WEw0aDRSZkJpRlVHQlBqSEllbGdZRHpEUG1RSUhoMEhDQUtsRURKaTFXb0ZCUVBhSlNsT1RSVlFUOXhCSVBMbXdRb1RnN2EyaG5kdjdSY2ZHVHhvUHVQUzBhOU5nVQ?oc=5",
     "source": "kerrang",
-    "title": "Far from Terrible! How Slaughter To Prevail triumphed at their Bloodstock headline debut - kerrang.com",
+    "title": "Far from Terrible! How Slaughter To Prevail triumphed at their Bloodstock headline debut - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd3BzRUFFQ3Zfc1h1ay01bXd5NFVFYjdSa1Vra0dfU0szSXNYUWJGVUI1WEw0aDRSZkJpRlVHQlBqSEllbGdZRHpEUG1RSUhoMEhDQUtsRURKaTFXb0ZCUVBhSlNsT1RSVlFUOXhCSVBMbXdRb1RnN2EyaG5kdjdSY2ZHVHhvUHVQUzBhOU5nVQ?oc=5",
     "publishedAt": "2026-08-09T10:10:00.000Z",
-    "summary": "Far from Terrible! How Slaughter To Prevail triumphed at their Bloodstock headline debut kerrang.com",
+    "summary": "Far from Terrible! How Slaughter To Prevail triumphed at their Bloodstock headline debut Kerrang!",
     "image": null
   },
   {
@@ -362,10 +380,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMikgFBVV95cUxOUm1xbEh1bXJZUmlFVmNYYXpSb05vRTNOTHpHbElJcVlxR1ZCbHVLU1FnbzNjRHh4eFFRZVpyWEhmWEpmWm4yZ0pSdGhxLTc5SHBDc2NEZ2tEOGZHbm44YTFzQkFSUC1FYUNTRWRJT0RJdk5kRGZEVFJqaWVaNHVfM3JISlNWcm5aa0NXQWpTVjg0UQ?oc=5",
     "source": "kerrang",
-    "title": "Holding Absence delay release of new album Modern Life Is Lonely - kerrang.com",
+    "title": "Holding Absence delay release of new album Modern Life Is Lonely - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUm1xbEh1bXJZUmlFVmNYYXpSb05vRTNOTHpHbElJcVlxR1ZCbHVLU1FnbzNjRHh4eFFRZVpyWEhmWEpmWm4yZ0pSdGhxLTc5SHBDc2NEZ2tEOGZHbm44YTFzQkFSUC1FYUNTRWRJT0RJdk5kRGZEVFJqaWVaNHVfM3JISlNWcm5aa0NXQWpTVjg0UQ?oc=5",
     "publishedAt": "2026-08-08T15:12:00.000Z",
-    "summary": "Holding Absence delay release of new album Modern Life Is Lonely kerrang.com",
+    "summary": "Holding Absence delay release of new album Modern Life Is Lonely Kerrang!",
     "image": null
   },
   {
@@ -402,15 +420,6 @@
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWnk4NnlTOU41TTZvay0yQm5HS0RuZEJkQkxlek9WNzFYUnFITjNjV1lOX2NsNFZLd2FJWU8zMWNiVXAyWU1oXzJza1g4aTNVaDM1SWVpemdQV3huNW93ZmI4YUZGN2FDeVZmOTRvcFQ1Qk1vZlR0OWt1NFU3QTRKUmhSbWtTUQ?oc=5",
     "publishedAt": "2026-08-08T09:30:00.000Z",
     "summary": "Reign at Bloodstock! What happened when Lamb Of God headlined Friday of BOA 2026 Kerrang!",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMipgFBVV95cUxPcW9BOC05eHVIYmtOZFBqQXRCWEZPamp4c3JqLXVQN0h3XzNucjRBblVyOWVvQmRzRmVkQ3FtVFU5N3FtTGs5UFlndnhBZm5ycmliVUdsbFBMRnNMMGN4YUk4a2txVm5JVUtkTTJNTzkzTk5qVFdrc0Jqb0pUWkFQWF82UUZ3SmRyeWZwOGltVC1ERk41TzBOaDlRaDRHZjQ1NkJCem5R?oc=5",
-    "source": "nme",
-    "title": "Lindsey Buckingham teases new project with Stevie Nicks for 2027 - NME",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcW9BOC05eHVIYmtOZFBqQXRCWEZPamp4c3JqLXVQN0h3XzNucjRBblVyOWVvQmRzRmVkQ3FtVFU5N3FtTGs5UFlndnhBZm5ycmliVUdsbFBMRnNMMGN4YUk4a2txVm5JVUtkTTJNTzkzTk5qVFdrc0Jqb0pUWkFQWF82UUZ3SmRyeWZwOGltVC1ERk41TzBOaDlRaDRHZjQ1NkJCem5R?oc=5",
-    "publishedAt": "2026-08-08T09:20:33.000Z",
-    "summary": "Lindsey Buckingham teases new project with Stevie Nicks for 2027 NME",
     "image": null
   },
   {
@@ -542,19 +551,19 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMElNNENOelVnRzVVRkRpTUg1enBETjZiY2NIZGNaU0FUTWNLSG1ZTE1VY2ZRWFBkTzAybmMyR1lIUkhGMHNseUF2MzV3N0ZGOGdqeGFvTmZPREsyX2FUcGlzQ28wd05LWVd5QzZqTTJXOXdHZVdOZ3p1UTNoNjNSUDFtS2FHRmZlb0dlbnZONklyWHlxVTlSb1BVSU1KTmx1em9Cc3VTVGd2ajA0SDYxN3N4ek54eTRfMFlYbzF0S0ZWZ2RPMWZid3NUMHc4V0pjS1JnV2F2eGs1ajNwTFp4ajhRT213WHM?oc=5",
     "source": "kerrang",
-    "title": "\"We wanted to carve out our own piece of territory\": Dead Poet… - kerrang.com",
+    "title": "\"We wanted to carve out our own piece of territory\": Dead Poet… - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMElNNENOelVnRzVVRkRpTUg1enBETjZiY2NIZGNaU0FUTWNLSG1ZTE1VY2ZRWFBkTzAybmMyR1lIUkhGMHNseUF2MzV3N0ZGOGdqeGFvTmZPREsyX2FUcGlzQ28wd05LWVd5QzZqTTJXOXdHZVdOZ3p1UTNoNjNSUDFtS2FHRmZlb0dlbnZONklyWHlxVTlSb1BVSU1KTmx1em9Cc3VTVGd2ajA0SDYxN3N4ek54eTRfMFlYbzF0S0ZWZ2RPMWZid3NUMHc4V0pjS1JnV2F2eGs1ajNwTFp4ajhRT213WHM?oc=5",
     "publishedAt": "2026-08-07T10:41:00.000Z",
-    "summary": "\"We wanted to carve out our own piece of territory\": Dead Poet… kerrang.com",
+    "summary": "\"We wanted to carve out our own piece of territory\": Dead Poet… Kerrang!",
     "image": null
   },
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMib0FVX3lxTE1zUS1GRHctUkppTkdiNHhCX1ZrYkFkMXRwMlowVWRnZko1R29BZGprOV9LcUVtOXJvV2xPX3VHMWZXT05nT2xCYkZZUllqTjgwZUMzX2JGT1NwZS1WdTNVa1B1TURlQ20weXFlQUpISQ?oc=5",
     "source": "kerrang",
-    "title": "Album Review: Electric Callboy – Tanzneid - kerrang.com",
+    "title": "Album Review: Electric Callboy – Tanzneid - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zUS1GRHctUkppTkdiNHhCX1ZrYkFkMXRwMlowVWRnZko1R29BZGprOV9LcUVtOXJvV2xPX3VHMWZXT05nT2xCYkZZUllqTjgwZUMzX2JGT1NwZS1WdTNVa1B1TURlQ20weXFlQUpISQ?oc=5",
     "publishedAt": "2026-08-07T09:24:00.000Z",
-    "summary": "Album Review: Electric Callboy – Tanzneid kerrang.com",
+    "summary": "Album Review: Electric Callboy – Tanzneid Kerrang!",
     "image": null
   },
   {
@@ -702,21 +711,12 @@
     "image": null
   },
   {
-    "id": "louder-than-war-https://louderthanwar.com/lovejoy-under-the-weather-album-review/",
-    "source": "louder-than-war",
-    "title": "Lovejoy: Under The Weather – Album Review",
-    "url": "https://louderthanwar.com/lovejoy-under-the-weather-album-review/",
-    "publishedAt": "2026-08-06T08:30:45.000Z",
-    "summary": "Lovejoy: Under The Weather (Spinout Nuggets) All Formats Available Available Now Buy Here Guest reviewer, Jonathan Shipley of Assistant listens to Under The Weather, the new release from Lovejoy for LTW. Lovejoy’s return from a long hibernation in 2024 was a special moment for indie-pop – a treasured and inevitably nostalgic re-emergence from a band […] The post Lovejoy: Under The Weather – Album Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMic0FVX3lxTE03cFBLU0ozM0ZNOTgwYjZ4M2tjYU1aZUxLdm5ZMlhoSHE0MXlXdDVJZ0dVUk9wYWlzTzlNVTc2US1tM1VPQXYwUjJDWFE5QW9tVkhqakJxMm9mQVR5SzI1RG1BbGJFZ1g2ci0zcHV3Q3N1LXM?oc=5",
     "source": "kerrang",
-    "title": "Album review: Negative Frame – Break The Ice - kerrang.com",
+    "title": "Album review: Negative Frame – Break The Ice - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE03cFBLU0ozM0ZNOTgwYjZ4M2tjYU1aZUxLdm5ZMlhoSHE0MXlXdDVJZ0dVUk9wYWlzTzlNVTc2US1tM1VPQXYwUjJDWFE5QW9tVkhqakJxMm9mQVR5SzI1RG1BbGJFZ1g2ci0zcHV3Q3N1LXM?oc=5",
     "publishedAt": "2026-08-06T08:00:00.000Z",
-    "summary": "Album review: Negative Frame – Break The Ice kerrang.com",
+    "summary": "Album review: Negative Frame – Break The Ice Kerrang!",
     "image": null
   }
 ]
