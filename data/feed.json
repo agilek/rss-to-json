@@ -1,5 +1,68 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/pro/unitedmasters-hires-four-executive-leadership-team/",
+    "source": "billboard",
+    "title": "UnitedMasters Strengthens Executive Leadership Team With Four New Hires",
+    "url": "https://www.billboard.com/pro/unitedmasters-hires-four-executive-leadership-team/",
+    "publishedAt": "2026-08-10T14:46:42.000Z",
+    "summary": "The company has enjoyed a run of recent successes from artists including Brent Faiyaz, BigXthaPlug and FloyyMenor.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/country/the-chicks-taking-the-long-way-20th-anniversary-reissue-demos-1236312452/",
+    "source": "billboard",
+    "title": "The Chicks Announce ‘Taking the Long Way’ 20th Anniversary Reissue Featuring Demos, Bonus Tracks",
+    "url": "https://www.billboard.com/music/country/the-chicks-taking-the-long-way-20th-anniversary-reissue-demos-1236312452/",
+    "publishedAt": "2026-08-10T14:32:03.000Z",
+    "summary": "The trio's seventh studio album, the last to use their original Dixie Chicks name, was released in May 2006.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/iceage-announce-north-american-tour/",
+    "source": "pitchfork",
+    "title": "Iceage Announce North American Tour",
+    "url": "https://pitchfork.com/story/iceage-announce-north-american-tour/",
+    "publishedAt": "2026-08-10T14:03:31.000Z",
+    "summary": "After a European run behind For Love of Grace & the Hereafter",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/the-chicks-taking-the-long-way-reissue-1235605736/",
+    "source": "rolling-stone",
+    "title": "The Chicks Celebrate 20 Years of Not Making Nice With ‘Taking the Long Way’ Reissue",
+    "url": "https://www.rollingstone.com/music/music-country/the-chicks-taking-the-long-way-reissue-1235605736/",
+    "publishedAt": "2026-08-10T14:00:00.000Z",
+    "summary": "The expanded version of the Grammy-winning album will include a demo of “Not Ready to Make Nice” and the previously unreleased “Flowers”",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-latin/j-balvin-interview-colombia-medellin-bad-bunny-karol-g-1235605226/",
+    "source": "rolling-stone",
+    "title": "J Balvin: ‘People See the Glory, but Not the Story’",
+    "url": "https://www.rollingstone.com/music/music-latin/j-balvin-interview-colombia-medellin-bad-bunny-karol-g-1235605226/",
+    "publishedAt": "2026-08-10T14:00:00.000Z",
+    "summary": "The Colombian artist goes deep on skyrocketing out of Medellín, working with Bad Bunny and Karol G, and making history over and over",
+    "image": null
+  },
+  {
+    "id": "louder-than-war-https://louderthanwar.com/aenigmatum-infinitudes-passage-album-review/",
+    "source": "louder-than-war",
+    "title": "Ænigmatum: Infinitude’s Passage – Album Review",
+    "url": "https://louderthanwar.com/aenigmatum-infinitudes-passage-album-review/",
+    "publishedAt": "2026-08-10T13:46:35.000Z",
+    "summary": "ÆNIGMATUM: INFINITUDE’S PASSAGE 20 BUCK SPIN LP | CD | DL CD | DL Out Now (VINYL SEPTEMBER 4) Portland Tech-Death savants Ænigmatum release their third LP: Infinitude’s Passage. 42 minutes chock-full of adventurous riffing, time-changes and intricate experimentation framed upon a cohesive but broadminded Death Metal canvas. Sean Millard puts down his brushes, squints […] The post Ænigmatum: Infinitude’s Passage – Album Review appeared first on Louder Than War.",
+    "image": null
+  },
+  {
+    "id": "louder-than-war-https://louderthanwar.com/anniina-dvd-single-review/",
+    "source": "louder-than-war",
+    "title": "Anniina: DVD – Single Review",
+    "url": "https://louderthanwar.com/anniina-dvd-single-review/",
+    "publishedAt": "2026-08-10T13:24:06.000Z",
+    "summary": "Anniina: DVD Ballerina Records Out Now Finnish singer-songwriter Anniina shines on the intimate new single DVD, a track which treads the line between the heartfelt indie-folk storytelling of Phoebe Bridgers and the tones of Billie Marten and Maggie Rogers. Stripped-back and delicate, the track captures a compelling sense of fragility, pairing strikingly honest lyricism with […] The post Anniina: DVD – Single Review appeared first on Louder Than War.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/pop/kelly-clarkson-jokes-perfect-body-part-wardrobe-malfunction-vegas-1236312442/",
     "source": "billboard",
     "title": "Kelly Clarkson Jokes About This ‘Perfect’ Body Part Peeking Out After a Wardrobe Malfunction During Las Vegas Show",
@@ -113,16 +176,16 @@
     "title": "Watch Eddie Vedder Busk in Dublin in Honor of Glen Hansard",
     "url": "https://www.rollingstone.com/music/music-news/eddie-vedder-glen-hansard-busking-dublin-1235606107/",
     "publishedAt": "2026-08-10T07:53:11.000Z",
-    "summary": "The Pearl Jam frontman performed in Hansard's usual spot on Grafton Street alongside Murdo Mitchell and several other musicians",
+    "summary": "The Pearl Jam frontman performed in Hansard’s usual spot on Grafton Street alongside Murdo Mitchell and several other musicians",
     "image": null
   },
   {
     "id": "nme-https://news.google.com/rss/articles/CBMiygFBVV95cUxOSnB0NzUyVjZ6X2Jtak53MlA2VGxkeUZaZl9wTkFsUURsRHB3Wlc2SWdvcG1WUjZ0cmc5QVF0M3JEZlF5WjJPLUs0YWZ3cy04TXV2THJLZ2tnYS1QakJTbWs4MzkzM3lJWjVhZkctRWdxMHZlOVo3VHYyYUVKaGtCRzB3TTRWTm1DNTFKbTdWTXVvU1dkQVpWZmhSVm1aSHU4WkNqLXpONnByYV9GRVFuTGJFUTJZS1hpLW1QUzFvVC1Mc2pLa3UzZ3N3?oc=5",
     "source": "nme",
-    "title": "Usher responds to viral claims that he was replaced by a body double at one of his concerts - nme.com",
+    "title": "Usher responds to viral claims that he was replaced by a body double at one of his concerts - NME",
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSnB0NzUyVjZ6X2Jtak53MlA2VGxkeUZaZl9wTkFsUURsRHB3Wlc2SWdvcG1WUjZ0cmc5QVF0M3JEZlF5WjJPLUs0YWZ3cy04TXV2THJLZ2tnYS1QakJTbWs4MzkzM3lJWjVhZkctRWdxMHZlOVo3VHYyYUVKaGtCRzB3TTRWTm1DNTFKbTdWTXVvU1dkQVpWZmhSVm1aSHU4WkNqLXpONnByYV9GRVFuTGJFUTJZS1hpLW1QUzFvVC1Mc2pLa3UzZ3N3?oc=5",
     "publishedAt": "2026-08-10T07:51:46.000Z",
-    "summary": "Usher responds to viral claims that he was replaced by a body double at one of his concerts nme.com",
+    "summary": "Usher responds to viral claims that he was replaced by a body double at one of his concerts NME",
     "image": null
   },
   {
@@ -153,24 +216,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/concerts/laneway-festival-skip-adelaide-perth-2027-return-1236312403/",
-    "source": "billboard",
-    "title": "Laneway Festival to Skip Adelaide and Perth for 2027 Return",
-    "url": "https://www.billboard.com/music/concerts/laneway-festival-skip-adelaide-perth-2027-return-1236312403/",
-    "publishedAt": "2026-08-10T04:28:13.000Z",
-    "summary": "\"Adelaide and Perth, we love you! This isn't goodbye, just see you soon,\" the festival organizer's statement read.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/concerts/clementine-douglas-debut-australian-headline-tour-1236312396/",
-    "source": "billboard",
-    "title": "Clementine Douglas Announces Debut Australian Headline Shows",
-    "url": "https://www.billboard.com/music/concerts/clementine-douglas-debut-australian-headline-tour-1236312396/",
-    "publishedAt": "2026-08-10T04:25:24.000Z",
-    "summary": "Earlier this year, Douglas made her Madison Square Garden debut alongside Dom Dolla.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/yoko-ono-tribute-los-angeles-yo-la-tengo-kathleen-hanna-1235606063/",
     "source": "rolling-stone",
     "title": "Rufus Wainwright, Kathleen Hanna, Yo La Tengo Celebrate the Radical Music of Yoko Ono",
@@ -182,10 +227,10 @@
   {
     "id": "nme-https://news.google.com/rss/articles/CBMitgFBVV95cUxNYkZnRWtWMzBsZDdVdU04RW40ako3cjJKbUN2NjJBdHplWmpjUEtVTUU5QXRRV3lqUnctSzZfdGw0X3VpcFk5d0ExQUdJMk1IcTZKWjdVWnpHd2NlYjJCYl9id2N3LTFRM2JRZW43d0xHRDB6MFJqOGhMSkNyM2taV21DOHBOOHFKSmhnUDJFS1ZrYjE5aVVFdjJfcHNzdjFsTnIyRVhnM1VzcFhZOEI3UG8wcU95QQ?oc=5",
     "source": "nme",
-    "title": "LA Jazz Festival featuring John Legend, Janelle Monáe and many more cancelled - nme.com",
+    "title": "LA Jazz Festival featuring John Legend, Janelle Monáe and many more cancelled - NME",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYkZnRWtWMzBsZDdVdU04RW40ako3cjJKbUN2NjJBdHplWmpjUEtVTUU5QXRRV3lqUnctSzZfdGw0X3VpcFk5d0ExQUdJMk1IcTZKWjdVWnpHd2NlYjJCYl9id2N3LTFRM2JRZW43d0xHRDB6MFJqOGhMSkNyM2taV21DOHBOOHFKSmhnUDJFS1ZrYjE5aVVFdjJfcHNzdjFsTnIyRVhnM1VzcFhZOEI3UG8wcU95QQ?oc=5",
     "publishedAt": "2026-08-09T21:08:31.000Z",
-    "summary": "LA Jazz Festival featuring John Legend, Janelle Monáe and many more cancelled nme.com",
+    "summary": "LA Jazz Festival featuring John Legend, Janelle Monáe and many more cancelled NME",
     "image": null
   },
   {
@@ -200,16 +245,16 @@
   {
     "id": "nme-https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZUxjWnZ2SGRncnFrc3B6MV9McVBQY3E3aG1tNGJzMlRRX1pFQkY3dWxoOVNiVmxiYmNpc2w5d3JiLXdjU2k0ZllPakh3MFhaN2tXLXRGdTZtRFh0czh0T0RXUU91dE1BS0wwVlR5eGgyaVoxWjd2SjgwdDhvRENsc3Q5QnlsWUFsY01CLWZIUVZTT2txMmZiUkg3V2NsUUZTN2V4M0FTa0t1cWRCY1VCNnQ1SzNVWkNGWWtyLXl1am9oNXBrMXFQMnBrTVJMMkxaOHUtNFJ2RTFWNGVjd2hWTWRtSGhmMWFXLVZlYWNB?oc=5",
     "source": "nme",
-    "title": "Benny Blanco teams up with Selena Gomez and Becky G on 'Te Olvido (La La)' with Danny Trejo-starring video - nme.com",
+    "title": "Benny Blanco teams up with Selena Gomez and Becky G on 'Te Olvido (La La)' with Danny Trejo-starring video - NME",
     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZUxjWnZ2SGRncnFrc3B6MV9McVBQY3E3aG1tNGJzMlRRX1pFQkY3dWxoOVNiVmxiYmNpc2w5d3JiLXdjU2k0ZllPakh3MFhaN2tXLXRGdTZtRFh0czh0T0RXUU91dE1BS0wwVlR5eGgyaVoxWjd2SjgwdDhvRENsc3Q5QnlsWUFsY01CLWZIUVZTT2txMmZiUkg3V2NsUUZTN2V4M0FTa0t1cWRCY1VCNnQ1SzNVWkNGWWtyLXl1am9oNXBrMXFQMnBrTVJMMkxaOHUtNFJ2RTFWNGVjd2hWTWRtSGhmMWFXLVZlYWNB?oc=5",
     "publishedAt": "2026-08-09T20:09:21.000Z",
-    "summary": "Benny Blanco teams up with Selena Gomez and Becky G on 'Te Olvido (La La)' with Danny Trejo-starring video nme.com",
+    "summary": "Benny Blanco teams up with Selena Gomez and Becky G on 'Te Olvido (La La)' with Danny Trejo-starring video NME",
     "image": null
   },
   {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/inaugural-los-angeles-jazz-festival-canceled-last-minute-1235606056/",
     "source": "rolling-stone",
-    "title": "Inaugural L.A. Jazz Festival Canceled at Last Minute",
+    "title": "Inaugural LA Jazz Festival Canceled at Last Minute",
     "url": "https://www.rollingstone.com/music/music-news/inaugural-los-angeles-jazz-festival-canceled-last-minute-1235606056/",
     "publishedAt": "2026-08-09T18:46:00.000Z",
     "summary": "John Legend and Janelle Monae were among the dozens of artists booked to play the citywide, weeks-long event until it was canceled Friday, hours before its opening ceremony",
@@ -225,6 +270,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMirAFBVV95cUxNTXZoYzJUYldFQU02ZnhsMUNhYW9GbnFLYmQ3TUc5LUozOWY4YXEwZlF4dWtDdWpQRHV1VkNGQzhGNm9XZS1KVlh4VmRVSEsyZVlDbzhDZzN5YnhxZkk2YzkxOVZzQ2hZREpZZGMtR3phcWVwcXJKdG82Q1lTNkctNWMwbFdjUElLcEJwNmRFQjR0RXJndHlvNjB2QUR6WDFnajRYcnFOZnpDMTdY?oc=5",
+    "source": "nme",
+    "title": "‘The Simpsons’ Bart actor Nancy Cartwright predicts when the show will end - NME",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTXZoYzJUYldFQU02ZnhsMUNhYW9GbnFLYmQ3TUc5LUozOWY4YXEwZlF4dWtDdWpQRHV1VkNGQzhGNm9XZS1KVlh4VmRVSEsyZVlDbzhDZzN5YnhxZkk2YzkxOVZzQ2hZREpZZGMtR3phcWVwcXJKdG82Q1lTNkctNWMwbFdjUElLcEJwNmRFQjR0RXJndHlvNjB2QUR6WDFnajRYcnFOZnpDMTdY?oc=5",
+    "publishedAt": "2026-08-09T17:13:37.000Z",
+    "summary": "‘The Simpsons’ Bart actor Nancy Cartwright predicts when the show will end NME",
+    "image": null
+  },
+  {
     "id": "loudwire-https://loudwire.com/motley-crue-nikki-sixx-doesnt-believe-in-making-full-length-records-anymore/",
     "source": "loudwire",
     "title": "Why Nikki Sixx Doesn't 'Believe in Making' LPs Anymore",
@@ -236,10 +290,10 @@
   {
     "id": "nme-https://news.google.com/rss/articles/CBMijAJBVV95cUxPdGNIN0xqcXUwN1M1dU45RWEwbTBFVzNvSF9DOWlvY3d4X2l5aExYQmJ5VWJfakhNN19jM1hVdzFPdmVNUkpQX1F4UmdTazNKb2otUmg2bzdUR19SMkhfTGZSN0cwandMdDZTdkVuYWlvOFdweHc3UWZxM1A5S3dhNWpfZmZ6amM1cGljWUNfci1QNU5JVkgwRXdXUWxRTmFjOWFQVldoZmdOdUNhc0N6SlJkVDJobEplUFNBTTdhNG9uUXBteGVJaEtqSnA4c1g4ZEc3bFVjOUxqMERNRXB3bzRXUHMtbFNSRGtPX1VVaGRSSmdHTFRieHI3WXB2OEhtYzQyZ09ZVjhpVW5Y?oc=5",
     "source": "nme",
-    "title": "Fans complain after Fugees set cut short at Lauryn Hill's Diaspora Calling! festival: \"The ending was ridiculous\" - nme.com",
+    "title": "Fans complain after Fugees set cut short at Lauryn Hill's Diaspora Calling! festival: \"The ending was ridiculous\" - NME",
     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPdGNIN0xqcXUwN1M1dU45RWEwbTBFVzNvSF9DOWlvY3d4X2l5aExYQmJ5VWJfakhNN19jM1hVdzFPdmVNUkpQX1F4UmdTazNKb2otUmg2bzdUR19SMkhfTGZSN0cwandMdDZTdkVuYWlvOFdweHc3UWZxM1A5S3dhNWpfZmZ6amM1cGljWUNfci1QNU5JVkgwRXdXUWxRTmFjOWFQVldoZmdOdUNhc0N6SlJkVDJobEplUFNBTTdhNG9uUXBteGVJaEtqSnA4c1g4ZEc3bFVjOUxqMERNRXB3bzRXUHMtbFNSRGtPX1VVaGRSSmdHTFRieHI3WXB2OEhtYzQyZ09ZVjhpVW5Y?oc=5",
     "publishedAt": "2026-08-09T15:27:45.000Z",
-    "summary": "Fans complain after Fugees set cut short at Lauryn Hill's Diaspora Calling! festival: \"The ending was ridiculous\" nme.com",
+    "summary": "Fans complain after Fugees set cut short at Lauryn Hill's Diaspora Calling! festival: \"The ending was ridiculous\" NME",
     "image": null
   },
   {
@@ -254,7 +308,7 @@
   {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-features/role-model-interview-new-album-dakota-johnson-1235605899/",
     "source": "rolling-stone",
-    "title": "Role Model on His New Album, Working with Dakota Johnson — and a Possible Name Change",
+    "title": "Role Model on His New Album, Working With Dakota Johnson — and a Possible Name Change",
     "url": "https://www.rollingstone.com/music/music-features/role-model-interview-new-album-dakota-johnson-1235605899/",
     "publishedAt": "2026-08-09T14:01:00.000Z",
     "summary": "Tucker Pillsbury, a.k.a. Role Model, talks about bringing back heartland rock with Chuck Timely and the Hourglass, avoiding pop stardom, acting with Natalie Portman, and more",
@@ -266,7 +320,7 @@
     "title": "Tupac Shakur Murder Trial: Everything You Need to Know",
     "url": "https://www.rollingstone.com/music/music-features/tupac-shakur-murder-trial-things-to-know-1235602789/",
     "publishedAt": "2026-08-09T14:00:00.000Z",
-    "summary": "Duane \"Keffe D\" Davis is charged with one count of murder with a deadly weapon for allegedly orchestrating the drive-by shooting of Shakur in 1996. He has pleaded not guilty",
+    "summary": "Duane “Keffe D” Davis is charged with one count of murder with a deadly weapon for allegedly orchestrating the drive-by shooting of Shakur in 1996. He has pleaded not guilty",
     "image": null
   },
   {
@@ -275,7 +329,7 @@
     "title": "See Charli XCX Join the Strokes for ‘Take It or Leave It’ at Outside Lands",
     "url": "https://www.rollingstone.com/music/music-news/charli-xcx-the-strokes-take-it-or-leave-it-outside-lands-1235605980/",
     "publishedAt": "2026-08-09T13:06:49.000Z",
-    "summary": "Fresh off their album sales battle — “She won. She won by a lot,” Julian Casablancas quipped — Friday night’s headliner at San Francisco fest makes surprise appearance during band’s Saturday set",
+    "summary": "Fresh off their album-sales battle — “She won. She won by a lot,” Julian Casablancas quipped — Friday night’s headliner at San Francisco fest makes surprise appearance during band’s Saturday set",
     "image": null
   },
   {
@@ -326,28 +380,28 @@
   {
     "id": "nme-https://news.google.com/rss/articles/CBMitAFBVV95cUxQUURnVllQYlpTLWJySjBLUDRxOXBSRjc2TDdTZDdtSlp1OHpWbmpTM3BNZlprQkFGSHpBR053QXZqd1FPalpyTnV6cFoxVzhGbGN3NXZSRTNEdGJscnh4UVhjNGx5dUdhclpRYXpibndIUmx6REVIc05vcDROUVNzd1hwSXlFY2FaV0Zrdjk2V1lLeThkdExqeFd0UmgtWUNXMWlOY1JXQUw0c2dfelNYSWhVcTg?oc=5",
     "source": "nme",
-    "title": "Watch Fontaines D.C. debut new songs 'Marianne' and 'Six Shot Morning' in first full headline show of 2026 - nme.com",
+    "title": "Watch Fontaines D.C. debut new songs 'Marianne' and 'Six Shot Morning' in first full headline show of 2026 - NME",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUURnVllQYlpTLWJySjBLUDRxOXBSRjc2TDdTZDdtSlp1OHpWbmpTM3BNZlprQkFGSHpBR053QXZqd1FPalpyTnV6cFoxVzhGbGN3NXZSRTNEdGJscnh4UVhjNGx5dUdhclpRYXpibndIUmx6REVIc05vcDROUVNzd1hwSXlFY2FaV0Zrdjk2V1lLeThkdExqeFd0UmgtWUNXMWlOY1JXQUw0c2dfelNYSWhVcTg?oc=5",
     "publishedAt": "2026-08-09T09:17:11.000Z",
-    "summary": "Watch Fontaines D.C. debut new songs 'Marianne' and 'Six Shot Morning' in first full headline show of 2026 nme.com",
+    "summary": "Watch Fontaines D.C. debut new songs 'Marianne' and 'Six Shot Morning' in first full headline show of 2026 NME",
     "image": null
   },
   {
     "id": "nme-https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUk5wWUw3YmVrMHlEMzhubGRHRVp5SDFLSGZ3bXBlTmVUZmZoNXZuMERSRlJjMUw1dHltOXItUnUzZzhvSlM1OTlPMUgwZmFtaFUxVWhTdlhTcElUcGlzemJkMWprZ3I5ellsTlkyMkVZanFpYW9PMDlyRm85aVlVcFVBVTNCU3VwUEZ0cGxrdms1azB4bXJIMU5MZzFsc0Jja3RXR1Y4RVFiZk1BNWpjVjNHZUdRdmtZNmY0?oc=5",
     "source": "nme",
-    "title": "Billy Strings performs in protective headgear after being hit by object on stage - nme.com",
+    "title": "Billy Strings performs in protective headgear after being hit by object on stage - NME",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUk5wWUw3YmVrMHlEMzhubGRHRVp5SDFLSGZ3bXBlTmVUZmZoNXZuMERSRlJjMUw1dHltOXItUnUzZzhvSlM1OTlPMUgwZmFtaFUxVWhTdlhTcElUcGlzemJkMWprZ3I5ellsTlkyMkVZanFpYW9PMDlyRm85aVlVcFVBVTNCU3VwUEZ0cGxrdms1azB4bXJIMU5MZzFsc0Jja3RXR1Y4RVFiZk1BNWpjVjNHZUdRdmtZNmY0?oc=5",
     "publishedAt": "2026-08-09T08:19:10.000Z",
-    "summary": "Billy Strings performs in protective headgear after being hit by object on stage nme.com",
+    "summary": "Billy Strings performs in protective headgear after being hit by object on stage NME",
     "image": null
   },
   {
     "id": "nme-https://news.google.com/rss/articles/CBMiugFBVV95cUxNemRycDFyaWxhcTJaUG05N0g0b1cxMmpHZU1jU3FBdHVKeTZBQ2R6SjFnVUMxUFdOa0poZnU1cjQ3WkkzVFN3NXdQZDk4dUNzRFh0dDdpcXRsOWIwa0tweVI1dkRXTkZOaWJJUUIwenVtNndaYm9wcHl6U0hCQVJYZ3dzTDNxMl9vUDg3cGo1NUlEb21RWTdMT3JULUljLUpRZHhJamlFQU9uSERMeUw1Z0VORE9qU2hVbVE?oc=5",
     "source": "nme",
-    "title": "Watch Charli XCX join The Strokes for ‘Take It Or Leave It’ at Outside Lands 2026 - nme.com",
+    "title": "Watch Charli XCX join The Strokes for ‘Take It Or Leave It’ at Outside Lands 2026 - NME",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNemRycDFyaWxhcTJaUG05N0g0b1cxMmpHZU1jU3FBdHVKeTZBQ2R6SjFnVUMxUFdOa0poZnU1cjQ3WkkzVFN3NXdQZDk4dUNzRFh0dDdpcXRsOWIwa0tweVI1dkRXTkZOaWJJUUIwenVtNndaYm9wcHl6U0hCQVJYZ3dzTDNxMl9vUDg3cGo1NUlEb21RWTdMT3JULUljLUpRZHhJamlFQU9uSERMeUw1Z0VORE9qU2hVbVE?oc=5",
     "publishedAt": "2026-08-09T07:47:02.000Z",
-    "summary": "Watch Charli XCX join The Strokes for ‘Take It Or Leave It’ at Outside Lands 2026 nme.com",
+    "summary": "Watch Charli XCX join The Strokes for ‘Take It Or Leave It’ at Outside Lands 2026 NME",
     "image": null
   },
   {
@@ -360,39 +414,12 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-latin/fuerza-regida-final-show-this-is-our-dream-tour-1235605952/",
-    "source": "rolling-stone",
-    "title": "Fuerza Regida Ends Historic Stadium Tour With Star-Studded NYC Closer",
-    "url": "https://www.rollingstone.com/music/music-latin/fuerza-regida-final-show-this-is-our-dream-tour-1235605952/",
-    "publishedAt": "2026-08-09T00:51:22.000Z",
-    "summary": "The show-stopping finale at Citi Field included tons of surprises, including guest appearances from 50 Cent, J Balvin, and more",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMizgFBVV95cUxPT1F1WWFoRFAwdDU2OHIxeVRtcTJ4SkYteHhkTkJYdHprbjBXYkltNXZkZFFwc3JwRXA0UW15ZGlXcTd2YllDV19UVG9ZdXpUV29VQ25SMk1ueUZFQVlCYTFJMzZSVUVsOG1NYjdOdnluajVJTFZLeWR6R2NkNGQzdEVqVzdxWTNHSVdaUWh6Mmg5Uk9wSzhRLTlhb2dfMVVLMnhpREstc2piYzVjeXFERDNqUy1KNHdxeTNTU25Ha3VWSkZXd2xNZkwxc0FHZw?oc=5",
     "source": "nme",
-    "title": "Daft Punk's Thomas Bangalter says writing the score for 'Tron: Legacy' was \"depressing\" and \"limiting\" - nme.com",
+    "title": "Daft Punk's Thomas Bangalter says writing the score for 'Tron: Legacy' was \"depressing\" and \"limiting\" - NME",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT1F1WWFoRFAwdDU2OHIxeVRtcTJ4SkYteHhkTkJYdHprbjBXYkltNXZkZFFwc3JwRXA0UW15ZGlXcTd2YllDV19UVG9ZdXpUV29VQ25SMk1ueUZFQVlCYTFJMzZSVUVsOG1NYjdOdnluajVJTFZLeWR6R2NkNGQzdEVqVzdxWTNHSVdaUWh6Mmg5Uk9wSzhRLTlhb2dfMVVLMnhpREstc2piYzVjeXFERDNqUy1KNHdxeTNTU25Ha3VWSkZXd2xNZkwxc0FHZw?oc=5",
     "publishedAt": "2026-08-08T21:28:20.000Z",
-    "summary": "Daft Punk's Thomas Bangalter says writing the score for 'Tron: Legacy' was \"depressing\" and \"limiting\" nme.com",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMikgFBVV95cUxNbGdZdklhWm4wbW4zS3U0UzBQVEVYbFJ5eVVnaEYySzJPUzc1MFJWZ2xQUGlhUHo5UWdsYTh1WWNvLXltc3g3SUtWTjMtaV8xRFVOYUpWdmlfRU9wM0tkNnNBRElPdlplQ1hWVnBtSXE0dlh0LTBkMFVSYnRnN0dsVnNyQXlQU1JWZDVQa2YxZ3JwUQ?oc=5",
-    "source": "nme",
-    "title": "David Fincher’s ‘Squid Game’ sequel scrapped at Netflix - NME",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbGdZdklhWm4wbW4zS3U0UzBQVEVYbFJ5eVVnaEYySzJPUzc1MFJWZ2xQUGlhUHo5UWdsYTh1WWNvLXltc3g3SUtWTjMtaV8xRFVOYUpWdmlfRU9wM0tkNnNBRElPdlplQ1hWVnBtSXE0dlh0LTBkMFVSYnRnN0dsVnNyQXlQU1JWZDVQa2YxZ3JwUQ?oc=5",
-    "publishedAt": "2026-08-08T18:17:17.000Z",
-    "summary": "David Fincher’s ‘Squid Game’ sequel scrapped at Netflix NME",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-lists/essential-hip-hop-songs-for-808-day-1235605500/",
-    "source": "rolling-stone",
-    "title": "13 Essential Hip-Hop Songs For 808 Day",
-    "url": "https://www.rollingstone.com/music/music-lists/essential-hip-hop-songs-for-808-day-1235605500/",
-    "publishedAt": "2026-08-08T17:02:38.000Z",
-    "summary": "Celebrate the iconic Roland TR-808 drum machine with music by Public Enemy, Ye, and more.",
+    "summary": "Daft Punk's Thomas Bangalter says writing the score for 'Tron: Legacy' was \"depressing\" and \"limiting\" NME",
     "image": null
   },
   {
@@ -558,6 +585,15 @@
     "image": null
   },
   {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMigwFBVV95cUxQNGNwZG9RaFdQSEMxQ1p5TUl1WHVXcmF4VmpEbFoyT3k2a1YyajRBblNwT0tZbEUwT2d1anpieDZrOHl5WEZWZkpranQ0dTEwNXY3RWw2eF9TSzF2Z2cwdnhVM0xWLXdMb0FaRUlzUzNiMUNWT01XSE13cFByRWduaFljbw?oc=5",
+    "source": "kerrang",
+    "title": "Album review: Din Of Celestial Birds – Takeoffs & Landings - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNGNwZG9RaFdQSEMxQ1p5TUl1WHVXcmF4VmpEbFoyT3k2a1YyajRBblNwT0tZbEUwT2d1anpieDZrOHl5WEZWZkpranQ0dTEwNXY3RWw2eF9TSzF2Z2cwdnhVM0xWLXdMb0FaRUlzUzNiMUNWT01XSE13cFByRWduaFljbw?oc=5",
+    "publishedAt": "2026-08-07T10:00:00.000Z",
+    "summary": "Album review: Din Of Celestial Birds – Takeoffs & Landings Kerrang!",
+    "image": null
+  },
+  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMib0FVX3lxTE1zUS1GRHctUkppTkdiNHhCX1ZrYkFkMXRwMlowVWRnZko1R29BZGprOV9LcUVtOXJvV2xPX3VHMWZXT05nT2xCYkZZUllqTjgwZUMzX2JGT1NwZS1WdTNVa1B1TURlQ20weXFlQUpISQ?oc=5",
     "source": "kerrang",
     "title": "Album Review: Electric Callboy – Tanzneid - Kerrang!",
@@ -600,15 +636,6 @@
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oN2FtQXlGYjNoNldPTmJ5bmJpd0xCT0pRQkdRaHZYZjJ1WlFjcHFrMzUzVXFaUGF4YThmdWRBSUs0VWhXOUtpeE5vbFF4RUkxSEk4?oc=5",
     "publishedAt": "2026-08-06T21:48:23.000Z",
     "summary": "Gutulax News Kerrang!",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/you-can-now-comment-on-this-post-pitchfork/",
-    "source": "pitchfork",
-    "title": "You Can Now Comment on This Post",
-    "url": "https://pitchfork.com/story/you-can-now-comment-on-this-post-pitchfork/",
-    "publishedAt": "2026-08-06T21:00:37.000Z",
-    "summary": "Starting today, Pitchfork subscribers can comment on all stories",
     "image": null
   },
   {
@@ -690,33 +717,6 @@
     "url": "https://www.uncut.co.uk/features/the-trail-ive-left-and-the-debris-behind-me-neil-young-on-mortality-memory-and-music-155652/",
     "publishedAt": "2026-08-06T11:53:06.000Z",
     "summary": "A remarkably candid 2007 interview conducted as he emerged from a near-fatal health scare",
-    "image": null
-  },
-  {
-    "id": "louder-than-war-https://louderthanwar.com/rebellion-festival-opening-night-with-spike-steve-conte-monty-oxymoron-and-voices-from-the-pool/",
-    "source": "louder-than-war",
-    "title": "Rebellion Festival opening night with Spike, Steve Conte, Monty Oxymoron and Voices From The Pool",
-    "url": "https://louderthanwar.com/rebellion-festival-opening-night-with-spike-steve-conte-monty-oxymoron-and-voices-from-the-pool/",
-    "publishedAt": "2026-08-06T11:11:16.000Z",
-    "summary": "Rebellion Festival (Monday) Blackpool 3rd Aug 2026 My oh my Rebellion Festival, how much you have grown! Blackpool is full of punks of all shapes and sizes and nations and generations for a record breaking seven days this year and opens with this event on the Monday. Just down the road from the Winter Gardens […] The post Rebellion Festival opening night with Spike, Steve Conte, Monty Oxymoron and Voices From The Pool appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "louder-than-war-https://louderthanwar.com/down-at-the-abbey-reading-2026-festival-preview/",
-    "source": "louder-than-war",
-    "title": "Down At The Abbey (Reading) 2026 – Festival Preview",
-    "url": "https://louderthanwar.com/down-at-the-abbey-reading-2026-festival-preview/",
-    "publishedAt": "2026-08-06T10:01:09.000Z",
-    "summary": "Held in the center of Reading (five minutes from the train station), Down At The Abbey is a festival put together by the same organisation (Heavy Pop) that provides top-notch entertainment at the hugely popular Are You Listening? Festival held annually in May. Down At The Abbey will take place during Friday 11th September and […] The post Down At The Abbey (Reading) 2026 – Festival Preview appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMic0FVX3lxTE03cFBLU0ozM0ZNOTgwYjZ4M2tjYU1aZUxLdm5ZMlhoSHE0MXlXdDVJZ0dVUk9wYWlzTzlNVTc2US1tM1VPQXYwUjJDWFE5QW9tVkhqakJxMm9mQVR5SzI1RG1BbGJFZ1g2ci0zcHV3Q3N1LXM?oc=5",
-    "source": "kerrang",
-    "title": "Album review: Negative Frame – Break The Ice - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE03cFBLU0ozM0ZNOTgwYjZ4M2tjYU1aZUxLdm5ZMlhoSHE0MXlXdDVJZ0dVUk9wYWlzTzlNVTc2US1tM1VPQXYwUjJDWFE5QW9tVkhqakJxMm9mQVR5SzI1RG1BbGJFZ1g2ci0zcHV3Q3N1LXM?oc=5",
-    "publishedAt": "2026-08-06T08:00:00.000Z",
-    "summary": "Album review: Negative Frame – Break The Ice Kerrang!",
     "image": null
   }
 ]
