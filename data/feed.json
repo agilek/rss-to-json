@@ -1,11 +1,137 @@
 [
   {
-    "id": "billboard-https://www.billboard.com/pro/spider-man-songs-tame-impala-steve-lacy-hot-100/",
+    "id": "billboard-https://www.billboard.com/lists/hot-100-number-1-songs-on-top-longest/",
     "source": "billboard",
-    "title": "‘Spider-Man: Brand New Day’ Drives Steve Lacy, Tame Impala Onto Hot 100",
-    "url": "https://www.billboard.com/pro/spider-man-songs-tame-impala-steve-lacy-hot-100/",
-    "publishedAt": "2026-08-11T14:56:32.000Z",
-    "summary": "“Loser” reenters the ranking while “Oh Yeah?” debuts.",
+    "title": "The Longest-Leading Billboard Hot 100 No. 1s",
+    "url": "https://www.billboard.com/lists/hot-100-number-1-songs-on-top-longest/",
+    "publishedAt": "2026-08-11T16:58:05.000Z",
+    "summary": "A select few hits have led the chart for at least 10 weeks.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/ariana-grande-shaboozey-bruno-mars-chart-highlights-aug-15/",
+    "source": "billboard",
+    "title": "Ariana Grande, Shaboozey, Bruno Mars & More: Highlights of This Week’s Billboard Charts",
+    "url": "https://www.billboard.com/lists/ariana-grande-shaboozey-bruno-mars-chart-highlights-aug-15/",
+    "publishedAt": "2026-08-11T16:38:15.000Z",
+    "summary": "All of Billboard’s charts update each Tuesday.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rock/grinspoon-phil-jamieson-cancels-solo-tour-back-fracture-1236313862/",
+    "source": "billboard",
+    "title": "Grinspoon Singer Phil Jamieson Cancels Solo Tour After Fracturing His Back On Stage: ‘No One Is More Bummed About This Than Me’",
+    "url": "https://www.billboard.com/music/rock/grinspoon-phil-jamieson-cancels-solo-tour-back-fracture-1236313862/",
+    "publishedAt": "2026-08-11T16:28:51.000Z",
+    "summary": "The incident happened on Friday (Aug. 7) during a show in Victoria, Australia when the singer slipped and hit the drum riser.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/tencent-music-q2-2026-revenue/",
+    "source": "billboard",
+    "title": "Tencent Music’s Q2 Revenue Tops $1.3 Billion on Subscription Growth, Ximalaya Acquisition",
+    "url": "https://www.billboard.com/pro/tencent-music-q2-2026-revenue/",
+    "publishedAt": "2026-08-11T16:28:36.000Z",
+    "summary": "China's leading streaming platform reported double-digit revenue growth from music services, as it welcomed an additional $60 million in revenue from its new audiobook and podcast platform.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/country/miranda-lambert-muttnation-surprise-gifts-animal-shelters-1236313638/",
+    "source": "billboard",
+    "title": "Miranda Lambert’s MuttNation Foundation Gifts $255K in Surprise Grants to Animal Welfare Groups",
+    "url": "https://www.billboard.com/music/country/miranda-lambert-muttnation-surprise-gifts-animal-shelters-1236313638/",
+    "publishedAt": "2026-08-11T16:24:50.000Z",
+    "summary": "The non-profit, with Tractor Supply Co., is helping one shelter in every state.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/no-2-hits-facts-and-feats-billboard-hot-100/",
+    "source": "billboard",
+    "title": "15 Amazing Facts & Feats About No. 2 Hot 100 Hits",
+    "url": "https://www.billboard.com/lists/no-2-hits-facts-and-feats-billboard-hot-100/",
+    "publishedAt": "2026-08-11T16:17:23.000Z",
+    "summary": "There’s no shame in peaking in the runner-up spot. The Beatles, the GOAT of pop groups, did it three times.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/womack-sisters-sam-cooke-granddaughters-debut-album-1235606528/",
+    "source": "rolling-stone",
+    "title": "Why Was It So Hard for Sam Cooke’s Grandkids to Drop a Soul Album?",
+    "url": "https://www.rollingstone.com/music/music-features/womack-sisters-sam-cooke-granddaughters-debut-album-1235606528/",
+    "publishedAt": "2026-08-11T16:08:35.000Z",
+    "summary": "The Womack Sisters will finally release a self-titled, tour-de-force debut album that carries their family legacy",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/best-number-2-hits-hot-100/",
+    "source": "billboard",
+    "title": "The 100 Best Billboard Hot 100 No. 2 Hits: Staff List",
+    "url": "https://www.billboard.com/lists/best-number-2-hits-hot-100/",
+    "publishedAt": "2026-08-11T16:02:57.000Z",
+    "summary": "Some of the greatest hits of the Hot 100 era never made it all the way to No. 1. Here's our 100 favorites that fell one spot short.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/taylor-swift-nashville-songwriters-hall-of-fame-class-of-2026-1236313763/",
+    "source": "billboard",
+    "title": "Taylor Swift to Be Inducted Into Nashville Songwriters Hall of Fame: ‘I Wanted to Learn With & From the Best’",
+    "url": "https://www.billboard.com/music/music-news/taylor-swift-nashville-songwriters-hall-of-fame-class-of-2026-1236313763/",
+    "publishedAt": "2026-08-11T16:00:37.000Z",
+    "summary": "The pop superstar is the youngest ever to receive the honor, and after just her first year of eligibility.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/jamila-woods-announces-heavn-tour/",
+    "source": "pitchfork",
+    "title": "Jamilla Woods Lines Up Heavn 10th Anniversary Tour",
+    "url": "https://pitchfork.com/story/jamila-woods-announces-heavn-tour/",
+    "publishedAt": "2026-08-11T16:00:00.000Z",
+    "summary": "The Chicago singer is taking her 2016 album on the road this November",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/vic-mensa-show-podcast-chance-the-rapper-first-guest-1236313252/",
+    "source": "billboard",
+    "title": "Vic Mensa Launches ‘The Vic Mensa Show’ With Chance The Rapper as First Guest: ‘A Space to Deepen the Dialogue’",
+    "url": "https://www.billboard.com/music/rb-hip-hop/vic-mensa-show-podcast-chance-the-rapper-first-guest-1236313252/",
+    "publishedAt": "2026-08-11T16:00:00.000Z",
+    "summary": "In partnership with Mass Appeal, the podcast premieres on Aug. 26.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/taylor-swift-nashville-songwriters-hall-of-fame-1235606729/",
+    "source": "rolling-stone",
+    "title": "Taylor Swift to Be Inducted Into Nashville Songwriters Hall of Fame",
+    "url": "https://www.rollingstone.com/music/music-news/taylor-swift-nashville-songwriters-hall-of-fame-1235606729/",
+    "publishedAt": "2026-08-11T15:54:17.000Z",
+    "summary": "Swift will join the likes of Dolly Parton, Johnny Cash, and Willie Nelson when she is honored later this year alongside Lyle Lovett",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/the-tallest-man-on-earth-readies-new-album/",
+    "source": "pitchfork",
+    "title": "The Tallest Man on Earth Readies New Album",
+    "url": "https://pitchfork.com/story/the-tallest-man-on-earth-readies-new-album/",
+    "publishedAt": "2026-08-11T15:49:42.000Z",
+    "summary": "Just Beyond Endless Mountain was inspired by the Swedish folk music of Kristian Mattson’s childhood",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/michelle-branch-new-radicals-game-of-love-video-premiere-1236313645/",
+    "source": "billboard",
+    "title": "Watch Michelle Branch & New Radicals’ ‘The Game of Love’ Video, As Gregg Alexander Also Dives Into His Kurt Cobain-Namechecking New Song: Exclusive",
+    "url": "https://www.billboard.com/music/pop/michelle-branch-new-radicals-game-of-love-video-premiere-1236313645/",
+    "publishedAt": "2026-08-11T15:40:45.000Z",
+    "summary": "\"The Game of Love\" is the first video featuring New Radicals in 28 years.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/amy-helm-levon-studio-lawsuit-1235606741/",
+    "source": "rolling-stone",
+    "title": "Amy Helm Allegedly Caused $2 Million in Damages to Levon Helm Studios, Lawsuit Claims",
+    "url": "https://www.rollingstone.com/music/music-news/amy-helm-levon-studio-lawsuit-1235606741/",
+    "publishedAt": "2026-08-11T15:28:55.000Z",
+    "summary": "The Woodstock venue’s new leadership team claims Levon Helm’s daughter was behind “millions of dollars of self-dealing transactions” during her tenure as president",
     "image": null
   },
   {
@@ -27,24 +153,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/lists/jodeci-signs-agency-reunion-tour-artist-deals/",
-    "source": "billboard",
-    "title": "Signed: Jodeci Inks With Day After Day for Reunion Tour; ‘Yellowstone’ Singer-Actor Ryan Bingham Joins WME Roster",
-    "url": "https://www.billboard.com/lists/jodeci-signs-agency-reunion-tour-artist-deals/",
-    "publishedAt": "2026-08-11T14:00:00.000Z",
-    "summary": "Other recent artist signings include Day26, Nate Visstick, Outlier, Sam Alfred and The Rat Utopia Experience.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/ariana-grande-chart-records-broken-hot-100/",
-    "source": "billboard",
-    "title": "Here Are All the Hot 100 Records That Ariana Grande Has Broken",
-    "url": "https://www.billboard.com/lists/ariana-grande-chart-records-broken-hot-100/",
-    "publishedAt": "2026-08-11T14:00:00.000Z",
-    "summary": "Grande has broken numerous Hot 100 records since her 2013 chart arrival with “The Way.”",
-    "image": null
-  },
-  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMiiwFBVV95cUxONXBtUnhVYkNUY0JybldoVjZ1REVCeDV3QzlKdE9Za2drR0RDWmVtVUl4bVI4aXFMdFNHSHJZaHlBUTVtMkZJMldFTzRQblpQM050UDVKQUw1dno1T2FPbXhuXzFOc2xMTDdJb2dBaFpPbmxWQ3hpSVZCbnc5VjF5ZXpVdXVKQkRzU2pV?oc=5",
     "source": "kerrang",
     "title": "Anxious fight denial and heartbreak on new single, Don’t Move - Kerrang!",
@@ -63,15 +171,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/rock/zz-top-taps-replacement-drummer-tour-frank-beard-leave-1236313580/",
-    "source": "billboard",
-    "title": "ZZ Top Taps Replacement Drummer After Frank Beard Takes Leave",
-    "url": "https://www.billboard.com/music/rock/zz-top-taps-replacement-drummer-tour-frank-beard-leave-1236313580/",
-    "publishedAt": "2026-08-11T13:19:12.000Z",
-    "summary": "The band abruptly canceled their Aug. 5 show at the Hollywood Bowl last week due to \"unforeseen personal matters.\"",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/shabazz-palaces-readying-new-album-its-a-style-sport/",
     "source": "pitchfork",
     "title": "Shabazz Palaces Readying New Album It’s a Style Sport",
@@ -87,60 +186,6 @@
     "url": "https://www.rollingstone.com/music/music-features/dwayne-the-rock-johnson-interview-your-dad-music-career-1235606544/",
     "publishedAt": "2026-08-11T13:00:00.000Z",
     "summary": "The superstar premieres a touching new music video, “Your Dad,” and reveals he’s getting serious about a singing career",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/pop/seth-macfarlane-sings-muppets-songs-new-album-release-date-1236312781/",
-    "source": "billboard",
-    "title": "‘Seth MacFarlane Sings The Muppets’ Classic Songs on His New Album: Here’s the Release Date",
-    "url": "https://www.billboard.com/music/pop/seth-macfarlane-sings-muppets-songs-new-album-release-date-1236312781/",
-    "publishedAt": "2026-08-11T13:00:00.000Z",
-    "summary": "The Emmy winner turns to Kermit and friends for his next project.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/spotify-label-identify-ai-artists/",
-    "source": "billboard",
-    "title": "Spotify to Label AI Artists on the Platform With New ‘AI Persona’ Badge",
-    "url": "https://www.billboard.com/pro/spotify-label-identify-ai-artists/",
-    "publishedAt": "2026-08-11T13:00:00.000Z",
-    "summary": "The music of artists tagged with the label will be excluded from personalized recommendations on the service.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/ms-rachel-announces-album-im-so-happy-1236313497/",
-    "source": "billboard",
-    "title": "Ms. Rachel Announces First-Ever Album ‘I’m So Happy’",
-    "url": "https://www.billboard.com/music/music-news/ms-rachel-announces-album-im-so-happy-1236313497/",
-    "publishedAt": "2026-08-11T13:00:00.000Z",
-    "summary": "The lead single, “I Love a Rainbow,” is out now.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/billboard-top-soundtracks-chart-most-weeks-no-1-full-list/",
-    "source": "billboard",
-    "title": "‘KPop Demon Hunters’ Has Led Billboard’s Top Soundtracks Chart for 55 Weeks: Only One Soundtrack Has Led Longer (Full List)",
-    "url": "https://www.billboard.com/lists/billboard-top-soundtracks-chart-most-weeks-no-1-full-list/",
-    "publishedAt": "2026-08-11T13:00:00.000Z",
-    "summary": "Will the K-Pop megahit take the lead? We'll soon see.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/new-york-mets-kpop-demon-hunters-night-buy-shop-tickets-online-1236312919/",
-    "source": "billboard",
-    "title": "Here’s Where to Buy New York Mets Tickets for ‘KPop Demon Hunters’ Night Online",
-    "url": "https://www.billboard.com/culture/product-recommendations/new-york-mets-kpop-demon-hunters-night-buy-shop-tickets-online-1236312919/",
-    "publishedAt": "2026-08-11T12:35:59.000Z",
-    "summary": "If you're a KPop Demon Hunters fans in NYC, then you could get a free HUNTR/X jersey at the Nationals-Mets game in Queens.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/pop/rod-stewart-cancels-cleveland-show-doctors-more-rest-1236313553/",
-    "source": "billboard",
-    "title": "Rod Stewart Cancels Cleveland Show As Doctors Prescribe More Rest Following ‘Minor Medical Procedure’",
-    "url": "https://www.billboard.com/music/pop/rod-stewart-cancels-cleveland-show-doctors-more-rest-1236313553/",
-    "publishedAt": "2026-08-11T12:31:16.000Z",
-    "summary": "The 81-year-old singer postponed his Cincinnati show on Sunday night (Aug. 9) due to the unidentified medical issue.",
     "image": null
   },
   {
@@ -180,6 +225,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMisAFBVV95cUxNalE0N09wbjJ0OUVLQXNRXzBhV0tCVjlRR0w1RldVRUduVnlfR2xiem5FTi15ZmZGZlItdVMxWkdvQ296WVl5djVKYllHYXIxNEhwRWpvU2RqVFRMUHBrOTVEelBTZGxtUWcxYnFvdmxBQ3REMVBKelVhUHhTTW8zR1hLNjFXTWZsR05IaVlKcXR6LXRGQ0RiM3BHVDhWWGFqZnkyQWFFc3BmYkRwRWJCbw?oc=5",
+    "source": "nme",
+    "title": "This Is Lorelei was only meant to be a side project. It’s made Nate Amos an indie darling - NME",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNalE0N09wbjJ0OUVLQXNRXzBhV0tCVjlRR0w1RldVRUduVnlfR2xiem5FTi15ZmZGZlItdVMxWkdvQ296WVl5djVKYllHYXIxNEhwRWpvU2RqVFRMUHBrOTVEelBTZGxtUWcxYnFvdmxBQ3REMVBKelVhUHhTTW8zR1hLNjFXTWZsR05IaVlKcXR6LXRGQ0RiM3BHVDhWWGFqZnkyQWFFc3BmYkRwRWJCbw?oc=5",
+    "publishedAt": "2026-08-11T08:00:05.000Z",
+    "summary": "This Is Lorelei was only meant to be a side project. It’s made Nate Amos an indie darling NME",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/travis-barker-louder-than-fear-trailer-disney-hulu-1235606640/",
     "source": "rolling-stone",
     "title": "Travis Barker Fights Through the Pain in ‘Louder Than Fear’ Trailer",
@@ -216,39 +270,12 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-latin/j-balvin-shakira-colombia-earthquake-1235606488/",
-    "source": "rolling-stone",
-    "title": "Shakira, J Balvin, More Colombian Stars Support Earthquake Victims",
-    "url": "https://www.rollingstone.com/music/music-latin/j-balvin-shakira-colombia-earthquake-1235606488/",
-    "publishedAt": "2026-08-10T21:24:35.000Z",
-    "summary": "Some have shared links to donate supplies and used their platforms to help families locate loved ones after 7.4 quake rattles cities like Bogotá, Medellín, and Cali",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/ella-langley-morgan-wallen-billboard-record-1235606285/",
-    "source": "rolling-stone",
-    "title": "Ella Langley Just Beat Morgan Wallen’s Billboard Record",
-    "url": "https://www.rollingstone.com/music/music-country/ella-langley-morgan-wallen-billboard-record-1235606285/",
-    "publishedAt": "2026-08-10T21:01:23.000Z",
-    "summary": "“Choosin’ Texas” claimed its seventeenth week at the top of the Hot 100, besting Wallen’s 2023 run for “Last Night”",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/alex-terrible-deletes-posts-slaughter-to-prevail-bloodstock/",
     "source": "loudwire",
     "title": "Alex Terrible Deletes Posts After Comment Makes Him Think Twice",
     "url": "https://loudwire.com/alex-terrible-deletes-posts-slaughter-to-prevail-bloodstock/",
     "publishedAt": "2026-08-10T20:32:50.000Z",
     "summary": "The Slaughter to Prevail singer initially pushed back on calls to apologize to the trans community, but later realized some of his responses were only encouraging more cyber-bullying. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-lists/outside-lands-2026-charli-xcx-strokes-best-moments-1235604580/",
-    "source": "rolling-stone",
-    "title": "Outside Lands 2026: The Best Things We Saw",
-    "url": "https://www.rollingstone.com/music/music-lists/outside-lands-2026-charli-xcx-strokes-best-moments-1235604580/",
-    "publishedAt": "2026-08-10T20:23:15.000Z",
-    "summary": "Turnstile’s raucous presence, Charli XCX’s scuzzy set, and the xx’s arresting performance are among the best moments from the San Francisco fest’s latest edition",
     "image": null
   },
   {
@@ -276,6 +303,15 @@
     "url": "https://pitchfork.com/story/ravyn-lenae-ela-minus-and-more-this-weeks-pitchfork-selects-playlist/",
     "publishedAt": "2026-08-10T17:10:49.000Z",
     "summary": "Our weekly playlist highlights songs that our writers, editors, and contributors are listening to on repeat",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMiugFBVV95cUxQeUxQOGJlbDVSSC0yT0NpcUhkUHhjSGdoMGRYLUF1bmdOSFIzUFY4Z081VkxPNHFXTWxBTVVJd2pOYno3RTNVM3hHUVFsRHJ5dDZXdlVYdVNCdlhSQnBmTWE0Wm5Hak82R0lLRzRINGlISnllVGI2WUFfTzRBbkZSVE5SaC1sV3Q5N2FSX08tcGtlWjdmYkpDUVk1VzVnVHRXTVRGQ2N0bUg4Z1RrRmlEODcxS09WQ1RubEE?oc=5",
+    "source": "nme",
+    "title": "The cursed story of ‘The Wicker Man’ has a new tragic chapter - NME",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeUxQOGJlbDVSSC0yT0NpcUhkUHhjSGdoMGRYLUF1bmdOSFIzUFY4Z081VkxPNHFXTWxBTVVJd2pOYno3RTNVM3hHUVFsRHJ5dDZXdlVYdVNCdlhSQnBmTWE0Wm5Hak82R0lLRzRINGlISnllVGI2WUFfTzRBbkZSVE5SaC1sV3Q5N2FSX08tcGtlWjdmYkpDUVk1VzVnVHRXTVRGQ2N0bUg4Z1RrRmlEODcxS09WQ1RubEE?oc=5",
+    "publishedAt": "2026-08-10T17:04:49.000Z",
+    "summary": "The cursed story of ‘The Wicker Man’ has a new tragic chapter NME",
     "image": null
   },
   {
@@ -459,30 +495,12 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMirAFBVV95cUxNTXZoYzJUYldFQU02ZnhsMUNhYW9GbnFLYmQ3TUc5LUozOWY4YXEwZlF4dWtDdWpQRHV1VkNGQzhGNm9XZS1KVlh4VmRVSEsyZVlDbzhDZzN5YnhxZkk2YzkxOVZzQ2hZREpZZGMtR3phcWVwcXJKdG82Q1lTNkctNWMwbFdjUElLcEJwNmRFQjR0RXJndHlvNjB2QUR6WDFnajRYcnFOZnpDMTdY?oc=5",
-    "source": "nme",
-    "title": "‘The Simpsons’ Bart actor Nancy Cartwright predicts when the show will end - NME",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTXZoYzJUYldFQU02ZnhsMUNhYW9GbnFLYmQ3TUc5LUozOWY4YXEwZlF4dWtDdWpQRHV1VkNGQzhGNm9XZS1KVlh4VmRVSEsyZVlDbzhDZzN5YnhxZkk2YzkxOVZzQ2hZREpZZGMtR3phcWVwcXJKdG82Q1lTNkctNWMwbFdjUElLcEJwNmRFQjR0RXJndHlvNjB2QUR6WDFnajRYcnFOZnpDMTdY?oc=5",
-    "publishedAt": "2026-08-09T17:13:37.000Z",
-    "summary": "‘The Simpsons’ Bart actor Nancy Cartwright predicts when the show will end NME",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/motley-crue-nikki-sixx-doesnt-believe-in-making-full-length-records-anymore/",
     "source": "loudwire",
     "title": "Why Nikki Sixx Doesn't 'Believe in Making' LPs Anymore",
     "url": "https://loudwire.com/motley-crue-nikki-sixx-doesnt-believe-in-making-full-length-records-anymore/",
     "publishedAt": "2026-08-09T16:17:06.000Z",
     "summary": "The bassist explains why creating \"full-length records\" is no longer appealing or worthwhile for him. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMijAJBVV95cUxPdGNIN0xqcXUwN1M1dU45RWEwbTBFVzNvSF9DOWlvY3d4X2l5aExYQmJ5VWJfakhNN19jM1hVdzFPdmVNUkpQX1F4UmdTazNKb2otUmg2bzdUR19SMkhfTGZSN0cwandMdDZTdkVuYWlvOFdweHc3UWZxM1A5S3dhNWpfZmZ6amM1cGljWUNfci1QNU5JVkgwRXdXUWxRTmFjOWFQVldoZmdOdUNhc0N6SlJkVDJobEplUFNBTTdhNG9uUXBteGVJaEtqSnA4c1g4ZEc3bFVjOUxqMERNRXB3bzRXUHMtbFNSRGtPX1VVaGRSSmdHTFRieHI3WXB2OEhtYzQyZ09ZVjhpVW5Y?oc=5",
-    "source": "nme",
-    "title": "Fans complain after Fugees set cut short at Lauryn Hill's Diaspora Calling! festival: \"The ending was ridiculous\" - NME",
-    "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPdGNIN0xqcXUwN1M1dU45RWEwbTBFVzNvSF9DOWlvY3d4X2l5aExYQmJ5VWJfakhNN19jM1hVdzFPdmVNUkpQX1F4UmdTazNKb2otUmg2bzdUR19SMkhfTGZSN0cwandMdDZTdkVuYWlvOFdweHc3UWZxM1A5S3dhNWpfZmZ6amM1cGljWUNfci1QNU5JVkgwRXdXUWxRTmFjOWFQVldoZmdOdUNhc0N6SlJkVDJobEplUFNBTTdhNG9uUXBteGVJaEtqSnA4c1g4ZEc3bFVjOUxqMERNRXB3bzRXUHMtbFNSRGtPX1VVaGRSSmdHTFRieHI3WXB2OEhtYzQyZ09ZVjhpVW5Y?oc=5",
-    "publishedAt": "2026-08-09T15:27:45.000Z",
-    "summary": "Fans complain after Fugees set cut short at Lauryn Hill's Diaspora Calling! festival: \"The ending was ridiculous\" NME",
     "image": null
   },
   {
@@ -600,24 +618,6 @@
     "url": "https://pitchfork.com/story/11-new-albums-you-should-listen-to-now-ravyn-lenae-karol-g/",
     "publishedAt": "2026-08-07T14:29:14.000Z",
     "summary": "Stream new releases from Ravyn Lenae, Karol G, Flo, and more",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/meshell-ndegeocello-and-cat-power-cover-the-human-leagues-dont-you-want-me/",
-    "source": "pitchfork",
-    "title": "Meshell Ndegeocello and Cat Power Cover the Human League’s “Don’t You Want Me”",
-    "url": "https://pitchfork.com/story/meshell-ndegeocello-and-cat-power-cover-the-human-leagues-dont-you-want-me/",
-    "publishedAt": "2026-08-07T14:25:14.000Z",
-    "summary": "A reggae spin on the synth-pop classic",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/william-orbit-madonna-and-blur-producer-dies-at-69/",
-    "source": "pitchfork",
-    "title": "William Orbit, Madonna and Blur Producer, Dies at 69",
-    "url": "https://pitchfork.com/story/william-orbit-madonna-and-blur-producer-dies-at-69/",
-    "publishedAt": "2026-08-07T13:29:33.000Z",
-    "summary": "The electronic musician had a hand in several ’90s classics, including Ray of Light and 13",
     "image": null
   },
   {
