@@ -1,5 +1,86 @@
 [
   {
+    "id": "pitchfork-https://pitchfork.com/story/shabazz-palaces-readying-new-album-its-a-style-sport/",
+    "source": "pitchfork",
+    "title": "Shabazz Palaces Readying New Album It’s a Style Sport",
+    "url": "https://pitchfork.com/story/shabazz-palaces-readying-new-album-its-a-style-sport/",
+    "publishedAt": "2026-08-11T13:05:50.000Z",
+    "summary": "Ishmael Butler introduces his new LP with “Ahh World (I Won the Alpha Bet)”",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/dwayne-the-rock-johnson-interview-your-dad-music-career-1235606544/",
+    "source": "rolling-stone",
+    "title": "Dwayne ‘The Rock’ Johnson is ‘Exploring’ A Music Career. His New Video Is a Good Start",
+    "url": "https://www.rollingstone.com/music/music-features/dwayne-the-rock-johnson-interview-your-dad-music-career-1235606544/",
+    "publishedAt": "2026-08-11T13:00:00.000Z",
+    "summary": "The superstar premieres a touching new music video, \"Your Dad,\" and reveals he's getting serious about a singing career",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/seth-macfarlane-sings-muppets-songs-new-album-release-date-1236312781/",
+    "source": "billboard",
+    "title": "‘Seth MacFarlane Sings The Muppets’ Classic Songs on His New Album: Here’s the Release Date",
+    "url": "https://www.billboard.com/music/pop/seth-macfarlane-sings-muppets-songs-new-album-release-date-1236312781/",
+    "publishedAt": "2026-08-11T13:00:00.000Z",
+    "summary": "The Emmy winner turns to Kermit and friends for his next project.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/spotify-label-identify-ai-artists/",
+    "source": "billboard",
+    "title": "Spotify to Label AI Artists on the Platform With New ‘AI Persona’ Badge",
+    "url": "https://www.billboard.com/pro/spotify-label-identify-ai-artists/",
+    "publishedAt": "2026-08-11T13:00:00.000Z",
+    "summary": "The music of artists tagged with the label will be excluded from personalized recommendations on the service.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/ms-rachel-announces-album-im-so-happy-1236313497/",
+    "source": "billboard",
+    "title": "Ms. Rachel Announces First-Ever Album ‘I’m So Happy’",
+    "url": "https://www.billboard.com/music/music-news/ms-rachel-announces-album-im-so-happy-1236313497/",
+    "publishedAt": "2026-08-11T13:00:00.000Z",
+    "summary": "The lead single, “I Love a Rainbow,” is out now.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/new-york-mets-kpop-demon-hunters-night-buy-shop-tickets-online-1236312919/",
+    "source": "billboard",
+    "title": "Here’s Where to Buy New York Mets Tickets for ‘KPop Demon Hunters’ Night Online",
+    "url": "https://www.billboard.com/culture/product-recommendations/new-york-mets-kpop-demon-hunters-night-buy-shop-tickets-online-1236312919/",
+    "publishedAt": "2026-08-11T12:35:59.000Z",
+    "summary": "If you're a KPop Demon Hunters fans in NYC, then you could get a free HUNTR/X jersey at the Nationals-Mets game in Queens.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/rod-stewart-cancels-cleveland-show-doctors-more-rest-1236313553/",
+    "source": "billboard",
+    "title": "Rod Stewart Cancels Cleveland Show As Doctors Prescribe More Rest Following ‘Minor Medical Procedure’",
+    "url": "https://www.billboard.com/music/pop/rod-stewart-cancels-cleveland-show-doctors-more-rest-1236313553/",
+    "publishedAt": "2026-08-11T12:31:16.000Z",
+    "summary": "The 81-year-old singer postponed his Cincinnati show on Sunday night (Aug. 9) due to the unidentified medical issue.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/rock-radio-songs-1986/",
+    "source": "loudwire",
+    "title": "40 Songs That Defined Rock Radio in 1986",
+    "url": "https://loudwire.com/rock-radio-songs-1986/",
+    "publishedAt": "2026-08-11T12:14:27.000Z",
+    "summary": "The year may have read 1986, but rock radio was filled with acts that had first came to fame in the 1970s. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rock/travis-barker-daughter-alabama-fear-2008-plane-crash-roof-1236313506/",
+    "source": "billboard",
+    "title": "Travis Barker Recalls Daughter Alabama’s Fear Before His 2008 Plane Crash: ‘The Roof’s Gonna Come Off!’",
+    "url": "https://www.billboard.com/music/rock/travis-barker-daughter-alabama-fear-2008-plane-crash-roof-1236313506/",
+    "publishedAt": "2026-08-11T12:03:28.000Z",
+    "summary": "The Blink-182 drummer spoke to Jay Shetty about the deadly accident while promoting his upcoming Hulu doc Travis Barker: Louder Than Fear.",
+    "image": null
+  },
+  {
     "id": "uncut-https://www.uncut.co.uk/features/the-curious-afterlife-of-neil-youngs-lost-albums-and-the-stories-that-grew-around-them-155825/",
     "source": "uncut",
     "title": "The curious afterlife of Neil Young’s lost albums and the stories that grew around them",
@@ -72,66 +153,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/rock/travis-barker-told-landon-barker-reject-the-voice-1236313349/",
-    "source": "billboard",
-    "title": "Travis Barker Told Son Landon Barker to Turn Down ‘The Voice’: ‘You’re Way Too Cool for That’",
-    "url": "https://www.billboard.com/music/rock/travis-barker-told-landon-barker-reject-the-voice-1236313349/",
-    "publishedAt": "2026-08-11T01:02:37.000Z",
-    "summary": "“If your idol is Kurt Cobain, would he ever do The Voice? No,” the Blink-182 drummer advised his son.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-features/taylor-swift-bad-bunny-trump-remove-tik-tok-songs-1235606235/",
     "source": "rolling-stone",
     "title": "Taylor Swift and Bad Bunny Dealt With Trump Quietly. It’s a Smart Move",
     "url": "https://www.rollingstone.com/music/music-features/taylor-swift-bad-bunny-trump-remove-tik-tok-songs-1235606235/",
     "publishedAt": "2026-08-11T00:00:13.000Z",
     "summary": "Both superstars muted their songs from videos posted by the administration without drawing more attention to the White House",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/concerts/hilary-duff-aaron-carter-t-shirt-concert-philadelphia-1236313331/",
-    "source": "billboard",
-    "title": "Hilary Duff Pays Tribute to Late Ex Aaron Carter During Lucky Me Tour Stop in Philadelphia",
-    "url": "https://www.billboard.com/music/concerts/hilary-duff-aaron-carter-t-shirt-concert-philadelphia-1236313331/",
-    "publishedAt": "2026-08-10T23:57:07.000Z",
-    "summary": "The singer honored her young love by wearing a vintage Aaron Carter T-shirt.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/music-company-earnings-q2-2026-umg-live-nation-hybe-made/",
-    "source": "billboard",
-    "title": "What Every Music Company Made in Q2 2026 (Updating)",
-    "url": "https://www.billboard.com/lists/music-company-earnings-q2-2026-umg-live-nation-hybe-made/",
-    "publishedAt": "2026-08-10T23:39:00.000Z",
-    "summary": "From Live Nation to UMG to SiriusXM, a roundup of what the biggest publicly traded music companies have reported so far for the quarter ending June 30.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/we-belong-here-central-park-2026-lineup-lp-giobbi-angello-1236313296/",
-    "source": "billboard",
-    "title": "LP Giobbi, Steve Angello, Bob Moses & More Set to Headline We Belong Here in Central Park",
-    "url": "https://www.billboard.com/music/music-news/we-belong-here-central-park-2026-lineup-lp-giobbi-angello-1236313296/",
-    "publishedAt": "2026-08-10T23:38:29.000Z",
-    "summary": "The fest returns to the Park's Wollman Rink this Oct. 2-4.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/scott-hoying-mark-daughter-birdie-childrens-album-1236313179/",
-    "source": "billboard",
-    "title": "Pentatonix’s Scott Hoying & Husband Mark Bring Their Baby Girl Along for New Children’s Album ‘Little Birdie’s Big Symphony’",
-    "url": "https://www.billboard.com/music/music-news/scott-hoying-mark-daughter-birdie-childrens-album-1236313179/",
-    "publishedAt": "2026-08-10T23:37:16.000Z",
-    "summary": "The Aug. 20 album will feature Christina Perri, Kina Grannis & Trout Fishing for America, plus the couple's newborn daughter Birdie.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/merlin-hires-jon-glass-general-counsel/",
-    "source": "billboard",
-    "title": "Jon Glass Named General Counsel of Merlin, Leading Legal Affairs and Partnerships",
-    "url": "https://www.billboard.com/pro/merlin-hires-jon-glass-general-counsel/",
-    "publishedAt": "2026-08-10T23:01:00.000Z",
-    "summary": "Glass joins the indie licensing organization after 16 years with Warner Music Group.",
     "image": null
   },
   {
@@ -252,15 +279,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-latin/j-balvin-interview-colombia-medellin-bad-bunny-karol-g-1235605226/",
-    "source": "rolling-stone",
-    "title": "J Balvin: ‘People See the Glory, but Not the Story’",
-    "url": "https://www.rollingstone.com/music/music-latin/j-balvin-interview-colombia-medellin-bad-bunny-karol-g-1235605226/",
-    "publishedAt": "2026-08-10T14:00:00.000Z",
-    "summary": "The Colombian artist goes deep on skyrocketing out of Medellín, working with Bad Bunny and Karol G, and making history over and over",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/aenigmatum-infinitudes-passage-album-review/",
     "source": "louder-than-war",
     "title": "Ænigmatum: Infinitude’s Passage – Album Review",
@@ -308,10 +326,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mN0M4NDZRNkpfX1lYZG5QTl9JNDVSSFZXcGNHNFVnUENCVWNXV2xkZUNFUDhEd19hUk1JVEJVcmZGVUdRV21PZmdNVXg4akFBM2poSURXSGE?oc=5",
     "source": "kerrang",
-    "title": "Wealthy Women News - kerrang.com",
+    "title": "Wealthy Women News - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mN0M4NDZRNkpfX1lYZG5QTl9JNDVSSFZXcGNHNFVnUENCVWNXV2xkZUNFUDhEd19hUk1JVEJVcmZGVUdRV21PZmdNVXg4akFBM2poSURXSGE?oc=5",
     "publishedAt": "2026-08-10T10:29:30.000Z",
-    "summary": "Wealthy Women News kerrang.com",
+    "summary": "Wealthy Women News Kerrang!",
     "image": null
   },
   {
@@ -470,19 +488,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMijwFBVV95cUxNd3BzRUFFQ3Zfc1h1ay01bXd5NFVFYjdSa1Vra0dfU0szSXNYUWJGVUI1WEw0aDRSZkJpRlVHQlBqSEllbGdZRHpEUG1RSUhoMEhDQUtsRURKaTFXb0ZCUVBhSlNsT1RSVlFUOXhCSVBMbXdRb1RnN2EyaG5kdjdSY2ZHVHhvUHVQUzBhOU5nVQ?oc=5",
     "source": "kerrang",
-    "title": "Far from Terrible! How Slaughter To Prevail triumphed at their Bloodstock headline debut - kerrang.com",
+    "title": "Far from Terrible! How Slaughter To Prevail triumphed at their Bloodstock headline debut - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd3BzRUFFQ3Zfc1h1ay01bXd5NFVFYjdSa1Vra0dfU0szSXNYUWJGVUI1WEw0aDRSZkJpRlVHQlBqSEllbGdZRHpEUG1RSUhoMEhDQUtsRURKaTFXb0ZCUVBhSlNsT1RSVlFUOXhCSVBMbXdRb1RnN2EyaG5kdjdSY2ZHVHhvUHVQUzBhOU5nVQ?oc=5",
     "publishedAt": "2026-08-09T10:10:00.000Z",
-    "summary": "Far from Terrible! How Slaughter To Prevail triumphed at their Bloodstock headline debut kerrang.com",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/o-n-i-jake-olde-new-music-interview/",
-    "source": "loudwire",
-    "title": "O.N.I.'s Jake Olde Opens Up About Personal Journey — Interview",
-    "url": "https://loudwire.com/o-n-i-jake-olde-new-music-interview/",
-    "publishedAt": "2026-08-09T00:52:15.000Z",
-    "summary": "Jake Olde discusses the journey he's been on from his previous band, Oni, to his latest project, O.N.I., in this new interview. Continue reading…",
+    "summary": "Far from Terrible! How Slaughter To Prevail triumphed at their Bloodstock headline debut Kerrang!",
     "image": null
   },
   {
@@ -605,28 +614,28 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMElNNENOelVnRzVVRkRpTUg1enBETjZiY2NIZGNaU0FUTWNLSG1ZTE1VY2ZRWFBkTzAybmMyR1lIUkhGMHNseUF2MzV3N0ZGOGdqeGFvTmZPREsyX2FUcGlzQ28wd05LWVd5QzZqTTJXOXdHZVdOZ3p1UTNoNjNSUDFtS2FHRmZlb0dlbnZONklyWHlxVTlSb1BVSU1KTmx1em9Cc3VTVGd2ajA0SDYxN3N4ek54eTRfMFlYbzF0S0ZWZ2RPMWZid3NUMHc4V0pjS1JnV2F2eGs1ajNwTFp4ajhRT213WHM?oc=5",
     "source": "kerrang",
-    "title": "\"We wanted to carve out our own piece of territory\": Dead Poet… - kerrang.com",
+    "title": "\"We wanted to carve out our own piece of territory\": Dead Poet… - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMElNNENOelVnRzVVRkRpTUg1enBETjZiY2NIZGNaU0FUTWNLSG1ZTE1VY2ZRWFBkTzAybmMyR1lIUkhGMHNseUF2MzV3N0ZGOGdqeGFvTmZPREsyX2FUcGlzQ28wd05LWVd5QzZqTTJXOXdHZVdOZ3p1UTNoNjNSUDFtS2FHRmZlb0dlbnZONklyWHlxVTlSb1BVSU1KTmx1em9Cc3VTVGd2ajA0SDYxN3N4ek54eTRfMFlYbzF0S0ZWZ2RPMWZid3NUMHc4V0pjS1JnV2F2eGs1ajNwTFp4ajhRT213WHM?oc=5",
     "publishedAt": "2026-08-07T10:41:00.000Z",
-    "summary": "\"We wanted to carve out our own piece of territory\": Dead Poet… kerrang.com",
+    "summary": "\"We wanted to carve out our own piece of territory\": Dead Poet… Kerrang!",
     "image": null
   },
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMigwFBVV95cUxQNGNwZG9RaFdQSEMxQ1p5TUl1WHVXcmF4VmpEbFoyT3k2a1YyajRBblNwT0tZbEUwT2d1anpieDZrOHl5WEZWZkpranQ0dTEwNXY3RWw2eF9TSzF2Z2cwdnhVM0xWLXdMb0FaRUlzUzNiMUNWT01XSE13cFByRWduaFljbw?oc=5",
     "source": "kerrang",
-    "title": "Album review: Din Of Celestial Birds – Takeoffs & Landings - kerrang.com",
+    "title": "Album review: Din Of Celestial Birds – Takeoffs & Landings - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNGNwZG9RaFdQSEMxQ1p5TUl1WHVXcmF4VmpEbFoyT3k2a1YyajRBblNwT0tZbEUwT2d1anpieDZrOHl5WEZWZkpranQ0dTEwNXY3RWw2eF9TSzF2Z2cwdnhVM0xWLXdMb0FaRUlzUzNiMUNWT01XSE13cFByRWduaFljbw?oc=5",
     "publishedAt": "2026-08-07T10:00:00.000Z",
-    "summary": "Album review: Din Of Celestial Birds – Takeoffs & Landings kerrang.com",
+    "summary": "Album review: Din Of Celestial Birds – Takeoffs & Landings Kerrang!",
     "image": null
   },
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMib0FVX3lxTE1zUS1GRHctUkppTkdiNHhCX1ZrYkFkMXRwMlowVWRnZko1R29BZGprOV9LcUVtOXJvV2xPX3VHMWZXT05nT2xCYkZZUllqTjgwZUMzX2JGT1NwZS1WdTNVa1B1TURlQ20weXFlQUpISQ?oc=5",
     "source": "kerrang",
-    "title": "Album Review: Electric Callboy – Tanzneid - kerrang.com",
+    "title": "Album Review: Electric Callboy – Tanzneid - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zUS1GRHctUkppTkdiNHhCX1ZrYkFkMXRwMlowVWRnZko1R29BZGprOV9LcUVtOXJvV2xPX3VHMWZXT05nT2xCYkZZUllqTjgwZUMzX2JGT1NwZS1WdTNVa1B1TURlQ20weXFlQUpISQ?oc=5",
     "publishedAt": "2026-08-07T09:24:00.000Z",
-    "summary": "Album Review: Electric Callboy – Tanzneid kerrang.com",
+    "summary": "Album Review: Electric Callboy – Tanzneid Kerrang!",
     "image": null
   },
   {
@@ -636,15 +645,6 @@
     "url": "https://www.uncut.co.uk/features/how-creedence-clearwater-revival-became-bigger-than-the-beatles-155690/",
     "publishedAt": "2026-08-07T07:48:55.000Z",
     "summary": "At the heart of their astonishing rise was Green River, the album that transformed them into superstars",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/fakemink-new-song-love-is-a-dog-from-hell/",
-    "source": "pitchfork",
-    "title": "Fakemink Drops New Song “Love Is a Dog From Hell”",
-    "url": "https://pitchfork.com/story/fakemink-new-song-love-is-a-dog-from-hell/",
-    "publishedAt": "2026-08-07T03:35:31.000Z",
-    "summary": "The OK-produced track is the rapper’s first release since May’s Terrified",
     "image": null
   },
   {
