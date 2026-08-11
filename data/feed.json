@@ -1,5 +1,95 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "source": "billboard",
+    "title": "Billboard’s Music Industry Events Calendar",
+    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "publishedAt": "2026-08-11T22:38:00.000Z",
+    "summary": "A complete rundown of the most important events across the music business.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/cardi-b-ah-ha-top-10-debut-hot-rap-songs-chart-hot-100-1236314443/",
+    "source": "billboard",
+    "title": "Cardi B Earns a Hot Rap Songs Top 10 for a 10th Straight Year With ‘AH HA’",
+    "url": "https://www.billboard.com/music/chart-beat/cardi-b-ah-ha-top-10-debut-hot-rap-songs-chart-hot-100-1236314443/",
+    "publishedAt": "2026-08-11T22:37:29.000Z",
+    "summary": "The standalone single is Cardi's 30th top 10 on the chart.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/rod-stewart-heart-procedure-cancels-tour-1235607202/",
+    "source": "rolling-stone",
+    "title": "Rod Stewart Undergoes Successful Heart Procedure, Cancels Tour Dates to Recover",
+    "url": "https://www.rollingstone.com/music/music-news/rod-stewart-heart-procedure-cancels-tour-1235607202/",
+    "publishedAt": "2026-08-11T22:25:11.000Z",
+    "summary": "After a routine coronary stent procedure, the singer is taking time off his One Last Time Tour to heal",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/trump-kennedy-center-lawsuit-jazz-musician-wins-legal-fees/",
+    "source": "billboard",
+    "title": "Trump’s Kennedy Center Ordered to Pay $250,000 to Jazz Musician Who Defeated Lawsuit",
+    "url": "https://www.billboard.com/pro/trump-kennedy-center-lawsuit-jazz-musician-wins-legal-fees/",
+    "publishedAt": "2026-08-11T22:18:44.000Z",
+    "summary": "Chuck Redd faced litigation after pulling out of a Christmas Eve concert in protest of the venue adding Donald Trump's name to its moniker.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/beyonce-buys-sirdavis-whisky-brand-controlling-stake/",
+    "source": "billboard",
+    "title": "Beyoncé Buys Out LVMH for Control of SirDavis Whisky: Reports",
+    "url": "https://www.billboard.com/pro/beyonce-buys-sirdavis-whisky-brand-controlling-stake/",
+    "publishedAt": "2026-08-11T22:01:31.000Z",
+    "summary": "The rye whiskey, which retails for $89 a bottle, is now reportedly under the star's control.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/ariana-grande-petal-number-one-five-burning-questions-1236314358/",
+    "source": "billboard",
+    "title": "How Did Ariana Grande’s ‘Petal’ Album Earn Her Best First-Week Numbers of the Decade?",
+    "url": "https://www.billboard.com/music/chart-beat/ariana-grande-petal-number-one-five-burning-questions-1236314358/",
+    "publishedAt": "2026-08-11T21:31:21.000Z",
+    "summary": "This week's Five Burning Questions looks at Grande's latest, which bows atop the Billboard 200 this week.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/backstreet-boys-snoop-dogg-vegas-sphere-residency-1236314176/",
+    "source": "billboard",
+    "title": "Backstreet Boys Invite Snoop Dogg to Their Las Vegas Sphere Residency",
+    "url": "https://www.billboard.com/music/music-news/backstreet-boys-snoop-dogg-vegas-sphere-residency-1236314176/",
+    "publishedAt": "2026-08-11T21:27:50.000Z",
+    "summary": "Kevin Richardson also weighed in on his doppelgänger.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/sb19-lollapalooza-new-song-lawless-interview-1236313165/",
+    "source": "billboard",
+    "title": "SB19 Has No Plans to Stop Breaking Barriers: ‘It Feels Like We’re Unstoppable’",
+    "url": "https://www.billboard.com/music/pop/sb19-lollapalooza-new-song-lawless-interview-1236313165/",
+    "publishedAt": "2026-08-11T21:27:35.000Z",
+    "summary": "The P-pop boy group talks to Billboard about its Lollapalooza set, repping Filipino culture and loyal fanbase.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/bruno-mars-risk-it-all-number-one-radio-songs-chart-1236314260/",
+    "source": "billboard",
+    "title": "Bruno Mars’ ‘Risk It All’ Rewarded, Hits No. 1 on Radio Songs Chart",
+    "url": "https://www.billboard.com/music/chart-beat/bruno-mars-risk-it-all-number-one-radio-songs-chart-1236314260/",
+    "publishedAt": "2026-08-11T21:00:45.000Z",
+    "summary": "The ballad also tops Pop Airplay, as Mars extends his marks for the most leaders among male acts on the charts.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/fred-again-latin-mafia-number-one-9-months-50-hours-1236313187/",
+    "source": "billboard",
+    "title": "Fred again.. & Latin Mafia Take ‘9 months & 50 hours’ to No. 1: ‘We’re So Happy!’",
+    "url": "https://www.billboard.com/music/chart-beat/fred-again-latin-mafia-number-one-9-months-50-hours-1236313187/",
+    "publishedAt": "2026-08-11T20:53:59.000Z",
+    "summary": "Born from a 50-hour Mexico City livestream, the set debuts at No. 1 on Top Latin Pop Albums.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/rb-hip-hop/dj-envy-chris-brown-performer-michael-jackson-1236313458/",
     "source": "billboard",
     "title": "DJ Envy Crowns Chris Brown As the ‘Greatest Performer Ever: ‘Better Than Michael Jackson’",
@@ -9,84 +99,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/video/billboard-hot-latin-songs-top-10-countdown-august-15-2026/",
-    "source": "billboard",
-    "title": "Billboard Hot Latin Songs Top 10 Countdown For August 15 2026 | Billboard Latin",
-    "url": "https://www.billboard.com/video/billboard-hot-latin-songs-top-10-countdown-august-15-2026/",
-    "publishedAt": "2026-08-11T20:36:38.000Z",
-    "summary": "Bad Bunny continues to dominate the Billboard Hot Latin Songs chart with several tracks off his album Debí Tirar Más Fotos, including “EoO” getting a bump after being featured in Spider-Man: Brand New Day. NarratorThis is Billboard’s Top 10 Hot Latin Songs for the week of August 15. Starting the countdown, NetónVega’s “Nalguita & Teta” […]",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/help-impacted-earthquakes-colombia-relief-efforts-donate/",
-    "source": "billboard",
-    "title": "How to Help Those Impacted by the Earthquakes in Colombia (Updated)",
-    "url": "https://www.billboard.com/lists/help-impacted-earthquakes-colombia-relief-efforts-donate/",
-    "publishedAt": "2026-08-11T20:35:49.000Z",
-    "summary": "The seismic event reached the highest magnitude recorded in Colombia in the 21st century.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/latin/success-free-cover-venezuela-live-session-band-interview-1236310240/",
-    "source": "billboard",
-    "title": "The Success Behind Live Session Band ‘Free Cover’: ‘People Want to be Happy’",
-    "url": "https://www.billboard.com/music/latin/success-free-cover-venezuela-live-session-band-interview-1236310240/",
-    "publishedAt": "2026-08-11T20:23:35.000Z",
-    "summary": "The Venezuelan project has gathered many artists, such as Nacho, Grupo Niche, Ilegales and Bacilos.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/ella-langley-choosin-texas-most-played-song-touchtunes-1236314166/",
-    "source": "billboard",
-    "title": "Ella Langley’s ‘Choosin’ Texas’ Remains Most-Played Song on TouchTunes",
-    "url": "https://www.billboard.com/music/chart-beat/ella-langley-choosin-texas-most-played-song-touchtunes-1236314166/",
-    "publishedAt": "2026-08-11T20:14:58.000Z",
-    "summary": "The 17-week Hot 100 No. 1 reigns on TouchTunes’ Q2 2026 ranking.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/shaboozey-outlaw-cherie-lee-debuts-billboard-charts-1236314113/",
-    "source": "billboard",
-    "title": "Shaboozey Rides ‘Western’ Concept Album Onto Multiple Billboard Charts",
-    "url": "https://www.billboard.com/music/chart-beat/shaboozey-outlaw-cherie-lee-debuts-billboard-charts-1236314113/",
-    "publishedAt": "2026-08-11T20:05:36.000Z",
-    "summary": "The Outlaw Cherie Lee & Other Western Tales opens at No. 1 on Independent Albums, among other debuts.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/demi-lovato-cool-for-the-summer-confident-5x-platinum-riaa-1236314109/",
-    "source": "billboard",
-    "title": "These 2 Demi Lovato Hot 100 Hits Have Just Gone 5x Platinum",
-    "url": "https://www.billboard.com/music/music-news/demi-lovato-cool-for-the-summer-confident-5x-platinum-riaa-1236314109/",
-    "publishedAt": "2026-08-11T19:58:17.000Z",
-    "summary": "The singer received new RIAA milestones for two of her biggest hits as she returns to the Disney's Camp Rock 3.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/us-open-tennis-championships-2026-tickets-buy-shop-online-1236313094/",
-    "source": "billboard",
-    "title": "U.S. Open Tennis Championships 2026: Here’s Where to Buy Match Tickets Online",
-    "url": "https://www.billboard.com/culture/product-recommendations/us-open-tennis-championships-2026-tickets-buy-shop-online-1236313094/",
-    "publishedAt": "2026-08-11T19:46:42.000Z",
-    "summary": "The tennis tournament begins on Sunday (Aug. 23) in Queens, New York — buy match tickets here.",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/rock-metal-films-documentaries-summer-fall-2026/",
     "source": "loudwire",
     "title": "5 Big Upcoming Rock + Metal Films That Should Be on Your Radar",
     "url": "https://loudwire.com/rock-metal-films-documentaries-summer-fall-2026/",
     "publishedAt": "2026-08-11T19:41:09.000Z",
     "summary": "Members of the rock and metal world are about to be all over streaming and movie theaters with new films. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/biggest-hot-100-number-2-hits-of-all-time/",
-    "source": "billboard",
-    "title": "The Biggest No. 2 Hot 100 Hits of All Time",
-    "url": "https://www.billboard.com/lists/biggest-hot-100-number-2-hits-of-all-time/",
-    "publishedAt": "2026-08-11T19:34:52.000Z",
-    "summary": "Though they fell short of the Hot 100's top spot, some No. 2 hits have generated cultural legacies that rival or even eclipse their chart-topping competition.",
     "image": null
   },
   {
@@ -114,15 +132,6 @@
     "url": "https://www.rollingstone.com/music/music-lists/all-artists-who-dont-want-donald-trump-using-their-music-1235080043/",
     "publishedAt": "2026-08-11T19:25:27.000Z",
     "summary": "From Céline Dion to the Smith’s Johnny Marr, these musicians have demanded that the former president stop playing their songs at events",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/suge-knight-tupac-murder-trial-wants-to-be-left-out-1236313982/",
-    "source": "billboard",
-    "title": "Suge Knight Wants to Be Left Out of 2Pac’s Murder Trial: ‘I Don’t Get Paid to Solve Homicides’",
-    "url": "https://www.billboard.com/music/rb-hip-hop/suge-knight-tupac-murder-trial-wants-to-be-left-out-1236313982/",
-    "publishedAt": "2026-08-11T18:59:44.000Z",
-    "summary": "Jury selection for Duane \"Keffe D\" Davis' trial in the rapper's killing kicked off in Las Vegas on Aug. 10.",
     "image": null
   },
   {
@@ -240,15 +249,6 @@
     "url": "https://www.rollingstone.com/music/music-news/amy-helm-levon-studio-lawsuit-1235606741/",
     "publishedAt": "2026-08-11T15:28:55.000Z",
     "summary": "The Woodstock venue’s new leadership team claims Levon Helm’s daughter was behind “millions of dollars of self-dealing transactions” during her tenure as president",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/50-years-ago-today-ramones-west-coast-debut-1235606340/",
-    "source": "rolling-stone",
-    "title": "50 Years Ago Today: The Ramones Took on the Punk Skeptics at Their West Coast Debut",
-    "url": "https://www.rollingstone.com/music/music-features/50-years-ago-today-ramones-west-coast-debut-1235606340/",
-    "publishedAt": "2026-08-11T14:44:01.000Z",
-    "summary": "Despite enormous buzz in New York and London, the Ramones faced some resistance when they arrived in Los Angeles for a couple of gigs at the Roxy in August 1976",
     "image": null
   },
   {
