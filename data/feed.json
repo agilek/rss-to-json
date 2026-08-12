@@ -1,5 +1,86 @@
 [
   {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/sean-combs-lil-rod-lawsuit-defamation-selling-video-netflix-1235606148/",
+    "source": "rolling-stone",
+    "title": "Sean Combs Sues Lil Rod for Defamation, Selling Footage to Netflix",
+    "url": "https://www.rollingstone.com/music/music-news/sean-combs-lil-rod-lawsuit-defamation-selling-video-netflix-1235606148/",
+    "publishedAt": "2026-08-12T22:38:03.000Z",
+    "summary": "Combs accused the music producer of selling his personal documentary footage to Netflix and making defamatory statements in the 50-Cent produced docuseries",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/role-model-olivia-rodrigo-maggots-for-brains-cover-botched-1236315162/",
+    "source": "billboard",
+    "title": "Watch Role Model’s Self-Proclaimed ‘Botched’ Cover of Olivia Rodrigo’s ‘Maggots for Brains’",
+    "url": "https://www.billboard.com/music/pop/role-model-olivia-rodrigo-maggots-for-brains-cover-botched-1236315162/",
+    "publishedAt": "2026-08-12T22:34:58.000Z",
+    "summary": "\"Not botched actually,\" one fan assured the singer in the YouTube comments.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/chris-brown-contests-dog-attack-verdict-rihanna-assault/",
+    "source": "billboard",
+    "title": "Chris Brown Contests $13M Dog Attack Verdict Over ‘Inflammatory’ Rihanna Assault Mention",
+    "url": "https://www.billboard.com/pro/chris-brown-contests-dog-attack-verdict-rihanna-assault/",
+    "publishedAt": "2026-08-12T22:28:24.000Z",
+    "summary": "The R&B star is seeking a new trial, arguing that jurors shouldn't have heard about his criminal record.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/country/neil-perry-band-perry-fired-kimberly-perry-1236315102/",
+    "source": "billboard",
+    "title": "Neil Perry Opens Up About The Band Perry’s Shifting Lineup, Says He Was ‘Terminated’ From Family Band",
+    "url": "https://www.billboard.com/music/country/neil-perry-band-perry-fired-kimberly-perry-1236315102/",
+    "publishedAt": "2026-08-12T22:19:54.000Z",
+    "summary": "\"I explicitly asked my sister not to misrepresent my support for the current version of the band,\" Neil writes of Kimberly Perry moving forward with her husband.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/camp-rock-3-jonas-brothers-watch-stream-online-free-1236314387/",
+    "source": "billboard",
+    "title": "The Jonas Brothers’ Comeback Continues With ‘Camp Rock 3’ Release: Here’s Where to Watch Online Free",
+    "url": "https://www.billboard.com/culture/product-recommendations/camp-rock-3-jonas-brothers-watch-stream-online-free-1236314387/",
+    "publishedAt": "2026-08-12T21:54:24.000Z",
+    "summary": "Attention millennials: Get your latest dose of nostalgia by tuning into the highly anticipated sequel starting Thursday (Aug. 13).",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/tate-mcrae-lollpalooza-set-new-era-streams-trending-up-1236315069/",
+    "source": "billboard",
+    "title": "How Much Did Tate McRae’s Streams Rise Following Her Buzzy Lollapalooza Set & New Era Tease?",
+    "url": "https://www.billboard.com/music/chart-beat/tate-mcrae-lollpalooza-set-new-era-streams-trending-up-1236315069/",
+    "publishedAt": "2026-08-12T21:47:20.000Z",
+    "summary": "This week's Trending Up looks at how excited the seemingly imminent return of Tate McRae has her fans, along with trends boosting 2010s hits from Tove Lo and Justin Timberlake.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/music-company-earnings-q2-2026-umg-live-nation-hybe-made/",
+    "source": "billboard",
+    "title": "What Every Music Company Made in Q2 2026 (Updating)",
+    "url": "https://www.billboard.com/lists/music-company-earnings-q2-2026-umg-live-nation-hybe-made/",
+    "publishedAt": "2026-08-12T21:00:00.000Z",
+    "summary": "From Live Nation to UMG to SiriusXM, a roundup of what the biggest publicly traded music companies have reported so far for the quarter ending June 30.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/latin/nicky-jam-el-shadow-la-foto-music-video-1236314920/",
+    "source": "billboard",
+    "title": "Nicky Jam Drops ‘La Foto’ With Cuban Newcomer El Shadow After Discovering Him on Instagram",
+    "url": "https://www.billboard.com/music/latin/nicky-jam-el-shadow-la-foto-music-video-1236314920/",
+    "publishedAt": "2026-08-12T21:00:00.000Z",
+    "summary": "Watch the exclusive video premiere of the song on Billboard.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/kim-kardashian-wins-round-ray-j-defamation-war-1235607722/",
+    "source": "rolling-stone",
+    "title": "Kim Kardashian and Kris Jenner Win Another Round in Ray J Defamation War",
+    "url": "https://www.rollingstone.com/music/music-news/kim-kardashian-wins-round-ray-j-defamation-war-1235607722/",
+    "publishedAt": "2026-08-12T20:54:24.000Z",
+    "summary": "A judge ruled the women can proceed with their lawsuit claiming Ray J \"maliciously\" defamed them with the suggestion they were — or should be — the targets of a racketeering investigation",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/culture/product-recommendations/travis-barker-louder-than-fear-documentary-stream-online-1236313707/",
     "source": "billboard",
     "title": "Here’s How to Watch ‘Travis Barker: Louder Than Fear’ Online for Free",
@@ -27,42 +108,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/pro/kim-kardashian-kris-jenner-ray-j-defamation-lawsuit-2/",
-    "source": "billboard",
-    "title": "Kim Kardashian & Kris Jenner Clear Major Hurdle in Ray J Defamation Lawsuit",
-    "url": "https://www.billboard.com/pro/kim-kardashian-kris-jenner-ray-j-defamation-lawsuit-2/",
-    "publishedAt": "2026-08-12T20:25:30.000Z",
-    "summary": "A judge denied Ray J’s motion to outright dismiss libel claims brought by the famous mother-daughter duo.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/tws-soda-soda-japan-hot-100-aimyon-ai-wo-tsutaetaidatoka-1236315223/",
-    "source": "billboard",
-    "title": "TWS’ ‘SODA SODA’ Tops Japan Hot 100 as Aimyon’s ‘Ai Wo Tsutaetaidatoka’ Returns After Nearly Four Years",
-    "url": "https://www.billboard.com/music/chart-beat/tws-soda-soda-japan-hot-100-aimyon-ai-wo-tsutaetaidatoka-1236315223/",
-    "publishedAt": "2026-08-12T19:52:18.000Z",
-    "summary": "ME:I's “Flower Road” enters at No. 2.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/sara-ito-interview-billboard-japan-women-in-music-1236315216/",
-    "source": "billboard",
-    "title": "Sara Ito Talks Believing in Herself and Living as a Dancer in L.A.: Billboard Japan Women In Music Interview",
-    "url": "https://www.billboard.com/music/music-news/sara-ito-interview-billboard-japan-women-in-music-1236315216/",
-    "publishedAt": "2026-08-12T19:49:29.000Z",
-    "summary": "The performer spoke to Billboard Japan online from Los Angeles about the beliefs that carried her across the ocean.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/kun-deadman-tour-macau-opening-concerts-1236315201/",
-    "source": "billboard",
-    "title": "KUN Kicks Off ‘THE DEADMAN’ Tour in Macau: See Photos",
-    "url": "https://www.billboard.com/music/music-news/kun-deadman-tour-macau-opening-concerts-1236315201/",
-    "publishedAt": "2026-08-12T19:45:44.000Z",
-    "summary": "Beyond its cinematic storytelling, the show also revealed KUN’s strength as a live performer.",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/avenged-sevenfold-fan-viral-singing/",
     "source": "loudwire",
     "title": "Avenged Sevenfold Fan Goes Viral After Singing With Band at Show",
@@ -81,15 +126,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/pro/msge-fiscal-2026-earnings-lady-gaga-knicks-1b-year/",
-    "source": "billboard",
-    "title": "MSGE Earnings: Lady Gaga, New York Knicks and the Christmas Spectacular Drive a $1 Billion Fiscal Year",
-    "url": "https://www.billboard.com/pro/msge-fiscal-2026-earnings-lady-gaga-knicks-1b-year/",
-    "publishedAt": "2026-08-12T19:29:27.000Z",
-    "summary": "Profits rose 16% on strong ticket sales and a doubling of concerts at the Garden between April and June.",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/hayley-williams-project-power-snatch-dropped-a-new-ep/",
     "source": "pitchfork",
     "title": "Hayley Williams’ Band Power Snatch Drop Second EP of 2026",
@@ -99,30 +135,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/culture/lifestyle/meet-hip-hops-new-acts-trending-up-1236315163/",
-    "source": "billboard",
-    "title": "Meet Hip-Hop’s Buzziest New Acts in Billboard’s ‘Trending Up’ Series",
-    "url": "https://www.billboard.com/culture/lifestyle/meet-hip-hops-new-acts-trending-up-1236315163/",
-    "publishedAt": "2026-08-12T19:21:21.000Z",
-    "summary": "Meet the new wave of artists pushing it to the center of every hip-hop conversation",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/neil-perry-kimberly-band-fired-1235607600/",
     "source": "rolling-stone",
     "title": "Neil Perry Claims He Was ‘Terminated’ From the Band Perry",
     "url": "https://www.rollingstone.com/music/music-news/neil-perry-kimberly-band-fired-1235607600/",
     "publishedAt": "2026-08-12T19:17:18.000Z",
-    "summary": "\"I believe it’s fair to correct a false narrative, especially after asking to not be misrepresented,\" Neil Perry tells Rolling Stone, after a series of Instagram posts addressing comments his sister made on the Nashville Now podcast",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/linkin-park-from-zero-world-tour-grosses-biggest-career/",
-    "source": "billboard",
-    "title": "From Zero to $250 Million: Linkin Park’s Comeback Tour Was the Biggest of the Band’s Career",
-    "url": "https://www.billboard.com/pro/linkin-park-from-zero-world-tour-grosses-biggest-career/",
-    "publishedAt": "2026-08-12T19:12:33.000Z",
-    "summary": "The From Zero World Tour lasted two years and visited 23 countries on five continents.",
+    "summary": "“I believe it’s fair to correct a false narrative, especially after asking to not be misrepresented,” Neil Perry tells Rolling Stone, after a series of Instagram posts addressing comments his sister made on the Nashville Now podcast",
     "image": null
   },
   {
@@ -258,24 +276,6 @@
     "url": "https://pitchfork.com/story/kathleen-hanna-and-ad-rock-cover-dj-snake-and-justin-biebers-let-me-love-you/",
     "publishedAt": "2026-08-12T14:09:54.000Z",
     "summary": "For a new anti-ICE benefit compilation that also features Tom Morello, Jello Biafra, and Fred Armisen",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/kathleen-hanna-ad-rock-tom-morello-ice-1235606749/",
-    "source": "rolling-stone",
-    "title": "Kathleen Hanna, Ad-Rock, Tom Morello, More Tapped for ‘Contra-ICE Vol. 1: ICE OUT’ Benefit Album",
-    "url": "https://www.rollingstone.com/music/music-news/kathleen-hanna-ad-rock-tom-morello-ice-1235606749/",
-    "publishedAt": "2026-08-12T14:06:49.000Z",
-    "summary": "Fred Armisen, Fishbone, and more contribute to compilation with proceeds going to National Day Laborer Organizing Network and Unión del Barrio",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/steve-lacy-oh-yeah-north-american-tour-dates-1235607338/",
-    "source": "rolling-stone",
-    "title": "Steve Lacy Is Bringing ‘Oh Yeah?’ on the Road With North American Tour",
-    "url": "https://www.rollingstone.com/music/music-news/steve-lacy-oh-yeah-north-american-tour-dates-1235607338/",
-    "publishedAt": "2026-08-12T14:05:16.000Z",
-    "summary": "The musician will make stops at Radio City Music Hall and the Hollywood Bowl during the run of shows scheduled to begin on September 27",
     "image": null
   },
   {
