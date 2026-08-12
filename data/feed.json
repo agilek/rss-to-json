@@ -1,5 +1,23 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/pro/billboard-uk-40-under-40-list-2026-nominations/",
+    "source": "billboard",
+    "title": "Billboard U.K. to Launch Inaugural 40 Under 40 List, Host Honors Event at Manchester’s Beyond The Music Festival",
+    "url": "https://www.billboard.com/pro/billboard-uk-40-under-40-list-2026-nominations/",
+    "publishedAt": "2026-08-12T09:00:00.000Z",
+    "summary": "The list will be celebrated with an exclusive event as part of the conference’s official programming.",
+    "image": null
+  },
+  {
+    "id": "uncut-https://www.uncut.co.uk/features/how-ai-lets-us-hear-the-beatles-in-a-whole-new-way-155823/",
+    "source": "uncut",
+    "title": "How AI lets us hear The Beatles in a whole new way",
+    "url": "https://www.uncut.co.uk/features/how-ai-lets-us-hear-the-beatles-in-a-whole-new-way-155823/",
+    "publishedAt": "2026-08-12T07:53:08.000Z",
+    "summary": "New technology is revealing hidden conversations, buried performances and fresh insights into how The Beatles created their music",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/rosario-dawson-spider-man-brand-new-day-cameo-cut-1235607303/",
     "source": "rolling-stone",
     "title": "Rosario Dawson Confirms Her Cameo Was Cut From ‘Spider-Man: Brand New Day’",
@@ -105,15 +123,6 @@
     "url": "https://www.billboard.com/music/chart-beat/fleetwood-mac-greatest-hits-reissue-billboard-charts-1236314533/",
     "publishedAt": "2026-08-11T23:42:09.000Z",
     "summary": "After its expanded reissue, the best-of bounds to new highs on multiple charts.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/best-jack-harlow-merch-apparel-buy-shop-online-1236314317/",
-    "source": "billboard",
-    "title": "Jack Harlow’s Official Online Store Drops New T-Shirts, Beanies, Hoodies & More: Shop the Best Merch Now",
-    "url": "https://www.billboard.com/culture/product-recommendations/best-jack-harlow-merch-apparel-buy-shop-online-1236314317/",
-    "publishedAt": "2026-08-11T22:58:22.000Z",
-    "summary": "Here's how to shop the rapper's best merch and apparel online.",
     "image": null
   },
   {
@@ -290,7 +299,7 @@
   {
     "id": "uncut-https://www.uncut.co.uk/reviews/martin-carthys-along-the-road-forever-live-at-the-bbc-reviewed-the-folk-giant-who-helped-keep-britains-musical-traditions-alive-155868/",
     "source": "uncut",
-    "title": "Martin Carthy’s Along The Road Forever: Live At The BBC reviewed – the folk giant who helped keep Britain’s musical traditions alive",
+    "title": "Martin Carthy’s Along The Road Forever: Live At The BBC reviewed – how the folk giant helped keep Britain’s musical traditions alive",
     "url": "https://www.uncut.co.uk/reviews/martin-carthys-along-the-road-forever-live-at-the-bbc-reviewed-the-folk-giant-who-helped-keep-britains-musical-traditions-alive-155868/",
     "publishedAt": "2026-08-11T17:15:02.000Z",
     "summary": "20 enlightening, essential discs from a custodian of the British folk tradition",
@@ -708,15 +717,6 @@
     "url": "https://www.uncut.co.uk/reviews/the-lost-legacy-of-ma-rainey-the-mother-of-the-blues-155812/",
     "publishedAt": "2026-08-06T12:16:17.000Z",
     "summary": "A lavish new box set revisits the recordings of the “Mother Of The Blues”, whose pioneering spirit continues to resonate a century later",
-    "image": null
-  },
-  {
-    "id": "uncut-https://www.uncut.co.uk/features/he-just-doesnt-give-a-f-inside-the-restless-world-of-neil-young-by-stephen-stills-graham-nash-emmylou-harris-more-155687/",
-    "source": "uncut",
-    "title": "“He just doesn’t give a f***”: inside the restless world of Neil Young, by Stephen Stills, Graham Nash, Emmylou Harris & more",
-    "url": "https://www.uncut.co.uk/features/he-just-doesnt-give-a-f-inside-the-restless-world-of-neil-young-by-stephen-stills-graham-nash-emmylou-harris-more-155687/",
-    "publishedAt": "2026-08-06T12:13:08.000Z",
-    "summary": "Friends and bandmates offer their highlights of a fearless, single-minded artist",
     "image": null
   }
 ]
