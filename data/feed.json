@@ -1,5 +1,23 @@
 [
   {
+    "id": "uncut-https://www.uncut.co.uk/features/the-20-greatest-southern-rock-albums-of-all-time-ranked-155860/",
+    "source": "uncut",
+    "title": "The 20 Greatest Southern Rock Albums Of All Time… Ranked!",
+    "url": "https://www.uncut.co.uk/features/the-20-greatest-southern-rock-albums-of-all-time-ranked-155860/",
+    "publishedAt": "2026-08-13T07:34:37.000Z",
+    "summary": "Our countdown of the records that defined, challenged and reinvented the sound of the American South",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/taylor-swift-i-bet-you-think-about-me-removed-trump-tiktok-1236315607/",
+    "source": "billboard",
+    "title": "Taylor Swift’s ‘I Bet You Think About Me’ Is Her Latest Song Removed From a Trump TikTok Post",
+    "url": "https://www.billboard.com/music/music-news/taylor-swift-i-bet-you-think-about-me-removed-trump-tiktok-1236315607/",
+    "publishedAt": "2026-08-13T06:47:15.000Z",
+    "summary": "The White House TikTok account affiliated with Donald Trump has posted another video, soundbedded with TayTay’s music. And that music has been quietly scrubbed.",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/hayley-williams-band-power-snatch-ep2-1235607900/",
     "source": "rolling-stone",
     "title": "Hayley Williams’ Band Power Snatch Surprise Drop ‘EP2’",
@@ -105,15 +123,6 @@
     "url": "https://www.rollingstone.com/music/music-news/sean-combs-lil-rod-lawsuit-defamation-selling-video-netflix-1235606148/",
     "publishedAt": "2026-08-12T22:38:03.000Z",
     "summary": "Combs accused the music producer of selling his personal documentary footage to Netflix and making defamatory statements in the 50-Cent produced docuseries",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/pop/role-model-olivia-rodrigo-maggots-for-brains-cover-botched-1236315162/",
-    "source": "billboard",
-    "title": "Watch Role Model’s Self-Proclaimed ‘Botched’ Cover of Olivia Rodrigo’s ‘Maggots for Brains’",
-    "url": "https://www.billboard.com/music/pop/role-model-olivia-rodrigo-maggots-for-brains-cover-botched-1236315162/",
-    "publishedAt": "2026-08-12T22:34:58.000Z",
-    "summary": "\"Not botched actually,\" one fan assured the singer in the YouTube comments.",
     "image": null
   },
   {
@@ -360,6 +369,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUjBHX0ZJUmtUUDdXcllnOTF1Y0pyMXM3dUhCSGdtNVdMQUFRY2ZkellOSkFyS1o4djFjSEMtejJsaUFRVnlOMS1jNVB6aEJQUUpZRm9zakxMdWk4OFR5Y3g1a2RLQWgxdmUxU2tPOHhTWnFqeHZNOUduVFhPT3FJSWdpeUsyZkZObl9Wckl6bi1HSjE3bFlCSUdGSmZFdjZHNjF6NFI3Z2o?oc=5",
+    "source": "nme",
+    "title": "Phoebe Bridgers announces intimate phone-free UK album launch gigs - NME",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUjBHX0ZJUmtUUDdXcllnOTF1Y0pyMXM3dUhCSGdtNVdMQUFRY2ZkellOSkFyS1o4djFjSEMtejJsaUFRVnlOMS1jNVB6aEJQUUpZRm9zakxMdWk4OFR5Y3g1a2RLQWgxdmUxU2tPOHhTWnFqeHZNOUduVFhPT3FJSWdpeUsyZkZObl9Wckl6bi1HSjE3bFlCSUdGSmZFdjZHNjF6NFI3Z2o?oc=5",
+    "publishedAt": "2026-08-12T12:01:06.000Z",
+    "summary": "Phoebe Bridgers announces intimate phone-free UK album launch gigs NME",
+    "image": null
+  },
+  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY3pSdGZJUEotWkh3elB6RlJOSzR5MkZLWXVxb0txVnA3b1B3NmxzU2xlTlQtU2htX1FneldvUUlGVTBheVFoUU5uRFU4OERlam1jdk5JZ0E0alNWQXgxeS0tT1o3RldqQVMxUG1IaV8zSnRtVTdZVUJtTlRkUk1GZ1lzemhlRk9DZVJGY2lHTTYycXVFVXZPd0tDS0lkM0ttdzRlQnk4czU3alhKMVN0NzgzS1dCYU15NGVDVXlYbnRub2doTG4zQlNpdDBOT1Np?oc=5",
     "source": "kerrang",
     "title": "Waterparks announce intimate U.S. tour with revolving setlists - Kerrang!",
@@ -540,15 +558,6 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMinwJBVV95cUxNRFBuTjBOOVpXNGtrN29Vc0RkVUV6eFNBVndXLUw5MWlMT2IyM2l2RnFSd09pRy1tXzh1ZE9PMXd3Z3VxdzdpcnVvbGRhYlFTd1dNWm1BS3lLbndKN2c5dUNaM2xWY3JOdGJmeENUUzItbVhSa3hreGN1a2d4M1RheGc1eG5ZSkxRV2hRVFRNZUJKcXVpSmlzOEpZeW9WTXZaRThxUk1CUkxxOGdsRlZ5UzRoRXcxbWJkN2wxUFNuQXNZOFJaQ1c0eDJGZDYwWWJEZUpvQnlLeXZXOHpRWTc4RTRCeEpXMEpsSG9XMFhBbEtpNmE3SVl2S0ZrNE5hWmlkSE9yWDRETU5id0paWmFlRThDM2dpUzlyYUtRN080Zw?oc=5",
-    "source": "nme",
-    "title": "'The Office' star Lucy Davis reveals \"incurable\" breast cancer diagnosis: \"I'm trying to live out whatever might be left of my life in as fun a way as I possibly can\" - NME",
-    "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNRFBuTjBOOVpXNGtrN29Vc0RkVUV6eFNBVndXLUw5MWlMT2IyM2l2RnFSd09pRy1tXzh1ZE9PMXd3Z3VxdzdpcnVvbGRhYlFTd1dNWm1BS3lLbndKN2c5dUNaM2xWY3JOdGJmeENUUzItbVhSa3hreGN1a2d4M1RheGc1eG5ZSkxRV2hRVFRNZUJKcXVpSmlzOEpZeW9WTXZaRThxUk1CUkxxOGdsRlZ5UzRoRXcxbWJkN2wxUFNuQXNZOFJaQ1c0eDJGZDYwWWJEZUpvQnlLeXZXOHpRWTc4RTRCeEpXMEpsSG9XMFhBbEtpNmE3SVl2S0ZrNE5hWmlkSE9yWDRETU5id0paWmFlRThDM2dpUzlyYUtRN080Zw?oc=5",
-    "publishedAt": "2026-08-11T17:33:00.000Z",
-    "summary": "'The Office' star Lucy Davis reveals \"incurable\" breast cancer diagnosis: \"I'm trying to live out whatever might be left of my life in as fun a way as I possibly can\" NME",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/reviews/getdown-services-massive-champion-reviewed-bristol-duo-deliver-a-delightfully-unhinged-triumph-155877/",
     "source": "uncut",
     "title": "Getdown Services’ Massive Champion reviewed: Bristol duo deliver a delightfully unhinged triumph",
@@ -708,15 +717,6 @@
     "url": "https://www.uncut.co.uk/news/margo-cilker-shares-new-track-little-white-cross-155803/",
     "publishedAt": "2026-08-06T16:00:00.000Z",
     "summary": "It's the title track of the Americana adventurer's upcoming fourth album",
-    "image": null
-  },
-  {
-    "id": "uncut-https://www.uncut.co.uk/reviews/the-lost-legacy-of-ma-rainey-the-mother-of-the-blues-155812/",
-    "source": "uncut",
-    "title": "The lost legacy of Ma Rainey, the mother of the Blues",
-    "url": "https://www.uncut.co.uk/reviews/the-lost-legacy-of-ma-rainey-the-mother-of-the-blues-155812/",
-    "publishedAt": "2026-08-06T12:16:17.000Z",
-    "summary": "A lavish new box set revisits the recordings of the “Mother Of The Blues”, whose pioneering spirit continues to resonate a century later",
     "image": null
   }
 ]
