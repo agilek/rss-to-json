@@ -1,5 +1,41 @@
 [
   {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/hayley-williams-band-power-snatch-ep2-1235607900/",
+    "source": "rolling-stone",
+    "title": "Hayley Williams’ Band Power Snatch Surprise Drop ‘EP2’",
+    "url": "https://www.rollingstone.com/music/music-news/hayley-williams-band-power-snatch-ep2-1235607900/",
+    "publishedAt": "2026-08-13T05:28:34.000Z",
+    "summary": "The singer's band with producer Daniel James released their second project on Wednesday",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rock/ecca-vandal-trans-atlantic-tour-beautiful-type-of-chaos-1236315579/",
+    "source": "billboard",
+    "title": "Ecca Vandal’s Trans-Atlantic Tour Is ‘A Beautiful Type of Chaos’",
+    "url": "https://www.billboard.com/music/rock/ecca-vandal-trans-atlantic-tour-beautiful-type-of-chaos-1236315579/",
+    "publishedAt": "2026-08-13T04:39:59.000Z",
+    "summary": "Billboard caught up with Ecca Vandal ahead of her headline tours of the United Kingdom, Europe and North America.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/rufus-du-sol-lay-low-solid-amount-of-time-1236315572/",
+    "source": "billboard",
+    "title": "RÜFÜS DU SOL Plan to Lay Low For ‘A Solid Amount of Time’",
+    "url": "https://www.billboard.com/music/music-news/rufus-du-sol-lay-low-solid-amount-of-time-1236315572/",
+    "publishedAt": "2026-08-13T02:55:21.000Z",
+    "summary": "After completing their ongoing \"Inhale / Exhale World Tour,\" RDS will take a decent break until they have new music to share.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/photos/katseye-tonight-show-photos-animal-performance-jimmy-fallon-inside-1236315527/",
+    "source": "billboard",
+    "title": "Inside KATSEYE on ‘Tonight Show’: Their Wild ‘Animal’ TV Debut, Thanking Fans for ‘Support’ During Sophia & Manon Hiatus (Exclusive Photos)",
+    "url": "https://www.billboard.com/photos/katseye-tonight-show-photos-animal-performance-jimmy-fallon-inside-1236315527/",
+    "publishedAt": "2026-08-13T02:16:47.000Z",
+    "summary": "The current quartet return to 'The Tonight Show Starring Jimmy Fallon' to make their late-night performance debut.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/rock/the-neighbourhood-sweater-weather-billion-views-youtube-1236315500/",
     "source": "billboard",
     "title": "The Neighbourhood’s ‘Sweater Weather’ Cozies Its Way Into YouTube’s Billion Views Club",
@@ -81,33 +117,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/pro/chris-brown-contests-dog-attack-verdict-rihanna-assault/",
-    "source": "billboard",
-    "title": "Chris Brown Contests $13M Dog Attack Verdict Over ‘Inflammatory’ Rihanna Assault Mention",
-    "url": "https://www.billboard.com/pro/chris-brown-contests-dog-attack-verdict-rihanna-assault/",
-    "publishedAt": "2026-08-12T22:28:24.000Z",
-    "summary": "The R&B star is seeking a new trial, arguing that jurors shouldn't have heard about his criminal record.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/country/neil-perry-band-perry-fired-kimberly-perry-1236315102/",
-    "source": "billboard",
-    "title": "Neil Perry Opens Up About The Band Perry’s Shifting Lineup, Says He Was ‘Terminated’ From Family Band",
-    "url": "https://www.billboard.com/music/country/neil-perry-band-perry-fired-kimberly-perry-1236315102/",
-    "publishedAt": "2026-08-12T22:19:54.000Z",
-    "summary": "\"I explicitly asked my sister not to misrepresent my support for the current version of the band,\" Neil writes of Kimberly Perry moving forward with her husband.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/camp-rock-3-jonas-brothers-watch-stream-online-free-1236314387/",
-    "source": "billboard",
-    "title": "The Jonas Brothers’ Comeback Continues With ‘Camp Rock 3’ Release: Here’s Where to Watch Online Free",
-    "url": "https://www.billboard.com/culture/product-recommendations/camp-rock-3-jonas-brothers-watch-stream-online-free-1236314387/",
-    "publishedAt": "2026-08-12T21:54:24.000Z",
-    "summary": "Attention millennials: Get your latest dose of nostalgia by tuning into the highly anticipated sequel starting Thursday (Aug. 13).",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/kim-kardashian-wins-round-ray-j-defamation-war-1235607722/",
     "source": "rolling-stone",
     "title": "Kim Kardashian and Kris Jenner Win Another Round in Ray J Defamation War",
@@ -150,6 +159,15 @@
     "url": "https://www.rollingstone.com/music/music-news/neil-perry-kimberly-band-fired-1235607600/",
     "publishedAt": "2026-08-12T19:17:18.000Z",
     "summary": "“I believe it’s fair to correct a false narrative, especially after asking to not be misrepresented,” Neil Perry tells Rolling Stone, after a series of Instagram posts addressing comments his sister made on the Nashville Now podcast",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMingFBVV95cUxOSnp2djhsT3l6V2xWZ3VIN2RwVWNIc3lJVVVUTlpCclRSaWs5WVM2endsaTdvTHZHR0J3eWtqRnU5bGprdXRtRXN3V09YLXdHUUp2Mi1aYzllOXE3TEpvMENUcDZyOHlLTTZ4RnlZakZPcl9fUk00NTF3ZVpEUkdDTlY2RTBjWVdaNFpxWTN0dU5wOXBFRWtGUHhKZUpvZw?oc=5",
+    "source": "nme",
+    "title": "Eurovision Song Contest changes rules for countries at war - NME",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSnp2djhsT3l6V2xWZ3VIN2RwVWNIc3lJVVVUTlpCclRSaWs5WVM2endsaTdvTHZHR0J3eWtqRnU5bGprdXRtRXN3V09YLXdHUUp2Mi1aYzllOXE3TEpvMENUcDZyOHlLTTZ4RnlZakZPcl9fUk00NTF3ZVpEUkdDTlY2RTBjWVdaNFpxWTN0dU5wOXBFRWtGUHhKZUpvZw?oc=5",
+    "publishedAt": "2026-08-12T19:16:03.000Z",
+    "summary": "Eurovision Song Contest changes rules for countries at war NME",
     "image": null
   },
   {
@@ -213,15 +231,6 @@
     "url": "https://www.rollingstone.com/music/music-latin/becky-g-baraja-bendita-album-meaning-selena-gomez-karol-g-1235606616/",
     "publishedAt": "2026-08-12T16:30:16.000Z",
     "summary": "The Mexican American star opens up about her new LP, Baraja Bendita, fighting for her community, and representing with Selena Gomez and Karol G",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/ai-war-suno-music-industry-partner-bmg-1235607385/",
-    "source": "rolling-stone",
-    "title": "Amidst AI-Music War, Suno Finds Another Industry Partner in BMG",
-    "url": "https://www.rollingstone.com/music/music-features/ai-war-suno-music-industry-partner-bmg-1235607385/",
-    "publishedAt": "2026-08-12T16:19:34.000Z",
-    "summary": "Two out of three major labels are still suing AI-music giant Suno, but the company is partnering with the fourth-largest music company, BMG, on new models",
     "image": null
   },
   {
@@ -384,6 +393,15 @@
     "url": "https://louderthanwar.com/watch-this-the-dirt-release-new-video-end-game/",
     "publishedAt": "2026-08-12T11:07:34.000Z",
     "summary": "A year on from their excellent album Monkeypunch reviewed here, The Dirt have decided to release a video for one of their strongest singles from said album – End Game, a six minute psych rant of wise words and sonic noise. Not only that, it features a homage to their fans with a few surprise […] The post Watch this! The Dirt release new video End Game. appeared first on Louder Than War.",
+    "image": null
+  },
+  {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMihwFBVV95cUxOYzl3MHJGN01abzNfdjhCRUxKUDFIRjZPaFI3SGtSZjFrTloyZ2VQdnlkRjVtZ0Z4bUN3bE1FcEpwRVVXVHhfai1mbmIyUUxkVS1jMmtxangwTmVCdXYxbEhUNWNIVE1mZ3BfLVBEVnAzSGlmQllTWFROQ1VBcDB0Y1BTYXQ0Y1U?oc=5",
+    "source": "kerrang",
+    "title": "Neurosis announced for two special sets at Roadburn 2027 - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYzl3MHJGN01abzNfdjhCRUxKUDFIRjZPaFI3SGtSZjFrTloyZ2VQdnlkRjVtZ0Z4bUN3bE1FcEpwRVVXVHhfai1mbmIyUUxkVS1jMmtxangwTmVCdXYxbEhUNWNIVE1mZ3BfLVBEVnAzSGlmQllTWFROQ1VBcDB0Y1BTYXQ0Y1U?oc=5",
+    "publishedAt": "2026-08-12T10:38:00.000Z",
+    "summary": "Neurosis announced for two special sets at Roadburn 2027 Kerrang!",
     "image": null
   },
   {
@@ -558,15 +576,6 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMiswFBVV95cUxPd1dRcmRMcE5DUWFWS01pMGpjWFlWRlVkZzBtUEhqd1ZlV29ZQlhWd1I2LWJlbTlYQnU2NmRPd0dhZjU2cW5Gc1ZlbjJxUnBjTU1JZjQ0dklYYVNod2NkRlh1VFdoZXItRk0zZVc3aWU1a1NvbVRIOUlSMEZ2cm5sUG9falU1LUFzVGtYTlIwWWNxWEZRcXBTZ2h2ejBsZ1Y4d083MGpKeUJRcmxWMFN3RkZNYw?oc=5",
-    "source": "nme",
-    "title": "DJ Shadow announces 30th anniversary reissue and tour of the classic ‘Endtroducing’ - NME",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd1dRcmRMcE5DUWFWS01pMGpjWFlWRlVkZzBtUEhqd1ZlV29ZQlhWd1I2LWJlbTlYQnU2NmRPd0dhZjU2cW5Gc1ZlbjJxUnBjTU1JZjQ0dklYYVNod2NkRlh1VFdoZXItRk0zZVc3aWU1a1NvbVRIOUlSMEZ2cm5sUG9falU1LUFzVGtYTlIwWWNxWEZRcXBTZ2h2ejBsZ1Y4d083MGpKeUJRcmxWMFN3RkZNYw?oc=5",
-    "publishedAt": "2026-08-11T15:49:48.000Z",
-    "summary": "DJ Shadow announces 30th anniversary reissue and tour of the classic ‘Endtroducing’ NME",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/travis-barker-daughter-warning-plane-crash/",
     "source": "loudwire",
     "title": "The Warning Travis Barker’s Daughter Gave Him Before Plane Crash",
@@ -681,15 +690,6 @@
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcmt3SERSMVJpcEp5MG9INjZmaGp6UWtpSHhRSkk1S1ZwZlJoT3NWNEVaTHVEM0tDeG5Rd2wyaUJ4QXc2TDJCNks3V1lpdDFhbXM5Nk1uX3ZISWdpTXVpWWFILU9jbXdQZDNZZHdZMVlZWnhYd3NQYjBTbkRnampDcWpSRGlnUXR2REVMMUc3YUw?oc=5",
     "publishedAt": "2026-08-07T12:30:00.000Z",
     "summary": "“It’s always been Metal Overdrive”: Wacken founder Thomas Jensen… Kerrang!",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTXUxaVlpVWN1U2NrcEZIVjdac0Z3VEwzeU5GMy1KTTFNcVEtbUZiLUdocTUtSlZhVzRkT1ZnQ3VCN1RqelJKbkhraUhLUzRvR2ZsazlKUnlxMHJpZ1hHYkg3dDBBUTEzTUFfYkdzRFlvYWc2MjI1Z2k0bEVaUVUxbUs3WkstMEVkTndYa1IwNmNhTmk3dHZRenpGOUN1TXBVTktJZWlrQkFIWHF1ejNuaGRiYU1WbVRCc0hmRnBqWVQ2cWFveGVtQVp5MVVMY3EwSUZidG1mYWV5YVVvZWhTRWcxLUVsZy1RSnZ3UjUzOF94SUp2?oc=5",
-    "source": "kerrang",
-    "title": "Here are the stage times for All Points East presents Outbreak 2026 - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTXUxaVlpVWN1U2NrcEZIVjdac0Z3VEwzeU5GMy1KTTFNcVEtbUZiLUdocTUtSlZhVzRkT1ZnQ3VCN1RqelJKbkhraUhLUzRvR2ZsazlKUnlxMHJpZ1hHYkg3dDBBUTEzTUFfYkdzRFlvYWc2MjI1Z2k0bEVaUVUxbUs3WkstMEVkTndYa1IwNmNhTmk3dHZRenpGOUN1TXBVTktJZWlrQkFIWHF1ejNuaGRiYU1WbVRCc0hmRnBqWVQ2cWFveGVtQVp5MVVMY3EwSUZidG1mYWV5YVVvZWhTRWcxLUVsZy1RSnZ3UjUzOF94SUp2?oc=5",
-    "publishedAt": "2026-08-07T11:32:00.000Z",
-    "summary": "Here are the stage times for All Points East presents Outbreak 2026 Kerrang!",
     "image": null
   },
   {
