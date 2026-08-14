@@ -1,20 +1,164 @@
 [
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/missy-elliott-aaliyah-one-in-a-million-30-year-anniversary-1236316674/",
-    "source": "billboard",
-    "title": "Missy Elliott Celebrates 30 Years of Aaliyah’s ‘Futuristic & Distinctive’ Album ‘One In a Million’",
-    "url": "https://www.billboard.com/music/music-news/missy-elliott-aaliyah-one-in-a-million-30-year-anniversary-1236316674/",
-    "publishedAt": "2026-08-14T16:43:55.000Z",
-    "summary": "\"One In a Million wasn’t just an album; it was art [and] a masterpiece,\" the rapper wrote.",
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/california-bill-cap-concert-ticket-resale-prices-fails-1235609292/",
+    "source": "rolling-stone",
+    "title": "California Bill Aiming to Cap Concert Ticket Resale Prices Fails",
+    "url": "https://www.rollingstone.com/music/music-news/california-bill-cap-concert-ticket-resale-prices-fails-1235609292/",
+    "publishedAt": "2026-08-14T18:57:20.000Z",
+    "summary": "AB 1720, also known as the California Fans First Act, would have capped concert tickets resale prices to no more than 10 percent of face value",
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/rock/brian-bell-weezer-confirms-movie-finished-2027-1236316698/",
+    "id": "billboard-https://www.billboard.com/pro/recording-academy-may-revamp-asian-pop-category-2027-awards/",
     "source": "billboard",
-    "title": "Weezer Guitarist Brian Bell Confirms Band’s 2027 Movie Is ‘In the Can’",
-    "url": "https://www.billboard.com/music/rock/brian-bell-weezer-confirms-movie-finished-2027-1236316698/",
-    "publishedAt": "2026-08-14T16:41:09.000Z",
-    "summary": "Singer Rivers Cuomo told a 2025 Coachella crowd that the band was shooting the film in Los Angeles before their gig.",
+    "title": "Recording Academy May Revamp New Asian Pop Category For 2027 Awards",
+    "url": "https://www.billboard.com/pro/recording-academy-may-revamp-asian-pop-category-2027-awards/",
+    "publishedAt": "2026-08-14T18:56:49.000Z",
+    "summary": "\"There are some artists in this space who feel that this category isn’t representing the music they work so hard to create,\" Harvey Mason, Jr. said in a statement.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/albums-with-country-airplay-number-1s-by-women/",
+    "source": "billboard",
+    "title": "From Wynonna to Ella Langley: Albums With 3 or More Country Airplay No. 1s by Women",
+    "url": "https://www.billboard.com/lists/albums-with-country-airplay-number-1s-by-women/",
+    "publishedAt": "2026-08-14T18:49:15.000Z",
+    "summary": "Langley’s Dandelion is the first set in more than a decade to join an exclusive club stretching back to 1992.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/megan-thee-stallion-signs-interscope-distribution/",
+    "source": "billboard",
+    "title": "Megan Thee Stallion Signs Distribution Partnership With Interscope Records: ‘Act: III Is on Thee Way’",
+    "url": "https://www.billboard.com/pro/megan-thee-stallion-signs-interscope-distribution/",
+    "publishedAt": "2026-08-14T18:31:15.000Z",
+    "summary": "\"I’m excited for this next chapter of growth and the expansion of my Hot Girl Productions empire,\" Megan said in a statement.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/katseye-phoebe-bridgers-best-new-music-this-week-poll-1236316724/",
+    "source": "billboard",
+    "title": "From KATSEYE to Phoebe Bridgers & More, Which New Music Release Is Your Favorite This Week? Vote!",
+    "url": "https://www.billboard.com/music/music-news/katseye-phoebe-bridgers-best-new-music-this-week-poll-1236316724/",
+    "publishedAt": "2026-08-14T18:18:20.000Z",
+    "summary": "Ayra Starr, Masicka, Jorja Smith and Morgan Freeman also dropped fresh projects.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/jay-weinberg-legal-restrictions-prevented-collaborating/",
+    "source": "loudwire",
+    "title": "Jay Weinberg Reveals Legal Restrictions Prevented Collaborations",
+    "url": "https://loudwire.com/jay-weinberg-legal-restrictions-prevented-collaborating/",
+    "publishedAt": "2026-08-14T18:15:33.000Z",
+    "summary": "Jay Weinberg has revealed that legal restrictions prevented him from collaborating with other artists and that part of his creativity 'was dying' as a result. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/phoebe-bridgers-i-cant-wait-cameron-winter-video-1235606840/",
+    "source": "rolling-stone",
+    "title": "Phoebe Bridgers Drops Video for Cameron Winter Duet ‘I Can’t Wait’",
+    "url": "https://www.rollingstone.com/music/music-news/phoebe-bridgers-i-cant-wait-cameron-winter-video-1235606840/",
+    "publishedAt": "2026-08-14T18:00:00.000Z",
+    "summary": "After six long years, the singer-songwriter's new album Lost Weekend is out now",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/slash-guns-n-roses-lost-boys-1235609306/",
+    "source": "rolling-stone",
+    "title": "Slash Talks Shredding With Broadway’s Vampires in ‘The Lost Boys’",
+    "url": "https://www.rollingstone.com/music/music-features/slash-guns-n-roses-lost-boys-1235609306/",
+    "publishedAt": "2026-08-14T17:54:07.000Z",
+    "summary": "Guns N’ Roses guitarist joins Tony-winning vampire musical he co-produced for a one-off performance of “Have to Have You”",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/bmg-concord-deal-lawyer-nixon-peabody-music-jobs/",
+    "source": "billboard",
+    "title": "Executive Turntable: Lawyer Who Advised on BMG-Concord Deal Joins Nixon Peabody; THE·TEAM Adds Teammates",
+    "url": "https://www.billboard.com/lists/bmg-concord-deal-lawyer-nixon-peabody-music-jobs/",
+    "publishedAt": "2026-08-14T17:49:37.000Z",
+    "summary": "This week's column also includes hires, promotions and other executive moves at Virgin Music Group, Version III, Tape Room Music and Hey Now Records.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rock/kelly-osbourne-bashes-dee-snider-diminishing-ozzy-lyric-writing-1236316732/",
+    "source": "billboard",
+    "title": "Kelly Osbourne Bashes ‘Spectacularly Classless’ Dee Snider For ‘Diminishing’ Ozzy’s Lyrical Contributions to Solo, Sabbath Albums",
+    "url": "https://www.billboard.com/music/rock/kelly-osbourne-bashes-dee-snider-diminishing-ozzy-lyric-writing-1236316732/",
+    "publishedAt": "2026-08-14T17:41:54.000Z",
+    "summary": "Snider responded to Kelly's lengthy posts by saying that while Black Sabbath \"changed my life,\" as a songwriter he gets a bit \"touchy\" about credits.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/cardi-b-bia-feud-reignited-x-comments-spaces-1236316584/",
+    "source": "billboard",
+    "title": "Cardi B Reignites BIA Feud With a Spaces Rant After BIA Doubles Down on Diss Track",
+    "url": "https://www.billboard.com/music/rb-hip-hop/cardi-b-bia-feud-reignited-x-comments-spaces-1236316584/",
+    "publishedAt": "2026-08-14T17:38:07.000Z",
+    "summary": "BIA also shut down claims she slept with Offset.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/silverada-living-proof-album-honky-tonk-1235609311/",
+    "source": "rolling-stone",
+    "title": "Silverada, a Honky-Tonk Band, Did the Unthinkable: Trading Pedal Steel for Keys. It’s Working",
+    "url": "https://www.rollingstone.com/music/music-features/silverada-living-proof-album-honky-tonk-1235609311/",
+    "publishedAt": "2026-08-14T17:24:56.000Z",
+    "summary": "On their new album Living Proof, the group F.K.A. Mike and the Moonpies prove they're far more than just twang",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/songs-that-were-big-uk-hits-but-not-in-the-u-s/",
+    "source": "billboard",
+    "title": "Every Song That Topped the U.K. Chart for 8 or More Weeks, But Didn’t Make the Top 10 on the Hot 100",
+    "url": "https://www.billboard.com/lists/songs-that-were-big-uk-hits-but-not-in-the-u-s/",
+    "publishedAt": "2026-08-14T17:21:53.000Z",
+    "summary": "\"Rein Me In” by Sam Fender and Olivia Dean is the first single to log 21 weeks at No. 1 in the U.K. It hasn't even made the top 40 on the Hot 100.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/brandi-carlile-covers-alanis-morissette-uninvited-newport-1235609182/",
+    "source": "rolling-stone",
+    "title": "Brandi Carlile’s Raging Cover of Alanis Morissette’s ‘Uninvited’ Is for All of Us",
+    "url": "https://www.rollingstone.com/music/music-country/brandi-carlile-covers-alanis-morissette-uninvited-newport-1235609182/",
+    "publishedAt": "2026-08-14T17:04:51.000Z",
+    "summary": "The singer-songwriter transformed Morissette’s 1998 single into a cathartic rock cleanse during her recent Newport Folk Festival performance",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/dolly-parton-health-issues-dehydrated-roller-coaster-1235609256/",
+    "source": "rolling-stone",
+    "title": "Dolly Parton Gives Health Update at New Roller Coaster Unveiling",
+    "url": "https://www.rollingstone.com/music/music-country/dolly-parton-health-issues-dehydrated-roller-coaster-1235609256/",
+    "publishedAt": "2026-08-14T17:00:17.000Z",
+    "summary": "The country legend spoke to fans in a video message Friday morning, sharing that dehydration kept her from the opening of a Dollywood theme park ride in person",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/the-reytons-love-letter-to-a-broken-town-number-1-album-uk-1236316594/",
+    "source": "billboard",
+    "title": "The Reytons Bests FLO to Earn Band’s Second U.K. No. 1 Album",
+    "url": "https://www.billboard.com/music/chart-beat/the-reytons-love-letter-to-a-broken-town-number-1-album-uk-1236316594/",
+    "publishedAt": "2026-08-14T17:00:14.000Z",
+    "summary": "The Rotherham-formed group first hit the top spot in 2023.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/sam-fender-olivia-dean-rein-me-in-number-1-uk-21-weeks-1236316622/",
+    "source": "billboard",
+    "title": "Sam Fender & Olivia Dean’s ‘Rein Me In’ Scores Record-Extending 21st Week at No. 1",
+    "url": "https://www.billboard.com/music/chart-beat/sam-fender-olivia-dean-rein-me-in-number-1-uk-21-weeks-1236316622/",
+    "publishedAt": "2026-08-14T17:00:00.000Z",
+    "summary": "The pair boasts the all time record for the U.K.'s longest-running No. 1 single.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/rush-cover-story-tour-interview-geddy-alex-1235607576/",
+    "source": "rolling-stone",
+    "title": "Return of the Kings: Inside Rush’s Fifty Something Tour",
+    "url": "https://www.rollingstone.com/music/music-features/rush-cover-story-tour-interview-geddy-alex-1235607576/",
+    "publishedAt": "2026-08-14T17:00:00.000Z",
+    "summary": "Geddy Lee, Alex Lifeson, and new drummer Anika Nilles tell all about rock’s biggest and most unlikely tour: “I’m this age now. Can I still do it?”",
     "image": null
   },
   {
@@ -23,16 +167,7 @@
     "title": "The Charts and the Clubs Have Different Definitions of the Song of the Summer",
     "url": "https://www.rollingstone.com/music/music-features/song-of-the-summer-on-the-charts-in-the-clubs-1235597440/",
     "publishedAt": "2026-08-14T16:40:39.000Z",
-    "summary": "With songs like \"Choosin' Texas\" and \"Spend Dat\" blasting everywhere, DJs have their own ideas about what rules the season",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/taylor-swift-i-knew-it-i-knew-you-number-1-adult-pop-airplay-1236315955/",
-    "source": "billboard",
-    "title": "Taylor Swift Breaks Record for Most Adult Pop Airplay No. 1s With ‘I Knew It, I Knew You’",
-    "url": "https://www.billboard.com/music/chart-beat/taylor-swift-i-knew-it-i-knew-you-number-1-adult-pop-airplay-1236315955/",
-    "publishedAt": "2026-08-14T16:32:48.000Z",
-    "summary": "The Toy Story single is her 16th top-shelf hit at the format.",
+    "summary": "With songs like “Choosin’ Texas” and “Spend Dat” blasting everywhere, DJs have their own ideas about what rules the season",
     "image": null
   },
   {
@@ -54,57 +189,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/katseye-kuromi-target-collaboration-buy-shop-online-1236316543/",
-    "source": "billboard",
-    "title": "KATSEYE & Kuromi Are Bringing Their ‘WILD’ Energy to Target With a New Collection",
-    "url": "https://www.billboard.com/culture/product-recommendations/katseye-kuromi-target-collaboration-buy-shop-online-1236316543/",
-    "publishedAt": "2026-08-14T16:08:08.000Z",
-    "summary": "The K-pop act marks its latest EP release with a Kuromi collection featuring apparel, collectibles, drinkware and more.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/retch-ftw-2-interview-1236309590/",
-    "source": "billboard",
-    "title": "RetcH Talks ‘Point Guard’ Video, ‘FTW 2’ & Four-Year Hiatus: ‘I Have a Totally New Perspective on This Whole Thing’",
-    "url": "https://www.billboard.com/music/rb-hip-hop/retch-ftw-2-interview-1236309590/",
-    "publishedAt": "2026-08-14T16:01:00.000Z",
-    "summary": "The Jersey rapper decided to go back to basics and dropped a sequel to 'Finesse the World' last month. Check out our conversation.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/katseyes-wild-new-ep-tracks-ranked/",
-    "source": "billboard",
-    "title": "KATSEYE’s ‘WILD’ New EP: All Six Tracks Ranked",
-    "url": "https://www.billboard.com/lists/katseyes-wild-new-ep-tracks-ranked/",
-    "publishedAt": "2026-08-14T15:49:25.000Z",
-    "summary": "KATSEYE’s WILD may only be six songs, but they’re filled with flirtation, heartbreak and chaos.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/live-nation-settles-lawsuit-luke-bryan-concert-brawl/",
-    "source": "billboard",
-    "title": "Live Nation Settles Lawsuit Over Luke Bryan Concert Brawl",
-    "url": "https://www.billboard.com/pro/live-nation-settles-lawsuit-luke-bryan-concert-brawl/",
-    "publishedAt": "2026-08-14T15:47:16.000Z",
-    "summary": "The deal comes after a judge ordered a trial over accusations Live Nation failed to stop a fight that saw a concertgoer “violently beaten into unconsciousness.”",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-country/marco-rubio-playlist-johnny-cash-edm-1235608303/",
     "source": "rolling-stone",
     "title": "Marco Rubio Claims to Like Johnny Cash — But Only EDM Remixes",
     "url": "https://www.rollingstone.com/music/music-country/marco-rubio-playlist-johnny-cash-edm-1235608303/",
     "publishedAt": "2026-08-14T15:40:37.000Z",
-    "summary": "During a podcast interview, the Secretary of State said he doesn't listen to country music because \"most of the songs are about, like, somebody whose wife and dog left them\"",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/phoebe-bridgers-becky-g-benny-blanco-songs-you-need-to-know-1235609181/",
-    "source": "rolling-stone",
-    "title": "Phoebe Bridgers, Becky G, Benny Blanco, And All the Songs You Need to Know This Week",
-    "url": "https://www.rollingstone.com/music/music-features/phoebe-bridgers-becky-g-benny-blanco-songs-you-need-to-know-1235609181/",
-    "publishedAt": "2026-08-14T15:39:30.000Z",
-    "summary": "Looking for the week’s best new music? Check out our Songs You Need to Know playlist",
+    "summary": "During a podcast interview, the Secretary of State said he doesn’t listen to country music because “most of the songs are about, like, somebody whose wife and dog left them”",
     "image": null
   },
   {
@@ -114,33 +204,6 @@
     "url": "https://loudwire.com/kelly-osbourne-calls-out-dee-snider-over-ozzy/",
     "publishedAt": "2026-08-14T15:08:45.000Z",
     "summary": "Kelly Osbourne fires back at Dee Snider after comments on social media appeared to downplay some of his musical legacy. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/peter-katsis-music-manager-tribute-korn-limp-bizkit-1235608074/",
-    "source": "rolling-stone",
-    "title": "In Praise of Peter Katsis, the Firm, and the Loudest, Wildest Era in Rock Music",
-    "url": "https://www.rollingstone.com/music/music-features/peter-katsis-music-manager-tribute-korn-limp-bizkit-1235608074/",
-    "publishedAt": "2026-08-14T15:06:23.000Z",
-    "summary": "We were built for ripping the doors off the hinges, in a moment when everybody in the world still sang together",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/sheryl-crow-pick-you-up-album-freedom-bus-single-1235608720/",
-    "source": "rolling-stone",
-    "title": "Sheryl Crow Previews New Album ‘Pick You Up’ With Jesse Welles Collaboration ‘Freedom Bus’",
-    "url": "https://www.rollingstone.com/music/music-news/sheryl-crow-pick-you-up-album-freedom-bus-single-1235608720/",
-    "publishedAt": "2026-08-14T15:06:16.000Z",
-    "summary": "\"My wish is that whoever hears these songs feels the hope I feel when I sing them,\" Crow shared about the album, out Oct. 9",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/pop/derry-brownson-death-emf-keyboardist-dead-unbelievable-obituary-1236316588/",
-    "source": "billboard",
-    "title": "EMF Announces Death of Founding Keyboardist Derry Brownson: ‘Nothing Will Ever Be the Same Again’",
-    "url": "https://www.billboard.com/music/pop/derry-brownson-death-emf-keyboardist-dead-unbelievable-obituary-1236316588/",
-    "publishedAt": "2026-08-14T15:03:39.000Z",
-    "summary": "The founding member of the \"Unbelievable\" dance-pop group was 55.",
     "image": null
   },
   {
@@ -162,57 +225,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/nipsey-hussle-bino-rideaux-blacc-sam-ty-dolla-sign-prolific-1236314641/",
-    "source": "billboard",
-    "title": "How Blacc Sam & Bino Rideaux Continued Nipsey Hussle’s Marathon With ‘Prolific’: ‘His Music Is Timeless’",
-    "url": "https://www.billboard.com/music/rb-hip-hop/nipsey-hussle-bino-rideaux-blacc-sam-ty-dolla-sign-prolific-1236314641/",
-    "publishedAt": "2026-08-14T14:31:57.000Z",
-    "summary": "Recorded in 2017, Prolific arrived on Friday (Aug. 14), with appearances from Cardi B, Ty Dolla $ign, Leon Thomas and more big names.",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/dave-chappelle-calls-out-diaspora-calling-fest-fugees-set-1235608369/",
-    "source": "rolling-stone",
-    "title": "Dave Chappelle Calls Out Diaspora Calling! Festival for Cutting Fugees Set Short: ‘Y’all F–ked Up’",
-    "url": "https://www.rollingstone.com/music/music-news/dave-chappelle-calls-out-diaspora-calling-fest-fugees-set-1235608369/",
-    "publishedAt": "2026-08-14T14:25:29.000Z",
-    "summary": "“You’re fucking up history,\" the comedian said in footage from the event, where Lauryn Hill and Wyclef Jean were only able to perform for one hour after beginning their set late",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/11-new-albums-you-should-listen-to-now-phoebe-bridgers-lrain-and-more/",
     "source": "pitchfork",
     "title": "11 New Albums You Should Listen to Now: Phoebe Bridgers, L’Rain, and More",
     "url": "https://pitchfork.com/story/11-new-albums-you-should-listen-to-now-phoebe-bridgers-lrain-and-more/",
     "publishedAt": "2026-08-14T14:13:26.000Z",
     "summary": "Stream new releases from Phoebe Bridgers, L’Rain, and more",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rock/sheryl-crow-freedom-bus-song-pick-you-up-1236316201/",
-    "source": "billboard",
-    "title": "Sheryl Crow Previews New Album With ‘Freedom Bus,’ A Song Inspired By Veterans, Free Speech &  ‘Thoughtful Dialogue’",
-    "url": "https://www.billboard.com/music/rock/sheryl-crow-freedom-bus-song-pick-you-up-1236316201/",
-    "publishedAt": "2026-08-14T14:00:00.000Z",
-    "summary": "\"I do not take freedom lightly, because our freedom has been paid for in the lives of others throughout history,\" says the Rock & Roll Hall of Famer.",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/phoebe-bridgers-lost-weekend-easter-eggs-lyrics-music-1235608218/",
-    "source": "rolling-stone",
-    "title": "All the Easter Eggs We Found on Phoebe Bridgers’ ‘Lost Weekend’",
-    "url": "https://www.rollingstone.com/music/music-features/phoebe-bridgers-lost-weekend-easter-eggs-lyrics-music-1235608218/",
-    "publishedAt": "2026-08-14T14:00:00.000Z",
-    "summary": "Subtle references to Elliott Smith, Damien Jurado, Bright Eyes, and more are there if you listen closely enough to the music and lyrics on her new album",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/elton-john-wallpaper-review-50-years-ago-today-1235608188/",
-    "source": "rolling-stone",
-    "title": "50 Years Ago Today: ‘The New York Times’ Calls Elton John ‘Wallpaper Music’",
-    "url": "https://www.rollingstone.com/music/music-features/elton-john-wallpaper-review-50-years-ago-today-1235608188/",
-    "publishedAt": "2026-08-14T13:35:31.000Z",
-    "summary": "The review from his record-breaking, seven-night stand at Madison Square Garden enraged the singer. \"It was the most piss elegant review I’ve ever seen,\" he told Rolling Stone later that year",
     "image": null
   },
   {
@@ -234,6 +252,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMimAFBVV95cUxNS0FVQ1B0amZJaXJPTXJEWkRKZ1puZWd4QzNjWHNTZXUxWEdNNVc3bVdtc2RmZ2xrUHZkZjlEUEE3b0k1R19YRG9BNHFRcFJvOUY5V3ZxTlhCMzZibXlQRWpOU21ueVFvYVIyOUVYR1puRW5DY1cxbVdlZ1AtOVFCTHVkcnZ4WXdOd096SnBRbHBCQkQyYWhESg?oc=5",
+    "source": "nme",
+    "title": "Royal Blood announce 2026 UK headline tour - NME",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS0FVQ1B0amZJaXJPTXJEWkRKZ1puZWd4QzNjWHNTZXUxWEdNNVc3bVdtc2RmZ2xrUHZkZjlEUEE3b0k1R19YRG9BNHFRcFJvOUY5V3ZxTlhCMzZibXlQRWpOU21ueVFvYVIyOUVYR1puRW5DY1cxbVdlZ1AtOVFCTHVkcnZ4WXdOd096SnBRbHBCQkQyYWhESg?oc=5",
+    "publishedAt": "2026-08-14T10:24:11.000Z",
+    "summary": "Royal Blood announce 2026 UK headline tour NME",
+    "image": null
+  },
+  {
     "id": "louder-than-war-https://louderthanwar.com/cabaret-voltaire-and-gazelle-twin-the-john-robb-interview-about-their-upcoming-uk-tour-and-their-music/",
     "source": "louder-than-war",
     "title": "Cabaret Voltaire and Gazelle Twin : The John Robb interview about their upcoming UK tour and their music",
@@ -243,21 +270,21 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMie0FVX3lxTE9aLXRxVkdkam9QU05PZ2o5WFJ3UHFzTUF4d3RibjRjU1dzcGtxQmNyNzZ5c2dHUXhEbEh3Q0UwUHRxVW9JdUZ6N2s1RU1HdnJCUTRmQVV5Z2poSkdXLXUzYXUwM0N3Z29WMVR2LTdiblpSLUVNRzVJdlR0Yw?oc=5",
+    "source": "nme",
+    "title": "A Weezer movie is coming in 2027 - NME",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9aLXRxVkdkam9QU05PZ2o5WFJ3UHFzTUF4d3RibjRjU1dzcGtxQmNyNzZ5c2dHUXhEbEh3Q0UwUHRxVW9JdUZ6N2s1RU1HdnJCUTRmQVV5Z2poSkdXLXUzYXUwM0N3Z29WMVR2LTdiblpSLUVNRzVJdlR0Yw?oc=5",
+    "publishedAt": "2026-08-14T09:21:21.000Z",
+    "summary": "A Weezer movie is coming in 2027 NME",
+    "image": null
+  },
+  {
     "id": "louder-than-war-https://louderthanwar.com/dark-harvest-commandos-achake-split-album-review/",
     "source": "louder-than-war",
     "title": "Dark Harvest Commandos/Achake! – Split Album Review",
     "url": "https://louderthanwar.com/dark-harvest-commandos-achake-split-album-review/",
     "publishedAt": "2026-08-14T08:39:25.000Z",
     "summary": "Dark Harvest Commandos/Achake! – Split Album (Zaragoza Desorden + 6) LP | DL Out Now Scotland’s Dark Harvest Commandos and Spain’s Achake! team up for a solid split album of punk rock with deep sonic roots. Fast melodic hardcore spars with Japanese style hyperthrash. Reviewed by Nathan Brown. This Dark Harvest Commandos recording is less […] The post Dark Harvest Commandos/Achake! – Split Album Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/katseye-hootie-frutti-music-video-1235608358/",
-    "source": "rolling-stone",
-    "title": "Katseye Bring the Party in Vibrant ‘Hootie Frutti’ Music Video",
-    "url": "https://www.rollingstone.com/music/music-news/katseye-hootie-frutti-music-video-1235608358/",
-    "publishedAt": "2026-08-14T08:10:34.000Z",
-    "summary": "The girl group’s new five-song EP, Wild, is out now",
     "image": null
   },
   {
@@ -389,10 +416,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMieEFVX3lxTE1NSDRGUktUM3Z1ZERmYUFPU1pKOHlZbGpVY1g2U1UxYTktbHMxX01mUFVPZ3FJZEhxS2dpcnZJeU1KNFd2Z01qV2JFbFUwM3FDa05IdHVwRzRHQkVmaDZZWTNGZjllSTlmdlVwa3MydTVZZ3FLWXZWaA?oc=5",
     "source": "kerrang",
-    "title": "Listen to Kaonashi’s chaotic new single, Typing - kerrang.com",
+    "title": "Listen to Kaonashi’s chaotic new single, Typing - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NSDRGUktUM3Z1ZERmYUFPU1pKOHlZbGpVY1g2U1UxYTktbHMxX01mUFVPZ3FJZEhxS2dpcnZJeU1KNFd2Z01qV2JFbFUwM3FDa05IdHVwRzRHQkVmaDZZWTNGZjllSTlmdlVwa3MydTVZZ3FLWXZWaA?oc=5",
     "publishedAt": "2026-08-13T16:31:00.000Z",
-    "summary": "Listen to Kaonashi’s chaotic new single, Typing kerrang.com",
+    "summary": "Listen to Kaonashi’s chaotic new single, Typing Kerrang!",
     "image": null
   },
   {
@@ -416,10 +443,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMifEFVX3lxTFBtckVxMkEwaHhxckNNZHk5LWZ1ZzVhZkpDN3k5Zm94MTFxRDF2U1ozU01GbllqY19BcmhLUDc1V0wzdW5TWUs1RjdlWW91V0RyQnYxV3paZlRsZ0UtbmdYbjJ2aG1pWHJPTW5yRktTWlZLMVFNODgtZkZSSUo?oc=5",
     "source": "kerrang",
-    "title": "YONAKA drop out of US shows with Charlotte Sands - kerrang.com",
+    "title": "YONAKA drop out of US shows with Charlotte Sands - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBtckVxMkEwaHhxckNNZHk5LWZ1ZzVhZkpDN3k5Zm94MTFxRDF2U1ozU01GbllqY19BcmhLUDc1V0wzdW5TWUs1RjdlWW91V0RyQnYxV3paZlRsZ0UtbmdYbjJ2aG1pWHJPTW5yRktTWlZLMVFNODgtZkZSSUo?oc=5",
     "publishedAt": "2026-08-13T15:15:00.000Z",
-    "summary": "YONAKA drop out of US shows with Charlotte Sands kerrang.com",
+    "summary": "YONAKA drop out of US shows with Charlotte Sands Kerrang!",
     "image": null
   },
   {
@@ -558,33 +585,6 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMimAFBVV95cUxPUHRXbXZGdVNucXZscTZnNktWMndDNFhYT0Z1WnQ2MGwzRGFXa2NCYlBrNWQxUE5CTkV0V2ZYY005d1BUNEhYSVBmWXJPNExkTDRlQ29aSW81T3V2ZXFDYms3UTNPdlAweEc2Z2NwRzN3aWhZV1lpN0pITjFmZ05DMzI5WmtnUjJRdHlvTmlXV2tySFRyWXRJYQ?oc=5",
-    "source": "nme",
-    "title": "Hayley Williams’ band Power Snatch surprise-release ‘EP2’ - NME",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUHRXbXZGdVNucXZscTZnNktWMndDNFhYT0Z1WnQ2MGwzRGFXa2NCYlBrNWQxUE5CTkV0V2ZYY005d1BUNEhYSVBmWXJPNExkTDRlQ29aSW81T3V2ZXFDYms3UTNPdlAweEc2Z2NwRzN3aWhZV1lpN0pITjFmZ05DMzI5WmtnUjJRdHlvTmlXV2tySFRyWXRJYQ?oc=5",
-    "publishedAt": "2026-08-13T07:07:36.000Z",
-    "summary": "Hayley Williams’ band Power Snatch surprise-release ‘EP2’ NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMivwFBVV95cUxNRmtqRzZtRDJQbFBJcFlpVHh1TmR5VE9ldTB3Q1hMTmxIU2lLLXlaVzFRa3BRQ0xmT0hXU3ZnVHdNR1R1cEtxbENWSExRWGNRQXkwMk5UTVVvaGRkczZwLUk4QUE5RzBweHV2bGd1M2RRd0RCYlBOVGNpSXZrM0JTOTl5VDVBbElTeGdJbHZIQ21yMFkwWVR6SjdxQVdlUzlKeXp4bUh4R2dWeU5KYnZlaldRczZDcEIzYWMzN0FnWQ?oc=5",
-    "source": "nme",
-    "title": "Dominic Sessa on why Anthony Bourdain’s life “was not a tragedy” but “a symbol of hope” - NME",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRmtqRzZtRDJQbFBJcFlpVHh1TmR5VE9ldTB3Q1hMTmxIU2lLLXlaVzFRa3BRQ0xmT0hXU3ZnVHdNR1R1cEtxbENWSExRWGNRQXkwMk5UTVVvaGRkczZwLUk4QUE5RzBweHV2bGd1M2RRd0RCYlBOVGNpSXZrM0JTOTl5VDVBbElTeGdJbHZIQ21yMFkwWVR6SjdxQVdlUzlKeXp4bUh4R2dWeU5KYnZlaldRczZDcEIzYWMzN0FnWQ?oc=5",
-    "publishedAt": "2026-08-13T07:00:16.000Z",
-    "summary": "Dominic Sessa on why Anthony Bourdain’s life “was not a tragedy” but “a symbol of hope” NME",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/avenged-sevenfold-fan-viral-singing/",
-    "source": "loudwire",
-    "title": "Avenged Sevenfold Fan Goes Viral After Singing With Band at Show",
-    "url": "https://loudwire.com/avenged-sevenfold-fan-viral-singing/",
-    "publishedAt": "2026-08-12T19:38:22.000Z",
-    "summary": "An Avenged Sevenfold fan has gone viral after M. Shadows let him sing lead during the song 'Unholy Confessions' at one of the band's recent shows. Continue reading…",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/scissor-sisters-the-piece-hall-halifax-live-review/",
     "source": "louder-than-war",
     "title": "Scissor Sisters: The Piece Hall, Halifax – Live Review",
@@ -614,19 +614,19 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY3pSdGZJUEotWkh3elB6RlJOSzR5MkZLWXVxb0txVnA3b1B3NmxzU2xlTlQtU2htX1FneldvUUlGVTBheVFoUU5uRFU4OERlam1jdk5JZ0E0alNWQXgxeS0tT1o3RldqQVMxUG1IaV8zSnRtVTdZVUJtTlRkUk1GZ1lzemhlRk9DZVJGY2lHTTYycXVFVXZPd0tDS0lkM0ttdzRlQnk4czU3alhKMVN0NzgzS1dCYU15NGVDVXlYbnRub2doTG4zQlNpdDBOT1Np?oc=5",
     "source": "kerrang",
-    "title": "Waterparks announce intimate U.S. tour with revolving setlists - kerrang.com",
+    "title": "Waterparks announce intimate U.S. tour with revolving setlists - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY3pSdGZJUEotWkh3elB6RlJOSzR5MkZLWXVxb0txVnA3b1B3NmxzU2xlTlQtU2htX1FneldvUUlGVTBheVFoUU5uRFU4OERlam1jdk5JZ0E0alNWQXgxeS0tT1o3RldqQVMxUG1IaV8zSnRtVTdZVUJtTlRkUk1GZ1lzemhlRk9DZVJGY2lHTTYycXVFVXZPd0tDS0lkM0ttdzRlQnk4czU3alhKMVN0NzgzS1dCYU15NGVDVXlYbnRub2doTG4zQlNpdDBOT1Np?oc=5",
     "publishedAt": "2026-08-12T11:56:00.000Z",
-    "summary": "Waterparks announce intimate U.S. tour with revolving setlists kerrang.com",
+    "summary": "Waterparks announce intimate U.S. tour with revolving setlists Kerrang!",
     "image": null
   },
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMipgFBVV95cUxNczU4aUotaW1RSm5Ia1pkb0pJNTFfNDVYd1NQQUlRRV9ndVZONXRNbTVFbDJJYlVoWEFnT1Zqd3FWM29mYUdYM3lYeE1jOGZ1UjdrYWxsUlJmWnFXb2J0R3J2NmlhMlc4RGg2Zzd5UEdJb3YyVUtxSHpTTlBqcHM3UWtvb3RfbE5qRWl6a0k3QU5TY29xMFZjM3BicERxWGpHLUdjaWRn?oc=5",
     "source": "kerrang",
-    "title": "“I’m f*cking ready to go again”: Inside Royal Blood's momentous comeback - kerrang.com",
+    "title": "“I’m f*cking ready to go again”: Inside Royal Blood's momentous comeback - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNczU4aUotaW1RSm5Ia1pkb0pJNTFfNDVYd1NQQUlRRV9ndVZONXRNbTVFbDJJYlVoWEFnT1Zqd3FWM29mYUdYM3lYeE1jOGZ1UjdrYWxsUlJmWnFXb2J0R3J2NmlhMlc4RGg2Zzd5UEdJb3YyVUtxSHpTTlBqcHM3UWtvb3RfbE5qRWl6a0k3QU5TY29xMFZjM3BicERxWGpHLUdjaWRn?oc=5",
     "publishedAt": "2026-08-12T11:50:00.000Z",
-    "summary": "“I’m f*cking ready to go again”: Inside Royal Blood's momentous comeback kerrang.com",
+    "summary": "“I’m f*cking ready to go again”: Inside Royal Blood's momentous comeback Kerrang!",
     "image": null
   },
   {
@@ -668,10 +668,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMiiwFBVV95cUxONXBtUnhVYkNUY0JybldoVjZ1REVCeDV3QzlKdE9Za2drR0RDWmVtVUl4bVI4aXFMdFNHSHJZaHlBUTVtMkZJMldFTzRQblpQM050UDVKQUw1dno1T2FPbXhuXzFOc2xMTDdJb2dBaFpPbmxWQ3hpSVZCbnc5VjF5ZXpVdXVKQkRzU2pV?oc=5",
     "source": "kerrang",
-    "title": "Anxious fight denial and heartbreak on new single, Don’t Move - kerrang.com",
+    "title": "Anxious fight denial and heartbreak on new single, Don’t Move - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONXBtUnhVYkNUY0JybldoVjZ1REVCeDV3QzlKdE9Za2drR0RDWmVtVUl4bVI4aXFMdFNHSHJZaHlBUTVtMkZJMldFTzRQblpQM050UDVKQUw1dno1T2FPbXhuXzFOc2xMTDdJb2dBaFpPbmxWQ3hpSVZCbnc5VjF5ZXpVdXVKQkRzU2pV?oc=5",
     "publishedAt": "2026-08-11T14:00:00.000Z",
-    "summary": "Anxious fight denial and heartbreak on new single, Don’t Move kerrang.com",
+    "summary": "Anxious fight denial and heartbreak on new single, Don’t Move Kerrang!",
     "image": null
   },
   {
@@ -686,10 +686,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMingFBVV95cUxPWnp4WjZJMkxNSzAxVHNuZXB2X1JraEx1NGlYQy1xcTFwUjlNZ3h4NDJIVEsySERaMDBmTERhSW50TmlwTW5Kblh4RWotOV9UOGRzU3gtTVd0LTQyUThoQXBMSnNZM1MzWWh5SUl2RFJscDdTbjJabzRCTC1XV0xKN190V1dObGIwZ3Y4ODJnSVVCRkhEOGwtNXNCcUM5QQ?oc=5",
     "source": "kerrang",
-    "title": "Limp Bizkit, Simple Plan, Spiritbox and more announced for Good Things 2026 - kerrang.com",
+    "title": "Limp Bizkit, Simple Plan, Spiritbox and more announced for Good Things 2026 - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWnp4WjZJMkxNSzAxVHNuZXB2X1JraEx1NGlYQy1xcTFwUjlNZ3h4NDJIVEsySERaMDBmTERhSW50TmlwTW5Kblh4RWotOV9UOGRzU3gtTVd0LTQyUThoQXBMSnNZM1MzWWh5SUl2RFJscDdTbjJabzRCTC1XV0xKN190V1dObGIwZ3Y4ODJnSVVCRkhEOGwtNXNCcUM5QQ?oc=5",
     "publishedAt": "2026-08-11T00:00:00.000Z",
-    "summary": "Limp Bizkit, Simple Plan, Spiritbox and more announced for Good Things 2026 kerrang.com",
+    "summary": "Limp Bizkit, Simple Plan, Spiritbox and more announced for Good Things 2026 Kerrang!",
     "image": null
   },
   {
@@ -704,10 +704,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMirwFBVV95cUxONFZuNnlkelhsMlFSOHFEUnpYbGxFOVBCN2FoRGNXcTR1aFJtQ2o0RzlMRmdtbTg1NWdUYUxXb0hjMS0wNTdNWDFHODlOeG54dWZ3Y3hJRmRJWTNBRlFkRjZnZU9UemQzSXVPTmdJb3FxM3YtSzRwT2plQVMxTU5ReEtTOFoxTmkwX0lZbGVmaC1aREhZS3RYQ3ZscjFCaEgxWVFOZTdpYnNsLVVJS3Jz?oc=5",
     "source": "kerrang",
-    "title": "Delivering The Goods! Judas Priest tear down the house for Bloodstock’s 25th anniversary - kerrang.com",
+    "title": "Delivering The Goods! Judas Priest tear down the house for Bloodstock’s 25th anniversary - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONFZuNnlkelhsMlFSOHFEUnpYbGxFOVBCN2FoRGNXcTR1aFJtQ2o0RzlMRmdtbTg1NWdUYUxXb0hjMS0wNTdNWDFHODlOeG54dWZ3Y3hJRmRJWTNBRlFkRjZnZU9UemQzSXVPTmdJb3FxM3YtSzRwT2plQVMxTU5ReEtTOFoxTmkwX0lZbGVmaC1aREhZS3RYQ3ZscjFCaEgxWVFOZTdpYnNsLVVJS3Jz?oc=5",
     "publishedAt": "2026-08-10T10:06:00.000Z",
-    "summary": "Delivering The Goods! Judas Priest tear down the house for Bloodstock’s 25th anniversary kerrang.com",
+    "summary": "Delivering The Goods! Judas Priest tear down the house for Bloodstock’s 25th anniversary Kerrang!",
     "image": null
   },
   {
