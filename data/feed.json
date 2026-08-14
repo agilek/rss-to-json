@@ -1,5 +1,59 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/music-news/cardi-b-caribbean-bzr-wknd-jamaica-2026-1236314253/",
+    "source": "billboard",
+    "title": "Cardi B Will Headline a Caribbean Stadium for the First Time at BZR WKND Jamaica 2026",
+    "url": "https://www.billboard.com/music/music-news/cardi-b-caribbean-bzr-wknd-jamaica-2026-1236314253/",
+    "publishedAt": "2026-08-14T13:00:00.000Z",
+    "summary": "After a smash arena run, Bardi is leveling up to stadium status.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/women-songwriters-hall-fame-nashville-songwriters-hall-fame/",
+    "source": "billboard",
+    "title": "Meet the 7 Women Who Have Been Selected for Both the Songwriters Hall of Fame & Nashville Songwriters Hall of Fame",
+    "url": "https://www.billboard.com/lists/women-songwriters-hall-fame-nashville-songwriters-hall-fame/",
+    "publishedAt": "2026-08-14T13:00:00.000Z",
+    "summary": "Taylor Swift & her frequent collaborator Liz Rose are in both halls, along with five other top female songwriters.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/new-rock-metal-tours-aug-7-13-2026/",
+    "source": "loudwire",
+    "title": "10 New Rock + Metal Tours Announced This Past Week",
+    "url": "https://loudwire.com/new-rock-metal-tours-aug-7-13-2026/",
+    "publishedAt": "2026-08-14T12:52:10.000Z",
+    "summary": "We run down tours from Creed and 311 and look at the lineup for the Shattered Shores cruise. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/sam-smith-already-recording-electro-follow-up-hazel-eyes-1236316527/",
+    "source": "billboard",
+    "title": "Sam Smith Is Already Working on the Electro Follow-Up to ‘Hazel Eyes’ Album and It Sounds Wild: ‘I’m Really Hungry to Shake My T–ties’",
+    "url": "https://www.billboard.com/music/pop/sam-smith-already-recording-electro-follow-up-hazel-eyes-1236316527/",
+    "publishedAt": "2026-08-14T12:42:28.000Z",
+    "summary": "The singer said the full-on dance album is inspired by his love of dance and \"intense, hyper-pop\" sounds.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/nicole-kidman-stars-video-troye-sivan-shes-the-best-single-watch-1236316519/",
+    "source": "billboard",
+    "title": "Nicole Kidman Is 100% ‘That Girl’ in Ultra Glam Video For Troye Sivan’s ‘She’s the Best’ Single",
+    "url": "https://www.billboard.com/music/pop/nicole-kidman-stars-video-troye-sivan-shes-the-best-single-watch-1236316519/",
+    "publishedAt": "2026-08-14T12:12:18.000Z",
+    "summary": "The singer's fourth studio album, She's the Best, is due out on Oct. 9.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/features/king-gizzard-lizard-wizard-alien-metal-dance-album-interview-1236316129/",
+    "source": "billboard",
+    "title": "Inside King Gizzard & The Lizard Wizard’s Hard Dance Experiment: ‘This Is Some Mad Scientist Sh–‘",
+    "url": "https://www.billboard.com/music/features/king-gizzard-lizard-wizard-alien-metal-dance-album-interview-1236316129/",
+    "publishedAt": "2026-08-14T12:00:00.000Z",
+    "summary": "For its 28th studio album Alien Metal, out today, the eccentric Australian band took one of its most ambitious swings yet — and came up with its own unique strain of electronic music.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/music-news/peking-duk-paradise-interview-1236316504/",
     "source": "billboard",
     "title": "Peking Duk Welcomes Us to ‘Paradise’ With Long-Awaited First Album",
@@ -117,15 +171,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/pop/katseye-wild-third-ep-stream-it-now-1236316421/",
-    "source": "billboard",
-    "title": "KATSEYE Goes ‘WILD’ For Third EP: Stream It Now",
-    "url": "https://www.billboard.com/music/pop/katseye-wild-third-ep-stream-it-now-1236316421/",
-    "publishedAt": "2026-08-14T04:14:26.000Z",
-    "summary": "The K-pop act drops a third EP, WILD, led by the Billboard Hot 100 hits “PINKY UP” and “Animal,” co-written by Ed Sheeran.",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/read-the-full-credits-to-phoebe-bridgers-lost-weekend/",
     "source": "pitchfork",
     "title": "Read the Full Credits to Phoebe Bridgers’ Lost Weekend",
@@ -137,10 +182,19 @@
   {
     "id": "pitchfork-https://pitchfork.com/story/listen-to-alex-gs-new-song-with-the-blue-niles-paul-buchanan/",
     "source": "pitchfork",
-    "title": "Listen to Alex G’s New Song With The Blue Nile’s Paul Buchanan",
+    "title": "Listen to Alex G’s New Song With the Blue Nile’s Paul Buchanan",
     "url": "https://pitchfork.com/story/listen-to-alex-gs-new-song-with-the-blue-niles-paul-buchanan/",
     "publishedAt": "2026-08-14T04:04:41.000Z",
-    "summary": "“Pain is the Heart of Love” appears on the soundtrack to Jane Schoenbrun’s new film Teenage Sex and Death at Camp Miasma",
+    "summary": "“Pain Is the Heart of Love” appears on the soundtrack to Jane Schoenbrun’s new film Teenage Sex and Death at Camp Miasma",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/2026-hard-rock-metal-album-release-calendar/",
+    "source": "loudwire",
+    "title": "The New Rock + Metal Albums Out Today",
+    "url": "https://loudwire.com/2026-hard-rock-metal-album-release-calendar/",
+    "publishedAt": "2026-08-14T04:01:48.000Z",
+    "summary": "See all the new releases coming each week of 2026. Continue reading…",
     "image": null
   },
   {
@@ -153,48 +207,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/lists/benny-blancos-hermoso-album-all-tracks-ranked/",
-    "source": "billboard",
-    "title": "Benny Blanco’s First Spanish-Language Album, ‘Hermoso’: All 8 Tracks Ranked",
-    "url": "https://www.billboard.com/lists/benny-blancos-hermoso-album-all-tracks-ranked/",
-    "publishedAt": "2026-08-14T04:00:00.000Z",
-    "summary": "Featuring collaborations with Netón Vega, Myke Towers, The Marías and more, see how Billboard Español ranks each song on the new LP.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/latin/becky-g-baraja-bendita-stream-it-now-1236315811/",
-    "source": "billboard",
-    "title": "Becky G’s Eclectic New Album ‘Baraja Bendita’ Is Here: Stream It Now",
-    "url": "https://www.billboard.com/music/latin/becky-g-baraja-bendita-stream-it-now-1236315811/",
-    "publishedAt": "2026-08-14T04:00:00.000Z",
-    "summary": "The Mexican-American artist bridged Becky G (the artist) and Rebbeca (her real name) in her new set.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/selena-gomez-mother-lawsuit-fraud-wondermind-startup-1235608329/",
     "source": "rolling-stone",
     "title": "Selena Gomez and Her Mother Accused of Defrauding Investors as Mental Health Startup ‘Collapsed’",
     "url": "https://www.rollingstone.com/music/music-news/selena-gomez-mother-lawsuit-fraud-wondermind-startup-1235608329/",
     "publishedAt": "2026-08-14T03:34:21.000Z",
     "summary": "Investors say they pumped $1.2 million into Wondermind and claim they were misled about Gomez's involvement",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/influence-media-invests-mena-music-catalog-buyer-deals/",
-    "source": "billboard",
-    "title": "The Deals: Influence Media Invests in MENA-Focused Catalog Buyer; Live Nation Makes Moves in Prague",
-    "url": "https://www.billboard.com/lists/influence-media-invests-mena-music-catalog-buyer-deals/",
-    "publishedAt": "2026-08-14T03:20:19.000Z",
-    "summary": "Also: Singapore live entertainment company Triangle Group raises $15 million, Ticketmaster acquires a Uruguayan ticketing platform and more.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/guy-sebastian-settles-federal-court-proceedings-ex-manager/",
-    "source": "billboard",
-    "title": "Guy Sebastian Settles Federal Court Proceedings Against Former Manager",
-    "url": "https://www.billboard.com/pro/guy-sebastian-settles-federal-court-proceedings-ex-manager/",
-    "publishedAt": "2026-08-14T03:05:52.000Z",
-    "summary": "A confidential agreement is now in place to bring to an end the long-running dispute.",
     "image": null
   },
   {
@@ -567,15 +585,6 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/ritchie-blackmore-deep-purple-reunion/",
-    "source": "loudwire",
-    "title": "Ritchie Blackmore's Surprise Decision to Reunite With Deep Purple",
-    "url": "https://loudwire.com/ritchie-blackmore-deep-purple-reunion/",
-    "publishedAt": "2026-08-12T13:11:02.000Z",
-    "summary": "Other than a brief return with Rainbow in the mid-'10s, he hasn't played rock music in decades. Continue reading…",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/primitive-knot-cold-as-a-dead-sun-album-review/",
     "source": "louder-than-war",
     "title": "Primitive Knot: Cold As A Dead Sun – Album Review",
@@ -609,15 +618,6 @@
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNczU4aUotaW1RSm5Ia1pkb0pJNTFfNDVYd1NQQUlRRV9ndVZONXRNbTVFbDJJYlVoWEFnT1Zqd3FWM29mYUdYM3lYeE1jOGZ1UjdrYWxsUlJmWnFXb2J0R3J2NmlhMlc4RGg2Zzd5UEdJb3YyVUtxSHpTTlBqcHM3UWtvb3RfbE5qRWl6a0k3QU5TY29xMFZjM3BicERxWGpHLUdjaWRn?oc=5",
     "publishedAt": "2026-08-12T11:50:00.000Z",
     "summary": "“I’m f*cking ready to go again”: Inside Royal Blood's momentous comeback Kerrang!",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/best-rock-metal-disney-cover-songs/",
-    "source": "loudwire",
-    "title": "25 Best Disney Rock + Metal Covers of All Time",
-    "url": "https://loudwire.com/best-rock-metal-disney-cover-songs/",
-    "publishedAt": "2026-08-12T11:32:06.000Z",
-    "summary": "Covering Disney songs seems like easy money (only if that mouse approves, of course). Here are 25 of the best to ever do it. Continue reading…",
     "image": null
   },
   {
