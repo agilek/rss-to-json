@@ -1,5 +1,23 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/music-news/the-greatest-showman-musical-london-west-end-2027-1236317122/",
+    "source": "billboard",
+    "title": "‘The Greatest Showman’ Musical Sets London’s West End Premiere for 2027",
+    "url": "https://www.billboard.com/music/music-news/the-greatest-showman-musical-london-west-end-2027-1236317122/",
+    "publishedAt": "2026-08-15T20:01:26.000Z",
+    "summary": "Oliver Tompsett and Samantha Barks lead the cast of the stage adaptation of the hit 2017 film.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/frankie-valli-not-retired-brother-bobby-apologizes-1235609548/",
+    "source": "rolling-stone",
+    "title": "Frankie Valli Says ‘I Am Not Retired,’ His Brother Bobby Apologizes for Being ‘Misinformed’",
+    "url": "https://www.rollingstone.com/music/music-news/frankie-valli-not-retired-brother-bobby-apologizes-1235609548/",
+    "publishedAt": "2026-08-15T19:15:41.000Z",
+    "summary": "The 92-year-old singer took to social media to clarify his status after his brother said Frankie “will now retire”",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/culture/tv-film/frozen-3-kristen-bell-idina-menzel-josh-gad-new-music-d23-1236317103/",
     "source": "billboard",
     "title": "‘Frozen 3’ Stars Kristen Bell, Idina Menzel & Josh Gad Tease New Music at D23",
@@ -216,15 +234,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/pro/bts-j-hope-rm-drake-show-neil-peart-doc-canada-news/",
-    "source": "billboard",
-    "title": "In Canada: BTS’ J-Hope & RM Attend Drake’s Toronto Concert; Neil Peart Doc Premiering at TIFF",
-    "url": "https://www.billboard.com/pro/bts-j-hope-rm-drake-show-neil-peart-doc-canada-news/",
-    "publishedAt": "2026-08-14T22:26:37.000Z",
-    "summary": "Also up north this week: Music streaming growth slows in Quebec.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/bad-bunny-drake-karol-g-reggaeton-copyright-case-reconsider-1235609366/",
     "source": "rolling-stone",
     "title": "Bad Bunny Reggaeton Copyright Case Ruling Gets Second Look From Judge",
@@ -258,15 +267,6 @@
     "url": "https://www.rollingstone.com/music/music-news/grammys-taking-asian-category-criticism-into-consideration-1235609513/",
     "publishedAt": "2026-08-14T21:59:50.000Z",
     "summary": "CEO Harvey Mason jr. initially defended the Best Asian Pop Music Performance category when BTS opted out of submitting, but new conversations with stakeholders might change his mind",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-lists/elvis-presley-his-10-best-country-songs-199979/",
-    "source": "rolling-stone",
-    "title": "Elvis Presley: His Best Country Songs",
-    "url": "https://www.rollingstone.com/music/music-lists/elvis-presley-his-10-best-country-songs-199979/",
-    "publishedAt": "2026-08-14T20:40:14.000Z",
-    "summary": "The immortal vocalist's interpretations of classics by Hank Williams, Ray Price, George Jones, and more",
     "image": null
   },
   {
@@ -524,10 +524,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMieEFVX3lxTE1NSDRGUktUM3Z1ZERmYUFPU1pKOHlZbGpVY1g2U1UxYTktbHMxX01mUFVPZ3FJZEhxS2dpcnZJeU1KNFd2Z01qV2JFbFUwM3FDa05IdHVwRzRHQkVmaDZZWTNGZjllSTlmdlVwa3MydTVZZ3FLWXZWaA?oc=5",
     "source": "kerrang",
-    "title": "Listen to Kaonashi’s chaotic new single, Typing - kerrang.com",
+    "title": "Listen to Kaonashi’s chaotic new single, Typing - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NSDRGUktUM3Z1ZERmYUFPU1pKOHlZbGpVY1g2U1UxYTktbHMxX01mUFVPZ3FJZEhxS2dpcnZJeU1KNFd2Z01qV2JFbFUwM3FDa05IdHVwRzRHQkVmaDZZWTNGZjllSTlmdlVwa3MydTVZZ3FLWXZWaA?oc=5",
     "publishedAt": "2026-08-13T16:31:00.000Z",
-    "summary": "Listen to Kaonashi’s chaotic new single, Typing kerrang.com",
+    "summary": "Listen to Kaonashi’s chaotic new single, Typing Kerrang!",
     "image": null
   },
   {
@@ -650,10 +650,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMipgFBVV95cUxNczU4aUotaW1RSm5Ia1pkb0pJNTFfNDVYd1NQQUlRRV9ndVZONXRNbTVFbDJJYlVoWEFnT1Zqd3FWM29mYUdYM3lYeE1jOGZ1UjdrYWxsUlJmWnFXb2J0R3J2NmlhMlc4RGg2Zzd5UEdJb3YyVUtxSHpTTlBqcHM3UWtvb3RfbE5qRWl6a0k3QU5TY29xMFZjM3BicERxWGpHLUdjaWRn?oc=5",
     "source": "kerrang",
-    "title": "“I’m f*cking ready to go again”: Inside Royal Blood's momentous comeback - kerrang.com",
+    "title": "“I’m f*cking ready to go again”: Inside Royal Blood's momentous comeback - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNczU4aUotaW1RSm5Ia1pkb0pJNTFfNDVYd1NQQUlRRV9ndVZONXRNbTVFbDJJYlVoWEFnT1Zqd3FWM29mYUdYM3lYeE1jOGZ1UjdrYWxsUlJmWnFXb2J0R3J2NmlhMlc4RGg2Zzd5UEdJb3YyVUtxSHpTTlBqcHM3UWtvb3RfbE5qRWl6a0k3QU5TY29xMFZjM3BicERxWGpHLUdjaWRn?oc=5",
     "publishedAt": "2026-08-12T11:50:00.000Z",
-    "summary": "“I’m f*cking ready to go again”: Inside Royal Blood's momentous comeback kerrang.com",
+    "summary": "“I’m f*cking ready to go again”: Inside Royal Blood's momentous comeback Kerrang!",
     "image": null
   },
   {
@@ -695,10 +695,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMiiwFBVV95cUxONXBtUnhVYkNUY0JybldoVjZ1REVCeDV3QzlKdE9Za2drR0RDWmVtVUl4bVI4aXFMdFNHSHJZaHlBUTVtMkZJMldFTzRQblpQM050UDVKQUw1dno1T2FPbXhuXzFOc2xMTDdJb2dBaFpPbmxWQ3hpSVZCbnc5VjF5ZXpVdXVKQkRzU2pV?oc=5",
     "source": "kerrang",
-    "title": "Anxious fight denial and heartbreak on new single, Don’t Move - kerrang.com",
+    "title": "Anxious fight denial and heartbreak on new single, Don’t Move - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONXBtUnhVYkNUY0JybldoVjZ1REVCeDV3QzlKdE9Za2drR0RDWmVtVUl4bVI4aXFMdFNHSHJZaHlBUTVtMkZJMldFTzRQblpQM050UDVKQUw1dno1T2FPbXhuXzFOc2xMTDdJb2dBaFpPbmxWQ3hpSVZCbnc5VjF5ZXpVdXVKQkRzU2pV?oc=5",
     "publishedAt": "2026-08-11T14:00:00.000Z",
-    "summary": "Anxious fight denial and heartbreak on new single, Don’t Move kerrang.com",
+    "summary": "Anxious fight denial and heartbreak on new single, Don’t Move Kerrang!",
     "image": null
   },
   {
@@ -713,10 +713,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMingFBVV95cUxPWnp4WjZJMkxNSzAxVHNuZXB2X1JraEx1NGlYQy1xcTFwUjlNZ3h4NDJIVEsySERaMDBmTERhSW50TmlwTW5Kblh4RWotOV9UOGRzU3gtTVd0LTQyUThoQXBMSnNZM1MzWWh5SUl2RFJscDdTbjJabzRCTC1XV0xKN190V1dObGIwZ3Y4ODJnSVVCRkhEOGwtNXNCcUM5QQ?oc=5",
     "source": "kerrang",
-    "title": "Limp Bizkit, Simple Plan, Spiritbox and more announced for Good Things 2026 - kerrang.com",
+    "title": "Limp Bizkit, Simple Plan, Spiritbox and more announced for Good Things 2026 - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWnp4WjZJMkxNSzAxVHNuZXB2X1JraEx1NGlYQy1xcTFwUjlNZ3h4NDJIVEsySERaMDBmTERhSW50TmlwTW5Kblh4RWotOV9UOGRzU3gtTVd0LTQyUThoQXBMSnNZM1MzWWh5SUl2RFJscDdTbjJabzRCTC1XV0xKN190V1dObGIwZ3Y4ODJnSVVCRkhEOGwtNXNCcUM5QQ?oc=5",
     "publishedAt": "2026-08-11T00:00:00.000Z",
-    "summary": "Limp Bizkit, Simple Plan, Spiritbox and more announced for Good Things 2026 kerrang.com",
+    "summary": "Limp Bizkit, Simple Plan, Spiritbox and more announced for Good Things 2026 Kerrang!",
     "image": null
   }
 ]
