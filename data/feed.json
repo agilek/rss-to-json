@@ -1,5 +1,50 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/rock/slipknot-sid-wilson-exits-band-1236317000/",
+    "source": "billboard",
+    "title": "Slipknot Cuts Ties With Sid Wilson After Nearly 30 Years",
+    "url": "https://www.billboard.com/music/rock/slipknot-sid-wilson-exits-band-1236317000/",
+    "publishedAt": "2026-08-15T00:37:11.000Z",
+    "summary": "Wilson joined in 1998, just before the Des Moines, Iowa-founded group's mainstream breakthrough.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/latin/colombia-venezuela-earthquake-benefit-concerts-latin-music-1236316953/",
+    "source": "billboard",
+    "title": "Here Are Events Marc Anthony, Feid, Karol G & More Latin Music Artists Are Joining in Support of Colombia and Venezuela Earthquake Relief",
+    "url": "https://www.billboard.com/music/latin/colombia-venezuela-earthquake-benefit-concerts-latin-music-1236316953/",
+    "publishedAt": "2026-08-14T23:09:39.000Z",
+    "summary": "Benefit concerts are set to take place during the weekend of Aug. 15-16.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/slipknot-sid-wilson-part-ways-1235602008/",
+    "source": "rolling-stone",
+    "title": "Slipknot and Sid Wilson Part Ways After Nearly 30 Years",
+    "url": "https://www.rollingstone.com/music/music-news/slipknot-sid-wilson-part-ways-1235602008/",
+    "publishedAt": "2026-08-14T23:02:01.000Z",
+    "summary": "\"Effective immediately, Slipknot will no longer be associated with Sid Wilson,\" the band posted in a since-deleted social media post",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "source": "billboard",
+    "title": "Billboard’s Music Industry Events Calendar",
+    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "publishedAt": "2026-08-14T22:59:00.000Z",
+    "summary": "A complete rundown of the most important events across the music business.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/bts-j-hope-rm-drake-show-neil-peart-doc-canada-news/",
+    "source": "billboard",
+    "title": "In Canada: BTS’ J-Hope & RM Attend Drake’s Toronto Concert; Neil Peart Doc Premiering at TIFF",
+    "url": "https://www.billboard.com/pro/bts-j-hope-rm-drake-show-neil-peart-doc-canada-news/",
+    "publishedAt": "2026-08-14T22:26:37.000Z",
+    "summary": "Also up north this week: Music streaming growth slows in Quebec.",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/bad-bunny-drake-karol-g-reggaeton-copyright-case-reconsider-1235609366/",
     "source": "rolling-stone",
     "title": "Bad Bunny Reggaeton Copyright Case Ruling Gets Second Look From Judge",
@@ -20,7 +65,7 @@
   {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/grammys-taking-asian-category-criticism-into-consideration-1235609513/",
     "source": "rolling-stone",
-    "title": "Recording Academy Will Take Asian Music Category Criticism Into Consideration for 2027 Grammys",
+    "title": "Grammys Will Take Asian Music Category Criticism Into Consideration",
     "url": "https://www.rollingstone.com/music/music-news/grammys-taking-asian-category-criticism-into-consideration-1235609513/",
     "publishedAt": "2026-08-14T21:59:50.000Z",
     "summary": "CEO Harvey Mason jr. initially defended the Best Asian Pop Music Performance category when BTS opted out of submitting, but new conversations with stakeholders might change his mind",
@@ -99,48 +144,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/lego-bts-dynamite-set-where-to-buy-1235255722/",
-    "source": "billboard",
-    "title": "This BTS Lego Set Commemorates a Song on Their ARIRANG Tour Setlist and It’s Back in Stock Online",
-    "url": "https://www.billboard.com/culture/product-recommendations/lego-bts-dynamite-set-where-to-buy-1235255722/",
-    "publishedAt": "2026-08-14T19:03:00.000Z",
-    "summary": "The LEGO building kit commemorates the group's hit single, 'Dynamite,' which gave the group their first Hot 100 chart topper.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/california-bill-cap-concert-ticket-resale-prices-fails-1235609292/",
     "source": "rolling-stone",
     "title": "California Bill Aiming to Cap Concert Ticket Resale Prices Fails",
     "url": "https://www.rollingstone.com/music/music-news/california-bill-cap-concert-ticket-resale-prices-fails-1235609292/",
     "publishedAt": "2026-08-14T18:57:20.000Z",
     "summary": "AB 1720, also known as the California Fans First Act, would have capped concert tickets resale prices to no more than 10 percent of face value",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/recording-academy-may-revamp-asian-pop-category-2027-awards/",
-    "source": "billboard",
-    "title": "Recording Academy Discussing Future of New Asian Pop Category",
-    "url": "https://www.billboard.com/pro/recording-academy-may-revamp-asian-pop-category-2027-awards/",
-    "publishedAt": "2026-08-14T18:56:49.000Z",
-    "summary": "\"There are some artists in this space who feel that this category isn’t representing the music they work so hard to create,\" Harvey Mason, Jr. said in a statement.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/albums-with-country-airplay-number-1s-by-women/",
-    "source": "billboard",
-    "title": "From Wynonna to Ella Langley: Albums With 3 or More Country Airplay No. 1s by Women",
-    "url": "https://www.billboard.com/lists/albums-with-country-airplay-number-1s-by-women/",
-    "publishedAt": "2026-08-14T18:49:15.000Z",
-    "summary": "Langley’s Dandelion is the first set in more than a decade to join an exclusive club stretching back to 1992.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/megan-thee-stallion-signs-interscope-distribution/",
-    "source": "billboard",
-    "title": "Megan Thee Stallion Signs Distribution Partnership With Interscope Records: ‘Act: III Is on Thee Way’",
-    "url": "https://www.billboard.com/pro/megan-thee-stallion-signs-interscope-distribution/",
-    "publishedAt": "2026-08-14T18:31:15.000Z",
-    "summary": "\"I’m excited for this next chapter of growth and the expansion of my Hot Girl Productions empire,\" Megan said in a statement.",
     "image": null
   },
   {
@@ -204,15 +213,6 @@
     "url": "https://www.rollingstone.com/music/music-country/dolly-parton-health-issues-dehydrated-roller-coaster-1235609256/",
     "publishedAt": "2026-08-14T17:00:17.000Z",
     "summary": "The country legend spoke to fans in a video message Friday morning, sharing that dehydration kept her from the opening of a Dollywood theme park ride in person",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/rush-cover-story-tour-interview-geddy-alex-1235607576/",
-    "source": "rolling-stone",
-    "title": "Return of the Kings: Inside Rush’s Fifty Something Tour",
-    "url": "https://www.rollingstone.com/music/music-features/rush-cover-story-tour-interview-geddy-alex-1235607576/",
-    "publishedAt": "2026-08-14T17:00:00.000Z",
-    "summary": "Geddy Lee, Alex Lifeson, and new drummer Anika Nilles tell all about rock’s biggest and most unlikely tour: “I’m this age now. Can I still do it?”",
     "image": null
   },
   {
@@ -285,6 +285,15 @@
     "url": "https://loudwire.com/new-rock-metal-tours-aug-7-13-2026/",
     "publishedAt": "2026-08-14T12:52:10.000Z",
     "summary": "We run down tours from Creed and 311 and look at the lineup for the Shattered Shores cruise. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMirwFBVV95cUxNcXlVRWNOQmtFY0RPUUlva0VHa2VVaUhITGtPbl9oQ0s0YWg2YXQxNEpxbjJ2c3RvaFBGcEJEai0ySG9sWDI3LWJNSXdKUHdNQlhJYllpb0I2ZUhRbjFaTy11OUJhUEVVNldHZjA2ZTRtaS1STHR0OU5SYlBWUi1CRHB1bUtmYjBsZUhvMUx0NEI2Vy1fUzZqak1BRDNhdzBCSy1iazFCVVpOdWI2clow?oc=5",
+    "source": "nme",
+    "title": "EMF announce death of keyboardist Derry Brownson: \"Fly high brother Derry\" - NME",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcXlVRWNOQmtFY0RPUUlva0VHa2VVaUhITGtPbl9oQ0s0YWg2YXQxNEpxbjJ2c3RvaFBGcEJEai0ySG9sWDI3LWJNSXdKUHdNQlhJYllpb0I2ZUhRbjFaTy11OUJhUEVVNldHZjA2ZTRtaS1STHR0OU5SYlBWUi1CRHB1bUtmYjBsZUhvMUx0NEI2Vy1fUzZqak1BRDNhdzBCSy1iazFCVVpOdWI2clow?oc=5",
+    "publishedAt": "2026-08-14T12:19:47.000Z",
+    "summary": "EMF announce death of keyboardist Derry Brownson: \"Fly high brother Derry\" NME",
     "image": null
   },
   {
@@ -546,15 +555,6 @@
     "url": "https://www.uncut.co.uk/features/the-strange-afterlife-of-elvis-presley-does-the-king-still-rule-155885/",
     "publishedAt": "2026-08-13T11:07:33.000Z",
     "summary": "From Graceland pilgrimages and tribute artists to falling record values and questions of cultural relevance, the King remains one of pop culture's most enduring and complicated icons...",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMingFBVV95cUxNWV92RmhQWndiVjU1YTgtOFNVNDNGZ1ZPMURDMm9uQ3ZCcWJJQUpfemRJOGZEbmxkU3l4THMwRGRfSW9jS01IN3NGVk1UY2FRdTM2aXg3MHhFcnlGUWtSbU5WbGc3Y1lOc1VtYXNrN2E0M1RJQS1EdDZBS25TNFlpbjQwX3hvalVqcjFrYkZ5OU1MRFFRYXdQa1ctV19wUQ?oc=5",
-    "source": "nme",
-    "title": "Sid Wilson introduces himself as still being \"from Slipknot\" - NME",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWV92RmhQWndiVjU1YTgtOFNVNDNGZ1ZPMURDMm9uQ3ZCcWJJQUpfemRJOGZEbmxkU3l4THMwRGRfSW9jS01IN3NGVk1UY2FRdTM2aXg3MHhFcnlGUWtSbU5WbGc3Y1lOc1VtYXNrN2E0M1RJQS1EdDZBS25TNFlpbjQwX3hvalVqcjFrYkZ5OU1MRFFRYXdQa1ctV19wUQ?oc=5",
-    "publishedAt": "2026-08-13T10:31:01.000Z",
-    "summary": "Sid Wilson introduces himself as still being \"from Slipknot\" NME",
     "image": null
   },
   {
