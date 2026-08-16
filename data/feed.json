@@ -1,5 +1,41 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/lists/2026-stellar-gospel-music-awards-winners-list/",
+    "source": "billboard",
+    "title": "Lisa Knowles-Smith, Darrel Walls & More Win Big at 2026 Stellar Gospel Music Awards: Full Winners List",
+    "url": "https://www.billboard.com/lists/2026-stellar-gospel-music-awards-winners-list/",
+    "publishedAt": "2026-08-16T01:00:00.000Z",
+    "summary": "Vincent Bohanan & SOV won three awards, all for their album Live in New York.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/kcon-2026-la-best-moments-recap/",
+    "source": "billboard",
+    "title": "The Best Moments From KCON LA 2026 (So Far)",
+    "url": "https://www.billboard.com/lists/kcon-2026-la-best-moments-recap/",
+    "publishedAt": "2026-08-16T00:51:25.000Z",
+    "summary": "This year's festival officially opened Friday (Aug. 14) at the Los Angeles Convention Center and Crypto.com Arena.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/selena-gomez-lawyer-investor-fraud-lawsuit-statement/",
+    "source": "billboard",
+    "title": "Selena Gomez’s Attorney Calls Investor Fraud Lawsuit Allegations ‘Meritless’",
+    "url": "https://www.billboard.com/pro/selena-gomez-lawyer-investor-fraud-lawsuit-statement/",
+    "publishedAt": "2026-08-15T23:38:45.000Z",
+    "summary": "Her legal team is filing a motion to dismiss recent claims against Gomez involving Wondermind, the star's mental health startup.",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMiqwFBVV95cUxOckZHaGxWdURkbEFJMmVLNGNUclhKcHA1TnNXazMwcjZZNkZvTzUzSkpBMUV0SC1XWjYtR1pvRzNHeWh1aENMN0hvVngyQlVqZ2QwRUZaVlNPaEw5cHQwQ2gtdmRzNEEyMEwtRjNCd25tT3cwN1dydVl4ek1tcno4S2t0WFE0MmlPQU0tX0J6a3JGaEM3TFFZTFVDaWtPQjEyUUNUX0RlOUtIMWs?oc=5",
+    "source": "nme",
+    "title": "Marvel reveal new ‘X-Men’ cast, including Adam Driver as Mister Sinister - NME",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOckZHaGxWdURkbEFJMmVLNGNUclhKcHA1TnNXazMwcjZZNkZvTzUzSkpBMUV0SC1XWjYtR1pvRzNHeWh1aENMN0hvVngyQlVqZ2QwRUZaVlNPaEw5cHQwQ2gtdmRzNEEyMEwtRjNCd25tT3cwN1dydVl4ek1tcno4S2t0WFE0MmlPQU0tX0J6a3JGaEM3TFFZTFVDaWtPQjEyUUNUX0RlOUtIMWs?oc=5",
+    "publishedAt": "2026-08-15T21:33:00.000Z",
+    "summary": "Marvel reveal new ‘X-Men’ cast, including Adam Driver as Mister Sinister NME",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/selena-gomez-wondermind-lawsuit-meritless-motion-to-dismiss-1235609673/",
     "source": "rolling-stone",
     "title": "Selena Gomez’s Lawyer Calls Wondermind Suit ‘Meritless,’ Will File Motion to Dismiss ‘Baseless Claims’",
@@ -50,7 +86,7 @@
     "title": "Dave Marsh, Influential Critic, Activist, Broadcaster & Biographer of Bruce Springsteen, Dies at 76",
     "url": "https://www.billboard.com/music/music-news/dave-marsh-death-bruce-springsteen-biographer-dies-1236317094/",
     "publishedAt": "2026-08-15T17:24:13.000Z",
-    "summary": "“A tireless advocate of justice, human rights and rock ’n’ roll,” Tom Morello wrote.",
+    "summary": "\"I admired Dave as a man of conscience and commitment. He lived and stuck by his values come hell or high water,\" Bruce Springsteen wrote.",
     "image": null
   },
   {
@@ -207,39 +243,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/rock/slipknot-sid-wilson-exits-band-1236317000/",
-    "source": "billboard",
-    "title": "Slipknot Cuts Ties With Sid Wilson After Nearly 30 Years",
-    "url": "https://www.billboard.com/music/rock/slipknot-sid-wilson-exits-band-1236317000/",
-    "publishedAt": "2026-08-15T00:37:11.000Z",
-    "summary": "Wilson joined in 1998, just before the Des Moines, Iowa-founded group's mainstream breakthrough.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/latin/colombia-venezuela-earthquake-benefit-concerts-latin-music-1236316953/",
-    "source": "billboard",
-    "title": "Here Are Events Marc Anthony, Feid, Karol G & More Latin Music Artists Are Joining in Support of Colombia and Venezuela Earthquake Relief",
-    "url": "https://www.billboard.com/music/latin/colombia-venezuela-earthquake-benefit-concerts-latin-music-1236316953/",
-    "publishedAt": "2026-08-14T23:09:39.000Z",
-    "summary": "Benefit concerts are set to take place during the weekend of Aug. 15-16.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/slipknot-sid-wilson-part-ways-1235602008/",
     "source": "rolling-stone",
     "title": "Slipknot and Sid Wilson Part Ways After Nearly 30 Years",
     "url": "https://www.rollingstone.com/music/music-news/slipknot-sid-wilson-part-ways-1235602008/",
     "publishedAt": "2026-08-14T23:02:01.000Z",
     "summary": "\"Effective immediately, Slipknot will no longer be associated with Sid Wilson,\" the band posted in a since-deleted social media post",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-    "source": "billboard",
-    "title": "Billboard’s Music Industry Events Calendar",
-    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-    "publishedAt": "2026-08-14T22:59:00.000Z",
-    "summary": "A complete rundown of the most important events across the music business.",
     "image": null
   },
   {
@@ -393,15 +402,6 @@
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcXlVRWNOQmtFY0RPUUlva0VHa2VVaUhITGtPbl9oQ0s0YWg2YXQxNEpxbjJ2c3RvaFBGcEJEai0ySG9sWDI3LWJNSXdKUHdNQlhJYllpb0I2ZUhRbjFaTy11OUJhUEVVNldHZjA2ZTRtaS1STHR0OU5SYlBWUi1CRHB1bUtmYjBsZUhvMUx0NEI2Vy1fUzZqak1BRDNhdzBCSy1iazFCVVpOdWI2clow?oc=5",
     "publishedAt": "2026-08-14T12:19:47.000Z",
     "summary": "EMF announce death of keyboardist Derry Brownson: \"Fly high brother Derry\" NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMimAFBVV95cUxNS0FVQ1B0amZJaXJPTXJEWkRKZ1puZWd4QzNjWHNTZXUxWEdNNVc3bVdtc2RmZ2xrUHZkZjlEUEE3b0k1R19YRG9BNHFRcFJvOUY5V3ZxTlhCMzZibXlQRWpOU21ueVFvYVIyOUVYR1puRW5DY1cxbVdlZ1AtOVFCTHVkcnZ4WXdOd096SnBRbHBCQkQyYWhESg?oc=5",
-    "source": "nme",
-    "title": "Royal Blood announce 2026 UK headline tour - NME",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS0FVQ1B0amZJaXJPTXJEWkRKZ1puZWd4QzNjWHNTZXUxWEdNNVc3bVdtc2RmZ2xrUHZkZjlEUEE3b0k1R19YRG9BNHFRcFJvOUY5V3ZxTlhCMzZibXlQRWpOU21ueVFvYVIyOUVYR1puRW5DY1cxbVdlZ1AtOVFCTHVkcnZ4WXdOd096SnBRbHBCQkQyYWhESg?oc=5",
-    "publishedAt": "2026-08-14T10:24:11.000Z",
-    "summary": "Royal Blood announce 2026 UK headline tour NME",
     "image": null
   },
   {
