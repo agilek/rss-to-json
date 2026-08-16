@@ -1,5 +1,41 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/music-news/noah-kahan-chappell-roan-california-rose-bowl-1236317310/",
+    "source": "billboard",
+    "title": "Noah Kahan Brings Out Chappell Roan for Surprise ‘California’ Performance at Rose Bowl Show",
+    "url": "https://www.billboard.com/music/music-news/noah-kahan-chappell-roan-california-rose-bowl-1236317310/",
+    "publishedAt": "2026-08-16T17:57:05.000Z",
+    "summary": "The L.A. stadium concert marked Kahan’s biggest headlining performance to date.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/p1harmony-talks-about-what-inspired-the-sound-of-their-9th-mini-album-unique-connecting-with-their-fans-on-tour/",
+    "source": "billboard",
+    "title": "P1Harmony Talks About What Inspired the Sound of Their 9th Mini-Album ‘Unique’ & Connecting With Their Fans On Tour | KCON LA 2026",
+    "url": "https://www.billboard.com/video/p1harmony-talks-about-what-inspired-the-sound-of-their-9th-mini-album-unique-connecting-with-their-fans-on-tour/",
+    "publishedAt": "2026-08-16T17:42:45.000Z",
+    "summary": "K-Pop boy band P1Harmony talks about what inspired the sound of their 9th mini-album ‘Unique’ and how much they love connecting with their fans on tour.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/dave-marsh-veteran-rock-critic-and-biographer-dies-at-76/",
+    "source": "pitchfork",
+    "title": "Dave Marsh, Veteran Rock Critic and Bruce Springsteen Biographer, Dies at 76",
+    "url": "https://pitchfork.com/story/dave-marsh-veteran-rock-critic-and-biographer-dies-at-76/",
+    "publishedAt": "2026-08-16T17:31:36.000Z",
+    "summary": "In a statement, Springsteen called the former Creem editor “soulful, intelligent, heartfelt, opinionated, bruising and often fantastically argumentative”",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/disney-princess-ultimate-concert-watch-online-free-1236317058/",
+    "source": "billboard",
+    "title": "‘Disney Princess: The Ultimate Concert Celebration’: Here’s How to Watch the TV Special Online for Free",
+    "url": "https://www.billboard.com/culture/product-recommendations/disney-princess-ultimate-concert-watch-online-free-1236317058/",
+    "publishedAt": "2026-08-16T17:23:08.000Z",
+    "summary": "Filmed at Disneyland, the largest gathering of Disney Princess stars perform during The Wonderful World of Disney on Aug. 16.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/rock/bryan-adams-pat-benatar-neil-giraldo-cover-stevie-wonder-1236317302/",
     "source": "billboard",
     "title": "Bryan Adams Brings Out Pat Benatar & Neil Giraldo for Surprise Stevie Wonder Cover in Detroit",
@@ -11,7 +47,7 @@
   {
     "id": "billboard-https://www.billboard.com/culture/product-recommendations/madonna-rare-photos-sonic-editions-buy-shop-online-1236316021/",
     "source": "billboard",
-    "title": "Never-Before-Released Photos of Madonna Comes Out in Celebration of Her 68th Birthday: Shop the Prints",
+    "title": "Never-Before-Released Photos of Madonna Released in Celebration of Her 68th Birthday: Shop the Prints",
     "url": "https://www.billboard.com/culture/product-recommendations/madonna-rare-photos-sonic-editions-buy-shop-online-1236316021/",
     "publishedAt": "2026-08-16T15:36:34.000Z",
     "summary": "Sonic Editions drops 17 high-quality prints of the \"Material Girl.\"",
@@ -162,30 +198,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/the-greatest-showman-musical-london-west-end-2027-1236317122/",
-    "source": "billboard",
-    "title": "‘The Greatest Showman’ Musical Sets London’s West End Premiere for 2027",
-    "url": "https://www.billboard.com/music/music-news/the-greatest-showman-musical-london-west-end-2027-1236317122/",
-    "publishedAt": "2026-08-15T20:01:26.000Z",
-    "summary": "Oliver Tompsett and Samantha Barks lead the cast of the stage adaptation of the hit 2017 film.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/frankie-valli-not-retired-brother-bobby-apologizes-1235609548/",
     "source": "rolling-stone",
     "title": "Frankie Valli Says ‘I Am Not Retired,’ His Brother Bobby Apologizes for Being ‘Misinformed’",
     "url": "https://www.rollingstone.com/music/music-news/frankie-valli-not-retired-brother-bobby-apologizes-1235609548/",
     "publishedAt": "2026-08-15T19:15:41.000Z",
     "summary": "The 92-year-old singer took to social media to clarify his status after his brother said Frankie “will now retire”",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/tv-film/frozen-3-kristen-bell-idina-menzel-josh-gad-new-music-d23-1236317103/",
-    "source": "billboard",
-    "title": "‘Frozen 3’ Stars Kristen Bell, Idina Menzel & Josh Gad Tease New Music at D23",
-    "url": "https://www.billboard.com/culture/tv-film/frozen-3-kristen-bell-idina-menzel-josh-gad-new-music-d23-1236317103/",
-    "publishedAt": "2026-08-15T18:27:21.000Z",
-    "summary": "The third installment in Disney’s hit franchise will hit theaters in November 2027.",
     "image": null
   },
   {
@@ -204,15 +222,6 @@
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNczJtRWkyVVdkYVFzLVJCQW5JR3Y2OW9DR05BRnRzYlVCYzFmOUFOMEZhM25qUUFzM25SNEVBV1R2Njk3YUpTMms4Q05pZUxQUm52WWtLUG5mZkZ0UGlJeWNvNUx0TVQ1bnVDSkFSU0VJWU5YSnZtNlVSRXNDUWpiQ2lLaktLdVFYWTNNNUtiZ09rMGZMNU9tVTBqbnQ0TkZpaVZ0cjZmbW5MVm02RTdpam9lNA?oc=5",
     "publishedAt": "2026-08-15T17:58:36.000Z",
     "summary": "Immersive exhibition to celebrate Madonna’s birthday in London this weekend NME",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/dave-marsh-death-bruce-springsteen-biographer-dies-1236317094/",
-    "source": "billboard",
-    "title": "Dave Marsh, Influential Critic, Activist, Broadcaster & Biographer of Bruce Springsteen, Dies at 76",
-    "url": "https://www.billboard.com/music/music-news/dave-marsh-death-bruce-springsteen-biographer-dies-1236317094/",
-    "publishedAt": "2026-08-15T17:24:13.000Z",
-    "summary": "\"I admired Dave as a man of conscience and commitment. He lived and stuck by his values come hell or high water,\" Bruce Springsteen wrote.",
     "image": null
   },
   {
@@ -324,12 +333,12 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMi0wFBVV95cUxNamlHdXVCY3d1clN5WDFVaHJia25Jei11TFltWUNINjByUlUtQW9ORi1Vc2d1cTdPYy13d0JKT1VrMnJZOHhULVZLd0V5d3h4NWs3QzZOODlIbmZ4VmFTLXJPVFVFZE8yNHRQSDNvM2hUUU84Rm5aSHk1UDBtYlpCeHp1aUhfSU8yWmhQOXJKbUlWR1VTc0l3YXI4Y0JNWkphVVFUcGxVeGs3YkFDQWtqQVBJaXA1RHotbkt2MFU1Y1IxS1J0X3diMGlzd09KZHlfbl9N?oc=5",
+    "id": "nme-https://news.google.com/rss/articles/CBMikgFBVV95cUxQR1F3U1lJRWlveWk1QjBoRlhuMVBaSlFyaFBQd1RpWkh0VnJ0QklQLTBMM3FTbGowNWtvQnBSNHU1UzVhR04tRW1uMVFIbUtUVnlwNzI4YlBObDhRY2RNMDJSbHVNaTQ1aFdUdU1kM1lSVjhIdGthUURkN2J0U0toTEtVazV3QzVaTVl1eGpZcS00QQ?oc=5",
     "source": "nme",
-    "title": "Are Radiohead heading to Tokyo in 2027? Summer Sonic tease return – will more world tour dates follow? - NME",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNamlHdXVCY3d1clN5WDFVaHJia25Jei11TFltWUNINjByUlUtQW9ORi1Vc2d1cTdPYy13d0JKT1VrMnJZOHhULVZLd0V5d3h4NWs3QzZOODlIbmZ4VmFTLXJPVFVFZE8yNHRQSDNvM2hUUU84Rm5aSHk1UDBtYlpCeHp1aUhfSU8yWmhQOXJKbUlWR1VTc0l3YXI4Y0JNWkphVVFUcGxVeGs3YkFDQWtqQVBJaXA1RHotbkt2MFU1Y1IxS1J0X3diMGlzd09KZHlfbl9N?oc=5",
-    "publishedAt": "2026-08-15T08:01:28.000Z",
-    "summary": "Are Radiohead heading to Tokyo in 2027? Summer Sonic tease return – will more world tour dates follow? NME",
+    "title": "See first look at newly-renamed The Simpsons movie - NME",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQR1F3U1lJRWlveWk1QjBoRlhuMVBaSlFyaFBQd1RpWkh0VnJ0QklQLTBMM3FTbGowNWtvQnBSNHU1UzVhR04tRW1uMVFIbUtUVnlwNzI4YlBObDhRY2RNMDJSbHVNaTQ1aFdUdU1kM1lSVjhIdGthUURkN2J0U0toTEtVazV3QzVaTVl1eGpZcS00QQ?oc=5",
+    "publishedAt": "2026-08-15T08:40:07.000Z",
+    "summary": "See first look at newly-renamed The Simpsons movie NME",
     "image": null
   },
   {
@@ -558,15 +567,6 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/story/troye-sivan-announces-new-album-shes-the-best/",
-    "source": "pitchfork",
-    "title": "Watch the Nicole Kidman-Led Music Video for Troye Sivan’s New Song",
-    "url": "https://pitchfork.com/story/troye-sivan-announces-new-album-shes-the-best/",
-    "publishedAt": "2026-08-13T15:43:25.000Z",
-    "summary": "“She’s the Best” is the title track of Sivan’s next album, due out October 9",
-    "image": null
-  },
-  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMifEFVX3lxTFBtckVxMkEwaHhxckNNZHk5LWZ1ZzVhZkpDN3k5Zm94MTFxRDF2U1ozU01GbllqY19BcmhLUDc1V0wzdW5TWUs1RjdlWW91V0RyQnYxV3paZlRsZ0UtbmdYbjJ2aG1pWHJPTW5yRktTWlZLMVFNODgtZkZSSUo?oc=5",
     "source": "kerrang",
     "title": "YONAKA drop out of US shows with Charlotte Sands - Kerrang!",
@@ -591,6 +591,15 @@
     "url": "https://www.uncut.co.uk/news/roxy-music-announce-an-expanded-reissue-of-for-your-pleasure-155883/",
     "publishedAt": "2026-08-13T13:17:27.000Z",
     "summary": "And share \"Grey Lagoons – 1971 Demo\"",
+    "image": null
+  },
+  {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaE1zem8xYWZtUGt6SHltM3FMYmpvNkdOZUJfZGlkUmx5b3F2TnVQZy1JaWFNSzIxcGNfcUg0dVpaVXRCSG1INXNpR09lcHE0MjNHVGNYWkhCYjFwVWdRTEVNTm9EN1QtdE16OVJodi1NekdYS2lqbmZVZmJjbVlEM1owVENWLUFSaXRScTFuNm9ZV0kwV3c1WmFHM3NnZ3lpOUF4TDZGT21MRTQtaENNUWhhVkM5Y1VCVG9tV1lJSG9kaG9RV1BLMFhieTJSdkc2M3FJVmVITVJKTlVWZkQxWG9mOXNoOWpFWC1mNnR5VmVuN25X?oc=5",
+    "source": "kerrang",
+    "title": "The 25 defining moments of Bloodstock's 25th anniversary - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaE1zem8xYWZtUGt6SHltM3FMYmpvNkdOZUJfZGlkUmx5b3F2TnVQZy1JaWFNSzIxcGNfcUg0dVpaVXRCSG1INXNpR09lcHE0MjNHVGNYWkhCYjFwVWdRTEVNTm9EN1QtdE16OVJodi1NekdYS2lqbmZVZmJjbVlEM1owVENWLUFSaXRScTFuNm9ZV0kwV3c1WmFHM3NnZ3lpOUF4TDZGT21MRTQtaENNUWhhVkM5Y1VCVG9tV1lJSG9kaG9RV1BLMFhieTJSdkc2M3FJVmVITVJKTlVWZkQxWG9mOXNoOWpFWC1mNnR5VmVuN25X?oc=5",
+    "publishedAt": "2026-08-13T12:08:00.000Z",
+    "summary": "The 25 defining moments of Bloodstock's 25th anniversary Kerrang!",
     "image": null
   },
   {
@@ -672,15 +681,6 @@
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYzl3MHJGN01abzNfdjhCRUxKUDFIRjZPaFI3SGtSZjFrTloyZ2VQdnlkRjVtZ0Z4bUN3bE1FcEpwRVVXVHhfai1mbmIyUUxkVS1jMmtxangwTmVCdXYxbEhUNWNIVE1mZ3BfLVBEVnAzSGlmQllTWFROQ1VBcDB0Y1BTYXQ0Y1U?oc=5",
     "publishedAt": "2026-08-12T10:38:00.000Z",
     "summary": "Neurosis announced for two special sets at Roadburn 2027 Kerrang!",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMivAFBVV95cUxPbWpaUDR6cm55eVE3VVRLZW1VR2g4WHlGUk9xT2k0ajkxN0t6SEJuYTFObUJISFF1dHZnXzZ6d0ZSQzcycVk0UzJsUXM0d2lXNVNVOFA0bmlDN3cwMjduUUgxY2RCa2hDaEVOUUUzM2k4VlltNUJUekFSOGdROXlxbE0zVlY1NDc3emwtMGZrNjRlWXdsSEZOZnRPQ3E0TkVtV3JZbThWa1E0dHpYdlhNMF9pUDJDMTM3Xzk1Tw?oc=5",
-    "source": "kerrang",
-    "title": "“My rehab was my plane crash”: Travis Barker reveals how recovering… - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbWpaUDR6cm55eVE3VVRLZW1VR2g4WHlGUk9xT2k0ajkxN0t6SEJuYTFObUJISFF1dHZnXzZ6d0ZSQzcycVk0UzJsUXM0d2lXNVNVOFA0bmlDN3cwMjduUUgxY2RCa2hDaEVOUUUzM2k4VlltNUJUekFSOGdROXlxbE0zVlY1NDc3emwtMGZrNjRlWXdsSEZOZnRPQ3E0TkVtV3JZbThWa1E0dHpYdlhNMF9pUDJDMTM3Xzk1Tw?oc=5",
-    "publishedAt": "2026-08-12T10:22:00.000Z",
-    "summary": "“My rehab was my plane crash”: Travis Barker reveals how recovering… Kerrang!",
     "image": null
   },
   {
