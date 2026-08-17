@@ -1,5 +1,50 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/lists/glastonbury-2027-festival-potential-headliners-line-up/",
+    "source": "billboard",
+    "title": "Glastonbury 2027 Potential Headliners Ranked: Who Could Lead Next Year’s Festival?",
+    "url": "https://www.billboard.com/lists/glastonbury-2027-festival-potential-headliners-line-up/",
+    "publishedAt": "2026-08-17T10:24:18.000Z",
+    "summary": "After taking a fallow year, the festival is gearing up for a blockbuster return next summer.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/sam-fender-olivia-dean-rein-mein-uk-chart-records/",
+    "source": "billboard",
+    "title": "How Sam Fender & Olivia Dean’s ‘Rein Me In’ Became the U.K.’s Longest-Running No. 1 Single Ever",
+    "url": "https://www.billboard.com/lists/sam-fender-olivia-dean-rein-mein-uk-chart-records/",
+    "publishedAt": "2026-08-17T09:42:17.000Z",
+    "summary": "The song now holds the all-time record for the longest-running U.K. No. 1 single.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/tv-film/hayden-panettiere-died-tributes-1236317595/",
+    "source": "billboard",
+    "title": "Stars Pay Tribute to Hayden Panettiere After Her Death at 36",
+    "url": "https://www.billboard.com/culture/tv-film/hayden-panettiere-died-tributes-1236317595/",
+    "publishedAt": "2026-08-17T09:41:28.000Z",
+    "summary": "“I love you. Don’t be gone. Don’t be gone. Please. Please,” actress Selma Blair wrote.",
+    "image": null
+  },
+  {
+    "id": "uncut-https://www.uncut.co.uk/features/free-music-the-songs-that-influenced-the-beatles-53492/",
+    "source": "uncut",
+    "title": "Before The Beatles: 15 songs that inspired The Fab Four",
+    "url": "https://www.uncut.co.uk/features/free-music-the-songs-that-influenced-the-beatles-53492/",
+    "publishedAt": "2026-08-17T08:51:21.000Z",
+    "summary": "The rock'n'roll and R&B gems that lit the fuse for John, Paul, George and Ringo",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMimAFBVV95cUxNSXpRQUpTX0VrT0ZJWFF4NVFiSHJaMi1VN3dkYkJFUEVnZ2F5bkhSRGdlTjFod1NlbHB0c3l3MjVMU203OFlJLTkzZ2ctanhIcFRNYUdZMDNrZE1EN1NHbWlGYU9vTmp5cE84QUNHODNUQjc5SzRZS1Z4bC0wSDZTMVhwWldJMVFKUFA4ekYwdXp0RFFqN2JZUg?oc=5",
+    "source": "nme",
+    "title": "Hayden Panettiere, ‘Heroes’ and ‘Scream’ star, has died aged 36 - NME",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSXpRQUpTX0VrT0ZJWFF4NVFiSHJaMi1VN3dkYkJFUEVnZ2F5bkhSRGdlTjFod1NlbHB0c3l3MjVMU203OFlJLTkzZ2ctanhIcFRNYUdZMDNrZE1EN1NHbWlGYU9vTmp5cE84QUNHODNUQjc5SzRZS1Z4bC0wSDZTMVhwWldJMVFKUFA4ekYwdXp0RFFqN2JZUg?oc=5",
+    "publishedAt": "2026-08-17T06:43:37.000Z",
+    "summary": "Hayden Panettiere, ‘Heroes’ and ‘Scream’ star, has died aged 36 NME",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/ariana-grande-cynthia-erivo-for-good-wicked-live-london-1235609808/",
     "source": "rolling-stone",
     "title": "Watch Cynthia Erivo Join Ariana Grande to Perform ‘For Good’ in London",
@@ -99,39 +144,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/lists/k-pop-albums-number-one-billboard-200-albums-full-list/",
-    "source": "billboard",
-    "title": "Stray Kids’ Latest Becomes Milestone 25th K-pop Album to Top Billboard 200: Full List",
-    "url": "https://www.billboard.com/lists/k-pop-albums-number-one-billboard-200-albums-full-list/",
-    "publishedAt": "2026-08-16T19:28:36.000Z",
-    "summary": "BTS was the first K-pop act to top the all-genre chart; BLACKPINK was the first female K-pop act to do so.",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMiogFBVV95cUxQdFp2QjNwZXZEXzYzaVlzZlBMak1ibDY1blluZWlYYll1cWs3eDNXN1gwNGpidkxob3JsNGMxRkQ5a3JvWm5tbl9SVUhZS3YzVGhCNjdZaGh5OFdBNy1hRUpOdGFHUklEOGFjakc1M01UdmpFNV9zZENWWGtuMVNiOWNDbjZUcTh6TUw4bUVOMHJCM2lFRjVINDVMMzFMWnFSVlE?oc=5",
     "source": "nme",
     "title": "See Nick Cave & The Bad Seeds enjoying The Cure at Way Out West - NME",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdFp2QjNwZXZEXzYzaVlzZlBMak1ibDY1blluZWlYYll1cWs3eDNXN1gwNGpidkxob3JsNGMxRkQ5a3JvWm5tbl9SVUhZS3YzVGhCNjdZaGh5OFdBNy1hRUpOdGFHUklEOGFjakc1M01UdmpFNV9zZENWWGtuMVNiOWNDbjZUcTh6TUw4bUVOMHJCM2lFRjVINDVMMzFMWnFSVlE?oc=5",
     "publishedAt": "2026-08-16T19:00:42.000Z",
     "summary": "See Nick Cave & The Bad Seeds enjoying The Cure at Way Out West NME",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/stray-kids-this-and-that-number-one-billboard-200-chart-1236317298/",
-    "source": "billboard",
-    "title": "Stray Kids Score Ninth No. 1 on Billboard 200 With ‘THIS & THAT’",
-    "url": "https://www.billboard.com/music/chart-beat/stray-kids-this-and-that-number-one-billboard-200-chart-1236317298/",
-    "publishedAt": "2026-08-16T19:00:20.000Z",
-    "summary": "The act ties for the second-most No. 1 albums among groups, trailing only The Beatles.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/lanterns-dc-studios-how-to-watch-online-free-1236314151/",
-    "source": "billboard",
-    "title": "‘Lanterns’: Here’s Where to Watch the New DC Studios TV Series Online for Free",
-    "url": "https://www.billboard.com/culture/product-recommendations/lanterns-dc-studios-how-to-watch-online-free-1236314151/",
-    "publishedAt": "2026-08-16T18:33:01.000Z",
-    "summary": "The latest TV show in the DC Cinematic Universe makes its series premiere on Aug. 16.",
     "image": null
   },
   {
@@ -285,15 +303,6 @@
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNczJtRWkyVVdkYVFzLVJCQW5JR3Y2OW9DR05BRnRzYlVCYzFmOUFOMEZhM25qUUFzM25SNEVBV1R2Njk3YUpTMms4Q05pZUxQUm52WWtLUG5mZkZ0UGlJeWNvNUx0TVQ1bnVDSkFSU0VJWU5YSnZtNlVSRXNDUWpiQ2lLaktLdVFYWTNNNUtiZ09rMGZMNU9tVTBqbnQ0TkZpaVZ0cjZmbW5MVm02RTdpam9lNA?oc=5",
     "publishedAt": "2026-08-15T17:58:36.000Z",
     "summary": "Immersive exhibition to celebrate Madonna’s birthday in London this weekend NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeW13NlhDRkFSOV9HdEtQdy1FWG00N1l3OXJmOC0yb0Q5UDR1NUtYQW8tZ1F4a2RfQmpjVUdBT2JqQ3VHWnJ1WXhqa1NpdXpvbkFfY1R0WUFrb0hheGg5dTMzSVF2TWMydnlFbUtpb0xhaHdJNE1JbEwtazB5aTBISDJBcXo5T2R0SmY0TWxhQUxpSlQwOFJGajZEZmxNUDZpV0N4ZDkwdWRKSldYZWtiY2d4QW9OMG9WLW4wRUdKdko?oc=5",
-    "source": "nme",
-    "title": "Watch The Strokes play ‘Lonely In The Future’ in full live for the first time in Tokyo - NME",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeW13NlhDRkFSOV9HdEtQdy1FWG00N1l3OXJmOC0yb0Q5UDR1NUtYQW8tZ1F4a2RfQmpjVUdBT2JqQ3VHWnJ1WXhqa1NpdXpvbkFfY1R0WUFrb0hheGg5dTMzSVF2TWMydnlFbUtpb0xhaHdJNE1JbEwtazB5aTBISDJBcXo5T2R0SmY0TWxhQUxpSlQwOFJGajZEZmxNUDZpV0N4ZDkwdWRKSldYZWtiY2d4QW9OMG9WLW4wRUdKdko?oc=5",
-    "publishedAt": "2026-08-15T17:03:38.000Z",
-    "summary": "Watch The Strokes play ‘Lonely In The Future’ in full live for the first time in Tokyo NME",
     "image": null
   },
   {
@@ -708,15 +717,6 @@
     "url": "https://www.uncut.co.uk/reviews/martin-carthys-along-the-road-forever-live-at-the-bbc-reviewed-the-folk-giant-who-helped-keep-britains-musical-traditions-alive-155868/",
     "publishedAt": "2026-08-11T17:15:02.000Z",
     "summary": "20 enlightening, essential discs from a custodian of the British folk tradition",
-    "image": null
-  },
-  {
-    "id": "uncut-https://www.uncut.co.uk/news/yoko-onos-its-alright-i-see-rainbows-returns-to-vinyl-for-the-first-time-in-more-than-forty-years-155897/",
-    "source": "uncut",
-    "title": "Yoko Ono’s It’s Alright (I See Rainbows) returns to vinyl for the first time in more than forty years",
-    "url": "https://www.uncut.co.uk/news/yoko-onos-its-alright-i-see-rainbows-returns-to-vinyl-for-the-first-time-in-more-than-forty-years-155897/",
-    "publishedAt": "2026-08-11T13:28:28.000Z",
-    "summary": "A CD edition comes with extra tracks",
     "image": null
   }
 ]
