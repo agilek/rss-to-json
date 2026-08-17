@@ -1,47 +1,155 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/shakira-burna-boy-dai-dai-tame-impala-global-charts-1236317919/",
+    "source": "billboard",
+    "title": "Shakira & Burna Boy’s ‘Dai Dai’ Tops Billboard Global Charts, Even a Month After the End of the World Cup",
+    "url": "https://www.billboard.com/music/chart-beat/shakira-burna-boy-dai-dai-tame-impala-global-charts-1236317919/",
+    "publishedAt": "2026-08-17T18:26:33.000Z",
+    "summary": "Plus, Tame Impala’s “Loser” highlights musical wins for Spider-Man: Brand New Day.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-pictures/field-of-vision-festival-king-gizzard-and-the-lizard-wizard-photos-1235609854/",
+    "source": "rolling-stone",
+    "title": "King Gizzard and the Lizard Wizard’s Field of Vision Festival",
+    "url": "https://www.rollingstone.com/music/music-pictures/field-of-vision-festival-king-gizzard-and-the-lizard-wizard-photos-1235609854/",
+    "publishedAt": "2026-08-17T18:17:49.000Z",
+    "summary": "The second iteration of King Gizzard and the Lizard Wizard’s Field of Vision festival took place this weekend at Meadow Creek in Buena Vista, Colorado. Each night of the festival featured a three-hour, marathon headlining set by Gizz — and also included a curated lineup of friends and collaborators from across the world, among them […]",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/hayden-panettiere-nashville-juliette-barnes-metoo-1235610060/",
+    "source": "rolling-stone",
+    "title": "Hayden Panettiere’s ‘Nashville’ Character Helped Expose Country Music’s Dark Side",
+    "url": "https://www.rollingstone.com/music/music-features/hayden-panettiere-nashville-juliette-barnes-metoo-1235610060/",
+    "publishedAt": "2026-08-17T18:14:46.000Z",
+    "summary": "As Juliette Barnes, Panettiere brought some of the industry's worst-kept secrets to the forefront and influenced a generation of female artists to no longer stay silent",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/diplo-reveals-daughter-family-vacation-photos-1236317834/",
+    "source": "billboard",
+    "title": "Diplo Reveals He Has a 1-Year-Old Daughter in Family Vacation Photos",
+    "url": "https://www.billboard.com/music/music-news/diplo-reveals-daughter-family-vacation-photos-1236317834/",
+    "publishedAt": "2026-08-17T18:11:13.000Z",
+    "summary": "\"id rather lose sleep with my family then at a club or a rave this summer,\" the producer wrote.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/tupac-shakur-murder-trial-keffe-d-suge-knight-1235609806/",
+    "source": "rolling-stone",
+    "title": "Tupac Shakur Murder Trial Opens 30 Years After Rapper’s Death: ‘An Act of Revenge’",
+    "url": "https://www.rollingstone.com/music/music-news/tupac-shakur-murder-trial-keffe-d-suge-knight-1235609806/",
+    "publishedAt": "2026-08-17T18:07:38.000Z",
+    "summary": "Jurors will decide whether Duane \"Keffe D\" Davis played a role in the deadly drive-by shooting that killed Tupac Shakur in September 1996",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/hot-100-number-1-songs-on-top-longest/",
+    "source": "billboard",
+    "title": "The Longest-Leading Billboard Hot 100 No. 1s",
+    "url": "https://www.billboard.com/lists/hot-100-number-1-songs-on-top-longest/",
+    "publishedAt": "2026-08-17T17:57:52.000Z",
+    "summary": "A select few hits have led the chart for at least 10 weeks.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/tupac-shakur-murder-trial-begins-opening-statements-case/",
+    "source": "billboard",
+    "title": "Tupac Murder Trial Day 1: Prosecutors Say Gang Leader Carried Out ‘Act Of Revenge’ & Admitted It",
+    "url": "https://www.billboard.com/pro/tupac-shakur-murder-trial-begins-opening-statements-case/",
+    "publishedAt": "2026-08-17T17:53:42.000Z",
+    "summary": "In opening statements, prosecutors told a jury that \"visceral anger\" caused Duane “Keffe D” Davis to lead the effort to kill the iconic rapper.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/billboard-hot-100-top-10-countdown-august-22-2026/",
+    "source": "billboard",
+    "title": "Billboard Hot 100 Top 10 Countdown for Aug. 22, 2026 | Billboard News",
+    "url": "https://www.billboard.com/video/billboard-hot-100-top-10-countdown-august-22-2026/",
+    "publishedAt": "2026-08-17T17:42:15.000Z",
+    "summary": "Ella Langley’s presence in the top 10 remains strong, as does Morgan Wallen’s, while Taylor Swift, Stella Lefty, Ariana Grande and Olivia Dean help round out the rest of the top 10. Tetris Kelly: This is the Billboard Hot 100 top 10 for the week dated Aug. 22. Still at 10 is “Be Her,” while “Man […]",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/drake-praises-ella-langley-she-raps-hyfr-1236317707/",
+    "source": "billboard",
+    "title": "Drake Says Ella Langley Has the ‘Goated Pen’ After ‘Choosin’ Texas’ Singer Raps Along to ‘HYFR’",
+    "url": "https://www.billboard.com/music/rb-hip-hop/drake-praises-ella-langley-she-raps-hyfr-1236317707/",
+    "publishedAt": "2026-08-17T17:37:31.000Z",
+    "summary": "Drizzy is an Ella Fella.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/ella-langley-choosin-texas-number-1-hot-100-18-week/",
+    "source": "billboard",
+    "title": "Ella Langley’s ‘Choosin’ Texas’ Moves Closer to More Hot 100 History With 18th Week at No. 1",
+    "url": "https://www.billboard.com/lists/ella-langley-choosin-texas-number-1-hot-100-18-week/",
+    "publishedAt": "2026-08-17T17:18:28.000Z",
+    "summary": "It’s now a week from potentially tying for the longest reign ever among non-holiday hits.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/del-titus-bawuah-amg-billboard-uk/",
+    "source": "billboard",
+    "title": "Del Titus Bawuah Joins AMG to Drive Billboard U.K.’s Urban Music Strategy",
+    "url": "https://www.billboard.com/pro/del-titus-bawuah-amg-billboard-uk/",
+    "publishedAt": "2026-08-17T17:07:58.000Z",
+    "summary": "Bawuah’s previous experience spans technology, finance, music, media and culture.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/jennie-apologizes-fans-disappointed-blackpink-anniversary-1236317731/",
+    "source": "billboard",
+    "title": "JENNIE Offers Heartfelt Apology After Fans Felt ‘Disappointed’ by BLACKPINK’s 10th Anniversary",
+    "url": "https://www.billboard.com/music/music-news/jennie-apologizes-fans-disappointed-blackpink-anniversary-1236317731/",
+    "publishedAt": "2026-08-17T17:07:15.000Z",
+    "summary": "\"Our 10th anniversary should have been a moment where we could just celebrate and be happy together,\" she wrote.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/erykah-badu-and-the-alchemist-finally-releasing-joint-album-this-month/",
+    "source": "pitchfork",
+    "title": "Erykah Badu and the Alchemist Finally Releasing Joint Album This Month",
+    "url": "https://pitchfork.com/story/erykah-badu-and-the-alchemist-finally-releasing-joint-album-this-month/",
+    "publishedAt": "2026-08-17T16:40:40.000Z",
+    "summary": "Badu also premiered the music video for lead single “Witch Doctor,” a reenactment of 2010's \"Window Seat\" clip",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/al-jardine-performs-beach-boys-deep-cut-back-home-1235609947/",
+    "source": "rolling-stone",
+    "title": "Watch Al Jardine Sing the Beach Boys Deep Cut ‘Back Home’ for First Time in 49 Years",
+    "url": "https://www.rollingstone.com/music/music-news/al-jardine-performs-beach-boys-deep-cut-back-home-1235609947/",
+    "publishedAt": "2026-08-17T16:39:13.000Z",
+    "summary": "The obscure song was written in 1963 for the Surfer Girl album, revisited twice in 1970 during the Sunflower sessions, and not released until 1976 on 15 Big Ones",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/ritchie-blackmore-deep-purple-reunion-last-time-1235609998/",
+    "source": "rolling-stone",
+    "title": "Ritchie Blackmore on His Deep Purple Reunion: ‘It Could Be the Last Time We See Each Other’",
+    "url": "https://www.rollingstone.com/music/music-news/ritchie-blackmore-deep-purple-reunion-last-time-1235609998/",
+    "publishedAt": "2026-08-17T16:38:31.000Z",
+    "summary": "“I was there to see old friends. I hadn’t seen [them] in 40 years, and we’re all getting older,” Blackmore told Guitar Player about his one-off rendition of “Smoke on the Water” on Long Island",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/phoebe-bridgers-jess-williamson-erykah-badu-this-weeks-pitchfork-selects-playlist/",
+    "source": "pitchfork",
+    "title": "Phoebe Bridgers, Jess Williamson, Erykah Badu, and More: This Week’s Pitchfork Selects Playlist",
+    "url": "https://pitchfork.com/story/phoebe-bridgers-jess-williamson-erykah-badu-this-weeks-pitchfork-selects-playlist/",
+    "publishedAt": "2026-08-17T16:27:32.000Z",
+    "summary": "Our weekly playlist highlights songs that our writers, editors, and contributors are listening to on repeat",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/music-news/fan-army-face-off-2026-voting-1236294570/",
     "source": "billboard",
     "title": "Fan Army Face-Off 2026 Enters the Finals: Vote Now to Determine the Winner",
     "url": "https://www.billboard.com/music/music-news/fan-army-face-off-2026-voting-1236294570/",
     "publishedAt": "2026-08-17T16:07:43.000Z",
     "summary": "Which artist's fan army is the strongest?",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/rock-the-bells-ll-cool-j-swv-method-man-redman-thanksgiving-1236317647/",
-    "source": "billboard",
-    "title": "LL Cool J, SWV, Lil’ Kim, Method Man & Redman to Headline Thanksgiving Edition of Rock the Bells",
-    "url": "https://www.billboard.com/music/rb-hip-hop/rock-the-bells-ll-cool-j-swv-method-man-redman-thanksgiving-1236317647/",
-    "publishedAt": "2026-08-17T16:05:00.000Z",
-    "summary": "The slate also includes a D-Nice-curated set featuring LeToya Luckett, David Banner and The LOX.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/10-things-i-hate-about-you-broadway-musical-jepsen-details-1236317701/",
-    "source": "billboard",
-    "title": "’10 Things I Hate About You’ Broadway Musical Adaptation With Music By Carly Rae Jepsen Coming in 2027",
-    "url": "https://www.billboard.com/music/music-news/10-things-i-hate-about-you-broadway-musical-jepsen-details-1236317701/",
-    "publishedAt": "2026-08-17T15:53:18.000Z",
-    "summary": "The reboot of the 1999 Shakespeare-inspired film will feature a book co-written by Girls' Lena Dunham.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-    "source": "billboard",
-    "title": "Billboard’s Music Industry Events Calendar",
-    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-    "publishedAt": "2026-08-17T15:51:00.000Z",
-    "summary": "A complete rundown of the most important events across the music business.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/chris-brown-usher-rb-tour-adds-more-dates-1236317663/",
-    "source": "billboard",
-    "title": "Chris Brown & Usher Extend R&B Tour With More Stadium Shows: ‘The Love Has Been Unreal’",
-    "url": "https://www.billboard.com/music/rb-hip-hop/chris-brown-usher-rb-tour-adds-more-dates-1236317663/",
-    "publishedAt": "2026-08-17T15:45:27.000Z",
-    "summary": "The co-headlining trek will now run for 59 dates.",
     "image": null
   },
   {
@@ -59,43 +167,7 @@
     "title": "Brandon Flowers Daydreamed About Quitting Music. He Made a Country Album Instead",
     "url": "https://www.rollingstone.com/music/music-features/brandon-flowers-the-killers-quitting-music-country-album-1235607951/",
     "publishedAt": "2026-08-17T15:32:25.000Z",
-    "summary": "\"When people heard that I was possibly dipping my toes into country... they thought I was going to write Morgan Wallen songs or something like that,\" says Flowers, who drops Thrasher on Aug. 21",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/pop/stray-kids-react-this-that-9th-billboard-200-no-1-album-1236317637/",
-    "source": "billboard",
-    "title": "Stray Kids React to ‘THIS & THAT’ Becoming Group’s 9th Consecutive Billboard 200 No. 1 Album: ‘Most Exciting News Ever!’",
-    "url": "https://www.billboard.com/music/pop/stray-kids-react-this-that-9th-billboard-200-no-1-album-1236317637/",
-    "publishedAt": "2026-08-17T15:04:42.000Z",
-    "summary": "The K-pop superstars were elated that their latest album scored the biggest week by units so far.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/deana-carter-strawberry-wine-chart-rewind-1996-1236315128/",
-    "source": "billboard",
-    "title": "Chart Rewind: In 1996, Deana Carter’s ‘Strawberry’ Jammed Its Way Onto the Country Chart",
-    "url": "https://www.billboard.com/music/chart-beat/deana-carter-strawberry-wine-chart-rewind-1996-1236315128/",
-    "publishedAt": "2026-08-17T15:02:34.000Z",
-    "summary": "Her unconventional debut went on to top Hot Country Songs and scored big on the awards circuit.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/business/business-news/hybe-donates-300k-colombia-earthquake-1236317592/",
-    "source": "billboard",
-    "title": "HYBE Pledges Over $300k for Colombia Earthquake Recovery",
-    "url": "https://www.billboard.com/business/business-news/hybe-donates-300k-colombia-earthquake-1236317592/",
-    "publishedAt": "2026-08-17T15:00:00.000Z",
-    "summary": "The funds will help address the immediate needs of affected communities while supporting longer-term recovery.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/carly-simon-stories-behind-new-album-comes-in-waves/",
-    "source": "billboard",
-    "title": "Inside Carly Simon’s First Original Album In 18 Years: Stories Behind the Songs & Which One She Plays ‘Whenever I Need To Cry’",
-    "url": "https://www.billboard.com/lists/carly-simon-stories-behind-new-album-comes-in-waves/",
-    "publishedAt": "2026-08-17T14:56:02.000Z",
-    "summary": "The legendary singer-songwriter has released her first album in nearly 20 years.",
+    "summary": "“When people heard that I was possibly dipping my toes into country … they thought I was going to write Morgan Wallen songs or something like that,” says Flowers, who drops Thrasher on Aug. 21",
     "image": null
   },
   {
@@ -126,15 +198,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/pro/radio-hall-of-fame-2026-inductees-full-list/",
-    "source": "billboard",
-    "title": "Radio Hall of Fame Announces 2026 Host & Inductees: Full List",
-    "url": "https://www.billboard.com/pro/radio-hall-of-fame-2026-inductees-full-list/",
-    "publishedAt": "2026-08-17T13:14:48.000Z",
-    "summary": "Bobby Bones is set to serve as MC of the Oct. 8 ceremony.",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/chad-gray-hints-new-music-solo-band/",
     "source": "loudwire",
     "title": "Chad Gray Hints at the Possibility of New Music With Solo Band",
@@ -159,6 +222,15 @@
     "url": "https://loudwire.com/ritchie-blackmore-comment-deep-purple-reunion/",
     "publishedAt": "2026-08-17T12:30:22.000Z",
     "summary": "\"We realized it could be the last time we see each other.\" Continue reading…",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMivgFBVV95cUxOSVUyclAyMUp3ZlZTV0p2cFNYR3laSW9DWVE5N2kyUDRUZEhPcTdMT25rMWxnMklnY3BNamdJYkQ2aC04UUswQ0pDYU1ZV1JnNm5RWUpKeE15UE1MRksxVWFTLWNmRVZ0UlBta3ZFbS1LRG9EMEJxWEJwRF83NEViM193cXpVOHRJMUx0dEhaT2xzMVh5aktkczNKbXBHa19IcEJ5UEVuRFluaTZFTUFxdDVvN2ZmZ0dPb2UzY0xB?oc=5",
+    "source": "nme",
+    "title": "Bill Hader remembers origins of ‘South Park’ ‘Fishsticks’ episode that angered Kanye West - NME",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSVUyclAyMUp3ZlZTV0p2cFNYR3laSW9DWVE5N2kyUDRUZEhPcTdMT25rMWxnMklnY3BNamdJYkQ2aC04UUswQ0pDYU1ZV1JnNm5RWUpKeE15UE1MRksxVWFTLWNmRVZ0UlBta3ZFbS1LRG9EMEJxWEJwRF83NEViM193cXpVOHRJMUx0dEhaT2xzMVh5aktkczNKbXBHa19IcEJ5UEVuRFluaTZFTUFxdDVvN2ZmZ0dPb2UzY0xB?oc=5",
+    "publishedAt": "2026-08-17T12:10:14.000Z",
+    "summary": "Bill Hader remembers origins of ‘South Park’ ‘Fishsticks’ episode that angered Kanye West NME",
     "image": null
   },
   {
@@ -315,24 +387,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/role-model-interview-pop-star-dakota-johnson-1235609503/",
-    "source": "rolling-stone",
-    "title": "Role Model: ‘I’m Not Trying to Be a Pop Star!’",
-    "url": "https://www.rollingstone.com/music/music-features/role-model-interview-pop-star-dakota-johnson-1235609503/",
-    "publishedAt": "2026-08-16T14:00:00.000Z",
-    "summary": "Tucker Pillsbury, a.k.a. Role Model, goes deep about his new album, his secret Madonna influence, loving Heartland rock, and much more in our new interview",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/grateful-dead-guess-the-year-podcast-1235524908/",
-    "source": "rolling-stone",
-    "title": "Think You’re a Deadhead? Play This Game Show Podcast to Find Out",
-    "url": "https://www.rollingstone.com/music/music-features/grateful-dead-guess-the-year-podcast-1235524908/",
-    "publishedAt": "2026-08-16T14:00:00.000Z",
-    "summary": "Host Mike McClure tells us about creating the brilliant Guess the Year",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/nrvs-the-tanks-are-coming-single-review/",
     "source": "louder-than-war",
     "title": "Nrvs: The Tanks Are Coming – Single Review",
@@ -366,42 +420,6 @@
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZEFybHFQaUFFa3FHdEROVkUwdkNIbjE3MzdvWW0zdFRTTmdBSHk5Sk5McjRoR0k3REdFWjdXUFZORlQxcDZneTNuRFN6MW52bHIzdEVxRmFiVGMzT0ZqUHNfX2JyTk1yUmxCbDAxZHhmWVdRTHVXbHBUVTlFT2dqeDFZdlBvNXBnYUZHNDJPcFZCRkJ6ejZBTlh4OS1vb0x6V19wOHl0YzFBTGV5Wm50R21TRzUyZTNNMzdCWg?oc=5",
     "publishedAt": "2026-08-16T08:21:49.000Z",
     "summary": "Phil Collins says he is three years sober after \"dark times\" with alcohol addiction NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMiswFBVV95cUxQV3FIV2xJWHZmV05MbzFYUjZvZjQyMm9IMlk0WHdfZ2o5XzBvbDA5a1RYODVlaWJJMVE4b1lFWHRsQ0dLMnRmSHJLYUsxZmhBT1NMWnhSVVFQNkRJX002OVV3X2daWGM1aXRKQjk2dHlSOHE1MXpoanVPTDU1TzZhcVgwaV90em93RFU4VkVZUnM2a1IwemdsVnE2QVBUbVVUYUlkb0JiQUNCcFhjdGlqMjBnTQ?oc=5",
-    "source": "nme",
-    "title": "Queens Of The Stone Age announce new album ‘Perfecth’ in bloody reveal video - NME",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV3FIV2xJWHZmV05MbzFYUjZvZjQyMm9IMlk0WHdfZ2o5XzBvbDA5a1RYODVlaWJJMVE4b1lFWHRsQ0dLMnRmSHJLYUsxZmhBT1NMWnhSVVFQNkRJX002OVV3X2daWGM1aXRKQjk2dHlSOHE1MXpoanVPTDU1TzZhcVgwaV90em93RFU4VkVZUnM2a1IwemdsVnE2QVBUbVVUYUlkb0JiQUNCcFhjdGlqMjBnTQ?oc=5",
-    "publishedAt": "2026-08-16T07:45:57.000Z",
-    "summary": "Queens Of The Stone Age announce new album ‘Perfecth’ in bloody reveal video NME",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/selena-gomez-wondermind-lawsuit-meritless-motion-to-dismiss-1235609673/",
-    "source": "rolling-stone",
-    "title": "Selena Gomez’s Lawyer Calls Wondermind Suit ‘Meritless,’ Will File Motion to Dismiss ‘Baseless Claims’",
-    "url": "https://www.rollingstone.com/music/music-news/selena-gomez-wondermind-lawsuit-meritless-motion-to-dismiss-1235609673/",
-    "publishedAt": "2026-08-15T21:31:00.000Z",
-    "summary": "The singer, her mother Mandy Teefey, and their former business partner were sued by investors who claim they were misled by Gomez’s involvement",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/frankie-valli-not-retired-brother-bobby-apologizes-1235609548/",
-    "source": "rolling-stone",
-    "title": "Frankie Valli Says ‘I Am Not Retired,’ His Brother Bobby Apologizes for Being ‘Misinformed’",
-    "url": "https://www.rollingstone.com/music/music-news/frankie-valli-not-retired-brother-bobby-apologizes-1235609548/",
-    "publishedAt": "2026-08-15T19:15:41.000Z",
-    "summary": "The 92-year-old singer took to social media to clarify his status after his brother said Frankie “will now retire”",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/dave-marsh-music-critic-biographer-dead-obit-1235609648/",
-    "source": "rolling-stone",
-    "title": "Dave Marsh, Legendary Rock Biographer and Critic, Dead at 76",
-    "url": "https://www.rollingstone.com/music/music-news/dave-marsh-music-critic-biographer-dead-obit-1235609648/",
-    "publishedAt": "2026-08-15T18:23:17.000Z",
-    "summary": "Pioneering Creem and Rolling Stone journalist wrote essential biographies on the Who and Bruce Springsteen",
     "image": null
   },
   {
@@ -582,24 +600,6 @@
     "url": "https://pitchfork.com/story/listen-to-alex-gs-new-song-with-the-blue-niles-paul-buchanan/",
     "publishedAt": "2026-08-14T04:04:41.000Z",
     "summary": "“Pain Is the Heart of Love” appears on the soundtrack to Jane Schoenbrun’s new film Teenage Sex and Death at Camp Miasma",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/siblings-child-sex-trafficking-lawsuit-against-michael-jackson-dismissed/",
-    "source": "pitchfork",
-    "title": "Siblings’ Child Sex Trafficking Lawsuit Against Michael Jackson Dismissed",
-    "url": "https://pitchfork.com/story/siblings-child-sex-trafficking-lawsuit-against-michael-jackson-dismissed/",
-    "publishedAt": "2026-08-13T18:07:24.000Z",
-    "summary": "A California state judge has sent the Cascio siblings’ suit to arbitration, citing a clause in their 2019 settlement with the Jackson estate",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/dummy-reveal-new-album-do-you-love-the-color-of-the-sky/",
-    "source": "pitchfork",
-    "title": "Dummy Reveal New Album Do You Love the Color of the Sky?",
-    "url": "https://pitchfork.com/story/dummy-reveal-new-album-do-you-love-the-color-of-the-sky/",
-    "publishedAt": "2026-08-13T17:11:00.000Z",
-    "summary": "Along with the surreal music video for first single “Full Spectrum Dominance”",
     "image": null
   },
   {
