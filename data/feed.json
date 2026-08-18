@@ -1,11 +1,137 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/pro/alibaba-launched-ai-music-generator-happy-shrimp/",
+    "source": "billboard",
+    "title": "Chinese Tech Giant Alibaba Launches New AI Music Generator Called ‘Happy Shrimp’",
+    "url": "https://www.billboard.com/pro/alibaba-launched-ai-music-generator-happy-shrimp/",
+    "publishedAt": "2026-08-18T16:26:29.000Z",
+    "summary": "Partnering with Chinese major TAIHE MUSIC GROUP, Happy Shrimp users can create songs from prompts like \"happily single mandopop ballad.\"",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/jae-stephens-artist-you-need-to-know-debut-album-audacity-1235572006/",
+    "source": "rolling-stone",
+    "title": "Jae Stephens Has What Pop Is Missing: Audacity",
+    "url": "https://www.rollingstone.com/music/music-features/jae-stephens-artist-you-need-to-know-debut-album-audacity-1235572006/",
+    "publishedAt": "2026-08-18T16:25:09.000Z",
+    "summary": "With a debut album on the way, the singer-songwriter is more confident than ever",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/remi-wolf-announces-new-album-mud/",
+    "source": "pitchfork",
+    "title": "Remi Wolf Announces New Album Mud",
+    "url": "https://pitchfork.com/story/remi-wolf-announces-new-album-mud/",
+    "publishedAt": "2026-08-18T16:04:12.000Z",
+    "summary": "“I literally felt like I was covered in shit. And now, at the end of the album process, I feel so clean and clear.”",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/megan-thee-stallion-new-riaa-certifications-1236318687/",
+    "source": "billboard",
+    "title": "Megan Thee Stallion Earns Multiple New RIAA Certifications as ‘Savage’ Hits 6x Platinum",
+    "url": "https://www.billboard.com/music/rb-hip-hop/megan-thee-stallion-new-riaa-certifications-1236318687/",
+    "publishedAt": "2026-08-18T15:55:05.000Z",
+    "summary": "Cardi B and Meg's \"WAP\" also became certified Diamond earlier in August.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/bonnie-tyler-funeral-choir-total-eclipse-of-the-heart-1235610834/",
+    "source": "rolling-stone",
+    "title": "Bonnie Tyler’s Funeral Featured a Choir Performing ‘Total Eclipse of the Heart’",
+    "url": "https://www.rollingstone.com/music/music-news/bonnie-tyler-funeral-choir-total-eclipse-of-the-heart-1235610834/",
+    "publishedAt": "2026-08-18T15:21:49.000Z",
+    "summary": "The Welsh vocal group Only Men Aloud also honored the late singer with a performance of Simon and Garfunkel’s “Bridge Over Troubled Water”",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/posthumous-jennifer-finch-memoir-announced/",
+    "source": "pitchfork",
+    "title": "Posthumous Jennifer Finch Memoir Announced",
+    "url": "https://pitchfork.com/story/posthumous-jennifer-finch-memoir-announced/",
+    "publishedAt": "2026-08-18T15:21:18.000Z",
+    "summary": "The late L7 bassist's Shooting Up and Making Out: A Memoir of My Life in LA and L7 hits shelves in January 2027",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/oasis-dont-look-back-in-anger-doc-trailer-1235610789/",
+    "source": "rolling-stone",
+    "title": "Oasis Doc Trailer Shows Noel Gallagher Asking, ‘Will It Fall Apart Again?’",
+    "url": "https://www.rollingstone.com/music/music-news/oasis-dont-look-back-in-anger-doc-trailer-1235610789/",
+    "publishedAt": "2026-08-18T15:20:00.000Z",
+    "summary": "Don't Look Back in Anger set to open in movie theaters in September",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/jennifer-finch-l7-courtney-love-billy-corgan-flea-tribute-1235605813/",
+    "source": "rolling-stone",
+    "title": "L7’s Jennifer Finch, as Remembered by Courtney Love, Flea, Billy Corgan, and More",
+    "url": "https://www.rollingstone.com/music/music-features/jennifer-finch-l7-courtney-love-billy-corgan-flea-tribute-1235605813/",
+    "publishedAt": "2026-08-18T15:14:09.000Z",
+    "summary": "Melissa Auf der Maur, Donita Sparks, Tom Morello, Fat Mike, Kevin Lyman also tribute the musician, whose posthumous memoir comes out next year",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/stella-lefty-song-shuffle-boston-sza-stevie-nicks-1235610419/",
+    "source": "rolling-stone",
+    "title": "Stella Lefty Finds Guidance From SZA and Liberation in Stevie Nicks",
+    "url": "https://www.rollingstone.com/music/music-news/stella-lefty-song-shuffle-boston-sza-stevie-nicks-1235610419/",
+    "publishedAt": "2026-08-18T15:00:00.000Z",
+    "summary": "The “Boston” singer walked us through a playlist that includes Thomas Rhett and Elvis Presley for Rolling Stone’s Song Shuffle Series",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/karol-g-all-albums-ranked/",
+    "source": "billboard",
+    "title": "All of Karol G’s Albums, Ranked",
+    "url": "https://www.billboard.com/lists/karol-g-all-albums-ranked/",
+    "publishedAt": "2026-08-18T15:00:00.000Z",
+    "summary": "From her debut album Unstoppable to No Me Arrepiento de Sentir Tanto, see Billboard's ranking.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/sxsw-2027-changes-podcasting-festival-new-music-hubs/",
+    "source": "billboard",
+    "title": "SXSW Reveals 2027 Changes: Podcasting Festival, New Hubs for Music Programming & More",
+    "url": "https://www.billboard.com/pro/sxsw-2027-changes-podcasting-festival-new-music-hubs/",
+    "publishedAt": "2026-08-18T15:00:00.000Z",
+    "summary": "Next year's edition of the Austin festival is slated to run from March 17-21.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/cynthia-erivo-says-ariana-grande-favorite-person-to-sing-with-1236318633/",
+    "source": "billboard",
+    "title": "After Emotional Onstage London Reunion, Cynthia Erivo Calls Ariana Grande ‘My Favorite Person to Sing With’",
+    "url": "https://www.billboard.com/music/pop/cynthia-erivo-says-ariana-grande-favorite-person-to-sing-with-1236318633/",
+    "publishedAt": "2026-08-18T14:52:26.000Z",
+    "summary": "Ari agreed, writing in comments that she was \"so grateful\" for the Eternal Sunshine get-together on Sunday night (Aug. 16).",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/madonna-taylor-swift-lead-vma-2026-nominations/",
+    "source": "pitchfork",
+    "title": "Madonna, Taylor Swift Lead VMA 2026 Nominations",
+    "url": "https://pitchfork.com/story/madonna-taylor-swift-lead-vma-2026-nominations/",
+    "publishedAt": "2026-08-18T14:44:18.000Z",
+    "summary": "Madge is up for 11, Tay for nine (and Geese for one)",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/dee-snider-apologizes-kelly-osbourne/",
+    "source": "loudwire",
+    "title": "Dee Snider Apologizes to Kelly Osbourne Over Ozzy-Related Drama",
+    "url": "https://loudwire.com/dee-snider-apologizes-kelly-osbourne/",
+    "publishedAt": "2026-08-18T14:33:20.000Z",
+    "summary": "Dee Snider has issued an apology to Kelly Osbourne over the Ozzy-related drama that transpired on social media between them late last week. Continue reading…",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/2026-mtv-vmas-nominees-full-list-taylor-swift-madonna-1235610787/",
     "source": "rolling-stone",
     "title": "Madonna and Taylor Swift Are the Pop Icons Leading the Nominees for the 2026 MTV VMAs",
     "url": "https://www.rollingstone.com/music/music-news/2026-mtv-vmas-nominees-full-list-taylor-swift-madonna-1235610787/",
     "publishedAt": "2026-08-18T14:30:35.000Z",
-    "summary": "Both artists will compete for Video of the Year and Artist of the Year at this year's show",
+    "summary": "Both artists will compete for Video of the Year and Artist of the Year at this year’s show",
     "image": null
   },
   {
@@ -72,48 +198,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/country/dolly-parton-sorry-missing-dollywood-ride-open-health-issues-1236318609/",
-    "source": "billboard",
-    "title": "Dolly Parton Apologizes For Missing Dollywood Attraction Opening Amid Ongoing Health Issues, Says Doctor ‘Kinda Clipped My Wings’",
-    "url": "https://www.billboard.com/music/country/dolly-parton-sorry-missing-dollywood-ride-open-health-issues-1236318609/",
-    "publishedAt": "2026-08-18T12:41:43.000Z",
-    "summary": "The 80-year-old country icon said she'd been feeling dizzy and dehydrated before her medical team suggested she not travel this week.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/tv-film/details-hayden-panettiere-death-ex-klitschko-reacts-1236318592/",
-    "source": "billboard",
-    "title": "Details Emerge About Hayden Panettiere’s Death, Ex Wladimir Klitschko Reacts: ‘She Left This World Far Too Soon’",
-    "url": "https://www.billboard.com/culture/tv-film/details-hayden-panettiere-death-ex-klitschko-reacts-1236318592/",
-    "publishedAt": "2026-08-18T12:13:47.000Z",
-    "summary": "The Nashville actress was found dead at 36 in Greenville, S.C. on Sunday (Aug. 16).",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/rock-metal-musicians-success-after-getting-fired/",
     "source": "loudwire",
     "title": "10 Rock + Metal Musicians Who Had Big Success After Getting Fired",
     "url": "https://loudwire.com/rock-metal-musicians-success-after-getting-fired/",
     "publishedAt": "2026-08-18T12:06:27.000Z",
     "summary": "Sometimes getting fired from a big band isn't the end of the world. It's exactly what's needed to launch something that's successful in its own right. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rock/ozzfest-returning-2027-location-confirmed-1236318589/",
-    "source": "billboard",
-    "title": "OzzFest Is Back: Festival Confirms Venue For 2027 Edition in Ozzy Osbourne’s Hometown",
-    "url": "https://www.billboard.com/music/rock/ozzfest-returning-2027-location-confirmed-1236318589/",
-    "publishedAt": "2026-08-18T11:10:45.000Z",
-    "summary": "The festival first took place in 1996 and was last held in 2018.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/beabadoobee-jorja-smith-nemzzz-spotify-hometown-series-1236318586/",
-    "source": "billboard",
-    "title": "Beabadoobee, Jorja Smith & Nemzzz Set to Headline All-New Spotify ‘Hometown’ Series",
-    "url": "https://www.billboard.com/music/music-news/beabadoobee-jorja-smith-nemzzz-spotify-hometown-series-1236318586/",
-    "publishedAt": "2026-08-18T11:07:36.000Z",
-    "summary": "The streaming platform will also partner with each artist to support local community initiatives.",
     "image": null
   },
   {
@@ -140,7 +230,7 @@
     "title": "Fontaines D.C. Announce New Album Dopamine Chamber, Share Single",
     "url": "https://pitchfork.com/story/fontaines-dc-announce-new-album-dopamine-chamber-share-single/",
     "publishedAt": "2026-08-18T09:07:23.000Z",
-    "summary": "“Marianne” leads the Irish band’s fifth LP ahead of its October release",
+    "summary": "Watch the video for “Marianne,” the lead single from the Irish band’s fifth LP",
     "image": null
   },
   {
@@ -177,15 +267,6 @@
     "url": "https://www.rollingstone.com/music/music-news/shakira-colombia-earthquake-university-schools-rebuilding-1235610631/",
     "publishedAt": "2026-08-18T08:11:45.000Z",
     "summary": "The Colombian singer’s Fundación Pies Descalzos will lead an effort to kickstart education in the devastated Chocó region",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rock/fontaines-dc-new-album-dopamine-chamber-release-date-1236315620/",
-    "source": "billboard",
-    "title": "Fontaines D.C. Share Pounding Comeback Single & Announce New Album: Here’s When It Arrives",
-    "url": "https://www.billboard.com/music/rock/fontaines-dc-new-album-dopamine-chamber-release-date-1236315620/",
-    "publishedAt": "2026-08-18T08:00:52.000Z",
-    "summary": "Dopamine Chamber will be the band's fifth full-length set.",
     "image": null
   },
   {
@@ -306,57 +387,12 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-pictures/field-of-vision-festival-king-gizzard-and-the-lizard-wizard-photos-1235609854/",
-    "source": "rolling-stone",
-    "title": "King Gizzard and the Lizard Wizard’s Field of Vision Festival",
-    "url": "https://www.rollingstone.com/music/music-pictures/field-of-vision-festival-king-gizzard-and-the-lizard-wizard-photos-1235609854/",
-    "publishedAt": "2026-08-17T18:17:49.000Z",
-    "summary": "The second iteration of King Gizzard and the Lizard Wizard’s Field of Vision festival took place this weekend at Meadow Creek in Buena Vista, Colorado. Each night of the festival featured a three-hour, marathon headlining set by Gizz — and also included a curated lineup of friends and collaborators from across the world, among them […]",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/hayden-panettiere-nashville-juliette-barnes-metoo-1235610060/",
-    "source": "rolling-stone",
-    "title": "Hayden Panettiere’s ‘Nashville’ Character Helped Expose Country Music’s Dark Side",
-    "url": "https://www.rollingstone.com/music/music-features/hayden-panettiere-nashville-juliette-barnes-metoo-1235610060/",
-    "publishedAt": "2026-08-17T18:14:46.000Z",
-    "summary": "As Juliette Barnes, Panettiere brought some of the industry’s worst-kept secrets to the forefront and influenced a generation of female artists to no longer stay silent",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/tupac-shakur-murder-trial-keffe-d-suge-knight-1235609806/",
-    "source": "rolling-stone",
-    "title": "Tupac Shakur Murder Trial Opens 30 Years After Rapper’s Death: ‘An Act of Revenge’",
-    "url": "https://www.rollingstone.com/music/music-news/tupac-shakur-murder-trial-keffe-d-suge-knight-1235609806/",
-    "publishedAt": "2026-08-17T18:07:38.000Z",
-    "summary": "Jurors will decide whether Duane “Keffe D” Davis played a role in the deadly drive-by shooting that killed Tupac Shakur in September 1996",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/erykah-badu-and-the-alchemist-finally-releasing-joint-album-this-month/",
     "source": "pitchfork",
     "title": "Erykah Badu and the Alchemist Finally Releasing Joint Album This Month",
     "url": "https://pitchfork.com/story/erykah-badu-and-the-alchemist-finally-releasing-joint-album-this-month/",
     "publishedAt": "2026-08-17T16:40:40.000Z",
     "summary": "Badu also premiered the music video for lead single “Witch Doctor,” a reenactment of 2010's \"Window Seat\" clip",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/al-jardine-performs-beach-boys-deep-cut-back-home-1235609947/",
-    "source": "rolling-stone",
-    "title": "Watch Al Jardine Sing the Beach Boys Deep Cut ‘Back Home’ for First Time in 49 Years",
-    "url": "https://www.rollingstone.com/music/music-news/al-jardine-performs-beach-boys-deep-cut-back-home-1235609947/",
-    "publishedAt": "2026-08-17T16:39:13.000Z",
-    "summary": "The obscure song was written in 1963 for the Surfer Girl album, revisited twice in 1970 during the Sunflower sessions, and not released until 1976 on 15 Big Ones",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/ritchie-blackmore-deep-purple-reunion-last-time-1235609998/",
-    "source": "rolling-stone",
-    "title": "Ritchie Blackmore on His Deep Purple Reunion: ‘It Could Be the Last Time We See Each Other’",
-    "url": "https://www.rollingstone.com/music/music-news/ritchie-blackmore-deep-purple-reunion-last-time-1235609998/",
-    "publishedAt": "2026-08-17T16:38:31.000Z",
-    "summary": "“I was there to see old friends. I hadn’t seen [them] in 40 years, and we’re all getting older,” Blackmore told Guitar Player about his one-off rendition of “Smoke on the Water” on Long Island",
     "image": null
   },
   {
@@ -513,24 +549,6 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/story/dave-marsh-veteran-rock-critic-and-biographer-dies-at-76/",
-    "source": "pitchfork",
-    "title": "Dave Marsh, Veteran Rock Critic and Bruce Springsteen Biographer, Dies at 76",
-    "url": "https://pitchfork.com/story/dave-marsh-veteran-rock-critic-and-biographer-dies-at-76/",
-    "publishedAt": "2026-08-16T17:31:36.000Z",
-    "summary": "In a statement, Springsteen called the former Creem editor “soulful, intelligent, heartfelt, opinionated, bruising and often fantastically argumentative”",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/courtney-love-recounts-2019-health-scare-they-told-me-i-was-going-to-die/",
-    "source": "pitchfork",
-    "title": "Courtney Love Recounts 2019 Health Scare: “They Told Me I Was Going to Die”",
-    "url": "https://pitchfork.com/story/courtney-love-recounts-2019-health-scare-they-told-me-i-was-going-to-die/",
-    "publishedAt": "2026-08-16T14:09:10.000Z",
-    "summary": "In an Instagram video, the singer also confirmed her next solo album is “done,” and thanked contributors including Michael Stipe and Billie Joe Armstrong",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/daily-thompson-glue-album-review/",
     "source": "louder-than-war",
     "title": "Daily Thompson: Glue – Album Review",
@@ -567,15 +585,6 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/best-technical-death-metal-albums-2000s/",
-    "source": "loudwire",
-    "title": "11 Best Technical Death Metal Albums of the 2000s",
-    "url": "https://loudwire.com/best-technical-death-metal-albums-2000s/",
-    "publishedAt": "2026-08-15T11:00:08.000Z",
-    "summary": "There's no better decade for tech-death than the 2000s and these 11 albums prove it. Continue reading…",
-    "image": null
-  },
-  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMiakFVX3lxTFBtRXFrXy1MN2M1MDk0MGdsZzQzYVR4QUZpbkR3Zy1Nb1Q1VjlZLVBza0NSSl9lTFZGMllkRU5fY1NIT2hMeFdhYkdjX1ZPalJQaTA3c24wcUJERXEzU0pkSy1MTVhjUDJ1M1E?oc=5",
     "source": "kerrang",
     "title": "Slipknot announce split with Sid Wilson before removing post - Kerrang!",
@@ -600,15 +609,6 @@
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQemtWYXlWVnhic01PRE5GUl85THhLdVpIWHdOeVpnZW5PaTFyNUlPTVFic29JRk41QjNSbE52am5od1cwNTZiYW1ySDJjM1I3TWs5czZnV3lZZ084cl9ZUzVla1JGYUlYNzBKSEpKWE9SLTBVZmxSZU5rUkVuVGg5eE9DX1lLQ1RUYlk0cEpsejg?oc=5",
     "publishedAt": "2026-08-14T16:48:00.000Z",
     "summary": "Ghostemane returns with first new single in five years, Zero Day Kerrang!",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/watch-julia-jacklin-cover-sugar-rays-every-morning/",
-    "source": "pitchfork",
-    "title": "Watch Julia Jacklin Cover Sugar Ray’s “Every Morning”",
-    "url": "https://pitchfork.com/story/watch-julia-jacklin-cover-sugar-rays-every-morning/",
-    "publishedAt": "2026-08-14T16:31:40.000Z",
-    "summary": "“The song just makes me feel grateful to be alive”",
     "image": null
   },
   {
