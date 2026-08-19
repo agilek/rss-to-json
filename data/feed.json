@@ -1,5 +1,23 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/rock/the-stray-cats-rock-this-town-late-night-tv-watch-1236319732/",
+    "source": "billboard",
+    "title": "The Stray Cats Pounce on ‘Rock This Town’ For Late-Night TV Return: Watch",
+    "url": "https://www.billboard.com/music/rock/the-stray-cats-rock-this-town-late-night-tv-watch-1236319732/",
+    "publishedAt": "2026-08-19T08:37:52.000Z",
+    "summary": "Setzer and Co. stopped by The Tonight Show Starring Jimmy Fallon for a performance of that classic hit.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/tv-film/brook-lynn-amazing-original-song-agt-quarterfinals-1236319624/",
+    "source": "billboard",
+    "title": "Brook Lynn Delivers ‘Amazing’ Performance of Original Song For ‘AGT’ Quarterfinals: Watch",
+    "url": "https://www.billboard.com/culture/tv-film/brook-lynn-amazing-original-song-agt-quarterfinals-1236319624/",
+    "publishedAt": "2026-08-19T07:09:10.000Z",
+    "summary": "“This song should be like in a Bond movie,” Sofía Vergara enthused.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/rock/tears-for-fears-curt-smith-bath-fc-1236319616/",
     "source": "billboard",
     "title": "Tears For Fears’ Curt Smith Puts Hand Up For English Soccer Club",
@@ -87,24 +105,6 @@
     "url": "https://www.billboard.com/music/rb-hip-hop/jay-worthy-video-game-p-of-the-week-george-clinton-album-1236319490/",
     "publishedAt": "2026-08-19T00:55:36.000Z",
     "summary": "The retro video game comes a couple of weeks before his collab album with George Clinton drops.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/lady-gaga-wins-lawsuit-surf-brand-mayhem-album-name/",
-    "source": "billboard",
-    "title": "Lady Gaga Defeats Lawsuit That Claimed ‘Mayhem’ Album Name Infringed a Surfboard Brand",
-    "url": "https://www.billboard.com/pro/lady-gaga-wins-lawsuit-surf-brand-mayhem-album-name/",
-    "publishedAt": "2026-08-19T00:51:40.000Z",
-    "summary": "A judge cited the First Amendment to end a case claiming Gaga's album name represented a “blatant disregard” for an existing line of Mayhem surfboards.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/fka-twigs-trademark-lawsuit-singer-wins-band-the-twigs/",
-    "source": "billboard",
-    "title": "FKA Twigs Wins First Round in Legal Trademark Battle With Indie Band The Twigs",
-    "url": "https://www.billboard.com/pro/fka-twigs-trademark-lawsuit-singer-wins-band-the-twigs/",
-    "publishedAt": "2026-08-19T00:31:20.000Z",
-    "summary": "A judge said two sisters cannot sue the Eusexua artist because they \"let their claims lie fallow for at least a decade.\"",
     "image": null
   },
   {
@@ -326,10 +326,10 @@
   {
     "id": "nme-https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVjNyTHpzWGQtc1ZFUWRiQjdTdlZoUUFEamVodFZqR0QxOXNPRnNvejZaaC1JeTlUTU4ycUFaMzY1LTRhSEwxSjV0Q0lnSXpWTEpSZG9lWUZKcm5JUVNTcXBvQ0YzTDMyOTV0N1JyVjlJQmR2SVg0alFpejN5azlfLXgxU0cxTTJBTDZfUmMzakdpcEdscWhYb3oxQXhzUFdsdGN0TDBrajRfU1JXbUpvallHUTNISktTN0EyMlJ3alNNVFdmSG9vVFFaNnhwQ19j?oc=5",
     "source": "nme",
-    "title": "Watch the emotional trailer for Oasis doc 'Don't Look Back In Anger' as cinema tickets go on sale - nme.com",
+    "title": "Watch the emotional trailer for Oasis doc 'Don't Look Back In Anger' as cinema tickets go on sale - NME",
     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVjNyTHpzWGQtc1ZFUWRiQjdTdlZoUUFEamVodFZqR0QxOXNPRnNvejZaaC1JeTlUTU4ycUFaMzY1LTRhSEwxSjV0Q0lnSXpWTEpSZG9lWUZKcm5JUVNTcXBvQ0YzTDMyOTV0N1JyVjlJQmR2SVg0alFpejN5azlfLXgxU0cxTTJBTDZfUmMzakdpcEdscWhYb3oxQXhzUFdsdGN0TDBrajRfU1JXbUpvallHUTNISktTN0EyMlJ3alNNVFdmSG9vVFFaNnhwQ19j?oc=5",
     "publishedAt": "2026-08-18T14:14:36.000Z",
-    "summary": "Watch the emotional trailer for Oasis doc 'Don't Look Back In Anger' as cinema tickets go on sale nme.com",
+    "summary": "Watch the emotional trailer for Oasis doc 'Don't Look Back In Anger' as cinema tickets go on sale NME",
     "image": null
   },
   {
@@ -353,10 +353,10 @@
   {
     "id": "nme-https://news.google.com/rss/articles/CBMipAFBVV95cUxOUUczZjBJamVRS1h5YURwZnN3cjNzTkZManVHVzBrdDNvQ2Z2VEgxWkNFSVI2TWhVYWZMTTNQWW1UUGNEaER1UjluRzExTmcwWlRxSF9ubXFSeTJtYW9zMUNhN0lWUHE1NHh2UlZKMERyN1o0VmJ4RndHbUtnREFyX3FGU2pQMW4zNVhrZzhrbzlNYjlENmE2dkloNHYzaEV6OU15SQ?oc=5",
     "source": "nme",
-    "title": "Brandon Flowers tells us about making his most personal album yet: \"I'm finally ready to do this\" - nme.com",
+    "title": "Brandon Flowers tells us about making his most personal album yet: \"I'm finally ready to do this\" - NME",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUUczZjBJamVRS1h5YURwZnN3cjNzTkZManVHVzBrdDNvQ2Z2VEgxWkNFSVI2TWhVYWZMTTNQWW1UUGNEaER1UjluRzExTmcwWlRxSF9ubXFSeTJtYW9zMUNhN0lWUHE1NHh2UlZKMERyN1o0VmJ4RndHbUtnREFyX3FGU2pQMW4zNVhrZzhrbzlNYjlENmE2dkloNHYzaEV6OU15SQ?oc=5",
     "publishedAt": "2026-08-18T13:00:48.000Z",
-    "summary": "Brandon Flowers tells us about making his most personal album yet: \"I'm finally ready to do this\" nme.com",
+    "summary": "Brandon Flowers tells us about making his most personal album yet: \"I'm finally ready to do this\" NME",
     "image": null
   },
   {
@@ -380,10 +380,10 @@
   {
     "id": "nme-https://news.google.com/rss/articles/CBMioAFBVV95cUxQTjNiVlhKUFM4Znh6dTQ2QWhzcThWbkw3VXktblFMQVlhcHJ1Znp3VGZpeXo3ZjNhenh6bU81MmJoenVyei1uS1czUlB2WGJSRlJTMWlaRE5wOHBmNDJyMklqRUpZN2J4TDFVdlAzSjFvVm5PSms3endXMGhpMHNqekJieXhSbU9rbmlHNFNid0JmTktaU3VCdDNUNlVUS2M5?oc=5",
     "source": "nme",
-    "title": "Hayden Panettiere: further details about actor’s death released - nme.com",
+    "title": "Hayden Panettiere: further details about actor’s death released - NME",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTjNiVlhKUFM4Znh6dTQ2QWhzcThWbkw3VXktblFMQVlhcHJ1Znp3VGZpeXo3ZjNhenh6bU81MmJoenVyei1uS1czUlB2WGJSRlJTMWlaRE5wOHBmNDJyMklqRUpZN2J4TDFVdlAzSjFvVm5PSms3endXMGhpMHNqekJieXhSbU9rbmlHNFNid0JmTktaU3VCdDNUNlVUS2M5?oc=5",
     "publishedAt": "2026-08-18T10:04:58.000Z",
-    "summary": "Hayden Panettiere: further details about actor’s death released nme.com",
+    "summary": "Hayden Panettiere: further details about actor’s death released NME",
     "image": null
   },
   {
@@ -398,19 +398,19 @@
   {
     "id": "nme-https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZjBOcndiSmxqMUFFcGxCQjBBcUFBU08tUS1NYUFpU3NKQWFaWk9ySldOWndIcFZLaVlreGRUQkY4d2tzbHV3MDVZcWk2S3ZLQ2dQclVCZnNKT20xdDZOSEwyRzBXeEV5d3VTRHIyODVKOXp6WHdfQWdLUC12RGl1QU51MnRocnlNYjNJS0w5X0JKeTAtU2hqRkc0ZHFaNVRxeHNoUzdVTkpwWGhIckJLZF9rSjl1TDZqYlJsZ3RJbTh0M2J6NW1VZVlsYWJORzl4bjRjSDJsMmw?oc=5",
     "source": "nme",
-    "title": "Matchbox Twenty’s Rob Thomas goes viral for swinging mic stand into bandmate’s head, smashing his in-ears - nme.com",
+    "title": "Matchbox Twenty’s Rob Thomas goes viral for swinging mic stand into bandmate’s head, smashing his in-ears - NME",
     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZjBOcndiSmxqMUFFcGxCQjBBcUFBU08tUS1NYUFpU3NKQWFaWk9ySldOWndIcFZLaVlreGRUQkY4d2tzbHV3MDVZcWk2S3ZLQ2dQclVCZnNKT20xdDZOSEwyRzBXeEV5d3VTRHIyODVKOXp6WHdfQWdLUC12RGl1QU51MnRocnlNYjNJS0w5X0JKeTAtU2hqRkc0ZHFaNVRxeHNoUzdVTkpwWGhIckJLZF9rSjl1TDZqYlJsZ3RJbTh0M2J6NW1VZVlsYWJORzl4bjRjSDJsMmw?oc=5",
     "publishedAt": "2026-08-18T09:45:57.000Z",
-    "summary": "Matchbox Twenty’s Rob Thomas goes viral for swinging mic stand into bandmate’s head, smashing his in-ears nme.com",
+    "summary": "Matchbox Twenty’s Rob Thomas goes viral for swinging mic stand into bandmate’s head, smashing his in-ears NME",
     "image": null
   },
   {
     "id": "nme-https://news.google.com/rss/articles/CBMigAFBVV95cUxNS1IwOVZwNDU3VlhoV2dzVXZGcWhTbDV3ejdFWWRld0Z3RWxoYkRSMDRfdW1odDczWURMTkFLSmpfY0xGOXF4OXFNZ2pjM3pZS1kxWEMzNll1Z01sck5BSDdpTHpuOFQxNE5McFpPTXBYMHVMemNBam41ZDRUcDlmbw?oc=5",
     "source": "nme",
-    "title": "Ayra Starr – ‘Starrgirl’ album review: the Afro-R&B superstar widens her orbit - nme.com",
+    "title": "Ayra Starr – ‘Starrgirl’ album review: the Afro-R&B superstar widens her orbit - NME",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNS1IwOVZwNDU3VlhoV2dzVXZGcWhTbDV3ejdFWWRld0Z3RWxoYkRSMDRfdW1odDczWURMTkFLSmpfY0xGOXF4OXFNZ2pjM3pZS1kxWEMzNll1Z01sck5BSDdpTHpuOFQxNE5McFpPTXBYMHVMemNBam41ZDRUcDlmbw?oc=5",
     "publishedAt": "2026-08-18T09:00:40.000Z",
-    "summary": "Ayra Starr – ‘Starrgirl’ album review: the Afro-R&B superstar widens her orbit nme.com",
+    "summary": "Ayra Starr – ‘Starrgirl’ album review: the Afro-R&B superstar widens her orbit NME",
     "image": null
   },
   {
@@ -434,28 +434,28 @@
   {
     "id": "nme-https://news.google.com/rss/articles/CBMilgFBVV95cUxOSnNKNDhnWnk4SVBieW5wUDRvOTd6VWI3ekhYSzhtMHR2Nk5CYXg4M0ZjUTk0TU1HSDBrRU5uVTE1cHdBMy1zMGNZdkZoZGNjOXg3SlhJVFBKTTJvUFZ2eExaRVdNUXZIMEthelVJUDFCQ2RVUGR1bFUtSnZlQUxPNWx2NlpaUVZidDB1VVRBVks2UC1TeGc?oc=5",
     "source": "nme",
-    "title": "Les Claypool talks new Primus music and Angine de Poitrine comparisons: “There is a new life in this band” - nme.com",
+    "title": "Les Claypool talks new Primus music and Angine de Poitrine comparisons: “There is a new life in this band” - NME",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSnNKNDhnWnk4SVBieW5wUDRvOTd6VWI3ekhYSzhtMHR2Nk5CYXg4M0ZjUTk0TU1HSDBrRU5uVTE1cHdBMy1zMGNZdkZoZGNjOXg3SlhJVFBKTTJvUFZ2eExaRVdNUXZIMEthelVJUDFCQ2RVUGR1bFUtSnZlQUxPNWx2NlpaUVZidDB1VVRBVks2UC1TeGc?oc=5",
     "publishedAt": "2026-08-18T08:00:47.000Z",
-    "summary": "Les Claypool talks new Primus music and Angine de Poitrine comparisons: “There is a new life in this band” nme.com",
+    "summary": "Les Claypool talks new Primus music and Angine de Poitrine comparisons: “There is a new life in this band” NME",
     "image": null
   },
   {
     "id": "nme-https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWUw1bkowNG9MNjRud2pSZWJfT3hrVUk3ZVUzelhaUDluRUlaSGJHZkdic3hhSjZKRmRlaDJsTEJlTVhYeDl1SWo2WTZVNWFGZ2tXaGFvTHAwRzhWQk05NV9hWE9HYmIwTk0xSWpfdlYwdEJKSUZ1cFFIM19HZVoya0MyVjFhOXpNXzlIdU8zY3FUVEN5NW5JOTlFRWY2a3ZsMUs5X3dBaWVZR0F2a2MxR2Q5UWNfWXVNVVdIMmVKQTFGVEFMUkpDdndSclNwMnBjMml3QTMxQQ?oc=5",
     "source": "nme",
-    "title": "Fontaines D.C. announce details of new album 'Dopamine Chamber' with epic single 'Marianne' - nme.com",
+    "title": "Fontaines D.C. announce details of new album 'Dopamine Chamber' with epic single 'Marianne' - NME",
     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWUw1bkowNG9MNjRud2pSZWJfT3hrVUk3ZVUzelhaUDluRUlaSGJHZkdic3hhSjZKRmRlaDJsTEJlTVhYeDl1SWo2WTZVNWFGZ2tXaGFvTHAwRzhWQk05NV9hWE9HYmIwTk0xSWpfdlYwdEJKSUZ1cFFIM19HZVoya0MyVjFhOXpNXzlIdU8zY3FUVEN5NW5JOTlFRWY2a3ZsMUs5X3dBaWVZR0F2a2MxR2Q5UWNfWXVNVVdIMmVKQTFGVEFMUkpDdndSclNwMnBjMml3QTMxQQ?oc=5",
     "publishedAt": "2026-08-18T08:00:21.000Z",
-    "summary": "Fontaines D.C. announce details of new album 'Dopamine Chamber' with epic single 'Marianne' nme.com",
+    "summary": "Fontaines D.C. announce details of new album 'Dopamine Chamber' with epic single 'Marianne' NME",
     "image": null
   },
   {
     "id": "nme-https://news.google.com/rss/articles/CBMisAFBVV95cUxNYjV5aEN0cW9JQW81MGFncWh6OEY0dlgtY1dkMW5HSE5KQ0RrV2F6QW5melpkdTlZWG05b01CdDBmYzdnMkFuZy0wTVhtM3ptMXJCQi10TXFUNHg5WS0ySmVJeDRFUlRsSXFqYlVZelFUR0VFZjlSY2hMUlg4a3hWbDN2MU5SRGh5SjY5dzV3RXJjY1RrZW1Rb2hsN1FDa3EycENIMjhVSTU5YmZNOHZTNA?oc=5",
     "source": "nme",
-    "title": "Fontaines D.C.‘s ‘Marianne’ sets a bold new cinematic scene in their search for escape - nme.com",
+    "title": "Fontaines D.C.‘s ‘Marianne’ sets a bold new cinematic scene in their search for escape - NME",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYjV5aEN0cW9JQW81MGFncWh6OEY0dlgtY1dkMW5HSE5KQ0RrV2F6QW5melpkdTlZWG05b01CdDBmYzdnMkFuZy0wTVhtM3ptMXJCQi10TXFUNHg5WS0ySmVJeDRFUlRsSXFqYlVZelFUR0VFZjlSY2hMUlg4a3hWbDN2MU5SRGh5SjY5dzV3RXJjY1RrZW1Rb2hsN1FDa3EycENIMjhVSTU5YmZNOHZTNA?oc=5",
     "publishedAt": "2026-08-18T08:00:09.000Z",
-    "summary": "Fontaines D.C.‘s ‘Marianne’ sets a bold new cinematic scene in their search for escape nme.com",
+    "summary": "Fontaines D.C.‘s ‘Marianne’ sets a bold new cinematic scene in their search for escape NME",
     "image": null
   },
   {
