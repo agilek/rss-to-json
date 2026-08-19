@@ -1,5 +1,104 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "source": "billboard",
+    "title": "Billboard’s Music Industry Events Calendar",
+    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "publishedAt": "2026-08-19T14:31:00.000Z",
+    "summary": "A complete rundown of the most important events across the music business.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/jack-white-responds-charley-crockett-calls-him-out-twin-temple-controversy/",
+    "source": "loudwire",
+    "title": "Jack White Responds After Angry Country Star Calls Him Out",
+    "url": "https://loudwire.com/jack-white-responds-charley-crockett-calls-him-out-twin-temple-controversy/",
+    "publishedAt": "2026-08-19T14:28:13.000Z",
+    "summary": "Jack White chose '80s song lyrics to respond to Charley Crockett after the country star called him out for his support of Twin Temple. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/phoebe-bridgers-uk-shows-postponed-appendicitis-birthday-1235611416/",
+    "source": "rolling-stone",
+    "title": "Phoebe Bridgers Gets Unfortunate Birthday Gift: A Hospital Visit",
+    "url": "https://www.rollingstone.com/music/music-news/phoebe-bridgers-uk-shows-postponed-appendicitis-birthday-1235611416/",
+    "publishedAt": "2026-08-19T14:25:25.000Z",
+    "summary": "The Lost Weekend singer says her upcoming U.K. show dates will be rescheduled while she recovers from appendicitis",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/beatles-apple-corps-ltd-universal-music-group-1235611407/",
+    "source": "rolling-stone",
+    "title": "Beatles’ Apple Label No Longer Just Worldwide, Now It’s (Part of) Universal",
+    "url": "https://www.rollingstone.com/music/music-news/beatles-apple-corps-ltd-universal-music-group-1235611407/",
+    "publishedAt": "2026-08-19T14:22:46.000Z",
+    "summary": "Universal Music Group expands its holdings beyond the band's catalogue to physical and digital merchandise, licensing, and e-commerce",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/latin/maluma-quevedo-bebeshito-billboard-latin-music-week-2026-1236319284/",
+    "source": "billboard",
+    "title": "Maluma, Quevedo, Bebeshito & More Set for Billboard Latin Music Week 2026",
+    "url": "https://www.billboard.com/music/latin/maluma-quevedo-bebeshito-billboard-latin-music-week-2026-1236319284/",
+    "publishedAt": "2026-08-19T14:00:00.000Z",
+    "summary": "Registration is now open for the Oct. 19-22 event.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/better-than-ezra-rush-alex-lifeson-geddy-lee-1235611207/",
+    "source": "rolling-stone",
+    "title": "Before We Started Better Than Ezra, We Gave Rush a Ride in a ’78 Honda",
+    "url": "https://www.rollingstone.com/music/music-features/better-than-ezra-rush-alex-lifeson-geddy-lee-1235611207/",
+    "publishedAt": "2026-08-19T14:00:00.000Z",
+    "summary": "Better Than Ezra frontman Kevin Griffin writes about the rock miracle he experienced in 1982, when Rush came to small-town Louisiana",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/demon-hunter-sue-netflix-aeg-kpop-demon-hunters/",
+    "source": "loudwire",
+    "title": "Metal Band Sues Netflix Over Name of Popular 2025 K-pop Movie",
+    "url": "https://loudwire.com/demon-hunter-sue-netflix-aeg-kpop-demon-hunters/",
+    "publishedAt": "2026-08-19T13:55:23.000Z",
+    "summary": "The metal band Demon Hunter are in the process of suing Netflix over the 'Kpop Demon Hunters' movie because of its similarity to their own moniker. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/geologist-reveals-new-album-the-sirens/",
+    "source": "pitchfork",
+    "title": "Geologist Reveals New Album The Sirens",
+    "url": "https://pitchfork.com/story/geologist-reveals-new-album-the-sirens/",
+    "publishedAt": "2026-08-19T13:51:25.000Z",
+    "summary": "The LP, made with visual artist Kyle Simon, consists of a single composition manipulated by the “light of the full moon”",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/cameron-winter-live-at-carnegie-hall-album-1235610082/",
+    "source": "rolling-stone",
+    "title": "Cameron Winter Preps Live Album From Historic Carnegie Hall Show",
+    "url": "https://www.rollingstone.com/music/music-news/cameron-winter-live-at-carnegie-hall-album-1235610082/",
+    "publishedAt": "2026-08-19T13:25:34.000Z",
+    "summary": "The Geese frontman became one of the youngest artists to headline the storied venue, playing songs off his celebrated debut Heavy Metal, as well as three unreleased compositions",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/cameron-winter-announces-live-at-carnegie-hall/",
+    "source": "pitchfork",
+    "title": "Cameron Winter Announces Live at Carnegie Hall",
+    "url": "https://pitchfork.com/story/cameron-winter-announces-live-at-carnegie-hall/",
+    "publishedAt": "2026-08-19T13:04:02.000Z",
+    "summary": "The Geese frontperson recorded his debut live LP at the venue last December",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/haywire-617-i-dont-wanna-say-goodbye-1235610990/",
+    "source": "rolling-stone",
+    "title": "Haywire Throw $5,000 Into the Pit to Celebrate New Album",
+    "url": "https://www.rollingstone.com/music/music-news/haywire-617-i-dont-wanna-say-goodbye-1235610990/",
+    "publishedAt": "2026-08-19T13:00:00.000Z",
+    "summary": "The Boston hardcore band just signed to Roadrunner Records. I Don’t Wanna Say Goodbye is out this fall",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/pop/justin-timberlake-summer-pics-jessica-biel-sons-phineas-silas-1236319790/",
     "source": "billboard",
     "title": "Justin Timberlake Posts Sweet Summer Catch-Up Photo Roll Featuring Wife Jessica Biel and Adorable Pics of Sons Phineas and Silas",
@@ -99,30 +198,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/culture/tv-film/brook-lynn-amazing-original-song-agt-quarterfinals-1236319624/",
-    "source": "billboard",
-    "title": "Brook Lynn Delivers ‘Amazing’ Performance of Original Song For ‘AGT’ Quarterfinals: Watch",
-    "url": "https://www.billboard.com/culture/tv-film/brook-lynn-amazing-original-song-agt-quarterfinals-1236319624/",
-    "publishedAt": "2026-08-19T07:09:10.000Z",
-    "summary": "“This song should be like in a Bond movie,” Sofía Vergara enthused.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rock/tears-for-fears-curt-smith-bath-fc-1236319616/",
-    "source": "billboard",
-    "title": "Tears For Fears’ Curt Smith Puts Hand Up For English Soccer Club",
-    "url": "https://www.billboard.com/music/rock/tears-for-fears-curt-smith-bath-fc-1236319616/",
-    "publishedAt": "2026-08-19T04:53:24.000Z",
-    "summary": "The TFF co-founder has contributed to a 50-strong investor group that is attempting to buy the English soccer team, Bath City FC.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/tupac-shakur-murder-trial-mcdonald-testimony-1235610596/",
     "source": "rolling-stone",
     "title": "Suge Knight Gang Associate Dodges Questions at Tupac Trial: ‘Not Gonna Send Him to Prison’",
     "url": "https://www.rollingstone.com/music/music-news/tupac-shakur-murder-trial-mcdonald-testimony-1235610596/",
     "publishedAt": "2026-08-19T03:19:43.000Z",
-    "summary": "Former gang member James McDonald testified at the trial of Duane \"Keffe D\" Davis",
+    "summary": "Former gang member James McDonald testified at the trial of Duane “Keffe D” Davis",
     "image": null
   },
   {
@@ -243,48 +324,12 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/magnus-ferrell-son-of-will-ferrell-vma-what-we-know-1235610958/",
-    "source": "rolling-stone",
-    "title": "Who Is VMA Best New Artist Nominee Magnus Ferrell? (Hint: More Cowbell)",
-    "url": "https://www.rollingstone.com/music/music-features/magnus-ferrell-son-of-will-ferrell-vma-what-we-know-1235610958/",
-    "publishedAt": "2026-08-18T18:00:18.000Z",
-    "summary": "The son of actor and comedian Will Ferrell is up for a Moon Person — and turns out, he has chops that even Ron Burgundy could love",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/jimi-hendrix-woodstock-performance-a-second-look-film-1235610617/",
-    "source": "rolling-stone",
-    "title": "A 22-Year-Old Drama Student Filmed Jimi Hendrix’s Woodstock Performance From the Stage",
-    "url": "https://www.rollingstone.com/music/music-news/jimi-hendrix-woodstock-performance-a-second-look-film-1235610617/",
-    "publishedAt": "2026-08-18T17:33:45.000Z",
-    "summary": "A Second Look reveals rare footage of the 1969 festival and new perspective on classics “Purple Haze” and “Voodoo Child (Slight Return)”",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/allman-betts-family-revival-tour-10th-anniversary-dates-1235610845/",
-    "source": "rolling-stone",
-    "title": "Allman Betts Family Revival Tour to Mark 10th Anniversary With Robert Randolph, Sierra Hull",
-    "url": "https://www.rollingstone.com/music/music-news/allman-betts-family-revival-tour-10th-anniversary-dates-1235610845/",
-    "publishedAt": "2026-08-18T17:27:47.000Z",
-    "summary": "Devon Allman and Duane Betts, sons of founding Allman Brothers Band members Gregg Allman and Dickey Betts, will lead the rotating ensemble-cast lineup",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/2026-mtv-vmas-no-best-rock-award/",
     "source": "loudwire",
     "title": "2026 MTV VMAs Scraps 'Best Rock' Category After 35+ Years",
     "url": "https://loudwire.com/2026-mtv-vmas-no-best-rock-award/",
     "publishedAt": "2026-08-18T16:46:44.000Z",
     "summary": "After being added to the MTV Video Music Awards back in 1989, the Best Rock category will not be part of the 2026 VMAs. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/jae-stephens-artist-you-need-to-know-debut-album-audacity-1235572006/",
-    "source": "rolling-stone",
-    "title": "Jae Stephens Has What Pop Is Missing: Audacity",
-    "url": "https://www.rollingstone.com/music/music-features/jae-stephens-artist-you-need-to-know-debut-album-audacity-1235572006/",
-    "publishedAt": "2026-08-18T16:25:09.000Z",
-    "summary": "With a debut album on the way, the singer-songwriter is more confident than ever",
     "image": null
   },
   {
@@ -303,15 +348,6 @@
     "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPUVYxUDdBZU1SMzhQSlNhQnhLZUtKcGdwQTRUeHpZVmswaW9yYjFlc2RtbHRmd2E3MnBYZ0tWZjJTUmhCX19mLVRpZlY5c285LVd6b0NmTTB4Z0tTbWpBTFAzSnVoVHgtaHFMT21zQ3Y5TU9XUklBTFlpZ1dTU0hwV0xjbUlVUjNKZHg3Q01kWFgzZmNINHl4a01zbVV4RWpqUnlUOXZmRXRJZmw4VVQ0MlBTQ0pLUzB4dVVlRTNNY09WZFhnQmpQbEFJdy1MSUlqUVRETzZRT283djc0QmRyNzFjeWNGSzlnelFVWlU5TmptMHVGTEtRd3pBUGtoLWQ4aTFsOWZaNkJ5d002ZlhRcXBHT3REZw?oc=5",
     "publishedAt": "2026-08-18T15:55:43.000Z",
     "summary": "Watch Fontaines D.C. perform new single 'Marianne' from last ever BBC Maida Vale session as the band share how late manager Trevor Dietz saved the song NME",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/bonnie-tyler-funeral-choir-total-eclipse-of-the-heart-1235610834/",
-    "source": "rolling-stone",
-    "title": "Bonnie Tyler’s Funeral Featured a Choir Performing ‘Total Eclipse of the Heart’",
-    "url": "https://www.rollingstone.com/music/music-news/bonnie-tyler-funeral-choir-total-eclipse-of-the-heart-1235610834/",
-    "publishedAt": "2026-08-18T15:21:49.000Z",
-    "summary": "The Welsh vocal group Only Men Aloud also honored the late singer with a performance of Simon and Garfunkel’s “Bridge Over Troubled Water”",
     "image": null
   },
   {
@@ -342,30 +378,12 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/story/oasis-reunion-doc-gets-first-trailer/",
-    "source": "pitchfork",
-    "title": "Oasis Reunion Doc Gets First Trailer",
-    "url": "https://pitchfork.com/story/oasis-reunion-doc-gets-first-trailer/",
-    "publishedAt": "2026-08-18T14:28:20.000Z",
-    "summary": "Oasis: Don’t Look Back in Anger comes to cinemas on September 11",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVjNyTHpzWGQtc1ZFUWRiQjdTdlZoUUFEamVodFZqR0QxOXNPRnNvejZaaC1JeTlUTU4ycUFaMzY1LTRhSEwxSjV0Q0lnSXpWTEpSZG9lWUZKcm5JUVNTcXBvQ0YzTDMyOTV0N1JyVjlJQmR2SVg0alFpejN5azlfLXgxU0cxTTJBTDZfUmMzakdpcEdscWhYb3oxQXhzUFdsdGN0TDBrajRfU1JXbUpvallHUTNISktTN0EyMlJ3alNNVFdmSG9vVFFaNnhwQ19j?oc=5",
     "source": "nme",
     "title": "Watch the emotional trailer for Oasis doc 'Don't Look Back In Anger' as cinema tickets go on sale - NME",
     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVjNyTHpzWGQtc1ZFUWRiQjdTdlZoUUFEamVodFZqR0QxOXNPRnNvejZaaC1JeTlUTU4ycUFaMzY1LTRhSEwxSjV0Q0lnSXpWTEpSZG9lWUZKcm5JUVNTcXBvQ0YzTDMyOTV0N1JyVjlJQmR2SVg0alFpejN5azlfLXgxU0cxTTJBTDZfUmMzakdpcEdscWhYb3oxQXhzUFdsdGN0TDBrajRfU1JXbUpvallHUTNISktTN0EyMlJ3alNNVFdmSG9vVFFaNnhwQ19j?oc=5",
     "publishedAt": "2026-08-18T14:14:36.000Z",
     "summary": "Watch the emotional trailer for Oasis doc 'Don't Look Back In Anger' as cinema tickets go on sale NME",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/ellie-goulding-sues-former-managers-for-hiding-live-nation-ties/",
-    "source": "pitchfork",
-    "title": "Ellie Goulding Sues Former Managers for Hiding Live Nation Ties",
-    "url": "https://pitchfork.com/story/ellie-goulding-sues-former-managers-for-hiding-live-nation-ties/",
-    "publishedAt": "2026-08-18T13:43:59.000Z",
-    "summary": "The pop singer alleges that her managers made deals with Live Nation on her behalf, without disclosing that the company owned their management firm",
     "image": null
   },
   {
@@ -393,15 +411,6 @@
     "url": "https://louderthanwar.com/dinosaur-jr-there-near-album-review/",
     "publishedAt": "2026-08-18T12:25:09.000Z",
     "summary": "Dinosaur Jr.: There Near (Jagjaguwar) LP | CD | DL Out 28th August 2026 Breezy and consistent collection from Amherst’s alternative icons. Sam Lambeth reviews. BUY HERE from Piccadilly Records In a rare burst of loquaciousness, Dinosaur Jr’s famously laconic frontman J Mascis admitted to seeking inspiration from a fellow hirsute veteran for the trio’s […] The post Dinosaur Jr.: There Near – Album Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/rock-metal-musicians-success-after-getting-fired/",
-    "source": "loudwire",
-    "title": "10 Rock + Metal Musicians Who Had Big Success After Getting Fired",
-    "url": "https://loudwire.com/rock-metal-musicians-success-after-getting-fired/",
-    "publishedAt": "2026-08-18T12:06:27.000Z",
-    "summary": "Sometimes getting fired from a big band isn't the end of the world. It's exactly what's needed to launch something that's successful in its own right. Continue reading…",
     "image": null
   },
   {
@@ -513,15 +522,6 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/better-breaking-benjamin-album-phobia-vs-dear-agony/",
-    "source": "loudwire",
-    "title": "VOTE: Better Breaking Benjamin Album - 'Phobia' vs. 'Dear Agony'",
-    "url": "https://loudwire.com/better-breaking-benjamin-album-phobia-vs-dear-agony/",
-    "publishedAt": "2026-08-17T20:00:37.000Z",
-    "summary": "Vote for either 'Phobia' or 'Dear Agony' as Breaking Benjamin's best album in this week's Chuck's Fight Club. Continue reading…",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/goldie-lookin-chain-autumn-tour-and-new-single/",
     "source": "louder-than-war",
     "title": "Goldie Lookin Chain – Autumn Tour and New Single",
@@ -542,10 +542,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZanpxS090MlVwdUVZZk5oaXJYSDZXMWhUbW5uaTdNSkQ5SHhoN3Z2MFFDdmhXX1FJbFhtem1rRVlxZW5udGsyTXU3ZXNHa2I1dWxjRDdOTFJVbExqUnRBXy0tMWpxbWptZkwyOUttaHVtTTdsMGJ4RnIzY1FqOVU?oc=5",
     "source": "kerrang",
-    "title": "Album Review: The Barbarians Of California – MEGATONS - Kerrang!",
+    "title": "Album Review: The Barbarians Of California – MEGATONS - kerrang.com",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZanpxS090MlVwdUVZZk5oaXJYSDZXMWhUbW5uaTdNSkQ5SHhoN3Z2MFFDdmhXX1FJbFhtem1rRVlxZW5udGsyTXU3ZXNHa2I1dWxjRDdOTFJVbExqUnRBXy0tMWpxbWptZkwyOUttaHVtTTdsMGJ4RnIzY1FqOVU?oc=5",
     "publishedAt": "2026-08-17T11:32:00.000Z",
-    "summary": "Album Review: The Barbarians Of California – MEGATONS Kerrang!",
+    "summary": "Album Review: The Barbarians Of California – MEGATONS kerrang.com",
     "image": null
   },
   {
@@ -560,10 +560,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMijAFBVV95cUxOcUMycFBGcnhRVUVPbW1kTnQ4NkllUXdYbTBEUy0xS2lmelZ0REx2ZFNiTTZuVTNmXzBGcS1CcmIwTWk4UW50TWZLZzF0RThBZ2FOY1otbkkzRTE1NmhmRDJJTFZtaDhwVE9jVl95aWlWbTU2ZnZsU3RnWVd3S09kRkhTbHh3cm9hb3dsRw?oc=5",
     "source": "kerrang",
-    "title": "“Our story wouldn’t be a tragedy or a slasher movie!” Green Day take us inside their new movie, Nimrods - Kerrang!",
+    "title": "“Our story wouldn’t be a tragedy or a slasher movie!” Green Day take us inside their new movie, Nimrods - kerrang.com",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcUMycFBGcnhRVUVPbW1kTnQ4NkllUXdYbTBEUy0xS2lmelZ0REx2ZFNiTTZuVTNmXzBGcS1CcmIwTWk4UW50TWZLZzF0RThBZ2FOY1otbkkzRTE1NmhmRDJJTFZtaDhwVE9jVl95aWlWbTU2ZnZsU3RnWVd3S09kRkhTbHh3cm9hb3dsRw?oc=5",
     "publishedAt": "2026-08-17T11:00:00.000Z",
-    "summary": "“Our story wouldn’t be a tragedy or a slasher movie!” Green Day take us inside their new movie, Nimrods Kerrang!",
+    "summary": "“Our story wouldn’t be a tragedy or a slasher movie!” Green Day take us inside their new movie, Nimrods kerrang.com",
     "image": null
   },
   {
@@ -614,10 +614,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMiekFVX3lxTFBoZDdrb3RtRDNqMXlxZW43eUhZa09oMG1UQTZuM2RNUTFfeWt2WExVOXpOQ19PREN3eXNnZGtCMlkzNVNBN1l3QmRpdHhnQjJFSWJJeXZoY25NMGRBZU9JWUZLUXp1ZXptRDlpUWtnejN3WUtwcGM4OWp3?oc=5",
     "source": "kerrang",
-    "title": "Movements release new single, Live By The Sword - Kerrang!",
+    "title": "Movements release new single, Live By The Sword - kerrang.com",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBoZDdrb3RtRDNqMXlxZW43eUhZa09oMG1UQTZuM2RNUTFfeWt2WExVOXpOQ19PREN3eXNnZGtCMlkzNVNBN1l3QmRpdHhnQjJFSWJJeXZoY25NMGRBZU9JWUZLUXp1ZXptRDlpUWtnejN3WUtwcGM4OWp3?oc=5",
     "publishedAt": "2026-08-14T10:56:00.000Z",
-    "summary": "Movements release new single, Live By The Sword Kerrang!",
+    "summary": "Movements release new single, Live By The Sword kerrang.com",
     "image": null
   },
   {
