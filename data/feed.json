@@ -1,5 +1,23 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/rock/evanescence-amy-lee-interview-sanctuary-world-tour-1236320633/",
+    "source": "billboard",
+    "title": "‘This Is Definitely An Up’: Evanescence’s Amy Lee Reflects on Latest Album ‘Sanctuary’ And World Tour",
+    "url": "https://www.billboard.com/music/rock/evanescence-amy-lee-interview-sanctuary-world-tour-1236320633/",
+    "publishedAt": "2026-08-20T02:47:19.000Z",
+    "summary": "\"It's a lot to sum up, but it's been emotional in a very beautiful, connected way,\" Amy Lee says of this latest phase of Evanescence.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/pride/sam-smith-madonna-reached-out-unholy-controversy-1236320617/",
+    "source": "billboard",
+    "title": "Sam Smith Says Madonna ‘Made Sure She Got Through to Me’ During ‘Unholy’ Controversy: ‘Her Music Is a Lifeline to Queer People’",
+    "url": "https://www.billboard.com/culture/pride/sam-smith-madonna-reached-out-unholy-controversy-1236320617/",
+    "publishedAt": "2026-08-20T01:39:46.000Z",
+    "summary": "Smith praised the pop star during a discussion on The Zane Lowe Show.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/pop/halsey-shows-off-new-hairstyle-looks-completely-different-1236320577/",
     "source": "billboard",
     "title": "Halsey Is Back to Blonde: See Her Latest Hairstyle",
@@ -117,24 +135,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/karol-g-bby-wow-viral-hit-streaming-trending-up-1236320469/",
-    "source": "billboard",
-    "title": "Which Song From Karol G’s ‘No Me Arrepiento de Sentir Tanto’ Is Becoming the Album’s Viral Breakout Hit?",
-    "url": "https://www.billboard.com/music/chart-beat/karol-g-bby-wow-viral-hit-streaming-trending-up-1236320469/",
-    "publishedAt": "2026-08-19T21:54:52.000Z",
-    "summary": "This week's Trending Up looks at a gradually building viral hit from Karol's latest, as well as an exploding Cody Johnson deep cut and some tribute streams for the late Hayden Panettiere.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/cynthia-erivo-american-ballet-theatre-2026-fall-gala-honor-1236320488/",
-    "source": "billboard",
-    "title": "Cynthia Erivo to Be Honored at American Ballet Theatre’s 2026 Fall Gala",
-    "url": "https://www.billboard.com/music/music-news/cynthia-erivo-american-ballet-theatre-2026-fall-gala-honor-1236320488/",
-    "publishedAt": "2026-08-19T21:45:59.000Z",
-    "summary": "In a nod to the Halloween season, “Angels and Demons” is the theme of this year’s Fall Gala.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/ariana-grande-wins-subpoena-power-unmask-hackers-1235611707/",
     "source": "rolling-stone",
     "title": "Ariana Grande Wins Fast-Track Subpoena Power to ‘Unmask’ Alleged Hackers",
@@ -150,6 +150,15 @@
     "url": "https://pitchfork.com/story/twisted-teens-sign-to-sub-pop/",
     "publishedAt": "2026-08-19T21:00:00.000Z",
     "summary": "Plus, a pair of new U.S. shows and an Australian tour",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMikgFBVV95cUxNeEJLMVBGcEVtcWtsYzRreEZCalE1NE1MSk4yRDg2czZPUWJaVUdWQ3c2QnA3SExqRm9FLUlXN0gxc3dwaWRfcFZGdlBXQ0daeGF0a1E2N0VKZFA1cnRfZlhsbGh2a19vUXN0eHh2X1FjbG5OZmcxUnJnV3dSM1F0N3dRTVRXcW5qZXpob01BTS1sZw?oc=5",
+    "source": "nme",
+    "title": "Reading & Leeds 2026: check out the full stage times - NME",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeEJLMVBGcEVtcWtsYzRreEZCalE1NE1MSk4yRDg2czZPUWJaVUdWQ3c2QnA3SExqRm9FLUlXN0gxc3dwaWRfcFZGdlBXQ0daeGF0a1E2N0VKZFA1cnRfZlhsbGh2a19vUXN0eHh2X1FjbG5OZmcxUnJnV3dSM1F0N3dRTVRXcW5qZXpob01BTS1sZw?oc=5",
+    "publishedAt": "2026-08-19T20:58:59.000Z",
+    "summary": "Reading & Leeds 2026: check out the full stage times NME",
     "image": null
   },
   {
@@ -186,6 +195,15 @@
     "url": "https://www.uncut.co.uk/features/from-folk-revolutionary-to-electric-trailblazer-bob-dylans-60s-albums-ranked-155586/",
     "publishedAt": "2026-08-19T18:37:42.000Z",
     "summary": "This run of albums changed the world",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMioAFBVV95cUxPNVY4NWljNUFnUVNBbm9wTnBpcUNHTFh6ZDJtcDdlU1RMdkZBeEVQUmtvX0VsZXF4T05iYkRGbWhvLXAyYVROcm9iamp4dnF3aFExYy1UUFFKVURDazhxd2txcU1wcE9fM3FQd1FDcm92WE0tLXVvMnRkUkZrQURmX0pwZEtqWC1DaEpQRFRPdTRUaGJtMDdaN2RJanBERmJt?oc=5",
+    "source": "nme",
+    "title": "Wetherspoons bans customers playing music out loud on phones - NME",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNVY4NWljNUFnUVNBbm9wTnBpcUNHTFh6ZDJtcDdlU1RMdkZBeEVQUmtvX0VsZXF4T05iYkRGbWhvLXAyYVROcm9iamp4dnF3aFExYy1UUFFKVURDazhxd2txcU1wcE9fM3FQd1FDcm92WE0tLXVvMnRkUkZrQURmX0pwZEtqWC1DaEpQRFRPdTRUaGJtMDdaN2RJanBERmJt?oc=5",
+    "publishedAt": "2026-08-19T18:21:20.000Z",
+    "summary": "Wetherspoons bans customers playing music out loud on phones NME",
     "image": null
   },
   {
@@ -450,30 +468,12 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVjNyTHpzWGQtc1ZFUWRiQjdTdlZoUUFEamVodFZqR0QxOXNPRnNvejZaaC1JeTlUTU4ycUFaMzY1LTRhSEwxSjV0Q0lnSXpWTEpSZG9lWUZKcm5JUVNTcXBvQ0YzTDMyOTV0N1JyVjlJQmR2SVg0alFpejN5azlfLXgxU0cxTTJBTDZfUmMzakdpcEdscWhYb3oxQXhzUFdsdGN0TDBrajRfU1JXbUpvallHUTNISktTN0EyMlJ3alNNVFdmSG9vVFFaNnhwQ19j?oc=5",
-    "source": "nme",
-    "title": "Watch the emotional trailer for Oasis doc 'Don't Look Back In Anger' as cinema tickets go on sale - NME",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVjNyTHpzWGQtc1ZFUWRiQjdTdlZoUUFEamVodFZqR0QxOXNPRnNvejZaaC1JeTlUTU4ycUFaMzY1LTRhSEwxSjV0Q0lnSXpWTEpSZG9lWUZKcm5JUVNTcXBvQ0YzTDMyOTV0N1JyVjlJQmR2SVg0alFpejN5azlfLXgxU0cxTTJBTDZfUmMzakdpcEdscWhYb3oxQXhzUFdsdGN0TDBrajRfU1JXbUpvallHUTNISktTN0EyMlJ3alNNVFdmSG9vVFFaNnhwQ19j?oc=5",
-    "publishedAt": "2026-08-18T14:14:36.000Z",
-    "summary": "Watch the emotional trailer for Oasis doc 'Don't Look Back In Anger' as cinema tickets go on sale NME",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/the-courettes-the-georgian-theatre-stockton-on-tees-live-review/",
     "source": "louder-than-war",
     "title": "The Courettes: The Georgian Theatre, Stockton-On-Tees – Live Review",
     "url": "https://louderthanwar.com/the-courettes-the-georgian-theatre-stockton-on-tees-live-review/",
     "publishedAt": "2026-08-18T13:03:20.000Z",
     "summary": "The Courettes | The Country Irregulars The Georgian Theatre, Stockton-on-Tees 14th August 2026 The Courettes return to Stockton-on-Tees, this time in the wonderful confines of the Georgian Theatre, a great venue, dating back to 1766, hidden in an alley behind the town’s High Street. The support on the night was from Gateshead’s Country Irregulars. Having […] The post The Courettes: The Georgian Theatre, Stockton-On-Tees – Live Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMipAFBVV95cUxOUUczZjBJamVRS1h5YURwZnN3cjNzTkZManVHVzBrdDNvQ2Z2VEgxWkNFSVI2TWhVYWZMTTNQWW1UUGNEaER1UjluRzExTmcwWlRxSF9ubXFSeTJtYW9zMUNhN0lWUHE1NHh2UlZKMERyN1o0VmJ4RndHbUtnREFyX3FGU2pQMW4zNVhrZzhrbzlNYjlENmE2dkloNHYzaEV6OU15SQ?oc=5",
-    "source": "nme",
-    "title": "Brandon Flowers tells us about making his most personal album yet: \"I'm finally ready to do this\" - NME",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUUczZjBJamVRS1h5YURwZnN3cjNzTkZManVHVzBrdDNvQ2Z2VEgxWkNFSVI2TWhVYWZMTTNQWW1UUGNEaER1UjluRzExTmcwWlRxSF9ubXFSeTJtYW9zMUNhN0lWUHE1NHh2UlZKMERyN1o0VmJ4RndHbUtnREFyX3FGU2pQMW4zNVhrZzhrbzlNYjlENmE2dkloNHYzaEV6OU15SQ?oc=5",
-    "publishedAt": "2026-08-18T13:00:48.000Z",
-    "summary": "Brandon Flowers tells us about making his most personal album yet: \"I'm finally ready to do this\" NME",
     "image": null
   },
   {
@@ -621,6 +621,15 @@
     "image": null
   },
   {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY2JENzdkZ1EtSkZUdEpQNHBsc0poNHJjREZvZjJrbnZ0aTgwSDkxZnowTGI5amdXMFZOUHJkaGFQbjRzQV9jdUtieS1hc0RMM3ExTlZkVUs3ejNmNk1VaW8yUGFxTWg2QmoweDlUNmtuWENpMGhjQTRRRF8wZkZxMzdRTF9DOHhXdXotRGVNTUlkOVJvUGNfZUhYNzN6d19QWmhvVmxBUUNnQQ?oc=5",
+    "source": "kerrang",
+    "title": "Wage War explore “being deceived by the world around you” on new single, Sweet Dreams - kerrang.com",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY2JENzdkZ1EtSkZUdEpQNHBsc0poNHJjREZvZjJrbnZ0aTgwSDkxZnowTGI5amdXMFZOUHJkaGFQbjRzQV9jdUtieS1hc0RMM3ExTlZkVUs3ejNmNk1VaW8yUGFxTWg2QmoweDlUNmtuWENpMGhjQTRRRF8wZkZxMzdRTF9DOHhXdXotRGVNTUlkOVJvUGNfZUhYNzN6d19QWmhvVmxBUUNnQQ?oc=5",
+    "publishedAt": "2026-08-14T11:23:00.000Z",
+    "summary": "Wage War explore “being deceived by the world around you” on new single, Sweet Dreams kerrang.com",
+    "image": null
+  },
+  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMiekFVX3lxTFBoZDdrb3RtRDNqMXlxZW43eUhZa09oMG1UQTZuM2RNUTFfeWt2WExVOXpOQ19PREN3eXNnZGtCMlkzNVNBN1l3QmRpdHhnQjJFSWJJeXZoY25NMGRBZU9JWUZLUXp1ZXptRDlpUWtnejN3WUtwcGM4OWp3?oc=5",
     "source": "kerrang",
     "title": "Movements release new single, Live By The Sword - kerrang.com",
@@ -654,15 +663,6 @@
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBtckVxMkEwaHhxckNNZHk5LWZ1ZzVhZkpDN3k5Zm94MTFxRDF2U1ozU01GbllqY19BcmhLUDc1V0wzdW5TWUs1RjdlWW91V0RyQnYxV3paZlRsZ0UtbmdYbjJ2aG1pWHJPTW5yRktTWlZLMVFNODgtZkZSSUo?oc=5",
     "publishedAt": "2026-08-13T15:15:00.000Z",
     "summary": "YONAKA drop out of US shows with Charlotte Sands Kerrang!",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMilwFBVV95cUxQWFlnMHFFZ0hpdEhpdjRrd3FiZUp0cFJMUTlUeENWcjQxR3lwM2JSTndudnZXb29lNXJNWDRnMnA0dEpLNU5pUHp1Z216NnRwbTV1aU5iN21zeXNUc3JrY3NEN3N6bXVwRndES3ZTR0tyNzJMTnFWUk9TeUk5OVFIZG1FN2gzZ2FPQWRlY3RCRmd0N0FFcmlZ?oc=5",
-    "source": "kerrang",
-    "title": "Green Lung release “our love letter to occult rock”, Black Magick Radio - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWFlnMHFFZ0hpdEhpdjRrd3FiZUp0cFJMUTlUeENWcjQxR3lwM2JSTndudnZXb29lNXJNWDRnMnA0dEpLNU5pUHp1Z216NnRwbTV1aU5iN21zeXNUc3JrY3NEN3N6bXVwRndES3ZTR0tyNzJMTnFWUk9TeUk5OVFIZG1FN2gzZ2FPQWRlY3RCRmd0N0FFcmlZ?oc=5",
-    "publishedAt": "2026-08-13T14:00:00.000Z",
-    "summary": "Green Lung release “our love letter to occult rock”, Black Magick Radio Kerrang!",
     "image": null
   },
   {
