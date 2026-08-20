@@ -1,5 +1,14 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/pro/bmg-signs-anna-lunoe-worldwide-publishing-deal/",
+    "source": "billboard",
+    "title": "BMG Signs Anna Lunoe to Worldwide Publishing Deal",
+    "url": "https://www.billboard.com/pro/bmg-signs-anna-lunoe-worldwide-publishing-deal/",
+    "publishedAt": "2026-08-20T03:28:48.000Z",
+    "summary": "“Super excited to be kickstarting a new era for my music with the BMG family,” comments Lunoe.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/rock/evanescence-amy-lee-interview-sanctuary-world-tour-1236320633/",
     "source": "billboard",
     "title": "‘This Is Definitely An Up’: Evanescence’s Amy Lee Reflects on Latest Album ‘Sanctuary’ And World Tour",
@@ -96,15 +105,6 @@
     "url": "https://www.billboard.com/culture/product-recommendations/katseye-never-have-i-ever-press-on-nails-shop-online-1236320087/",
     "publishedAt": "2026-08-19T22:38:18.000Z",
     "summary": "The collection features reusable press-on nails and 3D charms.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/official-kpop-demon-hunters-childrens-book-shop-online-1236147062/",
-    "source": "billboard",
-    "title": "This Official ‘KPop Demon Hunters’ Children’s Book Just Got An ‘Ultimate Fan Edition’ Update",
-    "url": "https://www.billboard.com/culture/product-recommendations/official-kpop-demon-hunters-childrens-book-shop-online-1236147062/",
-    "publishedAt": "2026-08-19T22:15:00.000Z",
-    "summary": "The new release includes 22 additional pages, along with a sticker sheet featuring memorable characters from the film.",
     "image": null
   },
   {
@@ -596,10 +596,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMiakFVX3lxTFBtRXFrXy1MN2M1MDk0MGdsZzQzYVR4QUZpbkR3Zy1Nb1Q1VjlZLVBza0NSSl9lTFZGMllkRU5fY1NIT2hMeFdhYkdjX1ZPalJQaTA3c24wcUJERXEzU0pkSy1MTVhjUDJ1M1E?oc=5",
     "source": "kerrang",
-    "title": "Slipknot announce split with Sid Wilson before removing post - Kerrang!",
+    "title": "Slipknot announce split with Sid Wilson before removing post - kerrang.com",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtRXFrXy1MN2M1MDk0MGdsZzQzYVR4QUZpbkR3Zy1Nb1Q1VjlZLVBza0NSSl9lTFZGMllkRU5fY1NIT2hMeFdhYkdjX1ZPalJQaTA3c24wcUJERXEzU0pkSy1MTVhjUDJ1M1E?oc=5",
     "publishedAt": "2026-08-14T22:00:00.000Z",
-    "summary": "Slipknot announce split with Sid Wilson before removing post Kerrang!",
+    "summary": "Slipknot announce split with Sid Wilson before removing post kerrang.com",
     "image": null
   },
   {
