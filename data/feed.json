@@ -1,11 +1,119 @@
 [
   {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/current-k-pop-concerts-1236234463/",
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/max-b-jim-jones-new-music-interview-1236321345/",
     "source": "billboard",
-    "title": "A Full List of Current 2026 K-Pop Concerts (Updating)",
-    "url": "https://www.billboard.com/culture/product-recommendations/current-k-pop-concerts-1236234463/",
-    "publishedAt": "2026-08-20T20:29:33.000Z",
-    "summary": "From aespa and Monsta X to BTS and KATSEYE, here's what you can expect from the K-pop concert scene this year.",
+    "title": "Max B Open to Working With Jim Jones Again: ‘If It Makes Money, It Makes Sense’",
+    "url": "https://www.billboard.com/music/rb-hip-hop/max-b-jim-jones-new-music-interview-1236321345/",
+    "publishedAt": "2026-08-20T22:13:24.000Z",
+    "summary": "The Harlem rappers have a tumultuous history, but the Boss Don is willing to let bygones by bygones if it makes some paper.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/baby-shark-boy-baby-shark-dance-wave-song-joohoney-monsta-x-1236321397/",
+    "source": "billboard",
+    "title": "The ‘Baby Shark’ Boy Is All Grown Up & Launching His Music Career With a Monsta X Collab",
+    "url": "https://www.billboard.com/music/pop/baby-shark-boy-baby-shark-dance-wave-song-joohoney-monsta-x-1236321397/",
+    "publishedAt": "2026-08-20T22:01:25.000Z",
+    "summary": "\"I hope people can see who I am today in a new way,\" the emerging artist said of \"WAVE,\" featuring Monsta X's JOOHONEY.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/tupac-shakur-murder-trial-keffe-d-shooting-suge-knight-1235612218/",
+    "source": "rolling-stone",
+    "title": "Tupac Murder Trial: Jurors Hear ‘Secret’ Police Interview with Keffe D Admitting Role in Shooting",
+    "url": "https://www.rollingstone.com/music/music-news/tupac-shakur-murder-trial-keffe-d-shooting-suge-knight-1235612218/",
+    "publishedAt": "2026-08-20T21:59:57.000Z",
+    "summary": "Duane “Keffe D” Davis now says he lied to investigators during the meeting to gain leverage while facing a potential life sentence on drug charges",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/madonna-queen-of-the-vmas-1235611721/",
+    "source": "rolling-stone",
+    "title": "Madonna Is Still Queen of the VMAs",
+    "url": "https://www.rollingstone.com/music/music-features/madonna-queen-of-the-vmas-1235611721/",
+    "publishedAt": "2026-08-20T21:42:48.000Z",
+    "summary": "She's defined (and redefined) the MTV awards show's standards for more than 40 years. With 11 nominations at this year's show, she still reigns supreme",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/bad-bunny-world-tour-finale-puerto-rico-tickets-buy-online-1236321118/",
+    "source": "billboard",
+    "title": "Bad Bunny’s Closing Out Debí Tirar Más Fotos Tour With Sold-Out Puerto Rico Shows: How to Get Last-Minute Tickets",
+    "url": "https://www.billboard.com/culture/product-recommendations/bad-bunny-world-tour-finale-puerto-rico-tickets-buy-online-1236321118/",
+    "publishedAt": "2026-08-20T21:35:44.000Z",
+    "summary": "The Puerto Rican superstar is adding two San Juan shows to end his global tour, returning to where his record-breaking run began.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/latin/danny-ocean-dog-kelo-dog-vogue-dogue-mexico-cover-photos-1236321150/",
+    "source": "billboard",
+    "title": "How Becoming a First-Time Dog Dad Changed Danny Ocean’s Life: ‘Kelo Is the Light of the House’",
+    "url": "https://www.billboard.com/music/latin/danny-ocean-dog-kelo-dog-vogue-dogue-mexico-cover-photos-1236321150/",
+    "publishedAt": "2026-08-20T21:23:16.000Z",
+    "summary": "The Venezuelan singer and his adorable doggy are on the latest cover of Dogue México.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/kenny-chesney-fan-paid-imposter-cannot-sue-real-star/",
+    "source": "billboard",
+    "title": "Kenny Chesney Fan Who Paid $300K to an Imposter Cannot Sue The Real Country Star, Court Says",
+    "url": "https://www.billboard.com/pro/kenny-chesney-fan-paid-imposter-cannot-sue-real-star/",
+    "publishedAt": "2026-08-20T21:22:48.000Z",
+    "summary": "A woman claimed the star himself was legally liable after she was scammed by a phony Kenny Chesney on the internet.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/tv-film/snoop-dogg-movie-dr-dre-actor-myles-bullock-be-1236321179/",
+    "source": "billboard",
+    "title": "Snoop Dogg Biopic Enlists This ‘BMF’ Star to Play Dr. Dre: ‘L.A. Kid Playing an L.A. Legend’",
+    "url": "https://www.billboard.com/culture/tv-film/snoop-dogg-movie-dr-dre-actor-myles-bullock-be-1236321179/",
+    "publishedAt": "2026-08-20T21:11:38.000Z",
+    "summary": "Snoop is set to hit U.S. theaters on Aug. 6, 2027.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/capitol-music-group-ceo-sienna-spiro-sam-fender-interview/",
+    "source": "billboard",
+    "title": "Capitol Music Group CEO Tom March on the ‘Incredible’ Sienna Spiro, Breaking Sam Fender in the U.S. & More",
+    "url": "https://www.billboard.com/pro/capitol-music-group-ceo-sienna-spiro-sam-fender-interview/",
+    "publishedAt": "2026-08-20T21:02:18.000Z",
+    "summary": "Two years into his tenure, March discusses CMG's recent hot streak, growing the Christian music division and keeping the label's legacy alive.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/how-travis-barker-overcame-fear-of-flying/",
+    "source": "loudwire",
+    "title": "How Travis Barker REALLY Overcame His Fear of Flying",
+    "url": "https://loudwire.com/how-travis-barker-overcame-fear-of-flying/",
+    "publishedAt": "2026-08-20T21:02:07.000Z",
+    "summary": "Travis Barker had no interest in being anywhere near an airport at the time. But that has since changed. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/latin/pablo-alboran-cancels-spain-concert-severe-pneumonia-1236321329/",
+    "source": "billboard",
+    "title": "Pablo Alborán Cancels Spain Show Due to Severe Pneumonia: ‘I Need Complete Rest for the Next Few Days’",
+    "url": "https://www.billboard.com/music/latin/pablo-alboran-cancels-spain-concert-severe-pneumonia-1236321329/",
+    "publishedAt": "2026-08-20T21:00:41.000Z",
+    "summary": "The Spanish star announced the news to his fans Thursday (Aug. 20) on his social media.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/tv-film/jessica-simpson-documentary-netflix-1236321307/",
+    "source": "billboard",
+    "title": "Jessica Simpson Documentary Coming to Netflix From ‘Robbie Williams’ Director",
+    "url": "https://www.billboard.com/culture/tv-film/jessica-simpson-documentary-netflix-1236321307/",
+    "publishedAt": "2026-08-20T20:58:13.000Z",
+    "summary": "The new feature documentary will explore the entertainer/entrepreneur's career & struggles.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/dj-harvey-20-questions-interview-ministry-of-sound-august-1236320542/",
+    "source": "billboard",
+    "title": "20 Questions With DJ Harvey: ‘Once My Rent’s Paid & I Can Eat Sushi, I Stop Working’",
+    "url": "https://www.billboard.com/music/music-news/dj-harvey-20-questions-interview-ministry-of-sound-august-1236320542/",
+    "publishedAt": "2026-08-20T20:44:26.000Z",
+    "summary": "\"For me, there's more money, more people, more parties, more everything, and it's generally very, very healthy,\" DJ Harvey says of the scene ahead of his Ministry Of Sound set this weekend.",
     "image": null
   },
   {
@@ -27,75 +135,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/latin/natanael-cano-vol-1-tracklist-covers-latin-icons-1236321073/",
-    "source": "billboard",
-    "title": "Natanael Cano’s New Album Includes Covers by Jeanette & Cristian Castro: See the Tracklist",
-    "url": "https://www.billboard.com/music/latin/natanael-cano-vol-1-tracklist-covers-latin-icons-1236321073/",
-    "publishedAt": "2026-08-20T20:01:07.000Z",
-    "summary": "The corridos tumbados pioneers release Natanael Cano, Vol. 1 soon.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/yungblud-crowd-surfs-wheelchair-broken-leg-show-portugal-1236321157/",
-    "source": "billboard",
-    "title": "Yungblud Crowd-Surfs in a Wheelchair During His Show After Breaking His Leg",
-    "url": "https://www.billboard.com/music/music-news/yungblud-crowd-surfs-wheelchair-broken-leg-show-portugal-1236321157/",
-    "publishedAt": "2026-08-20T19:52:33.000Z",
-    "summary": "The singer got creative with his performance at Portugal's Vilar de Mouros festival.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/ayra-starr-producers-sign-electric-feel-publishing-news/",
-    "source": "billboard",
-    "title": "Publishing Briefs: Ayra Starr Production Duo The Elements Signs With Electric Feel",
-    "url": "https://www.billboard.com/lists/ayra-starr-producers-sign-electric-feel-publishing-news/",
-    "publishedAt": "2026-08-20T19:37:39.000Z",
-    "summary": "In this week's column, Alison Nichols signs with BMG, Swapmeet signs to Concord Music Publishing ANZ and more.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/video/fans-share-songs-get-them-hyped-for-gym-outside-lands/",
-    "source": "billboard",
-    "title": "Fans Share Which Songs Get Them Hyped for the Gym at Outside Lands Music Festival | Man On the Street",
-    "url": "https://www.billboard.com/video/fans-share-songs-get-them-hyped-for-gym-outside-lands/",
-    "publishedAt": "2026-08-20T19:32:01.000Z",
-    "summary": "This is sponsored content. Fans at Outside Lands music festival share which songs get them into motion. Tetris Kelly: The Planet Fitness movement mixes are built around a simple but deeply personal truth: What we listen to while we move often shapes who we’re becoming in the process. Billboard and Planet Fitness asked festival goers […]",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-features/songs-titled-after-band-names-wednesday-townies-1235611936/",
     "source": "rolling-stone",
     "title": "Wednesday Have a Song Called ‘Townies.’ Townies Have One Called ‘Wednesday.’ This Is a Thing",
     "url": "https://www.rollingstone.com/music/music-features/songs-titled-after-band-names-wednesday-townies-1235611936/",
     "publishedAt": "2026-08-20T19:29:49.000Z",
     "summary": "From Lana Del Rey's \"Paris, Texas\" to Paris Texas's \"Lana Del Rey,\" a head-spinning dive into one very specific type of musical palindrome",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/video/billboard-hot-latin-songs-top-10-countdown-august-22-2026/",
-    "source": "billboard",
-    "title": "Billboard Hot Latin Songs Top 10 Countdown For August 22 2026 | Billboard Latin",
-    "url": "https://www.billboard.com/video/billboard-hot-latin-songs-top-10-countdown-august-22-2026/",
-    "publishedAt": "2026-08-20T19:24:14.000Z",
-    "summary": "Karol G takes over the top 10 with the release of her new album No Me Arrepiento De Sentir Tanto. Narrator:Karol G takes over Billboard’s Hot Latin Songs. This is the top 10 for the week of August 22. “Después de Ti” with Greg González flies to No. 10. “Alguien Que Te Amaba” debuts at […]",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/kpop-demon-hunters-woobles-crochet-kits-beginner-buy-online-1236320862/",
-    "source": "billboard",
-    "title": "These ‘KPop Demon Hunters’ Crochet Kits Let You Create Your Own Character Plushies",
-    "url": "https://www.billboard.com/culture/product-recommendations/kpop-demon-hunters-woobles-crochet-kits-beginner-buy-online-1236320862/",
-    "publishedAt": "2026-08-20T19:21:41.000Z",
-    "summary": "Create five characters with step-by-step video tutorials.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/bunnie-xo-baddie-bunnie-summer-after-jelly-roll-divorce-1236321116/",
-    "source": "billboard",
-    "title": "Bunnie Xo Is Having a ‘Baddie Bunnie Summer’ After Jelly Roll Divorce: ‘I’m Just Thriving’",
-    "url": "https://www.billboard.com/music/music-news/bunnie-xo-baddie-bunnie-summer-after-jelly-roll-divorce-1236321116/",
-    "publishedAt": "2026-08-20T19:01:47.000Z",
-    "summary": "\"Ladies, they never should have let me back out in the streets because I love it here,\" she joked.",
     "image": null
   },
   {
@@ -114,24 +159,6 @@
     "url": "https://www.rollingstone.com/music/music-country/maggie-rose-nashville-best-kept-secret-1235611427/",
     "publishedAt": "2026-08-20T18:25:09.000Z",
     "summary": "\"I’m making no efforts to remain a secret,\" says the two-time Grammy nominee, who just released her new album Half Moon",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/kehlani-shuts-down-rb-dead-idea-billboard-cover-story-1236321002/",
-    "source": "billboard",
-    "title": "Kehlani Shuts Down Narrative That ‘R&B Is Dead’: ‘People Are Just a Little Lazy in Looking Up New Artists’",
-    "url": "https://www.billboard.com/music/rb-hip-hop/kehlani-shuts-down-rb-dead-idea-billboard-cover-story-1236321002/",
-    "publishedAt": "2026-08-20T18:22:22.000Z",
-    "summary": "The R&B artist is the cover star of Billboard's 2026 R&B/Hip-Hop Power Players issue.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/acm-honors-10-top-moments/",
-    "source": "billboard",
-    "title": "ACM Honors Celebrate Country Music’s Biggest Names and Unsung Heroes: Top Moments",
-    "url": "https://www.billboard.com/lists/acm-honors-10-top-moments/",
-    "publishedAt": "2026-08-20T18:13:05.000Z",
-    "summary": "Trisha Yearwood, Dierks Bentley, Sheryl Crow and Brenda Lee were among those paying tribute.",
     "image": null
   },
   {
@@ -207,24 +234,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/def-leppard-vivian-campbell-cancer-update-1235611949/",
-    "source": "rolling-stone",
-    "title": "Def Leppard Guitarist Vivian Campbell’s Cancer Has Returned",
-    "url": "https://www.rollingstone.com/music/music-news/def-leppard-vivian-campbell-cancer-update-1235611949/",
-    "publishedAt": "2026-08-20T15:15:03.000Z",
-    "summary": "Musician, who revealed first Hodgkin’s lymphoma diagnosis in 2013, says cancer’s return won’t slow him down",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/jade-song-shuffle-little-mix-bon-iver-mnek-1235611781/",
-    "source": "rolling-stone",
-    "title": "Jade Is Her Own Biggest Fan, and Has the Spotify Library to Prove It",
-    "url": "https://www.rollingstone.com/music/music-news/jade-song-shuffle-little-mix-bon-iver-mnek-1235611781/",
-    "publishedAt": "2026-08-20T15:06:18.000Z",
-    "summary": "The pop singer and songwriter joins Rolling Stone’s Song Shuffle series, revealing an eclectic mix of songs from Little Mix and her own debut solo album, That’s Showbiz Baby!",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMiogFBVV95cUxQUEd5UTNnV3JrYUg0NW9OY1NCWlBvaXRVS0FSRUR6dVBTRGliblRQa01KQmlJMzdOM19BdERuaVlQTWlxcUdkOF9aaDYxaF9wbHN6ZURhWTRhRExwR0E4a3E1TVJxRDMwWGw1Y2o5bGlNQTVZTFpvMkNvLVJwWnh4dkZqd0JwWUV5M2h4R1BBeUQ2WjN5WURTNHp6Y3BLcXRHUFE?oc=5",
     "source": "nme",
     "title": "Foo Fighters to step in as support act for AC/DC for \"one night only\": \"This is literally a dream come true. So if you want blood, you’ve got it” - NME",
@@ -258,6 +267,15 @@
     "url": "https://loudwire.com/vivian-campbell-cancer-return/",
     "publishedAt": "2026-08-20T12:12:51.000Z",
     "summary": "Def Leppard guitarist insists latest health setback won’t stop him three years after he hit lowest ebb. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOFNhMUVLV2hhdmwxYkR1UGZnV25LXy1rdTMwcFdWSXZMN1dfUkZadzJFOWlqTjVxVGsyei0tdHh0WVdhbmNpd1VETmZLYkJWcUl2UXZnR2VqSUozc3otQmFWc2lORG5FaklrSXdRVDRlSzMzZ1ZZVVRhYkdGM191R1c1YWh5TmdiZDdGTzlHRmVIVFc1dF8tRTFBUktrRHZkY004YTlLcmoyWkg0NElqdzZnOXVYLU9IQlR6Y3BoVzZ0Q2g1VzRyZFBGeTE4OFdGUFE?oc=5",
+    "source": "nme",
+    "title": "'Sons Of Anarchy' cast reunite for new series 'Legends' where they play real-life versions of themselves - NME",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOFNhMUVLV2hhdmwxYkR1UGZnV25LXy1rdTMwcFdWSXZMN1dfUkZadzJFOWlqTjVxVGsyei0tdHh0WVdhbmNpd1VETmZLYkJWcUl2UXZnR2VqSUozc3otQmFWc2lORG5FaklrSXdRVDRlSzMzZ1ZZVVRhYkdGM191R1c1YWh5TmdiZDdGTzlHRmVIVFc1dF8tRTFBUktrRHZkY004YTlLcmoyWkg0NElqdzZnOXVYLU9IQlR6Y3BoVzZ0Q2g1VzRyZFBGeTE4OFdGUFE?oc=5",
+    "publishedAt": "2026-08-20T12:10:05.000Z",
+    "summary": "'Sons Of Anarchy' cast reunite for new series 'Legends' where they play real-life versions of themselves NME",
     "image": null
   },
   {
@@ -303,6 +321,15 @@
     "url": "https://louderthanwar.com/gallahers-green-high-times-and-misdemeanours-album-review/",
     "publishedAt": "2026-08-20T09:17:23.000Z",
     "summary": "Gallaher’s Green: High Times And Misdemeanours (Self-Released) Stream | CD | LP OUT NOW Those bastions of anthemic guitar-driven rock Gallaher’s Green are back to uplift our spirits again through their new album, High Times And Misdemeanours. Ian Corbridge hails another soul-searching yet ultimately triumphant collection of songs, inspired by real life and true feelings […] The post Gallaher’s Green: High Times and Misdemeanours – Album Review appeared first on Louder Than War.",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSGkyLU9OZ1hkYkFheVhGRG5jalVlblduUDlwRC1xTFRLNzEtOVNHVGZranp5MW9qYkNyR2FfOGoxRWFWWHJzeUpEbzI5OHAxZ21BRUtSaVZQVkhJS0hNeEZEZ1BwTVlXYXhUTDlYa0s5MXdOeTEyUy0wbjB1NEk1MkN2ZVpVcE05WlpTZmxucktEVGwwUkpFa0gySG1XaWJ5bHlqeGx1ekZGQUVOTUNUY0RSRGlscDMwaExWVm1VVnFMX3NXenZiWWpKcEs4SlBfOHVhd3pxam83Qnc?oc=5",
+    "source": "nme",
+    "title": "Apple Corps Ltd and Universal Music Group announce landmark partnership for The Beatles ahead of biopics - NME",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSGkyLU9OZ1hkYkFheVhGRG5jalVlblduUDlwRC1xTFRLNzEtOVNHVGZranp5MW9qYkNyR2FfOGoxRWFWWHJzeUpEbzI5OHAxZ21BRUtSaVZQVkhJS0hNeEZEZ1BwTVlXYXhUTDlYa0s5MXdOeTEyUy0wbjB1NEk1MkN2ZVpVcE05WlpTZmxucktEVGwwUkpFa0gySG1XaWJ5bHlqeGx1ekZGQUVOTUNUY0RSRGlscDMwaExWVm1VVnFMX3NXenZiWWpKcEs4SlBfOHVhd3pxam83Qnc?oc=5",
+    "publishedAt": "2026-08-20T09:05:19.000Z",
+    "summary": "Apple Corps Ltd and Universal Music Group announce landmark partnership for The Beatles ahead of biopics NME",
     "image": null
   },
   {
@@ -459,39 +486,12 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/demon-hunter-sue-netflix-aeg-kpop-demon-hunters/",
-    "source": "loudwire",
-    "title": "Metal Band Sues Netflix Over Name of Popular 2025 K-pop Movie",
-    "url": "https://loudwire.com/demon-hunter-sue-netflix-aeg-kpop-demon-hunters/",
-    "publishedAt": "2026-08-19T13:55:23.000Z",
-    "summary": "The metal band Demon Hunter are in the process of suing Netflix over the 'Kpop Demon Hunters' movie because of its similarity to their own moniker. Continue reading…",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMingJBVV95cUxOZkpYczIwblpmRUprZ0hSTGh3WUV5dTJFakdrOG1OWDBtWUdoMlVRMHZkSEhqZFVaaTBacTZBUlRqdkVURm16U1h1Q3NzTHlrY0Q3a2RxM0pxdGJIMGZWdzQzMWFOcTBmRnVJUHlIYTBCek1CWTliaExuNG03ME1QRU9Yb2ZWbVI5cTRVcHpCN0R3NGl6M0tPcnR2OWtaYzdnRHBydEZyUlBqR1ZzNjJaRFA0WnY4anJmT0RTb2hrZnJnQlVqdHlfUmpmV1pYMGZNX2VsUV84MkE1eW1rOFY2eGRHazJjZ2REenZLWUxxZzRlZEV0Q0lGWE54RkFDdkp0UzhxSlpadnUyREhnUjMzaW1EbGQ4SkstOFlkT3hn?oc=5",
     "source": "nme",
     "title": "Fan speaks out after Olivia Rodrigo quietly paid for her final semester of college: \"You didn't owe me anything. You just chose to show kindness to a stranger” - NME",
     "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOZkpYczIwblpmRUprZ0hSTGh3WUV5dTJFakdrOG1OWDBtWUdoMlVRMHZkSEhqZFVaaTBacTZBUlRqdkVURm16U1h1Q3NzTHlrY0Q3a2RxM0pxdGJIMGZWdzQzMWFOcTBmRnVJUHlIYTBCek1CWTliaExuNG03ME1QRU9Yb2ZWbVI5cTRVcHpCN0R3NGl6M0tPcnR2OWtaYzdnRHBydEZyUlBqR1ZzNjJaRFA0WnY4anJmT0RTb2hrZnJnQlVqdHlfUmpmV1pYMGZNX2VsUV84MkE1eW1rOFY2eGRHazJjZ2REenZLWUxxZzRlZEV0Q0lGWE54RkFDdkp0UzhxSlpadnUyREhnUjMzaW1EbGQ4SkstOFlkT3hn?oc=5",
     "publishedAt": "2026-08-19T12:28:49.000Z",
     "summary": "Fan speaks out after Olivia Rodrigo quietly paid for her final semester of college: \"You didn't owe me anything. You just chose to show kindness to a stranger” NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMiswFBVV95cUxQVGdMd0pldEJPY1hVWm9EaXV5R1dtblJYNTZVcHhSYjM3SGJ5dURacFVFY0ExUEwtLWt5blZGVENrNXZReVh5MWs1MG1VM2JyVnQ2czc2NGV6clAxUDVLWFNua05GMVVTdmN5aERiZ3ZrYjZnWkM2SzUwV3lSU3lJcHVOS3hXZ2pabTJWRXJwNUwwN0JaNlh6eElEUWppMkNBWGZlQ0REeXgtUDVoSDh1S25ybw?oc=5",
-    "source": "nme",
-    "title": "Christian metal band Demon Hunter sues Netflix over ‘KPop Demon Hunters’ trademark - NME",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVGdMd0pldEJPY1hVWm9EaXV5R1dtblJYNTZVcHhSYjM3SGJ5dURacFVFY0ExUEwtLWt5blZGVENrNXZReVh5MWs1MG1VM2JyVnQ2czc2NGV6clAxUDVLWFNua05GMVVTdmN5aERiZ3ZrYjZnWkM2SzUwV3lSU3lJcHVOS3hXZ2pabTJWRXJwNUwwN0JaNlh6eElEUWppMkNBWGZlQ0REeXgtUDVoSDh1S25ybw?oc=5",
-    "publishedAt": "2026-08-19T12:07:11.000Z",
-    "summary": "Christian metal band Demon Hunter sues Netflix over ‘KPop Demon Hunters’ trademark NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMi5wFBVV95cUxPXzNQMndEMXExMFJ2dzUzeHV4RFhRNTMwMjJxV191Z05PYTFwbG04X1BHUEcwRGZFTkJpeTl0M0JVOUFHLWFVR3pxN1BUM3JEd0FwSXBEV2pzS1dOenFzYUFyR1dyZnJjQ1pBcEtmM0wyT3dycUlFV2N1TDktMkpxXzUwWTJHcXFUUXR4VEhzOV9zRkFHNi1QUW5TYlN1RTVDR0NDUlFvdXZKdXZSTy1RcGdSbUxfTjBObHVuMjRFVzc4SndNX09Xa1kwREE4c3FGOS1oellERG01SDQxeURsMld5M1ZJbUE?oc=5",
-    "source": "nme",
-    "title": "'Oppenheimer' actor David Krumholtz taking \"an indefinite break\" from acting because \"the profession has lost its gleam\" - NME",
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPXzNQMndEMXExMFJ2dzUzeHV4RFhRNTMwMjJxV191Z05PYTFwbG04X1BHUEcwRGZFTkJpeTl0M0JVOUFHLWFVR3pxN1BUM3JEd0FwSXBEV2pzS1dOenFzYUFyR1dyZnJjQ1pBcEtmM0wyT3dycUlFV2N1TDktMkpxXzUwWTJHcXFUUXR4VEhzOV9zRkFHNi1QUW5TYlN1RTVDR0NDUlFvdXZKdXZSTy1RcGdSbUxfTjBObHVuMjRFVzc4SndNX09Xa1kwREE4c3FGOS1oellERG01SDQxeURsMld5M1ZJbUE?oc=5",
-    "publishedAt": "2026-08-19T11:21:02.000Z",
-    "summary": "'Oppenheimer' actor David Krumholtz taking \"an indefinite break\" from acting because \"the profession has lost its gleam\" NME",
     "image": null
   },
   {
@@ -657,21 +657,21 @@
     "image": null
   },
   {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMilwFBVV95cUxQUHpnOUZpdkVyOHN2VGFOT2Q2N0FxUWlxVXdhNFREZHJQT1NwakNUeXRTMHV0N2EyakRiSjZ3cWZrSWxKcE9QcGw2VjdGNEJkcEZYMWhwelQ2UGZKbUsxcnJPUGU2V0g1R1pZU1l3UlhWU2lzb2IyYmNuRF9qcGplUGtPdy1ZQUQxUUVrQ0VBY2gxQjc5X2Zv?oc=5",
+    "source": "kerrang",
+    "title": "Check out Uncle Acid and the Deadbeats’ new single, House By The Grave - kerrang.com",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUHpnOUZpdkVyOHN2VGFOT2Q2N0FxUWlxVXdhNFREZHJQT1NwakNUeXRTMHV0N2EyakRiSjZ3cWZrSWxKcE9QcGw2VjdGNEJkcEZYMWhwelQ2UGZKbUsxcnJPUGU2V0g1R1pZU1l3UlhWU2lzb2IyYmNuRF9qcGplUGtPdy1ZQUQxUUVrQ0VBY2gxQjc5X2Zv?oc=5",
+    "publishedAt": "2026-08-14T10:21:00.000Z",
+    "summary": "Check out Uncle Acid and the Deadbeats’ new single, House By The Grave kerrang.com",
+    "image": null
+  },
+  {
     "id": "uncut-https://www.uncut.co.uk/features/the-10-ways-elvis-presley-changed-the-world-155862/",
     "source": "uncut",
     "title": "The 10 ways Elvis Presley changed the world",
     "url": "https://www.uncut.co.uk/features/the-10-ways-elvis-presley-changed-the-world-155862/",
     "publishedAt": "2026-08-14T08:06:36.000Z",
     "summary": "From teenage fandom and stagecraft to comeback specials, Las Vegas residencies and global live broadcasts, he helped reshape modern culture",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMieEFVX3lxTE1NSDRGUktUM3Z1ZERmYUFPU1pKOHlZbGpVY1g2U1UxYTktbHMxX01mUFVPZ3FJZEhxS2dpcnZJeU1KNFd2Z01qV2JFbFUwM3FDa05IdHVwRzRHQkVmaDZZWTNGZjllSTlmdlVwa3MydTVZZ3FLWXZWaA?oc=5",
-    "source": "kerrang",
-    "title": "Listen to Kaonashi’s chaotic new single, Typing - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NSDRGUktUM3Z1ZERmYUFPU1pKOHlZbGpVY1g2U1UxYTktbHMxX01mUFVPZ3FJZEhxS2dpcnZJeU1KNFd2Z01qV2JFbFUwM3FDa05IdHVwRzRHQkVmaDZZWTNGZjllSTlmdlVwa3MydTVZZ3FLWXZWaA?oc=5",
-    "publishedAt": "2026-08-13T16:31:00.000Z",
-    "summary": "Listen to Kaonashi’s chaotic new single, Typing Kerrang!",
     "image": null
   },
   {
