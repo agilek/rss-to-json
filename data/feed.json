@@ -1,5 +1,32 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/rock/gang-of-youths-whole-different-approach-new-music-1236321570/",
+    "source": "billboard",
+    "title": "How Gang of Youths Took a ‘Whole Different Approach’ With New Era",
+    "url": "https://www.billboard.com/music/rock/gang-of-youths-whole-different-approach-new-music-1236321570/",
+    "publishedAt": "2026-08-21T02:08:14.000Z",
+    "summary": "The Australian alternative rock group this week shared \"Things Take Time,\" their first new music in four years.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/ebidan-yes-tokyo-tops-japan-hot-100-florence-road-debut-1236321589/",
+    "source": "billboard",
+    "title": "EBiDAN’s ‘Yes! Tokyo’ Tops Japan Hot 100 as Florence Road Makes Chart Debut Following First Japan Visit at Summer Sonic",
+    "url": "https://www.billboard.com/music/chart-beat/ebidan-yes-tokyo-tops-japan-hot-100-florence-road-debut-1236321589/",
+    "publishedAt": "2026-08-21T02:00:36.000Z",
+    "summary": "Hearts2Hearts' \"ICONIC HEART\" debuts at No. 2.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/gracie-abrams-hit-the-wall-jake-shake-therapuss-podcast-1236321559/",
+    "source": "billboard",
+    "title": "Gracie Abrams Says ‘Hit the Wall’ Became the ‘North Star’ for Her ‘Daughter From Hell’ Album & Yet ‘I Don’t Remember Writing It’",
+    "url": "https://www.billboard.com/music/pop/gracie-abrams-hit-the-wall-jake-shake-therapuss-podcast-1236321559/",
+    "publishedAt": "2026-08-21T01:45:55.000Z",
+    "summary": "\"I just remember it being done,\" the singer/songwriter recalls of the lead single.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/pro/ai-music-services-udio-grai-umg-liquidax-ai-patents/",
     "source": "billboard",
     "title": "Udio and GRAI Adopt UMG and Liquidax-Backed AI Music Patents",
@@ -45,6 +72,15 @@
     "image": null
   },
   {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/ariana-grande-white-house-music-ice-video-1235576472/",
+    "source": "rolling-stone",
+    "title": "Ariana Grande Slams Team Trump After It Uses ‘We Can’t Be Friends’ in TikTok Video: ‘Your Truth is False’",
+    "url": "https://www.rollingstone.com/music/music-news/ariana-grande-white-house-music-ice-video-1235576472/",
+    "publishedAt": "2026-08-21T00:18:54.000Z",
+    "summary": "The Grammy winner previously criticized the Trump administration after it used her song \"Bye\" in an ICE TikTok video",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/music-news/seventeen-vernon-new-song-ill-be-back-enlists-military-1236321509/",
     "source": "billboard",
     "title": "SEVENTEEN’s Vernon Says ‘I’ll Be Back’ With New Single as He Enlists in South Korean Military",
@@ -78,33 +114,6 @@
     "url": "https://www.billboard.com/music/pop/ariana-grande-slams-donald-trump-administration-tiktok-1236321486/",
     "publishedAt": "2026-08-20T23:32:25.000Z",
     "summary": "The pop star previously blasted the Trump administration in June for using \"Bye\" in a TikTok clip.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/english-premier-league-2026-2027-watch-livestream-online-free-1236318626/",
-    "source": "billboard",
-    "title": "English Premier League 2026-27: Here’s Where to Watch Soccer Matches Live Online for Free",
-    "url": "https://www.billboard.com/culture/product-recommendations/english-premier-league-2026-2027-watch-livestream-online-free-1236318626/",
-    "publishedAt": "2026-08-20T23:09:08.000Z",
-    "summary": "The 35th season of play starts Friday (Aug. 21) — watch matches online for free.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/mary-j-blige-children-interview-michelle-obama-1236321422/",
-    "source": "billboard",
-    "title": "Mary J. Blige Opens Up About Choosing Not to Have Any Children: ‘I Saw a Lot of People Struggling’",
-    "url": "https://www.billboard.com/music/rb-hip-hop/mary-j-blige-children-interview-michelle-obama-1236321422/",
-    "publishedAt": "2026-08-20T23:07:45.000Z",
-    "summary": "\"I see a lot, you know, my family members needing babysitters and them not having a choice, no freedom,\" she said.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/max-b-jim-jones-new-music-interview-1236321345/",
-    "source": "billboard",
-    "title": "Max B Open to Working With Jim Jones Again: ‘If It Makes Money, It Makes Sense’",
-    "url": "https://www.billboard.com/music/rb-hip-hop/max-b-jim-jones-new-music-interview-1236321345/",
-    "publishedAt": "2026-08-20T22:13:24.000Z",
-    "summary": "The Harlem rappers have a tumultuous history, but the Boss Don is willing to let bygones by bygones if it makes some paper.",
     "image": null
   },
   {
@@ -234,15 +243,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-latin/karol-g-becky-g-tokischa-sad-perreo-1235611548/",
-    "source": "rolling-stone",
-    "title": "Why Are All the Girls Crying in the Club?",
-    "url": "https://www.rollingstone.com/music/music-latin/karol-g-becky-g-tokischa-sad-perreo-1235611548/",
-    "publishedAt": "2026-08-20T16:37:39.000Z",
-    "summary": "Karol G, Becky G, and Tokischa have all released sad perreo songs this summer",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMiogFBVV95cUxQUEd5UTNnV3JrYUg0NW9OY1NCWlBvaXRVS0FSRUR6dVBTRGliblRQa01KQmlJMzdOM19BdERuaVlQTWlxcUdkOF9aaDYxaF9wbHN6ZURhWTRhRExwR0E4a3E1TVJxRDMwWGw1Y2o5bGlNQTVZTFpvMkNvLVJwWnh4dkZqd0JwWUV5M2h4R1BBeUQ2WjN5WURTNHp6Y3BLcXRHUFE?oc=5",
     "source": "nme",
     "title": "Foo Fighters to step in as support act for AC/DC for \"one night only\": \"This is literally a dream come true. So if you want blood, you’ve got it” - NME",
@@ -330,6 +330,15 @@
     "url": "https://louderthanwar.com/shoun-shoun-drip-album-review/",
     "publishedAt": "2026-08-20T09:34:53.000Z",
     "summary": "Album Review Shoun Shoun Drip CD/ DL Out now Bristol-based art-rock, experimental, female-led band who seem to be head and shoulders above bands of their ilk, in terms of adventurous music that, whilst echoing the past, points to the future – says Ged Babey – the single came out in June, now here is the album […] The post Shoun Shoun: Drip – Album Review appeared first on Louder Than War.",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdjdWZmJiQVhFakpJM0U0Z09sdkxIOXF3dGRUajN6Z250RUtyLVZNNmRvTFdsVS1jQ19FaEY3a1U2cFFheFhMaGVoNm5ocDd4b1lPTHFYSm0zNF9xbm1ZZnh6MEdJTXVjS2xNcjlXYWhGVTI0SE5RQWJJa2xSZGpKOEdnZTVsNzNCUTZGN3pXWnY4NWFKdzVDSWsxY3IySXltWHFPeHpBQkFSbzhJOC1mOURaS3ZOenhvbTRrS2c4Q3FqTzA?oc=5",
+    "source": "nme",
+    "title": "Tributes paid as woman found dead at Houghton Festival named as Ibiza DJ Santanna Oush - NME",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdjdWZmJiQVhFakpJM0U0Z09sdkxIOXF3dGRUajN6Z250RUtyLVZNNmRvTFdsVS1jQ19FaEY3a1U2cFFheFhMaGVoNm5ocDd4b1lPTHFYSm0zNF9xbm1ZZnh6MEdJTXVjS2xNcjlXYWhGVTI0SE5RQWJJa2xSZGpKOEdnZTVsNzNCUTZGN3pXWnY4NWFKdzVDSWsxY3IySXltWHFPeHpBQkFSbzhJOC1mOURaS3ZOenhvbTRrS2c4Q3FqTzA?oc=5",
+    "publishedAt": "2026-08-20T09:29:15.000Z",
+    "summary": "Tributes paid as woman found dead at Houghton Festival named as Ibiza DJ Santanna Oush NME",
     "image": null
   },
   {
@@ -483,15 +492,6 @@
     "url": "https://loudwire.com/jack-white-responds-charley-crockett-calls-him-out-twin-temple-controversy/",
     "publishedAt": "2026-08-19T14:28:13.000Z",
     "summary": "Jack White chose '80s song lyrics to respond to Charley Crockett after the country star called him out for his support of Twin Temple. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMirwFBVV95cUxPYWJUQ09Nak04Y0ZkLUdMQXVFR2R5ZUk2MmhHVm5yOGVreTZOekpkZUhyTUtfd043Vm9tb2NyNzYzbWQ3Um44NGllWENuWHNJVFBKTGFrMzVSeVIza2lnWXZyRHlHNWxmS0JNeVk4ZkxmVWdyamtBLVRmZVpQUm9fTUtQbWtscHhfcjIxaWNxZ2pQbkJaOEZfejJNZ2Z0b1J0YnBZN3hMenBWU2pjU2ww?oc=5",
-    "source": "nme",
-    "title": "AI detected in 40 per cent of music released in July 2026, study reveals - NME",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYWJUQ09Nak04Y0ZkLUdMQXVFR2R5ZUk2MmhHVm5yOGVreTZOekpkZUhyTUtfd043Vm9tb2NyNzYzbWQ3Um44NGllWENuWHNJVFBKTGFrMzVSeVIza2lnWXZyRHlHNWxmS0JNeVk4ZkxmVWdyamtBLVRmZVpQUm9fTUtQbWtscHhfcjIxaWNxZ2pQbkJaOEZfejJNZ2Z0b1J0YnBZN3hMenBWU2pjU2ww?oc=5",
-    "publishedAt": "2026-08-19T14:11:40.000Z",
-    "summary": "AI detected in 40 per cent of music released in July 2026, study reveals NME",
     "image": null
   },
   {
