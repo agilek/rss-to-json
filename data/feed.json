@@ -1,5 +1,41 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/what-to-wear-daisy-chain-fields-music-festival-shop-online-1236321135/",
+    "source": "billboard",
+    "title": "What to Wear to Olivia Rodrigo’s Daisy Chain Fields Music Festival, From ’70s Boho to 2010s Alt-Pop",
+    "url": "https://www.billboard.com/culture/product-recommendations/what-to-wear-daisy-chain-fields-music-festival-shop-online-1236321135/",
+    "publishedAt": "2026-08-21T21:47:24.000Z",
+    "summary": "Get your festival 'fits ready for KATSEYE, Doechii, Chappell Roan, Stevie Nicks & more.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/drake-spotify-global-streaming-list-canada-music-news/",
+    "source": "billboard",
+    "title": "In Canada: Drake Dominates 80% of Spotify’s Global Impact List for the First Half of 2026",
+    "url": "https://www.billboard.com/pro/drake-spotify-global-streaming-list-canada-music-news/",
+    "publishedAt": "2026-08-21T21:46:17.000Z",
+    "summary": "Also up north this week: Montreal's LASSO country festival sees rapid growth and Drizzy celebrates the opening of Ottowa's newest music hub.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/blackpinks-jennie-to-release-new-ep-next-friday/",
+    "source": "pitchfork",
+    "title": "Blackpink’s Jennie to Release New EP Next Friday",
+    "url": "https://pitchfork.com/story/blackpinks-jennie-to-release-new-ep-next-friday/",
+    "publishedAt": "2026-08-21T21:20:17.000Z",
+    "summary": "Fallen Angel follows the K-pop group’s own comeback project, Deadline",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/los-lobos-settles-sony-music-lawsuit-desperado-soundtrack/",
+    "source": "billboard",
+    "title": "Los Lobos Settles Sony Music Lawsuit Over ‘Desperado’ Movie Soundtrack Royalties",
+    "url": "https://www.billboard.com/pro/los-lobos-settles-sony-music-lawsuit-desperado-soundtrack/",
+    "publishedAt": "2026-08-21T21:08:19.000Z",
+    "summary": "The Chicano rock band is still suing a different Sony subsidiary over the La Bamba film soundtrack.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/culture/product-recommendations/mattel-kpop-demon-hunters-dolls-shop-online-1236294177/",
     "source": "billboard",
     "title": "Mattel’s ‘KPop Demon Hunters’ Dolls Sing ‘Golden’ & Sport Iconic Outfits From the Award-Winning Film",
@@ -63,33 +99,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/indycar-freedom-250-grand-prix-watch-live-online-sling-tv-1236321187/",
-    "source": "billboard",
-    "title": "IndyCar Series on Sling TV: Here’s How to Watch Freedom 250 Grand Prix of Washington, D.C., Live Online",
-    "url": "https://www.billboard.com/culture/product-recommendations/indycar-freedom-250-grand-prix-watch-live-online-sling-tv-1236321187/",
-    "publishedAt": "2026-08-21T19:50:51.000Z",
-    "summary": "Here's the best way to livestream round 15 of the 2026 season without cable.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/50-cent-g-unit-join-joe-verzuz-battle-1236322099/",
-    "source": "billboard",
-    "title": "50 Cent & G-Unit Join Joe for Verzuz Battle Performance of ‘Wanna Get to Know You’ & ‘Big Rich Town’",
-    "url": "https://www.billboard.com/music/rb-hip-hop/50-cent-g-unit-join-joe-verzuz-battle-1236322099/",
-    "publishedAt": "2026-08-21T19:44:21.000Z",
-    "summary": "Joe and Donell Jones delivered a nostalgic clash of R&B titans on Aug. 20.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/photos/alln-k-pop-up-and-comer-month-august-photos-1236321284/",
-    "source": "billboard",
-    "title": "ALL’N Is Billboard’s K-Pop Up & Comer of the Month for August: Exclusive Photos",
-    "url": "https://www.billboard.com/photos/alln-k-pop-up-and-comer-month-august-photos-1236321284/",
-    "publishedAt": "2026-08-21T18:55:16.000Z",
-    "summary": "The meaning behind his stage name ALL’N — both a play on “all in,” meaning to give it your all, and “olin,” a shortened form of “violin” — are important clues to understanding his music.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/quality-control-co-founder-pierre-p-thomas-heart-attack-1235613014/",
     "source": "rolling-stone",
     "title": "Quality Control Co-Founder Pierre ‘P’ Thomas ‘Alive and Currently Hospitalized’ After Heart Attack",
@@ -113,7 +122,16 @@
     "title": "Kacey Musgraves Is Selling a Line of Sex Lube",
     "url": "https://www.rollingstone.com/music/music-country/kacey-musgraves-sex-lubricant-1235612981/",
     "publishedAt": "2026-08-21T18:05:17.000Z",
-    "summary": "The country singer's, ahem, Drought Drops promise to “keep the dry spells away and the good times coming\"",
+    "summary": "The country singer’s, ahem, Drought Drops promise to “keep the dry spells away and the good times coming”",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMi2wFBVV95cUxONF9ZdG1zX3lXek9aMy1oYmhoVDRtTWlLRTl2b3hxN3BYMUFWU2pDMVVaUHNYbFhLblJQM1BBNTBLcEJqN3NYV0drUW1LS3JJYTdQalFyNmFZeFE1QVAzMm5mVjdpLVl1ako4eV83cERRVlpkR0JFRUJvSmM3T09zYU44Q3VzMmdkMHpoY19aNlNOa0p3NVZfSnVhNDVrLVpQRDRPcUFyRXRRRTVUMVNFamotNkk3LXVCWlFtV3NhaW1kOGFhdnA0R1ROcWtzd2gzMUZleExRN2djNW8?oc=5",
+    "source": "nme",
+    "title": "Phoebe Bridgers announces rescheduled intimate UK shows as she celebrates Number One album from hospital - NME",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONF9ZdG1zX3lXek9aMy1oYmhoVDRtTWlLRTl2b3hxN3BYMUFWU2pDMVVaUHNYbFhLblJQM1BBNTBLcEJqN3NYV0drUW1LS3JJYTdQalFyNmFZeFE1QVAzMm5mVjdpLVl1ako4eV83cERRVlpkR0JFRUJvSmM3T09zYU44Q3VzMmdkMHpoY19aNlNOa0p3NVZfSnVhNDVrLVpQRDRPcUFyRXRRRTVUMVNFamotNkk3LXVCWlFtV3NhaW1kOGFhdnA0R1ROcWtzd2gzMUZleExRN2djNW8?oc=5",
+    "publishedAt": "2026-08-21T17:39:20.000Z",
+    "summary": "Phoebe Bridgers announces rescheduled intimate UK shows as she celebrates Number One album from hospital NME",
     "image": null
   },
   {
@@ -167,7 +185,7 @@
     "title": "Turnstile Enlist Elton John, Hayley Williams, Slayyyter for ‘Never Enough: Versions’ LP",
     "url": "https://www.rollingstone.com/music/music-news/turnstile-elton-john-hayley-williams-never-enough-versions-1235612895/",
     "publishedAt": "2026-08-21T16:45:55.000Z",
-    "summary": "\"Reimagined\" version of 2025 album, out August 28, also features contributions from Panda Bear, A.G. Cook, Blood Orange, Julien Baker, Faye Webster, and many more",
+    "summary": "“Reimagined” version of 2025 album, out August 28, also features contributions from Panda Bear, A.G. Cook, Blood Orange, Julien Baker, Faye Webster, and many more",
     "image": null
   },
   {
@@ -185,7 +203,7 @@
     "title": "People Can’t Stop Listening to TV on the Radio Thanks to ‘Spider-Man: Brand New Day’",
     "url": "https://www.rollingstone.com/music/music-features/tv-on-the-radio-spider-man-brand-new-day-tunde-adebimpe-1235612395/",
     "publishedAt": "2026-08-21T16:01:16.000Z",
-    "summary": "Streams of \"Wolf Like Me\" featured in film are up over 800 percent in the past month. Singer Tunde Adebimpe calls it \"definitely surreal\"",
+    "summary": "Streams of “Wolf Like Me” featured in film are up over 800 percent in the past month. Singer Tunde Adebimpe calls it “definitely surreal”",
     "image": null
   },
   {
@@ -203,7 +221,7 @@
     "title": "Viva the Cramps, Who Played ‘Pure’ Rock & Roll as Though the British Never Invaded",
     "url": "https://www.rollingstone.com/music/music-features/the-cramps-gravest-gravy-appreciation-1235609505/",
     "publishedAt": "2026-08-21T15:56:24.000Z",
-    "summary": "With the release of Gravest Gravy, an archival set featuring an early recording session, it's a good time to celebrate bad music for bad people",
+    "summary": "With the release of Gravest Gravy, an archival set featuring an early recording session, it’s a good time to celebrate bad music for bad people",
     "image": null
   },
   {
@@ -212,7 +230,7 @@
     "title": "Hollis Brown Had a Nasty Breakup. They Reunite for New Song ‘Garage Days’",
     "url": "https://www.rollingstone.com/music/music-news/hollis-brown-reunite-garage-days-song-1235612738/",
     "publishedAt": "2026-08-21T15:37:41.000Z",
-    "summary": "After a 2023 fight between singer Mike Montali and guitarist Jonathan Bonilla, the two met to clear the air. \"Just me and him sitting in a diner in Queens, yelling at each other,\" Montali says",
+    "summary": "After a 2023 fight between singer Mike Montali and guitarist Jonathan Bonilla, the two met to clear the air. “Just me and him sitting in a diner in Queens, yelling at each other,” Montali says",
     "image": null
   },
   {
@@ -414,15 +432,6 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/story/bibio-and-dorian-concept-announce-collaborative-album-answers/",
-    "source": "pitchfork",
-    "title": "Bibio and Dorian Concept Team Up for Collaborative Album",
-    "url": "https://pitchfork.com/story/bibio-and-dorian-concept-announce-collaborative-album-answers/",
-    "publishedAt": "2026-08-20T17:46:45.000Z",
-    "summary": "The second single from Answers is out now",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMiREFVX3lxTFB0TmFXbm5oU3A4VTQzNlJNWTdYZFIwMkotTms0ZEtlaHVjblBteWJ5WGEza0tiZGczWGpLZG5yX2pSSFVl?oc=5",
     "source": "nme",
     "title": "Noah Kahan announces huge 2027 ‘The Last Of The Bugs’ UK and Ireland stadium shows - NME",
@@ -501,15 +510,6 @@
     "url": "https://louderthanwar.com/shoun-shoun-drip-album-review/",
     "publishedAt": "2026-08-20T09:34:53.000Z",
     "summary": "Album Review Shoun Shoun Drip CD/ DL Out now Bristol-based art-rock, experimental, female-led band who seem to be head and shoulders above bands of their ilk, in terms of adventurous music that, whilst echoing the past, points to the future – says Ged Babey – the single came out in June, now here is the album […] The post Shoun Shoun: Drip – Album Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdjdWZmJiQVhFakpJM0U0Z09sdkxIOXF3dGRUajN6Z250RUtyLVZNNmRvTFdsVS1jQ19FaEY3a1U2cFFheFhMaGVoNm5ocDd4b1lPTHFYSm0zNF9xbm1ZZnh6MEdJTXVjS2xNcjlXYWhGVTI0SE5RQWJJa2xSZGpKOEdnZTVsNzNCUTZGN3pXWnY4NWFKdzVDSWsxY3IySXltWHFPeHpBQkFSbzhJOC1mOURaS3ZOenhvbTRrS2c4Q3FqTzA?oc=5",
-    "source": "nme",
-    "title": "Tributes paid as woman found dead at Houghton Festival named as Ibiza DJ Santanna Oush - NME",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdjdWZmJiQVhFakpJM0U0Z09sdkxIOXF3dGRUajN6Z250RUtyLVZNNmRvTFdsVS1jQ19FaEY3a1U2cFFheFhMaGVoNm5ocDd4b1lPTHFYSm0zNF9xbm1ZZnh6MEdJTXVjS2xNcjlXYWhGVTI0SE5RQWJJa2xSZGpKOEdnZTVsNzNCUTZGN3pXWnY4NWFKdzVDSWsxY3IySXltWHFPeHpBQkFSbzhJOC1mOURaS3ZOenhvbTRrS2c4Q3FqTzA?oc=5",
-    "publishedAt": "2026-08-20T09:29:15.000Z",
-    "summary": "Tributes paid as woman found dead at Houghton Festival named as Ibiza DJ Santanna Oush NME",
     "image": null
   },
   {
