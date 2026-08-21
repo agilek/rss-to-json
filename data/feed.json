@@ -1,5 +1,14 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/phoebe-bridgers-katseye-no-1-australia-1236321755/",
+    "source": "billboard",
+    "title": "Phoebe Bridgers, KATSEYE Bag First No. 1s In Australia",
+    "url": "https://www.billboard.com/music/chart-beat/phoebe-bridgers-katseye-no-1-australia-1236321755/",
+    "publishedAt": "2026-08-21T08:49:58.000Z",
+    "summary": "Bridgers finds herself at No. 1 on the ARIA Albums Chart with \"Lost Weekend.\"",
+    "image": null
+  },
+  {
     "id": "uncut-https://www.uncut.co.uk/features/retreats-revivals-and-reinventions-bob-dylans-70s-albums-ranked-155610/",
     "source": "uncut",
     "title": "Retreats, revivals and reinventions: Bob Dylan’s ’70s albums… ranked!",
@@ -51,6 +60,15 @@
     "url": "https://www.billboard.com/music/rock/weezer-gold-album-stream-it-now-1236321691/",
     "publishedAt": "2026-08-21T05:30:44.000Z",
     "summary": "The process behind the new self-titled collection was a blast from the past, an LP made the old fashion way.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/awards/diane-warren-by-any-means-title-song-mark-wahlberg-film-1236319575/",
+    "source": "billboard",
+    "title": "Here’s the Song Diane Warren Hopes Will Extend Her Record-Setting Streak of Oscar Nods for Best Original Song: Listen",
+    "url": "https://www.billboard.com/music/awards/diane-warren-by-any-means-title-song-mark-wahlberg-film-1236319575/",
+    "publishedAt": "2026-08-21T05:00:00.000Z",
+    "summary": "David Kushner and The Isley Brothers perform the song for the film By Any Means, which is set in the 1960s.",
     "image": null
   },
   {
@@ -123,24 +141,6 @@
     "url": "https://www.billboard.com/music/rock/gang-of-youths-whole-different-approach-new-music-1236321570/",
     "publishedAt": "2026-08-21T02:08:14.000Z",
     "summary": "The Australian alternative rock group this week shared \"Things Take Time,\" their first new music in four years.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/ebidan-yes-tokyo-tops-japan-hot-100-florence-road-debut-1236321589/",
-    "source": "billboard",
-    "title": "EBiDAN’s ‘Yes! Tokyo’ Tops Japan Hot 100 as Florence Road Makes Chart Debut Following First Japan Visit at Summer Sonic",
-    "url": "https://www.billboard.com/music/chart-beat/ebidan-yes-tokyo-tops-japan-hot-100-florence-road-debut-1236321589/",
-    "publishedAt": "2026-08-21T02:00:36.000Z",
-    "summary": "Hearts2Hearts' \"ICONIC HEART\" debuts at No. 2.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/pop/gracie-abrams-hit-the-wall-jake-shake-therapuss-podcast-1236321559/",
-    "source": "billboard",
-    "title": "Gracie Abrams Says ‘Hit the Wall’ Became the ‘North Star’ for Her ‘Daughter From Hell’ Album & Yet ‘I Don’t Remember Writing It’",
-    "url": "https://www.billboard.com/music/pop/gracie-abrams-hit-the-wall-jake-shake-therapuss-podcast-1236321559/",
-    "publishedAt": "2026-08-21T01:45:55.000Z",
-    "summary": "\"I just remember it being done,\" the singer/songwriter recalls of the lead single.",
     "image": null
   },
   {
@@ -333,6 +333,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMi0wFBVV95cUxPM00zT2VHalN6X3Q5WFRMRUl1elNMcDl0UkFZbkxva2tKOTJSVEVfT2thalp2WkZJLTVQNkgzWmpZdVBUM3R4a0ZJSmN4OXVTWi12cEJYRVFqbEM3b3FPWTM5U0pyVmVHYjRBamU2SGxwSmJhWm9Yd05QVXJHT2kxV3VwVmdFb1V2Rm1JUmMwR3cycTVYWkYwaExHV1MtZGlldlRxVFRDM2hOdlh0VVpDUXZlMXpQOTFWb3BlQnp1TVVYX1poZGMzSlpydE5CX0x3MFhF?oc=5",
+    "source": "nme",
+    "title": "Footage unearthed from drama student who filmed Jimi Hendrix’s Woodstock performance from the stage - NME",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPM00zT2VHalN6X3Q5WFRMRUl1elNMcDl0UkFZbkxva2tKOTJSVEVfT2thalp2WkZJLTVQNkgzWmpZdVBUM3R4a0ZJSmN4OXVTWi12cEJYRVFqbEM3b3FPWTM5U0pyVmVHYjRBamU2SGxwSmJhWm9Yd05QVXJHT2kxV3VwVmdFb1V2Rm1JUmMwR3cycTVYWkYwaExHV1MtZGlldlRxVFRDM2hOdlh0VVpDUXZlMXpQOTFWb3BlQnp1TVVYX1poZGMzSlpydE5CX0x3MFhF?oc=5",
+    "publishedAt": "2026-08-20T11:54:04.000Z",
+    "summary": "Footage unearthed from drama student who filmed Jimi Hendrix’s Woodstock performance from the stage NME",
+    "image": null
+  },
+  {
     "id": "loudwire-https://loudwire.com/tom-morello-new-solo-rock-album-interview/",
     "source": "loudwire",
     "title": "Tom Morello Preps For His First-Ever Solo Rock Album - Interview",
@@ -447,15 +456,6 @@
     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcmRmX0dUUzB6ZmROWjNZQ3BRMDNMRzRjbzFJdW5aQktqUDRkOXVjdng0Z0QzX2xUSmd4MDJnYTVndnBJSVhXZE5scDVCU3BiVmk0ZWlERU5jVzlQM1dnYUxTa0xtck9DWnFXYzFWdGk1TUF2UnBuN0ZCZDJiOVZKbG5tYmhDcm1ZSFE3OTY4a0ZuVlk2NDdFbjd0bUpQU3pfRm15T0FXNGVVZHhYRzNJWS10aVB0a0xPdzdlSjdQcVB4RUI3UHB4aXlCbzVrcmw5eDVTSDZQcUN1MVJ3VVVfaQ?oc=5",
     "publishedAt": "2026-08-19T19:32:03.000Z",
     "summary": "Joe Rogan discovers Turnstile, claims US rap has \"fallen off the charts\" because of defunding international aid NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMisAFBVV95cUxQNmNxR0hlWEdEZEVWMXdHcmZMbzZlY3JxQTU4YTY5LVQ2M2RXWWwtb2JjbGZQVEhBRFRWb0N2NEtuQVR1WTRWOENBNXVkQjdBTU4wOWZtNV9kLUEtYWhPSUJqR0hDZlFVeGNRSWNKdmtzcjdfZ2F2cHhOUUZLNUhfX2pBTURMblB0MmFlSk9Nci1fWU5FYmVZbnNya3VnVlRpSE91Y0lyc3VSejBmRHdncw?oc=5",
-    "source": "nme",
-    "title": "Gang of Youths talk easing into a new era on ‘Things Take Time’: “It felt like a proper break with the past” - NME",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNmNxR0hlWEdEZEVWMXdHcmZMbzZlY3JxQTU4YTY5LVQ2M2RXWWwtb2JjbGZQVEhBRFRWb0N2NEtuQVR1WTRWOENBNXVkQjdBTU4wOWZtNV9kLUEtYWhPSUJqR0hDZlFVeGNRSWNKdmtzcjdfZ2F2cHhOUUZLNUhfX2pBTURMblB0MmFlSk9Nci1fWU5FYmVZbnNya3VnVlRpSE91Y0lyc3VSejBmRHdncw?oc=5",
-    "publishedAt": "2026-08-19T19:09:20.000Z",
-    "summary": "Gang of Youths talk easing into a new era on ‘Things Take Time’: “It felt like a proper break with the past” NME",
     "image": null
   },
   {
