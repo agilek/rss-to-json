@@ -1,29 +1,164 @@
 [
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/lady-gaga-fiance-polansky-biotech-startup-1236323749/",
+    "id": "billboard-https://www.billboard.com/lists/dolly-parton-top-songs-billboard-hot-country-songs/",
     "source": "billboard",
-    "title": "Lady Gaga’s Fiancé Michael Polansky Has a Biotech Startup Involving AI & Living Skin",
-    "url": "https://www.billboard.com/music/music-news/lady-gaga-fiance-polansky-biotech-startup-1236323749/",
-    "publishedAt": "2026-08-25T16:39:05.000Z",
-    "summary": "Outer Biosciences is also using AI to predict the next gen of skin-disease treatments by sourcing skin that would typically be discarded after surgery.",
+    "title": "Dolly Parton’s Top Billboard Hot Country Songs Hits",
+    "url": "https://www.billboard.com/lists/dolly-parton-top-songs-billboard-hot-country-songs/",
+    "publishedAt": "2026-08-25T18:33:47.000Z",
+    "summary": "The icon's biggest Billboard Hot Country Songs hits, from enduring solo songs to collaborations with artists including Kenny Rogers.",
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/tekno-where-did-love-go-afrobeats-struggles-1236323888/",
+    "id": "billboard-https://www.billboard.com/lists/best-dolly-parton-songs/",
     "source": "billboard",
-    "title": "How Tekno Found Solace Again in Music After Almost Quitting the Industry",
-    "url": "https://www.billboard.com/music/rb-hip-hop/tekno-where-did-love-go-afrobeats-struggles-1236323888/",
-    "publishedAt": "2026-08-25T16:37:23.000Z",
-    "summary": "After facing health challenges that led to vocal cord surgery, the Nigerian singer-songwriter has fallen back in love with music with his release Where Did Love Go?",
+    "title": "Dolly Parton’s 25 Best Songs: Critics’ Picks",
+    "url": "https://www.billboard.com/lists/best-dolly-parton-songs/",
+    "publishedAt": "2026-08-25T18:25:00.000Z",
+    "summary": "The Queen of Country's best solo songs, from \"9 to 5\" to \"Jolene.\"",
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/shelley-fabares-johnny-angel-billboard-number-one-hit-1236323066/",
+    "id": "billboard-https://www.billboard.com/pro/legal-beat-lil-durk-murder-trial-kpop-demon-hunters/",
     "source": "billboard",
-    "title": "Forever No. 1: Shelley Fabares, ‘Johnny Angel’",
-    "url": "https://www.billboard.com/music/chart-beat/shelley-fabares-johnny-angel-billboard-number-one-hit-1236323066/",
-    "publishedAt": "2026-08-25T16:30:42.000Z",
-    "summary": "When she dethroned Connie Francis, it marked the first time female singers had back-to-back No. 1s on the Hot 100.",
+    "title": "Lil Durk Murder Trial, ‘KPop Demon Hunters’ Lawsuit, Bad Bunny Ruling & More Top Music Law News",
+    "url": "https://www.billboard.com/pro/legal-beat-lil-durk-murder-trial-kpop-demon-hunters/",
+    "publishedAt": "2026-08-25T18:24:42.000Z",
+    "summary": "In this week's Legal Beat newsletter, Lil Durk's day in court, a \"Demon Hunters\" trademark fight, Bad Bunny's big legal bill and much more.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/raleigh-music-publishing-icm-crescendo-music-royalty-fund/",
+    "source": "billboard",
+    "title": "Raleigh Music Publishing Forms Joint Venture With ICM Crescendo Music Royalty Fund",
+    "url": "https://www.billboard.com/pro/raleigh-music-publishing-icm-crescendo-music-royalty-fund/",
+    "publishedAt": "2026-08-25T18:22:24.000Z",
+    "summary": "The new venture will see Raleigh administering catalogs acquired by ICM Crescendo Music Royalty Fund.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-lists/best-dolly-parton-songs-1234701711/",
+    "source": "rolling-stone",
+    "title": "The 50 Best Dolly Parton Songs",
+    "url": "https://www.rollingstone.com/music/music-lists/best-dolly-parton-songs-1234701711/",
+    "publishedAt": "2026-08-25T18:19:55.000Z",
+    "summary": "The finest moments from an American icon",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/dolly-parton-dead-80/",
+    "source": "loudwire",
+    "title": "Dolly Parton, Country Icon + Rock and Roll Hall of Famer, Dies",
+    "url": "https://loudwire.com/dolly-parton-dead-80/",
+    "publishedAt": "2026-08-25T18:18:16.000Z",
+    "summary": "Dolly Parton, the legendary country music icon who shaped generations of fans, has passed away at 80 in Nashville. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/country/dolly-parton-death-1236324068/",
+    "source": "billboard",
+    "title": "Dolly Parton, One of Country Music’s Biggest & Brightest Icons, Dies at 80",
+    "url": "https://www.billboard.com/music/country/dolly-parton-death-1236324068/",
+    "publishedAt": "2026-08-25T18:06:23.000Z",
+    "summary": "Parton was one of the most influential songwriters to hit Nashville -- or the world",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/music-industry-in-good-shape-2026-guest-column/",
+    "source": "billboard",
+    "title": "Cheer Up: The Music Industry Is in Good Shape, Despite What You May Have Heard (Guest Column)",
+    "url": "https://www.billboard.com/pro/music-industry-in-good-shape-2026-guest-column/",
+    "publishedAt": "2026-08-25T18:00:00.000Z",
+    "summary": "Today’s industry has its share of problems, but overall, it’s a healthier (and less centralized) business than ever before.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/dolly-parton-dies-at-80/",
+    "source": "pitchfork",
+    "title": "Dolly Parton Dies at 80",
+    "url": "https://pitchfork.com/story/dolly-parton-dies-at-80/",
+    "publishedAt": "2026-08-25T17:59:34.000Z",
+    "summary": "Her publicist confirmed a small, private service will be held for immediate family.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/dolly-parton-dead-obit-1234810193/",
+    "source": "rolling-stone",
+    "title": "Dolly Parton, Hardscrabble Storyteller Turned Global Entertainer, Dead at 80",
+    "url": "https://www.rollingstone.com/music/music-country/dolly-parton-dead-obit-1234810193/",
+    "publishedAt": "2026-08-25T17:59:31.000Z",
+    "summary": "The Country Music Hall of Fame member died Tuesday after battling health issues for the last year",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/paul-thomas-anderson-cameron-winter-carnegie-hall-tour-1235614747/",
+    "source": "rolling-stone",
+    "title": "Paul Thomas Anderson’s ‘Cameron Winter at Carnegie Hall’ to Tour This Fall",
+    "url": "https://www.rollingstone.com/music/music-news/paul-thomas-anderson-cameron-winter-carnegie-hall-tour-1235614747/",
+    "publishedAt": "2026-08-25T17:58:27.000Z",
+    "summary": "35-mm prints will screen around North America",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/media/podcasts/madonna-2026-mtv-vma-lead-nominee-pop-shop-podcast-1236323318/",
+    "source": "billboard",
+    "title": "Madonna Comes Full-Circle as the Leading Nominee at 2026 MTV VMAs",
+    "url": "https://www.billboard.com/media/podcasts/madonna-2026-mtv-vma-lead-nominee-pop-shop-podcast-1236323318/",
+    "publishedAt": "2026-08-25T17:56:16.000Z",
+    "summary": "On the new Billboard Pop Shop Podcast, Katie & Keith talk about Madonna's deep history with the VMAs leading into the Sept. 27 show.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/olivia-rodrigo-daisy-chain-fields-radio-specials-1236323880/",
+    "source": "billboard",
+    "title": "Olivia Rodrigo to Guest Host on iHeartRadio One Day Before Her Inaugural Daisy Chain Fields Festival",
+    "url": "https://www.billboard.com/music/music-news/olivia-rodrigo-daisy-chain-fields-radio-specials-1236323880/",
+    "publishedAt": "2026-08-25T17:54:11.000Z",
+    "summary": "iHeart will also exclusively broadcast sets from the festival.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/ryan-goff-rob-zombie-fill-in-drummer/",
+    "source": "loudwire",
+    "title": "Who Is Ryan Goff, Rob Zombie’s Fill-In Touring Drummer?",
+    "url": "https://loudwire.com/ryan-goff-rob-zombie-fill-in-drummer/",
+    "publishedAt": "2026-08-25T17:52:02.000Z",
+    "summary": "Get to know Rob Zombie's new fill-in touring drummer, including his past with Rob and his previous work in punk and hardcore bands. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/karol-g-judeline-rusowsky-bby-wow-no-1-1236323969/",
+    "source": "billboard",
+    "title": "Karol G, Judeline & Rusowsky Take ‘BbY WOW’ To No. 1: ‘So Thankful’",
+    "url": "https://www.billboard.com/music/chart-beat/karol-g-judeline-rusowsky-bby-wow-no-1-1236323969/",
+    "publishedAt": "2026-08-25T17:41:25.000Z",
+    "summary": "\"I’m so thankful to Karol for giving me this opportunity,\" says Judeline on their first No. 1.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/amy-winehouse-back-to-black-reissue-20th-anniversary-1235614609/",
+    "source": "rolling-stone",
+    "title": "Amy Winehouse’s ‘Back to Black’ to Get Lavish Reissue for 20th Anniversary",
+    "url": "https://www.rollingstone.com/music/music-news/amy-winehouse-back-to-black-reissue-20th-anniversary-1235614609/",
+    "publishedAt": "2026-08-25T16:58:13.000Z",
+    "summary": "The three-disc set, out this fall, includes demos, rarities, a live album, and rare photos and new liner notes by Mark Ronson and Salaam Remi",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/mark-the-spot-e1-art-pencil-on-paper-1235584288/",
+    "source": "rolling-stone",
+    "title": "Mark the Spot, Episode 1: Art",
+    "url": "https://www.rollingstone.com/music/music-news/mark-the-spot-e1-art-pencil-on-paper-1235584288/",
+    "publishedAt": "2026-08-25T16:57:06.000Z",
+    "summary": "Pencil on Paper",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/reading-leeds-artists-to-see-2026-lineup/",
+    "source": "billboard",
+    "title": "Fontaines D.C., Charli XCX, RAYE & More: 10 Unmissable Reading & Leeds Festival Sets",
+    "url": "https://www.billboard.com/lists/reading-leeds-artists-to-see-2026-lineup/",
+    "publishedAt": "2026-08-25T16:48:43.000Z",
+    "summary": "The dual-festival features four first-time headliners.",
     "image": null
   },
   {
@@ -47,19 +182,10 @@
   {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-features/dr-dre-raekwon-ai-palantir-hip-hop-1235614549/",
     "source": "rolling-stone",
-    "title": "Tech Optimism Has a Hold Over Hip-Hop’s Mogul Generation",
+    "title": "AI Optimism Has a Hold Over Hip-Hop’s Mogul Generation",
     "url": "https://www.rollingstone.com/music/music-features/dr-dre-raekwon-ai-palantir-hip-hop-1235614549/",
     "publishedAt": "2026-08-25T16:16:51.000Z",
     "summary": "From Raekwon’s “return” to Palantir’s offices, to Dr. Dre’s embrace of AI, rap’s pioneers are carrying an old faith in new machines into an era of platform ownership, surveillance, and automated music",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/katseye-phoebe-bridgers-chart-highlights-aug-29-2026/",
-    "source": "billboard",
-    "title": "KATSEYE, Phoebe Bridgers, Ella Langley & More: Highlights of This Week’s Billboard Charts",
-    "url": "https://www.billboard.com/lists/katseye-phoebe-bridgers-chart-highlights-aug-29-2026/",
-    "publishedAt": "2026-08-25T16:09:44.000Z",
-    "summary": "All of Billboard’s charts update each Tuesday.",
     "image": null
   },
   {
@@ -72,66 +198,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/pop/pupsies-misery-hyperpop-digi-pop-interview-1236321404/",
-    "source": "billboard",
-    "title": "Is Digi-Pop the Newest Hyperpop Wave?",
-    "url": "https://www.billboard.com/music/pop/pupsies-misery-hyperpop-digi-pop-interview-1236321404/",
-    "publishedAt": "2026-08-25T16:00:00.000Z",
-    "summary": "How Pupsies' debut chart hit \"Misery\" could be leading the charge.",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/cameron-winter-details-concert-film-from-paul-thomas-anderson/",
     "source": "pitchfork",
     "title": "Here’s How to See Paul Thomas Anderson’s Cameron Winter Concert Film",
     "url": "https://pitchfork.com/story/cameron-winter-details-concert-film-from-paul-thomas-anderson/",
     "publishedAt": "2026-08-25T16:00:00.000Z",
     "summary": "Co-produced by Benny Safdie, Cameron Winter at Carnegie Hall will tour movie theaters this fall",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/features/cardi-b-meek-mill-lil-uzi-vert-more-fuel-the-atlantics-hustle-grit-2026-1236323875/",
-    "source": "billboard",
-    "title": "Cardi B, Meek Mill, Lil Uzi Vert & More Fuel the Atlantic’s Hustle & Grit: See the Movement Mix",
-    "url": "https://www.billboard.com/music/features/cardi-b-meek-mill-lil-uzi-vert-more-fuel-the-atlantics-hustle-grit-2026-1236323875/",
-    "publishedAt": "2026-08-25T15:59:56.000Z",
-    "summary": "From New York swagger to Philly determination, Billboard and Planet Fitness soundtrack the Atlantic region’s drive with a mix informed by Luminate listening data",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/kanye-west-russia-shows-canceled-venue-1236323787/",
-    "source": "billboard",
-    "title": "Ye’s Russia Shows Canceled After Venue Says No Rental Agreement Has Been Signed",
-    "url": "https://www.billboard.com/music/rb-hip-hop/kanye-west-russia-shows-canceled-venue-1236323787/",
-    "publishedAt": "2026-08-25T15:44:57.000Z",
-    "summary": "Yeezy was slated to perform a pair of shows at Gazprom Arena in October.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/latin/shakira-burna-boy-dai-dai-sony-music-latin-exec-interview-1236323773/",
-    "source": "billboard",
-    "title": "Shakira & Burna Boy’s ‘Dai Dai’ Continues Its Global Charts Reign: Here’s How the Song Took Over",
-    "url": "https://www.billboard.com/music/latin/shakira-burna-boy-dai-dai-sony-music-latin-exec-interview-1236323773/",
-    "publishedAt": "2026-08-25T15:37:08.000Z",
-    "summary": "Sony Music U.S. Latin’s GM Esteban Geller talks about the song’s continued success, even one month after the end of the World Cup.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/hadestown-musical-digital-blu-ray-official-release-2026-1236323489/",
-    "source": "billboard",
-    "title": "Tony-Winning ‘Hadestown’ Musical Arrives on Digital Ahead of Blu-ray & DVD Release",
-    "url": "https://www.billboard.com/culture/product-recommendations/hadestown-musical-digital-blu-ray-official-release-2026-1236323489/",
-    "publishedAt": "2026-08-25T15:35:30.000Z",
-    "summary": "Anaïs Mitchell’s acclaimed musical, which won eight Tony Awards, including Best Musical, is making its way from the stage to the home screen.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/harry-styles-showers-after-shows-surprisingly-deep-reason-1236323794/",
-    "source": "billboard",
-    "title": "Harry Styles Reveals the Surprisingly Deep Reason He Takes a Shower Immediately After Every Show",
-    "url": "https://www.billboard.com/music/music-news/harry-styles-showers-after-shows-surprisingly-deep-reason-1236323794/",
-    "publishedAt": "2026-08-25T15:29:05.000Z",
-    "summary": "It's not just about hygiene for the singer (although that's important, too).",
     "image": null
   },
   {
@@ -288,6 +360,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMivAFBVV95cUxQc0NCaTBpVXdDNl9jRmJTQXFPSndjREJDMERsb05VdG1xcS04TWZ5SHd2RmNvbVRQMWRxdGhqSktDVmNQb3JBRUp5U0xnUlFnVmdVQlJQRDU4QWs5U3EzeUpmTlhrM2hjZmUtSXktTG5CWThTS1FKTWl1TXU2eVlEUlZSeG1vbG01a1VGRjRqc3Q5Z2hXSHJxTThldmlESDl3Q0ZDVkdJd3NTUnQwNGJsV3l1UnZzVV91RUJqdw?oc=5",
+    "source": "nme",
+    "title": "Ridley Scott disagrees with Quentin Tarantino that he made this century’s best film - NME",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc0NCaTBpVXdDNl9jRmJTQXFPSndjREJDMERsb05VdG1xcS04TWZ5SHd2RmNvbVRQMWRxdGhqSktDVmNQb3JBRUp5U0xnUlFnVmdVQlJQRDU4QWs5U3EzeUpmTlhrM2hjZmUtSXktTG5CWThTS1FKTWl1TXU2eVlEUlZSeG1vbG01a1VGRjRqc3Q5Z2hXSHJxTThldmlESDl3Q0ZDVkdJd3NTUnQwNGJsV3l1UnZzVV91RUJqdw?oc=5",
+    "publishedAt": "2026-08-25T11:08:29.000Z",
+    "summary": "Ridley Scott disagrees with Quentin Tarantino that he made this century’s best film NME",
+    "image": null
+  },
+  {
     "id": "nme-https://news.google.com/rss/articles/CBMikAJBVV95cUxNMGh4dUJWR0tCa1lpQWxNTjZISlctMkJwenFfYjl6QjZzUVdScm5zZlVMWmpoSzVpRnhhVlRXLWpqeDliOElobzdiUENnTGpfX2YyN1hfNlFxQm9BRnd1WVN6bnRxZ2tHOHhRZVFJdktUbDItRTItT0p2UGtlSUxrREI0Sm9qV1pYa0ptSEk1aTMxZXk0eGRENDd2TFVwSWRtaWNDNGhrZ0FtalcyajBlSTcxX3JYXzV0b0RtaTNHWndVQnQ5enVmbjYxWDNWQzNfaU0tWVl6c1FmZC13N2dreTRwQ3AzREtMY1BDU0cyQmFWcjVpNk4wcHBqOVNmZHBib21VR0RvODdPLXR1bGh0aA?oc=5",
     "source": "nme",
     "title": "Reggie Watts dropped from festivals with theme song pulled from ‘Comedy Bang Bang’ podcast after allegations of \"reckless\" drug use in relationships - NME",
@@ -306,12 +387,12 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/johnny-marr-the-smiths-its-time-single-1235614460/",
-    "source": "rolling-stone",
-    "title": "Johnny Marr Finds Defiance in Idealism on New Single ‘It’s Time’",
-    "url": "https://www.rollingstone.com/music/music-news/johnny-marr-the-smiths-its-time-single-1235614460/",
-    "publishedAt": "2026-08-25T08:02:53.000Z",
-    "summary": "The Smiths guitarist will release his fifth solo album, The Age of Everything, in October",
+    "id": "nme-https://news.google.com/rss/articles/CBMiywFBVV95cUxONld2Tzc3a3g4VUdEb2kwRmFfRDdkYWx1bFBubGt6TURVUjMzV3o2ZnpfTldWcGUzRS01Z2trY2tQT0RtclpsZEFrampBTTZRb2ZkeHVsRFVEVWJoV2VvLWd2RzhVVVdUUzUxdmJJaTFjRWY2X3ozQUFudDFxd2dGZVJ2YUhHQ09vaVpzOGJaanRqUTNpRlVIUElYYUFqajJEU3VOZlNOc19jdTk2aUt4UkczTEVBczE5QkQ2LS1HaDh4VGN0SVJmMnZCRQ?oc=5",
+    "source": "nme",
+    "title": "Mastodon on losing Brent Hinds and launching a new chapter: “As much as we're going through grieving, we feel emboldened” - NME",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONld2Tzc3a3g4VUdEb2kwRmFfRDdkYWx1bFBubGt6TURVUjMzV3o2ZnpfTldWcGUzRS01Z2trY2tQT0RtclpsZEFrampBTTZRb2ZkeHVsRFVEVWJoV2VvLWd2RzhVVVdUUzUxdmJJaTFjRWY2X3ozQUFudDFxd2dGZVJ2YUhHQ09vaVpzOGJaanRqUTNpRlVIUElYYUFqajJEU3VOZlNOc19jdTk2aUt4UkczTEVBczE5QkQ2LS1HaDh4VGN0SVJmMnZCRQ?oc=5",
+    "publishedAt": "2026-08-25T08:04:10.000Z",
+    "summary": "Mastodon on losing Brent Hinds and launching a new chapter: “As much as we're going through grieving, we feel emboldened” NME",
     "image": null
   },
   {
@@ -330,24 +411,6 @@
     "url": "https://www.uncut.co.uk/features/how-bruce-springsteen-changed-the-way-we-see-america-155970/",
     "publishedAt": "2026-08-25T07:44:04.000Z",
     "summary": "From the boardwalks of Asbury Park to the highways, factories and small towns of the American heartland, Bruce Springsteen spent six decades creating one of popular culture's most enduring visions of the United States",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/jelly-roll-donald-trump-jimmy-kimmel-live-guest-host-1235614456/",
-    "source": "rolling-stone",
-    "title": "Jelly Roll Urges Trump to Lose Weight: ‘Trust Me, You’ll Be Happy to See Your Penis Again’",
-    "url": "https://www.rollingstone.com/music/music-news/jelly-roll-donald-trump-jimmy-kimmel-live-guest-host-1235614456/",
-    "publishedAt": "2026-08-25T07:22:04.000Z",
-    "summary": "The country singer is the guest host of Jimmy Kimmel Live this week",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/taylor-swift-honor-country-roots-tim-mcgraw-1235614372/",
-    "source": "rolling-stone",
-    "title": "Taylor Swift Talks Honoring Her Country Roots ‘More and More’ in Rare Interview",
-    "url": "https://www.rollingstone.com/music/music-news/taylor-swift-honor-country-roots-tim-mcgraw-1235614372/",
-    "publishedAt": "2026-08-25T00:48:36.000Z",
-    "summary": "The superstar spoke with Recording Academy CEO Harvey Mason Jr. for the institution’s Icon Sessions series",
     "image": null
   },
   {
@@ -375,24 +438,6 @@
     "url": "https://loudwire.com/most-played-cover-songs-rock-metal/",
     "publishedAt": "2026-08-24T21:28:30.000Z",
     "summary": "We combed though setlists of the biggest names in rock and metal to find out their most played cover songs. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/michael-anthony-runnin-with-the-devil-jason-bonham-1235614234/",
-    "source": "rolling-stone",
-    "title": "Watch Van Halen’s Michael Anthony Play ‘Runnin’ With The Devil’ With Jason Bonham",
-    "url": "https://www.rollingstone.com/music/music-news/michael-anthony-runnin-with-the-devil-jason-bonham-1235614234/",
-    "publishedAt": "2026-08-24T21:14:21.000Z",
-    "summary": "It was the first time in the 16-year history of Jason Bonham's Led Zeppelin Evening that a song not found in the Zeppelin catalog was performed at one of their shows",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/linda-mccartney-usps-stamp-collection-1235614126/",
-    "source": "rolling-stone",
-    "title": "Photographer Linda McCartney to Be Honored With USPS Stamp Collection",
-    "url": "https://www.rollingstone.com/music/music-news/linda-mccartney-usps-stamp-collection-1235614126/",
-    "publishedAt": "2026-08-24T20:55:18.000Z",
-    "summary": "McCartney was the first woman to shoot the cover of Rolling Stone, and she herself appeared on the cover with husband Paul twice",
     "image": null
   },
   {
@@ -459,30 +504,12 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/story/listen-to-olivia-rodrigos-new-song-serena-joy/",
-    "source": "pitchfork",
-    "title": "Listen to Olivia Rodrigo’s New Song “Serena Joy”",
-    "url": "https://pitchfork.com/story/listen-to-olivia-rodrigos-new-song-serena-joy/",
-    "publishedAt": "2026-08-24T16:24:51.000Z",
-    "summary": "The one-off single takes its name from a female character in Margaret Atwood’s The Handmaid’s Tale",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaWluTEVmYjd5bk5xZ0pQbUhmSU9qbm04aXltOVU2TjV6QzRLUVpYcklkUmREbmJsMWRRdEJ5UXNGRUJhOC0yMnVLQ29nS0YzbklRODliSTBEMmY5RDZsTmh5cHNhQnhYYnA3OGJjM3hVVFoycDZsazFqUFRJNzF3RDllYWlLOGhldHBjVGR2ak9Bb29SUFppbTBtN0xadnJiTUhEUkQwaHltUUs5Q3Y3eVY0OURudlRFWExvMFJPbEQ2Y3cxVnMtMmxiOWtDTEFoSWh3?oc=5",
     "source": "nme",
     "title": "Nia Archives announces massive 'Emotional' world tour of UK, Europe, North America, Japan and Australia - NME",
     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaWluTEVmYjd5bk5xZ0pQbUhmSU9qbm04aXltOVU2TjV6QzRLUVpYcklkUmREbmJsMWRRdEJ5UXNGRUJhOC0yMnVLQ29nS0YzbklRODliSTBEMmY5RDZsTmh5cHNhQnhYYnA3OGJjM3hVVFoycDZsazFqUFRJNzF3RDllYWlLOGhldHBjVGR2ak9Bb29SUFppbTBtN0xadnJiTUhEUkQwaHltUUs5Q3Y3eVY0OURudlRFWExvMFJPbEQ2Y3cxVnMtMmxiOWtDTEFoSWh3?oc=5",
     "publishedAt": "2026-08-24T15:07:01.000Z",
     "summary": "Nia Archives announces massive 'Emotional' world tour of UK, Europe, North America, Japan and Australia NME",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/gathering-of-the-juggalos-2026-police-drugs/",
-    "source": "loudwire",
-    "title": "'Hundreds of Pounds of Drugs' Seized at 2026 Juggalo Festival",
-    "url": "https://loudwire.com/gathering-of-the-juggalos-2026-police-drugs/",
-    "publishedAt": "2026-08-24T15:01:21.000Z",
-    "summary": "Local police were cracking down on drug enforcement as Gathering of the Juggalos moved to a new 2026 location. Continue reading…",
     "image": null
   },
   {
@@ -504,15 +531,6 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/jake-luhrs-dream-collaborator-august-burns-red-interview/",
-    "source": "loudwire",
-    "title": "Jake Luhrs' Dream Collaborator Has Already Worn Band's T-Shirt",
-    "url": "https://loudwire.com/jake-luhrs-dream-collaborator-august-burns-red-interview/",
-    "publishedAt": "2026-08-24T12:38:58.000Z",
-    "summary": "The August Burns Red singer is aiming high for a collaboration, but shares that there's photographic footage of this person donning one of his band's t-shirts. Continue reading…",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/jimmy-eat-world-the-piece-hall-halifax-live-review/",
     "source": "louder-than-war",
     "title": "Jimmy Eat World: The Piece Hall, Halifax – Live Review",
@@ -528,24 +546,6 @@
     "url": "https://louderthanwar.com/in-another-world-the-four-seasons-of-talk-talk-book-review/",
     "publishedAt": "2026-08-24T11:22:24.000Z",
     "summary": "In Another World: The Four Seasons of Talk Talk By Graeme Thomson Published by New Modern (2026), out now In Another World is a great exploration of what makes Talk Talk so unique, and does much to reveal the man behind the genius image of Mark Hollis. The legend around Talk Talk has become a […] The post In Another World: The Four Seasons of Talk Talk – Book Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMiywFBVV95cUxOZUpEMW5NWXlGSHNpOXc5UUlwb0xqSGlLMHdmeFdlSUtuS0pNRGZ1dWpLMHAzamlTRGpnai1WZ1RXMFNQVHlCYUY4LVZIVVVJc0xUUXNQS3l5TFNzVEY0TjEtOGtyYkxaSXg3ZXRRTDJ6MkFlMzBNc1FBczc1ZU1IczBIendwMXpFLUd0YkpaX2djRUZZdUZKZmhSbFBTOTdCLXJFVEhFTGhHaTcyTTZONVU5SVFQOVdQcW83Znoyc0laY01mb2I5V1JSMA?oc=5",
-    "source": "nme",
-    "title": "Police seize hundreds of pounds of drugs and make three arrests at Gathering Of The Juggalos - NME",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZUpEMW5NWXlGSHNpOXc5UUlwb0xqSGlLMHdmeFdlSUtuS0pNRGZ1dWpLMHAzamlTRGpnai1WZ1RXMFNQVHlCYUY4LVZIVVVJc0xUUXNQS3l5TFNzVEY0TjEtOGtyYkxaSXg3ZXRRTDJ6MkFlMzBNc1FBczc1ZU1IczBIendwMXpFLUd0YkpaX2djRUZZdUZKZmhSbFBTOTdCLXJFVEhFTGhHaTcyTTZONVU5SVFQOVdQcW83Znoyc0laY01mb2I5V1JSMA?oc=5",
-    "publishedAt": "2026-08-24T11:00:00.000Z",
-    "summary": "Police seize hundreds of pounds of drugs and make three arrests at Gathering Of The Juggalos NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMirgFBVV95cUxPZnhxMGN2Y2pIcnFQSnY2QWxCMXVDTjNIdHY4VnlCMVB2b2IwejZFV0Y5S0xjanZFbV96WVhfbWVrOWdhZzVTYXNOcmlyZFpZU2dRTVVyVjRGci1iWldFZDhFVnpac1dzQ05XU0VtTGtnQS0tT04yZDdmV2xPY19EN2diemVpd2FyWUZsdElkRkRXUHhYcE1SR0hmQnZDQXAxdzAwd1dOaGFQSU5yalE?oc=5",
-    "source": "nme",
-    "title": "Taylor Sheridan accused of stealing ‘Yellowstone’ from 2016 pitch in copyright lawsuit - NME",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZnhxMGN2Y2pIcnFQSnY2QWxCMXVDTjNIdHY4VnlCMVB2b2IwejZFV0Y5S0xjanZFbV96WVhfbWVrOWdhZzVTYXNOcmlyZFpZU2dRTVVyVjRGci1iWldFZDhFVnpac1dzQ05XU0VtTGtnQS0tT04yZDdmV2xPY19EN2diemVpd2FyWUZsdElkRkRXUHhYcE1SR0hmQnZDQXAxdzAwd1dOaGFQSU5yalE?oc=5",
-    "publishedAt": "2026-08-24T10:10:48.000Z",
-    "summary": "Taylor Sheridan accused of stealing ‘Yellowstone’ from 2016 pitch in copyright lawsuit NME",
     "image": null
   },
   {
