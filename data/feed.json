@@ -1,5 +1,23 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/concerts/laneway-festival-2027-dates-1236323649/",
+    "source": "billboard",
+    "title": "Australia’s Laneway Festival Confirms 2027 Dates",
+    "url": "https://www.billboard.com/music/concerts/laneway-festival-2027-dates-1236323649/",
+    "publishedAt": "2026-08-25T04:04:23.000Z",
+    "summary": "It follows confirmation earlier this month that Adelaide and Perth would miss out on the festival in 2027.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/aria-sets-ai-eligibility-rules/",
+    "source": "billboard",
+    "title": "ARIA Sets AI Eligibility Rules for Its Charts, Barring Wholly AI-Generated Tracks",
+    "url": "https://www.billboard.com/pro/aria-sets-ai-eligibility-rules/",
+    "publishedAt": "2026-08-25T03:57:27.000Z",
+    "summary": "To qualify, a recording must be \"substantially human-made\" and raise \"no stream or chart manipulation concerns.\"",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/taylor-swift-honor-country-roots-tim-mcgraw-1235614372/",
     "source": "rolling-stone",
     "title": "Taylor Swift Talks Honoring Her Country Roots ‘More and More’ in Rare Interview",
@@ -117,24 +135,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/stray-kids-the-dominate-experience-blu-ray-dvd-watch-online-1236322622/",
-    "source": "billboard",
-    "title": "Stray Kids’ ‘The dominATE Experience’ Concert Film Is Out on Blu-ray & It Includes a Bonus Performance",
-    "url": "https://www.billboard.com/culture/product-recommendations/stray-kids-the-dominate-experience-blu-ray-dvd-watch-online-1236322622/",
-    "publishedAt": "2026-08-24T21:08:29.000Z",
-    "summary": "The concert film follows the global K-pop stars onstage & backstage during their SoFi Stadium dates on their Dominate World Tour last year.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/new-albums-2026-calendar-new-music-releases-this-year/",
-    "source": "billboard",
-    "title": "Looking Ahead: A Release Calendar of Upcoming Albums in 2026",
-    "url": "https://www.billboard.com/lists/new-albums-2026-calendar-new-music-releases-this-year/",
-    "publishedAt": "2026-08-24T21:00:51.000Z",
-    "summary": "We'll be updating our list as musicians announce their new music, so keep checking back for the latest!",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/linda-mccartney-usps-stamp-collection-1235614126/",
     "source": "rolling-stone",
     "title": "Photographer Linda McCartney to Be Honored With USPS Stamp Collection",
@@ -164,7 +164,7 @@
   {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/lil-durk-trial-opening-statement-1235612620/",
     "source": "rolling-stone",
-    "title": "Lil Durk Trial Openings: Defense Claims Rapper Unfairly Offered as ‘Big Fish’ By Co-Defendant",
+    "title": "Lil Durk Trial Openings: Rapper Falsely Cast as ‘Big Fish,’ Lawyer Says",
     "url": "https://www.rollingstone.com/music/music-news/lil-durk-trial-opening-statement-1235612620/",
     "publishedAt": "2026-08-24T18:44:21.000Z",
     "summary": "“Mr. Banks had nothing to do with it. He was not there,” rapper’s defense lawyer said in her opening statement",
