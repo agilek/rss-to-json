@@ -1,5 +1,131 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/country/grand-ole-opry-dolly-parton-1236324932/",
+    "source": "billboard",
+    "title": "Carly Pearce & More Will Honor Dolly Parton This Weekend at the Grand Ole Opry",
+    "url": "https://www.billboard.com/music/country/grand-ole-opry-dolly-parton-1236324932/",
+    "publishedAt": "2026-08-26T16:42:55.000Z",
+    "summary": "The Country Music Hall of Famer died on Aug. 25 at age 80.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/dolly-parton-cited-by-judge-striking-down-texas-drag-law/",
+    "source": "billboard",
+    "title": "Dolly Parton Cited by Judge as He Strikes Down Texas Drag Law as Unconstitutional",
+    "url": "https://www.billboard.com/pro/dolly-parton-cited-by-judge-striking-down-texas-drag-law/",
+    "publishedAt": "2026-08-26T16:24:01.000Z",
+    "summary": "The judge said the law was so broad that it might have even been turned against Parton for her \"flamboyant clothes and breast exposure.\"",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/tim-curry-death-rocky-horror-1236324959/",
+    "source": "billboard",
+    "title": "Tim Curry, Star of ‘The Rocky Horror Picture Show,’ Dies at 80",
+    "url": "https://www.billboard.com/music/music-news/tim-curry-death-rocky-horror-1236324959/",
+    "publishedAt": "2026-08-26T16:22:49.000Z",
+    "summary": "The acclaimed British actor, author, comedian and singer was best known for playing cross-dressing Dr. Frank-N-Furter in the iconic late night movie classic.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/tim-curry-the-rocky-horror-picture-show-star-dies-at-80/",
+    "source": "pitchfork",
+    "title": "Tim Curry, Rocky Horror Picture Show Star, Dies at 80",
+    "url": "https://pitchfork.com/story/tim-curry-the-rocky-horror-picture-show-star-dies-at-80/",
+    "publishedAt": "2026-08-26T16:10:22.000Z",
+    "summary": "The actor also played Pennywise the Clown in Stephen King’s It",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/best-juan-gabriel-songs/",
+    "source": "billboard",
+    "title": "Juan Gabriel’s 20 Best Songs of All Time, Ranked (Staff Picks)",
+    "url": "https://www.billboard.com/lists/best-juan-gabriel-songs/",
+    "publishedAt": "2026-08-26T16:10:01.000Z",
+    "summary": "A decade after his death, Billboard celebrates Gabriel's greatest hits of all time. From heartbreak anthems to pop gems and mariachi classics, see which song takes the No. 1 spot.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/tim-curry-rocky-horror-dead-80/",
+    "source": "loudwire",
+    "title": "'Rocky Horror' Actor Tim Curry Dead at 80",
+    "url": "https://loudwire.com/tim-curry-rocky-horror-dead-80/",
+    "publishedAt": "2026-08-26T16:08:41.000Z",
+    "summary": "The actor was best known for his role as the campy, cross-dressing Dr. Frank-N-Furter. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/dolly-parton-imagination-library-of-congress-1236324296/",
+    "source": "billboard",
+    "title": "Dolly Parton’s Imagination Library Program Honored by Library of Congress: ‘Titan of Children’s Literacy’",
+    "url": "https://www.billboard.com/music/music-news/dolly-parton-imagination-library-of-congress-1236324296/",
+    "publishedAt": "2026-08-26T16:03:25.000Z",
+    "summary": "The icon and literacy advocate died at the age of 80.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/jay-z-in-8-trailer-rick-rubin-1235615749/",
+    "source": "rolling-stone",
+    "title": "Jay-Z Reintroduces Himself Once More in New ‘JAŸ-Z in 8’ Trailer",
+    "url": "https://www.rollingstone.com/music/music-news/jay-z-in-8-trailer-rick-rubin-1235615749/",
+    "publishedAt": "2026-08-26T16:01:44.000Z",
+    "summary": "The docuseries, which was directed by and co-stars Rick Rubin, will premiere in September",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/tv-film/jay-z-rick-rubin-hbo-max-docuseries-release-date-trailer-1236324532/",
+    "source": "billboard",
+    "title": "JAŸ-Z & Rick Rubin’s HBO Max Docuseries Has a Release Date: Watch a New Trailer",
+    "url": "https://www.billboard.com/culture/tv-film/jay-z-rick-rubin-hbo-max-docuseries-release-date-trailer-1236324532/",
+    "publishedAt": "2026-08-26T16:00:00.000Z",
+    "summary": "JAŸ-Z in 8 will feature eight episodes, with two airing every Friday starting in September.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/country/ella-langley-dolly-parton-tribute-1236324882/",
+    "source": "billboard",
+    "title": "Ella Langley Pays Tribute to Dolly Parton: ‘You Paved The Way For So Many To Be Brave’",
+    "url": "https://www.billboard.com/music/country/ella-langley-dolly-parton-tribute-1236324882/",
+    "publishedAt": "2026-08-26T15:56:41.000Z",
+    "summary": "The country icon passed away on Tuesday (Aug. 25) at age 80.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-album-reviews/mastodon-marrow-deep-album-review-1235609863/",
+    "source": "rolling-stone",
+    "title": "Mastodon’s New Album, ‘Marrow Deep,’ May Be Their ‘Shine On You Crazy Diamond’",
+    "url": "https://www.rollingstone.com/music/music-album-reviews/mastodon-marrow-deep-album-review-1235609863/",
+    "publishedAt": "2026-08-26T15:06:57.000Z",
+    "summary": "Recorded a week after the death of former bandmate Brent Hinds, the Atlanta metal crew mines their grief for one of their most emotional albums",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/dolly-parton-legacy-world-united-1235615337/",
+    "source": "rolling-stone",
+    "title": "We Can All Agree on Dolly Parton. She Wanted Something More From Us",
+    "url": "https://www.rollingstone.com/music/music-features/dolly-parton-legacy-world-united-1235615337/",
+    "publishedAt": "2026-08-26T15:05:27.000Z",
+    "summary": "Dolly knew that if we could universally love her, we could also love and understand one another",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/the-beatles-rare-working-demo-day-tripper-1235615793/",
+    "source": "rolling-stone",
+    "title": "Paul McCartney and John Lennon Crack Each Other Up in Rare ‘Day Tripper’ Demo",
+    "url": "https://www.rollingstone.com/music/music-news/the-beatles-rare-working-demo-day-tripper-1235615793/",
+    "publishedAt": "2026-08-26T14:55:44.000Z",
+    "summary": "The “Songwriting Work Tape” version of the classic single was recorded at Lennon’s house and will be included on the upcoming special edition of Rubber Soul",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/jack-white-pays-tribute-to-dolly-parton-with-jolene-cover/",
+    "source": "pitchfork",
+    "title": "Watch Jack White Pay Tribute to Dolly Parton With “Jolene” Cover",
+    "url": "https://pitchfork.com/story/jack-white-pays-tribute-to-dolly-parton-with-jolene-cover/",
+    "publishedAt": "2026-08-26T14:55:18.000Z",
+    "summary": "“Instant Sainthood,” he wrote in tribute to the late star, before reviving the White Stripes live staple for the first time in 19 years",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/video/alex-warren-wild-child-interview/",
     "source": "billboard",
     "title": "Alex Warren Talks New Album ‘Wild Child,’ Grief & Success of ‘Ordinary’ | Billboard News Interview",
@@ -36,33 +162,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/awards/2026-world-soundtrack-awards-nominations-list-charli-xcx-1236308817/",
-    "source": "billboard",
-    "title": "Charli xcx Nominated for Best Original Song at 2026 World Soundtrack Awards: Will Oscar Nod Follow?",
-    "url": "https://www.billboard.com/music/awards/2026-world-soundtrack-awards-nominations-list-charli-xcx-1236308817/",
-    "publishedAt": "2026-08-26T13:43:50.000Z",
-    "summary": "The 26th edition of the World Soundtrack Awards Ceremony & Concert is set for October.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/post-malone-august-26th-mixtape-available-streaming-vinyl-1236324842/",
-    "source": "billboard",
-    "title": "Post Malone’s Beloved ‘August 26th’ Mixtape Available on Streaming For First Time",
-    "url": "https://www.billboard.com/music/rb-hip-hop/post-malone-august-26th-mixtape-available-streaming-vinyl-1236324842/",
-    "publishedAt": "2026-08-26T13:41:09.000Z",
-    "summary": "The rapper marked the 10th anniversary of his newly remastered first full-length project by issuing it on vinyl as well.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/dolly-parton-death-music-industry-reactions/",
-    "source": "billboard",
-    "title": "Dolly Parton Dead at 80: Music Executives Remember the Country Icon",
-    "url": "https://www.billboard.com/pro/dolly-parton-death-music-industry-reactions/",
-    "publishedAt": "2026-08-26T13:27:00.000Z",
-    "summary": "Following the music legend's passing at the age of 80, industry executives are sharing their reactions and condolences",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/uncategorised/skip-james-devil-got-my-woman-the-haunting-last-stand-of-a-rediscovered-bluesman-156017/",
     "source": "uncut",
     "title": "Skip James’ Devil Got My Woman: the haunting last stand of a rediscovered bluesman",
@@ -72,39 +171,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/pop/barry-manilow-taking-break-las-vegas-residency-statement-1236324832/",
-    "source": "billboard",
-    "title": "Barry Manilow Taking a Break From Las Vegas Residency After Canceling Shows: ‘We All Need To Sit Down and Shut Up’",
-    "url": "https://www.billboard.com/music/pop/barry-manilow-taking-break-las-vegas-residency-statement-1236324832/",
-    "publishedAt": "2026-08-26T13:09:06.000Z",
-    "summary": "The singer who had surgery for stage 1 lung cancer in December, promised to be back on stage in October.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rock/taylor-momsen-join-soundgarden-halftime-seahawks-home-opener-1236324811/",
-    "source": "billboard",
-    "title": "Taylor Momsen Joining Soundgarden For Halftime Show at Seattle Seahawks Season Opener",
-    "url": "https://www.billboard.com/music/rock/taylor-momsen-join-soundgarden-halftime-seahawks-home-opener-1236324811/",
-    "publishedAt": "2026-08-26T12:37:07.000Z",
-    "summary": "The band will perform at for the Super Bowl champs' home game against the New England Patriots at Lumen Field on Sept. 9.",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/reviews/dinosaur-jr-reach-a-new-peak-on-there-near-156015/",
     "source": "uncut",
     "title": "Dinosaur Jr reach a new peak on There Near",
     "url": "https://www.uncut.co.uk/reviews/dinosaur-jr-reach-a-new-peak-on-there-near-156015/",
     "publishedAt": "2026-08-26T12:27:48.000Z",
     "summary": "J Mascis, Lou Barlow and Murph strike a near-perfect balance between past and present on the finest of their remarkable second act",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/country/jelly-roll-tribute-dolly-parton-1236324814/",
-    "source": "billboard",
-    "title": "‘She Might Be The Last American That Everyone Liked’: Jelly Roll Pays Tribute to Dolly Parton",
-    "url": "https://www.billboard.com/music/country/jelly-roll-tribute-dolly-parton-1236324814/",
-    "publishedAt": "2026-08-26T12:03:52.000Z",
-    "summary": "“She was infinitely talented. She was relentlessly funny and adored by all. She might be the last American that everyone liked.\"",
     "image": null
   },
   {
@@ -162,15 +234,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/jay-z-tottenham-london-shows-pop-up-store-1236324780/",
-    "source": "billboard",
-    "title": "Jay-Z 30 Pop-Up Experience to Open In London Ahead of Historic Tottenham Hotspur Stadium Shows",
-    "url": "https://www.billboard.com/music/music-news/jay-z-tottenham-london-shows-pop-up-store-1236324780/",
-    "publishedAt": "2026-08-26T09:35:45.000Z",
-    "summary": "Fans can shop limited edition merchandise created exclusively for the concerts.",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMinwFBVV95cUxONGhwRjZZbS1Vc2o3RzhNVi1yX0FKMGVFTVJpcTBMRTZBN1VxYmhOWV9ONXdjeVNVNjF3RmZreWRHT0toWWpGQk5WTlhaVUJCSVNFVHNWbmFObmtENW9LZklJdWNUNDRkdUNPNDROSlRuRWtpUjBSSG95aWJLWTdOMHVwY3JzWGVENW1yWEo2UzhRalIyMi0zM2ZGYmNZVlU?oc=5",
     "source": "nme",
     "title": "Ed Sheeran reacts to being mocked in new Ali G movie trailer - NME",
@@ -194,13 +257,13 @@
     "title": "Kesha Pays Tribute to Dolly Parton With ‘Old Flames (Can’t Hold a Candle to You)’ Cover",
     "url": "https://www.rollingstone.com/music/music-news/kesha-dolly-parton-tribute-live-cover-1235615710/",
     "publishedAt": "2026-08-26T07:58:17.000Z",
-    "summary": "Parton's 1980 hit song was co-written by Kesha's mom, Pebe Sebert",
+    "summary": "Parton’s 1980 hit song was co-written by Kesha’s mom, Pebe Sebert",
     "image": null
   },
   {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/jack-white-dolly-parton-jolene-cover-live-tribute-1235615698/",
     "source": "rolling-stone",
-    "title": "Watch Jack White’s Emotional Cover ‘Jolene’ in Honor of Dolly Parton",
+    "title": "Watch Jack White’s Emotional Cover of ‘Jolene’ in Honor of Dolly Parton",
     "url": "https://www.rollingstone.com/music/music-news/jack-white-dolly-parton-jolene-cover-live-tribute-1235615698/",
     "publishedAt": "2026-08-26T07:12:39.000Z",
     "summary": "The musician performed the hit song during his concert in London to pay tribute to the country star following her death on Tuesday",
@@ -239,34 +302,7 @@
     "title": "Taylor Swift Celebrates Dolly Parton’s ‘Dazzling’ Legacy",
     "url": "https://www.rollingstone.com/music/music-country/taylor-swift-dolly-parton-tribute-1235615646/",
     "publishedAt": "2026-08-26T03:19:05.000Z",
-    "summary": "\"She possessed the softest heart when it came to the struggles of others, and a backbone of steel to defend her own self worth as an artist,\" Swift wrote in her tribute",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/beyonce-dolly-parton-tribute-cowboy-carter-1235615579/",
-    "source": "rolling-stone",
-    "title": "Beyoncé Honors ‘Cowboy Carter’ Collaborator Dolly Parton: ‘You Were the Barometer’",
-    "url": "https://www.rollingstone.com/music/music-country/beyonce-dolly-parton-tribute-cowboy-carter-1235615579/",
-    "publishedAt": "2026-08-26T02:17:32.000Z",
-    "summary": "Beyoncé reimagined Parton's “Jolene” for her 2024 country-inspired album",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/orville-peck-remembers-dolly-parton-1235615578/",
-    "source": "rolling-stone",
-    "title": "Orville Peck Remembers Dolly Parton During Emotional Appearance in London",
-    "url": "https://www.rollingstone.com/music/music-country/orville-peck-remembers-dolly-parton-1235615578/",
-    "publishedAt": "2026-08-26T01:52:13.000Z",
-    "summary": "\"Dolly was my hero,\" the masked country singer said, before performing a cover of Parton's \"I Will Always Love You\" during a meet-and-greet at Rough Trade record store",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/sabrina-carpenter-dolly-parton-please-please-please-tribute-1235615500/",
-    "source": "rolling-stone",
-    "title": "Sabrina Carpenter Honors Hero Dolly Parton, Recalls Thinking ‘We Could Be Sisters!’",
-    "url": "https://www.rollingstone.com/music/music-news/sabrina-carpenter-dolly-parton-please-please-please-tribute-1235615500/",
-    "publishedAt": "2026-08-26T00:53:26.000Z",
-    "summary": "The pop star posted several Instagram images from the set of the 'Please Please Please' music video, which they shot together in 2025",
+    "summary": "“She possessed the softest heart when it came to the struggles of others, and a backbone of steel to defend her own self worth as an artist,” Swift wrote in her tribute",
     "image": null
   },
   {
@@ -276,15 +312,6 @@
     "url": "https://loudwire.com/jack-white-jolene-dolly-parton-tribute/",
     "publishedAt": "2026-08-26T00:53:25.000Z",
     "summary": "He hadn't played the song in over 19 years. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/dolly-parton-death-brandi-carlile-tribute-1235615458/",
-    "source": "rolling-stone",
-    "title": "Brandi Carlile on Dolly Parton: ‘She Took a Risk and Accepted Me for Being Gay’",
-    "url": "https://www.rollingstone.com/music/music-country/dolly-parton-death-brandi-carlile-tribute-1235615458/",
-    "publishedAt": "2026-08-26T00:17:20.000Z",
-    "summary": "Carlile, who shared the stage with Parton at the 2019 Newport Folk Festival, remembers the country music songwriter, who died Aug. 25 at 80",
     "image": null
   },
   {
@@ -423,15 +450,6 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/sid-wilson-first-posts-since-split-slipknot/",
-    "source": "loudwire",
-    "title": "Sid Wilson Shares First Social Media Posts Since Slipknot Split",
-    "url": "https://loudwire.com/sid-wilson-first-posts-since-split-slipknot/",
-    "publishedAt": "2026-08-25T14:29:20.000Z",
-    "summary": "Sid Wilson has shared his first posts on social media since his split with Slipknot earlier this month. He shared videos creating mixes on his turntable. Continue reading…",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/smls-jeremiah-chiu-readies-new-album-edge-conditions/",
     "source": "pitchfork",
     "title": "SML’s  Jeremiah Chiu Readies New Album Edge Conditions",
@@ -564,24 +582,6 @@
     "url": "https://www.uncut.co.uk/features/how-bruce-springsteen-changed-the-way-we-see-america-155970/",
     "publishedAt": "2026-08-25T07:44:04.000Z",
     "summary": "From the boardwalks of Asbury Park to the highways, factories and small towns of the American heartland, Bruce Springsteen spent six decades creating one of popular culture's most enduring visions of the United States",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/pitchfork-music-festival-cdmx-2026-announces-full-lineup/",
-    "source": "pitchfork",
-    "title": "Pitchfork Music Festival CDMX 2026 Announces Full Lineup",
-    "url": "https://pitchfork.com/story/pitchfork-music-festival-cdmx-2026-announces-full-lineup/",
-    "publishedAt": "2026-08-24T18:12:12.000Z",
-    "summary": "Wendy Eisenberg, Safety Trance, and Tygapaw are among this year’s acts",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/big-thief-debut-new-triple-album-horsepower-live-in-nashville/",
-    "source": "pitchfork",
-    "title": "Big Thief Debut New Triple Album, Horsepower, Live in Nashville",
-    "url": "https://pitchfork.com/story/big-thief-debut-new-triple-album-horsepower-live-in-nashville/",
-    "publishedAt": "2026-08-24T17:28:49.000Z",
-    "summary": "The 29-song album was performed in full at the Ryman Auditorium alongside special guests Lucinda Williams, Gillian Welch, Iris DeMent, and more",
     "image": null
   },
   {
