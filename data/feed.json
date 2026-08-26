@@ -1,5 +1,23 @@
 [
   {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/tribute-why-we-will-always-love-dolly-parton-rob-sheffield-1235615654/",
+    "source": "rolling-stone",
+    "title": "Why We Will Always Love Dolly Parton",
+    "url": "https://www.rollingstone.com/music/music-features/tribute-why-we-will-always-love-dolly-parton-rob-sheffield-1235615654/",
+    "publishedAt": "2026-08-26T12:00:00.000Z",
+    "summary": "Behind the glitter, she was the toughest, most soulful of songwriters. Remembering the icon who represented the best of American music — and the best of America",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/tony-iommi-new-solo-album-ozzy-interview/",
+    "source": "loudwire",
+    "title": "Tony Iommi Interview: New Solo Album, Ozzy, Back to the Beginning",
+    "url": "https://loudwire.com/tony-iommi-new-solo-album-ozzy-interview/",
+    "publishedAt": "2026-08-26T10:36:10.000Z",
+    "summary": "Black Sabbath's Tony Iommi dives into his next solo album, reflects on Back to the Beginning and celebrates the ongoing legacy of Ozzy Osbourne. Continue reading…",
+    "image": null
+  },
+  {
     "id": "uncut-https://www.uncut.co.uk/uncategorised/the-beatles-share-early-day-tripper-demo-ahead-of-rubber-soul-reissue-156012/",
     "source": "uncut",
     "title": "The Beatles share early “Day Tripper” demo ahead of Rubber Soul reissue",
@@ -225,15 +243,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/dolly-parton-cause-of-death-1235615493/",
-    "source": "rolling-stone",
-    "title": "Dolly Parton’s Cause of Death Revealed",
-    "url": "https://www.rollingstone.com/music/music-country/dolly-parton-cause-of-death-1235615493/",
-    "publishedAt": "2026-08-26T00:07:36.000Z",
-    "summary": "The beloved country icon died on Tuesday at the age of 80",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/rock-metal-covers-dolly-parton-jolene/",
     "source": "loudwire",
     "title": "Best Rock + Metal Covers of Dolly Parton's 'Jolene'",
@@ -245,10 +254,10 @@
   {
     "id": "pitchfork-https://pitchfork.com/story/dolly-parton-remembered-tributes/",
     "source": "pitchfork",
-    "title": "Dolly Parton Remembered: Reba McEntire, Kacey Musgraves, and More Pay Tribute",
+    "title": "Dolly Parton Remembered: Taylor Swift, Reba McEntire, Kacey Musgraves, and More Pay Tribute",
     "url": "https://pitchfork.com/story/dolly-parton-remembered-tributes/",
     "publishedAt": "2026-08-25T21:00:08.000Z",
-    "summary": "Cyndi Lauper, Paul McCartney, Joan Jett, Jack White, and Carol Burnett have each shared their own memories of the country legend, who died today at the age of 80",
+    "summary": "Shania Twain, Beyoncé, Cyndi Lauper, Jane Fonda, Paul McCartney, Joan Jett, Jack White, and Carol Burnett have each shared their own memories of the country legend, who died today at the age of 80",
     "image": null
   },
   {
@@ -402,15 +411,6 @@
     "url": "https://pitchfork.com/story/shudder-to-think-announce-who-sent-you-ep/",
     "publishedAt": "2026-08-25T14:02:55.000Z",
     "summary": "Listen to the title track",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/queens-of-the-stone-age-perfecth/",
-    "source": "loudwire",
-    "title": "Queens of the Stone Age Announce 9th Album 'Perfecth'",
-    "url": "https://loudwire.com/queens-of-the-stone-age-perfecth/",
-    "publishedAt": "2026-08-25T13:45:52.000Z",
-    "summary": "\"Every song sounds like it's from a different world,\" frontman Josh Homme says of the new music. Continue reading…",
     "image": null
   },
   {
