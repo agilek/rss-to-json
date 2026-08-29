@@ -1,11 +1,155 @@
 [
   {
-    "id": "billboard-https://www.billboard.com/lists/the-warning-everythings-falling-album-interview/",
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/taylor-swift-donates-50k-mother-hit-by-car-1235617716/",
+    "source": "rolling-stone",
+    "title": "Taylor Swift Donates $50k to Help Mother Struck by Car",
+    "url": "https://www.rollingstone.com/music/music-news/taylor-swift-donates-50k-mother-hit-by-car-1235617716/",
+    "publishedAt": "2026-08-29T02:28:58.000Z",
+    "summary": "The superstar donated to a GoFundMe launched to help Ashley Taunton, who was hit by a vehicle while helping others on the side of a road",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/young-thug-ysl-slime-language-3-double-album-surprise-1236328050/",
     "source": "billboard",
-    "title": "The Warning Break Down 5 Essential Songs From New Album ‘Everything’s Falling’",
-    "url": "https://www.billboard.com/lists/the-warning-everythings-falling-album-interview/",
-    "publishedAt": "2026-08-28T19:32:44.000Z",
-    "summary": "The Mexican hard rock trio release their fifth LP, further cementing their rise as one of the most exciting young acts on the global stage.",
+    "title": "Young Thug’s YSL Records Surprise-Drops ‘Slime Language 3’ Double Album",
+    "url": "https://www.billboard.com/music/rb-hip-hop/young-thug-ysl-slime-language-3-double-album-surprise-1236328050/",
+    "publishedAt": "2026-08-29T01:00:47.000Z",
+    "summary": "The 41-track project, released late Friday, includes appearances from Lil Baby, Travis Scott, Future, Yeat, Trippie Redd, Cash Cobain & more.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/cardi-b-ah-ha-music-video-1-million-nypd-permits-1236328019/",
+    "source": "billboard",
+    "title": "Cardi B Says ‘AH HA’ Music Video Cost More Than $1M, Claims She Was ‘Overcharged’ by NYPD for Permits: ‘They Was Doing Too Much’",
+    "url": "https://www.billboard.com/music/rb-hip-hop/cardi-b-ah-ha-music-video-1-million-nypd-permits-1236328019/",
+    "publishedAt": "2026-08-29T00:21:28.000Z",
+    "summary": "Cardi shot the twerk-filled visual in Brooklyn.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/lil-durk-murder-trial-week-1-recap/",
+    "source": "billboard",
+    "title": "Lil Durk Trial Week 1 Recap: Flipped OTF Crew Member Calls Quando Rondo Shooting ‘Sloppy’",
+    "url": "https://www.billboard.com/pro/lil-durk-murder-trial-week-1-recap/",
+    "publishedAt": "2026-08-28T22:55:39.000Z",
+    "summary": "Billboard is running down the key moments from the first week of Durk's murder-for-hire trial.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/stella-lefty-credit-the-chicks-summer-you-were-mine-1235616587/",
+    "source": "rolling-stone",
+    "title": "Stella Lefty Interpolates the Chicks’ ‘There‘s Your Trouble’ on New Album",
+    "url": "https://www.rollingstone.com/music/music-news/stella-lefty-credit-the-chicks-summer-you-were-mine-1235616587/",
+    "publishedAt": "2026-08-28T22:53:29.000Z",
+    "summary": "A rep for Lefty confirmed to Rolling Stone that “Summer You Were Mine“ interpolates the Grammy-winning song after fans noticed similarities between the two tracks",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/ice-spice-not-pregnant-out-my-face-music-video-1235617619/",
+    "source": "rolling-stone",
+    "title": "No, Ice Spice Is Not Pregnant",
+    "url": "https://www.rollingstone.com/music/music-news/ice-spice-not-pregnant-out-my-face-music-video-1235617619/",
+    "publishedAt": "2026-08-28T22:49:53.000Z",
+    "summary": "After the rapper appeared to be heavily pregnant in the video for \"Out My Face,\" fans took the imagery literally",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/daniel-donato-ryman-to-roberts-live-album-review-1235617485/",
+    "source": "rolling-stone",
+    "title": "Daniel Donato’s New Live Album Is a Jam Band Fan’s Dream",
+    "url": "https://www.rollingstone.com/music/music-features/daniel-donato-ryman-to-roberts-live-album-review-1235617485/",
+    "publishedAt": "2026-08-28T22:39:11.000Z",
+    "summary": "The guitar ace and his group Cosmic Country capture a pair of shows played the same night in 2025 in Nashville for the breathless three-hour-plus Ryman to Robert's",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/stove-god-cooks-sent-jay-z-hook-new-album-1236327991/",
+    "source": "billboard",
+    "title": "Stove God Cooks Says He Sent Jay-Z a Hook: ‘I Don’t Want No Percentage, Just Send a Roc Chain’",
+    "url": "https://www.billboard.com/music/rb-hip-hop/stove-god-cooks-sent-jay-z-hook-new-album-1236327991/",
+    "publishedAt": "2026-08-28T22:37:54.000Z",
+    "summary": "Let's hope he didn't block his blessings by revealing this interesting tidbit of information as rumors of a new JAY-Z album continue to swirl.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/michael-jackson-top-hit-songs-billboard-hot-100/",
+    "source": "billboard",
+    "title": "Michael Jackson’s Top 50 Hit Songs on the Billboard Hot 100",
+    "url": "https://www.billboard.com/lists/michael-jackson-top-hit-songs-billboard-hot-100/",
+    "publishedAt": "2026-08-28T22:30:00.000Z",
+    "summary": "From \"Rockin' Robin\" to \"Rock With You\" and \"You Rock My World,\" the King of Pop's top hits cross several chapters of his legendary canon.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/lil-durk-murder-for-hire-trial-shooter-grilled-jail-calls-1235617554/",
+    "source": "rolling-stone",
+    "title": "Lil Durk Murder-for-Hire Trial: Admitted Shooter Grilled on Cross, Confronted With Jail Calls",
+    "url": "https://www.rollingstone.com/music/music-news/lil-durk-murder-for-hire-trial-shooter-grilled-jail-calls-1235617554/",
+    "publishedAt": "2026-08-28T22:19:49.000Z",
+    "summary": "Defense lawyer Brian Steel asserted that Kasey “OTF Jam” Hester invented claims against the “All My Life” rapper in the hopes of helping himself",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/olivia-rodrigo-daisy-chain-fields-raises-10-million-charity-1236327985/",
+    "source": "billboard",
+    "title": "Olivia Rodrigo’s Daisy Chain Fields Festival Raises $10 Million for Women’s Charities",
+    "url": "https://www.billboard.com/music/music-news/olivia-rodrigo-daisy-chain-fields-raises-10-million-charity-1236327985/",
+    "publishedAt": "2026-08-28T22:07:10.000Z",
+    "summary": "The list of benefiting organizations includes Planned Parenthood and Center for Reproductive Rights.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/milo-yiannopoulous-arrest-ice-kanye-west-1236327974/",
+    "source": "billboard",
+    "title": "Yeezy Spokesperson Milo Yiannopoulous Arrested by ICE in Louisiana",
+    "url": "https://www.billboard.com/music/rb-hip-hop/milo-yiannopoulous-arrest-ice-kanye-west-1236327974/",
+    "publishedAt": "2026-08-28T22:04:11.000Z",
+    "summary": "According to Homeland Security, the controversial political commentator overstayed a visa after coming to the U.S. in 2019.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/dolly-parton-death-radio-1236327998/",
+    "source": "billboard",
+    "title": "Radio Rallies Around Dolly Parton After Her Death, Led by ‘9 to 5’",
+    "url": "https://www.billboard.com/music/chart-beat/dolly-parton-death-radio-1236327998/",
+    "publishedAt": "2026-08-28T21:47:26.000Z",
+    "summary": "From 62 songs in a row in Nashville to deep cuts and cross-format airplay, programmers have responded to a loss unlike almost any other.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/theartist-new-album-kehlani-tour-up-and-coming-rb-artist-1236327462/",
+    "source": "billboard",
+    "title": "R&B Up-And-Comer of the Month TheARTI$t On The Moment She Realized ‘This Is My Purpose’",
+    "url": "https://www.billboard.com/music/rb-hip-hop/theartist-new-album-kehlani-tour-up-and-coming-rb-artist-1236327462/",
+    "publishedAt": "2026-08-28T21:34:39.000Z",
+    "summary": "The rising Jersey artist talks about her viral single \"Sober,\" new album 'DND' and touring with Kehlani.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/best-new-music-week-poll-vote-olivia-rodrigo-jennie-1236327951/",
+    "source": "billboard",
+    "title": "From Olivia Rodrigo to Alex Warren & JENNIE, Which New Music Release Is Your Favorite This Week? Vote!",
+    "url": "https://www.billboard.com/music/music-news/best-new-music-week-poll-vote-olivia-rodrigo-jennie-1236327951/",
+    "publishedAt": "2026-08-28T21:21:51.000Z",
+    "summary": "Rod Wave, Billy Strings and Erykah Badu & The Alchemist also have new projects out.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/olivia-rodrigo-daisy-chain-festival-donates-10-million-1235617591/",
+    "source": "rolling-stone",
+    "title": "Olivia Rodrigo’s Daisy Chain Fields Festival Raises $10 Million for Women and Girls Nonprofits",
+    "url": "https://www.rollingstone.com/music/music-news/olivia-rodrigo-daisy-chain-festival-donates-10-million-1235617591/",
+    "publishedAt": "2026-08-28T21:03:33.000Z",
+    "summary": "Proceeds from the festival will benefit organizations including National Domestic Workers Alliance, Planned Parenthood, National Institute for Reproductive Health, and more",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/goodwill-record-store-rewind/",
+    "source": "loudwire",
+    "title": "Inside Rewind, Goodwill's New Vinyl And Vintage Music Shop",
+    "url": "https://loudwire.com/goodwill-record-store-rewind/",
+    "publishedAt": "2026-08-28T20:28:17.000Z",
+    "summary": "Goodwill's opening a full-fledged record store in North Carolina this September, complete with vinyl, CDs, and a listening room to test before you buy. Continue reading…",
     "image": null
   },
   {
@@ -27,33 +171,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/lists/exec-turntable-anh-do-global-head-of-music-media-arts-lab/",
-    "source": "billboard",
-    "title": "Executive Turntable: Anh Do Named Global Head of Music at TBWA\\Media Arts Lab",
-    "url": "https://www.billboard.com/lists/exec-turntable-anh-do-global-head-of-music-media-arts-lab/",
-    "publishedAt": "2026-08-28T18:52:25.000Z",
-    "summary": "In this week's column, PRG appoints two to the company's C-suite, WME has a new head of marketing and more music industry hires and promotions.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/beyond-kawaii-asobisystem-future-japanese-idol-culture-1236327878/",
-    "source": "billboard",
-    "title": "Beyond ‘Kawaii’: How ASOBISYSTEM Is Building a Global Future for Japanese Idol Culture",
-    "url": "https://www.billboard.com/music/music-news/beyond-kawaii-asobisystem-future-japanese-idol-culture-1236327878/",
-    "publishedAt": "2026-08-28T18:50:06.000Z",
-    "summary": "Billboard JAPAN talked to ASOBISYSTEM CEO Yusuke Nakagawa about the chances of globalizing Japan’s “oshikatsu” culture.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/jermaine-dupri-drops-lawsuit-claiming-18m-unpaid-royalties/",
-    "source": "billboard",
-    "title": "Jermaine Dupri Drops Lawsuit Claiming $18M in Unpaid Royalties on Mariah Carey & Usher Albums",
-    "url": "https://www.billboard.com/pro/jermaine-dupri-drops-lawsuit-claiming-18m-unpaid-royalties/",
-    "publishedAt": "2026-08-28T18:34:42.000Z",
-    "summary": "Less than two months after he filed it, the hitmaking producer and exec has dropped a case that claimed Sony Music owed him millions.",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/ice-spice-and-lil-yachty-link-up-for-new-song-out-my-face-my-baby/",
     "source": "pitchfork",
     "title": "Ice Spice and Lil Yachty Link Up for New Song “Out My Face (My Baby)”",
@@ -69,15 +186,6 @@
     "url": "https://pitchfork.com/story/julianna-barwick-and-mary-lattimore-shares-songs-from-new-film-score/",
     "publishedAt": "2026-08-28T18:17:03.000Z",
     "summary": "The duo reunited for Threshold, a documentary about Olympic skier Jessie Diggins",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/ninajirachi-ipod-touch-madeon-remix-1236327800/",
-    "source": "billboard",
-    "title": "Madeon’s First Official Remix Since 2012 Is a Shimmering Take on Ninajirachi’s ‘iPod Touch’",
-    "url": "https://www.billboard.com/music/music-news/ninajirachi-ipod-touch-madeon-remix-1236327800/",
-    "publishedAt": "2026-08-28T18:15:42.000Z",
-    "summary": "The French producer's edit infuses her 2025 hit with his take on early 2010s dance nostalgia.",
     "image": null
   },
   {
@@ -99,24 +207,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/miguel-partner-attacks-statement-1236327632/",
-    "source": "billboard",
-    "title": "Miguel Says He & His Partner Have Been Targets of ‘Racist, Anti-Asian Attacks’ & ‘Abusive’ Comments About Their Child",
-    "url": "https://www.billboard.com/music/rb-hip-hop/miguel-partner-attacks-statement-1236327632/",
-    "publishedAt": "2026-08-28T17:46:43.000Z",
-    "summary": "The R&B singer spoke out about being subjected to racism, threats, harassment and stalking in a post on social media.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/tupac-trial-week-2-recap-murder-case-heads-to-jury/",
-    "source": "billboard",
-    "title": "Tupac Trial Week 2 Recap: Murder Case Heads to Jury After Explosive Recording & More Testimony",
-    "url": "https://www.billboard.com/pro/tupac-trial-week-2-recap-murder-case-heads-to-jury/",
-    "publishedAt": "2026-08-28T17:37:56.000Z",
-    "summary": "Billboard is summing up the key moments from the second week of the epic murder trial over the hip-hop legend's 1996 killing.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-features/tiny-habits-keepers-album-interview-1235616230/",
     "source": "rolling-stone",
     "title": "Tiny Habits Against the World",
@@ -126,66 +216,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/prince-career-spanning-timeless-album-rare-unreleased-listen-1236327705/",
-    "source": "billboard",
-    "title": "Prince Estate Releases Funky, Career-Spanning ‘Timeless’ Vault Album Commemorating 10th Anniversary of Singer’s Death: Listen",
-    "url": "https://www.billboard.com/music/rb-hip-hop/prince-career-spanning-timeless-album-rare-unreleased-listen-1236327705/",
-    "publishedAt": "2026-08-28T17:34:32.000Z",
-    "summary": "The collection of rare and previously unreleased songs were recorded between 1977 and 2016, including material recorded when The Purple One was a teenager.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/post-malone-engagement-ring-fiancee-christy-lee-revealed-1236327642/",
-    "source": "billboard",
-    "title": "Post Malone’s ‘Immaculate’ 20-Carat Engagement Ring for Fiancée Christy Lee Revealed by Jeweler",
-    "url": "https://www.billboard.com/music/music-news/post-malone-engagement-ring-fiancee-christy-lee-revealed-1236327642/",
-    "publishedAt": "2026-08-28T17:34:18.000Z",
-    "summary": "News of the couple's engagement arrived earlier in August.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/the-who-rehearsed-with-zak-starkey-1235617418/",
     "source": "rolling-stone",
     "title": "The Who Rehearsed For Possible Tour With Zak Starkey Following Bitter Split: ‘It Sounded Great’",
     "url": "https://www.rollingstone.com/music/music-news/the-who-rehearsed-with-zak-starkey-1235617418/",
     "publishedAt": "2026-08-28T17:32:24.000Z",
     "summary": "The wild soap opera of the Who and Zak Starkey’s acrimonious split has reached a surprising new chapter, and the drummer might be back for their farewell tour in Europe",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/ronnie-milsap-chart-rewind-1976-1236327641/",
-    "source": "billboard",
-    "title": "Chart Rewind: In 1976, Ronnie Milsap Took a ‘Stand’ at No. 1",
-    "url": "https://www.billboard.com/music/chart-beat/ronnie-milsap-chart-rewind-1976-1236327641/",
-    "publishedAt": "2026-08-28T17:27:58.000Z",
-    "summary": "The signature piano lick in “(I’m a) Stand by My Woman Man” generated a legal issue.",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/halsey-concert-movie-the-girl-in-the-tower-review-1235616614/",
-    "source": "rolling-stone",
-    "title": "Halsey Is a Rock Star Rising From the Ashes in ‘The Girl in the Tower’",
-    "url": "https://www.rollingstone.com/music/music-features/halsey-concert-movie-the-girl-in-the-tower-review-1235616614/",
-    "publishedAt": "2026-08-28T17:12:09.000Z",
-    "summary": "Halsey delivers a boundary-pushing performance with a career-spanning set in her first concert film",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/john-mayer-future-dead-and-company-1235617335/",
-    "source": "rolling-stone",
-    "title": "John Mayer Has Some Thoughts on His Future With Dead and Company",
-    "url": "https://www.rollingstone.com/music/music-news/john-mayer-future-dead-and-company-1235617335/",
-    "publishedAt": "2026-08-28T16:40:52.000Z",
-    "summary": "“I’m not saying, ‘You’ll never see me on stage doing that,’” he told Andy Cohen. “I don’t know how you will yet, and I don’t really want to start thinking about actionable ways to do it”",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/dolly-parton-podcast-nashville-memories-songs-1235617391/",
-    "source": "rolling-stone",
-    "title": "Dolly Parton’s Last Public Appearance Spoke Volumes",
-    "url": "https://www.rollingstone.com/music/music-country/dolly-parton-podcast-nashville-memories-songs-1235617391/",
-    "publishedAt": "2026-08-28T16:34:24.000Z",
-    "summary": "We remember the songwriter, philanthropist, and icon in a special tribute episode of Rolling Stone’s Nashville Now podcast",
     "image": null
   },
   {
@@ -207,33 +243,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/elton-john-turnstile-erykah-badu-alchemist-songs-you-need-to-know-1235617340/",
-    "source": "rolling-stone",
-    "title": "Elton John’s Turnstile Cover, Natanael Cano, and More Songs You Need to Know This Week",
-    "url": "https://www.rollingstone.com/music/music-features/elton-john-turnstile-erykah-badu-alchemist-songs-you-need-to-know-1235617340/",
-    "publishedAt": "2026-08-28T16:25:26.000Z",
-    "summary": "Looking for the week’s best new music? Check out our Songs You Need to Know playlist",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/the-linda-lindas-everybody-told-me-video-1235617326/",
-    "source": "rolling-stone",
-    "title": "The Linda Lindas Are Haunted in ‘Everybody Told Me’ Video",
-    "url": "https://www.rollingstone.com/music/music-news/the-linda-lindas-everybody-told-me-video-1235617326/",
-    "publishedAt": "2026-08-28T16:11:33.000Z",
-    "summary": "The single appears on the rock group’s newly released third studio album Gotta Get Out",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/ben-folds-debut-album-reunion-tour-1235616773/",
-    "source": "rolling-stone",
-    "title": "Ben Folds on 30 Years of Alt-Rock Madness — and What’s Next",
-    "url": "https://www.rollingstone.com/music/music-features/ben-folds-debut-album-reunion-tour-1235616773/",
-    "publishedAt": "2026-08-28T16:09:40.000Z",
-    "summary": "The iconic Nineties pianist goes deep on the making of Ben Folds Five’s 1995 debut, his decision to leave the Kennedy Center, and his most drug-fueled recording session with William Shatner",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMitgFBVV95cUxORlViWEw4YlRzWGhvSzFKV2pYZEhPZFhHcEtEQTR1N2lsTUQxZlNCQzhiRVlkdGw1S29HaFVJcEI3ZFdYSnNsdm11ZXZqak1YYkRNUm5KaG5vVlhQakhKZklCRTU2UmhGUlFMTTVTbDRyaDhmQUZCZERvWG1JVkFxbUgzN0tpSlJfNUFUS2paUk9Tb2s4UUZpUnBpYlZ3YjVyLUdqZUYtNVBGZTJWb2dCYVV5NGVSUQ?oc=5",
     "source": "nme",
     "title": "Royal Blood pack out The Gallery tent for raucous Reading 2026 \"surprise\" set - NME",
@@ -245,10 +254,10 @@
   {
     "id": "nme-https://news.google.com/rss/articles/CBMikwFBVV95cUxQeE0zNmkwNnBfbjU4WWRIVVIzRE5sRWE1cEtxQTgxOXhhbXJxZlFRRm55VkRRVUZSV2FhVzVxSVdBYkY3VW0tbXQ5ZGdINURRLWFQNkNXS2hfYWVXN1liUDk2X2VzalZRcE5pT01FVW1vaTdMdG1tWS1BalhNRmh5eGJ3ck9DdWwtTEM2XzAzNWpSMWs?oc=5",
     "source": "nme",
-    "title": "Jamie T tells us about his current headspace ahead of new album: “I’m really happy to be where I am” - NME",
+    "title": "Jamie T tells us about his new album at Reading Festival 2026 - NME",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeE0zNmkwNnBfbjU4WWRIVVIzRE5sRWE1cEtxQTgxOXhhbXJxZlFRRm55VkRRVUZSV2FhVzVxSVdBYkY3VW0tbXQ5ZGdINURRLWFQNkNXS2hfYWVXN1liUDk2X2VzalZRcE5pT01FVW1vaTdMdG1tWS1BalhNRmh5eGJ3ck9DdWwtTEM2XzAzNWpSMWs?oc=5",
     "publishedAt": "2026-08-28T15:21:47.000Z",
-    "summary": "Jamie T tells us about his current headspace ahead of new album: “I’m really happy to be where I am” NME",
+    "summary": "Jamie T tells us about his new album at Reading Festival 2026 NME",
     "image": null
   },
   {
@@ -290,7 +299,7 @@
   {
     "id": "loudwire-https://loudwire.com/sid-wilson-studio-rapper-rome-fortune/",
     "source": "loudwire",
-    "title": "Sid Wilson Seen in Studio With Rapper Following Slipknot Split",
+    "title": "What's Next for Sid Wilson? New Studio Photo Might Have Answer",
     "url": "https://loudwire.com/sid-wilson-studio-rapper-rome-fortune/",
     "publishedAt": "2026-08-28T14:41:53.000Z",
     "summary": "Sid Wilson was photographed in a recording studio with rapper Rome Fortune following his split with Slipknot earlier this month. Continue reading…",
@@ -324,6 +333,15 @@
     "image": null
   },
   {
+    "id": "louder-than-war-https://louderthanwar.com/leeds-festival-2026-thursday-festival-review/",
+    "source": "louder-than-war",
+    "title": "Leeds Festival 2026: Thursday – Festival Review",
+    "url": "https://louderthanwar.com/leeds-festival-2026-thursday-festival-review/",
+    "publishedAt": "2026-08-28T11:29:36.000Z",
+    "summary": "Leeds Festival – Thursday Bramham Park 27th August 2026 Leeds Festival launches it’s new Pepsi sponsored Leeds 2.0 look amid dire weather warnings The summer of 2026 has been dominated by severe weather warnings, culminating in a national alert about fire risks. It’s almost inevitable Leeds Festival’s party will be a wash out given the […] The post Leeds Festival 2026: Thursday – Festival Review appeared first on Louder Than War.",
+    "image": null
+  },
+  {
     "id": "loudwire-https://loudwire.com/most-anticipated-rock-metal-albums-2026/",
     "source": "loudwire",
     "title": "Over 30 Big Rock + Metal Albums Left to Come Out in 2026",
@@ -333,12 +351,75 @@
     "image": null
   },
   {
+    "id": "louder-than-war-https://louderthanwar.com/all-points-east-2026-deftones-at-outbreak-festival-review/",
+    "source": "louder-than-war",
+    "title": "All Points East 2026: Deftones at Outbreak – Festival Review",
+    "url": "https://louderthanwar.com/all-points-east-2026-deftones-at-outbreak-festival-review/",
+    "publishedAt": "2026-08-28T11:07:07.000Z",
+    "summary": "All Points East 2026: Deftones – Festival review All Points East, London 23rd August 2026 All Points East in collaboration with Outbreak Festival presented a long day of high energy, atmospheric alternative rock in East London’s Victoria Park. Keith Goldhanger reports, Adam Williams provides the photos. Today is the third consecutive day that tens of […] The post All Points East 2026: Deftones at Outbreak – Festival Review appeared first on Louder Than War.",
+    "image": null
+  },
+  {
+    "id": "louder-than-war-https://louderthanwar.com/psycho-beets-horrendum-album-review/",
+    "source": "louder-than-war",
+    "title": "Psycho Beets: Horrendum – album review",
+    "url": "https://louderthanwar.com/psycho-beets-horrendum-album-review/",
+    "publishedAt": "2026-08-28T10:52:31.000Z",
+    "summary": "Psycho Beets: Horrendum (Trash Wax Records /White Riot Records) Ltd LP | CD | DL Available now Polish five-piece Psycho Beets are back with their second album; a dozen tracks of female fronted pure psychobilly – it’s got all the correct ingredients; the high-octane blend of 50’s rockabilly, punk rock attitude, sleeve artwork courtesy of […] The post Psycho Beets: Horrendum – album review appeared first on Louder Than War.",
+    "image": null
+  },
+  {
     "id": "nme-https://news.google.com/rss/articles/CBMimwFBVV95cUxNUk54OVlDSURLUzFkQ1VSLVBHdmI0amF0Q1hQNloxaEl4VTJLMVJmTlphNy1HMFN4a2tSejkyc1ptNnB2SFl1MV9sM2luWG1yZERUS1dTMWJoX2s3ekRTRmFjRkhvZUc2Q1R4QWgtOVJibGh0cWJ4aHNaUGlyTDVPM1B2eUdmVjdhV3JYRGdjb3VtcGF3eV94cHEzRQ?oc=5",
     "source": "nme",
     "title": "Fontaines D.C. announce 2026 UK and European arena tour - NME",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUk54OVlDSURLUzFkQ1VSLVBHdmI0amF0Q1hQNloxaEl4VTJLMVJmTlphNy1HMFN4a2tSejkyc1ptNnB2SFl1MV9sM2luWG1yZERUS1dTMWJoX2s3ekRTRmFjRkhvZUc2Q1R4QWgtOVJibGh0cWJ4aHNaUGlyTDVPM1B2eUdmVjdhV3JYRGdjb3VtcGF3eV94cHEzRQ?oc=5",
     "publishedAt": "2026-08-28T09:01:02.000Z",
     "summary": "Fontaines D.C. announce 2026 UK and European arena tour NME",
+    "image": null
+  },
+  {
+    "id": "uncut-https://www.uncut.co.uk/news/listen-to-peter-gabriels-new-track-looking-for-the-happy-156029/",
+    "source": "uncut",
+    "title": "Listen to Peter Gabriel’s new track, “Looking For The Happy”",
+    "url": "https://www.uncut.co.uk/news/listen-to-peter-gabriels-new-track-looking-for-the-happy-156029/",
+    "publishedAt": "2026-08-28T08:55:45.000Z",
+    "summary": "This new song is the ninth track from his forthcoming album o\\i",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQVFVRUU0MTdIVmRib3RmWVJsLVpaRmpWVkQ2S2RabXhYRWo5SGxhbkVSQUdzNzVNV2d3bTVURm5Qd3VLYTdaZWgxR1hSVmU3Y08tNE85YXllZ0paTVZJVXp5WkhPNWhETjBZbGlCb2U3ZUNiMUtHbVQ5anJ4cm9zUE15NXpJVGRxV0h6N1R1QTZtVTAxTzY1ZjExaFlxNC1xMWowekVfalNhZw?oc=5",
+    "source": "nme",
+    "title": "J. Cole cancels gig after touring crew member’s death - NME",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQVFVRUU0MTdIVmRib3RmWVJsLVpaRmpWVkQ2S2RabXhYRWo5SGxhbkVSQUdzNzVNV2d3bTVURm5Qd3VLYTdaZWgxR1hSVmU3Y08tNE85YXllZ0paTVZJVXp5WkhPNWhETjBZbGlCb2U3ZUNiMUtHbVQ5anJ4cm9zUE15NXpJVGRxV0h6N1R1QTZtVTAxTzY1ZjExaFlxNC1xMWowekVfalNhZw?oc=5",
+    "publishedAt": "2026-08-28T08:44:59.000Z",
+    "summary": "J. Cole cancels gig after touring crew member’s death NME",
+    "image": null
+  },
+  {
+    "id": "louder-than-war-https://louderthanwar.com/mc16-were-gonna-need-a-milkman-album-review/",
+    "source": "louder-than-war",
+    "title": "MC16: We’re Gonna Need A Milkman – album review",
+    "url": "https://louderthanwar.com/mc16-were-gonna-need-a-milkman-album-review/",
+    "publishedAt": "2026-08-28T08:39:50.000Z",
+    "summary": "album review MC16 We’re Gonna Need A Milkman Neverlution Records CD/LP/DL Release Date: 28 August 2026 4.5/5 Second album by UK 3-piece punk band who actually do what they claim – capture the true spirit of punk.. believing music should challenge, confront, question and entertain -and actually are – a whirlwind of snarl and bite, […] The post MC16: We’re Gonna Need A Milkman – album review appeared first on Louder Than War.",
+    "image": null
+  },
+  {
+    "id": "louder-than-war-https://louderthanwar.com/the-jayhawks-sanctuary-park-album-review/",
+    "source": "louder-than-war",
+    "title": "The Jayhawks: Sanctuary Park – Album Review",
+    "url": "https://louderthanwar.com/the-jayhawks-sanctuary-park-album-review/",
+    "publishedAt": "2026-08-28T08:09:21.000Z",
+    "summary": "The Jayhawks : Sanctuary Park (Thirty Tigers) CD | LP | Download Released 28 August To mark the fortieth anniversary of The Jayhawks formation, Martin Gray gives their twelfth studio album Sanctuary Park a listen and finds the venerable Minneapolis quartet have lost none of their prowess for crafting melodic alt-country/Americana-tinged indie rock. The Jayhawks […] The post The Jayhawks: Sanctuary Park – Album Review appeared first on Louder Than War.",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ3RjcGszaG96NjBZZlJjbk1Zdk5nTGVRdVNXUjNGT3Q2UnFSTkxlVXZCbEU0UTl2VldBVXBxclpmbC1ELXFKU01nbUlzcURZMW9sMzZyd0gwaGFDdzJzOGNlUXFZcURVM1FWaE1VeHR2ZTVyOXFRR2FDbVRQUTJUQnVNbGM?oc=5",
+    "source": "nme",
+    "title": "Mike D – ‘Thank You’ review: Beastie Boys icon’s solo debut is a return to be grateful for - NME",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ3RjcGszaG96NjBZZlJjbk1Zdk5nTGVRdVNXUjNGT3Q2UnFSTkxlVXZCbEU0UTl2VldBVXBxclpmbC1ELXFKU01nbUlzcURZMW9sMzZyd0gwaGFDdzJzOGNlUXFZcURVM1FWaE1VeHR2ZTVyOXFRR2FDbVRQUTJUQnVNbGM?oc=5",
+    "publishedAt": "2026-08-28T08:00:07.000Z",
+    "summary": "Mike D – ‘Thank You’ review: Beastie Boys icon’s solo debut is a return to be grateful for NME",
     "image": null
   },
   {
@@ -411,15 +492,6 @@
     "url": "https://loudwire.com/maynard-james-keenan-hip-replacement/",
     "publishedAt": "2026-08-27T14:02:59.000Z",
     "summary": "Maynard James Keenan shared a message on social media regarding his hip replacement surgery, which he just had done on Aug. 26. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/rock-metal-bands-canceled-postponed-shows-2026/",
-    "source": "loudwire",
-    "title": "25 Big Rock + Metal Bands Who've Canceled Shows in 2026",
-    "url": "https://loudwire.com/rock-metal-bands-canceled-postponed-shows-2026/",
-    "publishedAt": "2026-08-27T13:21:22.000Z",
-    "summary": "Here are 25 rock and metal bands that have called off shows so far this year and the reason behind the cancellations. Continue reading…",
     "image": null
   },
   {
@@ -504,30 +576,12 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ1VsVnh4ejlMWjJoNFNTTUdnN3d4bWNWLUx3UDMyWUxZVXR0Xzk5cWZaVWNVNy1ZcktjbXBNTTRnZWNxVG94dS1mbDN2SVl6RWRieFUxak9BbmJrY2lwU000N0oxbU5ZNE04UHRETzl2NnQtNVdVeFlCWkhVbVBLamFqTWo2cWNjX1JXYm8zVUVpeEdRM1ZmSWZUOA?oc=5",
-    "source": "nme",
-    "title": "Interpol – ‘This Mirror Weighs A Ton’ review: existential anthems and their best since ‘Antics’ - NME",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ1VsVnh4ejlMWjJoNFNTTUdnN3d4bWNWLUx3UDMyWUxZVXR0Xzk5cWZaVWNVNy1ZcktjbXBNTTRnZWNxVG94dS1mbDN2SVl6RWRieFUxak9BbmJrY2lwU000N0oxbU5ZNE04UHRETzl2NnQtNVdVeFlCWkhVbVBLamFqTWo2cWNjX1JXYm8zVUVpeEdRM1ZmSWZUOA?oc=5",
-    "publishedAt": "2026-08-27T08:00:24.000Z",
-    "summary": "Interpol – ‘This Mirror Weighs A Ton’ review: existential anthems and their best since ‘Antics’ NME",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/we-out-here-2026-festival-review/",
     "source": "louder-than-war",
     "title": "We Out Here 2026 – Festival Review",
     "url": "https://louderthanwar.com/we-out-here-2026-festival-review/",
     "publishedAt": "2026-08-26T19:17:08.000Z",
     "summary": "We Out Here Festival (Friday to Sunday) 20th-23rd August 2026 Wimborne St Giles, Dorset Still a relatively new fixture on the summer festival calendar, We Out Here was so brilliantly put together that it felt like it had been there forever. Tom Parry joined the devotees in sun-dappled Dorset to revel in the sheer variety […] The post We Out Here 2026 – Festival Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMiswFBVV95cUxPV2xjVE9wMks5OTVJYVVYY3VsZ2dyRHl3V2NKWXZ4YTVWek1ST3Q4NG1fWUkwY21OX0VXd0RSX0hBN1cwak9VNVBmU2NWMklHX3B0UTM5aFA3RFRsMVBlUGVzWDIyaHpYNU5VWlFOdlpuMnB3Q19VZTVRV3lNc2d2ZjRTZEtudXltdHBBLVdrbVAxdHlMYnFCOVdFUklseFJUXzFrNWVJTzl4U250QUpvQUR0UQ?oc=5",
-    "source": "nme",
-    "title": "Meta agrees to major $17billion settlement and changes to Facebook and Instagram after trial over teen addiction - NME",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV2xjVE9wMks5OTVJYVVYY3VsZ2dyRHl3V2NKWXZ4YTVWek1ST3Q4NG1fWUkwY21OX0VXd0RSX0hBN1cwak9VNVBmU2NWMklHX3B0UTM5aFA3RFRsMVBlUGVzWDIyaHpYNU5VWlFOdlpuMnB3Q19VZTVRV3lNc2d2ZjRTZEtudXltdHBBLVdrbVAxdHlMYnFCOVdFUklseFJUXzFrNWVJTzl4U250QUpvQUR0UQ?oc=5",
-    "publishedAt": "2026-08-26T16:11:44.000Z",
-    "summary": "Meta agrees to major $17billion settlement and changes to Facebook and Instagram after trial over teen addiction NME",
     "image": null
   },
   {
@@ -585,66 +639,12 @@
     "image": null
   },
   {
-    "id": "uncut-https://www.uncut.co.uk/features/what-happened-when-the-dreams-of-1960s-los-angeles-collided-with-charles-manson-155918/",
-    "source": "uncut",
-    "title": "What happened when the dreams of 1960s Los Angeles collided with Charles Manson",
-    "url": "https://www.uncut.co.uk/features/what-happened-when-the-dreams-of-1960s-los-angeles-collided-with-charles-manson-155918/",
-    "publishedAt": "2026-08-26T08:38:34.000Z",
-    "summary": "More than half a century later, the Tate-LaBianca murders remain a symbol of the moment when the optimism of 1960s Los Angeles gave way to something far darker",
-    "image": null
-  },
-  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZME1fZ3ZyVl91MWhqTkZ5bWhVZXAzOXExN3ZIQTNBUW9zXzZGUXlyVFhWTUV6bDJaMmNCMFNYaV9USjI1RzFKWnIybjF5T2ZlTjZPaDh0Q19wbkZmb191Nl8wTjR1M1NWWVV6MFh6VVFTckFXMWJoQw?oc=5",
     "source": "kerrang",
     "title": "The Warning x Kerrang! limited-edition 20-page zine - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZME1fZ3ZyVl91MWhqTkZ5bWhVZXAzOXExN3ZIQTNBUW9zXzZGUXlyVFhWTUV6bDJaMmNCMFNYaV9USjI1RzFKWnIybjF5T2ZlTjZPaDh0Q19wbkZmb191Nl8wTjR1M1NWWVV6MFh6VVFTckFXMWJoQw?oc=5",
     "publishedAt": "2026-08-25T19:16:58.000Z",
     "summary": "The Warning x Kerrang! limited-edition 20-page zine Kerrang!",
-    "image": null
-  },
-  {
-    "id": "louder-than-war-https://louderthanwar.com/louder-than-war-live-festival-announces-bill/",
-    "source": "louder-than-war",
-    "title": "Louder Than War Live festival announces bill",
-    "url": "https://louderthanwar.com/louder-than-war-live-festival-announces-bill/",
-    "publishedAt": "2026-08-25T16:08:40.000Z",
-    "summary": "Louder Than War Live festival announces bill The post Louder Than War Live festival announces bill appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "louder-than-war-https://louderthanwar.com/british-birds-announce-new-album-murmurate-oscillate/",
-    "source": "louder-than-war",
-    "title": "British Birds announce new album Murmurate, Oscillate via Skep Wax Records",
-    "url": "https://louderthanwar.com/british-birds-announce-new-album-murmurate-oscillate/",
-    "publishedAt": "2026-08-25T13:12:25.000Z",
-    "summary": "Louder Than War favourites, British Birds, are set to release their third album, Murmurate, Oscillate via Skep Wax Records on 16th October. You can pre order the album here British Birds will be no strangers to long term readers with their previous self-released albums, 2024’s In Search Of Mr Rykyn and 2025’s Silence Daedalus both […] The post British Birds announce new album Murmurate, Oscillate via Skep Wax Records appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "louder-than-war-https://louderthanwar.com/beautiful-days-festival-aug-2026-live-review/",
-    "source": "louder-than-war",
-    "title": "Beautiful Days Festival : Aug 2026 : Live Review",
-    "url": "https://louderthanwar.com/beautiful-days-festival-aug-2026-live-review/",
-    "publishedAt": "2026-08-25T12:36:02.000Z",
-    "summary": "Beautiful Days 2026 The post Beautiful Days Festival : Aug 2026 : Live Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "louder-than-war-https://louderthanwar.com/glenn-richards-announces-new-single-and-album/",
-    "source": "louder-than-war",
-    "title": "Glenn Richards announces new single and album The Great Behind via Johnny Depp’s IN.2 Records",
-    "url": "https://louderthanwar.com/glenn-richards-announces-new-single-and-album/",
-    "publishedAt": "2026-08-25T11:30:48.000Z",
-    "summary": "Glenn Richards announces new single, Pest, and tour dates along with details of his new solo album The Great Behind with the Venus Lakes (available October 9th) on Johnny Depp’s IN.2 Records. Over the years Australia has produced a number of celebrated musicians and singer songwriters who occupy only a ‘cult’ status in the United […] The post Glenn Richards announces new single and album The Great Behind via Johnny Depp’s IN.2 Records appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "louder-than-war-https://louderthanwar.com/david-delinquent-the-i-o-us-scandal-album-review/",
-    "source": "louder-than-war",
-    "title": "David Delinquent & the I.O.U’s: Scandal – album review",
-    "url": "https://louderthanwar.com/david-delinquent-the-i-o-us-scandal-album-review/",
-    "publishedAt": "2026-08-24T13:29:43.000Z",
-    "summary": "album review David Delinquent & the I.O.U’s Scandal 13 Deluxe Records LP/CD/DL Pre-order now for release date 14 Sept 2026 David Delinquent & The IOU’S have been favourites of LTW’s Ged Babey from the time his previous band The Delinquents folded. Four years on they release their debut album – and it’s an absolute cracker. […] The post David Delinquent & the I.O.U’s: Scandal – album review appeared first on Louder Than War.",
     "image": null
   },
   {
