@@ -1,5 +1,41 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/pop/taylor-swift-donates-50000-rhode-island-woman-struck-by-car-1236328085/",
+    "source": "billboard",
+    "title": "Taylor Swift Donates $50,000 to Rhode Island Good Samaritan Struck by Car",
+    "url": "https://www.billboard.com/music/pop/taylor-swift-donates-50000-rhode-island-woman-struck-by-car-1236328085/",
+    "publishedAt": "2026-08-29T07:44:08.000Z",
+    "summary": "Ashley Taunton was seriously injured after stopping to help teens involved in a hydroplaning accident on I-95.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/ed-sheeran-ali-g-trailer-1236328081/",
+    "source": "billboard",
+    "title": "Ed Sheeran Reacts to Being Mocked in New ‘Ali G’ Trailer",
+    "url": "https://www.billboard.com/music/pop/ed-sheeran-ali-g-trailer-1236328081/",
+    "publishedAt": "2026-08-29T06:52:03.000Z",
+    "summary": "Sacha Baron Cohen's comeback trailer named the singer alongside COVID and war as reasons the world got worse.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/bruce-springsteen-bleachers-perform-jersey-girl-chinatown-1235617724/",
+    "source": "rolling-stone",
+    "title": "Watch Bruce Springsteen and Bleachers Reunite to Sing ‘Jersey Girl’ and ‘Chinatown’ in Asbury Park",
+    "url": "https://www.rollingstone.com/music/music-news/bruce-springsteen-bleachers-perform-jersey-girl-chinatown-1235617724/",
+    "publishedAt": "2026-08-29T05:22:21.000Z",
+    "summary": "The duo last performed \"Chinatown\" live in 2020",
+    "image": null
+  },
+  {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMikwFBVV95cUxQNmNYLUVoT2FoZHJfLTRiYjY2MVc1bnFmRC1acHctMzJqemxJdkU4Q2VLbnI5enpMTU92cGg2ZmxTMHdkbzRaTFZUbUwyczFnUldqenJmX0pMNFJMSVF4a0Q1cjVHRHRDVzB6TUR3MWlSNkZwcWFWNF9CUlVaMkZ3QlRNelZCUlczWnFYVWpNc0N5Wnc?oc=5",
+    "source": "kerrang",
+    "title": "THE PLOT IN YOU X KERRANG! LIMITED-EDITION 20-PAGE ZINE - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNmNYLUVoT2FoZHJfLTRiYjY2MVc1bnFmRC1acHctMzJqemxJdkU4Q2VLbnI5enpMTU92cGg2ZmxTMHdkbzRaTFZUbUwyczFnUldqenJmX0pMNFJMSVF4a0Q1cjVHRHRDVzB6TUR3MWlSNkZwcWFWNF9CUlVaMkZ3QlRNelZCUlczWnFYVWpNc0N5Wnc?oc=5",
+    "publishedAt": "2026-08-29T03:49:49.000Z",
+    "summary": "THE PLOT IN YOU X KERRANG! LIMITED-EDITION 20-PAGE ZINE Kerrang!",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/taylor-swift-donates-50k-mother-hit-by-car-1235617716/",
     "source": "rolling-stone",
     "title": "Taylor Swift Donates $50k to Help Mother Struck by Car",
@@ -117,24 +153,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/theartist-new-album-kehlani-tour-up-and-coming-rb-artist-1236327462/",
-    "source": "billboard",
-    "title": "R&B Up-And-Comer of the Month TheARTI$t On The Moment She Realized ‘This Is My Purpose’",
-    "url": "https://www.billboard.com/music/rb-hip-hop/theartist-new-album-kehlani-tour-up-and-coming-rb-artist-1236327462/",
-    "publishedAt": "2026-08-28T21:34:39.000Z",
-    "summary": "The rising Jersey artist talks about her viral single \"Sober,\" new album 'DND' and touring with Kehlani.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/best-new-music-week-poll-vote-olivia-rodrigo-jennie-1236327951/",
-    "source": "billboard",
-    "title": "From Olivia Rodrigo to Alex Warren & JENNIE, Which New Music Release Is Your Favorite This Week? Vote!",
-    "url": "https://www.billboard.com/music/music-news/best-new-music-week-poll-vote-olivia-rodrigo-jennie-1236327951/",
-    "publishedAt": "2026-08-28T21:21:51.000Z",
-    "summary": "Rod Wave, Billy Strings and Erykah Badu & The Alchemist also have new projects out.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/olivia-rodrigo-daisy-chain-festival-donates-10-million-1235617591/",
     "source": "rolling-stone",
     "title": "Olivia Rodrigo’s Daisy Chain Fields Festival Raises $10 Million for Women and Girls Nonprofits",
@@ -216,15 +234,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/the-who-rehearsed-with-zak-starkey-1235617418/",
-    "source": "rolling-stone",
-    "title": "The Who Rehearsed For Possible Tour With Zak Starkey Following Bitter Split: ‘It Sounded Great’",
-    "url": "https://www.rollingstone.com/music/music-news/the-who-rehearsed-with-zak-starkey-1235617418/",
-    "publishedAt": "2026-08-28T17:32:24.000Z",
-    "summary": "The wild soap opera of the Who and Zak Starkey’s acrimonious split has reached a surprising new chapter, and the drummer might be back for their farewell tour in Europe",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/mastodon-marrow-deep-release-statement/",
     "source": "loudwire",
     "title": "Mastodon Reflect Upon Releasing First Album Since Hinds' Death",
@@ -254,10 +263,10 @@
   {
     "id": "nme-https://news.google.com/rss/articles/CBMikwFBVV95cUxQeE0zNmkwNnBfbjU4WWRIVVIzRE5sRWE1cEtxQTgxOXhhbXJxZlFRRm55VkRRVUZSV2FhVzVxSVdBYkY3VW0tbXQ5ZGdINURRLWFQNkNXS2hfYWVXN1liUDk2X2VzalZRcE5pT01FVW1vaTdMdG1tWS1BalhNRmh5eGJ3ck9DdWwtTEM2XzAzNWpSMWs?oc=5",
     "source": "nme",
-    "title": "Jamie T tells us about his new album at Reading Festival 2026 - NME",
+    "title": "Jamie T tells us about new album at Reading 2026: “I’m really happy to be where I am” - NME",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeE0zNmkwNnBfbjU4WWRIVVIzRE5sRWE1cEtxQTgxOXhhbXJxZlFRRm55VkRRVUZSV2FhVzVxSVdBYkY3VW0tbXQ5ZGdINURRLWFQNkNXS2hfYWVXN1liUDk2X2VzalZRcE5pT01FVW1vaTdMdG1tWS1BalhNRmh5eGJ3ck9DdWwtTEM2XzAzNWpSMWs?oc=5",
     "publishedAt": "2026-08-28T15:21:47.000Z",
-    "summary": "Jamie T tells us about his new album at Reading Festival 2026 NME",
+    "summary": "Jamie T tells us about new album at Reading 2026: “I’m really happy to be where I am” NME",
     "image": null
   },
   {
@@ -708,15 +717,6 @@
     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYjhtX3Q5Tkx0RVVPTnJmWUNlLUMxdklLbnBYc0lMeDRtTXZxdW0wSlEwOXphZGZGVjUtLVYxMHFjNEdjd1dOQnJWd3BoMHhiZk5kd2ZhOXVGeXNFNGRyaWJXRnNyWVdkMktyZHJqRHNidHp3dXpRWUVnYUl4NW1WR1Z6NGFNMzhBSC1WeUlWWFVrWE9oeU5scFdkLUtHT0NWY0FubmpzOXh4ZXl3bHlJLTBFeHZsd3o0bzV0VjFWVDN4Z05tejRZT2hsMW9MalNVcW5DQkVDZFM?oc=5",
     "publishedAt": "2026-08-14T14:00:00.000Z",
     "summary": "“There’s nothing wrong with being the girl who’s falling apart”: LØLØ… kerrang.com",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY2JENzdkZ1EtSkZUdEpQNHBsc0poNHJjREZvZjJrbnZ0aTgwSDkxZnowTGI5amdXMFZOUHJkaGFQbjRzQV9jdUtieS1hc0RMM3ExTlZkVUs3ejNmNk1VaW8yUGFxTWg2QmoweDlUNmtuWENpMGhjQTRRRF8wZkZxMzdRTF9DOHhXdXotRGVNTUlkOVJvUGNfZUhYNzN6d19QWmhvVmxBUUNnQQ?oc=5",
-    "source": "kerrang",
-    "title": "Wage War explore “being deceived by the world around you” on new single, Sweet Dreams - kerrang.com",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY2JENzdkZ1EtSkZUdEpQNHBsc0poNHJjREZvZjJrbnZ0aTgwSDkxZnowTGI5amdXMFZOUHJkaGFQbjRzQV9jdUtieS1hc0RMM3ExTlZkVUs3ejNmNk1VaW8yUGFxTWg2QmoweDlUNmtuWENpMGhjQTRRRF8wZkZxMzdRTF9DOHhXdXotRGVNTUlkOVJvUGNfZUhYNzN6d19QWmhvVmxBUUNnQQ?oc=5",
-    "publishedAt": "2026-08-14T11:23:00.000Z",
-    "summary": "Wage War explore “being deceived by the world around you” on new single, Sweet Dreams kerrang.com",
     "image": null
   }
 ]
