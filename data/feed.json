@@ -1,20 +1,245 @@
 [
   {
-    "id": "billboard-https://www.billboard.com/lists/sam-fender-olivia-dean-rein-mein-uk-chart-records/",
+    "id": "billboard-https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
     "source": "billboard",
-    "title": "How Sam Fender & Olivia Dean’s ‘Rein Me In’ Became the U.K.’s Longest-Running No. 1 Single Ever",
-    "url": "https://www.billboard.com/lists/sam-fender-olivia-dean-rein-mein-uk-chart-records/",
-    "publishedAt": "2026-09-01T11:12:00.000Z",
-    "summary": "The song now holds the all-time record for the longest-running U.K. No. 1 single.",
+    "title": "Billboard’s Music Industry Events Calendar",
+    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "publishedAt": "2026-09-01T16:13:00.000Z",
+    "summary": "A complete rundown of the most important events across the music business.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/christopher-cross-slams-donald-trump-canada-show-1236329893/",
+    "source": "billboard",
+    "title": "Christopher Cross Tells Canada Crowd He’s ‘Sorry & Embarrassed’ Amid ‘A–hole’ Trump’s Trade War",
+    "url": "https://www.billboard.com/music/music-news/christopher-cross-slams-donald-trump-canada-show-1236329893/",
+    "publishedAt": "2026-09-01T16:07:57.000Z",
+    "summary": "The musician also joked that he would soon be \"ejected\" from the U.S. over his comments.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/sienna-spiro-cancels-all-things-go-festival-1236329264/",
+    "source": "billboard",
+    "title": "Sienna Spiro Pulls Out of All Things Go Festival Performances: ‘Hope to See You Soon’",
+    "url": "https://www.billboard.com/music/pop/sienna-spiro-cancels-all-things-go-festival-1236329264/",
+    "publishedAt": "2026-09-01T15:59:00.000Z",
+    "summary": "\"Due to unforeseen circumstances I won't be able to make it this year,\" the singer/songwriter shares of her scheduled D.C. & NYC sets.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/the-who-who-by-numbers-box-1235618864/",
+    "source": "rolling-stone",
+    "title": "The Who Announce Massive ‘Who By Numbers’ Box Set With 92 Unreleased Tracks",
+    "url": "https://www.rollingstone.com/music/music-news/the-who-who-by-numbers-box-1235618864/",
+    "publishedAt": "2026-09-01T15:48:43.000Z",
+    "summary": "The five-disc set includes two complete concerts from 1976, studio jams and alternate renditions of the songs, and Pete Townshend's original demos",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/oso-oso-announce-album-on-mark-quinlans-new-label/",
+    "source": "pitchfork",
+    "title": "Oso Oso Announce Album on Mark Quinlan’s New Label",
+    "url": "https://pitchfork.com/story/oso-oso-announce-album-on-mark-quinlans-new-label/",
+    "publishedAt": "2026-09-01T15:46:31.000Z",
+    "summary": "An Exchange of Information will be the inaugural release from the Hop Along drummer’s Feral Twin Records",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/country/dolly-parton-younger-sister-freida-tribute-dolly-momma-plans-1236329899/",
+    "source": "billboard",
+    "title": "Dolly Parton’s Younger Sister Pays Emotional Tribute to Her ‘Dolly Momma’: ‘There Will Never Be Anyone Who Can Replace Her in Our Hearts’",
+    "url": "https://www.billboard.com/music/country/dolly-parton-younger-sister-freida-tribute-dolly-momma-plans-1236329899/",
+    "publishedAt": "2026-09-01T15:42:23.000Z",
+    "summary": "Freida Parton also said she's working on \"something very special\" for Dolly's fans.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/george-michael-new-trailer-faith-tour-concert-film-1235618885/",
+    "source": "rolling-stone",
+    "title": "George Michael Takes a Pop Star Victory Lap in New Trailer for ‘The Faith Tour’ Concert Film",
+    "url": "https://www.rollingstone.com/music/music-news/george-michael-new-trailer-faith-tour-concert-film-1235618885/",
+    "publishedAt": "2026-09-01T15:38:58.000Z",
+    "summary": "The upcoming movie was assembled out of previously unreleased footage of Michael's two 1988 concerts in Paris",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-album-reviews/erykah-badu-the-alchemist-before-the-world-blows-1235618167/",
+    "source": "rolling-stone",
+    "title": "Erykah Badu and the Alchemist Want You To Live in the Moment ‘Before the World Blows’",
+    "url": "https://www.rollingstone.com/music/music-album-reviews/erykah-badu-the-alchemist-before-the-world-blows-1235618167/",
+    "publishedAt": "2026-09-01T15:35:42.000Z",
+    "summary": "Their long-promised collaboration, which is also Badu's first proper album in 16 years, plays to both of their strengths and delivers exactly what fans have been waiting for",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/prospa-cloonee-free-your-mind-number-1-dance-charts-1236329887/",
+    "source": "billboard",
+    "title": "Prospa & Cloonee’s ‘Free Your Mind’ Tops Multiple Billboard Dance Charts",
+    "url": "https://www.billboard.com/music/chart-beat/prospa-cloonee-free-your-mind-number-1-dance-charts-1236329887/",
+    "publishedAt": "2026-09-01T15:21:22.000Z",
+    "summary": "The song rules WARM Global Dance Radio and Dance Airplay.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-album-reviews/alex-warren-wildchild-album-review-1235618769/",
+    "source": "rolling-stone",
+    "title": "Alex Warren Is Kindly and Earnest Enough to Make You Root For Him",
+    "url": "https://www.rollingstone.com/music/music-album-reviews/alex-warren-wildchild-album-review-1235618769/",
+    "publishedAt": "2026-09-01T15:20:20.000Z",
+    "summary": "The man behind 2025's biggest hit digs deeper into his turbulent past while still honing his voice on Wildchild",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/beyonce-donates-indiana-flood-relief-beygood-foundation-1236329858/",
+    "source": "billboard",
+    "title": "Beyoncé Sends Huge Donation to Indiana Flood Relief Via Her BeyGood Foundation",
+    "url": "https://www.billboard.com/music/music-news/beyonce-donates-indiana-flood-relief-beygood-foundation-1236329858/",
+    "publishedAt": "2026-09-01T15:10:40.000Z",
+    "summary": "The federal government recently declared that the state was facing a major disaster amid the storms.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/latin/premios-juventud-2026-how-to-watch-performers-1236329252/",
+    "source": "billboard",
+    "title": "Premios Juventud 2026: How to Watch, All the Performers & More",
+    "url": "https://www.billboard.com/music/latin/premios-juventud-2026-how-to-watch-performers-1236329252/",
+    "publishedAt": "2026-09-01T15:00:00.000Z",
+    "summary": "Here's everything to know ahead of the awards ceremony, set to take place in Spain for the first time on Sept. 3",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/lil-uzi-vert-nfl-roc-nation-songs-of-the-season-1236329312/",
+    "source": "billboard",
+    "title": "Lil Uzi Vert, Infinity Song & Memphis Bleek Among NFL & Roc Nation’s 2026 ‘Songs of the Season’",
+    "url": "https://www.billboard.com/music/music-news/lil-uzi-vert-nfl-roc-nation-songs-of-the-season-1236329312/",
+    "publishedAt": "2026-09-01T15:00:00.000Z",
+    "summary": "The NFL season kicks off Sept. 9 with a Super Bowl LX rematch in Seattle.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/jay-weinberg-artists-feels-most-inspired-by/",
+    "source": "loudwire",
+    "title": "Jay Weinberg Names the Artists He Feels Most Inspired By",
+    "url": "https://loudwire.com/jay-weinberg-artists-feels-most-inspired-by/",
+    "publishedAt": "2026-09-01T14:54:43.000Z",
+    "summary": "In a new interview, Jay Weinberg named the artists he's feeling most inspired by lately — and they're not all metal musicians. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/country/kane-brown-shania-twain-collab-twist-her-boots-hit-1236329823/",
+    "source": "billboard",
+    "title": "Kane Brown Teases Shania Twain Collab Is a ‘Guy’s Version’ of Her ‘Whose Bed Have Your Boots Been Under’",
+    "url": "https://www.billboard.com/music/country/kane-brown-shania-twain-collab-twist-her-boots-hit-1236329823/",
+    "publishedAt": "2026-09-01T14:49:57.000Z",
+    "summary": "\"You're getting a completely different, new song,\" Brown shared in an interview",
+    "image": null
+  },
+  {
+    "id": "louder-than-war-https://louderthanwar.com/forwards-presents-lorde-festival-review/",
+    "source": "louder-than-war",
+    "title": "Forwards Presents: Lorde – Festival Review",
+    "url": "https://louderthanwar.com/forwards-presents-lorde-festival-review/",
+    "publishedAt": "2026-09-01T14:47:05.000Z",
+    "summary": "Forwards Presents: Lorde Clifton Downs, Bristol 28th August 2026 Lorde dazzled Bristol during her debut performance in the city. Elliott Simpson review. There’s that old Brian Eno quote about the first Velvet Underground album: it only sold 30,000 copies, but everyone who bought it started a band. Though Lorde’s first album sold many more than […] The post Forwards Presents: Lorde – Festival Review appeared first on Louder Than War.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/yeah-yeah-yeahs-release-new-live-album-and-short-film/",
+    "source": "pitchfork",
+    "title": "Yeah Yeah Yeahs Release New Live Album and Short Film",
+    "url": "https://pitchfork.com/story/yeah-yeah-yeahs-release-new-live-album-and-short-film/",
+    "publishedAt": "2026-09-01T14:41:53.000Z",
+    "summary": "Hidden in Pieces Live at the Royal Albert Hall is out now",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/enhypen-ella-langley-stella-lefty-chart-highlights-sept-5/",
+    "source": "billboard",
+    "title": "ENHYPEN, Ella Langley, Stella Lefty & More: Highlights of This Week’s Billboard Charts",
+    "url": "https://www.billboard.com/lists/enhypen-ella-langley-stella-lefty-chart-highlights-sept-5/",
+    "publishedAt": "2026-09-01T14:28:02.000Z",
+    "summary": "All of Billboard’s charts update each Tuesday.",
+    "image": null
+  },
+  {
+    "id": "louder-than-war-https://louderthanwar.com/tinned-meats-interview/",
+    "source": "louder-than-war",
+    "title": "Tinned Meats: Interview",
+    "url": "https://louderthanwar.com/tinned-meats-interview/",
+    "publishedAt": "2026-09-01T14:24:12.000Z",
+    "summary": "Sheffield’s Tinned Meats, through inescapable choruses and acute wonkiness, occupy an idiosyncratic place in synthy noise rock. They combine off-kilter melodies and leftfield production, dodging comparisons to The Fall with their innovation. Their early years saw them fluctuate before settling on the lineup and sound of their eponymous EP, which evolved into the anthemic post-punk of […] The post Tinned Meats: Interview appeared first on Louder Than War.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/yeah-yeah-yeahs-live-album-short-film-london-1235618795/",
+    "source": "rolling-stone",
+    "title": "Yeah Yeah Yeahs Unveil Live Album Recorded at London’s Royal Albert Hall",
+    "url": "https://www.rollingstone.com/music/music-news/yeah-yeah-yeahs-live-album-short-film-london-1235618795/",
+    "publishedAt": "2026-09-01T14:09:37.000Z",
+    "summary": "The album, Hidden in Pieces Live at the Royal Albert Hall, was recorded last year and arrived alongside a short film",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/rock-metal-albums-september-history/",
+    "source": "loudwire",
+    "title": "Biggest Rock + Metal Albums Released Each Day in Sept. History",
+    "url": "https://loudwire.com/rock-metal-albums-september-history/",
+    "publishedAt": "2026-09-01T13:43:54.000Z",
+    "summary": "Some of the most beloved albums from Ozzy, Nirvana and Megadeth were all released in September. Here is a look at the best from each day. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/kali-malone-readies-new-album-burning-song/",
+    "source": "pitchfork",
+    "title": "Kali Malone Readies New Album Burning Song",
+    "url": "https://pitchfork.com/story/kali-malone-readies-new-album-burning-song/",
+    "publishedAt": "2026-09-01T12:56:35.000Z",
+    "summary": "Stephen O’Malley and Lucy Railton join Malone for the LP, led by “Heavy With Fruit”",
+    "image": null
+  },
+  {
+    "id": "louder-than-war-https://louderthanwar.com/swansea-sound-announce-album-pre-post-truth-and-tour/",
+    "source": "louder-than-war",
+    "title": "Swansea Sound announce album, pre-post-truth, and Tour",
+    "url": "https://louderthanwar.com/swansea-sound-announce-album-pre-post-truth-and-tour/",
+    "publishedAt": "2026-09-01T12:55:05.000Z",
+    "summary": "LTW’s favourite Indie supergroup, Swansea Sound are back with their third album pre-post-truth for release on 13th November and announce a pre Christmas tour Formed during lockdown, the band, Hue Williams (ex-The Pooh Sticks), Amelia Fletcher and Rob Pursey (Heavenly), Bob Collins (The Dentists) and Ian Button (Death In Vegas, Railcard) recorded three singles without […] The post Swansea Sound announce album, pre-post-truth, and Tour appeared first on Louder Than War.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/best-hard-rock-album-each-year-2000s/",
+    "source": "loudwire",
+    "title": "The Best Hard Rock Album of Each Year of the 2000s",
+    "url": "https://loudwire.com/best-hard-rock-album-each-year-2000s/",
+    "publishedAt": "2026-09-01T11:57:02.000Z",
+    "summary": "It was a decade defined by nu-metal, emo, pop-punk and grunge. But which albums were considered the best of each year? Continue reading…",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMiowFBVV95cUxQYk0zakhLQkttdURKWWdBVjdUUHZKbW5zd2VFVVFBM0g5Sm9HVXRMTzhhc0k3WHB3VnRzNkhyc2hkbjlDT0tnc1BfSEdQZGhUaUJSTk9yX2NLRWZZaWtoVFhXUS0yNkNNTk10MXN5ZVYxWllINUJNLUJOeTZldk1wNllYX1FFaGJKZnR1VDk4enF6SEotRkNpeW1nYzZ1QllZaWxn?oc=5",
+    "source": "nme",
+    "title": "Kneecap announce massive 'Fenian' world tour – including 2026 UK and Ireland arena dates - nme.com",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYk0zakhLQkttdURKWWdBVjdUUHZKbW5zd2VFVVFBM0g5Sm9HVXRMTzhhc0k3WHB3VnRzNkhyc2hkbjlDT0tnc1BfSEdQZGhUaUJSTk9yX2NLRWZZaWtoVFhXUS0yNkNNTk10MXN5ZVYxWllINUJNLUJOeTZldk1wNllYX1FFaGJKZnR1VDk4enF6SEotRkNpeW1nYzZ1QllZaWxn?oc=5",
+    "publishedAt": "2026-09-01T11:46:28.000Z",
+    "summary": "Kneecap announce massive 'Fenian' world tour – including 2026 UK and Ireland arena dates nme.com",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSV9XR1M1bDBjeXI5VVZ0TUZDb0dZeE1jMVBwcnYxWUI0T2xOVHdQUWZZVnFDQm0zUDRHczVRX1NobEVZcDlwQWVQdGlXMHktYi1JdHFaZzYybHNtNGl4aG9wTl95cDRDRDEtRW12U1NtODVma2JnRk1adUk5RDd4R1J5UHh3Q1lOSi1DZS15akh1VEthUl9telVDNlRSejFCX1M0RXd0NXV5X09SX2VFdklUTmpvZG1HUWNzXy1nWktfRDdVaTIxczJtRW8xQUxKY0E?oc=5",
+    "source": "nme",
+    "title": "See the \"aftermath\" of tents left behind at Reading 2026 from aerial drone footage after heavy rain - nme.com",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSV9XR1M1bDBjeXI5VVZ0TUZDb0dZeE1jMVBwcnYxWUI0T2xOVHdQUWZZVnFDQm0zUDRHczVRX1NobEVZcDlwQWVQdGlXMHktYi1JdHFaZzYybHNtNGl4aG9wTl95cDRDRDEtRW12U1NtODVma2JnRk1adUk5RDd4R1J5UHh3Q1lOSi1DZS15akh1VEthUl9telVDNlRSejFCX1M0RXd0NXV5X09SX2VFdklUTmpvZG1HUWNzXy1nWktfRDdVaTIxczJtRW8xQUxKY0E?oc=5",
+    "publishedAt": "2026-09-01T11:13:36.000Z",
+    "summary": "See the \"aftermath\" of tents left behind at Reading 2026 from aerial drone footage after heavy rain nme.com",
     "image": null
   },
   {
     "id": "louder-than-war-https://louderthanwar.com/chaos-from-cash-the-trails-triumphs-and-tribulations-of-a-tribute-band-joe-whyte-book-review/",
     "source": "louder-than-war",
-    "title": "Chaos From Cash: The Trails, Triumphs and Tribulations of a Tribute Band – Joe Whyte – Book Review",
+    "title": "Chaos From Cash: The Trials, Triumphs and Tribulations of a Tribute Band – Joe Whyte – Book Review",
     "url": "https://louderthanwar.com/chaos-from-cash-the-trails-triumphs-and-tribulations-of-a-tribute-band-joe-whyte-book-review/",
     "publishedAt": "2026-09-01T11:05:51.000Z",
-    "summary": "Book Review Chaos From Cash: The Trials, Triumphs and Tribulations of a Tribute Band Joe Whyte Rotator Pm in association with FOAD Paperback Out now Joe Whyte is a rock journalist for Vive Le Rock and guitarist in a Johnny Cash Tribute band called Jericho Hill when he is not working in frontline NHS mental […] The post Chaos From Cash: The Trails, Triumphs and Tribulations of a Tribute Band – Joe Whyte – Book Review appeared first on Louder Than War.",
+    "summary": "Book Review Chaos From Cash: The Trials, Triumphs and Tribulations of a Tribute Band Joe Whyte Rotator Pm in association with FOAD Paperback Out now Joe Whyte is a rock journalist for Vive Le Rock and guitarist in a Johnny Cash Tribute band called Jericho Hill when he is not working in frontline NHS mental […] The post Chaos From Cash: The Trials, Triumphs and Tribulations of a Tribute Band – Joe Whyte – Book Review appeared first on Louder Than War.",
     "image": null
   },
   {
@@ -24,6 +249,33 @@
     "url": "https://www.uncut.co.uk/features/the-murder-of-tupac-inside-the-30-year-hunt-for-justice-156042/",
     "publishedAt": "2026-09-01T11:02:52.000Z",
     "summary": "For three decades, the murder of Tupac Shakur seemed destined to remain unsolved... until one of the alleged conspirators started talking",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/rock-stars-birthdays-september/",
+    "source": "loudwire",
+    "title": "Rock Stars Celebrating Birthdays in the Month of September",
+    "url": "https://loudwire.com/rock-stars-birthdays-september/",
+    "publishedAt": "2026-09-01T10:30:24.000Z",
+    "summary": "Blow out the candles! September is full of rock star birthdays. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMirgFBVV95cUxNdVpKZnNVNnYwTkJsTE12TldBSmlNajJtbkNxOVNtWUt4aVVuX1lPTC1zTXdVcE92X2dCRUt5TWNlWmpqNGc2TE5IZTNsbUF5TTBxNlBHZXFtTUhXekU3OUJlRUZwa1dDV1hsR1pJel81bHllU2hid2R6NWpYUVBWcHM2bTB2OUFaajZvU1htbGtfMTB5cE1RME5jZk9ablFiSjgya2M4WkpyX2hVZkE?oc=5",
+    "source": "nme",
+    "title": "Sombr follows massive Reading & Leeds 2026 set by announcing huge 2027 UK and European tour – including London date with Suki Waterhouse - nme.com",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdVpKZnNVNnYwTkJsTE12TldBSmlNajJtbkNxOVNtWUt4aVVuX1lPTC1zTXdVcE92X2dCRUt5TWNlWmpqNGc2TE5IZTNsbUF5TTBxNlBHZXFtTUhXekU3OUJlRUZwa1dDV1hsR1pJel81bHllU2hid2R6NWpYUVBWcHM2bTB2OUFaajZvU1htbGtfMTB5cE1RME5jZk9ablFiSjgya2M4WkpyX2hVZkE?oc=5",
+    "publishedAt": "2026-09-01T10:01:23.000Z",
+    "summary": "Sombr follows massive Reading & Leeds 2026 set by announcing huge 2027 UK and European tour – including London date with Suki Waterhouse nme.com",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMimwFBVV95cUxNSmhocVVvazU1TkltNEVrdTAxN0xwek1jWEJFaXZGc0ZIWURtRWtEelp4NWxjQjM2bGdvZjN5djBaX1h4Y0d5akdEeFY5ZWdEM09MODFwMkVqTktUNFV0WVV0TE14emtIdzVIT1V1SjVKamZqYlZmUzBMTHpRVDVPdU9JRjRZc25fTVREbmFaLUlKM0FvVTlNaHFZTQ?oc=5",
+    "source": "nme",
+    "title": "Duane ‘Keffe D’ Davis found guilty of Tupac Shakur’s murder - nme.com",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSmhocVVvazU1TkltNEVrdTAxN0xwek1jWEJFaXZGc0ZIWURtRWtEelp4NWxjQjM2bGdvZjN5djBaX1h4Y0d5akdEeFY5ZWdEM09MODFwMkVqTktUNFV0WVV0TE14emtIdzVIT1V1SjVKamZqYlZmUzBMTHpRVDVPdU9JRjRZc25fTVREbmFaLUlKM0FvVTlNaHFZTQ?oc=5",
+    "publishedAt": "2026-09-01T09:37:11.000Z",
+    "summary": "Duane ‘Keffe D’ Davis found guilty of Tupac Shakur’s murder nme.com",
     "image": null
   },
   {
@@ -38,10 +290,10 @@
   {
     "id": "nme-https://news.google.com/rss/articles/CBMizgFBVV95cUxPY1lGN3prY0ZYNFREbzlBcFF6bUZHVTgydldaaWdHb05pTVRodkh4SkxUYUswTkJiV1NyeXhSb2xOUUVvUkRwNDFGRnZFUWZJVHdVTHo1aEFqdlQ1VUp5dDZ4VGYzMFNxd0hmVjJkWTl6ZWdPN0Z2ZERvcjl2ejRudzRHWkVWcTU2LTgtd1otYUd0T201OFhBMUxaaFNwSHk5X0M3ZjdjTk5xR0pJejAtNldLV1B1d3pORnZhOHdBTGhFOHdXaloxejJsTGVfQQ?oc=5",
     "source": "nme",
-    "title": "Sex Pistols featuring Frank Carter announce new UK dates for 2026 winter '50 Years Of Punk' tour - NME",
+    "title": "Sex Pistols featuring Frank Carter announce new UK dates for 2026 winter '50 Years Of Punk' tour - nme.com",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPY1lGN3prY0ZYNFREbzlBcFF6bUZHVTgydldaaWdHb05pTVRodkh4SkxUYUswTkJiV1NyeXhSb2xOUUVvUkRwNDFGRnZFUWZJVHdVTHo1aEFqdlQ1VUp5dDZ4VGYzMFNxd0hmVjJkWTl6ZWdPN0Z2ZERvcjl2ejRudzRHWkVWcTU2LTgtd1otYUd0T201OFhBMUxaaFNwSHk5X0M3ZjdjTk5xR0pJejAtNldLV1B1d3pORnZhOHdBTGhFOHdXaloxejJsTGVfQQ?oc=5",
     "publishedAt": "2026-09-01T08:05:11.000Z",
-    "summary": "Sex Pistols featuring Frank Carter announce new UK dates for 2026 winter '50 Years Of Punk' tour NME",
+    "summary": "Sex Pistols featuring Frank Carter announce new UK dates for 2026 winter '50 Years Of Punk' tour nme.com",
     "image": null
   },
   {
@@ -50,34 +302,7 @@
     "title": "Watch Drake Perform ‘Iceman’ Tracks Live at Don Toliver’s Toronto Show",
     "url": "https://www.rollingstone.com/music/music-news/drake-iceman-tracks-live-don-toliver-toronto-show-1235618799/",
     "publishedAt": "2026-09-01T07:47:17.000Z",
-    "summary": "The rapper showcased “Shabang,” “Burning Bridges,” and “Janice STFU\" on stage for the first time",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/drake-don-toliver-show-iceman-1236329602/",
-    "source": "billboard",
-    "title": "Drake Performs ‘ICEMAN’ Tracks for First Time at Don Toliver’s Toronto Show",
-    "url": "https://www.billboard.com/music/rb-hip-hop/drake-don-toliver-show-iceman-1236329602/",
-    "publishedAt": "2026-09-01T06:02:07.000Z",
-    "summary": "Is Drizzy gearing up for a world tour of his own?",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/2026-screen-music-awards-brisbane/",
-    "source": "billboard",
-    "title": "2026 Screen Music Awards Return to Brisbane as APRA Marks Centenary Year",
-    "url": "https://www.billboard.com/pro/2026-screen-music-awards-brisbane/",
-    "publishedAt": "2026-09-01T05:21:13.000Z",
-    "summary": "Actor and APRA member Rob Collins will host, joined by guest presenters Claudia Karvan and Ayesha Madon.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rock/bush-headline-triple-m-melbourne-1236329362/",
-    "source": "billboard",
-    "title": "Bush to Headline Triple M Fest During AFL Grand Final Week",
-    "url": "https://www.billboard.com/music/rock/bush-headline-triple-m-melbourne-1236329362/",
-    "publishedAt": "2026-09-01T04:12:09.000Z",
-    "summary": "The British rockers will be joined by Australian rock acts The Superjesus and You Am I.",
+    "summary": "The rapper showcased “Shabang,” “Burning Bridges,” and “Janice STFU” on stage for the first time",
     "image": null
   },
   {
@@ -90,30 +315,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/business/touring/major-lazer-new-years-bowl-1236329343/",
-    "source": "billboard",
-    "title": "Major Lazer to Headline Melbourne’s New Year’s at the Bowl",
-    "url": "https://www.billboard.com/business/touring/major-lazer-new-years-bowl-1236329343/",
-    "publishedAt": "2026-09-01T03:35:23.000Z",
-    "summary": "The dance trio returns to Australia for the first time since 2015 as the Live Nation festival expands into its second year.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/kelly-clarkson-final-season-golden-kellyoke-1235618746/",
     "source": "rolling-stone",
     "title": "Watch Kelly Clarkson’s Sensational Cover of ‘Golden’ on Final Show",
     "url": "https://www.rollingstone.com/music/music-news/kelly-clarkson-final-season-golden-kellyoke-1235618746/",
     "publishedAt": "2026-09-01T02:09:19.000Z",
-    "summary": "The KPop Demon Hunters song was the most requested Kellyoke, said Clarkson's team",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/media/podcasts/dolly-parton-pop-music-pop-shop-podcast-1236329442/",
-    "source": "billboard",
-    "title": "Did Dolly Parton Make Pop Music? Yes, But She Preferred to Call It ‘Dolly Parton Music’",
-    "url": "https://www.billboard.com/media/podcasts/dolly-parton-pop-music-pop-shop-podcast-1236329442/",
-    "publishedAt": "2026-09-01T01:23:36.000Z",
-    "summary": "On the Billboard Pop Shop Podcast, Katie & Keith chat about the late country icon's relationship with pop music over the years.",
+    "summary": "The KPop Demon Hunters song was the most requested Kellyoke, said Clarkson’s team",
     "image": null
   },
   {
@@ -126,15 +333,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/pro/tupac-shakur-murder-verdict-guilty/",
-    "source": "billboard",
-    "title": "Tupac Shakur Murder Verdict: Man Found Guilty In Rapper’s 1996 Slaying",
-    "url": "https://www.billboard.com/pro/tupac-shakur-murder-verdict-guilty/",
-    "publishedAt": "2026-09-01T00:49:43.000Z",
-    "summary": "Nearly 30 years after a drive-by shooting in Las Vegas that shocked the world, a murder conviction has finally been delivered.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/tupac-shakur-murder-trial-keffe-d-guilty-1235617194/",
     "source": "rolling-stone",
     "title": "Duane ‘Keffe D’ Davis Found Guilty in Murder of Tupac Shakur",
@@ -144,57 +342,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/business/legal/bigxthaplug-pleads-no-contest-2025-weapon-case-1236329382/",
-    "source": "billboard",
-    "title": "BigXthaPlug Pleads No Contest in 2025 Weapon Case",
-    "url": "https://www.billboard.com/business/legal/bigxthaplug-pleads-no-contest-2025-weapon-case-1236329382/",
-    "publishedAt": "2026-09-01T00:29:51.000Z",
-    "summary": "The Texas rapper got six months' probation for the misdemeanor charge of unlawfully carrying a weapon.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/ariana-grande-minor-foot-injury-london-concert-1235618723/",
     "source": "rolling-stone",
     "title": "Ariana Grande Tells Fans She’ll Wear ‘Cozy Footwear’ On Stage After Minor Foot Injury",
     "url": "https://www.rollingstone.com/music/music-news/ariana-grande-minor-foot-injury-london-concert-1235618723/",
     "publishedAt": "2026-08-31T23:50:09.000Z",
     "summary": "The pop star has just two shows remaining on her headlining Eternal Sunshine tour",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/video/olivia-rodrigo-daisy-chain-fields-festival-all-access-recap/",
-    "source": "billboard",
-    "title": "Olivia Rodrigo, Chappell Roan, Doechii & More Rock Out & Raise Money at Daisy Chain Fields | All Access",
-    "url": "https://www.billboard.com/video/olivia-rodrigo-daisy-chain-fields-festival-all-access-recap/",
-    "publishedAt": "2026-08-31T23:42:18.000Z",
-    "summary": "Olivia Rodrigo kicked off her inaugural Daisy Chain Fields festival with an all-female lineup including Chappell Roan, Doechii, Rachel Chinouriri, Eli, Mitski and more. Rodrigo also included special guests like Sarah McLachlan, Alanis Morissette and Stevie Nicks. In a press conference, Rodrigo talked about how ticket sales from the Daisy Chain Fields festival are going […]",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/suno-lawsuit-mexican-music-spanish-ai-songs/",
-    "source": "billboard",
-    "title": "Suno Sued Again, Accused of Training Model on Mexican Music Catalog to Make Spanish AI Songs",
-    "url": "https://www.billboard.com/pro/suno-lawsuit-mexican-music-spanish-ai-songs/",
-    "publishedAt": "2026-08-31T23:08:09.000Z",
-    "summary": "A regional Mexican label and publisher claims its catalog helped Suno \"capture a significant share of the Spanish language AI user market.\"",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/tupac-shakur-murder-trial-closings-keffe-d-duane-davis-suge-1235618205/",
-    "source": "rolling-stone",
-    "title": "Tupac Trial Closings: Prosecutors Call ‘Keffe D’ Murder Mastermind, Defense Calls Case ‘Fiction’",
-    "url": "https://www.rollingstone.com/music/music-news/tupac-shakur-murder-trial-closings-keffe-d-duane-davis-suge-1235618205/",
-    "publishedAt": "2026-08-31T21:30:12.000Z",
-    "summary": "Duane Davis' lawyer questioned why prosecutors never subpoenaed Suge Knight to testify",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/lionel-richie-hospital-st-louis-concert-1235618577/",
-    "source": "rolling-stone",
-    "title": "Lionel Richie Hospitalized After St. Louis Concert",
-    "url": "https://www.rollingstone.com/music/music-news/lionel-richie-hospital-st-louis-concert-1235618577/",
-    "publishedAt": "2026-08-31T20:40:35.000Z",
-    "summary": "A source close to the singer's tour confirmed the singer was OK, but did not share any details about what landed him in the hospital",
     "image": null
   },
   {
@@ -234,15 +387,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/ella-langleys-choosin-texas-billboard-hot-100-20th-week-1235618449/",
-    "source": "rolling-stone",
-    "title": "‘Choosin’ Texas’ Is Now the Second-Longest-Running Number One Single on the Hot 100",
-    "url": "https://www.rollingstone.com/music/music-country/ella-langleys-choosin-texas-billboard-hot-100-20th-week-1235618449/",
-    "publishedAt": "2026-08-31T18:58:47.000Z",
-    "summary": "Ella Langley’s hit song has now spent 20 weeks atop the chart, making it the longest reign for a non-holiday track",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/half-japaneses-david-fair-dies-at-74/",
     "source": "pitchfork",
     "title": "Half Japanese’s David Fair Dies at 74",
@@ -254,37 +398,28 @@
   {
     "id": "nme-https://news.google.com/rss/articles/CBMiogFBVV95cUxOemZQU3B0N2ZrYnA0ZWtaMENCYkFiSmFid0w4YUVvcnFlTDQ2SkNjV0xPVS16U2tSenBPNmlVNHYyY1g3OERyamNOWW1EaW92bHdsb2t4REVXMU1WNXZMT3pvVm55QmNBOE5HbXNJTVp6eDdwU0lyWlNrMklLamd6emN4RHUxdVNQbmEtR3NiclFYQlpTNkc1dS1oaTV3ZXBHUkE?oc=5",
     "source": "nme",
-    "title": "Fontaines D.C. announce huge 2027 Slane Castle show in Ireland with Hayley Williams - NME",
+    "title": "Fontaines D.C. announce huge 2027 Slane Castle show in Ireland with Hayley Williams - nme.com",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOemZQU3B0N2ZrYnA0ZWtaMENCYkFiSmFid0w4YUVvcnFlTDQ2SkNjV0xPVS16U2tSenBPNmlVNHYyY1g3OERyamNOWW1EaW92bHdsb2t4REVXMU1WNXZMT3pvVm55QmNBOE5HbXNJTVp6eDdwU0lyWlNrMklLamd6emN4RHUxdVNQbmEtR3NiclFYQlpTNkc1dS1oaTV3ZXBHUkE?oc=5",
     "publishedAt": "2026-08-31T18:13:40.000Z",
-    "summary": "Fontaines D.C. announce huge 2027 Slane Castle show in Ireland with Hayley Williams NME",
+    "summary": "Fontaines D.C. announce huge 2027 Slane Castle show in Ireland with Hayley Williams nme.com",
     "image": null
   },
   {
     "id": "nme-https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaUw5NTVFbzczeUNyRDhXOEdKZThFcG1GU3lEZDNvNkNqeERvSEszMTlISWR3R0pCa1JFcWpzOUJCSFR6SzV6SVdIZk5DU2ludG5ydUU2MnB2cXdsNVo4NTJLYnUwWHBIS016LTJfY0tyWlk2c1JGUlhRSEdMemlfc2Vmclh3eFpobUIzeEhzMzV5NE9zOTl2S2lJbTh3aXc1MmM1U3FQaWZuQkh0b21pQV9vQXowYzh1QzVKN1g4TG5JeFVzU2NhNm9valUxS1liUW52WW1R?oc=5",
     "source": "nme",
-    "title": "Watch Green Day's Billie Joe Armstrong, Blink-182's Travis Barker and more lead all-star Ramones tribute band The Cretin Family for official 50th anniversary show - NME",
+    "title": "Watch Green Day's Billie Joe Armstrong, Blink-182's Travis Barker and more lead all-star Ramones tribute band The Cretin Family for official 50th anniversary show - nme.com",
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaUw5NTVFbzczeUNyRDhXOEdKZThFcG1GU3lEZDNvNkNqeERvSEszMTlISWR3R0pCa1JFcWpzOUJCSFR6SzV6SVdIZk5DU2ludG5ydUU2MnB2cXdsNVo4NTJLYnUwWHBIS016LTJfY0tyWlk2c1JGUlhRSEdMemlfc2Vmclh3eFpobUIzeEhzMzV5NE9zOTl2S2lJbTh3aXc1MmM1U3FQaWZuQkh0b21pQV9vQXowYzh1QzVKN1g4TG5JeFVzU2NhNm9valUxS1liUW52WW1R?oc=5",
     "publishedAt": "2026-08-31T18:13:40.000Z",
-    "summary": "Watch Green Day's Billie Joe Armstrong, Blink-182's Travis Barker and more lead all-star Ramones tribute band The Cretin Family for official 50th anniversary show NME",
+    "summary": "Watch Green Day's Billie Joe Armstrong, Blink-182's Travis Barker and more lead all-star Ramones tribute band The Cretin Family for official 50th anniversary show nme.com",
     "image": null
   },
   {
     "id": "nme-https://news.google.com/rss/articles/CBMisAFBVV95cUxQak9naW9qRVhEczdXZWRxVTRJVjgydHZGR3NoeWQ1ZkQtLTFWVkxxSTJjT1hEcjFveUNzSUhQREdGYU1QbUh3OUVfZHZSaXpSQTFXRDhrY3NzeDhxd3JhcDJLRkFaTUhHUzhtNklQYXA4OUF5Z25acUN2TXp4N3c0cWt4NEdkeFlMaE1qVktzbVZUTHh0MzZVU3JMMVRjdi0wSlF4Qlk2OUE1TUtOTm9lRA?oc=5",
     "source": "nme",
-    "title": "Bad Wolves dropped from tour over singer’s OnlyFans while guitarist quits over Dolly Parton cover - NME",
+    "title": "Bad Wolves dropped from tour over singer’s OnlyFans while guitarist quits over Dolly Parton cover - nme.com",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQak9naW9qRVhEczdXZWRxVTRJVjgydHZGR3NoeWQ1ZkQtLTFWVkxxSTJjT1hEcjFveUNzSUhQREdGYU1QbUh3OUVfZHZSaXpSQTFXRDhrY3NzeDhxd3JhcDJLRkFaTUhHUzhtNklQYXA4OUF5Z25acUN2TXp4N3c0cWt4NEdkeFlMaE1qVktzbVZUTHh0MzZVU3JMMVRjdi0wSlF4Qlk2OUE1TUtOTm9lRA?oc=5",
     "publishedAt": "2026-08-31T17:55:38.000Z",
-    "summary": "Bad Wolves dropped from tour over singer’s OnlyFans while guitarist quits over Dolly Parton cover NME",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-live-reviews/ramones-green-day-blink-182-billie-joe-armstrong-1235618225/",
-    "source": "rolling-stone",
-    "title": "All Hopped Up and Ready to Go: All-Star Punks Honor Ramones at 50",
-    "url": "https://www.rollingstone.com/music/music-live-reviews/ramones-green-day-blink-182-billie-joe-armstrong-1235618225/",
-    "publishedAt": "2026-08-31T17:33:22.000Z",
-    "summary": "Travis Barker, Billie Joe Armstrong, Tim Armstrong, and CJ Ramone’s Cretin Family lead concert tribute to punk group",
+    "summary": "Bad Wolves dropped from tour over singer’s OnlyFans while guitarist quits over Dolly Parton cover nme.com",
     "image": null
   },
   {
@@ -294,15 +429,6 @@
     "url": "https://pitchfork.com/story/skaiwater-new-album-femme-fatale-listen/",
     "publishedAt": "2026-08-31T17:09:12.000Z",
     "summary": "The surprise Femme Fatale is available to stream now",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/christopher-cross-trump-a-hole-toronto-canada-concert-1235618116/",
-    "source": "rolling-stone",
-    "title": "Christopher Cross Uses Canada Stage to Blast Trump, Jokes About Getting ‘Ejected’ From America",
-    "url": "https://www.rollingstone.com/music/music-news/christopher-cross-trump-a-hole-toronto-canada-concert-1235618116/",
-    "publishedAt": "2026-08-31T17:01:40.000Z",
-    "summary": "At a Toronto concert, the “Sailing” singer apologized to Canadian fans, urging them not to “give up on us”",
     "image": null
   },
   {
@@ -351,15 +477,6 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTWNQNkdxN1NMNzVvTEFIR2ZGemZsNXk1TjBkdlg4TmxzbDR5Q204dG1uYXJMTWNfeHVTTk1kdFN1TjdhbXA1OFQxZ0YteDJpaDdTOFdidkc1bWpZcWFGVkZmOHpONF83WURXQ3MtNjd2V2xydTg5aF90ZjJJUmc5YkxfOWJ2WFJ1UGFjazlIUUV2WWF2cDk4eVloQWFXaGR4cmo1M1Vja05UQ25IVkVwRHBXYmk0dXpTYUstVWsybU9VWThlTXl5TWphcGR1bzZyYlRrN0ZXWjR6d3du?oc=5",
-    "source": "nme",
-    "title": "Jack Osbourne reveals sister Kelly in \"happier place\" after split from fiancé, ex-Slipknot member Sid Wilson - NME",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTWNQNkdxN1NMNzVvTEFIR2ZGemZsNXk1TjBkdlg4TmxzbDR5Q204dG1uYXJMTWNfeHVTTk1kdFN1TjdhbXA1OFQxZ0YteDJpaDdTOFdidkc1bWpZcWFGVkZmOHpONF83WURXQ3MtNjd2V2xydTg5aF90ZjJJUmc5YkxfOWJ2WFJ1UGFjazlIUUV2WWF2cDk4eVloQWFXaGR4cmo1M1Vja05UQ25IVkVwRHBXYmk0dXpTYUstVWsybU9VWThlTXl5TWphcGR1bzZyYlRrN0ZXWjR6d3du?oc=5",
-    "publishedAt": "2026-08-31T13:41:10.000Z",
-    "summary": "Jack Osbourne reveals sister Kelly in \"happier place\" after split from fiancé, ex-Slipknot member Sid Wilson NME",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/ramones-tribute-concert-2026-setlist/",
     "source": "loudwire",
     "title": "Ramones All-Star Tribute Concert in Los Angeles: Set List, Photos",
@@ -387,33 +504,6 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMimAFBVV95cUxNWmVfUmlkanhwc2l3dEt6dW9OcHJKTktpNk1pb0hXNllXOHVQOGdpQi1sTGdVM3ByazBkTmprd0pVNzFLVlJ2dmZCQkw4N1RUU1dCTWtiaWxFRm9xYW5mbVdua3Z6Ti1sSi02ZU9iQlBDOTRYSDZFSkpwQUw2NmYzVTljc3hjQzdlQWlFMTBqQlhzQWFBT2E0Qg?oc=5",
-    "source": "nme",
-    "title": "Miguel speaks out against racist attacks on his family - NME",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWmVfUmlkanhwc2l3dEt6dW9OcHJKTktpNk1pb0hXNllXOHVQOGdpQi1sTGdVM3ByazBkTmprd0pVNzFLVlJ2dmZCQkw4N1RUU1dCTWtiaWxFRm9xYW5mbVdua3Z6Ti1sSi02ZU9iQlBDOTRYSDZFSkpwQUw2NmYzVTljc3hjQzdlQWlFMTBqQlhzQWFBT2E0Qg?oc=5",
-    "publishedAt": "2026-08-31T12:31:39.000Z",
-    "summary": "Miguel speaks out against racist attacks on his family NME",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/best-prog-metal-album-different-countries/",
-    "source": "loudwire",
-    "title": "The Best Prog Metal Album From 11 Different Countries",
-    "url": "https://loudwire.com/best-prog-metal-album-different-countries/",
-    "publishedAt": "2026-08-31T12:21:28.000Z",
-    "summary": "You already know that Opeth has the Sweden spot, but WHICH Opeth album did we pick?! Continue reading…",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMivgFBVV95cUxNNmNfVlUxY0JUbGtLNFBKTURsSzNVR2JOby00c1RrLV9yaWdhOUw1Mklvb2V6UlNsS1BIc2tXaHE1dDhNSFZEWWRHMFpvcWlmLUVVRnlnRnRmWk9NQTVEM0NORk5ZVTFQMkEyaGV3ZVdhUUpKZHh1dFMyYzYyazNxWTh0dWxNalFTdVBMd0hEakM4ZThVbGc4clhPcEpESmVfNk00WHBYckJJZEdBa3lLRXduckZ6a1dkNDAyQkh3?oc=5",
-    "source": "nme",
-    "title": "Gladys Knight says she will play fewer shows amid concern over recent performances - NME",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNmNfVlUxY0JUbGtLNFBKTURsSzNVR2JOby00c1RrLV9yaWdhOUw1Mklvb2V6UlNsS1BIc2tXaHE1dDhNSFZEWWRHMFpvcWlmLUVVRnlnRnRmWk9NQTVEM0NORk5ZVTFQMkEyaGV3ZVdhUUpKZHh1dFMyYzYyazNxWTh0dWxNalFTdVBMd0hEakM4ZThVbGc4clhPcEpESmVfNk00WHBYckJJZEdBa3lLRXduckZ6a1dkNDAyQkh3?oc=5",
-    "publishedAt": "2026-08-31T11:05:47.000Z",
-    "summary": "Gladys Knight says she will play fewer shows amid concern over recent performances NME",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/lenny-kaye-and-friends-riot-on-oxford-street/",
     "source": "louder-than-war",
     "title": "Lenny Kaye announces release of Lenny Kaye and Friends: Riot on Oxford Street",
@@ -429,15 +519,6 @@
     "url": "https://www.uncut.co.uk/features/in-search-of-the-mystic-the-strange-magic-of-van-morrisons-greatest-albums-156026/",
     "publishedAt": "2026-08-31T08:02:42.000Z",
     "summary": "From Astral Weeks to Veedon Fleece, Van's greatest albums emerged from a place beyond folk, jazz, country and soul",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGdzhzUkRFbkxEbUxtd0Z6SlZwSy1DbkFrT3hWU3VGcTRJOXRrUmVPNTByTTlYNXFEZ2JwWmZZYmJwUXJUeUN3eEZKTTBnUWs3eHhoaThyV1Zyc2tuT00zT3FNYU0?oc=5",
-    "source": "nme",
-    "title": "Daine is stepping into self-aware popstardom: “It’s embarrassing in a delicious way” - NME",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGdzhzUkRFbkxEbUxtd0Z6SlZwSy1DbkFrT3hWU3VGcTRJOXRrUmVPNTByTTlYNXFEZ2JwWmZZYmJwUXJUeUN3eEZKTTBnUWs3eHhoaThyV1Zyc2tuT00zT3FNYU0?oc=5",
-    "publishedAt": "2026-08-31T08:00:06.000Z",
-    "summary": "Daine is stepping into self-aware popstardom: “It’s embarrassing in a delicious way” NME",
     "image": null
   },
   {
@@ -459,39 +540,12 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/mastodon-new-album-title-marrow-deep-brann-dailor-explains/",
-    "source": "loudwire",
-    "title": "Brann Dailor Explains Why Mastodon Called New Album 'Marrow Deep'",
-    "url": "https://loudwire.com/mastodon-new-album-title-marrow-deep-brann-dailor-explains/",
-    "publishedAt": "2026-08-30T16:14:48.000Z",
-    "summary": "The drummer/vocalist dives into how the title of Mastodon's latest LP represents loss, relationships and gratitude. Continue reading…",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/watch-olivia-rodrigo-sing-landslide-with-stevie-nicks-at-daisy-chain-fields/",
     "source": "pitchfork",
     "title": "Watch Olivia Rodrigo Sing  “Landslide” with Stevie Nicks at Daisy Chain Fields",
     "url": "https://pitchfork.com/story/watch-olivia-rodrigo-sing-landslide-with-stevie-nicks-at-daisy-chain-fields/",
     "publishedAt": "2026-08-30T15:06:10.000Z",
     "summary": "She also brought out Alanis Morissette and Sarah McLachlan during a headlining set at her new music festival",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/shinedown-brent-smith-dolly-parton/",
-    "source": "loudwire",
-    "title": "Shinedown's Brent Smith Honors 'Extraordinary' Dolly Parton",
-    "url": "https://loudwire.com/shinedown-brent-smith-dolly-parton/",
-    "publishedAt": "2026-08-30T14:41:32.000Z",
-    "summary": "The Shinedown singer explains why Dolly Parton was so influential to him, as well as why she'll be \"talked about for centuries.\" Continue reading…",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/young-thug-drops-slime-language-3-with-future-and-veeze/",
-    "source": "pitchfork",
-    "title": "Young Thug Drops Slime Language 3 With Future and Veeze",
-    "url": "https://pitchfork.com/story/young-thug-drops-slime-language-3-with-future-and-veeze/",
-    "publishedAt": "2026-08-30T13:41:02.000Z",
-    "summary": "Cash Cobain, Lil Baby, Tezzus, and diamond* also feature on the latest Young Stoner Life compilation",
     "image": null
   },
   {
@@ -504,33 +558,6 @@
     "image": null
   },
   {
-    "id": "louder-than-war-https://louderthanwar.com/davey-woodward-the-bristolian-album-review-a-proletarian-rhapsody/",
-    "source": "louder-than-war",
-    "title": "Davey Woodward: The Bristolian – album review – A Proletarian Rhapsody",
-    "url": "https://louderthanwar.com/davey-woodward-the-bristolian-album-review-a-proletarian-rhapsody/",
-    "publishedAt": "2026-08-30T11:07:58.000Z",
-    "summary": "album review Davey Woodward The Bristolian Last Night From Glasgow. Vinyl/CD/Digital released 04 September 2026 5/5 This is the album that inspired the very well received Top Ten Saddest Songs Ever… (Davey Woodward Says) piece, in which I said it includes ‘some of the saddest songs I’ve ever heard’. There are some lighter ones: love […] The post Davey Woodward: The Bristolian – album review – A Proletarian Rhapsody appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/iron-maiden-setlist-north-america-2026/",
-    "source": "loudwire",
-    "title": "Iron Maiden Launch 2026 North American Tour - Photos, Setlist",
-    "url": "https://loudwire.com/iron-maiden-setlist-north-america-2026/",
-    "publishedAt": "2026-08-30T08:32:59.000Z",
-    "summary": "The band's 'Run for Your Lives' tour finally arrives in North America. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "louder-than-war-https://louderthanwar.com/belair-lip-bombs-where-else-margate-kent-live-review/",
-    "source": "louder-than-war",
-    "title": "Belair Lip Bombs: Where Else? Margate, Kent – Live Review",
-    "url": "https://louderthanwar.com/belair-lip-bombs-where-else-margate-kent-live-review/",
-    "publishedAt": "2026-08-29T12:05:39.000Z",
-    "summary": "Belair Lip Bombs|Legss Where Else?, Margate, Kent 26th August 2026 From Melbourne to Margate, via Green Man, Cambridge and Birmingham, Belair Lip Bombs traversed continents to bring their intoxicating brand of Rock n’ Roll to Where Else? In the sweaty basement of the independent venue on the South-East coast, Maisie, Mike, Jimmy and Daniel delivered […] The post Belair Lip Bombs: Where Else? Margate, Kent – Live Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMikwFBVV95cUxQNmNYLUVoT2FoZHJfLTRiYjY2MVc1bnFmRC1acHctMzJqemxJdkU4Q2VLbnI5enpMTU92cGg2ZmxTMHdkbzRaTFZUbUwyczFnUldqenJmX0pMNFJMSVF4a0Q1cjVHRHRDVzB6TUR3MWlSNkZwcWFWNF9CUlVaMkZ3QlRNelZCUlczWnFYVWpNc0N5Wnc?oc=5",
     "source": "kerrang",
     "title": "THE PLOT IN YOU X KERRANG! LIMITED-EDITION 20-PAGE ZINE - Kerrang!",
@@ -540,39 +567,12 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/story/mac-demarco-releases-four-new-albums/",
-    "source": "pitchfork",
-    "title": "Mac DeMarco Releases Four New Albums",
-    "url": "https://pitchfork.com/story/mac-demarco-releases-four-new-albums/",
-    "publishedAt": "2026-08-28T19:24:16.000Z",
-    "summary": "The projects were originally issued as physical-only CD-Rs on tour",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/cardi-b-new-song-ah-ha/",
-    "source": "pitchfork",
-    "title": "Watch Cardi B Have a Very New York Summer in “Ah Ha” Video",
-    "url": "https://pitchfork.com/story/cardi-b-new-song-ah-ha/",
-    "publishedAt": "2026-08-28T19:07:01.000Z",
-    "summary": "It’s her first single since 2025’s Am I the Drama?",
-    "image": null
-  },
-  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaVJ0QzlDSElYY1VvRnUtN01wbU9hcGFJem84MGRJS3M5UTk5MVJfd01aaGhIdFZDMjU2TUIxZHExNWNqc3Z2NFA4SDZ3bnROQW5EMlhIMWI5eVF4b1hoWDhyUTlfNlAybmM1ZlZoQ3pBMXlqY3BXUG5uUFZpQjg2LXFKMW5LUzNKUXVRczZuSS1sVExMekp4OHdvSWZDdFF3Q1l6UF9oQzNkUlVsZUtBOTdGWENKbXBGSzJ1ZFNKem9aZXM5Y1FlX2U5THNKaU9r?oc=5",
     "source": "kerrang",
     "title": "President - Blood Of Your Empire - Exclusive limited edition Kerrang! Tape + Numbered exclusive photo print - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaVJ0QzlDSElYY1VvRnUtN01wbU9hcGFJem84MGRJS3M5UTk5MVJfd01aaGhIdFZDMjU2TUIxZHExNWNqc3Z2NFA4SDZ3bnROQW5EMlhIMWI5eVF4b1hoWDhyUTlfNlAybmM1ZlZoQ3pBMXlqY3BXUG5uUFZpQjg2LXFKMW5LUzNKUXVRczZuSS1sVExMekp4OHdvSWZDdFF3Q1l6UF9oQzNkUlVsZUtBOTdGWENKbXBGSzJ1ZFNKem9aZXM5Y1FlX2U5THNKaU9r?oc=5",
     "publishedAt": "2026-08-28T14:33:39.000Z",
     "summary": "President - Blood Of Your Empire - Exclusive limited edition Kerrang! Tape + Numbered exclusive photo print Kerrang!",
-    "image": null
-  },
-  {
-    "id": "louder-than-war-https://louderthanwar.com/leeds-festival-2026-thursday-festival-review/",
-    "source": "louder-than-war",
-    "title": "Leeds Festival 2026: Thursday – Festival Review",
-    "url": "https://louderthanwar.com/leeds-festival-2026-thursday-festival-review/",
-    "publishedAt": "2026-08-28T11:29:36.000Z",
-    "summary": "Leeds Festival – Thursday Bramham Park 27th August 2026 Leeds Festival launches it’s new Pepsi sponsored Leeds 2.0 look amid dire weather warnings The summer of 2026 has been dominated by severe weather warnings, culminating in a national alert about fire risks. It’s almost inevitable Leeds Festival’s party will be a wash out given the […] The post Leeds Festival 2026: Thursday – Festival Review appeared first on Louder Than War.",
     "image": null
   },
   {
