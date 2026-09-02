@@ -1,47 +1,155 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/latin/the-warning-mexico-city-gnp-seguros-stadium-debut-2027-1236330710/",
+    "source": "billboard",
+    "title": "The Warning to Make GNP Seguros Stadium Debut in 2027: ‘We’ve Dreamed & Worked So Hard to Reach This Moment’",
+    "url": "https://www.billboard.com/music/latin/the-warning-mexico-city-gnp-seguros-stadium-debut-2027-1236330710/",
+    "publishedAt": "2026-09-02T22:18:02.000Z",
+    "summary": "The Villarreal Vélez sisters will become the first all-female band to perform at the iconic stadium in the Mexico City.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/latin/selena-quintanilla-brother-legal-dispute-sister-suzette-1236331943/",
+    "source": "billboard",
+    "title": "Selena Quintanilla’s Brother Alludes to Legal Action Against Sister Suzette: ‘Many Things Will Be Made Clear’",
+    "url": "https://www.billboard.com/music/latin/selena-quintanilla-brother-legal-dispute-sister-suzette-1236331943/",
+    "publishedAt": "2026-09-02T22:09:04.000Z",
+    "summary": "On Instagram, A.B. Quintanilla posted a screenshot of a cease-and-desist allegedly sent to Suzette over her \"utter disregard for her fiduciary duties.\"",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/tim-curry-cause-of-death-revealed-1236331862/",
+    "source": "billboard",
+    "title": "Tim Curry’s Cause of Death Revealed",
+    "url": "https://www.billboard.com/music/music-news/tim-curry-cause-of-death-revealed-1236331862/",
+    "publishedAt": "2026-09-02T22:06:11.000Z",
+    "summary": "The actor died at age 80 on Aug. 25.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/tupac-case-why-the-notorious-big-murder-may-remain-unsolved-1235620243/",
+    "source": "rolling-stone",
+    "title": "Poetic Justice: Tupac’s Murder Case and Why the Notorious B.I.G.’s May Remain Unsolved",
+    "url": "https://www.rollingstone.com/music/music-features/tupac-case-why-the-notorious-big-murder-may-remain-unsolved-1235620243/",
+    "publishedAt": "2026-09-02T22:05:07.000Z",
+    "summary": "Keffe D's conviction for the death of Shakur has many questioning if Biggie's murder will ever receive closure",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/latin/wisin-universidad-del-perreo-new-management-interview-1236331708/",
+    "source": "billboard",
+    "title": "Wisin Launches ‘Universidad del Perreo’ & Signs New Management: ‘The Music Speaks’",
+    "url": "https://www.billboard.com/music/latin/wisin-universidad-del-perreo-new-management-interview-1236331708/",
+    "publishedAt": "2026-09-02T21:52:08.000Z",
+    "summary": "Wisin's new album brings together legendary reggaetón figures like Ivy Queen, Don Chezina and Jowell & Randy.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/olivia-rodrigo-grammy-museum-interview-performance-1236331705/",
+    "source": "billboard",
+    "title": "Olivia Rodrigo Opens Up About ‘GUTS’ Pressure & Finding Joy on ‘Sad’ New Album at Grammy Museum",
+    "url": "https://www.billboard.com/music/pop/olivia-rodrigo-grammy-museum-interview-performance-1236331705/",
+    "publishedAt": "2026-09-02T21:43:39.000Z",
+    "summary": "”I try not to be precious. Perfectionism doesn't serve you when you're writing songs,” the singer/songwriter says Tuesday night.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/kanye-west-us-tour-stadium-shows-dallas-houston-phoenix-1236331481/",
+    "source": "billboard",
+    "title": "Ye Announces a Trio of New U.S. Stadium Shows",
+    "url": "https://www.billboard.com/music/rb-hip-hop/kanye-west-us-tour-stadium-shows-dallas-houston-phoenix-1236331481/",
+    "publishedAt": "2026-09-02T21:23:16.000Z",
+    "summary": "West returns to Chicago for a pair of homecoming shows on Sept. 3 and 4.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/coco-gauff-tennis-pre-game-playlist-us-open/",
+    "source": "billboard",
+    "title": "Coco Gauff’s Empire State of Mind: Tennis, Music and the Energy Behind Her US Open Run — ‘I Just Feel Like a New Person’",
+    "url": "https://www.billboard.com/lists/coco-gauff-tennis-pre-game-playlist-us-open/",
+    "publishedAt": "2026-09-02T21:22:49.000Z",
+    "summary": "Ahead of her US Open journey, Coco Gauff opens up about evolving her game, finding balance through music and the unique energy she gets from playing in New York.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/cassandra-wilson-death-grammy-winning-jazz-singer-1236331868/",
+    "source": "billboard",
+    "title": "Cassandra Wilson, Grammy-Winning Jazz Singer, Dies at 70",
+    "url": "https://www.billboard.com/music/music-news/cassandra-wilson-death-grammy-winning-jazz-singer-1236331868/",
+    "publishedAt": "2026-09-02T21:19:55.000Z",
+    "summary": "Dubbed America’s best singer by Time magazine in 2001, Wilson was best known for her genre-bending voice.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/shakira-burna-boy-dai-world-cup-number-1-rhythm-radio-chart-1236331697/",
+    "source": "billboard",
+    "title": "Shakira Scores First-Ever Rhythmic Airplay No. 1 With Burna Boy Collab ‘Dai Dai’",
+    "url": "https://www.billboard.com/music/chart-beat/shakira-burna-boy-dai-world-cup-number-1-rhythm-radio-chart-1236331697/",
+    "publishedAt": "2026-09-02T21:14:57.000Z",
+    "summary": "The World Cup anthem leads the Billboard Global 200 for a seventh week.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/stevie-nicks-olivia-rodrigo-practical-magic-2-soundtrack-1236331711/",
+    "source": "billboard",
+    "title": "Stevie Nicks & Olivia Rodrigo Featured on ‘Practical Magic 2’ Soundtrack Following ‘Landslide’ Duet",
+    "url": "https://www.billboard.com/music/music-news/stevie-nicks-olivia-rodrigo-practical-magic-2-soundtrack-1236331711/",
+    "publishedAt": "2026-09-02T21:11:44.000Z",
+    "summary": "The duo first united onstage at Daisy Chain Fields over the weekend.",
+    "image": null
+  },
+  {
+    "id": "louder-than-war-https://louderthanwar.com/slaughter-and-the-dogs-new-album-review/",
+    "source": "louder-than-war",
+    "title": "Slaughter and the Dogs ‘White Heat’ album review ‘powerful return to form’",
+    "url": "https://louderthanwar.com/slaughter-and-the-dogs-new-album-review/",
+    "publishedAt": "2026-09-02T20:42:28.000Z",
+    "summary": "Slaughter And The Dogs return with their first proper album since Vicious, featuring Mick Rossi on vocals and a classic Manchester punk sound. The post Slaughter and the Dogs ‘White Heat’ album review ‘powerful return to form’ appeared first on Louder Than War.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/noel-gallagher-hint-oasis-2027/",
+    "source": "loudwire",
+    "title": "Noel Gallagher Drops Major Hint About Oasis' Next Move",
+    "url": "https://loudwire.com/noel-gallagher-hint-oasis-2027/",
+    "publishedAt": "2026-09-02T20:37:12.000Z",
+    "summary": "Will Oasis return to touring in 2027? Noel Gallagher offers a cryptic response. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/cassandra-wilson-jazz-singer-dead-obituary-1235619965/",
+    "source": "rolling-stone",
+    "title": "Cassandra Wilson, Grammy-Winning Jazz Singer, Dead at 70",
+    "url": "https://www.rollingstone.com/music/music-news/cassandra-wilson-jazz-singer-dead-obituary-1235619965/",
+    "publishedAt": "2026-09-02T20:16:44.000Z",
+    "summary": "Vocalist blended jazz with pop music repertoire and was famous for putting refreshing, unusual spins on well-known songs",
+    "image": null
+  },
+  {
+    "id": "louder-than-war-https://louderthanwar.com/warby-releases-debut-album-mystic-powers-and-announces-brighton-and-london-headline-shows/",
+    "source": "louder-than-war",
+    "title": "WARBY releases debut album Mystic Powers and announces Brighton and London headline shows",
+    "url": "https://louderthanwar.com/warby-releases-debut-album-mystic-powers-and-announces-brighton-and-london-headline-shows/",
+    "publishedAt": "2026-09-02T20:14:16.000Z",
+    "summary": "WARBY releases debut album Mystic Powers and announces Brighton and London headline shows WARBY has released his long-awaited debut album Mystic Powers via Esco Romanesco Records/AWAL, alongside headline shows in Brighton and London and new videos for Venetian Columns and Forsaken. Released on 28 August, Mystic Powers is the debut solo album from WARBY, a […] The post WARBY releases debut album Mystic Powers and announces Brighton and London headline shows appeared first on Louder Than War.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/dolly-parton-new-dollywood-parks-exhibits-memorial-honor-1235620073/",
+    "source": "rolling-stone",
+    "title": "Dollywood Developing ‘Several New Experiences’ to Honor Dolly Parton",
+    "url": "https://www.rollingstone.com/music/music-news/dolly-parton-new-dollywood-parks-exhibits-memorial-honor-1235620073/",
+    "publishedAt": "2026-09-02T20:12:17.000Z",
+    "summary": "Dollywood Parks & Resorts will reflect on the life and legacy of its founder in the wake of her death",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/stevie-nicks-olivia-rodrigo-practical-magic-2-1235619423/",
     "source": "rolling-stone",
     "title": "Here’s What Stevie Nicks and Olivia Rodrigo Sing on the ‘Practical Magic 2’ Soundtrack",
     "url": "https://www.rollingstone.com/music/music-news/stevie-nicks-olivia-rodrigo-practical-magic-2-1235619423/",
     "publishedAt": "2026-09-02T19:04:18.000Z",
-    "summary": "After their duet on \"Landslide,\" Sandra Bullock teased that their \"angel voices\" appear on the upcoming sequel",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/country/kelsey-hart-love-to-be-that-guy-makin-tracks-1236331516/",
-    "source": "billboard",
-    "title": "Kelsey Hart Looks to Cash In on New Radio Single ‘Love to Be That Guy’: ‘That Was a Standout’",
-    "url": "https://www.billboard.com/music/country/kelsey-hart-love-to-be-that-guy-makin-tracks-1236331516/",
-    "publishedAt": "2026-09-02T19:01:43.000Z",
-    "summary": "Billboard's Makin' Tracks column looks at the writing and recording process behind Kelsey Hart's \"Love to Be That Guy.\"",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/mls-stars-2026-songs-summer-playlist-ella-langley-rod-wave/",
-    "source": "billboard",
-    "title": "‘Just the Right BPM to Make You Happy’: Tim Ream, Timo Werner & More MLS Stars Pick Their Songs of the Summer, From Ella Langley to Rod Wave",
-    "url": "https://www.billboard.com/lists/mls-stars-2026-songs-summer-playlist-ella-langley-rod-wave/",
-    "publishedAt": "2026-09-02T18:53:57.000Z",
-    "summary": "Petar Musa, Maxime Crepeaú, Denis Bouanga & Joseph Paintsil are also among the soccer stars sharing their current summer jams with Billboard.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/taylor-swift-travis-kelce-wedding-card-mug-gifts-fan-merch-1236287675/",
-    "source": "billboard",
-    "title": "From ‘Royal Wedding’ Mugs to ‘Paper Rings,’ Taylor & Travis Wedding Merch Hits the Internet As Football Star Calls Ceremony ‘So Magical’",
-    "url": "https://www.billboard.com/culture/product-recommendations/taylor-swift-travis-kelce-wedding-card-mug-gifts-fan-merch-1236287675/",
-    "publishedAt": "2026-09-02T18:45:00.000Z",
-    "summary": "These are all unofficial items of course, but well, they're actually romantic.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/love-koi-hajimemashita-riize-sunburst-japan-hot-100-1236331538/",
-    "source": "billboard",
-    "title": "=LOVE’s ‘Koi, Hajimemashita.’ Hits No. 1, RIIZE’s ‘Sunburst’ Debuts at No. 2 on Japan Hot 100",
-    "url": "https://www.billboard.com/music/chart-beat/love-koi-hajimemashita-riize-sunburst-japan-hot-100-1236331538/",
-    "publishedAt": "2026-09-02T18:39:19.000Z",
-    "summary": "EBiDAN's \"Yes! Tokyo\" holds at No. 3, while last week's No. 1, TOMORROW X TOGETHER's \"Setsuna Hanabi,\" falls to No. 4.",
+    "summary": "After the two singers’ “Landslide” duet, Sandra Bullock teased that their “angel voices” appear on the upcoming sequel",
     "image": null
   },
   {
@@ -50,7 +158,7 @@
     "title": "D4vd Doesn’t Deserve Public Defender, Lawyer for Celeste Rivas Hernandez’s Family Claims",
     "url": "https://www.rollingstone.com/music/music-news/d4vd-not-indigent-lawyer-claims-1235619888/",
     "publishedAt": "2026-09-02T18:24:01.000Z",
-    "summary": "\"The residents of Los Angeles County should be outraged because it will be the taxpayers that are picking [up] the tab to defend this millionaire,\" Patrick Steinfeld says",
+    "summary": "“The residents of Los Angeles County should be outraged because it will be the taxpayers that are picking [up] the tab to defend this millionaire,” Patrick Steinfeld says",
     "image": null
   },
   {
@@ -68,43 +176,7 @@
     "title": "Karol G and Bruno Mars Fill a Stadium With Love in ‘Still’ Video",
     "url": "https://www.rollingstone.com/music/music-features/karol-g-bruno-mars-still-video-1235619907/",
     "publishedAt": "2026-09-02T18:19:13.000Z",
-    "summary": "The video was captured behind the scenes and onstage as Mars made a surprise appearance during Karol G's recent L.A. concert for the live debut of their collaboration",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/billy-ray-cyrus-reacts-miley-cyrus-dropping-last-name-1236331458/",
-    "source": "billboard",
-    "title": "Here’s How Billy Ray Cyrus Really Feels About Miley Dropping ‘Cyrus’ From Her Name",
-    "url": "https://www.billboard.com/music/music-news/billy-ray-cyrus-reacts-miley-cyrus-dropping-last-name-1236331458/",
-    "publishedAt": "2026-09-02T18:16:28.000Z",
-    "summary": "\"Family means more than ever now,\" the country star began his message.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/cardi-b-kulture-grow-good-beauty-campaign-1236331383/",
-    "source": "billboard",
-    "title": "Cardi B Has Kulture Star in Grow-Good Beauty Campaign, Promises Daughter Will Own Company",
-    "url": "https://www.billboard.com/music/rb-hip-hop/cardi-b-kulture-grow-good-beauty-campaign-1236331383/",
-    "publishedAt": "2026-09-02T18:09:56.000Z",
-    "summary": "The rapper launched her hair-care brand in March.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/trump-admin-says-ai-training-is-fair-use/",
-    "source": "billboard",
-    "title": "As Music Industry Battles AI Firms Over Training, Trump Admin Says It’s Fair Use",
-    "url": "https://www.billboard.com/pro/trump-admin-says-ai-training-is-fair-use/",
-    "publishedAt": "2026-09-02T18:09:01.000Z",
-    "summary": "Weighing in on a legal question with trillion-dollar stakes, the administration says AI firms don't need to pay for the millions of works they use without permission.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/ariana-grande-eternal-sunshine-tour-gross-100-million/",
-    "source": "billboard",
-    "title": "Ariana Grande’s Eternal Sunshine Tour Surpasses $100 Million in Grosses",
-    "url": "https://www.billboard.com/pro/ariana-grande-eternal-sunshine-tour-gross-100-million/",
-    "publishedAt": "2026-09-02T18:07:08.000Z",
-    "summary": "The trek broke nine digits from just 41 arena shows.",
+    "summary": "The video was captured behind the scenes and onstage as Mars made a surprise appearance during Karol G’s recent L.A. concert for the live debut of their collaboration",
     "image": null
   },
   {
@@ -117,30 +189,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/drake-iceman-longest-running-number-1-album-hip-hop-chart-1236331462/",
-    "source": "billboard",
-    "title": "Drake’s ‘ICEMAN’ Becomes His Longest-Leading No. 1 Album on R&B/Hip-Hop Chart",
-    "url": "https://www.billboard.com/music/chart-beat/drake-iceman-longest-running-number-1-album-hip-hop-chart-1236331462/",
-    "publishedAt": "2026-09-02T17:57:18.000Z",
-    "summary": "The set passes Take Care as it nets a 13th week on top.",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/menu-maynard-james-keenan-sushi/",
     "source": "loudwire",
     "title": "What's on the Menu at Maynard James Keenan's New Queen B Sushi ",
     "url": "https://loudwire.com/menu-maynard-james-keenan-sushi/",
     "publishedAt": "2026-09-02T17:55:06.000Z",
     "summary": "A musician is bringing his Japan-inspired sushi concept to Arizona, complete with a signature roll named after one of his bands. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/latin/karol-g-bruno-mars-still-video-1236331431/",
-    "source": "billboard",
-    "title": "Watch Karol G & Bruno Mars Get Cozy & Playful Backstage in Sweet Video for ‘Still’",
-    "url": "https://www.billboard.com/music/latin/karol-g-bruno-mars-still-video-1236331431/",
-    "publishedAt": "2026-09-02T17:54:11.000Z",
-    "summary": "The song is part of the Colombian star's latest album, No Me Arrepiento De Sentir Tanto.",
     "image": null
   },
   {
@@ -189,39 +243,12 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/tupac-shakur-murder-duane-davis-keffe-d-1235619272/",
-    "source": "rolling-stone",
-    "title": "I Followed Tupac Shakur’s Murder for Three Decades. Keffe D Talked Too Much",
-    "url": "https://www.rollingstone.com/music/music-features/tupac-shakur-murder-duane-davis-keffe-d-1235619272/",
-    "publishedAt": "2026-09-02T15:51:32.000Z",
-    "summary": "Time and a big mouth finally catch up to Duane “Keffe D” Davis in hip-hop superstar’s murder",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/djrum-has-a-dj-kicks-on-the-way/",
     "source": "pitchfork",
     "title": "Djrum Has a DJ-Kicks on the Way",
     "url": "https://pitchfork.com/story/djrum-has-a-dj-kicks-on-the-way/",
     "publishedAt": "2026-09-02T15:48:11.000Z",
     "summary": "Featuring Skee Mask and Clark exclusives, plus four new originals of his own",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/rush-neil-peart-doc-no-ones-disciple-1235619750/",
-    "source": "rolling-stone",
-    "title": "See Rush Pay Belated Tribute to Neil Peart in New Doc",
-    "url": "https://www.rollingstone.com/music/music-news/rush-neil-peart-doc-no-ones-disciple-1235619750/",
-    "publishedAt": "2026-09-02T15:38:59.000Z",
-    "summary": "The film, which premieres this month at TIFF, also features the Police's Stewart Copeland, Red Hot Chili Peppers' Chad Smith",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/why-travis-kelce-taylor-swift-chose-msg-for-wedding-1235619693/",
-    "source": "rolling-stone",
-    "title": "Travis Kelce and Taylor Swift Needed ‘Intimate and Genuine’ Venue for Wedding — So MSG Was Perfect",
-    "url": "https://www.rollingstone.com/music/music-news/why-travis-kelce-taylor-swift-chose-msg-for-wedding-1235619693/",
-    "publishedAt": "2026-09-02T15:09:13.000Z",
-    "summary": "“We needed it to be a private feel,” Kelce said on the first episode of his New Heights podcast since the July 3 ceremony",
     "image": null
   },
   {
@@ -342,6 +369,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMiygFBVV95cUxOWWE2YWROQ1o2SEJEMFdfNFhaM1g2V3VNUzFMdDl0YjVKSDlMUXd1MnlFWVY0dWlFMG5QMnVZZFRZTmE0d081RnpDYmNGdnpxcmlTSEgtZjViYmJIUjM5dmZXckd1Tjl1eFJoUjVpeGxoc2VEY2VlSlU0ejh3ck1uZG1rcnJvRHJrdURVNlNWeUZlanE3MUt6S21BcURwdUlyaEp6blFLRHBpU0FrMXByZ0NqNjBib3A4aHN2SkxBX1VRYVJIeENlMS1n?oc=5",
+    "source": "nme",
+    "title": "Alanis Morissette accuses ex-tour manager of extortion scheme over airport drugs in lawsuit - NME",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWWE2YWROQ1o2SEJEMFdfNFhaM1g2V3VNUzFMdDl0YjVKSDlMUXd1MnlFWVY0dWlFMG5QMnVZZFRZTmE0d081RnpDYmNGdnpxcmlTSEgtZjViYmJIUjM5dmZXckd1Tjl1eFJoUjVpeGxoc2VEY2VlSlU0ejh3ck1uZG1rcnJvRHJrdURVNlNWeUZlanE3MUt6S21BcURwdUlyaEp6blFLRHBpU0FrMXByZ0NqNjBib3A4aHN2SkxBX1VRYVJIeENlMS1n?oc=5",
+    "publishedAt": "2026-09-02T10:07:50.000Z",
+    "summary": "Alanis Morissette accuses ex-tour manager of extortion scheme over airport drugs in lawsuit NME",
+    "image": null
+  },
+  {
     "id": "nme-https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSEF6WDJROGJITHhHSjZVb0NEVlJwVEpWQThZLS01YlNsU2QzN1ZYcHhOZndaZmYwcGRYazBEZWxfaXJSZzc0VVNLQnZNSTZkckFfN2hQTmFmaEFQYjJoVlhrc3EtM3o2TVVBRFE3ckxMV1J2NGYtMTJ6WmN5U1dJMEpFR0FpYUlDUzJBdDhVaG14TlJjUTltM2dvaEs5eldkSHNBZlFkbGRDVVRoRnltcWxTU1M1RHdrUVJEUmUydkg1WHY0a1BuNmswbFhrVWE4TUZJNDNBMTVKMmVzRG41cHlxWGE1eUE?oc=5",
     "source": "nme",
     "title": "Ariana Grande ends London O2 run with emotional and tearful tribute to fans before stepping away from public life - NME",
@@ -369,21 +405,12 @@
     "image": null
   },
   {
-    "id": "louder-than-war-https://louderthanwar.com/randy-edelman-releases-new-single-green-park-ahead-of-intimate-new-album-of-the-same-name/",
-    "source": "louder-than-war",
-    "title": "RANDY EDELMAN RELEASES NEW SINGLE “GREEN PARK” AHEAD OF INTIMATE NEW ALBUM OF THE SAME NAME",
-    "url": "https://louderthanwar.com/randy-edelman-releases-new-single-green-park-ahead-of-intimate-new-album-of-the-same-name/",
-    "publishedAt": "2026-09-02T08:25:29.000Z",
-    "summary": "Award-winning composer, songwriter and pianist Randy Edelman unveils the title track from Green Park, out via Cherry Red Records on September 25 — a deeply personal album inspired by his lifelong relationship with London. NEW YORK, NY — Friday, August 28, 2026 — Composer, singer/songwriter and pianist Randy Edelman has released “Green Park,” the title track […] The post RANDY EDELMAN RELEASES NEW SINGLE “GREEN PARK” AHEAD OF INTIMATE NEW ALBUM OF THE SAME NAME appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "louder-than-war-https://louderthanwar.com/forwards-2026-festival-review/",
-    "source": "louder-than-war",
-    "title": "Forwards 2026 – Festival Review",
-    "url": "https://louderthanwar.com/forwards-2026-festival-review/",
-    "publishedAt": "2026-09-02T08:17:28.000Z",
-    "summary": "Forwards Festival Clifton Downs, Bristol 29th-30th August 2026 With incredible acts, thoughtful talks and an unbeatable atmosphere, Forwards more than delivered this year. Elliott Simpson reviews. It feels inappropriate to complain about the weather when we’re at the tail end of one of the driest summers on record, yet I did feel a twinge of […] The post Forwards 2026 – Festival Review appeared first on Louder Than War.",
+    "id": "nme-https://news.google.com/rss/articles/CBMiqAFBVV95cUxPejJFNllpaDRSaGZRTzFEQXJrWXhKZUlCV0p6T0Q0Z21iU0d2OUlINjdycFFWS1dXYm5CTGg2d0xkOHdwQm9BaXZPQk1QQzBsOGJLV2h5ZloyMU9lUldaWU9WSDVJUl9XSFV2dFFqMHBWSDFBeTk5RXdBbWs4aWpOV2xxbl83VEx6QnRFcmp4Z0hIa0hUN3hxY3ZlTV9IVEkyNXZzbU5jSi0?oc=5",
+    "source": "nme",
+    "title": "Ridley Scott blames ‘Gladiator 2’ negativity on Paul Mescal not being “masculine enough”, says new report - NME",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPejJFNllpaDRSaGZRTzFEQXJrWXhKZUlCV0p6T0Q0Z21iU0d2OUlINjdycFFWS1dXYm5CTGg2d0xkOHdwQm9BaXZPQk1QQzBsOGJLV2h5ZloyMU9lUldaWU9WSDVJUl9XSFV2dFFqMHBWSDFBeTk5RXdBbWs4aWpOV2xxbl83VEx6QnRFcmp4Z0hIa0hUN3hxY3ZlTV9IVEkyNXZzbU5jSi0?oc=5",
+    "publishedAt": "2026-09-02T09:22:51.000Z",
+    "summary": "Ridley Scott blames ‘Gladiator 2’ negativity on Paul Mescal not being “masculine enough”, says new report NME",
     "image": null
   },
   {
@@ -495,15 +522,6 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMitAFBVV95cUxNR3Vtbl9adThQODFaNWZDN0dYRFktVzBqUlZBWVI2TXcya3ZuYVlZLXBaUlBYQkZQSUFwdG5uYWVCZ3hhU3VFVVI0YTlmVE1HNXJhNUt6eVdUMlRIZUxieEs0dVA2NUFSeFZFRTBSdFV2bUQ0VHBVZ1M2MjNPcW45Ul9XdzI5ZlpQQWkwV1FlVjJfRlc4NURwNlFfVlBCQTZtX2lKSHdweHRPbEU0UDJJT3FoYnI?oc=5",
-    "source": "nme",
-    "title": "Woman steals ambulance outside Avenged Sevenfold and Good Charlotte gig before crashing - NME",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR3Vtbl9adThQODFaNWZDN0dYRFktVzBqUlZBWVI2TXcya3ZuYVlZLXBaUlBYQkZQSUFwdG5uYWVCZ3hhU3VFVVI0YTlmVE1HNXJhNUt6eVdUMlRIZUxieEs0dVA2NUFSeFZFRTBSdFV2bUQ0VHBVZ1M2MjNPcW45Ul9XdzI5ZlpQQWkwV1FlVjJfRlc4NURwNlFfVlBCQTZtX2lKSHdweHRPbEU0UDJJT3FoYnI?oc=5",
-    "publishedAt": "2026-09-01T15:50:14.000Z",
-    "summary": "Woman steals ambulance outside Avenged Sevenfold and Good Charlotte gig before crashing NME",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/oso-oso-announce-album-on-mark-quinlans-new-label/",
     "source": "pitchfork",
     "title": "Oso Oso Announce Album on Mark Quinlan’s New Label",
@@ -549,15 +567,6 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMiowFBVV95cUxQYk0zakhLQkttdURKWWdBVjdUUHZKbW5zd2VFVVFBM0g5Sm9HVXRMTzhhc0k3WHB3VnRzNkhyc2hkbjlDT0tnc1BfSEdQZGhUaUJSTk9yX2NLRWZZaWtoVFhXUS0yNkNNTk10MXN5ZVYxWllINUJNLUJOeTZldk1wNllYX1FFaGJKZnR1VDk4enF6SEotRkNpeW1nYzZ1QllZaWxn?oc=5",
-    "source": "nme",
-    "title": "Kneecap announce massive 'Fenian' world tour – including 2026 UK and Ireland arena dates - NME",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYk0zakhLQkttdURKWWdBVjdUUHZKbW5zd2VFVVFBM0g5Sm9HVXRMTzhhc0k3WHB3VnRzNkhyc2hkbjlDT0tnc1BfSEdQZGhUaUJSTk9yX2NLRWZZaWtoVFhXUS0yNkNNTk10MXN5ZVYxWllINUJNLUJOeTZldk1wNllYX1FFaGJKZnR1VDk4enF6SEotRkNpeW1nYzZ1QllZaWxn?oc=5",
-    "publishedAt": "2026-09-01T11:46:28.000Z",
-    "summary": "Kneecap announce massive 'Fenian' world tour – including 2026 UK and Ireland arena dates NME",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/features/the-murder-of-tupac-inside-the-30-year-hunt-for-justice-156042/",
     "source": "uncut",
     "title": "The murder of Tupac: inside the 30-year hunt for justice",
@@ -573,15 +582,6 @@
     "url": "https://loudwire.com/rock-stars-birthdays-september/",
     "publishedAt": "2026-09-01T10:30:24.000Z",
     "summary": "Blow out the candles! September is full of rock star birthdays. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/better-acdc-album-let-there-be-rock-vs-back-in-black/",
-    "source": "loudwire",
-    "title": "VOTE: Better AC/DC Album - 'Let There Be Rock' vs. 'Back in Black",
-    "url": "https://loudwire.com/better-acdc-album-let-there-be-rock-vs-back-in-black/",
-    "publishedAt": "2026-08-31T20:35:38.000Z",
-    "summary": "Vote for either 'Back in Black' or 'Let There Be Rock' as the best AC/DC album. Continue reading…",
     "image": null
   },
   {
