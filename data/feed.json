@@ -1,5 +1,50 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "source": "billboard",
+    "title": "Billboard’s Music Industry Events Calendar",
+    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "publishedAt": "2026-09-05T00:47:00.000Z",
+    "summary": "A complete rundown of the most important events across the music business.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/diddy-newsnation-lawsuit-drug-laced-baby-oil-claims/",
+    "source": "billboard",
+    "title": "Diddy Can Sue NewsNation Over Drug-Laced Baby Oil Claims, Judge Rules",
+    "url": "https://www.billboard.com/pro/diddy-newsnation-lawsuit-drug-laced-baby-oil-claims/",
+    "publishedAt": "2026-09-05T00:02:06.000Z",
+    "summary": "The disgraced music mogul can move forward with his defamation lawsuit against the cable network.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/dolly-parton-sister-stella-speaks-out-against-fake-ai-1235621961/",
+    "source": "rolling-stone",
+    "title": "Dolly Parton’s Sister Stella Speaks Out Against ‘AI and Endless Garbage’ Posted Online After Icon’s Death",
+    "url": "https://www.rollingstone.com/music/music-country/dolly-parton-sister-stella-speaks-out-against-fake-ai-1235621961/",
+    "publishedAt": "2026-09-04T23:38:38.000Z",
+    "summary": "Stella Parton urged people to \"show more compassion and wisdom\" moving forward",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/labor-day-deals-september-2026-shop-buy-online-1236330028/",
+    "source": "billboard",
+    "title": "From A-Z: The Best Labor Day Deals to Shop in 2026",
+    "url": "https://www.billboard.com/culture/product-recommendations/labor-day-deals-september-2026-shop-buy-online-1236330028/",
+    "publishedAt": "2026-09-04T23:20:30.000Z",
+    "summary": "Labor Day weekend is here! ShopBillboard put together a list of deals on fashion, home essentials, shoes, tech and more product categories from retailers across the internet.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/victony-starlife-slick-eight-debuts-afrobeats-songs-chart-1236334821/",
+    "source": "billboard",
+    "title": "Victony’s ‘STARLIFE’ Sparks 8 Debuts on U.S. Afrobeats Songs Chart",
+    "url": "https://www.billboard.com/music/chart-beat/victony-starlife-slick-eight-debuts-afrobeats-songs-chart-1236334821/",
+    "publishedAt": "2026-09-04T23:07:08.000Z",
+    "summary": "The set’s “Slick” repeats at No. 2 for a third consecutive week.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/music-news/dolly-parton-death-sister-stella-fake-ai-garbage-1236334801/",
     "source": "billboard",
     "title": "Dolly Parton’s Sister Stella Calls Out ‘Fake AI Garbage’ & ‘Snarky Tweets’ About Singer’s Death",
@@ -90,48 +135,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/dolly-parton-belles-son-of-jolene-country-airplay-chart-debut-1236334651/",
-    "source": "billboard",
-    "title": "Belles & Dolly Parton’s ‘Son of Jolene’ Debuts on Billboard’s Country Airplay Chart",
-    "url": "https://www.billboard.com/music/chart-beat/dolly-parton-belles-son-of-jolene-country-airplay-chart-debut-1236334651/",
-    "publishedAt": "2026-09-04T19:40:45.000Z",
-    "summary": "Plus, Luke Combs leads, and Lauren Alaina and Chase Matthew go top 10.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/50-cent-angers-jay-z-reebok-commercial-2003-1236334485/",
-    "source": "billboard",
-    "title": "50 Cent Recalls Angering Jay-Z During 2003 Commercial Shoot: ‘Jay Still Owes Me a Favor’",
-    "url": "https://www.billboard.com/music/rb-hip-hop/50-cent-angers-jay-z-reebok-commercial-2003-1236334485/",
-    "publishedAt": "2026-09-04T19:30:07.000Z",
-    "summary": "\"Jay got so mad,\" 50 wrote on social media.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/blue-rodeo-song-trump-lake-ontario-renaming-order/",
-    "source": "billboard",
-    "title": "In Canada: How Blue Rodeo’s ‘Hasn’t Hit Me Yet’ Became a ‘Rallying Call’ After Trump’s Lake Ontario Renaming Order",
-    "url": "https://www.billboard.com/pro/blue-rodeo-song-trump-lake-ontario-renaming-order/",
-    "publishedAt": "2026-09-04T19:15:18.000Z",
-    "summary": "Also up north this week: The announcement of two high-profile executive departures.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/big-sean-kanye-west-end-feud-surprise-performance-chicago-1235621691/",
     "source": "rolling-stone",
     "title": "Big Sean and Kanye West Reunite After Feud With Surprise Appearance in Chicago",
     "url": "https://www.rollingstone.com/music/music-news/big-sean-kanye-west-end-feud-surprise-performance-chicago-1235621691/",
     "publishedAt": "2026-09-04T18:52:45.000Z",
     "summary": "Big Sean joined Kanye West at his Soldier Field homecoming concert to perform \"Clique,\" \"Mercy,\" and \"I Don't Fuck With You\"",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/samantha-juneman-named-mattel-head-of-music/",
-    "source": "billboard",
-    "title": "Executive Turntable: Samantha Juneman Named Head of Music at Mattel",
-    "url": "https://www.billboard.com/lists/samantha-juneman-named-mattel-head-of-music/",
-    "publishedAt": "2026-09-04T18:50:03.000Z",
-    "summary": "Warner Music launches Warner Records Germany, Xelon launched a new London office and a new agent joins Paladin Artists.",
     "image": null
   },
   {
@@ -168,6 +177,15 @@
     "url": "https://www.uncut.co.uk/reviews/uncuts-ultimate-end-of-the-road-festival-2026-round-up-156117/",
     "publishedAt": "2026-09-04T16:01:23.000Z",
     "summary": "Your essential guide to all our coverage from this year's festival",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMipgFBVV95cUxPa3FJcnZxc3dfZUdPVU9vdFhLRkh1czY5MDdSOGh3MjE5czRiaENCY3FZS0FZaVU2MDRpSXB3RUtjVVZ6dEJ4MnBhTFhGYUZabkxOV3hGdVhDTmJkbjkzNWdVZXNBRC1ZdGViWG52eFVZdE14Q2t5MWJJZVZrcEg0RDB6TmV3UXdfejZDUXNDdXpSSU8xbXpuX1BtcnBfYTRTV3FDVHRn?oc=5",
+    "source": "nme",
+    "title": "Prince estate respond to fans’ concern over rumours of AI use on new ‘Timeless’ release - NME",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa3FJcnZxc3dfZUdPVU9vdFhLRkh1czY5MDdSOGh3MjE5czRiaENCY3FZS0FZaVU2MDRpSXB3RUtjVVZ6dEJ4MnBhTFhGYUZabkxOV3hGdVhDTmJkbjkzNWdVZXNBRC1ZdGViWG52eFVZdE14Q2t5MWJJZVZrcEg0RDB6TmV3UXdfejZDUXNDdXpSSU8xbXpuX1BtcnBfYTRTV3FDVHRn?oc=5",
+    "publishedAt": "2026-09-04T15:50:26.000Z",
+    "summary": "Prince estate respond to fans’ concern over rumours of AI use on new ‘Timeless’ release NME",
     "image": null
   },
   {
@@ -213,6 +231,24 @@
     "url": "https://pitchfork.com/story/9-new-albums-you-should-listen-to-now-chat-pile-melissa-auf-der-maur-and-more/",
     "publishedAt": "2026-09-04T14:31:45.000Z",
     "summary": "Stream new releases from Chat Pile, Melissa Auf der Maur, and Beyoncé",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMiugFBVV95cUxObEtMSklFakhodzBwQ0I1VC0tbFlJMEFSUzlxbzhha1JrUG14T1Q0V1B6RThsWVEtTG4tY0hHNG9mbzRTTS1TSkdfV3V2c1JYZmtkelVoc3B2SFptT0l3VUF0RThYYUVTOF9wQUwxMUs3RW9NektWTGgwSUpISG5pay1OVi0zQVZPdjB4SlVxc2E2NFJadHlxeUZCZEg2U000OTZrMDBpcWJpYmpIa2VjNzFVLXJ2Mkx3QlE?oc=5",
+    "source": "nme",
+    "title": "Supergrass add extra dates to 2027 UK tour due to phenomenal demand - NME",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObEtMSklFakhodzBwQ0I1VC0tbFlJMEFSUzlxbzhha1JrUG14T1Q0V1B6RThsWVEtTG4tY0hHNG9mbzRTTS1TSkdfV3V2c1JYZmtkelVoc3B2SFptT0l3VUF0RThYYUVTOF9wQUwxMUs3RW9NektWTGgwSUpISG5pay1OVi0zQVZPdjB4SlVxc2E2NFJadHlxeUZCZEg2U000OTZrMDBpcWJpYmpIa2VjNzFVLXJ2Mkx3QlE?oc=5",
+    "publishedAt": "2026-09-04T14:31:05.000Z",
+    "summary": "Supergrass add extra dates to 2027 UK tour due to phenomenal demand NME",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMitgFBVV95cUxOSGE0ZnFMOGx4eHNWLWE5UHpKbHZDQzM1d2ZFbGlDdEstbHFneHRvclBnSEtzbHBDWndIME1tYU9lMGpURUdnMXoyUkE4SlVIdW44MnJha1BsUndMWE00STY1RUpQeG9yd3JKYnJCcDl5cDFWbU5TTjFkTWF6eEduUTl3ZWRPbjhFMGpWTGU5VmsweWw2bFhJNjBHN3BBTTA3YllZbk11TFVJa2l5c1BzWnlXYTR4QQ?oc=5",
+    "source": "nme",
+    "title": "Pet Shop Boys announce new album 'A Man From The Future', celebrating the life and legacy of Alan Turing - NME",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSGE0ZnFMOGx4eHNWLWE5UHpKbHZDQzM1d2ZFbGlDdEstbHFneHRvclBnSEtzbHBDWndIME1tYU9lMGpURUdnMXoyUkE4SlVIdW44MnJha1BsUndMWE00STY1RUpQeG9yd3JKYnJCcDl5cDFWbU5TTjFkTWF6eEduUTl3ZWRPbjhFMGpWTGU5VmsweWw2bFhJNjBHN3BBTTA3YllZbk11TFVJa2l5c1BzWnlXYTR4QQ?oc=5",
+    "publishedAt": "2026-09-04T13:51:58.000Z",
+    "summary": "Pet Shop Boys announce new album 'A Man From The Future', celebrating the life and legacy of Alan Turing NME",
     "image": null
   },
   {
@@ -351,6 +387,15 @@
     "image": null
   },
   {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMickFVX3lxTFBHc2pYeW9HU3U1dVVWamJjMWhmQ3drUHAzWTZJUHZzZ2pWb3IzRzIzYzFFRGExYWxKMDBBMWU2VnhxbGlzYUpham1mR0E5UzdVMjBzWXpoTFNVaTY1WXBTZUdVZlphb3plQ1pfTXNrd01wZw?oc=5",
+    "source": "kerrang",
+    "title": "Album review: Chat Pile – Who Loves The Sun - kerrang.com",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHc2pYeW9HU3U1dVVWamJjMWhmQ3drUHAzWTZJUHZzZ2pWb3IzRzIzYzFFRGExYWxKMDBBMWU2VnhxbGlzYUpham1mR0E5UzdVMjBzWXpoTFNVaTY1WXBTZUdVZlphb3plQ1pfTXNrd01wZw?oc=5",
+    "publishedAt": "2026-09-04T08:00:00.000Z",
+    "summary": "Album review: Chat Pile – Who Loves The Sun kerrang.com",
+    "image": null
+  },
+  {
     "id": "louder-than-war-https://louderthanwar.com/mike-d-thank-you-album-review/",
     "source": "louder-than-war",
     "title": "Mike D: Thank You – Album Review",
@@ -375,15 +420,6 @@
     "url": "https://www.rollingstone.com/music/music-news/adela-nicole-kidman-music-video-1235621284/",
     "publishedAt": "2026-09-04T06:50:07.000Z",
     "summary": "The clip, directed by Hannah Lux Davis, references Eyes Wide Shut, Moulin Rouge, Birth, and Babygirl",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/blackpink-jisoo-click-single-1235621279/",
-    "source": "rolling-stone",
-    "title": "Blackpink’s Jisoo Finds the Romance on Solo Single ‘Click’",
-    "url": "https://www.rollingstone.com/music/music-news/blackpink-jisoo-click-single-1235621279/",
-    "publishedAt": "2026-09-04T06:29:28.000Z",
-    "summary": "The singer is gearing up to release her debut full-length album",
     "image": null
   },
   {
@@ -495,15 +531,6 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWW5TTWV6QUV4Vy1UeUZrYkhhRGEweVotTk9xbm1VZHl0Qm1xTDJWQ3Y3em14c0FlY2NpQkJZejFOcXlEOExwMEpaMVYxaDg2SEdheGtnNzA5ZnFIU0NjNnNSYWJWX3BmeHZfZVN5QUktX1JfWEpoUTBtVktUc2xjNkpFUlVsS042el9JbFI1LXRzMFFtQXpMdWpCSVlRckY1VU5yUEJIX2FTSXFTaE9FNmlTUzB4X3JaVWlWZDFSOVI?oc=5",
-    "source": "nme",
-    "title": "Brazil introduces ‘Taylor Swift Law’ three years after fan died of extreme heat at gig - NME",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWW5TTWV6QUV4Vy1UeUZrYkhhRGEweVotTk9xbm1VZHl0Qm1xTDJWQ3Y3em14c0FlY2NpQkJZejFOcXlEOExwMEpaMVYxaDg2SEdheGtnNzA5ZnFIU0NjNnNSYWJWX3BmeHZfZVN5QUktX1JfWEpoUTBtVktUc2xjNkpFUlVsS042el9JbFI1LXRzMFFtQXpMdWpCSVlRckY1VU5yUEJIX2FTSXFTaE9FNmlTUzB4X3JaVWlWZDFSOVI?oc=5",
-    "publishedAt": "2026-09-03T14:49:09.000Z",
-    "summary": "Brazil introduces ‘Taylor Swift Law’ three years after fan died of extreme heat at gig NME",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/breaking-benjamin-fall-2026-tour-setlist-video/",
     "source": "loudwire",
     "title": "Breaking Benjamin Kick off Fall 2026 Touring - Setlist + Video",
@@ -522,30 +549,12 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMixAFBVV95cUxPUlotRUZNTXRUTzl4UURLUkZyTVRuNEpQM0VxamlJYWUtR2FLSU1yV1RsMHEtVV9kQld0SGRJS2RiV1lSVmdqZVVsSDBmWE9JcGVaR2ktQjJyelN1ajJhWkNmbnVyV1lReHdpbHpnRzZtMWlWVnIwOTNRbkNCYlV3QjdsRzNSN0JLMDNpZkNHeGVldml0VXMwVVlfYkRZV0hWcFMwdmhXRTY0UG1KRG5PazdNYUFndWRWcEd5cXE4Z2tnWk01?oc=5",
-    "source": "nme",
-    "title": "David Byrne has written a song using only Elon Musk quotes for “scathing” new documentary - NME",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUlotRUZNTXRUTzl4UURLUkZyTVRuNEpQM0VxamlJYWUtR2FLSU1yV1RsMHEtVV9kQld0SGRJS2RiV1lSVmdqZVVsSDBmWE9JcGVaR2ktQjJyelN1ajJhWkNmbnVyV1lReHdpbHpnRzZtMWlWVnIwOTNRbkNCYlV3QjdsRzNSN0JLMDNpZkNHeGVldml0VXMwVVlfYkRZV0hWcFMwdmhXRTY0UG1KRG5PazdNYUFndWRWcEd5cXE4Z2tnWk01?oc=5",
-    "publishedAt": "2026-09-03T12:46:33.000Z",
-    "summary": "David Byrne has written a song using only Elon Musk quotes for “scathing” new documentary NME",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/amelia-dimoldenberg-winds-down-chicken-shop-date-after-12-years/",
     "source": "pitchfork",
     "title": "Amelia Dimoldenberg Winds Down Chicken Shop Date After 12 Years",
     "url": "https://pitchfork.com/story/amelia-dimoldenberg-winds-down-chicken-shop-date-after-12-years/",
     "publishedAt": "2026-09-03T12:36:09.000Z",
     "summary": "A final series of the offbeat interview show will “celebrate everything Chicken Shop Date has been,” says the host",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMitAFBVV95cUxNVlNNN1EwLUFOb2FzQnlBSExqQ245TW5OVGZKZU4tNWszMklJaWd3T0tGdUp5bDBWOUhPdjNiTHQ2Y0p5TnZWRmx5ei1UN0pIV2VqeG5vNENGcEZqQ0JfRHBqRUVfQWpYem1yVVdZWWVMQnYwYkh1SVpFcURSOFlPY2tGa09XTFVsTF92YWthUlJWbnVnZ1dZMDFjTHJjcVdwLUFVVkZ4dldTMmRBajIwa1BCT18?oc=5",
-    "source": "nme",
-    "title": "Fontaines D.C. announce massive summer 2027 UK outdoor and stadium shows with Little Simz and Viagra Boys - NME",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVlNNN1EwLUFOb2FzQnlBSExqQ245TW5OVGZKZU4tNWszMklJaWd3T0tGdUp5bDBWOUhPdjNiTHQ2Y0p5TnZWRmx5ei1UN0pIV2VqeG5vNENGcEZqQ0JfRHBqRUVfQWpYem1yVVdZWWVMQnYwYkh1SVpFcURSOFlPY2tGa09XTFVsTF92YWthUlJWbnVnZ1dZMDFjTHJjcVdwLUFVVkZ4dldTMmRBajIwa1BCT18?oc=5",
-    "publishedAt": "2026-09-03T11:39:50.000Z",
-    "summary": "Fontaines D.C. announce massive summer 2027 UK outdoor and stadium shows with Little Simz and Viagra Boys NME",
     "image": null
   },
   {
@@ -630,6 +639,33 @@
     "image": null
   },
   {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMid0FVX3lxTFBUUEpwZjdhQkFyUFlNUnlKMWVXV19pamJsMFdYRFlzUmZ5cmI4Nm83WEd2V3RFUEVTRnE4N0NKc2c1UFRyeWxqZ0ZYbWZDbGJPeDRNLUUxS29rUFg3aDNvTjFkNTY1YlBMQ1JmMUZUdVpHVktKWk1z?oc=5",
+    "source": "kerrang",
+    "title": "Album review: The Warning – Everything's Falling - kerrang.com",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUUEpwZjdhQkFyUFlNUnlKMWVXV19pamJsMFdYRFlzUmZ5cmI4Nm83WEd2V3RFUEVTRnE4N0NKc2c1UFRyeWxqZ0ZYbWZDbGJPeDRNLUUxS29rUFg3aDNvTjFkNTY1YlBMQ1JmMUZUdVpHVktKWk1z?oc=5",
+    "publishedAt": "2026-09-01T09:41:00.000Z",
+    "summary": "Album review: The Warning – Everything's Falling kerrang.com",
+    "image": null
+  },
+  {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMidkFVX3lxTE42b0RucnBvT01udktocEkyYWVaa3d0S0ZxbXluZzI4ZXgtYWxVYkhxemEtb0JRM25NX0k0NFltRFk2TTNXR29XTXd2RDJnMTU4QXdnUEN6SjhZME5VaHIxT0t3SzU4TG9LbnF2YXhsMFRNVXhILXc?oc=5",
+    "source": "kerrang",
+    "title": "Album review: PRESIDENT – Blood Of Your Empire - kerrang.com",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42b0RucnBvT01udktocEkyYWVaa3d0S0ZxbXluZzI4ZXgtYWxVYkhxemEtb0JRM25NX0k0NFltRFk2TTNXR29XTXd2RDJnMTU4QXdnUEN6SjhZME5VaHIxT0t3SzU4TG9LbnF2YXhsMFRNVXhILXc?oc=5",
+    "publishedAt": "2026-09-01T09:16:00.000Z",
+    "summary": "Album review: PRESIDENT – Blood Of Your Empire kerrang.com",
+    "image": null
+  },
+  {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMiswFBVV95cUxNajJoeG1LVVF3elh3X2hURE9vMjFSVHQ4aGtwNVpBVVR6enQxNzUwU1IyTmxUTTB1YmtmYklZTXNLbnczRC1EM21TbjREbnB0cW1MSV85UU1ub0k5eVhId012RnZyaUhXSnhMdnRXUExQN3lZZ1l4TzRUN21udEhySk8yQlBVby1YNXBjRkc1d2cwRzB1cTJCaEZBbmdCRGIyeld6VmdwNjlfbnlHNkgxdnRFdw?oc=5",
+    "source": "kerrang",
+    "title": "Live review: Twenty One Pilots – All Points East, London - kerrang.com",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNajJoeG1LVVF3elh3X2hURE9vMjFSVHQ4aGtwNVpBVVR6enQxNzUwU1IyTmxUTTB1YmtmYklZTXNLbnczRC1EM21TbjREbnB0cW1MSV85UU1ub0k5eVhId012RnZyaUhXSnhMdnRXUExQN3lZZ1l4TzRUN21udEhySk8yQlBVby1YNXBjRkc1d2cwRzB1cTJCaEZBbmdCRGIyeld6VmdwNjlfbnlHNkgxdnRFdw?oc=5",
+    "publishedAt": "2026-08-31T11:00:00.000Z",
+    "summary": "Live review: Twenty One Pilots – All Points East, London kerrang.com",
+    "image": null
+  },
+  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMikwFBVV95cUxQNmNYLUVoT2FoZHJfLTRiYjY2MVc1bnFmRC1acHctMzJqemxJdkU4Q2VLbnI5enpMTU92cGg2ZmxTMHdkbzRaTFZUbUwyczFnUldqenJmX0pMNFJMSVF4a0Q1cjVHRHRDVzB6TUR3MWlSNkZwcWFWNF9CUlVaMkZ3QlRNelZCUlczWnFYVWpNc0N5Wnc?oc=5",
     "source": "kerrang",
     "title": "THE PLOT IN YOU X KERRANG! LIMITED-EDITION 20-PAGE ZINE - Kerrang!",
@@ -648,75 +684,39 @@
     "image": null
   },
   {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZME1fZ3ZyVl91MWhqTkZ5bWhVZXAzOXExN3ZIQTNBUW9zXzZGUXlyVFhWTUV6bDJaMmNCMFNYaV9USjI1RzFKWnIybjF5T2ZlTjZPaDh0Q19wbkZmb191Nl8wTjR1M1NWWVV6MFh6VVFTckFXMWJoQw?oc=5",
+    "id": "kerrang-https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeWZxV0pTcWlkeVRfUDR1V1FnQzlJazN1R3dUUDExUlNLVzdVb2FxRERIdE51T0lNLTlJQlpFdklvVzdSYVRuN1FCSk05d21VT2p1TG5OVjNJakg5UHpnWHo2UjdpTHQ3M05Ka1pza1Q5b0dWbVpkTjJONi1sSkhOTmNZczVaZ01xaUxDc09lRVVYOFhZUDZrZHhRbXB0b2ZPSXNpQzBIZkJNRkxXYWJEYzJEZ0xCWjN1?oc=5",
     "source": "kerrang",
-    "title": "The Warning x Kerrang! limited-edition 20-page zine - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZME1fZ3ZyVl91MWhqTkZ5bWhVZXAzOXExN3ZIQTNBUW9zXzZGUXlyVFhWTUV6bDJaMmNCMFNYaV9USjI1RzFKWnIybjF5T2ZlTjZPaDh0Q19wbkZmb191Nl8wTjR1M1NWWVV6MFh6VVFTckFXMWJoQw?oc=5",
-    "publishedAt": "2026-08-25T19:16:58.000Z",
-    "summary": "The Warning x Kerrang! limited-edition 20-page zine Kerrang!",
+    "title": "25 reasons why ArcTanGent 2026 ruled - kerrang.com",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeWZxV0pTcWlkeVRfUDR1V1FnQzlJazN1R3dUUDExUlNLVzdVb2FxRERIdE51T0lNLTlJQlpFdklvVzdSYVRuN1FCSk05d21VT2p1TG5OVjNJakg5UHpnWHo2UjdpTHQ3M05Ka1pza1Q5b0dWbVpkTjJONi1sSkhOTmNZczVaZ01xaUxDc09lRVVYOFhZUDZrZHhRbXB0b2ZPSXNpQzBIZkJNRkxXYWJEYzJEZ0xCWjN1?oc=5",
+    "publishedAt": "2026-08-28T11:50:00.000Z",
+    "summary": "25 reasons why ArcTanGent 2026 ruled kerrang.com",
     "image": null
   },
   {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZanpxS090MlVwdUVZZk5oaXJYSDZXMWhUbW5uaTdNSkQ5SHhoN3Z2MFFDdmhXX1FJbFhtem1rRVlxZW5udGsyTXU3ZXNHa2I1dWxjRDdOTFJVbExqUnRBXy0tMWpxbWptZkwyOUttaHVtTTdsMGJ4RnIzY1FqOVU?oc=5",
+    "id": "kerrang-https://news.google.com/rss/articles/CBMid0FVX3lxTE9GRm9MNjU2NmRoNDlTZWV6ZDVRSTljUE9FNFlrMUFTWEJDTkFZcm1Na3dGSUxHcWlaZGtIZUVjeEJaZHlCN3BkZy0xVmIyeGhWZWxaWF9zYk9uY3lQNmp4SlVxcnh2Qk5BQi00OTRmV2pSOTFmSWs4?oc=5",
     "source": "kerrang",
-    "title": "Album Review: The Barbarians Of California – MEGATONS - kerrang.com",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZanpxS090MlVwdUVZZk5oaXJYSDZXMWhUbW5uaTdNSkQ5SHhoN3Z2MFFDdmhXX1FJbFhtem1rRVlxZW5udGsyTXU3ZXNHa2I1dWxjRDdOTFJVbExqUnRBXy0tMWpxbWptZkwyOUttaHVtTTdsMGJ4RnIzY1FqOVU?oc=5",
-    "publishedAt": "2026-08-17T11:32:00.000Z",
-    "summary": "Album Review: The Barbarians Of California – MEGATONS kerrang.com",
+    "title": "Album review: Turnstile – NEVER ENOUGH: VERSIONS - kerrang.com",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GRm9MNjU2NmRoNDlTZWV6ZDVRSTljUE9FNFlrMUFTWEJDTkFZcm1Na3dGSUxHcWlaZGtIZUVjeEJaZHlCN3BkZy0xVmIyeGhWZWxaWF9zYk9uY3lQNmp4SlVxcnh2Qk5BQi00OTRmV2pSOTFmSWs4?oc=5",
+    "publishedAt": "2026-08-28T09:41:00.000Z",
+    "summary": "Album review: Turnstile – NEVER ENOUGH: VERSIONS kerrang.com",
     "image": null
   },
   {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMipgFBVV95cUxPZWFZbjVOUWFVUVI0S2dQRUM5bElVMmwyX3hwSTEtSmhXVU9lRllFSjE1NkZHUlFUcklYM3h6OUhZS0pBOTNmNHlldExyWWFaSkRVTlYxY0tKR0d6dzhEVWY2RXc5X0FOelFzeldMY2pFSGJ0YmFCdFpFTmhoSlV0Y3UyMTBuLVRQLXFpNU4yM2NvQzVqWU9jWEcxQzVaUkoyWVBTN0xB?oc=5",
+    "id": "kerrang-https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qRXV2WnlBRVNyV3dYOFp2U0FTTHM0MFRvU3pNZ08xRWMtYkdtbERtQUYyNV9YUFBSYkFhVzVGcWZCT3RqSzhBMWtsUWc0VWN4NHFiQVpHRkZNaG84WENNQ1gtSk51aUxK?oc=5",
     "source": "kerrang",
-    "title": "Sleep paralysis, ambience, the strangeness of trees: Post-metallers REZN explain the altered states of their new album - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZWFZbjVOUWFVUVI0S2dQRUM5bElVMmwyX3hwSTEtSmhXVU9lRllFSjE1NkZHUlFUcklYM3h6OUhZS0pBOTNmNHlldExyWWFaSkRVTlYxY0tKR0d6dzhEVWY2RXc5X0FOelFzeldMY2pFSGJ0YmFCdFpFTmhoSlV0Y3UyMTBuLVRQLXFpNU4yM2NvQzVqWU9jWEcxQzVaUkoyWVBTN0xB?oc=5",
-    "publishedAt": "2026-08-17T11:30:00.000Z",
-    "summary": "Sleep paralysis, ambience, the strangeness of trees: Post-metallers REZN explain the altered states of their new album Kerrang!",
+    "title": "Album review: Mastodon – Marrow Deep - kerrang.com",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qRXV2WnlBRVNyV3dYOFp2U0FTTHM0MFRvU3pNZ08xRWMtYkdtbERtQUYyNV9YUFBSYkFhVzVGcWZCT3RqSzhBMWtsUWc0VWN4NHFiQVpHRkZNaG84WENNQ1gtSk51aUxK?oc=5",
+    "publishedAt": "2026-08-27T07:00:00.000Z",
+    "summary": "Album review: Mastodon – Marrow Deep kerrang.com",
     "image": null
   },
   {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMijAFBVV95cUxOcUMycFBGcnhRVUVPbW1kTnQ4NkllUXdYbTBEUy0xS2lmelZ0REx2ZFNiTTZuVTNmXzBGcS1CcmIwTWk4UW50TWZLZzF0RThBZ2FOY1otbkkzRTE1NmhmRDJJTFZtaDhwVE9jVl95aWlWbTU2ZnZsU3RnWVd3S09kRkhTbHh3cm9hb3dsRw?oc=5",
+    "id": "kerrang-https://news.google.com/rss/articles/CBMidkFVX3lxTFBnNUZtX0ZsT2tEamQtSEQ4QXdoaHlaQTI1WjRMS2RzUktXMUhhWEhuLXozYnI1NkNvX1BVU0VndGM0cEdGUUdrTmNaYy1oQ2FJdzRFMFFpNTZXQjVjbTVjMGdrNE1aMFBOd3lFZGlVS0huSkJfbFE?oc=5",
     "source": "kerrang",
-    "title": "“Our story wouldn’t be a tragedy or a slasher movie!” Green Day take us inside their new movie, Nimrods - kerrang.com",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcUMycFBGcnhRVUVPbW1kTnQ4NkllUXdYbTBEUy0xS2lmelZ0REx2ZFNiTTZuVTNmXzBGcS1CcmIwTWk4UW50TWZLZzF0RThBZ2FOY1otbkkzRTE1NmhmRDJJTFZtaDhwVE9jVl95aWlWbTU2ZnZsU3RnWVd3S09kRkhTbHh3cm9hb3dsRw?oc=5",
-    "publishedAt": "2026-08-17T11:00:00.000Z",
-    "summary": "“Our story wouldn’t be a tragedy or a slasher movie!” Green Day take us inside their new movie, Nimrods kerrang.com",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMiakFVX3lxTFBtRXFrXy1MN2M1MDk0MGdsZzQzYVR4QUZpbkR3Zy1Nb1Q1VjlZLVBza0NSSl9lTFZGMllkRU5fY1NIT2hMeFdhYkdjX1ZPalJQaTA3c24wcUJERXEzU0pkSy1MTVhjUDJ1M1E?oc=5",
-    "source": "kerrang",
-    "title": "Slipknot announce split with Sid Wilson before removing post - kerrang.com",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtRXFrXy1MN2M1MDk0MGdsZzQzYVR4QUZpbkR3Zy1Nb1Q1VjlZLVBza0NSSl9lTFZGMllkRU5fY1NIT2hMeFdhYkdjX1ZPalJQaTA3c24wcUJERXEzU0pkSy1MTVhjUDJ1M1E?oc=5",
-    "publishedAt": "2026-08-14T22:00:00.000Z",
-    "summary": "Slipknot announce split with Sid Wilson before removing post kerrang.com",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMiekFVX3lxTE8wcl9BdE9xTmp3SGl3ZjFSWnhDQmFXT2ZVd3hLMG84bUZkRnBHSnhnYWZtQjVzZTR6bGhYWjJsT2ZmUkdzdmxDQl93UVpNQ2FRRThyWUxDcmRHU3ZjWmZmTk1EUDBvMC1ZZ3RTUC1oUFJGYURMY1RMNVdR?oc=5",
-    "source": "kerrang",
-    "title": "thrown put their fists up on new single, critic - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8wcl9BdE9xTmp3SGl3ZjFSWnhDQmFXT2ZVd3hLMG84bUZkRnBHSnhnYWZtQjVzZTR6bGhYWjJsT2ZmUkdzdmxDQl93UVpNQ2FRRThyWUxDcmRHU3ZjWmZmTk1EUDBvMC1ZZ3RTUC1oUFJGYURMY1RMNVdR?oc=5",
-    "publishedAt": "2026-08-14T17:14:00.000Z",
-    "summary": "thrown put their fists up on new single, critic Kerrang!",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMikAFBVV95cUxQemtWYXlWVnhic01PRE5GUl85THhLdVpIWHdOeVpnZW5PaTFyNUlPTVFic29JRk41QjNSbE52am5od1cwNTZiYW1ySDJjM1I3TWs5czZnV3lZZ084cl9ZUzVla1JGYUlYNzBKSEpKWE9SLTBVZmxSZU5rUkVuVGg5eE9DX1lLQ1RUYlk0cEpsejg?oc=5",
-    "source": "kerrang",
-    "title": "Ghostemane returns with first new single in five years, Zero Day - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQemtWYXlWVnhic01PRE5GUl85THhLdVpIWHdOeVpnZW5PaTFyNUlPTVFic29JRk41QjNSbE52am5od1cwNTZiYW1ySDJjM1I3TWs5czZnV3lZZ084cl9ZUzVla1JGYUlYNzBKSEpKWE9SLTBVZmxSZU5rUkVuVGg5eE9DX1lLQ1RUYlk0cEpsejg?oc=5",
-    "publishedAt": "2026-08-14T16:48:00.000Z",
-    "summary": "Ghostemane returns with first new single in five years, Zero Day Kerrang!",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYjhtX3Q5Tkx0RVVPTnJmWUNlLUMxdklLbnBYc0lMeDRtTXZxdW0wSlEwOXphZGZGVjUtLVYxMHFjNEdjd1dOQnJWd3BoMHhiZk5kd2ZhOXVGeXNFNGRyaWJXRnNyWVdkMktyZHJqRHNidHp3dXpRWUVnYUl4NW1WR1Z6NGFNMzhBSC1WeUlWWFVrWE9oeU5scFdkLUtHT0NWY0FubmpzOXh4ZXl3bHlJLTBFeHZsd3o0bzV0VjFWVDN4Z05tejRZT2hsMW9MalNVcW5DQkVDZFM?oc=5",
-    "source": "kerrang",
-    "title": "“There’s nothing wrong with being the girl who’s falling apart”: LØLØ… - kerrang.com",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYjhtX3Q5Tkx0RVVPTnJmWUNlLUMxdklLbnBYc0lMeDRtTXZxdW0wSlEwOXphZGZGVjUtLVYxMHFjNEdjd1dOQnJWd3BoMHhiZk5kd2ZhOXVGeXNFNGRyaWJXRnNyWVdkMktyZHJqRHNidHp3dXpRWUVnYUl4NW1WR1Z6NGFNMzhBSC1WeUlWWFVrWE9oeU5scFdkLUtHT0NWY0FubmpzOXh4ZXl3bHlJLTBFeHZsd3o0bzV0VjFWVDN4Z05tejRZT2hsMW9MalNVcW5DQkVDZFM?oc=5",
-    "publishedAt": "2026-08-14T14:00:00.000Z",
-    "summary": "“There’s nothing wrong with being the girl who’s falling apart”: LØLØ… kerrang.com",
+    "title": "Album review: The Linda Lindas – GOTTA GET OUT - kerrang.com",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnNUZtX0ZsT2tEamQtSEQ4QXdoaHlaQTI1WjRMS2RzUktXMUhhWEhuLXozYnI1NkNvX1BVU0VndGM0cEdGUUdrTmNaYy1oQ2FJdzRFMFFpNTZXQjVjbTVjMGdrNE1aMFBOd3lFZGlVS0huSkJfbFE?oc=5",
+    "publishedAt": "2026-08-27T07:00:00.000Z",
+    "summary": "Album review: The Linda Lindas – GOTTA GET OUT kerrang.com",
     "image": null
   }
 ]
