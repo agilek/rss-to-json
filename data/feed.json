@@ -1,5 +1,23 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/pop/kylie-minogues-afl-grand-final-show-mcg-1236338919/",
+    "source": "billboard",
+    "title": "Kylie Minogue to Deliver 20-Minute ‘Spectacle’ at AFL Grand Final",
+    "url": "https://www.billboard.com/music/pop/kylie-minogues-afl-grand-final-show-mcg-1236338919/",
+    "publishedAt": "2026-09-12T08:17:22.000Z",
+    "summary": "The Grand Final takes place Saturday, Sept. 26, at the MCG, with around 100,000 fans expected at the stadium.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/country/dolly-parton-nashville-airport-1236338913/",
+    "source": "billboard",
+    "title": "Nashville Airport Moves to Rename Itself After Dolly Parton in Unanimous Vote",
+    "url": "https://www.billboard.com/music/country/dolly-parton-nashville-airport-1236338913/",
+    "publishedAt": "2026-09-12T06:03:12.000Z",
+    "summary": "The Metropolitan Nashville Airport Authority board voted 6-0 to begin renaming Nashville International in honor of the late country icon.",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/pink-responds-backlash-macklemore-palestine-post-1235625662/",
     "source": "rolling-stone",
     "title": "Pink Responds to Fallout After Sharing Post Criticizing Macklemore’s Speech on Palestine",
@@ -114,24 +132,6 @@
     "url": "https://www.billboard.com/culture/product-recommendations/oklahoma-vs-michigan-sept-2026-college-football-watch-livestream-online-free-1236337268/",
     "publishedAt": "2026-09-11T22:35:52.000Z",
     "summary": "Saturday afternoon college football with the Sooners taking on the Wolverines — watch live on Saturday, Sept. 12",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/ella-langley-tour-sept-oct-2026-buy-shop-tickets-online-1236338450/",
-    "source": "billboard",
-    "title": "Ella Langley’s Dandelion Tour 2026: Here’s Where to Buy Last-Minute Concert Tickets Online",
-    "url": "https://www.billboard.com/culture/product-recommendations/ella-langley-tour-sept-oct-2026-buy-shop-tickets-online-1236338450/",
-    "publishedAt": "2026-09-11T22:30:41.000Z",
-    "summary": "The country music singer/songwriter continues her tour across the United States.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/ocean-way-festival-canceled-santa-monica-hurricane-marie-1236338821/",
-    "source": "billboard",
-    "title": "Ocean Way Festival in Santa Monica Canceled Weeks Before Planned Debut",
-    "url": "https://www.billboard.com/music/music-news/ocean-way-festival-canceled-santa-monica-hurricane-marie-1236338821/",
-    "publishedAt": "2026-09-11T22:20:50.000Z",
-    "summary": "The debut festival from Coachella promoter Goldenvoice, scheduled to take place Sept. 26-27, was canceled due to hurricane damage.",
     "image": null
   },
   {
@@ -371,19 +371,19 @@
   {
     "id": "nme-https://news.google.com/rss/articles/CBMigAFBVV95cUxPekE2eGJQbkZCNjAxZTI4SDB2d09GM1MtRl91dVVUeTc0eHlnTVdjRXA4SXdJdkg2aVFoYm1IUzZ5TDRFU2tPLW5aYWpCTFFoUkxDQXRIRmJzZ0RsUF9aX2JsTGxFSHVSbW5BWTVZOTRLZWFEekV2dksxbUJlZjRJMg?oc=5",
     "source": "nme",
-    "title": "Monty Python is \"dead\", declares Eric Idle - nme.com",
+    "title": "Monty Python is \"dead\", declares Eric Idle - NME",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPekE2eGJQbkZCNjAxZTI4SDB2d09GM1MtRl91dVVUeTc0eHlnTVdjRXA4SXdJdkg2aVFoYm1IUzZ5TDRFU2tPLW5aYWpCTFFoUkxDQXRIRmJzZ0RsUF9aX2JsTGxFSHVSbW5BWTVZOTRLZWFEekV2dksxbUJlZjRJMg?oc=5",
     "publishedAt": "2026-09-11T12:23:05.000Z",
-    "summary": "Monty Python is \"dead\", declares Eric Idle nme.com",
+    "summary": "Monty Python is \"dead\", declares Eric Idle NME",
     "image": null
   },
   {
     "id": "nme-https://news.google.com/rss/articles/CBMiugFBVV95cUxPdjFaMmEyQUJjdEZmRUd6YzI0VElYNTVYVXp0c2VEUHhHUjVUanA5cHUyQWM2LVgtRHhwQUxZU0w0VWRLTFFZa3paU0xHRzdOV29xdHJJcmhpQnZKNlJQV1ROUEtGMDY2SVo5SUFhQThoWWJnM3QwRkU4U0lpTTRNOHJTRnh4UlpXOWQ1d1o5WnFVUkt6aUZKbEJURkVDeGZIcVBZNW5tbmQwVUg2VVFNek1JQUdnWWllckE?oc=5",
     "source": "nme",
-    "title": "Charli XCX announces 2027 UK and European ‘Music, Fashion, Film’ tour - nme.com",
+    "title": "Charli XCX announces 2027 UK and European ‘Music, Fashion, Film’ tour - NME",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdjFaMmEyQUJjdEZmRUd6YzI0VElYNTVYVXp0c2VEUHhHUjVUanA5cHUyQWM2LVgtRHhwQUxZU0w0VWRLTFFZa3paU0xHRzdOV29xdHJJcmhpQnZKNlJQV1ROUEtGMDY2SVo5SUFhQThoWWJnM3QwRkU4U0lpTTRNOHJTRnh4UlpXOWQ1d1o5WnFVUkt6aUZKbEJURkVDeGZIcVBZNW5tbmQwVUg2VVFNek1JQUdnWWllckE?oc=5",
     "publishedAt": "2026-09-11T11:50:19.000Z",
-    "summary": "Charli XCX announces 2027 UK and European ‘Music, Fashion, Film’ tour nme.com",
+    "summary": "Charli XCX announces 2027 UK and European ‘Music, Fashion, Film’ tour NME",
     "image": null
   },
   {
@@ -407,19 +407,19 @@
   {
     "id": "nme-https://news.google.com/rss/articles/CBMiswFBVV95cUxQd3NDRkVKV3dhbTFPYlplWGhRYjRhSkFINXJWQXNvY0t6MVEtSlRKdE95X2UzR3FFLUpSMHg3SmJ4ckFVZmVYSzFvbl9lRGlwWXJEVmpSMy1QbmYxQUN2Nk1INkloajRzdDlqRk5fZEluZnFwWUR3dWhEUzFvR0JZdDB2bjZRT3ZXMXhoRGs3cDFNS3JKak5heWZhdjNIOUNYendRc29aeUxLbG9pX1prMU9yZw?oc=5",
     "source": "nme",
-    "title": "Oasis 2027 tour: drones over Manchester reveal announcement date and time - nme.com",
+    "title": "Oasis 2027 tour: drones over Manchester reveal announcement date and time - NME",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd3NDRkVKV3dhbTFPYlplWGhRYjRhSkFINXJWQXNvY0t6MVEtSlRKdE95X2UzR3FFLUpSMHg3SmJ4ckFVZmVYSzFvbl9lRGlwWXJEVmpSMy1QbmYxQUN2Nk1INkloajRzdDlqRk5fZEluZnFwWUR3dWhEUzFvR0JZdDB2bjZRT3ZXMXhoRGs3cDFNS3JKak5heWZhdjNIOUNYendRc29aeUxLbG9pX1prMU9yZw?oc=5",
     "publishedAt": "2026-09-11T09:25:19.000Z",
-    "summary": "Oasis 2027 tour: drones over Manchester reveal announcement date and time nme.com",
+    "summary": "Oasis 2027 tour: drones over Manchester reveal announcement date and time NME",
     "image": null
   },
   {
     "id": "nme-https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeThtNFBaSjJUTWJ2SFEyZ1RZNThWR0FMWmwyMjVHLWl3MmtBc1A2OEtGVHRNWE8tU2JZTF9GRkx3QTBVOHl3bU1CWElPTjF3WDN1bGtqdU44ZlR6Tk5yMUtVSlFSNDlscHhzcWJQUmpwTkxXandqNzl3UUpIMDNSVUJqeHliSElrYjJGMmd1THR6VXhFMWI2NTNRc2NyN3J2aVpRTzBLZVo3SjQ?oc=5",
     "source": "nme",
-    "title": "Man who had sex on ferris wheel at Download 2026 found out about viral video when boss called him, court hears - nme.com",
+    "title": "Man who had sex on ferris wheel at Download 2026 found out about viral video when boss called him, court hears - NME",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeThtNFBaSjJUTWJ2SFEyZ1RZNThWR0FMWmwyMjVHLWl3MmtBc1A2OEtGVHRNWE8tU2JZTF9GRkx3QTBVOHl3bU1CWElPTjF3WDN1bGtqdU44ZlR6Tk5yMUtVSlFSNDlscHhzcWJQUmpwTkxXandqNzl3UUpIMDNSVUJqeHliSElrYjJGMmd1THR6VXhFMWI2NTNRc2NyN3J2aVpRTzBLZVo3SjQ?oc=5",
     "publishedAt": "2026-09-11T09:25:19.000Z",
-    "summary": "Man who had sex on ferris wheel at Download 2026 found out about viral video when boss called him, court hears nme.com",
+    "summary": "Man who had sex on ferris wheel at Download 2026 found out about viral video when boss called him, court hears NME",
     "image": null
   },
   {
@@ -461,10 +461,10 @@
   {
     "id": "nme-https://news.google.com/rss/articles/CBMioAFBVV95cUxNOHJ3SnY4c3VVS202Y0cxek56aE4yMEozMGI5WXZlQUpWQmRzSVdRVTlYUE9MS3Z5NTlrd1dfa2NOVGJybVc2X3EwQ2NNZmRIeDMzakNhMXJHYnB1S1BMSzFQMHIxTk82SUtBcGdqT3ZfSW02a1pLcU9jLXQwaTM2c3BIX042WDRQeGtwc0NrYlZwV0tHekpyU1JobGEtYlh3?oc=5",
     "source": "nme",
-    "title": "‘EA Sports FC 27’ soundtrack to feature Royal Blood, The Strokes and more - nme.com",
+    "title": "‘EA Sports FC 27’ soundtrack to feature Royal Blood, The Strokes and more - NME",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOHJ3SnY4c3VVS202Y0cxek56aE4yMEozMGI5WXZlQUpWQmRzSVdRVTlYUE9MS3Z5NTlrd1dfa2NOVGJybVc2X3EwQ2NNZmRIeDMzakNhMXJHYnB1S1BMSzFQMHIxTk82SUtBcGdqT3ZfSW02a1pLcU9jLXQwaTM2c3BIX042WDRQeGtwc0NrYlZwV0tHekpyU1JobGEtYlh3?oc=5",
     "publishedAt": "2026-09-10T17:00:38.000Z",
-    "summary": "‘EA Sports FC 27’ soundtrack to feature Royal Blood, The Strokes and more nme.com",
+    "summary": "‘EA Sports FC 27’ soundtrack to feature Royal Blood, The Strokes and more NME",
     "image": null
   },
   {
@@ -542,10 +542,10 @@
   {
     "id": "nme-https://news.google.com/rss/articles/CBMinwFBVV95cUxObDkyRmczV284Ul9mUEZocTFMTEw5bEVGdXZPVmpkSzFBT2RtOUZMTEFYemJsbVNwNm41ZEY1R3Zqc1lpcE5QZTRXYVJRZXl5T214MWdBVlMxVldWWW9FaWdNaXhPOGtkYTdfaFNRZlFhVU1XZkJxNGNnMkZRSzdxWEJRSWhXbDlBTS10Mm93amdxMW5ZZ0xOajdvSjRDaXc?oc=5",
     "source": "nme",
-    "title": "Conor Oberst has made a short film starring Phoebe Bridgers - nme.com",
+    "title": "Conor Oberst has made a short film starring Phoebe Bridgers - NME",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObDkyRmczV284Ul9mUEZocTFMTEw5bEVGdXZPVmpkSzFBT2RtOUZMTEFYemJsbVNwNm41ZEY1R3Zqc1lpcE5QZTRXYVJRZXl5T214MWdBVlMxVldWWW9FaWdNaXhPOGtkYTdfaFNRZlFhVU1XZkJxNGNnMkZRSzdxWEJRSWhXbDlBTS10Mm93amdxMW5ZZ0xOajdvSjRDaXc?oc=5",
     "publishedAt": "2026-09-10T07:52:41.000Z",
-    "summary": "Conor Oberst has made a short film starring Phoebe Bridgers nme.com",
+    "summary": "Conor Oberst has made a short film starring Phoebe Bridgers NME",
     "image": null
   },
   {
