@@ -1,47 +1,164 @@
 [
   {
-    "id": "billboard-https://www.billboard.com/lists/hot-100-number-1-songs-on-top-longest/",
+    "id": "loudwire-https://loudwire.com/my-chemical-romance-draag-explained/",
+    "source": "loudwire",
+    "title": "Everything You Need to Know About My Chemical Romance's Draag",
+    "url": "https://loudwire.com/my-chemical-romance-draag-explained/",
+    "publishedAt": "2026-09-14T20:33:29.000Z",
+    "summary": "My Chemical Romance's \"Long Live\": The Black Parade North American Tour was set in a fictional land known as Draag. But there was more to the story than what you heard in the lyrics coming from the stage. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/better-1991-album-guns-n-roses-use-your-illusion-i-ii-vs-ozzy-osbournes-no-more-tears/",
+    "source": "loudwire",
+    "title": "Better 1991 Album - 'Use Your Illusion' vs. 'No More Tears'",
+    "url": "https://loudwire.com/better-1991-album-guns-n-roses-use-your-illusion-i-ii-vs-ozzy-osbournes-no-more-tears/",
+    "publishedAt": "2026-09-14T20:32:23.000Z",
+    "summary": "Just like on Sept. 17, 1991 when both albums were released, we're asking you to choose. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/cage-the-elephant-rock-radio-charts-beaches-in-tennessee-1236339880/",
     "source": "billboard",
-    "title": "The Longest-Leading Billboard Hot 100 No. 1s",
-    "url": "https://www.billboard.com/lists/hot-100-number-1-songs-on-top-longest/",
-    "publishedAt": "2026-09-14T17:26:19.000Z",
-    "summary": "A select few hits have led the chart for at least 10 weeks.",
+    "title": "Cage the Elephant Tops Multiple Rock Radio Charts With ‘Beaches in Tennessee’",
+    "url": "https://www.billboard.com/music/chart-beat/cage-the-elephant-rock-radio-charts-beaches-in-tennessee-1236339880/",
+    "publishedAt": "2026-09-14T20:27:37.000Z",
+    "summary": "The band earns its 14th No. 1 on Alternative Airplay and eighth on Adult Alternative Airplay.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/country/ella-langley-ties-mariah-carey-hot-100-record-reaction-1236339851/",
+    "source": "billboard",
+    "title": "Ella Langley Has a 2-Word, 2-Emoji Reaction to Tying Mariah Carey’s Hot 100 Record",
+    "url": "https://www.billboard.com/music/country/ella-langley-ties-mariah-carey-hot-100-record-reaction-1236339851/",
+    "publishedAt": "2026-09-14T20:23:52.000Z",
+    "summary": "The country star's chart-topper now has 22 weeks at the top of the chart.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/macklemore-dropped-ed-sheeran-tour-robert-kraft-statement-1235626352/",
+    "source": "rolling-stone",
+    "title": "Robert Kraft Confirms He Barred Macklemore From Ed Sheeran Boston Shows",
+    "url": "https://www.rollingstone.com/music/music-news/macklemore-dropped-ed-sheeran-tour-robert-kraft-statement-1235626352/",
+    "publishedAt": "2026-09-14T20:21:57.000Z",
+    "summary": "Billionaire Patriots owner said he is committed to “ensuring that all events held at our venue do not provide a platform for hate speech.”",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/robert-kraft-macklemore-free-palestine-statements-offensive/",
+    "source": "billboard",
+    "title": "Robert Kraft Calls Macklemore’s ‘Free Palestine’ Statements ‘Deeply Offensive’: ‘A Line Had Been Crossed’",
+    "url": "https://www.billboard.com/pro/robert-kraft-macklemore-free-palestine-statements-offensive/",
+    "publishedAt": "2026-09-14T20:09:30.000Z",
+    "summary": "The Gillette Stadium owner released a statement explaining why he helped lead the call for the rapper's removal from Ed Sheeran's U.S. tour.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/emmy-awards-2026-sept-watch-livestream-online-free-1236338612/",
+    "source": "billboard",
+    "title": "78th Annual Emmy Awards: Here’s Where to Watch the 2026 Ceremony Live Online for Free",
+    "url": "https://www.billboard.com/culture/product-recommendations/emmy-awards-2026-sept-watch-livestream-online-free-1236338612/",
+    "publishedAt": "2026-09-14T20:07:46.000Z",
+    "summary": "Law & Order: SVU's Mariska Hargitay hosts the TV awards ceremony on Monday, Sept. 14 — watch it online free.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/country/mack-geiger-billboard-up-and-comer-country-september-1236339441/",
+    "source": "billboard",
+    "title": "Billboard’s Country Up-And-Comer Mack Geiger Went From Student Paramedic to Hot 100 Hitmaker in Eight Months: ‘It’s Been a Trip’",
+    "url": "https://www.billboard.com/music/country/mack-geiger-billboard-up-and-comer-country-september-1236339441/",
+    "publishedAt": "2026-09-14T20:04:48.000Z",
+    "summary": "The Australia-based country singer-songwriter is earning a chart breakthrough with his song \"String By.\"",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/mark-lee-convey-greatest-love-new-song-my-friend-1236339774/",
+    "source": "billboard",
+    "title": "Mark Lee Wants to Convey ‘the Greatest Love’ Through His New Song ‘My Friend’",
+    "url": "https://www.billboard.com/music/pop/mark-lee-convey-greatest-love-new-song-my-friend-1236339774/",
+    "publishedAt": "2026-09-14T20:04:23.000Z",
+    "summary": "\"This is exactly the music I should be putting out as my present self,\" the K-pop star tells Billboard Korea.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/50-cent-reacts-tom-brady-rap-in-da-club-nfl-broadcast-1236339720/",
+    "source": "billboard",
+    "title": "50 Cent Shows Love to Tom Brady for Rapping ‘In Da Club’ During NFL Broadcast: ‘All He Do Is Win’",
+    "url": "https://www.billboard.com/music/rb-hip-hop/50-cent-reacts-tom-brady-rap-in-da-club-nfl-broadcast-1236339720/",
+    "publishedAt": "2026-09-14T19:41:53.000Z",
+    "summary": "The athlete previously used \"Many Men\" to soundtrack his run to another Super Bowl victory in 2019.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/tiktok-gabbie-gonzalez-arraigned-why-dont-we-jack-avery-1235626190/",
+    "source": "rolling-stone",
+    "title": "TikTok Influencer Pleads Not Guilty to Dark-Web Hit Plot Against Singer Jack Avery",
+    "url": "https://www.rollingstone.com/music/music-news/tiktok-gabbie-gonzalez-arraigned-why-dont-we-jack-avery-1235626190/",
+    "publishedAt": "2026-09-14T19:40:43.000Z",
+    "summary": "Gabbie Gonzalez entered her plea alongside her father and ex-boyfriend after prosecutors accused the trio of conspiring to kill the Why Don’t We singer amid a child-custody dispute",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/features/pink-sweat-powers-his-ultimate-movement-mix-with-planet-fitness-1236339632/",
+    "source": "billboard",
+    "title": "Pink Sweat$ Powers his Ultimate Movement Mix With Jill Scott, Sade, Kendrick Lamar & More: See the Playlist",
+    "url": "https://www.billboard.com/music/features/pink-sweat-powers-his-ultimate-movement-mix-with-planet-fitness-1236339632/",
+    "publishedAt": "2026-09-14T19:39:53.000Z",
+    "summary": "From Philly soul to high-energy hip-hop, Pink Sweat$ shares the songs that keep him moving—powered by Planet Fitness",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/country/lana-del-rey-teases-zach-bryan-collab-song-done-1236339734/",
+    "source": "billboard",
+    "title": "Lana Del Rey Teases She Has a New Collab Coming With Zach Bryan: ‘We Finally Got Our Song Done’",
+    "url": "https://www.billboard.com/music/country/lana-del-rey-teases-zach-bryan-collab-song-done-1236339734/",
+    "publishedAt": "2026-09-14T19:26:08.000Z",
+    "summary": "\"And that's no Lie,\" she wrote.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/lady-gaga-surf-repay-bill-failed-mayhem-lawsuit/",
+    "source": "billboard",
+    "title": "Lady Gaga Says Surf Brand Must Repay $250K Legal Bill After Failed ‘Mayhem’ Lawsuit: ‘A Publicity Stunt’",
+    "url": "https://www.billboard.com/pro/lady-gaga-surf-repay-bill-failed-mayhem-lawsuit/",
+    "publishedAt": "2026-09-14T18:58:32.000Z",
+    "summary": "The superstar says the defeated lawsuit over a “common dictionary word” was costly and never should have been filed.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/falling-in-reverse-joseph-corey-taylor-serj-tankian-lyrics/",
+    "source": "loudwire",
+    "title": "Falling in Reverse Drop New Song With Corey Taylor + Serj Tankian",
+    "url": "https://loudwire.com/falling-in-reverse-joseph-corey-taylor-serj-tankian-lyrics/",
+    "publishedAt": "2026-09-14T17:55:47.000Z",
+    "summary": "Falling in Reverse just dropped a new song, 'Joseph,' which features Slipknot's Corey Taylor and System of a Down's Serj Tankian. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/dave-grohl-nirvana-smells-like-teen-spirit-not-greatest/",
+    "source": "loudwire",
+    "title": "Nirvana Songs Grohl Thought Would Be Bigger Than 'Teen Spirit'",
+    "url": "https://loudwire.com/dave-grohl-nirvana-smells-like-teen-spirit-not-greatest/",
+    "publishedAt": "2026-09-14T17:45:51.000Z",
+    "summary": "Dave Grohl confesses he felt that two Nirvana songs might be bigger 'smash hits' that Nirvana's 'Smells Like Teen Spirit.' Continue reading…",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/wavves-to-rerecord-say-anything-collab-album-cherry-soda-max-bemis-allegations/",
+    "source": "pitchfork",
+    "title": "Wavves’ Nathan Williams Details Rerecorded Cherry Soda Album",
+    "url": "https://pitchfork.com/story/wavves-to-rerecord-say-anything-collab-album-cherry-soda-max-bemis-allegations/",
+    "publishedAt": "2026-09-14T17:34:41.000Z",
+    "summary": "Say Anything’s Max Bemis was booted from the project following accusations of inappropriate conduct with underage fans",
     "image": null
   },
   {
     "id": "pitchfork-https://pitchfork.com/story/ella-langleys-choosin-texas-ties-record-for-most-weeks-spent-at-no-1/",
     "source": "pitchfork",
-    "title": "Ella Langley’s “Choosin’ Texas” Ties Record for Most Weeks Spent at No. 1",
+    "title": "Ella Langley’s “Choosin’ Texas” Ties Record for Most Weeks at No. 1",
     "url": "https://pitchfork.com/story/ella-langleys-choosin-texas-ties-record-for-most-weeks-spent-at-no-1/",
     "publishedAt": "2026-09-14T17:20:37.000Z",
     "summary": "The country smash is a hair’s breadth from surpassing Mariah Carey’s “All I Want for Christmas Is You”",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/latin/mexico-canta-2026-winners-revealed-1236339465/",
-    "source": "billboard",
-    "title": "México Canta 2026: These Are the Winners of the Binational Talent Contest",
-    "url": "https://www.billboard.com/music/latin/mexico-canta-2026-winners-revealed-1236339465/",
-    "publishedAt": "2026-09-14T17:14:42.000Z",
-    "summary": "Bryan Soto, Lizandro Espinoza and Tifanny Galaviz will perform on Sept. 15 at the Independence Day concert in Mexico City's Zócalo.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-    "source": "billboard",
-    "title": "Billboard’s Music Industry Events Calendar",
-    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-    "publishedAt": "2026-09-14T17:13:00.000Z",
-    "summary": "A complete rundown of the most important events across the music business.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/drake-wants-jim-carrey-roast-him-40th-birthday-1236339456/",
-    "source": "billboard",
-    "title": "Drake Reveals the Only Gift He Wants for His Upcoming 40th Birthday",
-    "url": "https://www.billboard.com/music/rb-hip-hop/drake-wants-jim-carrey-roast-him-40th-birthday-1236339456/",
-    "publishedAt": "2026-09-14T17:09:34.000Z",
-    "summary": "The OVO superstar kicks off a new decade on Oct. 24.",
     "image": null
   },
   {
@@ -50,7 +167,7 @@
     "title": "Ella Langley Is Coming for Christmas: ‘Choosin’ Texas’ Ties Mariah Carey",
     "url": "https://www.rollingstone.com/music/music-country/ella-langley-choosin-texas-ties-mariah-carey-christmas-1235624515/",
     "publishedAt": "2026-09-14T17:07:10.000Z",
-    "summary": "With 22 weeks atop the Billboard Hot 100, Langley's country song is poised to beat Carey's \"All I Want for Christmas Is You\" next week",
+    "summary": "With 22 weeks atop the Billboard Hot 100, Langley’s country song is poised to beat Carey’s “All I Want for Christmas Is You” next week",
     "image": null
   },
   {
@@ -59,7 +176,7 @@
     "title": "Macklemore Says He Was Dropped From Ed Sheeran Tour After Robert Kraft Pressure Campaign",
     "url": "https://www.rollingstone.com/music/music-news/macklemore-statement-dropped-ed-sheeran-tour-1235626135/",
     "publishedAt": "2026-09-14T17:05:15.000Z",
-    "summary": "The Seattle rapper claimed the billionaire New England Patriots owner told Sheeran that Macklemore would not be allowed to perform at Gillette Stadium and \"rallied\" other stadium owners",
+    "summary": "The Seattle rapper claimed the billionaire New England Patriots owner told Sheeran that Macklemore would not be allowed to perform at Gillette Stadium and “rallied” other stadium owners",
     "image": null
   },
   {
@@ -72,21 +189,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/lists/ella-langley-choosin-texas-hot-100-number-one-22nd-week/",
-    "source": "billboard",
-    "title": "Ella Langley’s ‘Choosin’ Texas’ Ties All-Time Hot 100 Record With 22nd Week at No. 1",
-    "url": "https://www.billboard.com/lists/ella-langley-choosin-texas-hot-100-number-one-22nd-week/",
-    "publishedAt": "2026-09-14T16:54:24.000Z",
-    "summary": "Plus, Karol G’s “BbY WOW,” with Judeline and rusowsky, hits the top 10.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/macklemore-reacts-ed-sheeran-tour-dropped-him-free-palestine-1236339481/",
-    "source": "billboard",
-    "title": "Macklemore Reacts to Being Dropped From Ed Sheeran Tour Over ‘Painful Disagreement’ of His ‘Free Palestine’ Chant",
-    "url": "https://www.billboard.com/music/music-news/macklemore-reacts-ed-sheeran-tour-dropped-him-free-palestine-1236339481/",
-    "publishedAt": "2026-09-14T16:52:23.000Z",
-    "summary": "The rapper alleges that Gillette Stadium owner Robert Kraft gave Sheeran an ultimatum.",
+    "id": "nme-https://news.google.com/rss/articles/CBMimAFBVV95cUxPYVQyc1RWRDNfVUd6U2l2emkwZkY1Wk9VblZDb285MFBfUU1wTE9DUF9mN3BMV0doeTk3V1dzQlpfTGFiUWVnR0ViWGt4YVlnVnNkRFU3bnJya3RHcUdta3B2eWltNUNGQ2ZvOXkteUk5Tms0UWNEMVU5OVh4dzlBa2VVMl9rWXJmdnh5T0RDaDVnWGtjR0NPaA?oc=5",
+    "source": "nme",
+    "title": "Oasis announce Live ’27 world tour: “Come witness the fitness. It shall be a sight to behold” - NME",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYVQyc1RWRDNfVUd6U2l2emkwZkY1Wk9VblZDb285MFBfUU1wTE9DUF9mN3BMV0doeTk3V1dzQlpfTGFiUWVnR0ViWGt4YVlnVnNkRFU3bnJya3RHcUdta3B2eWltNUNGQ2ZvOXkteUk5Tms0UWNEMVU5OVh4dzlBa2VVMl9rWXJmdnh5T0RDaDVnWGtjR0NPaA?oc=5",
+    "publishedAt": "2026-09-14T16:57:09.000Z",
+    "summary": "Oasis announce Live ’27 world tour: “Come witness the fitness. It shall be a sight to behold” NME",
     "image": null
   },
   {
@@ -99,24 +207,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/pro/matt-serletic-named-dean-u-of-miami-frost-school-of-music/",
-    "source": "billboard",
-    "title": "University of Miami’s Frost School of Music Names Matt Serletic Dean",
-    "url": "https://www.billboard.com/pro/matt-serletic-named-dean-u-of-miami-frost-school-of-music/",
-    "publishedAt": "2026-09-14T16:28:35.000Z",
-    "summary": "The school recently celebrated its 100th anniversary, with Serletic's appointment making him the Frost School of Music's sixth dean.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/piso-21-interscope-records-global-distribution-deal/",
-    "source": "billboard",
-    "title": "Piso 21 Signs Global Distribution Deal With Interscope Records: ‘What’s Coming Can Be Even Bigger’",
-    "url": "https://www.billboard.com/pro/piso-21-interscope-records-global-distribution-deal/",
-    "publishedAt": "2026-09-14T16:00:00.000Z",
-    "summary": "Under this partnership, the Colombian band will continue releasing music through its own label, Tres Sietes.",
-    "image": null
-  },
-  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUFp3cjNDMGhMa1FIalFKNlBPMzl6dGZLU3FmcC1Oa01uYngwamdLMEVmWlUyNDF2VjZ2YzdZS05JT1RpanBvdk8xem9mUkVNOWhHRHlkellzZEhCOVBmeXZPMHRhckQ4Sld3aUFlejZvQmtCdWdCWmNjZWJ3M09YSHZsNGNxRU9lLVljN3lxa2UwOW1CZUFDUS15emsySmtGLVA3dGNIMXQ1TkU?oc=5",
     "source": "kerrang",
     "title": "The Warning announce huge Everything’s Falling world tour, including Wembley Arena date - Kerrang!",
@@ -126,30 +216,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/lil-durk-celebrates-acquittal-murder-hire-trial-6ix9ine-trolls-1236339423/",
-    "source": "billboard",
-    "title": "Lil Durk Celebrates Acquittal in Murder-For-Hire Trial: ‘I Feel All the Love and Positive Energy’",
-    "url": "https://www.billboard.com/music/rb-hip-hop/lil-durk-celebrates-acquittal-murder-hire-trial-6ix9ine-trolls-1236339423/",
-    "publishedAt": "2026-09-14T15:52:10.000Z",
-    "summary": "While the \"Laugh Now Cry Later\" MC was celebrating, viral rapper 6ix9ine was busy trolling him in the comments.",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/oasis-announce-2027-tour/",
     "source": "pitchfork",
     "title": "Oasis Announce 2027 Tour",
     "url": "https://pitchfork.com/story/oasis-announce-2027-tour/",
     "publishedAt": "2026-09-14T15:49:54.000Z",
     "summary": "The brothers Gallagher have set a slew of new dates in the U.S. and Europe, including a historic return to Knebworth Park",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/latin/latin-music-week-2026-lineup-program-1236339193/",
-    "source": "billboard",
-    "title": "Grupo Frontera, Santos Bravos, Mau y Ricky, Anuel AA & More to Join Billboard Latin Music Week 2026: See the Full Program",
-    "url": "https://www.billboard.com/music/latin/latin-music-week-2026-lineup-program-1236339193/",
-    "publishedAt": "2026-09-14T15:47:46.000Z",
-    "summary": "The schedule was revealed at a press conference hosted at The Fillmore Miami Beach on Sept. 14.",
     "image": null
   },
   {
@@ -189,15 +261,6 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMimAFBVV95cUxPYVQyc1RWRDNfVUd6U2l2emkwZkY1Wk9VblZDb285MFBfUU1wTE9DUF9mN3BMV0doeTk3V1dzQlpfTGFiUWVnR0ViWGt4YVlnVnNkRFU3bnJya3RHcUdta3B2eWltNUNGQ2ZvOXkteUk5Tms0UWNEMVU5OVh4dzlBa2VVMl9rWXJmdnh5T0RDaDVnWGtjR0NPaA?oc=5",
-    "source": "nme",
-    "title": "Oasis announce Live ’27 world tour: “Come witness the fitness. It shall be a sight to behold” - NME",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYVQyc1RWRDNfVUd6U2l2emkwZkY1Wk9VblZDb285MFBfUU1wTE9DUF9mN3BMV0doeTk3V1dzQlpfTGFiUWVnR0ViWGt4YVlnVnNkRFU3bnJya3RHcUdta3B2eWltNUNGQ2ZvOXkteUk5Tms0UWNEMVU5OVh4dzlBa2VVMl9rWXJmdnh5T0RDaDVnWGtjR0NPaA?oc=5",
-    "publishedAt": "2026-09-14T15:00:57.000Z",
-    "summary": "Oasis announce Live ’27 world tour: “Come witness the fitness. It shall be a sight to behold” NME",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-album-reviews/carly-rae-jepsen-day-and-night-album-review-1235622766/",
     "source": "rolling-stone",
     "title": "Carly Rae Jepsen’s ‘Day and Night’ Is a Double-Album Dissertation on Love",
@@ -209,10 +272,19 @@
   {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-features/stevie-nicks-book-excerpt-drugs-1235621466/",
     "source": "rolling-stone",
-    "title": "‘It Takes Your Soul’: Stevie Nicks’ Massive Drug Addiction and Recovery Examined in New Book",
+    "title": "‘It Takes Your Soul’: What Stevie Nicks Learned on Her Sobriety Journey",
     "url": "https://www.rollingstone.com/music/music-features/stevie-nicks-book-excerpt-drugs-1235621466/",
     "publishedAt": "2026-09-14T14:35:59.000Z",
     "summary": "Upcoming biography Lessons & Lace details life lessons the Fleetwood Mac singer endured throughout her lengthy career",
+    "image": null
+  },
+  {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMiigFBVV95cUxOYUVNckxOMWVoaGVpemdzLTdET1JWeTM3THhwTi11WkVzN3dOZ3AzTWZKdGpVcFBTd3kxeTFKU1M4R2txTEduZkUtZXE0V1JlTV8wT09SMF9xZWtpNG5zM3NvN0hPWmxVTnZpODBQUnQtbzFTVklqbE1UQnR5VzJ3aUtqSGNYclg0Q2c?oc=5",
+    "source": "kerrang",
+    "title": "Live review: Evanescence, London The O2 - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYUVNckxOMWVoaGVpemdzLTdET1JWeTM3THhwTi11WkVzN3dOZ3AzTWZKdGpVcFBTd3kxeTFKU1M4R2txTEduZkUtZXE0V1JlTV8wT09SMF9xZWtpNG5zM3NvN0hPWmxVTnZpODBQUnQtbzFTVklqbE1UQnR5VzJ3aUtqSGNYclg0Q2c?oc=5",
+    "publishedAt": "2026-09-14T14:30:00.000Z",
+    "summary": "Live review: Evanescence, London The O2 Kerrang!",
     "image": null
   },
   {
@@ -252,6 +324,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMitgFBVV95cUxPeG9iVFpmUlBtZUJ1Zk5GcUN1dlRhdnl0OVRWTnZYS2QycmZaQ0g1Z2N2ZGZ2YmV0cWI1bUo5dGpLYlBtbkVVT2JrVGYxSXFvbHZyUnIyRzZTdVFpQkhPQWZVU0h2cW1oUWdKd0tSZEFCZDJLaTI4dExqcm41MlBPbmNTNUZGT3dINFpBM0ZoYUxQYmNHNTdCSnFKb2gwVzNEREZIR0psZTA1YkJjd2I0NGk0anZZQQ?oc=5",
+    "source": "nme",
+    "title": "Tony Iommi on why he turned down the chance to make one final Black Sabbath album with the original line-up - NME",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeG9iVFpmUlBtZUJ1Zk5GcUN1dlRhdnl0OVRWTnZYS2QycmZaQ0g1Z2N2ZGZ2YmV0cWI1bUo5dGpLYlBtbkVVT2JrVGYxSXFvbHZyUnIyRzZTdVFpQkhPQWZVU0h2cW1oUWdKd0tSZEFCZDJLaTI4dExqcm41MlBPbmNTNUZGT3dINFpBM0ZoYUxQYmNHNTdCSnFKb2gwVzNEREZIR0psZTA1YkJjd2I0NGk0anZZQQ?oc=5",
+    "publishedAt": "2026-09-14T13:58:36.000Z",
+    "summary": "Tony Iommi on why he turned down the chance to make one final Black Sabbath album with the original line-up NME",
+    "image": null
+  },
+  {
     "id": "pitchfork-https://pitchfork.com/story/coachella-organizers-ocean-way-festival-canceled-due-to-hurricane-marie/",
     "source": "pitchfork",
     "title": "Coachella Organizers’ Ocean Way Festival Canceled Due to Hurricane Marie",
@@ -288,6 +369,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMitwFBVV95cUxOUDNIaDdFWmtWTnMxSjJFSjg4VVozTzh1LWhvdkVGbHBqNERjZVNUSndEclMxY0RZVklsVzN6YkFBUjAzZVdxUHpwejJIZmlaSVl5QVhRWGdwR1lBYW00bjItWTJsZU9Qc2luczlNSXNSN2QzajdDQ3RCSGRZY1hQWEhmVjFLZl9ZTzJHa0dDMFRVT0tlbnpBbU5VaUpNT08tblFJTTFVbllSdE9GVWYtTTVybW9nWDQ?oc=5",
+    "source": "nme",
+    "title": "Late jazz icon’s estate distance themselves from new film ‘Everybody Digs Bill Evans’ - NME",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUDNIaDdFWmtWTnMxSjJFSjg4VVozTzh1LWhvdkVGbHBqNERjZVNUSndEclMxY0RZVklsVzN6YkFBUjAzZVdxUHpwejJIZmlaSVl5QVhRWGdwR1lBYW00bjItWTJsZU9Qc2luczlNSXNSN2QzajdDQ3RCSGRZY1hQWEhmVjFLZl9ZTzJHa0dDMFRVT0tlbnpBbU5VaUpNT08tblFJTTFVbllSdE9GVWYtTTVybW9nWDQ?oc=5",
+    "publishedAt": "2026-09-14T12:36:20.000Z",
+    "summary": "Late jazz icon’s estate distance themselves from new film ‘Everybody Digs Bill Evans’ NME",
+    "image": null
+  },
+  {
     "id": "loudwire-https://loudwire.com/best-progressive-power-metal-albums-ranked/",
     "source": "loudwire",
     "title": "11 Best Progressive Power Metal Albums of All Time (Ranked)",
@@ -303,6 +393,15 @@
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeW14S0dEYzZOeHZaTHZKSndiejhTNFZ3WGpHeTZZc3p5UWxZLW5EUV9xd3lXVEpWZGhQSnl2T2oycDRUYU93dVFON0xVSDd3TUxLakVNeGtKclFMRUl3SnNzb2lnWHczVlhxRm1QZVhkVWZJek9zejFZcFV0X05zWXpLY3dYS2RKX1RZN18zQ0FNNi0wSjJLdFNPaDY?oc=5",
     "publishedAt": "2026-09-14T10:53:36.000Z",
     "summary": "Samsung asks judge to dismiss Dua Lipa’s $15million lawsuit NME",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMijwFBVV95cUxNYXVqdG9UcExHcldrcUlPenB4TnlRNUVkZkktek1tR25nNHczX21TNHgwRHFHYmVsdVVULWNIMlJQanhNbFVFZGw5QjdDY2tVTGdJMWR4X3lENDIySXo0aTFFWjFYNHZjZmt6bXNrNXpTM1NKdFJQRm1yNHE3ZkZPc2xWc2NNdUYtU0N0WVNCcw?oc=5",
+    "source": "nme",
+    "title": "Bruce Springsteen has two new albums on the way - NME",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYXVqdG9UcExHcldrcUlPenB4TnlRNUVkZkktek1tR25nNHczX21TNHgwRHFHYmVsdVVULWNIMlJQanhNbFVFZGw5QjdDY2tVTGdJMWR4X3lENDIySXo0aTFFWjFYNHZjZmt6bXNrNXpTM1NKdFJQRm1yNHE3ZkZPc2xWc2NNdUYtU0N0WVNCcw?oc=5",
+    "publishedAt": "2026-09-14T10:38:36.000Z",
+    "summary": "Bruce Springsteen has two new albums on the way NME",
     "image": null
   },
   {
@@ -339,6 +438,15 @@
     "url": "https://www.uncut.co.uk/news/the-beatles-share-alternate-take-of-norwegian-wood-this-bird-has-flown-ahead-of-rubber-soul-reissue-156362/",
     "publishedAt": "2026-09-14T09:30:03.000Z",
     "summary": "George Harrison’s first explorations with the sitar...",
+    "image": null
+  },
+  {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMid0FVX3lxTE1QOUc3ZDdmWjVReHpEeXk4Vmg1VFBGN1ZsQXFROGFBNjFGSTBmLWxqZERGLTVjbFh0eF9TVHVHcGNubG1zTm1IR053MVlnTXhqX2xoS2tPbklhcWQ2X0FQZ1BoTno0T1I3NFRWTHVMMmZvRXpXV0dF?oc=5",
+    "source": "kerrang",
+    "title": "Album review: Honey Revenge – Loving And Losing - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QOUc3ZDdmWjVReHpEeXk4Vmg1VFBGN1ZsQXFROGFBNjFGSTBmLWxqZERGLTVjbFh0eF9TVHVHcGNubG1zTm1IR053MVlnTXhqX2xoS2tPbklhcWQ2X0FQZ1BoTno0T1I3NFRWTHVMMmZvRXpXV0dF?oc=5",
+    "publishedAt": "2026-09-14T09:26:00.000Z",
+    "summary": "Album review: Honey Revenge – Loving And Losing Kerrang!",
     "image": null
   },
   {
@@ -405,30 +513,12 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/cheetah-chrome-dead-boys-guitarist-obituary-1235625943/",
-    "source": "rolling-stone",
-    "title": "Cheetah Chrome, Dead Boys and Rocket From the Tombs Guitarist, Dead at 71",
-    "url": "https://www.rollingstone.com/music/music-news/cheetah-chrome-dead-boys-guitarist-obituary-1235625943/",
-    "publishedAt": "2026-09-14T07:21:23.000Z",
-    "summary": "The prolific musician, who also played with Sylvain Sylvain and Ronnie Spector, was remembered as “an architect of the punk-rock movement”",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/cheetah-chrome-dead-boys-rocket-from-the-tombs-dies-at-71/",
     "source": "louder-than-war",
     "title": "Cheetah Chrome (Dead Boys/Rocket From The Tombs) dies at 71",
     "url": "https://louderthanwar.com/cheetah-chrome-dead-boys-rocket-from-the-tombs-dies-at-71/",
     "publishedAt": "2026-09-14T06:09:58.000Z",
     "summary": "The legendary American guitar player from The Dead Boys and Rocket from the Tombs, Cheetah Chrome has died. He was 71. The co-writer of twenty-four carat punk rock classic Sonic Reducer and songs like Aint It Fun, covered by Guns N’ Roses, he was a much under-rated rock’n’roll guitar-player. The Dead Boys socials posted this […] The post Cheetah Chrome (Dead Boys/Rocket From The Tombs) dies at 71 appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/carrie-underwood-2026-sunday-night-football-opening-nfl-1235623922/",
-    "source": "rolling-stone",
-    "title": "Watch Carrie Underwood Open the 2026 Season of ‘Sunday Night Football’",
-    "url": "https://www.rollingstone.com/music/music-country/carrie-underwood-2026-sunday-night-football-opening-nfl-1235623922/",
-    "publishedAt": "2026-09-14T00:24:22.000Z",
-    "summary": "The country star amplified the rock vibes of “Waiting All Day for Sunday Night” for the 14th season of the NFL on NBC",
     "image": null
   },
   {
@@ -468,15 +558,6 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/tony-iommi-rejected-famous-producer-suggestion-new-black-sabbath-album-original-lineup/",
-    "source": "loudwire",
-    "title": "Why Tony Iommi Opposed Doing New Sabbath LP With Original Lineup",
-    "url": "https://loudwire.com/tony-iommi-rejected-famous-producer-suggestion-new-black-sabbath-album-original-lineup/",
-    "publishedAt": "2026-09-13T15:49:11.000Z",
-    "summary": "Iommi recently revealed that a famous producer was \"very keen\" to do a new Black Sabbath LP with the original lineup in the early 2020s, but Iommi didn't want to. Continue reading…",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/jeff-tweedy-twisted-teens-cover/",
     "source": "pitchfork",
     "title": "Listen to Jeff Tweedy Cover Twisted Teens’ “Wild Connection”",
@@ -492,15 +573,6 @@
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVHdCNTR2cGZWY0VFVTVPaUp0QzFsOTFPRVJZd18xUEk2Y3lDclpKYkJOTTRhbzVMdFU5UkZxdU5CMlU2ZWhCMkotam5EQnhhV0hSNkJuNmRwdmR0VjVpRld0RklQUWR2VUNVeTBJc013TVJIeUZXanRoV2czdU50eVZmWlF5U3FzVjA2LUF1VWstM0JJM21LaUxxZG5qeXluRUtjTzAtbDlxMkdwT01XalVXSnVLNkQ2RWZBSTZHMktmV3RScUlfandFY3VnUQ?oc=5",
     "publishedAt": "2026-09-13T14:23:02.000Z",
     "summary": "Coastal erosion forces cancellation of Ocean Way Festival weeks before planned debut nme.com",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/mastodon-secret-show-baroness-john-baizley-rarities-live-debuts-setlist-video/",
-    "source": "loudwire",
-    "title": "Mastodon Add 6th Person to 2026 Tour Lineup",
-    "url": "https://loudwire.com/mastodon-secret-show-baroness-john-baizley-rarities-live-debuts-setlist-video/",
-    "publishedAt": "2026-09-13T14:09:58.000Z",
-    "summary": "Mastodon pulled out several rarities and debuted songs from their latest LP, 'Marrow Deep.' Plus, Baizley will be joining them on their upcoming tour! Continue reading…",
     "image": null
   },
   {
@@ -522,66 +594,12 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMiswFBVV95cUxOYkZDNXBVcksyRGRfZVB4WU9XRW5zTm5VWU1Ec21IVDUxejRwV2NlOXRoX3NhbjZJbmhPU0ZFYXJjaDk4Zzhwa3B4SXRnTXZ6dEZpeHAwYW9RdmxsMjdWMmlRaFVzSFZSYUJFZ2F0VXRHLWpNYTcwSFVqZ05jMDktRndiUUJZM3ZVWTJualpob2I4MXR0aWtIazFzR1Zqc3ktMmRUREx5OFlndjRBYllsNmg5VQ?oc=5",
-    "source": "nme",
-    "title": "Yves Tumor replaced on Turnstile tour following sexual assault allegations - NME",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYkZDNXBVcksyRGRfZVB4WU9XRW5zTm5VWU1Ec21IVDUxejRwV2NlOXRoX3NhbjZJbmhPU0ZFYXJjaDk4Zzhwa3B4SXRnTXZ6dEZpeHAwYW9RdmxsMjdWMmlRaFVzSFZSYUJFZ2F0VXRHLWpNYTcwSFVqZ05jMDktRndiUUJZM3ZVWTJualpob2I4MXR0aWtIazFzR1Zqc3ktMmRUREx5OFlndjRBYllsNmg5VQ?oc=5",
-    "publishedAt": "2026-09-13T09:27:03.000Z",
-    "summary": "Yves Tumor replaced on Turnstile tour following sexual assault allegations NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSllyRjlUaVZLZWxpdGR1OUJ3Y01LSXVNSjNfelkwWHFxUFFJdC1GaW4xWExYazduS0tuLTRiei1uZUc2WDhwNERvZGRFOTF0ZVRxYVNJQVc2cHhGWHdldEhtS3NKZXRtWE5yTEc1YTZKb2pJcVZSNWRZT0pack0tVFU1dWJqQ19XaFlmUFA4TnFBcXB1emZMdzU5aUNsV3QwUFNIOGtBZDNjZw?oc=5",
-    "source": "nme",
-    "title": "Listen to Wilco’s Jeff Tweedy covering Twisted Teens’ ‘Wild Connection’ - NME",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSllyRjlUaVZLZWxpdGR1OUJ3Y01LSXVNSjNfelkwWHFxUFFJdC1GaW4xWExYazduS0tuLTRiei1uZUc2WDhwNERvZGRFOTF0ZVRxYVNJQVc2cHhGWHdldEhtS3NKZXRtWE5yTEc1YTZKb2pJcVZSNWRZT0pack0tVFU1dWJqQ19XaFlmUFA4TnFBcXB1emZMdzU5aUNsV3QwUFNIOGtBZDNjZw?oc=5",
-    "publishedAt": "2026-09-13T08:26:33.000Z",
-    "summary": "Listen to Wilco’s Jeff Tweedy covering Twisted Teens’ ‘Wild Connection’ NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZDliajdzcFE2R2EtVDZYY0NJR2RqSUtXN29OeEpXVEhYMEt0YTRqSE1rYi04Y0dyLTBJeWVfenBlcWVSMUpJZzhKUHNSaHNOWGFpMzhOaXF3TUNJeTlLSmhXM09SMlRKVjNLeFJHMWhEeW9mTWduY0htZ21EMm52M1BHTzlxZXNYcXpBSUVIZkxQVVR5LVdlQ2J5dVJpT3p2aWFVdkZDZ2p6eVZlYzFwN04xSHRJNTZ6WDdZ?oc=5",
-    "source": "nme",
-    "title": "My Chemical Romance tease potential new album as they wrap 'Long Live The Black Parade' tour - nme.com",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZDliajdzcFE2R2EtVDZYY0NJR2RqSUtXN29OeEpXVEhYMEt0YTRqSE1rYi04Y0dyLTBJeWVfenBlcWVSMUpJZzhKUHNSaHNOWGFpMzhOaXF3TUNJeTlLSmhXM09SMlRKVjNLeFJHMWhEeW9mTWduY0htZ21EMm52M1BHTzlxZXNYcXpBSUVIZkxQVVR5LVdlQ2J5dVJpT3p2aWFVdkZDZ2p6eVZlYzFwN04xSHRJNTZ6WDdZ?oc=5",
-    "publishedAt": "2026-09-13T07:57:59.000Z",
-    "summary": "My Chemical Romance tease potential new album as they wrap 'Long Live The Black Parade' tour nme.com",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/lil-durk-acquitted-in-murder-for-hire-plot/",
     "source": "pitchfork",
     "title": "Lil Durk Acquitted in Murder-for-Hire Trial",
     "url": "https://pitchfork.com/story/lil-durk-acquitted-in-murder-for-hire-plot/",
     "publishedAt": "2026-09-12T00:19:04.000Z",
     "summary": "Prosecutors had argued Durk orchestrated a hit on the rapper Quando Rondo as revenge for King Von’s murder",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/bon-iver-made-a-jingle-for-a-local-bars-meatloaf-dippers/",
-    "source": "pitchfork",
-    "title": "Bon Iver Made a Jingle for a Local Bar’s Meatloaf Dippers",
-    "url": "https://pitchfork.com/story/bon-iver-made-a-jingle-for-a-local-bars-meatloaf-dippers/",
-    "publishedAt": "2026-09-11T20:12:10.000Z",
-    "summary": "Justin Vernon celebrates the breaded treats of Minnesota’s Howard’s Bar in a terrifically, terrifyingly jaunty tune",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/mastodon-statement-brent-hinds-estate-lawsuit/",
-    "source": "loudwire",
-    "title": "Mastodon's Statement Responding to Brent Hinds' Estate Lawsuit",
-    "url": "https://loudwire.com/mastodon-statement-brent-hinds-estate-lawsuit/",
-    "publishedAt": "2026-09-11T19:52:17.000Z",
-    "summary": "Mastodon's members have denied allegations of ill intent against them and plan to 'vigorously defend' themselves in the matter. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/rick-springfield-killed-man-vietnam-war/",
-    "source": "loudwire",
-    "title": "Rick Springfield Says He Killed a Man During Vietnam War",
-    "url": "https://loudwire.com/rick-springfield-killed-man-vietnam-war/",
-    "publishedAt": "2026-09-11T19:10:38.000Z",
-    "summary": "He was there to entertain the troops, when things took a scary turn. Continue reading…",
     "image": null
   },
   {
@@ -699,24 +717,6 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRkR6WWVTMU9TWHduN0tuMWJPT2MyVW5zeFBjek45U0ttbTl4d2RQWnZaRXA1bUFfSW81YmZ3Nm9jcjBQb0I2dXNzU0IwX2dBYVNjVkZJZ196bGpYNWpkekFwZkl4UFY1SWc4V3h1MWN6bWhPYmlBT3J2cXNGZEdnRDd4WC1tMk9LWEtjQ2hib3lOQy1DRVluQnhxVlNHcXI3NVI5MGo3X1lfTDJxNmY3QUJR?oc=5",
     "publishedAt": "2026-09-09T14:50:00.000Z",
     "summary": "Against The Current: “This didn’t just feel like starting again, it felt like dying and then being reborn” Kerrang!",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTEt0eFFoN2xDd0FwWEJXT01GbzE1emNua0ZWRWpfR3NoN1d6LWZJVmEwamcxVlN0cHI0Z1cwUTZpRnc0cTNMWVpPb292TXBrUWkyQm9nV3liRWZnd3JCTEo2S3pCNm5RT0FzbVQ4QUJldkhJZnVCTlpHZmRMM0F4MFpidGxVRWt1ODFqS1hHV3FDekVsblZqRW1tck1DSjRaMDZhUE5RcWlMRTBielBwc1UxOGl4RlRnaHl3RzhUUHNJSFNJOUtJdXlRUWpiXy1CWFE?oc=5",
-    "source": "kerrang",
-    "title": "“A part of me misses the boy who wrote these songs”: Nightwish reflect on three decades of music and wonder - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTEt0eFFoN2xDd0FwWEJXT01GbzE1emNua0ZWRWpfR3NoN1d6LWZJVmEwamcxVlN0cHI0Z1cwUTZpRnc0cTNMWVpPb292TXBrUWkyQm9nV3liRWZnd3JCTEo2S3pCNm5RT0FzbVQ4QUJldkhJZnVCTlpHZmRMM0F4MFpidGxVRWt1ODFqS1hHV3FDekVsblZqRW1tck1DSjRaMDZhUE5RcWlMRTBielBwc1UxOGl4RlRnaHl3RzhUUHNJSFNJOUtJdXlRUWpiXy1CWFE?oc=5",
-    "publishedAt": "2026-09-09T13:30:00.000Z",
-    "summary": "“A part of me misses the boy who wrote these songs”: Nightwish reflect on three decades of music and wonder Kerrang!",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTDNVcjZQTGRjeF9qT1N2WURlQUNnWXhydVlraGtDZjJaVnNLcFBlTkdHanZFelhZMGQ4X2c3UDZQYWd5RDVEUFlDOHBQTzdzb2hPcUZYcXRfaldBNUxXaHo2OGVQbkRUQlJmUjNqSzBybmpXUVhXanhHTlpHZGxaWllyZFljNkd5TjhWZWpMWC1aTXVFT0N1ZFNMaTJYV0JRajgySnVncU9waTZXZUtlam9RTEZHenpUTlF3RlF0ZFpGd203amlNaQ?oc=5",
-    "source": "kerrang",
-    "title": "“100 per cent pure rock’n’roll joyride”: HOKKA bring Samy Elbanna and Jussi 69 on board for new single, Vampire - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTDNVcjZQTGRjeF9qT1N2WURlQUNnWXhydVlraGtDZjJaVnNLcFBlTkdHanZFelhZMGQ4X2c3UDZQYWd5RDVEUFlDOHBQTzdzb2hPcUZYcXRfaldBNUxXaHo2OGVQbkRUQlJmUjNqSzBybmpXUVhXanhHTlpHZGxaWllyZFljNkd5TjhWZWpMWC1aTXVFT0N1ZFNMaTJYV0JRajgySnVncU9waTZXZUtlam9RTEZHenpUTlF3RlF0ZFpGd203amlNaQ?oc=5",
-    "publishedAt": "2026-09-09T09:30:00.000Z",
-    "summary": "“100 per cent pure rock’n’roll joyride”: HOKKA bring Samy Elbanna and Jussi 69 on board for new single, Vampire Kerrang!",
     "image": null
   }
 ]
