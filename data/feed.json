@@ -1,20 +1,299 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/lists/mariachi-music-best-songs-all-time/",
+    "source": "billboard",
+    "title": "The 50 Best Mariachi Songs of All Time, Ranked: Staff Picks",
+    "url": "https://www.billboard.com/lists/mariachi-music-best-songs-all-time/",
+    "publishedAt": "2026-09-15T16:00:00.000Z",
+    "summary": "From “Mujeres Divinas” to “Guadalajara” and “La Bikina,” these anthems of love, heartbreak and celebration keep Mexico’s Jalisco-rooted tradition alive.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/tahoe-live-electronic-music-festival-lineup-griz-knock2-1236338260/",
+    "source": "billboard",
+    "title": "Tahoe Live Returns to the Slopes This December With GRiZ, Knock2, Chris Lake & More",
+    "url": "https://www.billboard.com/music/music-news/tahoe-live-electronic-music-festival-lineup-griz-knock2-1236338260/",
+    "publishedAt": "2026-09-15T16:00:00.000Z",
+    "summary": "The three-day fest happens at 6,200 feet in NorCal this Dec. 11-13.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/features/rhea-raj-republic-hybe-5junction-album-deals-1236340443/",
+    "source": "billboard",
+    "title": "Rhea Raj Wants to Achieve Global Superstardom — And Some of the Industry’s Most Powerful Execs Believe She Can",
+    "url": "https://www.billboard.com/music/features/rhea-raj-republic-hybe-5junction-album-deals-1236340443/",
+    "publishedAt": "2026-09-15T16:00:00.000Z",
+    "summary": "Newly backed by REPUBLIC, HYBE America and 5 Junction Management, the pop artist wants a new generation \"to feel empowered and be bold,\" as a beacon for South Asian artists.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/new-order-keyboardist-gillian-morris-cancer-1235626935/",
+    "source": "rolling-stone",
+    "title": "New Order Keyboardist Gillian Morris Is ‘Living With Cancer’",
+    "url": "https://www.rollingstone.com/music/music-news/new-order-keyboardist-gillian-morris-cancer-1235626935/",
+    "publishedAt": "2026-09-15T15:59:47.000Z",
+    "summary": "\"We are enormously grateful for everyone's kindness and support and would appreciate some privacy as I continue with my treatment,\" the musician wrote in a statement to New Order fans",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/stella-lefty-song-stealing-nashville-responds-1235625583/",
+    "source": "rolling-stone",
+    "title": "The Internet Is Tearing Stella Lefty Apart. Nashville Sees Her Success Differently",
+    "url": "https://www.rollingstone.com/music/music-features/stella-lefty-song-stealing-nashville-responds-1235625583/",
+    "publishedAt": "2026-09-15T15:55:44.000Z",
+    "summary": "As allegations of song-poaching surround the \"Boston\" singer, some insiders say the blowback is out of proportion: \"How many sounds has Nashville begun mass producing once the original becomes popular?\"",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/olivia-rodrigo-tribute-sheryl-crow-bmi-troubadour-strong-enough-1236340359/",
+    "source": "billboard",
+    "title": "Olivia Rodrigo Pays Tribute to Sheryl Crow at BMI Troubadour Ceremony: ‘What Inspires Me Most About Her Is Her Heart, Her Kindness’",
+    "url": "https://www.billboard.com/music/pop/olivia-rodrigo-tribute-sheryl-crow-bmi-troubadour-strong-enough-1236340359/",
+    "publishedAt": "2026-09-15T15:55:42.000Z",
+    "summary": "Rodrigo also played a cover of Crow's \"Strong Enough\" on a night that also featured performances from Chris Stapleton, Eric Church, Jason Isbell and others.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/jojo-the-high-road-tour-dates-album-20th-anniversary-1236340156/",
+    "source": "billboard",
+    "title": "JoJo Is Taking ‘The High Road’ for 20th Anniversary Tour: ‘These Songs Have Grown With Me’",
+    "url": "https://www.billboard.com/music/music-news/jojo-the-high-road-tour-dates-album-20th-anniversary-1236340156/",
+    "publishedAt": "2026-09-15T15:37:26.000Z",
+    "summary": "The seven-date run celebrates her sophomore album and first Hot 100 top five with \"Too Little Too Late.\"",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/fatima-al-qadiri-readies-new-ep-3twi/",
+    "source": "pitchfork",
+    "title": "Fatima Al Qadiri Readies New EP 3TWI (عتوي)",
+    "url": "https://pitchfork.com/story/fatima-al-qadiri-readies-new-ep-3twi/",
+    "publishedAt": "2026-09-15T15:32:17.000Z",
+    "summary": "Named after the Kuwaiti Arabic femme slang for “dirty old man,” the EP launches with “7ilween” (“pretty young things”)",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/rihanna-twins-daughter-rocki-1st-birthday-1236340430/",
+    "source": "billboard",
+    "title": "Rihanna & Baby Rocki Adorably Rock the Same Pink Dress as Star’s Daughter Turns 1: ‘Twinning’",
+    "url": "https://www.billboard.com/music/music-news/rihanna-twins-daughter-rocki-1st-birthday-1236340430/",
+    "publishedAt": "2026-09-15T15:28:32.000Z",
+    "summary": "The mogul's friend shared a photo of the mother-daughter fashion statement.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/awards/taylor-swift-nashville-songwriters-hall-of-fame-class-of-2026-1236313763/",
+    "source": "billboard",
+    "title": "Taylor Swift to Be Inducted Into Nashville Songwriters Hall of Fame: ‘I Wanted to Learn With & From the Best’",
+    "url": "https://www.billboard.com/music/awards/taylor-swift-nashville-songwriters-hall-of-fame-class-of-2026-1236313763/",
+    "publishedAt": "2026-09-15T15:19:43.000Z",
+    "summary": "The pop superstar is the youngest ever to receive the honor, and after just her first year of eligibility.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/caroline-rose-new-songs-hello-again-jim-calm-1235626907/",
+    "source": "rolling-stone",
+    "title": "Caroline Rose Doesn’t Care About Your Viper Room Glory Days on New Song ‘Hello Again, Jim’",
+    "url": "https://www.rollingstone.com/music/music-news/caroline-rose-new-songs-hello-again-jim-calm-1235626907/",
+    "publishedAt": "2026-09-15T15:18:47.000Z",
+    "summary": "The hooky invective against toxic music industry dudes arrives with a music video featuring actor Jimmi Simpson",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/bob-dylan-box-set-1976-rolling-thunder-revue-1235626854/",
+    "source": "rolling-stone",
+    "title": "Bob Dylan Announces Massive 39-Disc Box Set Chronicling 1976 Rolling Thunder Revue",
+    "url": "https://www.rollingstone.com/music/music-news/bob-dylan-box-set-1976-rolling-thunder-revue-1235626854/",
+    "publishedAt": "2026-09-15T15:11:35.000Z",
+    "summary": "Check out a preview of the Planet Waves deep cut “Going, Going, Gone,” which is one of 371 tracks that have never been officially released prior to this new collection",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/tv-film/andrea-bocelli-jennifer-hudson-diane-warren-maserati-song-1236339249/",
+    "source": "billboard",
+    "title": "Andrea Bocelli & Jennifer Hudson Team to Perform Diane Warren Song on ‘Maserati: The Brothers’ Soundtrack",
+    "url": "https://www.billboard.com/culture/tv-film/andrea-bocelli-jennifer-hudson-diane-warren-maserati-song-1236339249/",
+    "publishedAt": "2026-09-15T15:00:00.000Z",
+    "summary": "“One Right Here” marks Warren’s fifth collaboration with Hudson; her first with Bocelli.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/angine-de-poitrine-new-song-fallon/",
+    "source": "pitchfork",
+    "title": "Watch Angine de Poitrine Shred Through a New Song on Fallon",
+    "url": "https://pitchfork.com/story/angine-de-poitrine-new-song-fallon/",
+    "publishedAt": "2026-09-15T14:58:20.000Z",
+    "summary": "The Canadian duo debuted “Zugzek” during their first U.S. TV appearance",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/guns-n-roses-music-video-book-excerpt-1235616883/",
+    "source": "rolling-stone",
+    "title": "Carjacked Trailers and Missing Drummers: How Guns N’ Roses Became Music Video Superstars",
+    "url": "https://www.rollingstone.com/music/music-news/guns-n-roses-music-video-book-excerpt-1235616883/",
+    "publishedAt": "2026-09-15T14:51:49.000Z",
+    "summary": "Director Nigel Dick shares the stories behind the visuals for \"Welcome to the Jungle,\" \"Paradise City,\" and \"Sweet Child o' Mine\" in excerpt from new memoir",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/kenny-chesney-eric-church-2027-stadium-tour-dates-1235626828/",
+    "source": "rolling-stone",
+    "title": "Kenny Chesney to Bring Eric Church, Sheryl Crow on 2027 Stadium Tour",
+    "url": "https://www.rollingstone.com/music/music-country/kenny-chesney-eric-church-2027-stadium-tour-dates-1235626828/",
+    "publishedAt": "2026-09-15T14:43:05.000Z",
+    "summary": "The Original Vibe Room Tour kicks off April 24 in Tampa and runs through late August",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/kelly-osbourne-sober/",
+    "source": "loudwire",
+    "title": "Kelly Osbourne Opens Up on Being 8 Months Sober",
+    "url": "https://loudwire.com/kelly-osbourne-sober/",
+    "publishedAt": "2026-09-15T14:24:10.000Z",
+    "summary": "Kelly Osbourne details her struggles with mental health, grief and sobriety in the aftermath of Ozzy Osbourne's death. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/wednesday-announce-bleeds-deluxe-featuring-dj-sabrina-the-teenage-dj-avey-tare/",
+    "source": "pitchfork",
+    "title": "Wednesday Announce Bleeds Deluxe Featuring DJ Sabrina the Teenage DJ, Avey Tare",
+    "url": "https://pitchfork.com/story/wednesday-announce-bleeds-deluxe-featuring-dj-sabrina-the-teenage-dj-avey-tare/",
+    "publishedAt": "2026-09-15T14:21:05.000Z",
+    "summary": "The expanded edition drops this Friday",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/oasis-2027-tour-liam-gallagher-interview-new-music-1235626821/",
+    "source": "rolling-stone",
+    "title": "Noel Gallagher Says Oasis Knew They’d Tour Again — But Don’t Expect New Music",
+    "url": "https://www.rollingstone.com/music/music-news/oasis-2027-tour-liam-gallagher-interview-new-music-1235626821/",
+    "publishedAt": "2026-09-15T14:19:30.000Z",
+    "summary": "The singer-songwriter called into his favorite U.K. sports-radio program to briefly discuss the band's 2027 trek and what’s next before a long conversation about soccer",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/ozzy-osbourne-father-message-kelly-before-death/",
+    "source": "loudwire",
+    "title": "Ozzy Osbourne's Fatherly Message to Kelly 3 Days Before He Died",
+    "url": "https://loudwire.com/ozzy-osbourne-father-message-kelly-before-death/",
+    "publishedAt": "2026-09-15T14:11:23.000Z",
+    "summary": "Kelly Osbourne revealed the fatherly message that Ozzy shared with her prior to his death in July of 2026 during a new podcast appearance. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/bob-dylan-somehow-finds-371-unreleased-songs-for-another-rolling-thunder-box-set/",
+    "source": "pitchfork",
+    "title": "Bob Dylan Somehow Finds 371 Unreleased Songs for Another Rolling Thunder Box Set",
+    "url": "https://pitchfork.com/story/bob-dylan-somehow-finds-371-unreleased-songs-for-another-rolling-thunder-box-set/",
+    "publishedAt": "2026-09-15T14:09:08.000Z",
+    "summary": "The 39-disc Rolling Thunder Revue: The 1976 Live Recordings documents the fabled tour’s second leg",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/nipsey-hussle-la-theme-song-snowfall-saga-soundtrack-1236336228/",
+    "source": "billboard",
+    "title": "Nipsey Hussle’s Unreleased ‘LA Theme Song’ to Appear on ‘The Drop: A Snowfall Saga’ Soundtrack",
+    "url": "https://www.billboard.com/music/rb-hip-hop/nipsey-hussle-la-theme-song-snowfall-saga-soundtrack-1236336228/",
+    "publishedAt": "2026-09-15T14:02:25.000Z",
+    "summary": "The West Coast anthem hits streaming services at 3 p.m. ET on Tuesday (Sept. 15).",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/lambrini-girls-announce-album-no-refunds-bang-bang-bang-1235626194/",
+    "source": "rolling-stone",
+    "title": "Lambrini Girls Will Offer ‘No Refunds’ on New Album, Share Explosive Single",
+    "url": "https://www.rollingstone.com/music/music-news/lambrini-girls-announce-album-no-refunds-bang-bang-bang-1235626194/",
+    "publishedAt": "2026-09-15T14:00:10.000Z",
+    "summary": "\"Bang Bang Bang\" is the latest taste of the Brighton punk band's fiery album No Refunds, which arrives in January",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/baz-luhrmann-romeo-juliet-live-screenings-us-uk-europe-dates-1236340093/",
+    "source": "billboard",
+    "title": "Baz Luhrmann’s ‘Romeo + Juliet’ Live Orchestra Screenings Are Going Global: Dates Added in U.S., U.K. & Europe",
+    "url": "https://www.billboard.com/music/music-news/baz-luhrmann-romeo-juliet-live-screenings-us-uk-europe-dates-1236340093/",
+    "publishedAt": "2026-09-15T14:00:00.000Z",
+    "summary": "\"One of the greatest surprises over the past three decades has been watching Romeo + Juliet find new audiences again and again,\" Baz Luhrmann says.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/roll-out-2027-tour-dates-and-new-song/",
+    "source": "pitchfork",
+    "title": "@ Roll Out 2027 Tour Dates and New Song",
+    "url": "https://pitchfork.com/story/roll-out-2027-tour-dates-and-new-song/",
+    "publishedAt": "2026-09-15T13:02:24.000Z",
+    "summary": "The Philadelphia psych-folk band previews Autosmile with “Bird”",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMirwFBVV95cUxOajVMZFI4dDhVVTYwbm05S0hLak9GeU5JbjZubXJiU2NoOUE2UXByc0hWcWlFUmR5Zmo5a054RXptWFR2VllXUVdPNGhrb1pNVkZuN1FremJzV0tHcDFQR3NBYk9mc3dkMkUtREJWSGZfRG5kbTJod0Y2SGdBTTdfTGxVZzJuNHdmbGZQNXJWdEVrb2paR2tZYWVKQW4tWFNsLU5NNHFtY3lGeFFHMUtv?oc=5",
+    "source": "nme",
+    "title": "Bob Dylan to release ‘The Rolling Thunder Revue: The 1976 Live Recordings’ - NME",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOajVMZFI4dDhVVTYwbm05S0hLak9GeU5JbjZubXJiU2NoOUE2UXByc0hWcWlFUmR5Zmo5a054RXptWFR2VllXUVdPNGhrb1pNVkZuN1FremJzV0tHcDFQR3NBYk9mc3dkMkUtREJWSGZfRG5kbTJod0Y2SGdBTTdfTGxVZzJuNHdmbGZQNXJWdEVrb2paR2tZYWVKQW4tWFNsLU5NNHFtY3lGeFFHMUtv?oc=5",
+    "publishedAt": "2026-09-15T13:00:45.000Z",
+    "summary": "Bob Dylan to release ‘The Rolling Thunder Revue: The 1976 Live Recordings’ NME",
+    "image": null
+  },
+  {
+    "id": "uncut-https://www.uncut.co.uk/news/listen-to-a-preview-of-bob-dylans-the-rolling-thunder-revue-the-1976-live-recordings-156367/",
+    "source": "uncut",
+    "title": "Listen to a preview from Bob Dylan’s The Rolling Thunder Revue: The 1976 Live Recordings",
+    "url": "https://www.uncut.co.uk/news/listen-to-a-preview-of-bob-dylans-the-rolling-thunder-revue-the-1976-live-recordings-156367/",
+    "publishedAt": "2026-09-15T12:59:03.000Z",
+    "summary": "A 39 CD set, comprising 381 tracks, is coming in November...",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/best-rock-song-each-year-2010s/",
+    "source": "loudwire",
+    "title": "The Best Rock Song of Each Year of the 2010s",
+    "url": "https://loudwire.com/best-rock-song-each-year-2010s/",
+    "publishedAt": "2026-09-15T11:34:06.000Z",
+    "summary": "Take a closer look at the best of what each year in rock songs had to offer during the 2010s. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/lambrini-girls-promise-no-refunds-on-new-album-and-song/",
+    "source": "pitchfork",
+    "title": "Lambrini Girls Promise No Refunds on New Album and Song",
+    "url": "https://pitchfork.com/story/lambrini-girls-promise-no-refunds-on-new-album-and-song/",
+    "publishedAt": "2026-09-15T11:25:02.000Z",
+    "summary": "The British punks will release their new album next year",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMirAFBVV95cUxNT29kVkFyWUlTYjEzdkNxRW5fQlo2Y0RQR09SZjB3Ulg3OThLeWpVaTZUdG5Gb2k0TXRpOGNSUUcwbDJ3T1FlNlJTaTFMb1pkUU9Tc1pkSTQ5ZnY0YjRGTUppM2YzZDlzVUVxdms1S3lBbnlLSVNaV1N2ajB4dUhwejhKa0ZfbERVNXpIV1c0dnJVYThlWHJYQUE3MjZucVRiYkVjRzdKWmYxeGZl?oc=5",
+    "source": "nme",
+    "title": "Manchester music classic ’24 Hour Party People’ set to return to cinemas - NME",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT29kVkFyWUlTYjEzdkNxRW5fQlo2Y0RQR09SZjB3Ulg3OThLeWpVaTZUdG5Gb2k0TXRpOGNSUUcwbDJ3T1FlNlJTaTFMb1pkUU9Tc1pkSTQ5ZnY0YjRGTUppM2YzZDlzVUVxdms1S3lBbnlLSVNaV1N2ajB4dUhwejhKa0ZfbERVNXpIV1c0dnJVYThlWHJYQUE3MjZucVRiYkVjRzdKWmYxeGZl?oc=5",
+    "publishedAt": "2026-09-15T10:27:39.000Z",
+    "summary": "Manchester music classic ’24 Hour Party People’ set to return to cinemas NME",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMirAFBVV95cUxQUndUcXpmMGVnZXBPd1hfclhiNHN5RzVSQ2tQTl9oQkdkUFRmZzEyWkt3T1BTU0REYWM2amZrMGZVdlpwb0twdTBVRzUzb0hJY3l1TnFMOTV6WnFoQ3N4Q0RFMzQ4cmx0TFNDRFhNX0U3UFJRTVFKMlh6YjNzUEYxSkYtb2NiSjZhNmlIRnJic20tQWhlOGtJMTZPZXpIYUdLOFVYc3ZEdlgtaDBQ?oc=5",
+    "source": "nme",
+    "title": "Macaulay Culkin and ‘Schitt’s Creek’ stars honour Catherine O'Hara at Emmys 2026: \"she may have forgotten me, twice, but we will always remember her.” - NME",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUndUcXpmMGVnZXBPd1hfclhiNHN5RzVSQ2tQTl9oQkdkUFRmZzEyWkt3T1BTU0REYWM2amZrMGZVdlpwb0twdTBVRzUzb0hJY3l1TnFMOTV6WnFoQ3N4Q0RFMzQ4cmx0TFNDRFhNX0U3UFJRTVFKMlh6YjNzUEYxSkYtb2NiSjZhNmlIRnJic20tQWhlOGtJMTZPZXpIYUdLOFVYc3ZEdlgtaDBQ?oc=5",
+    "publishedAt": "2026-09-15T09:14:45.000Z",
+    "summary": "Macaulay Culkin and ‘Schitt’s Creek’ stars honour Catherine O'Hara at Emmys 2026: \"she may have forgotten me, twice, but we will always remember her.” NME",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMihgFBVV95cUxOVUtqX2VPZGxSYk8yRWppT2NBTEc2cUlNOVhURC1BcnEtWE41NmtvWEt0V28ybzRoeDczYWxMS1M2cnMwbWdpVmVzMldpTzhtZlRfMXMzd3ZXT3AtVWV3M2VuaE9TTFg0NXU1UXRGWjhwaFh2TlJKa28ySXVMUWYwLU5SQUctZw?oc=5",
+    "source": "nme",
+    "title": "Carly Rae Jepsen – 'Day And Night' review: a blissful album of two halves from the queen of nuanced pop - NME",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVUtqX2VPZGxSYk8yRWppT2NBTEc2cUlNOVhURC1BcnEtWE41NmtvWEt0V28ybzRoeDczYWxMS1M2cnMwbWdpVmVzMldpTzhtZlRfMXMzd3ZXT3AtVWV3M2VuaE9TTFg0NXU1UXRGWjhwaFh2TlJKa28ySXVMUWYwLU5SQUctZw?oc=5",
+    "publishedAt": "2026-09-15T08:33:57.000Z",
+    "summary": "Carly Rae Jepsen – 'Day And Night' review: a blissful album of two halves from the queen of nuanced pop NME",
+    "image": null
+  },
+  {
     "id": "uncut-https://www.uncut.co.uk/features/the-surprising-truth-about-jimi-hendrix-away-from-the-stage-155893/",
     "source": "uncut",
     "title": "The surprising truth about Jimi Hendrix away from the stage",
     "url": "https://www.uncut.co.uk/features/the-surprising-truth-about-jimi-hendrix-away-from-the-stage-155893/",
     "publishedAt": "2026-09-15T08:06:20.000Z",
     "summary": "To audiences, Hendrix was a flamboyant guitar revolutionary. To those who worked closest to him, he was a shy, thoughtful and unexpectedly gentle presence who preferred to let his guitar do the talking",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/charli-xcx-music-fashion-film-tour-brooklyn-best-moments/",
-    "source": "billboard",
-    "title": "Charli xcx’s Music, Fashion, Film Tour in New York: 5 Best Moments",
-    "url": "https://www.billboard.com/lists/charli-xcx-music-fashion-film-tour-brooklyn-best-moments/",
-    "publishedAt": "2026-09-15T04:39:50.000Z",
-    "summary": "The much-anticipated new trek stopped for its first of two nights at Brooklyn's Barclays Center on Monday (Sept. 14)",
     "image": null
   },
   {
@@ -27,57 +306,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/awards/2026-primetime-emmys-winners-stephen-colbert-widows-bay-1236340018/",
-    "source": "billboard",
-    "title": "‘The Late Show With Stephen Colbert’ Wins at 2026 Primetime Emmys: ‘Widow’s Bay,’ Bad Bunny’s Super Bowl Halftime & More Big Winners",
-    "url": "https://www.billboard.com/music/awards/2026-primetime-emmys-winners-stephen-colbert-widows-bay-1236340018/",
-    "publishedAt": "2026-09-15T03:39:56.000Z",
-    "summary": "Widow's Bay broke records in comedy. Reba McEntire and Noah Kahan performed.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/video/2026-emmys-which-concerts-their-characters-would-attend/",
-    "source": "billboard",
-    "title": "Quinta Brunson, Shabana Azeez Say Which Concerts Their Characters Would Go To At Emmys Red Carpet | Emmys Red Carpet 2026",
-    "url": "https://www.billboard.com/video/2026-emmys-which-concerts-their-characters-would-attend/",
-    "publishedAt": "2026-09-15T02:54:55.000Z",
-    "summary": "‘Abbott Elementary’ star Quinta Brunson, ‘The Pitt’ Shabana Azeez and more share which concerts their characters would attend if they could on the 2026 Emmys red carpet.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/awards/noah-kahan-emmys-in-memoriam-bridge-over-troubled-water-1236340183/",
-    "source": "billboard",
-    "title": "Noah Kahan Offers a ‘Bridge Over Troubled Water’ for Tearful ‘In Memoriam’ Segment at 2026 Emmys",
-    "url": "https://www.billboard.com/music/awards/noah-kahan-emmys-in-memoriam-bridge-over-troubled-water-1236340183/",
-    "publishedAt": "2026-09-15T02:49:21.000Z",
-    "summary": "Kahan's performance was introduced by the movie & TV children of the late Catherine O'Hara.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/awards/dolly-parton-emmys-tribute-reba-mcentire-sally-field-2026-1236339980/",
-    "source": "billboard",
-    "title": "Dolly Parton Remembered by Reba McEntire & Sally Field on 2026 Emmys: ‘I Never Stopped Loving Her’",
-    "url": "https://www.billboard.com/music/awards/dolly-parton-emmys-tribute-reba-mcentire-sally-field-2026-1236339980/",
-    "publishedAt": "2026-09-15T02:39:52.000Z",
-    "summary": "Parton received her first Primetime Emmy nod 48 years ago as a guest on a Cher special.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/pop/taylor-swift-tom-cruise-chiefs-broncos-game-travis-kelce-1236340177/",
-    "source": "billboard",
-    "title": "Taylor Swift Cheers On Husband Travis Kelce at Chiefs’ Home Opener Against Broncos, With Tom Cruise by Her Side",
-    "url": "https://www.billboard.com/music/pop/taylor-swift-tom-cruise-chiefs-broncos-game-travis-kelce-1236340177/",
-    "publishedAt": "2026-09-15T02:16:42.000Z",
-    "summary": "Swift & Cruise even shared a hug when the Chiefs scored a touchdown to take the lead.",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMiygFBVV95cUxNXzIwajFZVVNaNGVqTEtpcDRaVEVrNmxIVUtFQk1MTU8xcWhXRVNOVFlHZDFFN1AxVDJXa1dnNnRNUVFNb19XZWMtMmZhWDVKSTFFaTlYQUgzMFhTNllZeFJ4c2l5STFOdlJobHQtX013YlZFZHcwUjFRcDd5TEpBTGJ1YjVOZnNad254ZFdZeFJ0dTB5VXhhbUV6MUtNaC1VTV9tRThPZTlleGxrVEs4NFR1VmIzQmZ5WS13MXRwWDBJWkhZcTZNRERB?oc=5",
     "source": "nme",
-    "title": "Macklemore speaks out after being dropped from Ed Sheeran tour over 'Free Palestine' comments, Robert Kraft responds - nme.com",
+    "title": "Macklemore speaks out after being dropped from Ed Sheeran tour over 'Free Palestine' comments, Robert Kraft responds - NME",
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNXzIwajFZVVNaNGVqTEtpcDRaVEVrNmxIVUtFQk1MTU8xcWhXRVNOVFlHZDFFN1AxVDJXa1dnNnRNUVFNb19XZWMtMmZhWDVKSTFFaTlYQUgzMFhTNllZeFJ4c2l5STFOdlJobHQtX013YlZFZHcwUjFRcDd5TEpBTGJ1YjVOZnNad254ZFdZeFJ0dTB5VXhhbUV6MUtNaC1VTV9tRThPZTlleGxrVEs4NFR1VmIzQmZ5WS13MXRwWDBJWkhZcTZNRERB?oc=5",
     "publishedAt": "2026-09-15T02:11:33.000Z",
-    "summary": "Macklemore speaks out after being dropped from Ed Sheeran tour over 'Free Palestine' comments, Robert Kraft responds nme.com",
+    "summary": "Macklemore speaks out after being dropped from Ed Sheeran tour over 'Free Palestine' comments, Robert Kraft responds NME",
     "image": null
   },
   {
@@ -87,42 +321,6 @@
     "url": "https://www.rollingstone.com/music/music-news/taylor-swift-first-chiefs-game-travis-kelce-wedding-1235626496/",
     "publishedAt": "2026-09-15T01:50:17.000Z",
     "summary": "The superstar skipped the Emmys to support Kelce during the season-opening game in Kansas City",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/awards/taylor-swift-emmys-cameo-law-order-svu-easter-eggs-1236340149/",
-    "source": "billboard",
-    "title": "Taylor Swift Makes Surprise Emmys Cameo to Unpack Swiftie-Coded Easter Eggs With Detective Olivia Benson",
-    "url": "https://www.billboard.com/music/awards/taylor-swift-emmys-cameo-law-order-svu-easter-eggs-1236340149/",
-    "publishedAt": "2026-09-15T01:32:37.000Z",
-    "summary": "Emmys host Mariska Hargitay also co-starred with her feline namesake, Swift's cat Olivia Benson, in the Law & Order: SVU spoof.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/ifpi-initiative-fight-streaming-fraud/",
-    "source": "billboard",
-    "title": "IFPI Launches Initiative to Combat Streaming Fraud",
-    "url": "https://www.billboard.com/pro/ifpi-initiative-fight-streaming-fraud/",
-    "publishedAt": "2026-09-15T00:22:06.000Z",
-    "summary": "Supported by AWAL, CD Baby, ADA, Symphonic and more, the \"Streaming Integrity Initiative\" sets new standards for streaming fraud prevention.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/lil-wayne-nfl-referees-green-bay-packers-loss-1236339834/",
-    "source": "billboard",
-    "title": "Lil Wayne Calls Out Refs After Green Bay Packers Loss: ‘I’m Out on the NFL This Year’",
-    "url": "https://www.billboard.com/music/rb-hip-hop/lil-wayne-nfl-referees-green-bay-packers-loss-1236339834/",
-    "publishedAt": "2026-09-15T00:08:23.000Z",
-    "summary": "\"Fake af I can’t respect the game when the refs can’t ref the game,\" Weezy wrote on X.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/macklemore-ed-sheeran-tour-reaction-garbage-ms-rachel-muna-1236340044/",
-    "source": "billboard",
-    "title": "Ms. Rachel, Kehlani, MUNA & More Push Back After Macklemore’s Removal From Ed Sheeran Tour: ‘We All Need to Speak On It’",
-    "url": "https://www.billboard.com/music/music-news/macklemore-ed-sheeran-tour-reaction-garbage-ms-rachel-muna-1236340044/",
-    "publishedAt": "2026-09-15T00:00:38.000Z",
-    "summary": "Artists & public figures are speaking out after Macklemore was removed from Sheeran's Loop Tour following his onstage call to \"Free Palestine.\"",
     "image": null
   },
   {
@@ -141,24 +339,6 @@
     "url": "https://loudwire.com/better-1991-album-guns-n-roses-use-your-illusion-i-ii-vs-ozzy-osbournes-no-more-tears/",
     "publishedAt": "2026-09-14T20:32:23.000Z",
     "summary": "Just like on Sept. 17, 1991 when both albums were released, we're asking you to choose. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/macklemore-dropped-ed-sheeran-tour-robert-kraft-statement-1235626352/",
-    "source": "rolling-stone",
-    "title": "Robert Kraft Confirms He Barred Macklemore From Ed Sheeran Boston Shows",
-    "url": "https://www.rollingstone.com/music/music-news/macklemore-dropped-ed-sheeran-tour-robert-kraft-statement-1235626352/",
-    "publishedAt": "2026-09-14T20:21:57.000Z",
-    "summary": "Billionaire Patriots owner said he is committed to “ensuring that all events held at our venue do not provide a platform for hate speech.”",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/tiktok-gabbie-gonzalez-arraigned-why-dont-we-jack-avery-1235626190/",
-    "source": "rolling-stone",
-    "title": "TikTok Influencer Pleads Not Guilty to Dark-Web Hit Plot Against Singer Jack Avery",
-    "url": "https://www.rollingstone.com/music/music-news/tiktok-gabbie-gonzalez-arraigned-why-dont-we-jack-avery-1235626190/",
-    "publishedAt": "2026-09-14T19:40:43.000Z",
-    "summary": "Gabbie Gonzalez entered her plea alongside her father and ex-boyfriend after prosecutors accused the trio of conspiring to kill the Why Don’t We singer amid a child-custody dispute",
     "image": null
   },
   {
@@ -207,24 +387,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/ella-langley-choosin-texas-ties-mariah-carey-christmas-1235624515/",
-    "source": "rolling-stone",
-    "title": "Ella Langley Is Coming for Christmas: ‘Choosin’ Texas’ Ties Mariah Carey",
-    "url": "https://www.rollingstone.com/music/music-country/ella-langley-choosin-texas-ties-mariah-carey-christmas-1235624515/",
-    "publishedAt": "2026-09-14T17:07:10.000Z",
-    "summary": "With 22 weeks atop the Billboard Hot 100, Langley’s country song is poised to beat Carey’s “All I Want for Christmas Is You” next week",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/macklemore-statement-dropped-ed-sheeran-tour-1235626135/",
-    "source": "rolling-stone",
-    "title": "Macklemore Says He Was Dropped From Ed Sheeran Tour After Robert Kraft Pressure Campaign",
-    "url": "https://www.rollingstone.com/music/music-news/macklemore-statement-dropped-ed-sheeran-tour-1235626135/",
-    "publishedAt": "2026-09-14T17:05:15.000Z",
-    "summary": "The Seattle rapper claimed the billionaire New England Patriots owner told Sheeran that Macklemore would not be allowed to perform at Gillette Stadium and “rallied” other stadium owners",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/35-years-of-saint-etienne-appreciation-reminiscence-and-fond-farewell-part-three/",
     "source": "louder-than-war",
     "title": "35 Years Of Saint Etienne: Appreciation, Reminiscence and Fond Farewell (Part Three)",
@@ -236,10 +398,10 @@
   {
     "id": "nme-https://news.google.com/rss/articles/CBMimAFBVV95cUxPYVQyc1RWRDNfVUd6U2l2emkwZkY1Wk9VblZDb285MFBfUU1wTE9DUF9mN3BMV0doeTk3V1dzQlpfTGFiUWVnR0ViWGt4YVlnVnNkRFU3bnJya3RHcUdta3B2eWltNUNGQ2ZvOXkteUk5Tms0UWNEMVU5OVh4dzlBa2VVMl9rWXJmdnh5T0RDaDVnWGtjR0NPaA?oc=5",
     "source": "nme",
-    "title": "Oasis announce Live ’27 world tour: “Come witness the fitness. It shall be a sight to behold” - nme.com",
+    "title": "Oasis announce Live ’27 world tour: “Come witness the fitness. It shall be a sight to behold” - NME",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYVQyc1RWRDNfVUd6U2l2emkwZkY1Wk9VblZDb285MFBfUU1wTE9DUF9mN3BMV0doeTk3V1dzQlpfTGFiUWVnR0ViWGt4YVlnVnNkRFU3bnJya3RHcUdta3B2eWltNUNGQ2ZvOXkteUk5Tms0UWNEMVU5OVh4dzlBa2VVMl9rWXJmdnh5T0RDaDVnWGtjR0NPaA?oc=5",
     "publishedAt": "2026-09-14T16:57:09.000Z",
-    "summary": "Oasis announce Live ’27 world tour: “Come witness the fitness. It shall be a sight to behold” nme.com",
+    "summary": "Oasis announce Live ’27 world tour: “Come witness the fitness. It shall be a sight to behold” NME",
     "image": null
   },
   {
@@ -270,48 +432,12 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/drake-comeback-shifting-public-opinion-1235625478/",
-    "source": "rolling-stone",
-    "title": "Everybody Likes Drake Again. That Means We’re Healing",
-    "url": "https://www.rollingstone.com/music/music-features/drake-comeback-shifting-public-opinion-1235625478/",
-    "publishedAt": "2026-09-14T15:23:38.000Z",
-    "summary": "For a while, playing Drake’s music felt like taking a moral position. Now, with his chart comeback and Fear of Missing Out on the way, it’s time to rethink his downfall",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/oasis-2027-tour-dates/",
     "source": "loudwire",
     "title": "Oasis Announce 2027 World Tour Dates",
     "url": "https://loudwire.com/oasis-2027-tour-dates/",
     "publishedAt": "2026-09-14T15:20:37.000Z",
     "summary": "Here's all the places the Gallagher brothers will play next year, including a Manchester residency and an appearance at Knebworth. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/stagecoach-2027-lineup-garth-brooks-1235625849/",
-    "source": "rolling-stone",
-    "title": "Garth Brooks, Kelly Clarkson, Willie Nelson Set for Stagecoach 2027",
-    "url": "https://www.rollingstone.com/music/music-country/stagecoach-2027-lineup-garth-brooks-1235625849/",
-    "publishedAt": "2026-09-14T15:08:02.000Z",
-    "summary": "Brooks, Riley Green, and Zach Top will headline the California country festival, which also features Stella Lefty, Stephen Wilson Jr., and a Florida Georgia Line reunion",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/oasis-2027-tour-dates-liam-noel-gallagher-1235625948/",
-    "source": "rolling-stone",
-    "title": "Oasis Announce 2027 Global Tour Dates",
-    "url": "https://www.rollingstone.com/music/music-news/oasis-2027-tour-dates-liam-noel-gallagher-1235625948/",
-    "publishedAt": "2026-09-14T15:02:22.000Z",
-    "summary": "The North American leg will bring the Manchester band to Boston and Las Vegas",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-album-reviews/carly-rae-jepsen-day-and-night-album-review-1235622766/",
-    "source": "rolling-stone",
-    "title": "Carly Rae Jepsen’s ‘Day and Night’ Is a Double-Album Dissertation on Love",
-    "url": "https://www.rollingstone.com/music/music-album-reviews/carly-rae-jepsen-day-and-night-album-review-1235622766/",
-    "publishedAt": "2026-09-14T14:46:32.000Z",
-    "summary": "Across 24 tracks, the prolific pop star traverses styles and continents while tracing the dazzling highs and devastating lows romance can bring",
     "image": null
   },
   {
@@ -330,15 +456,6 @@
     "url": "https://loudwire.com/megadeth-dave-mustaine-new-big-4/",
     "publishedAt": "2026-09-14T14:24:40.000Z",
     "summary": "Megadeth leader Dave Mustaine offers suggestions on who he might add to thrash metal's 'Big 4.' Continue reading…",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/jeff-tweedy-robert-glasper-weyes-blood-to-play-big-ears-2027/",
-    "source": "pitchfork",
-    "title": "Jeff Tweedy, Robert Glasper, Weyes Blood to Play Big Ears 2027",
-    "url": "https://pitchfork.com/story/jeff-tweedy-robert-glasper-weyes-blood-to-play-big-ears-2027/",
-    "publishedAt": "2026-09-14T14:05:59.000Z",
-    "summary": "Oneohtrix Point Never, Thundercat, Wednesday, Courtney Barnett, SML, Dinner Party, Sylvan Esso, and more will also perform at the Knoxville festival",
     "image": null
   },
   {
@@ -362,19 +479,10 @@
   {
     "id": "nme-https://news.google.com/rss/articles/CBMisAFBVV95cUxOcGZxMTd0MVZkc2Q4TzlUMkczTS1rZE45cEFPRnFyZ2JhdGF0ajlWenE5RmsxXzBPM21oYkNWQ1B3VEdFMFFzRGhJbzdPOVdvLWVuamFaV28tREdEbUVyNlpYeHRtSmxfRGxRWENWMll6ZFRLT0hkalI2UC1wbmxaNTlmdmdCX0FSMXVJZGVBZUJPQTJvTFVJcmNWTjhlem1IRkRaZXZPYTQ3R3dmaktRNQ?oc=5",
     "source": "nme",
-    "title": "GWAR confirm first video game collaboration in more than 30 years - nme.com",
+    "title": "GWAR confirm first video game collaboration in more than 30 years - NME",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcGZxMTd0MVZkc2Q4TzlUMkczTS1rZE45cEFPRnFyZ2JhdGF0ajlWenE5RmsxXzBPM21oYkNWQ1B3VEdFMFFzRGhJbzdPOVdvLWVuamFaV28tREdEbUVyNlpYeHRtSmxfRGxRWENWMll6ZFRLT0hkalI2UC1wbmxaNTlmdmdCX0FSMXVJZGVBZUJPQTJvTFVJcmNWTjhlem1IRkRaZXZPYTQ3R3dmaktRNQ?oc=5",
     "publishedAt": "2026-09-14T13:55:31.000Z",
-    "summary": "GWAR confirm first video game collaboration in more than 30 years nme.com",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/coachella-organizers-ocean-way-festival-canceled-due-to-hurricane-marie/",
-    "source": "pitchfork",
-    "title": "Coachella Organizers’ Ocean Way Festival Canceled Due to Hurricane Marie",
-    "url": "https://pitchfork.com/story/coachella-organizers-ocean-way-festival-canceled-due-to-hurricane-marie/",
-    "publishedAt": "2026-09-14T13:45:42.000Z",
-    "summary": "The Killers and Olivia Dean had been slated to headline the Santa Monica fest’s inaugural edition",
+    "summary": "GWAR confirm first video game collaboration in more than 30 years NME",
     "image": null
   },
   {
@@ -402,60 +510,6 @@
     "url": "https://louderthanwar.com/end-of-the-road-2026-festival-review/",
     "publishedAt": "2026-09-14T12:43:25.000Z",
     "summary": "End of the Road Festival Lamar Tree Gardens, Dorset 3rd-6th August 2026 End Of The Road returns to Lamar Tree Gardens for another incredible outing. Elliott Simpson reviews. Is there a better way to celebrate your twentieth than with a happy birthday singalong led by Jarvis Cocker? No, probably not. It’s a symbol of how […] The post End Of The Road 2026 – Festival Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/accept-wolf-hoffman-favorite-riff-teuronic-titans-interview/",
-    "source": "loudwire",
-    "title": "Accept's Wolf Hoffman Names His Favorite Riff From His Career",
-    "url": "https://loudwire.com/accept-wolf-hoffman-favorite-riff-teuronic-titans-interview/",
-    "publishedAt": "2026-09-14T12:39:54.000Z",
-    "summary": "Accept guitarist Wolf Hoffman speaks with Full Metal Jackie about 50 years with the band and how they're celebrating on the 'Teutonic Titans' album. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMitwFBVV95cUxOUDNIaDdFWmtWTnMxSjJFSjg4VVozTzh1LWhvdkVGbHBqNERjZVNUSndEclMxY0RZVklsVzN6YkFBUjAzZVdxUHpwejJIZmlaSVl5QVhRWGdwR1lBYW00bjItWTJsZU9Qc2luczlNSXNSN2QzajdDQ3RCSGRZY1hQWEhmVjFLZl9ZTzJHa0dDMFRVT0tlbnpBbU5VaUpNT08tblFJTTFVbllSdE9GVWYtTTVybW9nWDQ?oc=5",
-    "source": "nme",
-    "title": "Late jazz icon’s estate distance themselves from new film ‘Everybody Digs Bill Evans’ - nme.com",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUDNIaDdFWmtWTnMxSjJFSjg4VVozTzh1LWhvdkVGbHBqNERjZVNUSndEclMxY0RZVklsVzN6YkFBUjAzZVdxUHpwejJIZmlaSVl5QVhRWGdwR1lBYW00bjItWTJsZU9Qc2luczlNSXNSN2QzajdDQ3RCSGRZY1hQWEhmVjFLZl9ZTzJHa0dDMFRVT0tlbnpBbU5VaUpNT08tblFJTTFVbllSdE9GVWYtTTVybW9nWDQ?oc=5",
-    "publishedAt": "2026-09-14T12:36:20.000Z",
-    "summary": "Late jazz icon’s estate distance themselves from new film ‘Everybody Digs Bill Evans’ nme.com",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/best-progressive-power-metal-albums-ranked/",
-    "source": "loudwire",
-    "title": "11 Best Progressive Power Metal Albums of All Time (Ranked)",
-    "url": "https://loudwire.com/best-progressive-power-metal-albums-ranked/",
-    "publishedAt": "2026-09-14T12:14:38.000Z",
-    "summary": "Taking a look at the best LP from Kamelot, Blind Guardian, Symphony X and other progressive power metal mainstays! Continue reading…",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMinAFBVV95cUxOeW14S0dEYzZOeHZaTHZKSndiejhTNFZ3WGpHeTZZc3p5UWxZLW5EUV9xd3lXVEpWZGhQSnl2T2oycDRUYU93dVFON0xVSDd3TUxLakVNeGtKclFMRUl3SnNzb2lnWHczVlhxRm1QZVhkVWZJek9zejFZcFV0X05zWXpLY3dYS2RKX1RZN18zQ0FNNi0wSjJLdFNPaDY?oc=5",
-    "source": "nme",
-    "title": "Samsung asks judge to dismiss Dua Lipa’s $15million lawsuit - NME",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeW14S0dEYzZOeHZaTHZKSndiejhTNFZ3WGpHeTZZc3p5UWxZLW5EUV9xd3lXVEpWZGhQSnl2T2oycDRUYU93dVFON0xVSDd3TUxLakVNeGtKclFMRUl3SnNzb2lnWHczVlhxRm1QZVhkVWZJek9zejFZcFV0X05zWXpLY3dYS2RKX1RZN18zQ0FNNi0wSjJLdFNPaDY?oc=5",
-    "publishedAt": "2026-09-14T10:53:36.000Z",
-    "summary": "Samsung asks judge to dismiss Dua Lipa’s $15million lawsuit NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMijwFBVV95cUxNYXVqdG9UcExHcldrcUlPenB4TnlRNUVkZkktek1tR25nNHczX21TNHgwRHFHYmVsdVVULWNIMlJQanhNbFVFZGw5QjdDY2tVTGdJMWR4X3lENDIySXo0aTFFWjFYNHZjZmt6bXNrNXpTM1NKdFJQRm1yNHE3ZkZPc2xWc2NNdUYtU0N0WVNCcw?oc=5",
-    "source": "nme",
-    "title": "Bruce Springsteen has two new albums on the way - nme.com",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYXVqdG9UcExHcldrcUlPenB4TnlRNUVkZkktek1tR25nNHczX21TNHgwRHFHYmVsdVVULWNIMlJQanhNbFVFZGw5QjdDY2tVTGdJMWR4X3lENDIySXo0aTFFWjFYNHZjZmt6bXNrNXpTM1NKdFJQRm1yNHE3ZkZPc2xWc2NNdUYtU0N0WVNCcw?oc=5",
-    "publishedAt": "2026-09-14T10:38:36.000Z",
-    "summary": "Bruce Springsteen has two new albums on the way nme.com",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMUNXNzB0NWdEXzR3NTA3YkpsQThnQjNIRC1tajAxQmhxbURQc0JFWDNxclJkRTRWa25meXAwU3VaV2x2SUpwMm9BZW5hRXlVUUFvcTNtald5UWdZTXpyM0ktYkYzaEg5NE9DbWt5bnBmeno5eDdQby15SUpNUXExd0s0UnBkSVV4Sk9DeUwtM0NiN2ozT0RtZzc0NUhDUmNvbFVyWktLczREUQ?oc=5",
-    "source": "nme",
-    "title": "The Beatles share early version of 'Norwegian Wood (This Bird Has Flown)' featuring George Harrison sitar mastery - nme.com",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMUNXNzB0NWdEXzR3NTA3YkpsQThnQjNIRC1tajAxQmhxbURQc0JFWDNxclJkRTRWa25meXAwU3VaV2x2SUpwMm9BZW5hRXlVUUFvcTNtald5UWdZTXpyM0ktYkYzaEg5NE9DbWt5bnBmeno5eDdQby15SUpNUXExd0s0UnBkSVV4Sk9DeUwtM0NiN2ozT0RtZzc0NUhDUmNvbFVyWktLczREUQ?oc=5",
-    "publishedAt": "2026-09-14T10:13:36.000Z",
-    "summary": "The Beatles share early version of 'Norwegian Wood (This Bird Has Flown)' featuring George Harrison sitar mastery nme.com",
     "image": null
   },
   {
@@ -558,33 +612,6 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/story/chief-keef-postpones-first-chicago-show-in-over-a-decade/",
-    "source": "pitchfork",
-    "title": "Chief Keef Postpones First Chicago Show in Over a Decade",
-    "url": "https://pitchfork.com/story/chief-keef-postpones-first-chicago-show-in-over-a-decade/",
-    "publishedAt": "2026-09-13T22:20:29.000Z",
-    "summary": "Keef credited his travel woes to a “pilot who got very racist”",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/my-chemical-romance-mcr-5-north-american-tour-finale/",
-    "source": "loudwire",
-    "title": "My Chemical Romance Allude to MCR5 at North American Tour Finale",
-    "url": "https://loudwire.com/my-chemical-romance-mcr-5-north-american-tour-finale/",
-    "publishedAt": "2026-09-13T18:51:58.000Z",
-    "summary": "They also welcomed metal royalty to the stage. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/the-raincoats-x-ray-spex-and-the-slits-members-form-supergroup/",
-    "source": "pitchfork",
-    "title": "The Raincoats, X-Ray Spex, and the Slits Members Form Supergroup",
-    "url": "https://pitchfork.com/story/the-raincoats-x-ray-spex-and-the-slits-members-form-supergroup/",
-    "publishedAt": "2026-09-13T17:07:29.000Z",
-    "summary": "Gina Birch, Hollie Cook, Lora Logic, and Paul Dean will perform together at a London punk festival next month",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/the-klittens-have-a-heart-album-review/",
     "source": "louder-than-war",
     "title": "The Klittens: Have A Heart – Album Review",
@@ -594,30 +621,12 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/story/jeff-tweedy-twisted-teens-cover/",
-    "source": "pitchfork",
-    "title": "Listen to Jeff Tweedy Cover Twisted Teens’ “Wild Connection”",
-    "url": "https://pitchfork.com/story/jeff-tweedy-twisted-teens-cover/",
-    "publishedAt": "2026-09-13T15:07:16.000Z",
-    "summary": "The Wilco frontman shared the cover of the Blame the Clown track to his Substack",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/the-fall-post-script-album-review/",
     "source": "louder-than-war",
     "title": "The Fall ‘Post Script’ – Album Review",
     "url": "https://louderthanwar.com/the-fall-post-script-album-review/",
     "publishedAt": "2026-09-13T13:31:53.000Z",
     "summary": "A strange, visceral and fitting final mutation from The Fall orbit, with lost Mark E Smith vocals reborn inside new industrial soundscapes. The post The Fall ‘Post Script’ – Album Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/lil-durk-acquitted-in-murder-for-hire-plot/",
-    "source": "pitchfork",
-    "title": "Lil Durk Acquitted in Murder-for-Hire Trial",
-    "url": "https://pitchfork.com/story/lil-durk-acquitted-in-murder-for-hire-plot/",
-    "publishedAt": "2026-09-12T00:19:04.000Z",
-    "summary": "Prosecutors had argued Durk orchestrated a hit on the rapper Quando Rondo as revenge for King Von’s murder",
     "image": null
   },
   {
@@ -708,15 +717,6 @@
     "url": "https://www.uncut.co.uk/news/listen-to-the-war-on-drugs-new-track-whos-that-156321/",
     "publishedAt": "2026-09-09T16:00:00.000Z",
     "summary": "“... written in 10 minutes somewhere between first coﬀee and school drop oﬀ.”",
-    "image": null
-  },
-  {
-    "id": "uncut-https://www.uncut.co.uk/publications/uncut-november-2026-156109/",
-    "source": "uncut",
-    "title": "Uncut November 2026",
-    "url": "https://www.uncut.co.uk/publications/uncut-november-2026-156109/",
-    "publishedAt": "2026-09-09T15:13:42.000Z",
-    "summary": "Siouxsie & The Banshees, Dolly Parton, Roxy Music, Pearl Jam, Stevie Wonder, Teenage Fanclub, a Richard Thompson CD and more!",
     "image": null
   }
 ]
