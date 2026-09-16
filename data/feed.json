@@ -1,83 +1,182 @@
 [
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/finneas-lukas-graham-leave-ed-sheeran-tour-macklemore-1235627181/",
+    "id": "billboard-https://www.billboard.com/music/chart-beat/aria-vega-chevere-first-billboard-number-1-ryan-castro-1236341241/",
+    "source": "billboard",
+    "title": "How ‘Chévere’: ARIA VEGA ‘Couldn’t Be Happier’ as She Earns First Billboard No. 1 With Ryan Castro Collab",
+    "url": "https://www.billboard.com/music/chart-beat/aria-vega-chevere-first-billboard-number-1-ryan-castro-1236341241/",
+    "publishedAt": "2026-09-16T02:11:34.000Z",
+    "summary": "The song leads Latin Airplay & Latin Rhythm Airplay charts.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/calvin-harris-first-ever-headline-tour-australia-2027-1236341247/",
+    "source": "billboard",
+    "title": "Calvin Harris Sets First-Ever Headline Tour of Australia",
+    "url": "https://www.billboard.com/music/music-news/calvin-harris-first-ever-headline-tour-australia-2027-1236341247/",
+    "publishedAt": "2026-09-16T02:01:18.000Z",
+    "summary": "The superstar Scottish DJ and producer will go coast-to-coast for a four-city trek in February 2027, his first in these parts as the main man.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/drake-premieres-short-film-fomo-fear-of-missing-out/",
+    "source": "pitchfork",
+    "title": "Drake Premieres His Not-So-Short Film FOMO",
+    "url": "https://pitchfork.com/story/drake-premieres-short-film-fomo-fear-of-missing-out/",
+    "publishedAt": "2026-09-16T01:58:02.000Z",
+    "summary": "What the rapper has described as “self funded surrealism” is about to stream live",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/photos/bob-mackie-fashions-musicians-cher-beyonce-photos-1236341036/",
+    "source": "billboard",
+    "title": "Iconic Bob Mackie Fashions Worn by Musicians, From Cher & Elton John to Beyoncé & Sabrina Carpenter: Photos",
+    "url": "https://www.billboard.com/photos/bob-mackie-fashions-musicians-cher-beyonce-photos-1236341036/",
+    "publishedAt": "2026-09-16T01:25:48.000Z",
+    "summary": "From red carpets to stages, many musicians have shined in the work of the late designer.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/aoc-robert-kraft-macklemore-free-palestine-speech-1235627408/",
     "source": "rolling-stone",
-    "title": "Finneas and Every Other Ed Sheeran Opener Have Abandoned His Tour in Support of Macklemore",
-    "url": "https://www.rollingstone.com/music/music-news/finneas-lukas-graham-leave-ed-sheeran-tour-macklemore-1235627181/",
-    "publishedAt": "2026-09-15T20:30:53.000Z",
-    "summary": "Lukas Graham and Aaron Rowe drop out after Macklemore was forced off the trek following a pressure campaign over his comments in support of Palestinians",
+    "title": "AOC Says Robert Kraft Lined Up Stadiums to Censor Macklemore’s ‘Free Palestine’ Comments",
+    "url": "https://www.rollingstone.com/music/music-news/aoc-robert-kraft-macklemore-free-palestine-speech-1235627408/",
+    "publishedAt": "2026-09-16T01:22:41.000Z",
+    "summary": "Macklemore was dropped from Ed Sheeran's tour following a pressure campaign over his speech in support of Palestinians",
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/finneas-lukas-graham-ed-sheeran-tour-1236340861/",
+    "id": "billboard-https://www.billboard.com/music/chart-beat/adela-prima-debuts-number-one-billboard-album-charts-1236341140/",
     "source": "billboard",
-    "title": "Ed Sheeran Has No Tour Openers Left After Finneas & Lukas Graham Drop Out Over Macklemore ‘Free Palestine’ Controversy",
-    "url": "https://www.billboard.com/music/music-news/finneas-lukas-graham-ed-sheeran-tour-1236340861/",
-    "publishedAt": "2026-09-15T20:27:34.000Z",
-    "summary": "Backing band Beoga, which plays a mini set with Sheeran on tour, has also pulled out.",
+    "title": "ADÉLA’s ‘PRIMA’ Debuts at No. 1 on 2 Billboard Album Charts",
+    "url": "https://www.billboard.com/music/chart-beat/adela-prima-debuts-number-one-billboard-album-charts-1236341140/",
+    "publishedAt": "2026-09-16T01:19:28.000Z",
+    "summary": "The set also marks the highest bow for a full-length studio debut on the Billboard 200 this year.",
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/pro/bruce-springsteen-wins-appeal-lawsuit-vintage-car-album-art/",
+    "id": "billboard-https://www.billboard.com/music/chart-beat/cody-johnson-hot-country-songs-top-10-take-me-back-1236341164/",
     "source": "billboard",
-    "title": "Bruce Springsteen Wins Appeal, Won’t Face Lawsuit Over Vintage Car on 2022 Album Cover  ",
-    "url": "https://www.billboard.com/pro/bruce-springsteen-wins-appeal-lawsuit-vintage-car-album-art/",
-    "publishedAt": "2026-09-15T20:22:41.000Z",
-    "summary": "An appellate court upheld the dismissal of litigation over the album artwork for Only The Strong Survive.",
+    "title": "Cody Johnson’s ‘Take Me Back’ Takes Him Back to Hot Country Songs Top 10",
+    "url": "https://www.billboard.com/music/chart-beat/cody-johnson-hot-country-songs-top-10-take-me-back-1236341164/",
+    "publishedAt": "2026-09-16T01:10:09.000Z",
+    "summary": "Plus, debuts for collabs by Kane Brown and Shania Twain and Mumford & Sons and Chris Stapleton.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/chris-brown-backlash-jasmine-crockett-honor-response-1236341107/",
+    "source": "billboard",
+    "title": "Chris Brown Thanks U.S. Rep. Jasmine Crockett for Congressional Honor & Aplogizes for ‘Any Backlash You Have to Deal With’",
+    "url": "https://www.billboard.com/music/rb-hip-hop/chris-brown-backlash-jasmine-crockett-honor-response-1236341107/",
+    "publishedAt": "2026-09-16T00:57:51.000Z",
+    "summary": "The Texas congresswoman's onstage honor sparked criticism online.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/american-idol-shakeup-moving-hollywood-to-georgia-1235627339/",
+    "source": "rolling-stone",
+    "title": "‘American Idol’ Shakeup Will See Show Move From Hollywood to Georgia",
+    "url": "https://www.rollingstone.com/music/music-news/american-idol-shakeup-moving-hollywood-to-georgia-1235627339/",
+    "publishedAt": "2026-09-16T00:09:10.000Z",
+    "summary": "After more than two decades, the long-running singing competition will produce its upcoming Season 25 in a new home",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/music-related-bills-congress-now-list-legislation/",
+    "source": "billboard",
+    "title": "Music-Related Legislation Before Congress Right Now: Full List of Bills (UPDATING)",
+    "url": "https://www.billboard.com/lists/music-related-bills-congress-now-list-legislation/",
+    "publishedAt": "2026-09-16T00:02:19.000Z",
+    "summary": "Billboard is keeping track of all the bills that could impact the music industry during the 119th Congress.",
     "image": null
   },
   {
     "id": "pitchfork-https://pitchfork.com/story/ed-sheeran-addresses-macklemores-removal-from-tour-in-new-statement/",
     "source": "pitchfork",
-    "title": "Ed Sheeran Addresses Macklemore’s Removal From Tour in New Statement",
+    "title": "Ed Sheeran’s Tour Openers, Backing Band Resign After Macklemore Removal",
     "url": "https://pitchfork.com/story/ed-sheeran-addresses-macklemores-removal-from-tour-in-new-statement/",
-    "publishedAt": "2026-09-15T20:20:05.000Z",
-    "summary": "“Macklemore coming off tour was the promoter’s decision, it was not mine. Macklemore’s contract for the tour was with the promoter, not me.”",
+    "publishedAt": "2026-09-15T23:40:48.000Z",
+    "summary": "The rapper was kicked off the tour following his call for a free Palestine",
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/pro/songwriter-supreme-court-let-copyright-ruling-stand/",
-    "source": "billboard",
-    "title": "‘Give Artists a Fairer Share’: Songwriter Urges SCOTUS to Let Landmark Copyright Ruling Stand",
-    "url": "https://www.billboard.com/pro/songwriter-supreme-court-let-copyright-ruling-stand/",
-    "publishedAt": "2026-09-15T20:15:22.000Z",
-    "summary": "The major labels say the Supreme Court must overturn a ruling that will spark \"chaos,\" but the guy who won it says such dire warnings are overblown.",
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/steven-tyler-sexual-assault-case-judge-recuses-before-trial-1235627301/",
+    "source": "rolling-stone",
+    "title": "Steven Tyler Sexual Assault Case Judge Mysteriously Recuses Herself Two Weeks Before Trial",
+    "url": "https://www.rollingstone.com/music/music-news/steven-tyler-sexual-assault-case-judge-recuses-before-trial-1235627301/",
+    "publishedAt": "2026-09-15T23:28:56.000Z",
+    "summary": "The Sept. 28 trial date was vacated Tuesday as the judge said she recently discovered the basis for her disqualification and couldn't take further action",
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/dancing-with-the-stars-season-35-2026-watch-live-online-free-1236340491/",
+    "id": "billboard-https://www.billboard.com/media/podcasts/oasis-2027-tour-dates-documentary-pop-shop-podcast-1236341062/",
     "source": "billboard",
-    "title": "‘Dancing with the Stars’: Here’s Where to Watch Season 35 Live Online for Free",
-    "url": "https://www.billboard.com/culture/product-recommendations/dancing-with-the-stars-season-35-2026-watch-live-online-free-1236340491/",
-    "publishedAt": "2026-09-15T19:58:48.000Z",
-    "summary": "New episodes of DWTS air live starting on Tuesday, Sept. 15 — contestants include Tatyana Ali, Giada De Laurentiis, Ciara Miller, Harry Shum Jr., Julia Stiles and others.",
+    "title": "After Oasis Documentary Revives ‘Live ’25’ Tour Madness, Gallagher Brothers Will Reunite All Over Again Next Year",
+    "url": "https://www.billboard.com/media/podcasts/oasis-2027-tour-dates-documentary-pop-shop-podcast-1236341062/",
+    "publishedAt": "2026-09-15T22:30:11.000Z",
+    "summary": "On the Pop Shop Podcast, Katie & Keith are talking about 2027 stadium dates & the IMAX film that captured the British rockers' original reunion.",
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/freddie-mercury-a-life-in-lyrics-book-pricing-shop-online-1236340626/",
+    "id": "billboard-https://www.billboard.com/music/chart-beat/beyonce-bday-number-1-rb-albums-chart-anniversary-deluxe-1236340981/",
     "source": "billboard",
-    "title": "New Freddie Mercury Book Features Singer’s Personal Notes & Alternative ‘Bohemian Rhapsody’ Lyrics",
-    "url": "https://www.billboard.com/culture/product-recommendations/freddie-mercury-a-life-in-lyrics-book-pricing-shop-online-1236340626/",
-    "publishedAt": "2026-09-15T19:51:27.000Z",
-    "summary": "The latest book about the Queen frontman was created by his longtime friend, Mary Austin, based on the personal artifacts the singer left to her.",
+    "title": "Beyoncé’s ‘B’Day’ Debuts at No. 1 on Top R&B Albums Chart",
+    "url": "https://www.billboard.com/music/chart-beat/beyonce-bday-number-1-rb-albums-chart-anniversary-deluxe-1236340981/",
+    "publishedAt": "2026-09-15T22:07:20.000Z",
+    "summary": "The set’s “Morning Dew” single becomes her 14th No. 1 on Mainstream R&B/Hip-Hop Airplay.",
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/bose-quietcomfort-headphones-gen-2-review-specs-buy-online-1236340599/",
+    "id": "billboard-https://www.billboard.com/lists/ed-sheeran-tour-drops-macklemore-timeline-controversy/",
     "source": "billboard",
-    "title": "These New Bose Over-the-Ear Headphones Are Made for Getting Lost in Music & Are Worth the Money",
-    "url": "https://www.billboard.com/culture/product-recommendations/bose-quietcomfort-headphones-gen-2-review-specs-buy-online-1236340599/",
-    "publishedAt": "2026-09-15T19:45:55.000Z",
-    "summary": "With TrueSpatial technology, Immersion and Cinema modes, plus improved noise cancellation, Bose’s latest QuietComfort headphones pack in more flagship features.",
+    "title": "A Timeline of the Ed Sheeran & Macklemore ‘Free Palestine’ Tour Controversy",
+    "url": "https://www.billboard.com/lists/ed-sheeran-tour-drops-macklemore-timeline-controversy/",
+    "publishedAt": "2026-09-15T22:04:03.000Z",
+    "summary": "The rapper was dropped from the trek after condemning the violence in Gaza onstage.",
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/ed-sheeran-tour-opener-aaron-rowe-1236340788/",
-    "source": "billboard",
-    "title": "Aaron Rowe Leaves Ed Sheeran Tour in Solidarity With Macklemore & Palestinians: ‘I Would Lose All Respect for Myself’",
-    "url": "https://www.billboard.com/music/music-news/ed-sheeran-tour-opener-aaron-rowe-1236340788/",
-    "publishedAt": "2026-09-15T19:40:29.000Z",
-    "summary": "\"I need to be true to myself and my ancestors,\" the Irish singer-songwriter wrote.",
+    "id": "nme-https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMHRJRXVMaG9YZkkyVXgxOVpBTEFWUE9KQVdvaWhwQlhmVlltYmVKV1hmOVk2TThaTW5DSTMwMGIxLU44YlZrakVUcXhhRzI2bmdhTHhyamd0YmpuMVBEb1Q3aGRlaW5BdDJaOWtwbzl1VHpxeUNKYkFTMlNLM3FSMmozVDY3WlNQcHBzdnY0QWJiVklYOExNcHlaQ1l0RVVRaXlRWlAyU2tjWmpsZzVSSTg2VnB6cm9CU2RtcVFaR0VsRlk?oc=5",
+    "source": "nme",
+    "title": "Support acts and backing band pull out of Ed Sheeran's tour over Macklemore Palestine controversy - NME",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMHRJRXVMaG9YZkkyVXgxOVpBTEFWUE9KQVdvaWhwQlhmVlltYmVKV1hmOVk2TThaTW5DSTMwMGIxLU44YlZrakVUcXhhRzI2bmdhTHhyamd0YmpuMVBEb1Q3aGRlaW5BdDJaOWtwbzl1VHpxeUNKYkFTMlNLM3FSMmozVDY3WlNQcHBzdnY0QWJiVklYOExNcHlaQ1l0RVVRaXlRWlAyU2tjWmpsZzVSSTg2VnB6cm9CU2RtcVFaR0VsRlk?oc=5",
+    "publishedAt": "2026-09-15T21:59:47.000Z",
+    "summary": "Support acts and backing band pull out of Ed Sheeran's tour over Macklemore Palestine controversy NME",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/new-orders-gillian-gilbert-reveals-cancer-diagnosis/",
+    "source": "pitchfork",
+    "title": "New Order’s Gillian Gilbert Reveals Cancer Diagnosis",
+    "url": "https://pitchfork.com/story/new-orders-gillian-gilbert-reveals-cancer-diagnosis/",
+    "publishedAt": "2026-09-15T21:07:45.000Z",
+    "summary": "The band’s longtime keyboarist put out a statement to “gently clarify a misunderstanding” around the health of her husband and bandmate, Stephen Morris",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/my-chemical-romance-tour-questions-2026/",
+    "source": "loudwire",
+    "title": "3 Questions My Chemical Romance Need to Answer After Their Tour",
+    "url": "https://loudwire.com/my-chemical-romance-tour-questions-2026/",
+    "publishedAt": "2026-09-15T21:07:44.000Z",
+    "summary": "Here's what we think will happen next and how confident we are about it ACTUALLY happening. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/every-artist-whos-teased-theyre-in-gta-vi/",
+    "source": "pitchfork",
+    "title": "Every Artist Who’s Teased They’re in GTA VI",
+    "url": "https://pitchfork.com/story/every-artist-whos-teased-theyre-in-gta-vi/",
+    "publishedAt": "2026-09-15T20:59:48.000Z",
+    "summary": "And so did Yung Lean and Metro Boomin",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/finneas-lukas-graham-leave-ed-sheeran-tour-macklemore-1235627181/",
+    "source": "rolling-stone",
+    "title": "All of Ed Sheeran’s Openers Abandon Tour After Macklemore Debacle",
+    "url": "https://www.rollingstone.com/music/music-news/finneas-lukas-graham-leave-ed-sheeran-tour-macklemore-1235627181/",
+    "publishedAt": "2026-09-15T20:30:53.000Z",
+    "summary": "Finneas, Lukas Graham, and Aaron Rowe withdrew after Macklemore was forced off the trek following a pressure campaign over his comments in support of Palestinians",
     "image": null
   },
   {
@@ -90,39 +189,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/latin/maluma-welcomes-baby-boy-orion-1236340803/",
-    "source": "billboard",
-    "title": "Maluma Announces the Arrival of His Second Child, Orión",
-    "url": "https://www.billboard.com/music/latin/maluma-welcomes-baby-boy-orion-1236340803/",
-    "publishedAt": "2026-09-15T19:32:33.000Z",
-    "summary": "The Colombian star shared a tender photo with his partner, Susana Gómez and the newborn.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/muna-naomi-mcpherson-tour-1235627134/",
     "source": "rolling-stone",
     "title": "Muna’s Naomi McPherson Will Miss Gigs to Care for Mother With Terminal Cancer",
     "url": "https://www.rollingstone.com/music/music-news/muna-naomi-mcpherson-tour-1235627134/",
     "publishedAt": "2026-09-15T19:15:40.000Z",
     "summary": "Musician Lou Roy will fill in for McPherson for at least the first five shows of Muna’s upcoming trek",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/tv-film/le-sserafim-made-my-night-tease-tour-jennifer-hudson-show-1236340776/",
-    "source": "billboard",
-    "title": "Watch LE SSERAFIM Bring ‘Made My Night’ to ‘The Jennifer Hudson Show’ & Tease Their U.S. Tour",
-    "url": "https://www.billboard.com/culture/tv-film/le-sserafim-made-my-night-tease-tour-jennifer-hudson-show-1236340776/",
-    "publishedAt": "2026-09-15T19:09:54.000Z",
-    "summary": "The K-pop stars opened up about their Overwatch collaboration, their upcoming tour and their favorite American snack.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/country/jelly-roll-give-up-music-if-god-tells-me-to-1236340680/",
-    "source": "billboard",
-    "title": "Jelly Roll Says He Would Give Up Music: ‘If God Tells Me to Go Work at a Homeless Shelter, I’m Outta Here’",
-    "url": "https://www.billboard.com/music/country/jelly-roll-give-up-music-if-god-tells-me-to-1236340680/",
-    "publishedAt": "2026-09-15T18:54:05.000Z",
-    "summary": "\"I'm fixing to take just some time off,\" the star also said about needing a break in a new interview.",
     "image": null
   },
   {
@@ -216,24 +288,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/new-order-keyboardist-gillian-morris-cancer-1235626935/",
-    "source": "rolling-stone",
-    "title": "New Order Keyboardist Gillian Gilbert Is ‘Living With Cancer’",
-    "url": "https://www.rollingstone.com/music/music-news/new-order-keyboardist-gillian-morris-cancer-1235626935/",
-    "publishedAt": "2026-09-15T15:59:47.000Z",
-    "summary": "“We are enormously grateful for everyone’s kindness and support and would appreciate some privacy as I continue with my treatment,” the musician wrote in a statement to New Order fans",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/stella-lefty-song-stealing-nashville-responds-1235625583/",
-    "source": "rolling-stone",
-    "title": "The Internet Is Tearing Stella Lefty Apart. Nashville Sees Her Success Differently",
-    "url": "https://www.rollingstone.com/music/music-features/stella-lefty-song-stealing-nashville-responds-1235625583/",
-    "publishedAt": "2026-09-15T15:55:44.000Z",
-    "summary": "As allegations of song poaching surround the “Boston” singer, some insiders say the blowback is out of proportion: “How many sounds has Nashville begun mass producing once the original becomes popular?”",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/fatima-al-qadiri-readies-new-ep-3twi/",
     "source": "pitchfork",
     "title": "Fatima Al Qadiri Readies New EP 3TWI (عتوي)",
@@ -243,21 +297,21 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/caroline-rose-new-songs-hello-again-jim-calm-1235626907/",
-    "source": "rolling-stone",
-    "title": "Caroline Rose Doesn’t Care About Your Viper Room Glory Days on New Song, ‘Hello Again, Jim’",
-    "url": "https://www.rollingstone.com/music/music-news/caroline-rose-new-songs-hello-again-jim-calm-1235626907/",
-    "publishedAt": "2026-09-15T15:18:47.000Z",
-    "summary": "The hooky invective against toxic music-industry dudes arrives with a music video featuring actor Jimmi Simpson",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/angine-de-poitrine-new-song-fallon/",
     "source": "pitchfork",
     "title": "Watch Angine de Poitrine Shred Through a New Song on Fallon",
     "url": "https://pitchfork.com/story/angine-de-poitrine-new-song-fallon/",
     "publishedAt": "2026-09-15T14:58:20.000Z",
     "summary": "The Canadian duo debuted “Zugzek” during their first U.S. TV appearance",
+    "image": null
+  },
+  {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMirgFBVV95cUxPbDdZNi10WEk5YTVqUGNyaVVJVUYtTHI2OFFERzlTY05WWXk0LTc4RG8zb1YxdGVpLU83ZWhNVC1JcHZMQ2taTFFncVdkd1NRejJHVEE1SjBaZlJCQXpXVDRHR1NVN3ZYTGNNdXN2VzNjNTBMR1BKTHIxYks0YzBkamEyT3ZvMno3aHpVWTFtMzVqRDZSbGNTZUQ2Zm5HbVV2bmdNQWdNaGd2cjA3NXc?oc=5",
+    "source": "kerrang",
+    "title": "Live review: Spiritbox, Nottingham Motorpoint Arena - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbDdZNi10WEk5YTVqUGNyaVVJVUYtTHI2OFFERzlTY05WWXk0LTc4RG8zb1YxdGVpLU83ZWhNVC1JcHZMQ2taTFFncVdkd1NRejJHVEE1SjBaZlJCQXpXVDRHR1NVN3ZYTGNNdXN2VzNjNTBMR1BKTHIxYks0YzBkamEyT3ZvMno3aHpVWTFtMzVqRDZSbGNTZUQ2Zm5HbVV2bmdNQWdNaGd2cjA3NXc?oc=5",
+    "publishedAt": "2026-09-15T14:30:00.000Z",
+    "summary": "Live review: Spiritbox, Nottingham Motorpoint Arena Kerrang!",
     "image": null
   },
   {
@@ -306,15 +360,6 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/story/roll-out-2027-tour-dates-and-new-song/",
-    "source": "pitchfork",
-    "title": "@ Roll Out 2027 Tour Dates and New Song",
-    "url": "https://pitchfork.com/story/roll-out-2027-tour-dates-and-new-song/",
-    "publishedAt": "2026-09-15T13:02:24.000Z",
-    "summary": "The Philadelphia psych-folk band previews Autosmile with “Bird”",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMijgFBVV95cUxPOGRReUN5RXQ4anMwN0lnUjRudDNkb1BfbnUwZ2NoelJ6WEcyYV9EeVRtUkdQUmFZYVpRREJxcEw4VmhFXzE4Qk5wdnVlVzJaQmdVZUpqQW1SR1VrbnNsSGZYLVY2Mk1qeW05RGgxSEhNdnJWdXJwdjBUdHlxQ0JkVnpIeXE5RFk5ZERJSkd3?oc=5",
     "source": "nme",
     "title": "Beck tells us about 'Ride Lonesome': \"It took a long time to get that kind of courage to be this direct and emotional\" - NME",
@@ -348,15 +393,6 @@
     "url": "https://loudwire.com/best-rock-song-each-year-2010s/",
     "publishedAt": "2026-09-15T11:34:06.000Z",
     "summary": "Take a closer look at the best of what each year in rock songs had to offer during the 2010s. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/lambrini-girls-promise-no-refunds-on-new-album-and-song/",
-    "source": "pitchfork",
-    "title": "Lambrini Girls Promise No Refunds on New Album and Song",
-    "url": "https://pitchfork.com/story/lambrini-girls-promise-no-refunds-on-new-album-and-song/",
-    "publishedAt": "2026-09-15T11:25:02.000Z",
-    "summary": "The British punks will release their new album next year",
     "image": null
   },
   {
@@ -450,15 +486,6 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/story/wavves-to-rerecord-say-anything-collab-album-cherry-soda-max-bemis-allegations/",
-    "source": "pitchfork",
-    "title": "Wavves’ Nathan Williams Details Rerecorded Cherry Soda Album",
-    "url": "https://pitchfork.com/story/wavves-to-rerecord-say-anything-collab-album-cherry-soda-max-bemis-allegations/",
-    "publishedAt": "2026-09-14T17:34:41.000Z",
-    "summary": "Say Anything’s Max Bemis was booted from the project following accusations of inappropriate conduct with underage fans",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMWtXTm92c1ZnRnFXV05jNWd0SGJtNGE4am9Pd2V4Um4wMXJEUTAta2stOGVmRm5kU0xNOFhsWi1ZclNVSE4yUWF0UDNEaXZSV1RMVnFkOGRGREk4WGNnTlotMVJSanU1anljbGNvcHJRSHRackx3YXpqQXZzOFpCcDlLcGppYjZGTFZWUEI0a1ZYN3pJU181NWVQdWV1NHJKM2FLWXZ2MlpDU1BtU0cxZFpkeVNlcXRPQWp1N2pHNVRwVnBmWTFFUG50anhuSWwxTmc?oc=5",
     "source": "nme",
     "title": "Noel Gallagher reveals when Oasis decided on Live ‘27 tour, and opens up about chances of new music - nme.com",
@@ -474,15 +501,6 @@
     "url": "https://louderthanwar.com/35-years-of-saint-etienne-appreciation-reminiscence-and-fond-farewell-part-three/",
     "publishedAt": "2026-09-14T17:01:57.000Z",
     "summary": "In the third and final part of the Saint Etienne special extended feature, the band’s most recent releases are touched upon as well as some concluding thoughts and reflections on how much of a lasting impact their music has had on their legions of adoring fans over the past 35 years. When Saint Etienne […] The post 35 Years Of Saint Etienne: Appreciation, Reminiscence and Fond Farewell (Part Three) appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMimAFBVV95cUxPYVQyc1RWRDNfVUd6U2l2emkwZkY1Wk9VblZDb285MFBfUU1wTE9DUF9mN3BMV0doeTk3V1dzQlpfTGFiUWVnR0ViWGt4YVlnVnNkRFU3bnJya3RHcUdta3B2eWltNUNGQ2ZvOXkteUk5Tms0UWNEMVU5OVh4dzlBa2VVMl9rWXJmdnh5T0RDaDVnWGtjR0NPaA?oc=5",
-    "source": "nme",
-    "title": "Oasis announce Live ’27 world tour: “Come witness the fitness. It shall be a sight to behold” - NME",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYVQyc1RWRDNfVUd6U2l2emkwZkY1Wk9VblZDb285MFBfUU1wTE9DUF9mN3BMV0doeTk3V1dzQlpfTGFiUWVnR0ViWGt4YVlnVnNkRFU3bnJya3RHcUdta3B2eWltNUNGQ2ZvOXkteUk5Tms0UWNEMVU5OVh4dzlBa2VVMl9rWXJmdnh5T0RDaDVnWGtjR0NPaA?oc=5",
-    "publishedAt": "2026-09-14T16:57:09.000Z",
-    "summary": "Oasis announce Live ’27 world tour: “Come witness the fitness. It shall be a sight to behold” NME",
     "image": null
   },
   {
@@ -510,15 +528,6 @@
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYUVNckxOMWVoaGVpemdzLTdET1JWeTM3THhwTi11WkVzN3dOZ3AzTWZKdGpVcFBTd3kxeTFKU1M4R2txTEduZkUtZXE0V1JlTV8wT09SMF9xZWtpNG5zM3NvN0hPWmxVTnZpODBQUnQtbzFTVklqbE1UQnR5VzJ3aUtqSGNYclg0Q2c?oc=5",
     "publishedAt": "2026-09-14T14:30:00.000Z",
     "summary": "Live review: Evanescence, London The O2 Kerrang!",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/megadeth-dave-mustaine-new-big-4/",
-    "source": "loudwire",
-    "title": "Megadeth's Dave Mustaine Names a 'New' Alternative to 'Big 4'",
-    "url": "https://loudwire.com/megadeth-dave-mustaine-new-big-4/",
-    "publishedAt": "2026-09-14T14:24:40.000Z",
-    "summary": "Megadeth leader Dave Mustaine offers suggestions on who he might add to thrash metal's 'Big 4.' Continue reading…",
     "image": null
   },
   {
@@ -708,15 +717,6 @@
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JNzVhMjRoMm5vVWlsdUdDZUhjRDhlcGItdlVYdWJCNTQ1MjNGR0NXcE9mdmpDTGQ2ZmZlYkt1djkySG1JTDVraE41b3hSTkxDMTlEMkVGRGt6RGxic1dfUWRmSEZOalUzUFQ2SA?oc=5",
     "publishedAt": "2026-09-10T07:30:00.000Z",
     "summary": "Album review: Green Lung – Necropolitan Kerrang!",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZXl2bktHSXllMlhlT28tcXVhOURZTFNCT3ZxT3pWZm9DeEVQNEJMWE5oNHVEa0pIVGlUbjhabTV6QW9HajJrdENmWTU2c0pFT3VVeHNOUmZObHlwWGJnbGRYZGZwS3JyVTUxMU5LeUtiMkN3cEdrLXZMUnFCeXNIRWFTUl96aEctVGU2ZjdIQTNaWWJFa1pxekxRUFloZjFhU1NVOV9SN3VSQQ?oc=5",
-    "source": "kerrang",
-    "title": "Against The Current Exclusive Kerrang! Vinyl and Hand Signed Photo Print - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZXl2bktHSXllMlhlT28tcXVhOURZTFNCT3ZxT3pWZm9DeEVQNEJMWE5oNHVEa0pIVGlUbjhabTV6QW9HajJrdENmWTU2c0pFT3VVeHNOUmZObHlwWGJnbGRYZGZwS3JyVTUxMU5LeUtiMkN3cEdrLXZMUnFCeXNIRWFTUl96aEctVGU2ZjdIQTNaWWJFa1pxekxRUFloZjFhU1NVOV9SN3VSQQ?oc=5",
-    "publishedAt": "2026-09-09T18:56:25.000Z",
-    "summary": "Against The Current Exclusive Kerrang! Vinyl and Hand Signed Photo Print Kerrang!",
     "image": null
   }
 ]
