@@ -1,20 +1,263 @@
 [
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/yes-boone-progress-debut-album-warner-music-1236342380/",
+    "id": "billboard-https://www.billboard.com/music/pop/2016-mtv-video-music-awards-greatest-pop-stars-podcast-1236342452/",
     "source": "billboard",
-    "title": "After Signing With a Major Label, Yes Boone Is Making Progress on His Debut Album",
-    "url": "https://www.billboard.com/music/music-news/yes-boone-progress-debut-album-warner-music-1236342380/",
-    "publishedAt": "2026-09-17T09:06:00.000Z",
-    "summary": "Yes Boone's work-in-progress captures elements of French house, British post-punk energy and a “timeless sound.\"",
+    "title": "The 2016 MTV Video Music Awards Were Full of Iconic Artists, Videos & Moments — Has It Been Matched Since? Greatest Pop Stars Podcast",
+    "url": "https://www.billboard.com/music/pop/2016-mtv-video-music-awards-greatest-pop-stars-podcast-1236342452/",
+    "publishedAt": "2026-09-17T16:02:55.000Z",
+    "summary": "This Great Moments in Pop Star History episode of 'Greatest Pop Stars' looks at the VMAs of 10 years ago, when it felt like the center of the pop universe.",
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/noisia-reunite-after-seven-years-amsterdam-show-december-1236338938/",
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/lisa-shaboozey-gunna-mtv-video-music-awards-performers-1235628383/",
+    "source": "rolling-stone",
+    "title": "Lisa, Shaboozey, Gunna Join VMAs Performers Lineup",
+    "url": "https://www.rollingstone.com/music/music-news/lisa-shaboozey-gunna-mtv-video-music-awards-performers-1235628383/",
+    "publishedAt": "2026-09-17T16:02:52.000Z",
+    "summary": "Raye, Gener8tion, Yung Lean, and more join awards show lineup",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/unitedmasters-sasha-safavi-launches-law-firm-syndicate/",
     "source": "billboard",
-    "title": "Noisia Reunite After Seven-Year Hiatus",
-    "url": "https://www.billboard.com/music/music-news/noisia-reunite-after-seven-years-amsterdam-show-december-1236338938/",
-    "publishedAt": "2026-09-17T09:00:00.000Z",
-    "summary": "The Dutch trio will play their first show back together on Dec. 4 in Amsterdam.",
+    "title": "Former UnitedMasters Legal Chief Sasha Safavi Launches New Law Firm Called Syndicate",
+    "url": "https://www.billboard.com/pro/unitedmasters-sasha-safavi-launches-law-firm-syndicate/",
+    "publishedAt": "2026-09-17T16:01:29.000Z",
+    "summary": "The new company will provide legal services to creators, athletes and companies, and includes UnitedMasters and Audiomack among its first clients.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/awards/2026-vmas-additional-performers-announced-lisa-raye-1236342221/",
+    "source": "billboard",
+    "title": "LISA, RAYE, Sienna Spiro & More Added as Performers on 2026 MTV VMAs",
+    "url": "https://www.billboard.com/music/awards/2026-vmas-additional-performers-announced-lisa-raye-1236342221/",
+    "publishedAt": "2026-09-17T16:00:00.000Z",
+    "summary": "Shaboozey will make his VMAs performance debut with “Cowgirl,” which jumps to No. 42 on this week’s Hot 100.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/biohazard-evan-seinfeld-fitness-health-interview/",
+    "source": "loudwire",
+    "title": "Biohazard's Evan Seinfeld Discusses Fitness, Health + New Music",
+    "url": "https://loudwire.com/biohazard-evan-seinfeld-fitness-health-interview/",
+    "publishedAt": "2026-09-17T15:49:03.000Z",
+    "summary": "Biohazard's Evan Seinfeld reflects on his band's latest album and discusses his journey toward physical and mental wellness — and how that's inspired new music. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/colin-kaepernick-mom-date-taylor-swift-perfect-for-him-1236342474/",
+    "source": "billboard",
+    "title": "Colin Kaepernick Says His Mom Told Him to Date Taylor Swift, Thought They ‘Would Be Perfect Together’",
+    "url": "https://www.billboard.com/music/music-news/colin-kaepernick-mom-date-taylor-swift-perfect-for-him-1236342474/",
+    "publishedAt": "2026-09-17T15:37:07.000Z",
+    "summary": "\"No slight to Taylor, but she was not my type,\" the athlete-turned-activist wrote in his new memoir.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/2026-americana-honors-awards-winners-list-molly-tuttle-1235628341/",
+    "source": "rolling-stone",
+    "title": "Molly Tuttle, Brandi Carlile Are the Big Winners at 2026 Americana Honors & Awards",
+    "url": "https://www.rollingstone.com/music/music-country/2026-americana-honors-awards-winners-list-molly-tuttle-1235628341/",
+    "publishedAt": "2026-09-17T15:30:55.000Z",
+    "summary": "Dolly Parton was also honored with a Lifetime Achievement Award, which she accepted in a video recorded before her death",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/americana-honors-awards-winners-list-2026/",
+    "source": "billboard",
+    "title": "Molly Tuttle, Brandi Carlile, Tyler Childers Lead 25th Annual Americana Honors & Awards Winners",
+    "url": "https://www.billboard.com/lists/americana-honors-awards-winners-list-2026/",
+    "publishedAt": "2026-09-17T15:29:31.000Z",
+    "summary": "The ceremony, held at Nashville's Ryman Auditorium, also honored Dolly Parton, Raul Malo, Robert Plant and Tom Petty and the Heartbreakers.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/grammy-museum-to-expand-grammy-camp-to-fifth-city/",
+    "source": "billboard",
+    "title": "Grammy Museum to Expand Grammy Camp to 5th U.S. City",
+    "url": "https://www.billboard.com/pro/grammy-museum-to-expand-grammy-camp-to-fifth-city/",
+    "publishedAt": "2026-09-17T15:15:12.000Z",
+    "summary": "Also, Grammy Camp Los Angeles now offers college credit.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/rolling-stone-residency-live-1235558769/",
+    "source": "rolling-stone",
+    "title": "Rolling Stone Residency Continues With Vince Staples at New York’s Cherry Lane Theatre",
+    "url": "https://www.rollingstone.com/music/music-news/rolling-stone-residency-live-1235558769/",
+    "publishedAt": "2026-09-17T15:05:40.000Z",
+    "summary": "The historic West Village venue will host six exclusive interviews and intimate performances this year",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/the-voice-coaches-perform-the-weight-by-the-band-1235626805/",
+    "source": "rolling-stone",
+    "title": "Queen Latifah, Riley Green, Kelly Clarkson, Adam Levine Perform ‘The Weight’ on ‘The Voice’",
+    "url": "https://www.rollingstone.com/music/music-news/the-voice-coaches-perform-the-weight-by-the-band-1235626805/",
+    "publishedAt": "2026-09-17T15:05:00.000Z",
+    "summary": "Premiering Sept. 21, Season 30 marks Latifah and Green’s first time in the coaches’ chairs, while Levine and Clarkson are back for their 19th and 11th seasons",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/michelle-zauner-announces-new-memoir-thank-you-for-your-suffering/",
+    "source": "pitchfork",
+    "title": "Michelle Zauner Announces New Memoir Thank You for Your Suffering",
+    "url": "https://pitchfork.com/story/michelle-zauner-announces-new-memoir-thank-you-for-your-suffering/",
+    "publishedAt": "2026-09-17T14:58:07.000Z",
+    "summary": "The second book from the Japanese Breakfast auteur documents her year abroad in South Korea",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "source": "billboard",
+    "title": "Billboard’s Music Industry Events Calendar",
+    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "publishedAt": "2026-09-17T14:55:00.000Z",
+    "summary": "A complete rundown of the most important events across the music business.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/bts-trailer-tour-arirang-buenos-aires-sao-paulo-live-viewing-1236342475/",
+    "source": "billboard",
+    "title": "BTS Drops High-Energy Trailer For ‘BTS World Tour ‘ARIRANG’ in Buenos Aires and São Paulo: Live Viewing’: Watch",
+    "url": "https://www.billboard.com/music/pop/bts-trailer-tour-arirang-buenos-aires-sao-paulo-live-viewing-1236342475/",
+    "publishedAt": "2026-09-17T14:53:19.000Z",
+    "summary": "The first-ever BTS live viewing from South America will hit screens next month.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/anthrax-cursum-perficio-video-london-may-1235627267/",
+    "source": "rolling-stone",
+    "title": "Anthrax Put Former Samhain Member London May Through Hell in ‘Cursum Perficio’ Video",
+    "url": "https://www.rollingstone.com/music/music-news/anthrax-cursum-perficio-video-london-may-1235627267/",
+    "publishedAt": "2026-09-17T14:30:00.000Z",
+    "summary": "Rhythm section ace literally tries to break the chains that bind him in clip for title song on thrashers’ new album",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/notes-fm-raises-5-million-to-help-recover-lost-royalties/",
+    "source": "billboard",
+    "title": "Notes.fm, Backed by Zach Bryan, Benny Blanco, Raises $5 Million to Help Artists Recover Lost Royalties",
+    "url": "https://www.billboard.com/pro/notes-fm-raises-5-million-to-help-recover-lost-royalties/",
+    "publishedAt": "2026-09-17T14:28:31.000Z",
+    "summary": "Built by Stem co-founder Tim Luckow, Notes will go to marketing and international expansion.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/soccer-mommy-returns-with-new-song-rings-of-saturn/",
+    "source": "pitchfork",
+    "title": "Soccer Mommy Returns With New Song “Rings of Saturn”",
+    "url": "https://pitchfork.com/story/soccer-mommy-returns-with-new-song-rings-of-saturn/",
+    "publishedAt": "2026-09-17T14:04:32.000Z",
+    "summary": "Sophie Allison wrote her latest during “a difficult time when I would often take my telescope out into the yard to look at the moon or at planets”",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/latin/ruben-blades-icon-award-2026-billboard-latin-music-awards-1236342123/",
+    "source": "billboard",
+    "title": "Rubén Blades to Receive Icon Award at 2026 Billboard Latin Music Awards: ‘No One Succeeds Without Help’",
+    "url": "https://www.billboard.com/music/latin/ruben-blades-icon-award-2026-billboard-latin-music-awards-1236342123/",
+    "publishedAt": "2026-09-17T14:00:00.000Z",
+    "summary": "The legendary Panamanian will be honored at the Oct. 22 ceremony un Miami.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/lizzy-mcalpine-interview-rolling-stone-studio-1235624738/",
+    "source": "rolling-stone",
+    "title": "Lizzy McAlpine on New Album ‘Angel’ and Making Peace With Her Early TikTok Fame",
+    "url": "https://www.rollingstone.com/music/music-features/lizzy-mcalpine-interview-rolling-stone-studio-1235624738/",
+    "publishedAt": "2026-09-17T14:00:00.000Z",
+    "summary": "The singer-songwriter stopped by the Rolling Stone Studio to discuss her new record, the magic of Nick Drake, and meeting her hero Joni Mitchell",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/japanese-breakfast-michelle-zauner-new-book-1235627925/",
+    "source": "rolling-stone",
+    "title": "Japanese Breakfast’s Michelle Zauner Announces New Book, ‘Thank You for Your Suffering’",
+    "url": "https://www.rollingstone.com/music/music-news/japanese-breakfast-michelle-zauner-new-book-1235627925/",
+    "publishedAt": "2026-09-17T13:31:41.000Z",
+    "summary": "The follow-up to the bestselling Crying in H Mart arrives April 2027",
+    "image": null
+  },
+  {
+    "id": "louder-than-war-https://louderthanwar.com/colin-moulding-new-ep/",
+    "source": "louder-than-war",
+    "title": "Colin Moulding (former XTC) announces new EP",
+    "url": "https://louderthanwar.com/colin-moulding-new-ep/",
+    "publishedAt": "2026-09-17T13:23:46.000Z",
+    "summary": "Colin Moulding new EP - former XTC member with rare release The post Colin Moulding (former XTC) announces new EP appeared first on Louder Than War.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/gta-vi-debuts-six-new-songs-travis-scott-pinkpantheress-yung-lean-more/",
+    "source": "pitchfork",
+    "title": "GTA VI Debuts Six New Songs: Travis Scott, PinkPantheress, Yung Lean, More",
+    "url": "https://pitchfork.com/story/gta-vi-debuts-six-new-songs-travis-scott-pinkpantheress-yung-lean-more/",
+    "publishedAt": "2026-09-17T13:04:14.000Z",
+    "summary": "CA7RIEL & Paco Amoroso, Fred Again.., Rauw Alejandro, and Keith Richards also shared new music for the official soundtrack launch",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/chicago-taper-lounge-ax-archives-1235626070/",
+    "source": "rolling-stone",
+    "title": "Meet the Chicago Taper Who Documented Decades of Rock Shows",
+    "url": "https://www.rollingstone.com/music/music-features/chicago-taper-lounge-ax-archives-1235626070/",
+    "publishedAt": "2026-09-17T13:00:00.000Z",
+    "summary": "Aadam Jacobs recorded 10,000 sets by acts like Nirvana, Pixies, the Smiths, and Wilco at Lounge Ax and other Chicago venues. The Internet Archive is putting it all online",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-lists/reasons-to-love-rock-scenes-artists-trends-1235626112/",
+    "source": "rolling-stone",
+    "title": "Extra! Extra! Rock & Roll Is Here to Stay",
+    "url": "https://www.rollingstone.com/music/music-lists/reasons-to-love-rock-scenes-artists-trends-1235626112/",
+    "publishedAt": "2026-09-17T13:00:00.000Z",
+    "summary": "New scenes, rising bands, and live surprises: Here are the reasons we’re excited about rock music in 2026 and beyond",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/80-is-the-new-60-bob-dylan-neil-young-paul-simon-1235620907/",
+    "source": "rolling-stone",
+    "title": "It’s Official: 80 Is the New 60 on the Road",
+    "url": "https://www.rollingstone.com/music/music-features/80-is-the-new-60-bob-dylan-neil-young-paul-simon-1235620907/",
+    "publishedAt": "2026-09-17T13:00:00.000Z",
+    "summary": "Bob Dylan, Neil Young, George Clinton, Paul Simon, Van Morrison, and more just can’t quit playing amazing rock shows",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/angus-young-signs-baby-toronto/",
+    "source": "loudwire",
+    "title": "Watch AC/DC's Angus Young Sign a Fan's Baby in Toronto",
+    "url": "https://loudwire.com/angus-young-signs-baby-toronto/",
+    "publishedAt": "2026-09-17T12:43:43.000Z",
+    "summary": "Though AC/DC wasn't able to perform as planned, they still took the time to hang out with fans. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/most-least-played-song-live-every-metallica-album/",
+    "source": "loudwire",
+    "title": "The Most + Least Played Song Live Off Every Metallica Album",
+    "url": "https://loudwire.com/most-least-played-song-live-every-metallica-album/",
+    "publishedAt": "2026-09-17T12:00:22.000Z",
+    "summary": "Dive in! Continue reading…",
+    "image": null
+  },
+  {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMioAFBVV95cUxOdS1TNjBBRlhtMVpfd252M050RVI0ck1oRjh4T0VKNXJ1THZqNV9nY2Q0ZlFkYjA4aUFXUDhXUmlTNzBVOXlWQ0FSS0dadDZWUHB5MWFwdWNweFlyUW84eUJXS1l2bVdjNnl3cWEwX3lteGo2OFNYTUVNeGQ5eXVPZDBOcVhTLUtLNjdDS1JZazdfdmgzY09fb2RLQ2Rnc25E?oc=5",
+    "source": "kerrang",
+    "title": "Royal Blood turn the speed and adrenaline up on new single, Swallow The Bomb - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdS1TNjBBRlhtMVpfd252M050RVI0ck1oRjh4T0VKNXJ1THZqNV9nY2Q0ZlFkYjA4aUFXUDhXUmlTNzBVOXlWQ0FSS0dadDZWUHB5MWFwdWNweFlyUW84eUJXS1l2bVdjNnl3cWEwX3lteGo2OFNYTUVNeGQ5eXVPZDBOcVhTLUtLNjdDS1JZazdfdmgzY09fb2RLQ2Rnc25E?oc=5",
+    "publishedAt": "2026-09-17T11:50:00.000Z",
+    "summary": "Royal Blood turn the speed and adrenaline up on new single, Swallow The Bomb Kerrang!",
+    "image": null
+  },
+  {
+    "id": "louder-than-war-https://louderthanwar.com/yaang-new-single/",
+    "source": "louder-than-war",
+    "title": "Yaang: Horsepower Is God – new single review",
+    "url": "https://louderthanwar.com/yaang-new-single/",
+    "publishedAt": "2026-09-17T11:25:41.000Z",
+    "summary": "Yaang new single is a huge, tense slice of modern melodrama bricolage of punk, art-rock, and heavy electronic beats The post Yaang: Horsepower Is God – new single review appeared first on Louder Than War.",
     "image": null
   },
   {
@@ -27,96 +270,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/soundboks-rider-speaker-where-to-buy-sept-2026-online-1236341751/",
-    "source": "billboard",
-    "title": "Soundboks’ New Rider Speaker Is Small Enough to Carry & Loud Enough to Party",
-    "url": "https://www.billboard.com/culture/product-recommendations/soundboks-rider-speaker-where-to-buy-sept-2026-online-1236341751/",
-    "publishedAt": "2026-09-17T07:00:00.000Z",
-    "summary": "The $599 speaker launches Sept. 17 with up to 118 decibels of sound, 35 hours of battery life and IP66-rated water and dust resistance.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/jean-michel-jarre-expands-partnership-bmg/",
-    "source": "billboard",
-    "title": "Jean-Michel Jarre Expands Partnership With BMG",
-    "url": "https://www.billboard.com/pro/jean-michel-jarre-expands-partnership-bmg/",
-    "publishedAt": "2026-09-17T06:21:24.000Z",
-    "summary": "“As the only major international music company with European roots, BMG has a cultural identity that is deeply important to me,\" Jarre explains.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/pop/lisa-talks-press-play-tonight-show-1236342361/",
-    "source": "billboard",
-    "title": "‘It’s Like a Movie’: LISA Talks ‘PRESS PLAY’ on ‘The Tonight Show’",
-    "url": "https://www.billboard.com/music/pop/lisa-talks-press-play-tonight-show-1236342361/",
-    "publishedAt": "2026-09-17T05:12:50.000Z",
-    "summary": "The superstar BLACKPINK singer gave a glimpse behind the curtain of her forthcoming collection, \"PRESS PLAY,\" due out Oct. 23.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/tv-film/americas-got-talent-season-21-finale-see-who-made-it-1236342356/",
-    "source": "billboard",
-    "title": "‘America’s Got Talent’ Season 21 Finale Is All Set",
-    "url": "https://www.billboard.com/culture/tv-film/americas-got-talent-season-21-finale-see-who-made-it-1236342356/",
-    "publishedAt": "2026-09-17T04:22:32.000Z",
-    "summary": "The 10 contestants are locked-away for the AGT finale. See who made it through.",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/dolly-parton-honored-lifetime-achievement-award-1235627642/",
-    "source": "rolling-stone",
-    "title": "Dolly Parton Accepts Lifetime Achievement Award in Heartfelt Video Recorded Before Her Death",
-    "url": "https://www.rollingstone.com/music/music-news/dolly-parton-honored-lifetime-achievement-award-1235627642/",
-    "publishedAt": "2026-09-17T03:33:23.000Z",
-    "summary": "The late country icon appeared in a pre-taped message to accept the Americana Honors award",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/celine-dion-paris-residency-comeback-night-two-recap/",
-    "source": "billboard",
-    "title": "Céline Dion’s Comeback: 5 Takeaways From Night Two Of Her Paris Residency",
-    "url": "https://www.billboard.com/lists/celine-dion-paris-residency-comeback-night-two-recap/",
-    "publishedAt": "2026-09-17T03:05:17.000Z",
-    "summary": "The Sept. 16 show at Paris' Plenitude Arena proved that there's simply no one quite like Céline Dion.",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/duncan-sheik-barely-breathing-singer-critical-condition-1235628192/",
-    "source": "rolling-stone",
-    "title": "Duncan Sheik, Tony Award-Winning Singer-Composer of ‘Spring Awakening,’ in Critical Condition",
-    "url": "https://www.rollingstone.com/music/music-news/duncan-sheik-barely-breathing-singer-critical-condition-1235628192/",
-    "publishedAt": "2026-09-17T02:35:22.000Z",
-    "summary": "A statement shared to the artist's social media said that he was \"receiving medical care\"",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/concerts/empire-of-the-sun-2027-tour-australasia-biggest-yet-1236342314/",
-    "source": "billboard",
-    "title": "Empire of the Sun’s 2027 Tour of Australasia Will Be Their Biggest Yet",
-    "url": "https://www.billboard.com/music/concerts/empire-of-the-sun-2027-tour-australasia-biggest-yet-1236342314/",
-    "publishedAt": "2026-09-17T02:35:04.000Z",
-    "summary": "Produced by Frontier Touring, the Ask That God: Afterlife Tour will visit six cities across Australia and New Zealand next February and March.",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/tom-petty-heartbreakers-reunite-chris-stapleton-americana-1235627674/",
-    "source": "rolling-stone",
-    "title": "Watch Tom Petty’s Heartbreakers Reunite to Perform ‘American Girl’ With Chris Stapleton",
-    "url": "https://www.rollingstone.com/music/music-country/tom-petty-heartbreakers-reunite-chris-stapleton-americana-1235627674/",
-    "publishedAt": "2026-09-17T00:38:32.000Z",
-    "summary": "The reunion at the 2026 Americana Honors in Nashville marked the band's first time together onstage since Petty's death in 2017",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/video/2026-emmys-red-carpet-pass-the-mic/",
-    "source": "billboard",
-    "title": "Stars On the 2026 Emmys Red Carpet Pass the Mic | Emmy Awards 2026",
-    "url": "https://www.billboard.com/video/2026-emmys-red-carpet-pass-the-mic/",
-    "publishedAt": "2026-09-17T00:31:32.000Z",
-    "summary": "Chris Perfetti, Richard Gadd, Brooks Nader, Shabana Azeez, Gerran Howell, Haley Kalil and more play pass the mic on the 2026 Emmys red carpet. Shabana AzeezFirst of all you are a snack. Krys MarshallOoh! Chris PerfettiOh man. Richard GaddOh that’s a really good question. The role that somebody else has played this year that you […]",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/dead-poet-society-jack-underkofler-new-album-monarch-interview/",
     "source": "loudwire",
     "title": "Jack Underkofler Gets Honest About Dead Poet Society's New Album",
@@ -126,39 +279,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/pro/loews-jersey-theatre-reopen-november-inside-restoration/",
-    "source": "billboard",
-    "title": "Nearly 100-Year-Old Loew’s Jersey Theatre to Reopen in November: Inside the $130M Restoration",
-    "url": "https://www.billboard.com/pro/loews-jersey-theatre-reopen-november-inside-restoration/",
-    "publishedAt": "2026-09-17T00:26:15.000Z",
-    "summary": "The grand reopening weekend (Nov. 13 and 14) will feature performances from the Trey Anastasio Band and The War on Drugs.",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/robert-kraft-responds-macklemore-1-million-donation-match-1235628081/",
-    "source": "rolling-stone",
-    "title": "Robert Kraft Responds to Macklemore’s Invite to Match $1 Million to Palestinian Support Groups",
-    "url": "https://www.rollingstone.com/music/music-news/robert-kraft-responds-macklemore-1-million-donation-match-1235628081/",
-    "publishedAt": "2026-09-16T23:05:00.000Z",
-    "summary": "The rapper claimed that the Patriots billionaire led a pressure campaign to have him nixed from Ed Sheeran's tour following comments supporting Palestinians onstage",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/macklemore-will-donate-ed-sheeran-tour-earnings-to-palestine/",
     "source": "pitchfork",
     "title": "Macklemore to Donate $1 Million Ed Sheeran Tour Earnings to Palestine Aid, Invites Robert Kraft to Match Him",
     "url": "https://pitchfork.com/story/macklemore-will-donate-ed-sheeran-tour-earnings-to-palestine/",
     "publishedAt": "2026-09-16T22:42:10.000Z",
     "summary": "“Whatever we disagree about, perhaps we can agree on this: Palestinian lives are worth protecting,” the rapper wrote on Instagram",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/cher-elijah-blue-allman-indicted-felony-criminal-mischief-1235627990/",
-    "source": "rolling-stone",
-    "title": "Cher’s Son, Elijah Blue Allman, Indicted on Felony Criminal Mischief Charge in New Hampshire",
-    "url": "https://www.rollingstone.com/music/music-news/cher-elijah-blue-allman-indicted-felony-criminal-mischief-1235627990/",
-    "publishedAt": "2026-09-16T22:31:19.000Z",
-    "summary": "The son of the superstar singer and the late musician Gregg Allman is currently living in a locked psychiatric hospital on the East coast as his mother claims he is \"gravely disabled\"",
     "image": null
   },
   {
@@ -180,42 +306,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/macklemore-palestine-donation-ed-sheeran-tour-1235628025/",
-    "source": "rolling-stone",
-    "title": "Macklemore to Donate $1 Million to Palestinian Support Groups, Invites Robert Kraft to Match",
-    "url": "https://www.rollingstone.com/music/music-news/macklemore-palestine-donation-ed-sheeran-tour-1235628025/",
-    "publishedAt": "2026-09-16T21:59:05.000Z",
-    "summary": "The rapper revealed the donation after the billionaire Patriots owner allegedly led a pressure campaign to force him off Ed Sheeran's tour",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/macklemore-ed-sheeran-robert-kraft-free-speech-op-ed-1235627901/",
-    "source": "rolling-stone",
-    "title": "Repression of Free Speech Is Never the Way",
-    "url": "https://www.rollingstone.com/music/music-features/macklemore-ed-sheeran-robert-kraft-free-speech-op-ed-1235627901/",
-    "publishedAt": "2026-09-16T20:33:45.000Z",
-    "summary": "Billionaire NFL owners should not ban artists whose views they disagree with",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/2026-mtv-vmas-will-open-with-madonna-1235627673/",
-    "source": "rolling-stone",
-    "title": "Madonna to Perform at VMAs for First Time in 23 Years",
-    "url": "https://www.rollingstone.com/music/music-news/2026-mtv-vmas-will-open-with-madonna-1235627673/",
-    "publishedAt": "2026-09-16T19:47:51.000Z",
-    "summary": "Superstar, who earned the most nominations across 11 categories at this year’s event, will open the show",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-pictures/behind-intocables-epic-celebration-of-mexico-en-el-zocalo-1235627548/",
-    "source": "rolling-stone",
-    "title": "Behind Intocable’s Epic Celebration of Mexico en El Zócalo",
-    "url": "https://www.rollingstone.com/music/music-pictures/behind-intocables-epic-celebration-of-mexico-en-el-zocalo-1235627548/",
-    "publishedAt": "2026-09-16T19:09:49.000Z",
-    "summary": "An epic meeting of música mexicana lore and a veteran Texas band that has consistently taken norteño into unexpected terrain took place Tuesday in Mexico City when Intocable performed in front of 300,000 people at El Zocalo Capitalino to celebrate Mexican Independence Day. For Intocable, the two-hour show was a highly emotional affair, as […]",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/porridge-radios-dana-margolin-launches-debut-solo-single/",
     "source": "pitchfork",
     "title": "Porridge Radio’s Dana Margolin Launches Debut Solo Single",
@@ -231,15 +321,6 @@
     "url": "https://pitchfork.com/story/listen-to-dexter-in-the-newsagent-new-song-fantasy/",
     "publishedAt": "2026-09-16T17:22:22.000Z",
     "summary": "The British singer-songwriter and producer’s first single of 2026",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/macklemore-support-artists-ed-sheeran-tour-controversy-1235626898/",
-    "source": "rolling-stone",
-    "title": "Artists Stand With Macklemore Amid Ed Sheeran Tour Controversy: ‘True Integrity’",
-    "url": "https://www.rollingstone.com/music/music-features/macklemore-support-artists-ed-sheeran-tour-controversy-1235626898/",
-    "publishedAt": "2026-09-16T17:18:00.000Z",
-    "summary": "Kehlani, Finneas, Ms. Rachel, Rachel Chinouriri, Greta Thunberg, Pattie Gonia, and more have backed the rapper following his removal from the Loop tour over his public support of Palestinians",
     "image": null
   },
   {
@@ -315,15 +396,6 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/story/metallica-announce-2027-north-american-tour-dates/",
-    "source": "pitchfork",
-    "title": "Metallica Announce 2027 North American Tour Dates",
-    "url": "https://pitchfork.com/story/metallica-announce-2027-north-american-tour-dates/",
-    "publishedAt": "2026-09-16T14:29:10.000Z",
-    "summary": "The metal icons will hit the road following their Sphere residency",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/metallica-2027-tour-dates-limp-bizkit-avatar/",
     "source": "loudwire",
     "title": "Metallica Announce 2027 Tour With Limp Bizkit + Avatar",
@@ -333,21 +405,12 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/story/rosalia-karol-g-ca7riel-and-paco-amoroso-nominated-for-2026-latin-grammys/",
-    "source": "pitchfork",
-    "title": "Rosalía, Karol G, CA7RIEL & Paco Amoroso Nominated for 2026 Latin Grammys",
-    "url": "https://pitchfork.com/story/rosalia-karol-g-ca7riel-and-paco-amoroso-nominated-for-2026-latin-grammys/",
-    "publishedAt": "2026-09-16T13:19:29.000Z",
-    "summary": "Winners will be crowned at a live ceremony in Las Vegas on November 12",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/charlotte-adigery-and-bolis-pupul-return-with-new-song-googoo-gaga/",
-    "source": "pitchfork",
-    "title": "Charlotte Adigéry and Bolis Pupul Return With New Song “Googoo Gaga”",
-    "url": "https://pitchfork.com/story/charlotte-adigery-and-bolis-pupul-return-with-new-song-googoo-gaga/",
-    "publishedAt": "2026-09-16T13:04:22.000Z",
-    "summary": "The duo’s first song since 2022 is about new motherhood: “feeling drained, the self-sacrifice, the overwhelm, yet embracing all of it”",
+    "id": "nme-https://news.google.com/rss/articles/CBMisAFBVV95cUxOZjVfQWVQZFZqTTFSZ3RtWjNtU0dVLWM0S28tNkRPdHc4WnczNVNQdmticnc5V2pwWEdULXVxMzFVQ0ZoM1NTT2RGQWw3LXBfTjk5SnhBRXZ3ZFg3bFhudXVRRTJ1WGxvR2xoeTRsRDJhbjk1VV92XzlrdmhmRTF5Um03SV9nVGR2Z3dPYlk2V2YyaDdkUG9BcTM0TW1HWU04VGN4QXE2Y3RpS2RfODRuRA?oc=5",
+    "source": "nme",
+    "title": "Watch Angine de Poitrine play sprawling unreleased song 'Zugzegk' as they make US TV debut on 'Fallon' - NME",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZjVfQWVQZFZqTTFSZ3RtWjNtU0dVLWM0S28tNkRPdHc4WnczNVNQdmticnc5V2pwWEdULXVxMzFVQ0ZoM1NTT2RGQWw3LXBfTjk5SnhBRXZ3ZFg3bFhudXVRRTJ1WGxvR2xoeTRsRDJhbjk1VV92XzlrdmhmRTF5Um03SV9nVGR2Z3dPYlk2V2YyaDdkUG9BcTM0TW1HWU04VGN4QXE2Y3RpS2RfODRuRA?oc=5",
+    "publishedAt": "2026-09-16T13:08:58.000Z",
+    "summary": "Watch Angine de Poitrine play sprawling unreleased song 'Zugzegk' as they make US TV debut on 'Fallon' NME",
     "image": null
   },
   {
@@ -477,30 +540,12 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/my-chemical-romance-tour-questions-2026/",
-    "source": "loudwire",
-    "title": "3 Questions My Chemical Romance Need to Answer After Their Tour",
-    "url": "https://loudwire.com/my-chemical-romance-tour-questions-2026/",
-    "publishedAt": "2026-09-15T21:07:44.000Z",
-    "summary": "Here's what we think will happen next and how confident we are about it ACTUALLY happening. Continue reading…",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/reviews/echo-the-bunnymens-apples-for-isaac-reviewed-a-late-career-triumph-156387/",
     "source": "uncut",
     "title": "Echo & The Bunnymen’s Apples For Isaac Reviewed: a late-career triumph",
     "url": "https://www.uncut.co.uk/reviews/echo-the-bunnymens-apples-for-isaac-reviewed-a-late-career-triumph-156387/",
     "publishedAt": "2026-09-15T17:32:30.000Z",
     "summary": "Approaching their 50th anniversary, Ian McCulloch and company summon the wit, weirdness and grandeur of their earliest work",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/slaughter-to-prevail-alex-terrible-nazi-allegations/",
-    "source": "loudwire",
-    "title": "Slaughter to Prevail Vocalist Addresses Nazi Allegations AGAIN",
-    "url": "https://loudwire.com/slaughter-to-prevail-alex-terrible-nazi-allegations/",
-    "publishedAt": "2026-09-15T17:29:29.000Z",
-    "summary": "Slaughter to Prevail's Alex Terrible offers explanation on his troublesome tattoo, addresses the ongoing backlash and shares who he is as a person in 2026. Continue reading…",
     "image": null
   },
   {
@@ -542,28 +587,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMirgFBVV95cUxPbDdZNi10WEk5YTVqUGNyaVVJVUYtTHI2OFFERzlTY05WWXk0LTc4RG8zb1YxdGVpLU83ZWhNVC1JcHZMQ2taTFFncVdkd1NRejJHVEE1SjBaZlJCQXpXVDRHR1NVN3ZYTGNNdXN2VzNjNTBMR1BKTHIxYks0YzBkamEyT3ZvMno3aHpVWTFtMzVqRDZSbGNTZUQ2Zm5HbVV2bmdNQWdNaGd2cjA3NXc?oc=5",
     "source": "kerrang",
-    "title": "Live review: Spiritbox, Nottingham Motorpoint Arena - kerrang.com",
+    "title": "Live review: Spiritbox, Nottingham Motorpoint Arena - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbDdZNi10WEk5YTVqUGNyaVVJVUYtTHI2OFFERzlTY05WWXk0LTc4RG8zb1YxdGVpLU83ZWhNVC1JcHZMQ2taTFFncVdkd1NRejJHVEE1SjBaZlJCQXpXVDRHR1NVN3ZYTGNNdXN2VzNjNTBMR1BKTHIxYks0YzBkamEyT3ZvMno3aHpVWTFtMzVqRDZSbGNTZUQ2Zm5HbVV2bmdNQWdNaGd2cjA3NXc?oc=5",
     "publishedAt": "2026-09-15T14:30:00.000Z",
-    "summary": "Live review: Spiritbox, Nottingham Motorpoint Arena kerrang.com",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/kelly-osbourne-sober/",
-    "source": "loudwire",
-    "title": "Kelly Osbourne Opens Up on Being 8 Months Sober",
-    "url": "https://loudwire.com/kelly-osbourne-sober/",
-    "publishedAt": "2026-09-15T14:24:10.000Z",
-    "summary": "Kelly Osbourne details her struggles with mental health, grief and sobriety in the aftermath of Ozzy Osbourne's death. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMi6gFBVV95cUxPV0kxOUduckx3NFA5TEMtT19vN181cEdBYnoxNHJMbHRkM09UREJvLUVCdHJINUJxUXNmVzVDTFAydFI3UVdHZS1JYVJsUndJcVpqNEtaYl91ZXpJZVBndUo5S2ZpV1I4S1RFWHZHd2ZfSWN6cGVQYmROaTh1bC12bmxTeTN4ejZnTGN0bWE1UXRNMW9OX1VuWnNFWWtqWmhHTTY2STIxLThOYlg3U3lMc19FWjFxTGhQdjhjYnI2VV9aRXU0NkU4VG1fSXRGZjVsZGJ3UFlpX0QxWDM1VXMtYVU5amlmRXFMdEE?oc=5",
-    "source": "nme",
-    "title": "New Order's Gillian Gilbert shares that she is \"living with cancer\", and husband Stephen Morris is not \"seriously ill\" - NME",
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPV0kxOUduckx3NFA5TEMtT19vN181cEdBYnoxNHJMbHRkM09UREJvLUVCdHJINUJxUXNmVzVDTFAydFI3UVdHZS1JYVJsUndJcVpqNEtaYl91ZXpJZVBndUo5S2ZpV1I4S1RFWHZHd2ZfSWN6cGVQYmROaTh1bC12bmxTeTN4ejZnTGN0bWE1UXRNMW9OX1VuWnNFWWtqWmhHTTY2STIxLThOYlg3U3lMc19FWjFxTGhQdjhjYnI2VV9aRXU0NkU4VG1fSXRGZjVsZGJ3UFlpX0QxWDM1VXMtYVU5amlmRXFMdEE?oc=5",
-    "publishedAt": "2026-09-15T14:05:46.000Z",
-    "summary": "New Order's Gillian Gilbert shares that she is \"living with cancer\", and husband Stephen Morris is not \"seriously ill\" NME",
+    "summary": "Live review: Spiritbox, Nottingham Motorpoint Arena Kerrang!",
     "image": null
   },
   {
@@ -623,28 +650,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMiigFBVV95cUxOYUVNckxOMWVoaGVpemdzLTdET1JWeTM3THhwTi11WkVzN3dOZ3AzTWZKdGpVcFBTd3kxeTFKU1M4R2txTEduZkUtZXE0V1JlTV8wT09SMF9xZWtpNG5zM3NvN0hPWmxVTnZpODBQUnQtbzFTVklqbE1UQnR5VzJ3aUtqSGNYclg0Q2c?oc=5",
     "source": "kerrang",
-    "title": "Live review: Evanescence, London The O2 - kerrang.com",
+    "title": "Live review: Evanescence, London The O2 - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYUVNckxOMWVoaGVpemdzLTdET1JWeTM3THhwTi11WkVzN3dOZ3AzTWZKdGpVcFBTd3kxeTFKU1M4R2txTEduZkUtZXE0V1JlTV8wT09SMF9xZWtpNG5zM3NvN0hPWmxVTnZpODBQUnQtbzFTVklqbE1UQnR5VzJ3aUtqSGNYclg0Q2c?oc=5",
     "publishedAt": "2026-09-14T14:30:00.000Z",
-    "summary": "Live review: Evanescence, London The O2 kerrang.com",
-    "image": null
-  },
-  {
-    "id": "louder-than-war-https://louderthanwar.com/down-at-the-abbey-2026-festival-review/",
-    "source": "louder-than-war",
-    "title": "Down At The Abbey 2026 – Festival Review",
-    "url": "https://louderthanwar.com/down-at-the-abbey-2026-festival-review/",
-    "publishedAt": "2026-09-14T14:02:21.000Z",
-    "summary": "Down At The Abbey Reading, Berks 11th-12th September 2026 Reading’s Down At The Abbey festival took place again for the fourth time. Keith Goldhanger reports on his highlights after witnessing over 20 acts in two days. In just under six hours on Friday evening and ten hours on Saturday, Reading’s 900-year-old Abbey ruins transformed […] The post Down At The Abbey 2026 – Festival Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "louder-than-war-https://louderthanwar.com/end-of-the-road-2026-festival-review/",
-    "source": "louder-than-war",
-    "title": "End Of The Road 2026 – Festival Review",
-    "url": "https://louderthanwar.com/end-of-the-road-2026-festival-review/",
-    "publishedAt": "2026-09-14T12:43:25.000Z",
-    "summary": "End of the Road Festival Lamar Tree Gardens, Dorset 3rd-6th August 2026 End Of The Road returns to Lamar Tree Gardens for another incredible outing. Elliott Simpson reviews. Is there a better way to celebrate your twentieth than with a happy birthday singalong led by Jarvis Cocker? No, probably not. It’s a symbol of how […] The post End Of The Road 2026 – Festival Review appeared first on Louder Than War.",
+    "summary": "Live review: Evanescence, London The O2 Kerrang!",
     "image": null
   },
   {
@@ -668,10 +677,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMid0FVX3lxTE1QOUc3ZDdmWjVReHpEeXk4Vmg1VFBGN1ZsQXFROGFBNjFGSTBmLWxqZERGLTVjbFh0eF9TVHVHcGNubG1zTm1IR053MVlnTXhqX2xoS2tPbklhcWQ2X0FQZ1BoTno0T1I3NFRWTHVMMmZvRXpXV0dF?oc=5",
     "source": "kerrang",
-    "title": "Album review: Honey Revenge – Loving And Losing - kerrang.com",
+    "title": "Album review: Honey Revenge – Loving And Losing - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QOUc3ZDdmWjVReHpEeXk4Vmg1VFBGN1ZsQXFROGFBNjFGSTBmLWxqZERGLTVjbFh0eF9TVHVHcGNubG1zTm1IR053MVlnTXhqX2xoS2tPbklhcWQ2X0FQZ1BoTno0T1I3NFRWTHVMMmZvRXpXV0dF?oc=5",
     "publishedAt": "2026-09-14T09:26:00.000Z",
-    "summary": "Album review: Honey Revenge – Loving And Losing kerrang.com",
+    "summary": "Album review: Honey Revenge – Loving And Losing Kerrang!",
     "image": null
   },
   {
@@ -704,19 +713,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMiowFBVV95cUxNMkI0QnRaM3c0OFZIMDZGa1ozcDNRcENad0JtZW9XbDZrSzJxQ01aS3paYXIxdmJVRmttQks3LXV0SnctdDRTN2NzNWFCd3lORXF4NnRpSGJaQWNpQmswUnBmamV6MGxXY1hsN3lRWExpY0NfdXpndGF5UzhvTEJxUUJ6NFJGaXJDZ05CRnZGdXJrWGM0VVhlU0tMblFPYThwclZv?oc=5",
     "source": "kerrang",
-    "title": "Slipknot’s surprise single Arsenal is not on their new album, Jim Root confirms - kerrang.com",
+    "title": "Slipknot’s surprise single Arsenal is not on their new album, Jim Root confirms - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMkI0QnRaM3c0OFZIMDZGa1ozcDNRcENad0JtZW9XbDZrSzJxQ01aS3paYXIxdmJVRmttQks3LXV0SnctdDRTN2NzNWFCd3lORXF4NnRpSGJaQWNpQmswUnBmamV6MGxXY1hsN3lRWExpY0NfdXpndGF5UzhvTEJxUUJ6NFJGaXJDZ05CRnZGdXJrWGM0VVhlU0tMblFPYThwclZv?oc=5",
     "publishedAt": "2026-09-11T09:16:00.000Z",
-    "summary": "Slipknot’s surprise single Arsenal is not on their new album, Jim Root confirms kerrang.com",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaTRqaXNxcTBFVTQ2LXdWTzlVWk5sWDRMNG1Ta2l4Rzk1YjNha0pzSnptU2VOVHhwZ0lKVHpteFphNG95R05ReVZmdXV5S3JqYjFDLThaclg5cXBWYUhfVE1zTDJCWEtFaV84VGRMamxJLXRqWk1abWxYSVZzUDhObzI4ZVhGdGV2?oc=5",
-    "source": "kerrang",
-    "title": "Turnstile and Royal Blood are playing Saturday Night Live - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaTRqaXNxcTBFVTQ2LXdWTzlVWk5sWDRMNG1Ta2l4Rzk1YjNha0pzSnptU2VOVHhwZ0lKVHpteFphNG95R05ReVZmdXV5S3JqYjFDLThaclg5cXBWYUhfVE1zTDJCWEtFaV84VGRMamxJLXRqWk1abWxYSVZzUDhObzI4ZVhGdGV2?oc=5",
-    "publishedAt": "2026-09-10T10:43:00.000Z",
-    "summary": "Turnstile and Royal Blood are playing Saturday Night Live Kerrang!",
+    "summary": "Slipknot’s surprise single Arsenal is not on their new album, Jim Root confirms Kerrang!",
     "image": null
   }
 ]
