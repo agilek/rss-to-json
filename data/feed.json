@@ -1,47 +1,173 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/ella-langley-choosin-texas-14th-week-atop-aria-chart-1236343254/",
+    "source": "billboard",
+    "title": "Ella Langley’s ‘Choosin’ Texas’ Notches 14th Week Atop ARIA Chart",
+    "url": "https://www.billboard.com/music/chart-beat/ella-langley-choosin-texas-14th-week-atop-aria-chart-1236343254/",
+    "publishedAt": "2026-09-18T09:29:59.000Z",
+    "summary": "Olivia Rodrigo’s \"You Seem Pretty Sad For A Girl So In Love\" returns to No. 1 on the albums tally after a four-week break.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/metallica-m72-interview-contest-kansas-city/",
+    "source": "loudwire",
+    "title": "ENTER NOW: Win a Trip to See + Interview Metallica In Kansas City",
+    "url": "https://loudwire.com/metallica-m72-interview-contest-kansas-city/",
+    "publishedAt": "2026-09-18T09:22:01.000Z",
+    "summary": "Not only will you win tickets to see Metallica in Kansas City, you'll get to interview them, too! Continue reading…",
+    "image": null
+  },
+  {
+    "id": "uncut-https://www.uncut.co.uk/features/going-their-own-way-how-fleetwood-mac-turned-heartbreak-into-one-of-the-biggest-albums-ever-made-156080/",
+    "source": "uncut",
+    "title": "Going their own way: how Fleetwood Mac turned heartbreak into one of the biggest albums ever made",
+    "url": "https://www.uncut.co.uk/features/going-their-own-way-how-fleetwood-mac-turned-heartbreak-into-one-of-the-biggest-albums-ever-made-156080/",
+    "publishedAt": "2026-09-18T08:12:33.000Z",
+    "summary": "Breakups, affairs and backstage drama fuelled Rumours, but the songs are why it endures",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/carly-rae-jepsen-double-album-day-and-night-stream-1236343240/",
+    "source": "billboard",
+    "title": "Carly Rae Jepsen Drops Double Album ‘Day and Night’: Stream It Now",
+    "url": "https://www.billboard.com/music/pop/carly-rae-jepsen-double-album-day-and-night-stream-1236343240/",
+    "publishedAt": "2026-09-18T07:49:59.000Z",
+    "summary": "The Canadian pop artist's eighth and latest studio album spans 24 songs and clocks in at more than 100 minutes.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/carly-rae-jepsen-versailles-music-video-day-and-night-1235628668/",
+    "source": "rolling-stone",
+    "title": "Carly Rae Jepsen Wants to Party in ‘Versailles’ Music Video",
+    "url": "https://www.rollingstone.com/music/music-news/carly-rae-jepsen-versailles-music-video-day-and-night-1235628668/",
+    "publishedAt": "2026-09-18T06:36:28.000Z",
+    "summary": "The song comes off the pop star's new album, Day and Night",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/miley-cyrus-bass-persuades-best-songs-tracks-ranked/",
+    "source": "billboard",
+    "title": "Miley Cyrus’ ‘Bass Persuades’: All 10 Tracks Ranked",
+    "url": "https://www.billboard.com/lists/miley-cyrus-bass-persuades-best-songs-tracks-ranked/",
+    "publishedAt": "2026-09-18T05:40:46.000Z",
+    "summary": "See how Billboard ranks the new songs from the pop great's first album with her new label (and without her last name).",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/read-the-full-credits-to-miley-cyrus-bass-persuades/",
+    "source": "pitchfork",
+    "title": "Read the Full Credits to Miley Cyrus’ Bass Persuades",
+    "url": "https://pitchfork.com/story/read-the-full-credits-to-miley-cyrus-bass-persuades/",
+    "publishedAt": "2026-09-18T05:24:11.000Z",
+    "summary": "The singer’s first album as just Miley features assists from Model/Actriz, Miike Snow’s Andrew Wyatt, Kid Harpoon, and more",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/miley-carly-rae-jepsen-riley-green-new-music-friday-guide-1236342631/",
+    "source": "billboard",
+    "title": "Miley, Carly Rae Jepsen, Riley Green, Rosé & More: New Music Friday Guide",
+    "url": "https://www.billboard.com/music/music-news/miley-carly-rae-jepsen-riley-green-new-music-friday-guide-1236342631/",
+    "publishedAt": "2026-09-18T05:13:21.000Z",
+    "summary": "Check out the must-hear releases of the week.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/rose-rock-star-new-trick-music-video-watch-1236343199/",
+    "source": "billboard",
+    "title": "Rosé Is a Rock Star In ‘New Trick’ Music Video: Watch",
+    "url": "https://www.billboard.com/music/pop/rose-rock-star-new-trick-music-video-watch-1236343199/",
+    "publishedAt": "2026-09-18T05:06:21.000Z",
+    "summary": "Dave Meyers filmed the energetic new clip entirely on Apple’s newly unveiled iPhone 18 Pro.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/miley-cyrus-maxx-morando-lets-get-married-video-1235628660/",
+    "source": "rolling-stone",
+    "title": "Miley Cyrus and Fiancé Maxx Morando Find Bliss at the Chateau Marmont in ‘Let’s Get Married’ Video",
+    "url": "https://www.rollingstone.com/music/music-news/miley-cyrus-maxx-morando-lets-get-married-video-1235628660/",
+    "publishedAt": "2026-09-18T04:49:53.000Z",
+    "summary": "The Grammy winning artist released the video a day before her new album, Bass Persuades, arrives",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/miley-cyrus-lets-get-married-video/",
+    "source": "pitchfork",
+    "title": "Miley Cyrus Hits the Chateau Marmont in New ”Let’s Get Married” Video",
+    "url": "https://pitchfork.com/story/miley-cyrus-lets-get-married-video/",
+    "publishedAt": "2026-09-18T04:23:25.000Z",
+    "summary": "The singer’s real-life fiancé Maxx Morando appears in the latest Bass Persuades visual",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/maroon-5-wiz-khalifa-payphone-1-billion-views-youtube-1236343159/",
+    "source": "billboard",
+    "title": "Maroon 5 and Wiz Khalifa’s ‘Payphone’ Dials Up 1 Billion Views on YouTube",
+    "url": "https://www.billboard.com/music/pop/maroon-5-wiz-khalifa-payphone-1-billion-views-youtube-1236343159/",
+    "publishedAt": "2026-09-18T04:19:01.000Z",
+    "summary": "Released back in April 2012, \"Payphone\" gives Maroon 5 a sixth entry into YouTube's Billion Views Club.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/latin/shakira-maluma-agua-music-video-stream-it-now-1236343114/",
+    "source": "billboard",
+    "title": "Shakira and Maluma Reunite on Steamy New Merengue-Fueled Collaboration ‘Agua’: Stream It Now",
+    "url": "https://www.billboard.com/music/latin/shakira-maluma-agua-music-video-stream-it-now-1236343114/",
+    "publishedAt": "2026-09-18T04:11:56.000Z",
+    "summary": "The Colombian superstars return to their shared musical universe with a sensual merengue fueled by desire, chemistry and tropical heat.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/2026-hard-rock-metal-album-release-calendar/",
+    "source": "loudwire",
+    "title": "The New Rock + Metal Albums Out Today",
+    "url": "https://loudwire.com/2026-hard-rock-metal-album-release-calendar/",
+    "publishedAt": "2026-09-18T04:01:48.000Z",
+    "summary": "See all the new releases coming each week of 2026. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/riley-green-thats-just-me-album-review-tracks-ranked/",
+    "source": "billboard",
+    "title": "Riley Green’s ‘That’s Just Me’: All 19 Tracks Ranked",
+    "url": "https://www.billboard.com/lists/riley-green-thats-just-me-album-review-tracks-ranked/",
+    "publishedAt": "2026-09-18T04:01:00.000Z",
+    "summary": "The recent Billboard cover star aims to continue his winning streak on new album.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/miley-cyrus-bass-persuades-album-stream-it-now-listen-1236343049/",
+    "source": "billboard",
+    "title": "Miley Is All About That ‘Bass’ (And Dancing) on ‘Bass Persuades’ Album: Stream It Now",
+    "url": "https://www.billboard.com/music/pop/miley-cyrus-bass-persuades-album-stream-it-now-listen-1236343049/",
+    "publishedAt": "2026-09-18T04:00:50.000Z",
+    "summary": "The pop star pours her full heart into her dance-infused 10th studio album.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/spotify-launches-fresh-finds-forward-independent-artists-1235628656/",
+    "source": "rolling-stone",
+    "title": "Spotify Launches Fresh Finds Forward to Support 10,000 New Independent Artists",
+    "url": "https://www.rollingstone.com/music/music-news/spotify-launches-fresh-finds-forward-independent-artists-1235628656/",
+    "publishedAt": "2026-09-18T03:55:10.000Z",
+    "summary": "Participating artists will receive 12 months of free studio time, early access to select Spotify features, prioritized access to tour or music video partnerships, and more",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rock/dave-stewart-went-back-to-front-for-new-album-1236343110/",
+    "source": "billboard",
+    "title": "‘It Was Very Homemade’: Dave Stewart Went ‘Back to Front’ For His New Album",
+    "url": "https://www.billboard.com/music/rock/dave-stewart-went-back-to-front-for-new-album-1236343110/",
+    "publishedAt": "2026-09-18T02:59:22.000Z",
+    "summary": "\"The Way It Was Back Then\" is unlike any other album created by Steward, the Eurythmics legend.",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/barbra-streisand-trump-kennedy-center-closure-1235628646/",
     "source": "rolling-stone",
     "title": "Barbra Streisand Slams a ‘Humiliated Trump’ for Closing Kennedy Center After Losing Name Feud",
     "url": "https://www.rollingstone.com/music/music-news/barbra-streisand-trump-kennedy-center-closure-1235628646/",
     "publishedAt": "2026-09-18T02:37:57.000Z",
     "summary": "A Trump-appointed board voted to temporarily close the center after a judge blocked Trump from putting his name on the building",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/lenny-kravitz-ken-doll-prices-where-to-buy-shop-online-1236343006/",
-    "source": "billboard",
-    "title": "The Lenny Kravitz Barbie Is Flying Off the Shelves Just Hours After Its Release — Here’s Where to Buy",
-    "url": "https://www.billboard.com/culture/product-recommendations/lenny-kravitz-ken-doll-prices-where-to-buy-shop-online-1236343006/",
-    "publishedAt": "2026-09-18T01:28:01.000Z",
-    "summary": "The \"Fly Away\" singer is the second man to be bestowed the \"Kenbassador\" title by Mattel.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/mary-j-blige-las-vegas-residency-park-mgm-end-dates-1236343061/",
-    "source": "billboard",
-    "title": "Mary J. Blige Slates End of 20-Date Las Vegas Residency at Park MGM",
-    "url": "https://www.billboard.com/music/rb-hip-hop/mary-j-blige-las-vegas-residency-park-mgm-end-dates-1236343061/",
-    "publishedAt": "2026-09-18T01:24:10.000Z",
-    "summary": "My Life, My Story has 10 remaining shows between October & February.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/troye-sivan-party-single-video-madonna-ian-mckellen-1236343058/",
-    "source": "billboard",
-    "title": "Troye Sivan Releases Madonna-Sampling ‘Party’ Single & Cinematic Video: Watch",
-    "url": "https://www.billboard.com/music/chart-beat/troye-sivan-party-single-video-madonna-ian-mckellen-1236343058/",
-    "publishedAt": "2026-09-18T00:32:42.000Z",
-    "summary": "\"I was so excited to ask him and so excited that he said yes,\" Sivan told Billboard of getting Ian McKellen to narrate the video.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/ticketmaster-global-president-venues-have-choices-ticketing/",
-    "source": "billboard",
-    "title": "Ticketmaster Global President ‘Categorically Rejects That Venues Don’t Have Choices’ for Ticketers",
-    "url": "https://www.billboard.com/pro/ticketmaster-global-president-venues-have-choices-ticketing/",
-    "publishedAt": "2026-09-18T00:12:12.000Z",
-    "summary": "“It's wildly competitive, no matter what some news companies say,” Saumil Mehta said at the Trapital Summit on Tuesday (Sept. 15).",
     "image": null
   },
   {
@@ -54,33 +180,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/pop/zara-larsson-blue-moon-midnight-sun-coachella-macklemore-1236343011/",
-    "source": "billboard",
-    "title": "Zara Larsson on ‘Dream’ of Headlining Coachella, Why ‘Blue Moon’ Deserves More ‘Love’ & Her ‘Respect’ for Macklemore Speaking Out",
-    "url": "https://www.billboard.com/music/pop/zara-larsson-blue-moon-midnight-sun-coachella-macklemore-1236343011/",
-    "publishedAt": "2026-09-17T23:43:06.000Z",
-    "summary": "\"There's so much space to be held still for the whole Midnight Sun album,\" the Swedish pop star tells Billboard.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/erica-campbell-label-lawsuit-gospel-music-royalties/",
-    "source": "billboard",
-    "title": "Erica Campbell’s Label Sues Distributor Over Gospel Music Royalties",
-    "url": "https://www.billboard.com/pro/erica-campbell-label-lawsuit-gospel-music-royalties/",
-    "publishedAt": "2026-09-17T23:25:38.000Z",
-    "summary": "SRG/ILS Group was previously hit with a similar lawsuit from R&B singer Kenny Lattimore.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/video/zara-larsson-billboard-news-interview-blue-moon-macklemore/",
-    "source": "billboard",
-    "title": "Zara Larsson Talks Macklemore Speaking Out, Her Workout Routine & Viral Concert Moments | Billboard News Interview",
-    "url": "https://www.billboard.com/video/zara-larsson-billboard-news-interview-blue-moon-macklemore/",
-    "publishedAt": "2026-09-17T23:05:20.000Z",
-    "summary": "Zara Larsson addresses Macklemore speaking out and being an artist her fans can trust, shares what the secret to her workout routine is, fan moments at her concerts going viral on social media, how she wants her song “Blue Moon” to have its moment, how she’s still learning about the music business at this point […]",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/gandalf-narrates-troye-sivans-new-party-video/",
     "source": "pitchfork",
     "title": "Gandalf Narrates Troye Sivan’s New “Party” Video",
@@ -90,30 +189,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/drake-fomo-release-youtube-stream-1236342956/",
-    "source": "billboard",
-    "title": "Watch Drake’s Full ‘FOMO’ Short Film Now, Featuring Collabs With Don Toliver, Yeat & PartyNextDoor",
-    "url": "https://www.billboard.com/music/rb-hip-hop/drake-fomo-release-youtube-stream-1236342956/",
-    "publishedAt": "2026-09-17T22:55:46.000Z",
-    "summary": "Streaming on YouTube, the \"not so short film\" features music videos, star-studded cameos & unreleased tracks.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/tv-film/ariana-grande-oh-the-places-youll-go-dr-seuss-jon-m-chu-1236342960/",
-    "source": "billboard",
-    "title": "Ariana Grande Teases Dr. Seuss-Fueled Recording Session With Jon M. Chu: ‘Oh, the Places We’ll Go & Have Been!’",
-    "url": "https://www.billboard.com/culture/tv-film/ariana-grande-oh-the-places-youll-go-dr-seuss-jon-m-chu-1236342960/",
-    "publishedAt": "2026-09-17T22:53:06.000Z",
-    "summary": "The pop star posted a behind-the-scenes pic that has fans wondering if the Oh, the Places You'll Go! animated adaptation has entered production.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/linda-perry-let-it-die-here-documentary-stream-hulu-online-1236341441/",
-    "source": "billboard",
-    "title": "‘Linda Perry: Let It Die Here’: Here’s How to Watch the Music Documentary Online",
-    "url": "https://www.billboard.com/culture/product-recommendations/linda-perry-let-it-die-here-documentary-stream-hulu-online-1236341441/",
-    "publishedAt": "2026-09-17T22:44:56.000Z",
-    "summary": "The new documentary about the singer/songwriter and record producer is available to stream starting on Friday (Sept. 18).",
+    "id": "nme-https://news.google.com/rss/articles/CBMitgFBVV95cUxPUHFwT2tBZTVoWDBUN3JTbWpaYUQ2UzVINjlNa2hlSFUtX1ZTdnc3YWJsMEhvMmktUWFRdl9FRHJXTmF6N1Rya2k1cUJLbC03N1RyTXMyWlE1YklzMkVVQ3Z4alJLQzZ4cFZucVVoLWVwV2ZJUHJqNVpiMVpMUDdicUdWZXpjdUlDRl9RaGNKQWd6UGJjclNLbGRQZml2LXF3Y190VUJxWWRPYXBheDRxTl9OalVaUQ?oc=5",
+    "source": "nme",
+    "title": "Fontaines D.C. share ‘Dopamine Chamber’ tracklist – featuring collab with Rosalía - NME",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUHFwT2tBZTVoWDBUN3JTbWpaYUQ2UzVINjlNa2hlSFUtX1ZTdnc3YWJsMEhvMmktUWFRdl9FRHJXTmF6N1Rya2k1cUJLbC03N1RyTXMyWlE1YklzMkVVQ3Z4alJLQzZ4cFZucVVoLWVwV2ZJUHJqNVpiMVpMUDdicUdWZXpjdUlDRl9RaGNKQWd6UGJjclNLbGRQZml2LXF3Y190VUJxWWRPYXBheDRxTl9OalVaUQ?oc=5",
+    "publishedAt": "2026-09-17T22:08:35.000Z",
+    "summary": "Fontaines D.C. share ‘Dopamine Chamber’ tracklist – featuring collab with Rosalía NME",
     "image": null
   },
   {
@@ -123,6 +204,24 @@
     "url": "https://www.rollingstone.com/music/music-features/peter-rosenberg-israel-macklemore-interview-1235628597/",
     "publishedAt": "2026-09-17T22:08:11.000Z",
     "summary": "The media personality discusses the impossible middle ground of the Middle East conflict",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMivwFBVV95cUxNdk45NWZFSXBjYUJMR2hvY1hxRl9JSUFHN00zUnFWc2pNcGpYX1U3V1JLb1dhT2dZX25Tb2tFVG5QNTJKU3E0NGNpcDVRaXQzSGx6eW5CTDdPUlNmdmhxcGZyMXZsQ1ktWWREdVNyUlFoc3ktU2FLU1JfTjdUdVdxajVoNG00WVl1ejkyWlBDQ1F4alByNUwyT29qVnVnSkVrVF9mamdjbHMtdTNpZVI0S1dtYjVJNzJUZUhKS0Myaw?oc=5",
+    "source": "nme",
+    "title": "La Roux opens up about how she \"had a nervous breakdown and disappeared for 10 years\" - NME",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdk45NWZFSXBjYUJMR2hvY1hxRl9JSUFHN00zUnFWc2pNcGpYX1U3V1JLb1dhT2dZX25Tb2tFVG5QNTJKU3E0NGNpcDVRaXQzSGx6eW5CTDdPUlNmdmhxcGZyMXZsQ1ktWWREdVNyUlFoc3ktU2FLU1JfTjdUdVdxajVoNG00WVl1ejkyWlBDQ1F4alByNUwyT29qVnVnSkVrVF9mamdjbHMtdTNpZVI0S1dtYjVJNzJUZUhKS0Myaw?oc=5",
+    "publishedAt": "2026-09-17T22:04:35.000Z",
+    "summary": "La Roux opens up about how she \"had a nervous breakdown and disappeared for 10 years\" NME",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeFphNWZjS0FwSmp1eWxqcUZCdTQxMFRUVWJnOWRnYUY0bmlhb1QxME1Cc3gtUk1Ebi1oS2ZtTGxiemdvaFRQMVFpcmkwQTE3WVp4aDRQRjlabzVLQi1PS0dBbUx3N2JKNHNtUms1Um1DTjIxSE5VZjN5cUFubG0tc0Q1Tl9CVkg2UWNyVjZVMkRKTDcyc0k2V2lHOVFyYTBGWlRoZTlDd0ppQlVKMHZXeGJOUHlpSjFEQ1NqcC1nLTg?oc=5",
+    "source": "nme",
+    "title": "Billy Bragg says \"if I was Ed Sheeran, I'd swallow my pride and cancel the tour\" to avoid \"tarnishing career\" and \"becoming a pariah” - NME",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeFphNWZjS0FwSmp1eWxqcUZCdTQxMFRUVWJnOWRnYUY0bmlhb1QxME1Cc3gtUk1Ebi1oS2ZtTGxiemdvaFRQMVFpcmkwQTE3WVp4aDRQRjlabzVLQi1PS0dBbUx3N2JKNHNtUms1Um1DTjIxSE5VZjN5cUFubG0tc0Q1Tl9CVkg2UWNyVjZVMkRKTDcyc0k2V2lHOVFyYTBGWlRoZTlDd0ppQlVKMHZXeGJOUHlpSjFEQ1NqcC1nLTg?oc=5",
+    "publishedAt": "2026-09-17T20:48:05.000Z",
+    "summary": "Billy Bragg says \"if I was Ed Sheeran, I'd swallow my pride and cancel the tour\" to avoid \"tarnishing career\" and \"becoming a pariah” NME",
     "image": null
   },
   {
@@ -207,15 +306,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/lisa-shaboozey-gunna-mtv-video-music-awards-performers-1235628383/",
-    "source": "rolling-stone",
-    "title": "Lisa, Shaboozey, Gunna Join 2026 VMAs Performers Lineup",
-    "url": "https://www.rollingstone.com/music/music-news/lisa-shaboozey-gunna-mtv-video-music-awards-performers-1235628383/",
-    "publishedAt": "2026-09-17T16:02:52.000Z",
-    "summary": "Raye, Gener8tion, Yung Lean, and more join awards show lineup",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/oasis-dont-look-back-in-anger-review/",
     "source": "loudwire",
     "title": "Oasis' New Film Is the Reconciliation Felt Around the World",
@@ -234,21 +324,12 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/2026-americana-honors-awards-winners-list-molly-tuttle-1235628341/",
-    "source": "rolling-stone",
-    "title": "Molly Tuttle, Brandi Carlile Are the Big Winners at 2026 Americana Honors & Awards",
-    "url": "https://www.rollingstone.com/music/music-country/2026-americana-honors-awards-winners-list-molly-tuttle-1235628341/",
-    "publishedAt": "2026-09-17T15:30:55.000Z",
-    "summary": "Dolly Parton was also honored with a Lifetime Achievement Award, which she accepted in a video recorded before her death",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/rolling-stone-residency-live-1235558769/",
-    "source": "rolling-stone",
-    "title": "Rolling Stone Residency Continues With Vince Staples at New York’s Cherry Lane Theatre",
-    "url": "https://www.rollingstone.com/music/music-news/rolling-stone-residency-live-1235558769/",
-    "publishedAt": "2026-09-17T15:05:40.000Z",
-    "summary": "The historic West Village venue will host six exclusive interviews and intimate performances this year",
+    "id": "nme-https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTnRHM1lrajZFdUJKT2NacHhEbHZ2bVMtbDJxNTRjTU0wbHFFRGpZOHNMVzZlV3g4TnRYZU9CaWN0Y09weFVRa2EwQ0NXTUNrcmdZSHdZWDJUSFMwMlc0VDE3bEt4WE9wQV9IVUtWdUhYQTRid1pZZS04RGNqSndEMllUVDM2ZGx1UnBQRjlMbG9iS0F2czdPazNMdHlxZngyTTIwSnFaSmlkQms?oc=5",
+    "source": "nme",
+    "title": "‘Resident Evil’ review: there's life in this zombie franchise yet - NME",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTnRHM1lrajZFdUJKT2NacHhEbHZ2bVMtbDJxNTRjTU0wbHFFRGpZOHNMVzZlV3g4TnRYZU9CaWN0Y09weFVRa2EwQ0NXTUNrcmdZSHdZWDJUSFMwMlc0VDE3bEt4WE9wQV9IVUtWdUhYQTRid1pZZS04RGNqSndEMllUVDM2ZGx1UnBQRjlMbG9iS0F2czdPazNMdHlxZngyTTIwSnFaSmlkQms?oc=5",
+    "publishedAt": "2026-09-17T15:42:45.000Z",
+    "summary": "‘Resident Evil’ review: there's life in this zombie franchise yet NME",
     "image": null
   },
   {
@@ -258,15 +339,6 @@
     "url": "https://pitchfork.com/story/michelle-zauner-announces-new-memoir-thank-you-for-your-suffering/",
     "publishedAt": "2026-09-17T14:58:07.000Z",
     "summary": "The second book from the Japanese Breakfast auteur documents her year abroad in South Korea",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMitgFBVV95cUxPUHFwT2tBZTVoWDBUN3JTbWpaYUQ2UzVINjlNa2hlSFUtX1ZTdnc3YWJsMEhvMmktUWFRdl9FRHJXTmF6N1Rya2k1cUJLbC03N1RyTXMyWlE1YklzMkVVQ3Z4alJLQzZ4cFZucVVoLWVwV2ZJUHJqNVpiMVpMUDdicUdWZXpjdUlDRl9RaGNKQWd6UGJjclNLbGRQZml2LXF3Y190VUJxWWRPYXBheDRxTl9OalVaUQ?oc=5",
-    "source": "nme",
-    "title": "Fontaines D.C. share ‘Dopamine Chamber’ tracklist – featuring collab with Rosalía - NME",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUHFwT2tBZTVoWDBUN3JTbWpaYUQ2UzVINjlNa2hlSFUtX1ZTdnc3YWJsMEhvMmktUWFRdl9FRHJXTmF6N1Rya2k1cUJLbC03N1RyTXMyWlE1YklzMkVVQ3Z4alJLQzZ4cFZucVVoLWVwV2ZJUHJqNVpiMVpMUDdicUdWZXpjdUlDRl9RaGNKQWd6UGJjclNLbGRQZml2LXF3Y190VUJxWWRPYXBheDRxTl9OalVaUQ?oc=5",
-    "publishedAt": "2026-09-17T14:37:06.000Z",
-    "summary": "Fontaines D.C. share ‘Dopamine Chamber’ tracklist – featuring collab with Rosalía NME",
     "image": null
   },
   {
@@ -333,12 +405,21 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeFphNWZjS0FwSmp1eWxqcUZCdTQxMFRUVWJnOWRnYUY0bmlhb1QxME1Cc3gtUk1Ebi1oS2ZtTGxiemdvaFRQMVFpcmkwQTE3WVp4aDRQRjlabzVLQi1PS0dBbUx3N2JKNHNtUms1Um1DTjIxSE5VZjN5cUFubG0tc0Q1Tl9CVkg2UWNyVjZVMkRKTDcyc0k2V2lHOVFyYTBGWlRoZTlDd0ppQlVKMHZXeGJOUHlpSjFEQ1NqcC1nLTg?oc=5",
+    "id": "kerrang-https://news.google.com/rss/articles/CBMigAFBVV95cUxQUXBLNUp3V2U4dFVxa3RfQmFvek1vdzBYVmhGQWNmVE1jbU5CMV9sdWx0TEpSZF9rUmp1cXFSNm5WVUM4NVFUbmktaGNQcFlPbGQtRzJFckppcDlDOExia0xHRkFYLTE1WFhMVnA4blU3RF9MSXZzcnBIT2ZoeERvZA?oc=5",
+    "source": "kerrang",
+    "title": "“Industry plant? She thinks those conversations are hilarious”: Inside the weird world of Cenobia - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUXBLNUp3V2U4dFVxa3RfQmFvek1vdzBYVmhGQWNmVE1jbU5CMV9sdWx0TEpSZF9rUmp1cXFSNm5WVUM4NVFUbmktaGNQcFlPbGQtRzJFckppcDlDOExia0xHRkFYLTE1WFhMVnA4blU3RF9MSXZzcnBIT2ZoeERvZA?oc=5",
+    "publishedAt": "2026-09-17T10:54:27.000Z",
+    "summary": "“Industry plant? She thinks those conversations are hilarious”: Inside the weird world of Cenobia Kerrang!",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMitAFBVV95cUxQUDVyeGdyVjRkX2E2M3cydk9SN19kRGZpaW1rTzBqczhmR3ViZHlGM0gxRDFhRnZBVVpFQk1xTzd6VWl3dUFnOWdIRVNjTGIxVTVDeXZpcUdFQy1waUU2Z3pyQ0tmTWU2RWxZRi1QRkUzU2xnblpYamxHM1NGcFlhZHYtTUlZVlI2MnJKRG1LZmV4N3YwbFVVaUdpRXlGYV9ZVXRXTUZxQ01HbllVQmlpaXgwdXI?oc=5",
     "source": "nme",
-    "title": "Billy Bragg says \"if I was Ed Sheeran, I'd swallow my pride and cancel the tour\" to avoid \"tarnishing career\" and \"becoming a pariah” - NME",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeFphNWZjS0FwSmp1eWxqcUZCdTQxMFRUVWJnOWRnYUY0bmlhb1QxME1Cc3gtUk1Ebi1oS2ZtTGxiemdvaFRQMVFpcmkwQTE3WVp4aDRQRjlabzVLQi1PS0dBbUx3N2JKNHNtUms1Um1DTjIxSE5VZjN5cUFubG0tc0Q1Tl9CVkg2UWNyVjZVMkRKTDcyc0k2V2lHOVFyYTBGWlRoZTlDd0ppQlVKMHZXeGJOUHlpSjFEQ1NqcC1nLTg?oc=5",
-    "publishedAt": "2026-09-17T10:01:21.000Z",
-    "summary": "Billy Bragg says \"if I was Ed Sheeran, I'd swallow my pride and cancel the tour\" to avoid \"tarnishing career\" and \"becoming a pariah” NME",
+    "title": "Watch The Heartbreakers reunite alongside Chris Stapleton at Americana Awards 2026 - NME",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUDVyeGdyVjRkX2E2M3cydk9SN19kRGZpaW1rTzBqczhmR3ViZHlGM0gxRDFhRnZBVVpFQk1xTzd6VWl3dUFnOWdIRVNjTGIxVTVDeXZpcUdFQy1waUU2Z3pyQ0tmTWU2RWxZRi1QRkUzU2xnblpYamxHM1NGcFlhZHYtTUlZVlI2MnJKRG1LZmV4N3YwbFVVaUdpRXlGYV9ZVXRXTUZxQ01HbllVQmlpaXgwdXI?oc=5",
+    "publishedAt": "2026-09-17T10:52:17.000Z",
+    "summary": "Watch The Heartbreakers reunite alongside Chris Stapleton at Americana Awards 2026 NME",
     "image": null
   },
   {
@@ -387,39 +468,12 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/story/porridge-radios-dana-margolin-launches-debut-solo-single/",
-    "source": "pitchfork",
-    "title": "Porridge Radio’s Dana Margolin Launches Debut Solo Single",
-    "url": "https://pitchfork.com/story/porridge-radios-dana-margolin-launches-debut-solo-single/",
-    "publishedAt": "2026-09-16T17:53:23.000Z",
-    "summary": "The Brighton four-piece announced their breakup last year",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/listen-to-dexter-in-the-newsagent-new-song-fantasy/",
-    "source": "pitchfork",
-    "title": "Listen to Dexter in the Newsagent’s New Song “Fantasy”",
-    "url": "https://pitchfork.com/story/listen-to-dexter-in-the-newsagent-new-song-fantasy/",
-    "publishedAt": "2026-09-16T17:22:22.000Z",
-    "summary": "The British singer-songwriter and producer’s first single of 2026",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/news/send-us-your-questions-for-black-sabbath-tony-iommi-156283/",
     "source": "uncut",
     "title": "Send us your questions for Black Sabbath’s Tony Iommi!",
     "url": "https://www.uncut.co.uk/news/send-us-your-questions-for-black-sabbath-tony-iommi-156283/",
     "publishedAt": "2026-09-16T16:47:53.000Z",
     "summary": "The Godfather Of Heavy Metal will field your enquiries in a future issue of Uncut",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/falling-in-reverse-ronnie-radke-yungblud-industry-plant/",
-    "source": "loudwire",
-    "title": "Ronnie Radke Gives Honest Assessment of Yungblud",
-    "url": "https://loudwire.com/falling-in-reverse-ronnie-radke-yungblud-industry-plant/",
-    "publishedAt": "2026-09-16T15:31:17.000Z",
-    "summary": "Ronnie Radke shares his honest thoughts on the 'industry plant' speculation surrounding Yungblud. Continue reading…",
     "image": null
   },
   {
@@ -438,15 +492,6 @@
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaWFacldKLWtMVHlvMDRhZkJyZVNLbF9XVmRLbTBhS1BENVB0LUhaTDV4NEZQN1dTQkJaZjJEcXZnejBzNTVHUU5zSTUyWmVzWm5Zc3gxYXEwMXRMNHpVNUdnaXR0amZIRzBGRUs2eFpZM3pKbVIyUjFfbGJ6bmlUU1NDVXNvWi1Sa1ZMc0VRWkpCXzVKQzczOUl2SUl0YklDUm9vM2MwVUxSbkdzMlpiNmljRQ?oc=5",
     "publishedAt": "2026-09-16T14:52:28.000Z",
     "summary": "Oasis’ second ‘Live ’27’ Paris show under threat of cancellation, report claims NME",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/ozzy-black-sabbath-back-to-the-beginning-concert-film-theaters/",
-    "source": "loudwire",
-    "title": "Ozzy + Black Sabbath's Final Show to Get Limited Theater Release ",
-    "url": "https://loudwire.com/ozzy-black-sabbath-back-to-the-beginning-concert-film-theaters/",
-    "publishedAt": "2026-09-16T14:41:46.000Z",
-    "summary": "The legendary Ozzy Osbourne and Black Sabbath 'Back to the Beginning' concert is now coming via a concert film to movie screens worldwide. Continue reading…",
     "image": null
   },
   {
@@ -522,15 +567,6 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMirgFBVV95cUxQaDZfMEdmbXctRnFGLTV6VmZ1TVlHOXhBbFlibHZ5ellySnpldmZpV2JweVUwbjhOOExZdGx5aEs2QWpBYzJ2VFVfZTF6WnI3MWNGbEdXY3MxdmRyaEtzdUpMRkR0dkY4NWxteFlHZ1RFT2dnTkJQRER3U3ZWNlhHbG1ZRXBGN0IxQnZTMkQ0Z3pYc3JqX3FJWU9YbUU3bnRyeEpkRmdIdmJ4blltQUE?oc=5",
-    "source": "nme",
-    "title": "Kelly Osbourne shares why she’s cut ties with sister and musician Aimée - NME",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaDZfMEdmbXctRnFGLTV6VmZ1TVlHOXhBbFlibHZ5ellySnpldmZpV2JweVUwbjhOOExZdGx5aEs2QWpBYzJ2VFVfZTF6WnI3MWNGbEdXY3MxdmRyaEtzdUpMRkR0dkY4NWxteFlHZ1RFT2dnTkJQRER3U3ZWNlhHbG1ZRXBGN0IxQnZTMkQ0Z3pYc3JqX3FJWU9YbUU3bnRyeEpkRmdIdmJ4blltQUE?oc=5",
-    "publishedAt": "2026-09-16T08:02:20.000Z",
-    "summary": "Kelly Osbourne shares why she’s cut ties with sister and musician Aimée NME",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/oasis-and-the-future-why-must-the-future-sound-futuristic/",
     "source": "louder-than-war",
     "title": "Why Must the Future Sound Futuristic?",
@@ -540,30 +576,12 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMixAFBVV95cUxNazBmejVNY29iMTF0OTB5eEdPQTRJQTZndkVsN0Y1c3c3VXBiNDNENFYwWjRxbWx5R0dnLXNHX0tZNUluWkZ5YmZsR0gzdnFGbkZBbUN0SVo5SmVrZ2VzcGJuLWVRTVcxZGVYR3VpR2x1dzZET0VWN3paZXFoU1dRd0xGc3RKZXdubkNtMlBnNzlUR1ZWMkZJanV0cXBHdFJzb2l6cTZ1YTBMOGViNlBTR3JuNHYxdV9zVmRDR1Q4R1R1LWND?oc=5",
-    "source": "nme",
-    "title": "Lily Allen praises David Harbour’s “generous” reaction to her break-up album ‘West End Girl’ - NME",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNazBmejVNY29iMTF0OTB5eEdPQTRJQTZndkVsN0Y1c3c3VXBiNDNENFYwWjRxbWx5R0dnLXNHX0tZNUluWkZ5YmZsR0gzdnFGbkZBbUN0SVo5SmVrZ2VzcGJuLWVRTVcxZGVYR3VpR2x1dzZET0VWN3paZXFoU1dRd0xGc3RKZXdubkNtMlBnNzlUR1ZWMkZJanV0cXBHdFJzb2l6cTZ1YTBMOGViNlBTR3JuNHYxdV9zVmRDR1Q4R1R1LWND?oc=5",
-    "publishedAt": "2026-09-16T06:39:27.000Z",
-    "summary": "Lily Allen praises David Harbour’s “generous” reaction to her break-up album ‘West End Girl’ NME",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/roger-eno-london-union-chapel-live-review/",
     "source": "louder-than-war",
     "title": "Roger Eno: Union Chapel, London – Live Review",
     "url": "https://louderthanwar.com/roger-eno-london-union-chapel-live-review/",
     "publishedAt": "2026-09-16T06:20:25.000Z",
     "summary": "Roger Eno brings his elegant minimalism to London The post Roger Eno: Union Chapel, London – Live Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMHRJRXVMaG9YZkkyVXgxOVpBTEFWUE9KQVdvaWhwQlhmVlltYmVKV1hmOVk2TThaTW5DSTMwMGIxLU44YlZrakVUcXhhRzI2bmdhTHhyamd0YmpuMVBEb1Q3aGRlaW5BdDJaOWtwbzl1VHpxeUNKYkFTMlNLM3FSMmozVDY3WlNQcHBzdnY0QWJiVklYOExNcHlaQ1l0RVVRaXlRWlAyU2tjWmpsZzVSSTg2VnB6cm9CU2RtcVFaR0VsRlk?oc=5",
-    "source": "nme",
-    "title": "All support acts and backing band pull out of Ed Sheeran's tour over Macklemore Palestine controversy - NME",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMHRJRXVMaG9YZkkyVXgxOVpBTEFWUE9KQVdvaWhwQlhmVlltYmVKV1hmOVk2TThaTW5DSTMwMGIxLU44YlZrakVUcXhhRzI2bmdhTHhyamd0YmpuMVBEb1Q3aGRlaW5BdDJaOWtwbzl1VHpxeUNKYkFTMlNLM3FSMmozVDY3WlNQcHBzdnY0QWJiVklYOExNcHlaQ1l0RVVRaXlRWlAyU2tjWmpsZzVSSTg2VnB6cm9CU2RtcVFaR0VsRlk?oc=5",
-    "publishedAt": "2026-09-16T05:36:35.000Z",
-    "summary": "All support acts and backing band pull out of Ed Sheeran's tour over Macklemore Palestine controversy NME",
     "image": null
   },
   {
@@ -596,10 +614,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMirgFBVV95cUxPbDdZNi10WEk5YTVqUGNyaVVJVUYtTHI2OFFERzlTY05WWXk0LTc4RG8zb1YxdGVpLU83ZWhNVC1JcHZMQ2taTFFncVdkd1NRejJHVEE1SjBaZlJCQXpXVDRHR1NVN3ZYTGNNdXN2VzNjNTBMR1BKTHIxYks0YzBkamEyT3ZvMno3aHpVWTFtMzVqRDZSbGNTZUQ2Zm5HbVV2bmdNQWdNaGd2cjA3NXc?oc=5",
     "source": "kerrang",
-    "title": "Live review: Spiritbox, Nottingham Motorpoint Arena - kerrang.com",
+    "title": "Live review: Spiritbox, Nottingham Motorpoint Arena - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbDdZNi10WEk5YTVqUGNyaVVJVUYtTHI2OFFERzlTY05WWXk0LTc4RG8zb1YxdGVpLU83ZWhNVC1JcHZMQ2taTFFncVdkd1NRejJHVEE1SjBaZlJCQXpXVDRHR1NVN3ZYTGNNdXN2VzNjNTBMR1BKTHIxYks0YzBkamEyT3ZvMno3aHpVWTFtMzVqRDZSbGNTZUQ2Zm5HbVV2bmdNQWdNaGd2cjA3NXc?oc=5",
     "publishedAt": "2026-09-15T14:30:00.000Z",
-    "summary": "Live review: Spiritbox, Nottingham Motorpoint Arena kerrang.com",
+    "summary": "Live review: Spiritbox, Nottingham Motorpoint Arena Kerrang!",
     "image": null
   },
   {
@@ -632,10 +650,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMigAFBVV95cUxOMlNJSlVGeERFTG9zN09odEhLb04waGJDZkZiNVI1VENXY21fbXJkSTBnUDBSNHFOVlVCZDZJNlpfd0tJMzVyaW5JZWRQLS1fNTBaTnpTV29hUjRJNUpKN2pieFJBd2ZGbUpFam13MWVSeDRFUXJocm5NQXlGcTRHcg?oc=5",
     "source": "kerrang",
-    "title": "Album review: Riff Wood - Butterfly In Black And White - kerrang.com",
+    "title": "Album review: Riff Wood - Butterfly In Black And White - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMlNJSlVGeERFTG9zN09odEhLb04waGJDZkZiNVI1VENXY21fbXJkSTBnUDBSNHFOVlVCZDZJNlpfd0tJMzVyaW5JZWRQLS1fNTBaTnpTV29hUjRJNUpKN2pieFJBd2ZGbUpFam13MWVSeDRFUXJocm5NQXlGcTRHcg?oc=5",
     "publishedAt": "2026-09-15T07:19:00.000Z",
-    "summary": "Album review: Riff Wood - Butterfly In Black And White kerrang.com",
+    "summary": "Album review: Riff Wood - Butterfly In Black And White Kerrang!",
     "image": null
   },
   {
@@ -650,10 +668,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMiigFBVV95cUxOYUVNckxOMWVoaGVpemdzLTdET1JWeTM3THhwTi11WkVzN3dOZ3AzTWZKdGpVcFBTd3kxeTFKU1M4R2txTEduZkUtZXE0V1JlTV8wT09SMF9xZWtpNG5zM3NvN0hPWmxVTnZpODBQUnQtbzFTVklqbE1UQnR5VzJ3aUtqSGNYclg0Q2c?oc=5",
     "source": "kerrang",
-    "title": "Live review: Evanescence, London The O2 - kerrang.com",
+    "title": "Live review: Evanescence, London The O2 - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYUVNckxOMWVoaGVpemdzLTdET1JWeTM3THhwTi11WkVzN3dOZ3AzTWZKdGpVcFBTd3kxeTFKU1M4R2txTEduZkUtZXE0V1JlTV8wT09SMF9xZWtpNG5zM3NvN0hPWmxVTnZpODBQUnQtbzFTVklqbE1UQnR5VzJ3aUtqSGNYclg0Q2c?oc=5",
     "publishedAt": "2026-09-14T14:30:00.000Z",
-    "summary": "Live review: Evanescence, London The O2 kerrang.com",
+    "summary": "Live review: Evanescence, London The O2 Kerrang!",
     "image": null
   },
   {
@@ -677,10 +695,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMid0FVX3lxTE1QOUc3ZDdmWjVReHpEeXk4Vmg1VFBGN1ZsQXFROGFBNjFGSTBmLWxqZERGLTVjbFh0eF9TVHVHcGNubG1zTm1IR053MVlnTXhqX2xoS2tPbklhcWQ2X0FQZ1BoTno0T1I3NFRWTHVMMmZvRXpXV0dF?oc=5",
     "source": "kerrang",
-    "title": "Album review: Honey Revenge – Loving And Losing - kerrang.com",
+    "title": "Album review: Honey Revenge – Loving And Losing - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QOUc3ZDdmWjVReHpEeXk4Vmg1VFBGN1ZsQXFROGFBNjFGSTBmLWxqZERGLTVjbFh0eF9TVHVHcGNubG1zTm1IR053MVlnTXhqX2xoS2tPbklhcWQ2X0FQZ1BoTno0T1I3NFRWTHVMMmZvRXpXV0dF?oc=5",
     "publishedAt": "2026-09-14T09:26:00.000Z",
-    "summary": "Album review: Honey Revenge – Loving And Losing kerrang.com",
+    "summary": "Album review: Honey Revenge – Loving And Losing Kerrang!",
     "image": null
   },
   {
@@ -699,24 +717,6 @@
     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRWZ6U1RNUzNmU2JrUnhLMFFVS1pzYmRlNy15X1hDYXFGRFM0UWdaaHE2WktLWG56TlRPSEd3b0FGSThuNm9fZDdJSDZBRUF0Y3RuQW9WakFqeDBQTS1SRnpyc2ZIZDY0QW5kQmM0MmJSb3RzZXZhTy16QzQ4VEx1ZWZ5YTUzSDN3VW90a0g3M21TOC1GMjRFbWV1SjBvV0JTUFBEUTNqTmd6MWJhY1VmczlUUG4xQnZpRXY1NWk0UTNNa0tXbjg2MEF6RjQ?oc=5",
     "publishedAt": "2026-09-14T08:35:00.000Z",
     "summary": "Watch Amy Lee, Poppy and Courtney LaPlante perform End Of You live together for the first time Kerrang!",
-    "image": null
-  },
-  {
-    "id": "uncut-https://www.uncut.co.uk/features/why-the-byrds-were-the-most-influential-american-band-of-the-1960s-156050/",
-    "source": "uncut",
-    "title": "Why the Byrds were the most influential American band of the 1960s",
-    "url": "https://www.uncut.co.uk/features/why-the-byrds-were-the-most-influential-american-band-of-the-1960s-156050/",
-    "publishedAt": "2026-09-14T08:16:49.000Z",
-    "summary": "From folk-rock to psychedelic rock and country-rock, no American band changed music more often",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMiowFBVV95cUxNMkI0QnRaM3c0OFZIMDZGa1ozcDNRcENad0JtZW9XbDZrSzJxQ01aS3paYXIxdmJVRmttQks3LXV0SnctdDRTN2NzNWFCd3lORXF4NnRpSGJaQWNpQmswUnBmamV6MGxXY1hsN3lRWExpY0NfdXpndGF5UzhvTEJxUUJ6NFJGaXJDZ05CRnZGdXJrWGM0VVhlU0tMblFPYThwclZv?oc=5",
-    "source": "kerrang",
-    "title": "Slipknot’s surprise single Arsenal is not on their new album, Jim Root confirms - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMkI0QnRaM3c0OFZIMDZGa1ozcDNRcENad0JtZW9XbDZrSzJxQ01aS3paYXIxdmJVRmttQks3LXV0SnctdDRTN2NzNWFCd3lORXF4NnRpSGJaQWNpQmswUnBmamV6MGxXY1hsN3lRWExpY0NfdXpndGF5UzhvTEJxUUJ6NFJGaXJDZ05CRnZGdXJrWGM0VVhlU0tMblFPYThwclZv?oc=5",
-    "publishedAt": "2026-09-11T09:16:00.000Z",
-    "summary": "Slipknot’s surprise single Arsenal is not on their new album, Jim Root confirms Kerrang!",
     "image": null
   }
 ]
