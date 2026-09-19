@@ -1,5 +1,23 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/concerts/charlie-puth-cancels-2026-australian-new-zealand-tour-1236343893/",
+    "source": "billboard",
+    "title": "Charlie Puth Cancels Australian and New Zealand Arena Dates",
+    "url": "https://www.billboard.com/music/concerts/charlie-puth-cancels-2026-australian-new-zealand-tour-1236343893/",
+    "publishedAt": "2026-09-19T06:00:30.000Z",
+    "summary": "No reason for the cancellation has been announced.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/ed-sheeran-macklemore-fallout-aaron-rowe-defends-singer-1236343894/",
+    "source": "billboard",
+    "title": "Former Ed Sheeran Opener Aaron Rowe Defends Singer Amid Macklemore Tour Fallout",
+    "url": "https://www.billboard.com/music/pop/ed-sheeran-macklemore-fallout-aaron-rowe-defends-singer-1236343894/",
+    "publishedAt": "2026-09-19T05:45:25.000Z",
+    "summary": "“I haven’t had a chance to talk to Ed too much, but I fully believe he knows that was a mistake,” Rowe said.",
+    "image": null
+  },
+  {
     "id": "loudwire-https://loudwire.com/papa-roach-cancels-louder-than-life/",
     "source": "loudwire",
     "title": "Papa Roach Bassist's Health 'Emergency' Forces Festival Exit",
@@ -87,24 +105,6 @@
     "url": "https://www.billboard.com/music/music-news/vaundy-concert-live-recap-makuharimesse-chiba-japan-1236343809/",
     "publishedAt": "2026-09-18T22:04:47.000Z",
     "summary": "Opening with a two-night run at Makuhari Messe in Chiba, Japan, this large-scale tour spans East Asia, making stops in Seoul, Hong Kong, Fukuoka, and Taipei.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/yama-wayama-onna-no-sono-no-hoshi-5-tops-japan-book-hot-100-1236343805/",
-    "source": "billboard",
-    "title": "Yama Wayama’s ‘Onna no Sono no Hoshi’ Vol. 5 Tops Billboard Japan Book Hot 100",
-    "url": "https://www.billboard.com/music/chart-beat/yama-wayama-onna-no-sono-no-hoshi-5-tops-japan-book-hot-100-1236343805/",
-    "publishedAt": "2026-09-18T22:01:38.000Z",
-    "summary": "Debuting at No. 2 is Kaoru Hana wa Rin to Saku Vol. 24, which received an anime adaptation last year.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/ebidan-yes-tokyo-third-week-number-1-japan-hot-100-1236343796/",
-    "source": "billboard",
-    "title": "EBiDAN’s ‘Yes! Tokyo’ Logs Third Week at No. 1 on Japan Hot 100 as Aimyon’s ‘Marigold’ Returns to Top 10 After Six Years",
-    "url": "https://www.billboard.com/music/chart-beat/ebidan-yes-tokyo-third-week-number-1-japan-hot-100-1236343796/",
-    "publishedAt": "2026-09-18T21:57:55.000Z",
-    "summary": "SixTONES' \"Dance Forever\" is at No. 2.",
     "image": null
   },
   {
@@ -213,6 +213,24 @@
     "url": "https://loudwire.com/anthrax-cursum-perficio-review/",
     "publishedAt": "2026-09-18T16:06:25.000Z",
     "summary": "The wait is over, Anthrax's new album 'Cursum Perficio' is finally here! Continue reading…",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMiugFBVV95cUxPcFFkWnhTS3lhcUF5OW5YTFdVWVBIN0o4ajFGRGdJQWtrOEJ0RlI2aGh6dTZTc0Zoc3BTWE1Pdi1WV1lxSWV1SkE4TkdlcEhhcDROUmJrbWU2eGp1ZmozaHV0SnpCVE1PaGpsSTRIOVpkalB4YnJqZUZsSlRkTExMT210dVMzbkt5RFN4U3Q2RTd4TEVQSlc5SFBjbTMxVHFkamlNUFdJRDVNdjJ5VGZGOEtndUlUNDBLN3c?oc=5",
+    "source": "nme",
+    "title": "Interpol and Queens Of The Stone Age announce huge Mexico City gig - nme.com",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcFFkWnhTS3lhcUF5OW5YTFdVWVBIN0o4ajFGRGdJQWtrOEJ0RlI2aGh6dTZTc0Zoc3BTWE1Pdi1WV1lxSWV1SkE4TkdlcEhhcDROUmJrbWU2eGp1ZmozaHV0SnpCVE1PaGpsSTRIOVpkalB4YnJqZUZsSlRkTExMT210dVMzbkt5RFN4U3Q2RTd4TEVQSlc5SFBjbTMxVHFkamlNUFdJRDVNdjJ5VGZGOEtndUlUNDBLN3c?oc=5",
+    "publishedAt": "2026-09-18T15:52:52.000Z",
+    "summary": "Interpol and Queens Of The Stone Age announce huge Mexico City gig nme.com",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUXdWVGJlRlhPclhlVnItaWZ4SjRmWkF5T2oydUdVTjZtb0w4NWRyNjAyUldnZk1BaDU0MnZnUDhfaUF4allxYnBoZGpBZTRFT1JhWE5zUW9OYjBzQzR6aHpxVUxWSE93ZWNuZEp5R0FBaDFNbHlZUllaU1dDbDB0NjY3cG1pOFpVWnF4a2xCckdoSlViMTBCUGNYbDQwM1VLdk1QUXJnMFVXNWw3Z0ZPNXJMdUhLTThIRG1MMC04N3FBdw?oc=5",
+    "source": "nme",
+    "title": "'MobLand' stars Pierce Brosnan and Helen Mirren were \"blindsided\" by \"false\" Tom Hardy rumours - nme.com",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUXdWVGJlRlhPclhlVnItaWZ4SjRmWkF5T2oydUdVTjZtb0w4NWRyNjAyUldnZk1BaDU0MnZnUDhfaUF4allxYnBoZGpBZTRFT1JhWE5zUW9OYjBzQzR6aHpxVUxWSE93ZWNuZEp5R0FBaDFNbHlZUllaU1dDbDB0NjY3cG1pOFpVWnF4a2xCckdoSlViMTBCUGNYbDQwM1VLdk1QUXJnMFVXNWw3Z0ZPNXJMdUhLTThIRG1MMC04N3FBdw?oc=5",
+    "publishedAt": "2026-09-18T15:50:30.000Z",
+    "summary": "'MobLand' stars Pierce Brosnan and Helen Mirren were \"blindsided\" by \"false\" Tom Hardy rumours nme.com",
     "image": null
   },
   {
@@ -360,6 +378,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMisAFBVV95cUxPSlZCb1RzR0NEbWlHSmVOM0ZSRFJESnJYU3AyT3BXSFNfQWtPSHZxVmMwVzZyUk9sQWo5QjYzMlpHX0ZHQnE5OVphcDQxWFppWDlvT1JCNDFmNnJyZHJRMWY0aUNyeThxbldWTWR0YklLb2U1SC1PcWx5M3RJd25RbjQ3SXlkMUJhNFRVNm5SbEZDOC00N3Q5TjJIWUNyOE92YkhzOWduQ3FSM0dYVE9lNQ?oc=5",
+    "source": "nme",
+    "title": "Talking Heads to reunite for SiriusXM channel launch event with Este Haim - nme.com",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSlZCb1RzR0NEbWlHSmVOM0ZSRFJESnJYU3AyT3BXSFNfQWtPSHZxVmMwVzZyUk9sQWo5QjYzMlpHX0ZHQnE5OVphcDQxWFppWDlvT1JCNDFmNnJyZHJRMWY0aUNyeThxbldWTWR0YklLb2U1SC1PcWx5M3RJd25RbjQ3SXlkMUJhNFRVNm5SbEZDOC00N3Q5TjJIWUNyOE92YkhzOWduQ3FSM0dYVE9lNQ?oc=5",
+    "publishedAt": "2026-09-18T11:53:22.000Z",
+    "summary": "Talking Heads to reunite for SiriusXM channel launch event with Este Haim nme.com",
+    "image": null
+  },
+  {
     "id": "uncut-https://www.uncut.co.uk/reviews/neil-young-the-chrome-hearts-second-song-reviewed-a-moving-meditation-on-memory-love-and-mortality-156399/",
     "source": "uncut",
     "title": "Neil Young & The Chrome Hearts’ Second Song reviewed: an epic meditation on memory, love and mortality",
@@ -375,6 +402,15 @@
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYnMzUDJOU3VEY3RGZVh3WUUwdmh1cDZuaGVRS0tXS095bHhuXzAtNGhXRlpreHZHTUNaR1M2b2w3bm84NjRfOS1yYTVGc290MmpwLXBnSTVxaUJnU25ValJ4elMxaGVwZTE4Q3lnb3RwY09mRXpwNEZwQkt6anFwTHZ4QWt2UG1LLWYxY0VNTl9hQkxoa0dmeDVKRmFndGZoejN0bnUwcTFRa3M?oc=5",
     "publishedAt": "2026-09-18T11:39:52.000Z",
     "summary": "Emily Eavis responds to calls for Oasis at Glastonbury 2027 nme.com",
+    "image": null
+  },
+  {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMixAFBVV95cUxNTVE2U1J6VjB0ZDVMaDFuYTdyNHk3QzdoRlY1alVWSXEteDlHMUFwcDNudm50eDZGZGJmMkl5elJqMkt4TEVlTHo0ZnVYeGktODJUTzZHY1lYajd4UjNhVXp3TWszZ0VGLVlGSjZRRGpxbmhYNTZYU2J3YTdXajNSb1N1cFZhV213blBtM19uN1I2Qm9lVFZkVW8tS2c4eHVUTWluTTFjTWJ1bE9wRWRGaHFkQmpmOTQ0ZThWbHJndzJwRWJO?oc=5",
+    "source": "kerrang",
+    "title": "Melrose Avenue release stripped-back cover of Bring Me The Horizon’s Drown for Songs That Saved My Life - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTVE2U1J6VjB0ZDVMaDFuYTdyNHk3QzdoRlY1alVWSXEteDlHMUFwcDNudm50eDZGZGJmMkl5elJqMkt4TEVlTHo0ZnVYeGktODJUTzZHY1lYajd4UjNhVXp3TWszZ0VGLVlGSjZRRGpxbmhYNTZYU2J3YTdXajNSb1N1cFZhV213blBtM19uN1I2Qm9lVFZkVW8tS2c4eHVUTWluTTFjTWJ1bE9wRWRGaHFkQmpmOTQ0ZThWbHJndzJwRWJO?oc=5",
+    "publishedAt": "2026-09-18T11:01:00.000Z",
+    "summary": "Melrose Avenue release stripped-back cover of Bring Me The Horizon’s Drown for Songs That Saved My Life Kerrang!",
     "image": null
   },
   {
@@ -549,15 +585,6 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMitAFBVV95cUxQUDVyeGdyVjRkX2E2M3cydk9SN19kRGZpaW1rTzBqczhmR3ViZHlGM0gxRDFhRnZBVVpFQk1xTzd6VWl3dUFnOWdIRVNjTGIxVTVDeXZpcUdFQy1waUU2Z3pyQ0tmTWU2RWxZRi1QRkUzU2xnblpYamxHM1NGcFlhZHYtTUlZVlI2MnJKRG1LZmV4N3YwbFVVaUdpRXlGYV9ZVXRXTUZxQ01HbllVQmlpaXgwdXI?oc=5",
-    "source": "nme",
-    "title": "Watch The Heartbreakers reunite alongside Chris Stapleton at Americana Awards 2026 - nme.com",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUDVyeGdyVjRkX2E2M3cydk9SN19kRGZpaW1rTzBqczhmR3ViZHlGM0gxRDFhRnZBVVpFQk1xTzd6VWl3dUFnOWdIRVNjTGIxVTVDeXZpcUdFQy1waUU2Z3pyQ0tmTWU2RWxZRi1QRkUzU2xnblpYamxHM1NGcFlhZHYtTUlZVlI2MnJKRG1LZmV4N3YwbFVVaUdpRXlGYV9ZVXRXTUZxQ01HbllVQmlpaXgwdXI?oc=5",
-    "publishedAt": "2026-09-17T10:52:17.000Z",
-    "summary": "Watch The Heartbreakers reunite alongside Chris Stapleton at Americana Awards 2026 nme.com",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/features/31-artists-once-tipped-to-be-the-new-bob-dylan-155967/",
     "source": "uncut",
     "title": "31 artists once tipped to be “the new Bob Dylan”",
@@ -582,24 +609,6 @@
     "url": "https://louderthanwar.com/echo-and-the-bunnymen-apples-for-isaac-album-review/",
     "publishedAt": "2026-09-16T15:16:03.000Z",
     "summary": "Ian McCulloch has always been hard to predict. Sitting halfway between Shakespeare and Shankly, he’s as adept at crafting vivid couplets as he is at spouting terrace sentiments. It’s this potent and poetic clash of cultures and classes that elevated Echo And The Bunnymen’s soundscapes to celestial levels. Lately, though, the Liverpool legends – anchored […] The post Echo And The Bunnymen: Apples for Isaac – Album Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMiswFBVV95cUxPaWFacldKLWtMVHlvMDRhZkJyZVNLbF9XVmRLbTBhS1BENVB0LUhaTDV4NEZQN1dTQkJaZjJEcXZnejBzNTVHUU5zSTUyWmVzWm5Zc3gxYXEwMXRMNHpVNUdnaXR0amZIRzBGRUs2eFpZM3pKbVIyUjFfbGJ6bmlUU1NDVXNvWi1Sa1ZMc0VRWkpCXzVKQzczOUl2SUl0YklDUm9vM2MwVUxSbkdzMlpiNmljRQ?oc=5",
-    "source": "nme",
-    "title": "Oasis’ second ‘Live ’27’ Paris show under threat of cancellation, report claims - NME",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaWFacldKLWtMVHlvMDRhZkJyZVNLbF9XVmRLbTBhS1BENVB0LUhaTDV4NEZQN1dTQkJaZjJEcXZnejBzNTVHUU5zSTUyWmVzWm5Zc3gxYXEwMXRMNHpVNUdnaXR0amZIRzBGRUs2eFpZM3pKbVIyUjFfbGJ6bmlUU1NDVXNvWi1Sa1ZMc0VRWkpCXzVKQzczOUl2SUl0YklDUm9vM2MwVUxSbkdzMlpiNmljRQ?oc=5",
-    "publishedAt": "2026-09-16T14:52:28.000Z",
-    "summary": "Oasis’ second ‘Live ’27’ Paris show under threat of cancellation, report claims NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMisAFBVV95cUxOZjVfQWVQZFZqTTFSZ3RtWjNtU0dVLWM0S28tNkRPdHc4WnczNVNQdmticnc5V2pwWEdULXVxMzFVQ0ZoM1NTT2RGQWw3LXBfTjk5SnhBRXZ3ZFg3bFhudXVRRTJ1WGxvR2xoeTRsRDJhbjk1VV92XzlrdmhmRTF5Um03SV9nVGR2Z3dPYlk2V2YyaDdkUG9BcTM0TW1HWU04VGN4QXE2Y3RpS2RfODRuRA?oc=5",
-    "source": "nme",
-    "title": "Watch Angine de Poitrine play sprawling unreleased song 'Zugzegk' as they make US TV debut on 'Fallon' - nme.com",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZjVfQWVQZFZqTTFSZ3RtWjNtU0dVLWM0S28tNkRPdHc4WnczNVNQdmticnc5V2pwWEdULXVxMzFVQ0ZoM1NTT2RGQWw3LXBfTjk5SnhBRXZ3ZFg3bFhudXVRRTJ1WGxvR2xoeTRsRDJhbjk1VV92XzlrdmhmRTF5Um03SV9nVGR2Z3dPYlk2V2YyaDdkUG9BcTM0TW1HWU04VGN4QXE2Y3RpS2RfODRuRA?oc=5",
-    "publishedAt": "2026-09-16T13:08:58.000Z",
-    "summary": "Watch Angine de Poitrine play sprawling unreleased song 'Zugzegk' as they make US TV debut on 'Fallon' nme.com",
     "image": null
   },
   {
@@ -708,15 +717,6 @@
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUFp3cjNDMGhMa1FIalFKNlBPMzl6dGZLU3FmcC1Oa01uYngwamdLMEVmWlUyNDF2VjZ2YzdZS05JT1RpanBvdk8xem9mUkVNOWhHRHlkellzZEhCOVBmeXZPMHRhckQ4Sld3aUFlejZvQmtCdWdCWmNjZWJ3M09YSHZsNGNxRU9lLVljN3lxa2UwOW1CZUFDUS15emsySmtGLVA3dGNIMXQ1TkU?oc=5",
     "publishedAt": "2026-09-14T15:54:51.000Z",
     "summary": "The Warning announce huge Everything’s Falling world tour, including Wembley Arena date Kerrang!",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMiigFBVV95cUxOYUVNckxOMWVoaGVpemdzLTdET1JWeTM3THhwTi11WkVzN3dOZ3AzTWZKdGpVcFBTd3kxeTFKU1M4R2txTEduZkUtZXE0V1JlTV8wT09SMF9xZWtpNG5zM3NvN0hPWmxVTnZpODBQUnQtbzFTVklqbE1UQnR5VzJ3aUtqSGNYclg0Q2c?oc=5",
-    "source": "kerrang",
-    "title": "Live review: Evanescence, London The O2 - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYUVNckxOMWVoaGVpemdzLTdET1JWeTM3THhwTi11WkVzN3dOZ3AzTWZKdGpVcFBTd3kxeTFKU1M4R2txTEduZkUtZXE0V1JlTV8wT09SMF9xZWtpNG5zM3NvN0hPWmxVTnZpODBQUnQtbzFTVklqbE1UQnR5VzJ3aUtqSGNYclg0Q2c?oc=5",
-    "publishedAt": "2026-09-14T14:30:00.000Z",
-    "summary": "Live review: Evanescence, London The O2 Kerrang!",
     "image": null
   }
 ]
