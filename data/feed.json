@@ -1,29 +1,110 @@
 [
   {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/gnarls-barkley-2026-tour-dates-1236343949/",
+    "id": "billboard-https://www.billboard.com/lists/ed-sheeran-tour-drops-macklemore-timeline-controversy/",
     "source": "billboard",
-    "title": "Gnarls Barkley Back on the Road for First Time in 18 Years: See the Dates",
-    "url": "https://www.billboard.com/music/rb-hip-hop/gnarls-barkley-2026-tour-dates-1236343949/",
-    "publishedAt": "2026-09-19T18:46:28.000Z",
-    "summary": "CeeLo Green and Danger Mouse are bringing their 'To Whom It Still Concerns' Tour to nine North American cities this fall.",
+    "title": "A Timeline of the Ed Sheeran & Macklemore ‘Free Palestine’ Tour Controversy",
+    "url": "https://www.billboard.com/lists/ed-sheeran-tour-drops-macklemore-timeline-controversy/",
+    "publishedAt": "2026-09-20T02:42:45.000Z",
+    "summary": "The rapper was dropped from the trek after condemning the violence in Gaza onstage.",
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/dropkick-murphys-ken-casey-ed-sheeran-macklemore-loop-tour-1236343940/",
+    "id": "billboard-https://www.billboard.com/music/music-news/ed-sheeran-gaza-speech-philadelphia-concert-tour-1236344137/",
     "source": "billboard",
-    "title": "Dropkick Murphys’ Ken Casey Criticizes Ed Sheeran Over His Treatment of Macklemore: ‘Doesn’t Sit Right’",
-    "url": "https://www.billboard.com/music/music-news/dropkick-murphys-ken-casey-ed-sheeran-macklemore-loop-tour-1236343940/",
-    "publishedAt": "2026-09-19T17:28:34.000Z",
-    "summary": "\"You live or die with the people you bring on the road,\" Casey says.",
+    "title": "Ed Sheeran Says Situation in Gaza Is ‘Catastrophic and Unjustifiable’ at Philadelphia Tour Stop",
+    "url": "https://www.billboard.com/music/music-news/ed-sheeran-gaza-speech-philadelphia-concert-tour-1236344137/",
+    "publishedAt": "2026-09-20T02:15:12.000Z",
+    "summary": "Sheeran performed a solo concert Saturday night. Opener Macklemore was dropped from the tour this week for his \"free Palestine\" comments, and other supporting acts withdrew in solidarity.",
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/lists/jay-z-in-8-review-first-three-episodes-rick-rubin-hbo-max/",
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/ed-sheeran-breaks-silence-gaza-isreael-macklemore-concert-1235629139/",
+    "source": "rolling-stone",
+    "title": "Ed Sheeran Breaks Silence on Israel-Gaza at First Show Amid Tour Controversy: ‘I Cannot Hide How I Feel About It Anymore’",
+    "url": "https://www.rollingstone.com/music/music-news/ed-sheeran-breaks-silence-gaza-isreael-macklemore-concert-1235629139/",
+    "publishedAt": "2026-09-20T01:03:59.000Z",
+    "summary": "“This has put me in the middle of an important and passionate argument about freedom of speech and the most complex political issue on the planet,\" Sheeran said",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/nailah-blackman-talks-co-hosting-with-majah-hype/",
     "source": "billboard",
-    "title": "‘JAŸ-Z in 8’: 11 Things We Learned From the First Three Episodes",
-    "url": "https://www.billboard.com/lists/jay-z-in-8-review-first-three-episodes-rick-rubin-hbo-max/",
-    "publishedAt": "2026-09-19T15:58:53.000Z",
-    "summary": "The eight-episode series will be released weekly on HBO Max.",
+    "title": "Nailah Blackman Talks Co-Hosting with Majah Hype & Gives Update on ‘Born a Diamond’ | Caribbean Music Awards 2026",
+    "url": "https://www.billboard.com/video/nailah-blackman-talks-co-hosting-with-majah-hype/",
+    "publishedAt": "2026-09-20T00:15:22.000Z",
+    "summary": "Nailah Blackman caught up with Billboard’s Kyle Denis on the red carpet at the Caribbean Music Awards 2026.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/kes-talks-stevie-wonder-joining-him-on-stage-teases-new-music/",
+    "source": "billboard",
+    "title": "Kes Talks Stevie Wonder Joining Him on Stage & Teases New Music | Caribbean Music Awards 2026",
+    "url": "https://www.billboard.com/video/kes-talks-stevie-wonder-joining-him-on-stage-teases-new-music/",
+    "publishedAt": "2026-09-20T00:07:20.000Z",
+    "summary": "Kes caught up with Billboard’s Kyle Denis on the red carpet at the Caribbean Music Awards 2026.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/lady-lava-on-being-the-most-nominated-artist-of-the-night/",
+    "source": "billboard",
+    "title": "Lady Lava Talks Being the Most Nominated Artist of the Night & Teases New Music | Caribbean Music Awards 2026",
+    "url": "https://www.billboard.com/video/lady-lava-on-being-the-most-nominated-artist-of-the-night/",
+    "publishedAt": "2026-09-19T23:58:12.000Z",
+    "summary": "Lady Lava caught up with Billboard’s Kyle Denis on the red carpet at the Caribbean Music Awards 2026.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/celine-dion-sings-pour-que-tu-maimes-encore-fans-paris-1236344081/",
+    "source": "billboard",
+    "title": "Céline Dion Hops Atop a Car to Sing With Crowd of Fans in Paris",
+    "url": "https://www.billboard.com/music/music-news/celine-dion-sings-pour-que-tu-maimes-encore-fans-paris-1236344081/",
+    "publishedAt": "2026-09-19T23:35:11.000Z",
+    "summary": "Dion felt the power of love from fans (and they felt it from her) in a heartwarming moment after night three of her Paris concert residency.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/jessie-woo-talks-celebrating-caribbean-music-more/",
+    "source": "billboard",
+    "title": "Jessie Woo Talks Celebrating Caribbean Music & Who She’s Most Excited to See Perform | Caribbean Music Awards 2026",
+    "url": "https://www.billboard.com/video/jessie-woo-talks-celebrating-caribbean-music-more/",
+    "publishedAt": "2026-09-19T23:30:32.000Z",
+    "summary": "Jessie Woo caught up with Billboard’s Kyle Denis on the red carpet at the Caribbean Music Awards 2026.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/ayetian-talks-7-nominations-new-album-jampack-more/",
+    "source": "billboard",
+    "title": "Ayetian Talks 7 Nominations, New Album ‘JamPack’ & More | Caribbean Music Awards 2026",
+    "url": "https://www.billboard.com/video/ayetian-talks-7-nominations-new-album-jampack-more/",
+    "publishedAt": "2026-09-19T23:15:35.000Z",
+    "summary": "Ayetian caught up with Billboard’s Kyle Denis on the red carpet at the Caribbean Music Awards 2026.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/moliy-talks-nominations-shake-it-to-the-max-fly-success/",
+    "source": "billboard",
+    "title": "Moliy Talks Nominations, ‘Shake It to the Max (Fly)’ Success, ‘BADDIES <3 MOLIY’ & More | Caribbean Music Awards 2026",
+    "url": "https://www.billboard.com/video/moliy-talks-nominations-shake-it-to-the-max-fly-success/",
+    "publishedAt": "2026-09-19T23:08:15.000Z",
+    "summary": "Moliy caught up with Billboard’s Kyle Denis on the red carpet at the Caribbean Music Awards 2026.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/vghn-on-his-multiple-nominations-jab-decisions-success/",
+    "source": "billboard",
+    "title": "V’ghn On His Multiple Nominations, ‘Jab Decisions’ Success & More | Caribbean Music Awards 2026",
+    "url": "https://www.billboard.com/video/vghn-on-his-multiple-nominations-jab-decisions-success/",
+    "publishedAt": "2026-09-19T22:32:39.000Z",
+    "summary": "V’ghn caught up with Billboard’s Kyle Denis on the red carpet at the Caribbean Music Awards 2026.",
+    "image": null
+  },
+  {
+    "id": "louder-than-war-https://louderthanwar.com/zombieites-artificial-idiot-album-review/",
+    "source": "louder-than-war",
+    "title": "Zombie’ites: Artificial Idiot – album review",
+    "url": "https://louderthanwar.com/zombieites-artificial-idiot-album-review/",
+    "publishedAt": "2026-09-19T16:15:31.000Z",
+    "summary": "album review Zombie’ites Artificial Idiot Zombie’ites Recordings DL only Out now Psychedelic Rock’n’Roll Party bands follow-up album to 2024 debut Brains. More of the same but even better, says Ged Babey, as Zombie’ites put their hometown on the map in psychedelic technicolour and draft in a producer who makes their sound even more cosmic. If […] The post Zombie’ites: Artificial Idiot – album review appeared first on Louder Than War.",
     "image": null
   },
   {
@@ -36,15 +117,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/ufc-331-van-pantoja-2-watch-live-online-free-1236340341/",
-    "source": "billboard",
-    "title": "Here’s How to Watch UFC 331: Van vs. Pantoja 2 Live Online for Free",
-    "url": "https://www.billboard.com/culture/product-recommendations/ufc-331-van-pantoja-2-watch-live-online-free-1236340341/",
-    "publishedAt": "2026-09-19T15:15:38.000Z",
-    "summary": "Live from Los Angeles on Sept. 19, you can watch the entire MMA event online for free.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/gnarls-barkley-first-tour-18-years-atlanta-1235629188/",
     "source": "rolling-stone",
     "title": "Gnarls Barkley Announce First Tour in 18 Years",
@@ -54,30 +126,21 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTEyWWhRQnlOb2VEOHJQNDF2cGtXNjFlbmRmVHZhMmxLdnVHLU1nanBmMVQyVW5zcW1ZYUJFWldsUmJnYWFxaTlZSEY4ZGRfMmJsTjRPMUs5ajZqRlRBSFdJYXVDTUhlaENJWnpORkh3LWFxaXBkYlc1OGxBbkdQU1lMVDc1b2VXRXgzMjZwLVJlMktqZzVvajNZVWRiZEdWV2NSNEM1Y2pNLVNPVE1IUUlIVFFvWnVkempCWEpXNGw?oc=5",
+    "source": "nme",
+    "title": "Dropkick Murphys’ Ken Casey says Ed Sheeran’s treatment of Macklemore “doesn’t sit right” - NME",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTEyWWhRQnlOb2VEOHJQNDF2cGtXNjFlbmRmVHZhMmxLdnVHLU1nanBmMVQyVW5zcW1ZYUJFWldsUmJnYWFxaTlZSEY4ZGRfMmJsTjRPMUs5ajZqRlRBSFdJYXVDTUhlaENJWnpORkh3LWFxaXBkYlc1OGxBbkdQU1lMVDc1b2VXRXgzMjZwLVJlMktqZzVvajNZVWRiZEdWV2NSNEM1Y2pNLVNPVE1IUUlIVFFvWnVkempCWEpXNGw?oc=5",
+    "publishedAt": "2026-09-19T14:03:23.000Z",
+    "summary": "Dropkick Murphys’ Ken Casey says Ed Sheeran’s treatment of Macklemore “doesn’t sit right” NME",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-features/tinashe-album-popstar-creative-choices-feeling-pressure-1235626810/",
     "source": "rolling-stone",
     "title": "Tinashe Is Feeling the Pressure. It’s Nothing ‘Popstar’ Can’t Handle",
     "url": "https://www.rollingstone.com/music/music-features/tinashe-album-popstar-creative-choices-feeling-pressure-1235626810/",
     "publishedAt": "2026-09-19T14:00:00.000Z",
     "summary": "The rollout for her eighth studio album might be the most contentious of her career, but all that means is her plan is working",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/latin/mariachi-dragon-china-fuerza-regida-youth-center-uplifting-1236343683/",
-    "source": "billboard",
-    "title": "How Mariachi Found a Home in China & Earned Mexico’s Recognition, Plus More Uplifting Moments in Latin Music",
-    "url": "https://www.billboard.com/music/latin/mariachi-dragon-china-fuerza-regida-youth-center-uplifting-1236343683/",
-    "publishedAt": "2026-09-19T14:00:00.000Z",
-    "summary": "Also, Fuerza Regida receives the Key to San Bernardino and Thalia & Arthur Hanlon reimagine Juan Gabriel’s iconic “Así Fue.”",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/saturday-night-live-uk-season-2-watch-stream-online-1236338739/",
-    "source": "billboard",
-    "title": "‘Saturday Night Live U.K.’: Here’s Where to Watch the Season 2 Online",
-    "url": "https://www.billboard.com/culture/product-recommendations/saturday-night-live-uk-season-2-watch-stream-online-1236338739/",
-    "publishedAt": "2026-09-19T13:01:45.000Z",
-    "summary": "For this weekend, SNL U.K. has Jamie Demetriou as host and Royal Blood as musical guest.",
     "image": null
   },
   {
@@ -126,12 +189,39 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMivgFBVV95cUxPTUkyM3RWXzJOOVJuWHZjWll4U1B0RDJmckhsbmhHTkRDc3pGWFgwTjN2NU5oOEx1emdYUDR6UmFFU3ZHc2Z0LWRTdWdCUmljdHo0UC1rcDZ5cXJBdWhNbUlnSEltRmhwaXhtd1pMV1VmSF9JY01pV2ZxZ2J3YlgyMjVva1VXN2FqUzBZSEJUNW9hU1E3eDNjN0lfTk5Vak9ER19sVGhoRDhtS3ZlY2NhV2JqTTNndnd3a0l4M21n?oc=5",
+    "source": "nme",
+    "title": "Tributes paid after Duncan Sheik dies, age 56: \"This one hurts and does not seem real\" - NME",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTUkyM3RWXzJOOVJuWHZjWll4U1B0RDJmckhsbmhHTkRDc3pGWFgwTjN2NU5oOEx1emdYUDR6UmFFU3ZHc2Z0LWRTdWdCUmljdHo0UC1rcDZ5cXJBdWhNbUlnSEltRmhwaXhtd1pMV1VmSF9JY01pV2ZxZ2J3YlgyMjVva1VXN2FqUzBZSEJUNW9hU1E3eDNjN0lfTk5Vak9ER19sVGhoRDhtS3ZlY2NhV2JqTTNndnd3a0l4M21n?oc=5",
+    "publishedAt": "2026-09-19T10:16:42.000Z",
+    "summary": "Tributes paid after Duncan Sheik dies, age 56: \"This one hurts and does not seem real\" NME",
+    "image": null
+  },
+  {
     "id": "louder-than-war-https://louderthanwar.com/cross-wires-under-the-watchful-eye-of-another-mans-god-album-review/",
     "source": "louder-than-war",
     "title": "Cross Wires: Under The Watchful Eye Of Another Man’s God – Album Review",
     "url": "https://louderthanwar.com/cross-wires-under-the-watchful-eye-of-another-mans-god-album-review/",
     "publishedAt": "2026-09-19T09:40:32.000Z",
     "summary": "Cross Wires: Under The Watchful Eye Of Another Man’s God (Self-released) Vinyl | Download | Streaming Out now For those who make it that far, the third album is often considered a defining milestone. With Under The Watchful Eye Of Another Man’s God, east London’s Cross Wires prove they have the maturity, intelligence and drive […] The post Cross Wires: Under The Watchful Eye Of Another Man’s God – Album Review appeared first on Louder Than War.",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRUJES1daRzFURXZ3U3pWMDRReVdhN2xyS041a25Ra3IyS0Y0SmJZTk53REJHTU1RRkFXdU42NjZ5TWI2Q1o0b2l4a1FpRmNsNHJMNnNHZ1Y5ZjdVSVRqMkE3elpJYmtkdEphbmx6WTVVTExTbFhFNE1uRHlra3dFeEpVNVJKR0R4ZzVQTjUxQ3Nka0M0SWhQZTBlaDJhRU5VNmxlakN5YU93VHpPVmhCWmdST2pzZzlIZ3FsS2xFOVNEOTZzSUxNbm5OVGpsakRSS011eVNIQQ?oc=5",
+    "source": "nme",
+    "title": "David Walliams' back catalogue dropped by book publisher HarperCollins after 'inappropriate conduct' claims - NME",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRUJES1daRzFURXZ3U3pWMDRReVdhN2xyS041a25Ra3IyS0Y0SmJZTk53REJHTU1RRkFXdU42NjZ5TWI2Q1o0b2l4a1FpRmNsNHJMNnNHZ1Y5ZjdVSVRqMkE3elpJYmtkdEphbmx6WTVVTExTbFhFNE1uRHlra3dFeEpVNVJKR0R4ZzVQTjUxQ3Nka0M0SWhQZTBlaDJhRU5VNmxlakN5YU93VHpPVmhCWmdST2pzZzlIZ3FsS2xFOVNEOTZzSUxNbm5OVGpsakRSS011eVNIQQ?oc=5",
+    "publishedAt": "2026-09-19T08:31:39.000Z",
+    "summary": "David Walliams' back catalogue dropped by book publisher HarperCollins after 'inappropriate conduct' claims NME",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNEVrU3psZU9xSVM0MGd1LVB2ZEIxNE9Qak5NcktRdHh3M1NFRmkwcWlrUnhEaU9hRGRPbHVsWjNnQW1uQkw4ZUMzOGJMMnF1SUZVdlZ1T2VNa3lmTmFzZkN1RWhpVGlSNXMtNzhwXzJhQjlHUTVKX1o1Z0xJNXU3aFEwVnNKT3VHUnVFSnZpUXAtWERqTVY1cEhKV0ozajR1Z3FZNWFRV01LbWIxOFcyN0ZzbGlVVm5Vc0UxQW1yUktWcHUxa0VnRmxrRGRZSVJfMEl6UlZnTGwwWWQyU0ZXR2tCdVFuRDFLNG8xRHVONUhEUW1lc09UOHNYbGNjZw?oc=5",
+    "source": "nme",
+    "title": "Damon Albarn holds up Palestinian flag as Gorillaz kick off US tour: \"Don’t forget this. Ever. Stand your position. Don’t ever be neutral” - NME",
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNEVrU3psZU9xSVM0MGd1LVB2ZEIxNE9Qak5NcktRdHh3M1NFRmkwcWlrUnhEaU9hRGRPbHVsWjNnQW1uQkw4ZUMzOGJMMnF1SUZVdlZ1T2VNa3lmTmFzZkN1RWhpVGlSNXMtNzhwXzJhQjlHUTVKX1o1Z0xJNXU3aFEwVnNKT3VHUnVFSnZpUXAtWERqTVY1cEhKV0ozajR1Z3FZNWFRV01LbWIxOFcyN0ZzbGlVVm5Vc0UxQW1yUktWcHUxa0VnRmxrRGRZSVJfMEl6UlZnTGwwWWQyU0ZXR2tCdVFuRDFLNG8xRHVONUhEUW1lc09UOHNYbGNjZw?oc=5",
+    "publishedAt": "2026-09-19T08:15:03.000Z",
+    "summary": "Damon Albarn holds up Palestinian flag as Gorillaz kick off US tour: \"Don’t forget this. Ever. Stand your position. Don’t ever be neutral” NME",
     "image": null
   },
   {
@@ -162,48 +252,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/concerts/charlie-puth-cancels-2026-australian-new-zealand-tour-1236343893/",
-    "source": "billboard",
-    "title": "Charlie Puth Cancels Australian and New Zealand Arena Dates",
-    "url": "https://www.billboard.com/music/concerts/charlie-puth-cancels-2026-australian-new-zealand-tour-1236343893/",
-    "publishedAt": "2026-09-19T06:00:30.000Z",
-    "summary": "No reason for the cancellation has been announced.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/pop/ed-sheeran-macklemore-fallout-aaron-rowe-defends-singer-1236343894/",
-    "source": "billboard",
-    "title": "Former Ed Sheeran Opener Aaron Rowe Defends Singer Amid Macklemore Tour Fallout",
-    "url": "https://www.billboard.com/music/pop/ed-sheeran-macklemore-fallout-aaron-rowe-defends-singer-1236343894/",
-    "publishedAt": "2026-09-19T05:45:25.000Z",
-    "summary": "“I haven’t had a chance to talk to Ed too much, but I fully believe he knows that was a mistake,” Rowe said.",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/papa-roach-cancels-louder-than-life/",
     "source": "loudwire",
     "title": "Papa Roach Bassist's Health 'Emergency' Forces Festival Exit",
     "url": "https://loudwire.com/papa-roach-cancels-louder-than-life/",
     "publishedAt": "2026-09-19T02:03:35.000Z",
     "summary": "Papa Roach has pulled out of Louder Than Life festival performance. The band was set to play Saturday at the festival in Louisville. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/latin/shakira-madrid-concert-recap-residency-spain-1236343874/",
-    "source": "billboard",
-    "title": "Madrid Howls With Shakira as She Kicks Off 12-Date Residency: ‘Tonight We Are One’",
-    "url": "https://www.billboard.com/music/latin/shakira-madrid-concert-recap-residency-spain-1236343874/",
-    "publishedAt": "2026-09-19T00:49:33.000Z",
-    "summary": "“Te Dejo Madrid” was added to a setlist spanning more than three decades of music, reconnecting the Colombian star with her first visit to Spain.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/2026-mtv-vma-nominations-list-madonna-video-music-awards/",
-    "source": "billboard",
-    "title": "Madonna Leads 2026 MTV VMA Nominations: Full Updated List",
-    "url": "https://www.billboard.com/lists/2026-mtv-vma-nominations-list-madonna-video-music-awards/",
-    "publishedAt": "2026-09-19T00:30:00.000Z",
-    "summary": "Madonna maintained her lead even after the Sept. 18 announcement of four social categories.",
     "image": null
   },
   {
@@ -249,15 +303,6 @@
     "url": "https://loudwire.com/opponent-andy-williams-last-match-leaves-wrestling/",
     "publishedAt": "2026-09-18T18:46:31.000Z",
     "summary": "Learning about is young daughter's reaction was all it took for him to want to step away. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/tom-petty-heartbreakers-should-tour-with-chris-stapleton-1235628836/",
-    "source": "rolling-stone",
-    "title": "The Heartbreakers, With Chris Stapleton Singing, Need to Think About a Reunion Tour",
-    "url": "https://www.rollingstone.com/music/music-features/tom-petty-heartbreakers-should-tour-with-chris-stapleton-1235628836/",
-    "publishedAt": "2026-09-18T17:34:25.000Z",
-    "summary": "Tom Petty’s band reunited at the Americana Honors in Nashville earlier this week. It was too good to stop at three songs",
     "image": null
   },
   {
@@ -477,15 +522,6 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMi0gFBVV95cUxNM1dObnh1OTlmV2FCa25nNmdGUFBXMUdJdDlZVzdsV0oxQkkwYlhfaVhHTE15Y2ljdzVHNGRES21iZ2hsNlhfRVpISFVFT0pYSVFrVE53OEM2QTNSNjFpZk9VTlVRa1phLUtCZUQ0VF9NQ21hbXNoZHZ5N3JMRnJ6azBHa212MXVWSDNnNU1KTzZ5dE83VUtTVWRMWTRJSUZFMjBqRmlDYmtIRXA3U3RheTBPa1Q4bGs5R3BQYXNMMjJGSmdzdzExTGFKU0VIMHJnb2c?oc=5",
-    "source": "nme",
-    "title": "UK's \"dismal\" Eurovision song choices to be reviewed by MPs while Ireland will boycott again in 2027 - NME",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNM1dObnh1OTlmV2FCa25nNmdGUFBXMUdJdDlZVzdsV0oxQkkwYlhfaVhHTE15Y2ljdzVHNGRES21iZ2hsNlhfRVpISFVFT0pYSVFrVE53OEM2QTNSNjFpZk9VTlVRa1phLUtCZUQ0VF9NQ21hbXNoZHZ5N3JMRnJ6azBHa212MXVWSDNnNU1KTzZ5dE83VUtTVWRMWTRJSUZFMjBqRmlDYmtIRXA3U3RheTBPa1Q4bGs5R3BQYXNMMjJGSmdzdzExTGFKU0VIMHJnb2c?oc=5",
-    "publishedAt": "2026-09-18T10:51:21.000Z",
-    "summary": "UK's \"dismal\" Eurovision song choices to be reviewed by MPs while Ireland will boycott again in 2027 NME",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/metallica-m72-interview-contest-kansas-city/",
     "source": "loudwire",
     "title": "ENTER NOW: Win a Trip to See + Interview Metallica In Kansas City",
@@ -549,48 +585,12 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMitgFBVV95cUxPUHFwT2tBZTVoWDBUN3JTbWpaYUQ2UzVINjlNa2hlSFUtX1ZTdnc3YWJsMEhvMmktUWFRdl9FRHJXTmF6N1Rya2k1cUJLbC03N1RyTXMyWlE1YklzMkVVQ3Z4alJLQzZ4cFZucVVoLWVwV2ZJUHJqNVpiMVpMUDdicUdWZXpjdUlDRl9RaGNKQWd6UGJjclNLbGRQZml2LXF3Y190VUJxWWRPYXBheDRxTl9OalVaUQ?oc=5",
-    "source": "nme",
-    "title": "Fontaines D.C. share ‘Dopamine Chamber’ tracklist – featuring collab with Rosalía - nme.com",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUHFwT2tBZTVoWDBUN3JTbWpaYUQ2UzVINjlNa2hlSFUtX1ZTdnc3YWJsMEhvMmktUWFRdl9FRHJXTmF6N1Rya2k1cUJLbC03N1RyTXMyWlE1YklzMkVVQ3Z4alJLQzZ4cFZucVVoLWVwV2ZJUHJqNVpiMVpMUDdicUdWZXpjdUlDRl9RaGNKQWd6UGJjclNLbGRQZml2LXF3Y190VUJxWWRPYXBheDRxTl9OalVaUQ?oc=5",
-    "publishedAt": "2026-09-17T22:08:35.000Z",
-    "summary": "Fontaines D.C. share ‘Dopamine Chamber’ tracklist – featuring collab with Rosalía nme.com",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMivwFBVV95cUxNdk45NWZFSXBjYUJMR2hvY1hxRl9JSUFHN00zUnFWc2pNcGpYX1U3V1JLb1dhT2dZX25Tb2tFVG5QNTJKU3E0NGNpcDVRaXQzSGx6eW5CTDdPUlNmdmhxcGZyMXZsQ1ktWWREdVNyUlFoc3ktU2FLU1JfTjdUdVdxajVoNG00WVl1ejkyWlBDQ1F4alByNUwyT29qVnVnSkVrVF9mamdjbHMtdTNpZVI0S1dtYjVJNzJUZUhKS0Myaw?oc=5",
-    "source": "nme",
-    "title": "La Roux opens up about how she \"had a nervous breakdown and disappeared for 10 years\" - NME",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdk45NWZFSXBjYUJMR2hvY1hxRl9JSUFHN00zUnFWc2pNcGpYX1U3V1JLb1dhT2dZX25Tb2tFVG5QNTJKU3E0NGNpcDVRaXQzSGx6eW5CTDdPUlNmdmhxcGZyMXZsQ1ktWWREdVNyUlFoc3ktU2FLU1JfTjdUdVdxajVoNG00WVl1ejkyWlBDQ1F4alByNUwyT29qVnVnSkVrVF9mamdjbHMtdTNpZVI0S1dtYjVJNzJUZUhKS0Myaw?oc=5",
-    "publishedAt": "2026-09-17T22:04:35.000Z",
-    "summary": "La Roux opens up about how she \"had a nervous breakdown and disappeared for 10 years\" NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeFphNWZjS0FwSmp1eWxqcUZCdTQxMFRUVWJnOWRnYUY0bmlhb1QxME1Cc3gtUk1Ebi1oS2ZtTGxiemdvaFRQMVFpcmkwQTE3WVp4aDRQRjlabzVLQi1PS0dBbUx3N2JKNHNtUms1Um1DTjIxSE5VZjN5cUFubG0tc0Q1Tl9CVkg2UWNyVjZVMkRKTDcyc0k2V2lHOVFyYTBGWlRoZTlDd0ppQlVKMHZXeGJOUHlpSjFEQ1NqcC1nLTg?oc=5",
-    "source": "nme",
-    "title": "Billy Bragg says \"if I was Ed Sheeran, I'd swallow my pride and cancel the tour\" to avoid \"tarnishing career\" and \"becoming a pariah” - NME",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeFphNWZjS0FwSmp1eWxqcUZCdTQxMFRUVWJnOWRnYUY0bmlhb1QxME1Cc3gtUk1Ebi1oS2ZtTGxiemdvaFRQMVFpcmkwQTE3WVp4aDRQRjlabzVLQi1PS0dBbUx3N2JKNHNtUms1Um1DTjIxSE5VZjN5cUFubG0tc0Q1Tl9CVkg2UWNyVjZVMkRKTDcyc0k2V2lHOVFyYTBGWlRoZTlDd0ppQlVKMHZXeGJOUHlpSjFEQ1NqcC1nLTg?oc=5",
-    "publishedAt": "2026-09-17T20:48:05.000Z",
-    "summary": "Billy Bragg says \"if I was Ed Sheeran, I'd swallow my pride and cancel the tour\" to avoid \"tarnishing career\" and \"becoming a pariah” NME",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/hamilton-leithauser-and-rostam-to-tour-i-had-a-dream-that-you-were-mine/",
     "source": "pitchfork",
     "title": "Hamilton Leithauser and Rostam to Tour I Had a Dream That You Were Mine",
     "url": "https://pitchfork.com/story/hamilton-leithauser-and-rostam-to-tour-i-had-a-dream-that-you-were-mine/",
     "publishedAt": "2026-09-17T18:00:30.000Z",
     "summary": "Their first official run of dates together is a celebration of the duo’s 2016 album",
-    "image": null
-  },
-  {
-    "id": "louder-than-war-https://louderthanwar.com/fifty-years-of-punk-film-review/",
-    "source": "louder-than-war",
-    "title": "‘Fifty Years Of Punk’ Film Review",
-    "url": "https://louderthanwar.com/fifty-years-of-punk-film-review/",
-    "publishedAt": "2026-09-17T17:16:25.000Z",
-    "summary": "50 years of punk Film revisits and extraordinary era The post ‘Fifty Years Of Punk’ Film Review appeared first on Louder Than War.",
     "image": null
   },
   {
