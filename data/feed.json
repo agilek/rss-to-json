@@ -1,11 +1,218 @@
 [
   {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/peter-rosenberg-rips-kanye-west-behavior-mom-street-renaming-1236347573/",
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/john-legend-pharrell-fireflies-video-muse-1236347865/",
     "source": "billboard",
-    "title": "Peter Rosenberg Calls Ye ‘Weird’ for Interrupting Ceremony to Unveil Honorary Street Sign for Donda West",
-    "url": "https://www.billboard.com/music/rb-hip-hop/peter-rosenberg-rips-kanye-west-behavior-mom-street-renaming-1236347573/",
-    "publishedAt": "2026-09-25T16:07:04.000Z",
-    "summary": "East 78th Street in Chicago's South Shore neighborhood was renamed for the rapper's mother.",
+    "title": "John Legend Takes Inspiration From His ‘Ordinary People’ Video for Cinematic ‘Fireflies’ Visual",
+    "url": "https://www.billboard.com/music/rb-hip-hop/john-legend-pharrell-fireflies-video-muse-1236347865/",
+    "publishedAt": "2026-09-25T20:55:45.000Z",
+    "summary": "Fully produced by Pharrell, the Grammy-winning singer's Muse album arrives next month.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/soft-cell-danceteria-final-album-1236347961/",
+    "source": "billboard",
+    "title": "Soft Cell Talks the ‘Zeitgeist’ Coincidence of Releasing a ‘Danceteria’ Song the Same Year as Madonna",
+    "url": "https://www.billboard.com/music/music-news/soft-cell-danceteria-final-album-1236347961/",
+    "publishedAt": "2026-09-25T20:48:02.000Z",
+    "summary": "Marc Almond reflects on Danceteria, the synth-pop duo’s final album after the loss of his bandmate David Ball.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-album-reviews/leon-bridges-happiness-anytime-album-review-1235629868/",
+    "source": "rolling-stone",
+    "title": "Leon Bridges Shakes Up His Sound Once Again",
+    "url": "https://www.rollingstone.com/music/music-album-reviews/leon-bridges-happiness-anytime-album-review-1235629868/",
+    "publishedAt": "2026-09-25T20:15:07.000Z",
+    "summary": "Like a roots music Drake, the singer-songwriter has a knack for collaborating with up and coming tastemakers",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/country/dolly-parton-9-to-5-endures-why-according-songwriters-1236347916/",
+    "source": "billboard",
+    "title": "As America Observes Dolly Day, a Look at The Enduring Qualities of ‘9 To 5’",
+    "url": "https://www.billboard.com/music/country/dolly-parton-9-to-5-endures-why-according-songwriters-1236347916/",
+    "publishedAt": "2026-09-25T19:41:09.000Z",
+    "summary": "“What this [songwriting] job is, it’s empathy,” says Steve Earle. “A song like ‘9 to 5’ is sort of the ultimate statement of that.\"",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/lifestyle/new-latin-acts-trending-up-series-1236347920/",
+    "source": "billboard",
+    "title": "Your Favorite New Latin Acts Have Arrived in Billboard’s’ ‘Trending Up’ Series",
+    "url": "https://www.billboard.com/culture/lifestyle/new-latin-acts-trending-up-series-1236347920/",
+    "publishedAt": "2026-09-25T19:32:54.000Z",
+    "summary": "Here are the Latin acts you need on your radar in honor of Hispanic Heritage Month",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/how-to-get-tickets-to-metallica-sphere-residency-online-1236194494/",
+    "source": "billboard",
+    "title": "Metallica at Sphere: Here’s Where to Shop Affordable Last-Minute Tickets Online",
+    "url": "https://www.billboard.com/culture/product-recommendations/how-to-get-tickets-to-metallica-sphere-residency-online-1236194494/",
+    "publishedAt": "2026-09-25T19:18:42.000Z",
+    "summary": "The legendary heavy metal band's Life Burns Faster 24-concert residency in Las Vegas starts on Thursday, Oct. 1.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/latin/stray-kids-mexico-president-explains-absence-after-confirming-1236347852/",
+    "source": "billboard",
+    "title": "President of Mexico Explains Stray Kids’ Absence at the National Palace After Confirming Group’s Visit",
+    "url": "https://www.billboard.com/music/latin/stray-kids-mexico-president-explains-absence-after-confirming-1236347852/",
+    "publishedAt": "2026-09-25T19:11:51.000Z",
+    "summary": "The K-pop supergroup is performing Sept. 25-26 at Estadio GNP Seguros.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/concerts/mike-campbell-dirty-knobs-farm-aid-bob-dylan-1236347586/",
+    "source": "billboard",
+    "title": "Mike Campbell Brings The Dirty Knobs to Farm Aid, Four Decades After Backing Dylan at the Festival’s Debut: ‘It Was Quite a Moment’",
+    "url": "https://www.billboard.com/music/concerts/mike-campbell-dirty-knobs-farm-aid-bob-dylan-1236347586/",
+    "publishedAt": "2026-09-25T19:08:17.000Z",
+    "summary": "With his own band now, the guitarist offers \"a great two-hour release from the wicked world.\"",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/taylor-swift-tinashe-madonna-best-new-music-this-week-poll-1236347833/",
+    "source": "billboard",
+    "title": "From Taylor Swift to Madonna With Charli xcx, Which New Music Release Is Your Favorite This Week? Vote!",
+    "url": "https://www.billboard.com/music/music-news/taylor-swift-tinashe-madonna-best-new-music-this-week-poll-1236347833/",
+    "publishedAt": "2026-09-25T19:02:11.000Z",
+    "summary": "Tinashe, Kenny Chesney, Leon Bridges, Maren Morris and Kirk Franklin also dropped fresh projects.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/laila-new-music-interview-sza-cosign-1235630582/",
+    "source": "rolling-stone",
+    "title": "Laila! Is About to Deliver SZA’s Favorite Music of 2026",
+    "url": "https://www.rollingstone.com/music/music-features/laila-new-music-interview-sza-cosign-1235630582/",
+    "publishedAt": "2026-09-25T19:00:00.000Z",
+    "summary": "The 20-year-old singer and producer tells us about making her new album, We’ll Never Be This Young Again; touring with Kali Uchis and Mariah the Scientist; and her new obsession of Muay Thai kickboxing",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/taylor-swifts-the-life-of-a-showgirl-the-encore-breakdown-1235631726/",
+    "source": "rolling-stone",
+    "title": "Everything You Need to Know About ‘The Life of a Showgirl: The Encore’ Songs",
+    "url": "https://www.rollingstone.com/music/music-features/taylor-swifts-the-life-of-a-showgirl-the-encore-breakdown-1235631726/",
+    "publishedAt": "2026-09-25T18:53:50.000Z",
+    "summary": "We break down the four new tracks from the superstar’s 12th album",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/sza-inducted-into-new-jersey-hall-of-fame-1235631904/",
+    "source": "rolling-stone",
+    "title": "SZA Is Officially a New Jersey Hall of Fame Inductee: ‘More Importantly, I Met Danny DeVito’",
+    "url": "https://www.rollingstone.com/music/music-news/sza-inducted-into-new-jersey-hall-of-fame-1235631904/",
+    "publishedAt": "2026-09-25T18:52:48.000Z",
+    "summary": "SZA joins previous inductees Whitney Houston, Queen Latifah, Wyclef Jean, Paul Rudd, Toni Morrison, Tony Bennett, the Isley Brothers, Meryl Streep, Jonas Brothers, Frank Sinatra, and more",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/woman-who-accused-jay-z-of-rape-withdraws-allegations/",
+    "source": "pitchfork",
+    "title": "Woman Who Accused Jay-Z of Rape Withdraws Allegations",
+    "url": "https://pitchfork.com/story/woman-who-accused-jay-z-of-rape-withdraws-allegations/",
+    "publishedAt": "2026-09-25T18:52:43.000Z",
+    "summary": "“Mr. Carter never engaged in any inappropriate conduct toward me whatsoever,” she wrote in a declaration",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/madonna-danceteria-number-1-dance-airplay-chart-1236347846/",
+    "source": "billboard",
+    "title": "Madonna Scores 10th Dance Airplay No. 1 With ‘Confessions II’ Single ‘Danceteria’",
+    "url": "https://www.billboard.com/music/chart-beat/madonna-danceteria-number-1-dance-airplay-chart-1236347846/",
+    "publishedAt": "2026-09-25T18:37:41.000Z",
+    "summary": "She’s the fifth artist in the chart’s history to tally at least 10 leaders.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/remy-ma-nicki-minaj-never-speak-again-rem-the-pen-1236347736/",
+    "source": "billboard",
+    "title": "Remy Ma Name-Drops Nicki Minaj on New EP ‘Alimony,’ Says They’ll ‘Probably Never Speak Again’",
+    "url": "https://www.billboard.com/music/rb-hip-hop/remy-ma-nicki-minaj-never-speak-again-rem-the-pen-1236347736/",
+    "publishedAt": "2026-09-25T18:27:48.000Z",
+    "summary": "\"I wanted this project to feel like a conversation between women,\" Remy said in a statement.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/u2-dublin-high-school-50th-anniversary-1235631893/",
+    "source": "rolling-stone",
+    "title": "See U2’s 50th-Anniversary Performance at Their Old High School",
+    "url": "https://www.rollingstone.com/music/music-news/u2-dublin-high-school-50th-anniversary-1235631893/",
+    "publishedAt": "2026-09-25T18:06:25.000Z",
+    "summary": "The Irish superstars returned to their Dublin roots, just after announcing new album Carnaval De Luz",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/advice-james-hetfield-hatebreed-jamey-jasta-sober/",
+    "source": "loudwire",
+    "title": "The Advice James Hetfield Gave Jamey Jasta on Getting Sober",
+    "url": "https://loudwire.com/advice-james-hetfield-hatebreed-jamey-jasta-sober/",
+    "publishedAt": "2026-09-25T18:01:00.000Z",
+    "summary": "Metallica's James Hetfield gave Hatebreed's Jamey Jasta a particular bit of advice on getting sober nearly two decades ago. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-pictures/rainbow-kitten-surprise-new-york-1235631685/",
+    "source": "rolling-stone",
+    "title": "Rainbow Kitten Surprise Rock New York City",
+    "url": "https://www.rollingstone.com/music/music-pictures/rainbow-kitten-surprise-new-york-1235631685/",
+    "publishedAt": "2026-09-25T17:56:29.000Z",
+    "summary": "The North Carolina alt-rock band brings the house down at Terminal 5, with help from L.A. band Common People",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/global-citizen-festival-new-york-canceled-extreme-weather-1235631923/",
+    "source": "rolling-stone",
+    "title": "Global Citizen Festival in New York Canceled Due to ‘Extreme Weather Forecast’",
+    "url": "https://www.rollingstone.com/music/music-news/global-citizen-festival-new-york-canceled-extreme-weather-1235631923/",
+    "publishedAt": "2026-09-25T17:50:50.000Z",
+    "summary": "Potential Nor'easter along East Coast has also forced cancelation of Ed Sheeran's Massachusetts concerts, CBGB fest, and All Things Go",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/befirst-japan-interview-new-music-1235629698/",
+    "source": "rolling-stone",
+    "title": "The World Is Watching BE:FIRST. Now What?",
+    "url": "https://www.rollingstone.com/music/music-features/befirst-japan-interview-new-music-1235629698/",
+    "publishedAt": "2026-09-25T17:45:00.000Z",
+    "summary": "The Japanese group is scoring hits, selling out stadiums, and aiming for new audiences",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/all-things-go-festival-2026-canceled/",
+    "source": "pitchfork",
+    "title": "All Things Go, CBGB, Global Citizen 2026 Festivals Canceled",
+    "url": "https://pitchfork.com/story/all-things-go-festival-2026-canceled/",
+    "publishedAt": "2026-09-25T17:42:51.000Z",
+    "summary": "The New York City events were scrapped due to severe weather conditions",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/motionless-in-white-paranormal-prison/",
+    "source": "loudwire",
+    "title": "Motionless in White, 'Paranormal Prison' - Season 4 Premiere",
+    "url": "https://loudwire.com/motionless-in-white-paranormal-prison/",
+    "publishedAt": "2026-09-25T17:00:45.000Z",
+    "summary": "One skeptic, one believer. It's the Season 4 premiere of 'Paranormal Prison' with two members of Motionless in White! Continue reading…",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/todd-rundgren-taylor-swift-ruined-music/",
+    "source": "pitchfork",
+    "title": "Todd Rundgren: Taylor Swift Ruined Music",
+    "url": "https://pitchfork.com/story/todd-rundgren-taylor-swift-ruined-music/",
+    "publishedAt": "2026-09-25T16:27:36.000Z",
+    "summary": "In a recent interview, the rock legend said Swift “doesn’t do anything particularly great except grow hair. She’s not a great singer. She’s not a great songwriter. She’s not a great dancer.”",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/knocked-loose-help-louder-than-life-fan/",
+    "source": "loudwire",
+    "title": "How Knocked Loose is Helping Woman Paralyzed at Louder Than Life",
+    "url": "https://loudwire.com/knocked-loose-help-louder-than-life-fan/",
+    "publishedAt": "2026-09-25T16:21:03.000Z",
+    "summary": "The city of Louisville has also responded to the incident that reportedly left a Tennessee woman paralyzed. Continue reading…",
     "image": null
   },
   {
@@ -27,120 +234,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/pop/ed-sheeran-shows-gillette-stadium-canceled-severe-weather-1236347624/",
-    "source": "billboard",
-    "title": "Ed Sheeran Dates at Gillette Stadium Canceled Due to Severe Weather Warnings",
-    "url": "https://www.billboard.com/music/pop/ed-sheeran-shows-gillette-stadium-canceled-severe-weather-1236347624/",
-    "publishedAt": "2026-09-25T15:45:53.000Z",
-    "summary": "The shows booked for Friday (Sept. 25) and Saturday (Sept. 26) are the latest victim of a huge nor'easter expected to hit the East coast this weekend.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/taylor-swift-life-of-showgirl-encore-tracks-ranked/",
-    "source": "billboard",
-    "title": "All 4 New Songs on Taylor Swift’s ‘The Life of a Showgirl: The Encore’ Ranked",
-    "url": "https://www.billboard.com/lists/taylor-swift-life-of-showgirl-encore-tracks-ranked/",
-    "publishedAt": "2026-09-25T15:36:05.000Z",
-    "summary": "The deluxe set introduces the tracks \"Patient Zero,\" \"Pink Clouding,\" \"Babylon\" and \"Cleveland!\"",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/tinashe-blondshell-taylor-swift-songs-you-need-to-know-1235631743/",
-    "source": "rolling-stone",
-    "title": "Tinashe, Blondshell, Taylor Swift, and All the Songs You Need to Know This Week",
-    "url": "https://www.rollingstone.com/music/music-features/tinashe-blondshell-taylor-swift-songs-you-need-to-know-1235631743/",
-    "publishedAt": "2026-09-25T15:31:40.000Z",
-    "summary": "Looking for the week’s best new music? Check out our Songs You Need to Know playlist",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/jay-z-sexual-assault-accuser-fully-recants-her-accusation/",
-    "source": "billboard",
-    "title": "Jay-Z Sexual Assault Accuser Fully Recants Her Accusation: ‘These Allegations Were False’",
-    "url": "https://www.billboard.com/pro/jay-z-sexual-assault-accuser-fully-recants-her-accusation/",
-    "publishedAt": "2026-09-25T15:29:42.000Z",
-    "summary": "Two years after shocking accusations, the woman behind them says they weren't true — and that her lawyers filed them without \"any independent investigation.\"",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/iheartradio-jingle-ball-2026-lineup-1235631750/",
-    "source": "rolling-stone",
-    "title": "iHeartRadio’s 2026 Jingle Ball Tour Recruits Olivia Rodrigo, Hilary Duff, Sombr",
-    "url": "https://www.rollingstone.com/music/music-news/iheartradio-jingle-ball-2026-lineup-1235631750/",
-    "publishedAt": "2026-09-25T15:27:38.000Z",
-    "summary": "Raye, Adéla, Katseye, Ludacris, Dominic Fike, Myles Smith, and more will perform across varying lineups on the nine-city tour",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/ed-sheeran-gillette-stadium-shows-canceled-severe-weather-1235631744/",
-    "source": "rolling-stone",
-    "title": "Ed Sheeran’s Gillette Stadium Shows Canceled Due to ‘Severe Weather Forecast’",
-    "url": "https://www.rollingstone.com/music/music-news/ed-sheeran-gillette-stadium-shows-canceled-severe-weather-1235631744/",
-    "publishedAt": "2026-09-25T15:09:31.000Z",
-    "summary": "“The decision was made with the safety of fans, staff and everyone involved in the shows as the top priority,” tour promoter said",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/harry-connick-jr-book-excerpt-babe-elaboratorio-mother-1236346715/",
-    "source": "billboard",
-    "title": "‘I’ve Internalized My Mom’: Harry Connick Jr. Shares an Excerpt of His Book ‘Babe,’ In Tribute to Late Mother",
-    "url": "https://www.billboard.com/music/music-news/harry-connick-jr-book-excerpt-babe-elaboratorio-mother-1236346715/",
-    "publishedAt": "2026-09-25T15:00:00.000Z",
-    "summary": "His book Babe: Elaboratio A Tribute to My Mother arrives Sept. 29, while Connick released the orchestral album Babe: Elaboratio on Friday.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/e-l-f-album-mirror-mix-flaujae-johnson-joaquina-nezza-1236347043/",
-    "source": "billboard",
-    "title": "e.l.f. Cosmetics Drops 2nd Original Album ‘Mirror Mix,’ With 7 Rising Stars Including Flau’jae Johnson, Joaquina & NEZZA",
-    "url": "https://www.billboard.com/music/music-news/e-l-f-album-mirror-mix-flaujae-johnson-joaquina-nezza-1236347043/",
-    "publishedAt": "2026-09-25T15:00:00.000Z",
-    "summary": "In true e.l.f. style, the project brings beauty & music together to champion the next generation of breakthrough artists.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rock/oasis-liam-gallagher-hints-2027-dates-last-1236347463/",
-    "source": "billboard",
-    "title": "Oasis’ Liam Gallagher Hints That 2027 Dates Could be the Band’s ‘Last’ Outing",
-    "url": "https://www.billboard.com/music/rock/oasis-liam-gallagher-hints-2027-dates-last-1236347463/",
-    "publishedAt": "2026-09-25T14:47:04.000Z",
-    "summary": "To be fair, he didn't say definitely, just maybe.",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/dolly-parton-9-to-5-theater-release-1235631690/",
-    "source": "rolling-stone",
-    "title": "Dolly Parton Returns to the Big Screen as ‘9 to 5’ Heads Back to Theaters",
-    "url": "https://www.rollingstone.com/music/music-news/dolly-parton-9-to-5-theater-release-1235631690/",
-    "publishedAt": "2026-09-25T14:44:18.000Z",
-    "summary": "The 1980 film starring Parton, Jane Fonda, and Lily Tomlin will be re-released in theaters for one week with ticket proceeds benefiting the Dollywood Foundation",
-    "image": null
-  },
-  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMivgFBVV95cUxNOVRodWRzT24tU3E2UVJMaTA1QWtaZFRhODdtbG9mWXRMcUVmZlozZjFDMHBaTzJBd09aWDRCc1h2a2oyNWN3b3l4b2ZqWFlsaDVLc2xqTTdjTVlYTXdncVAyaHZSQ1hLc203ZVp2Nmx3SFJIQ0g2azE1R09xVGdXRDk5Z0gtaUdLQ3Z5d2wwMzhldDd1S0xUc3dJM3hqeHVlakRVVkdTb2pPQVhaMjFWbEY4a2otb192bExfMU93?oc=5",
     "source": "kerrang",
     "title": "“This is an album about killing people!”: Inside BRAT’s brutal, vengeful, righteous return - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOVRodWRzT24tU3E2UVJMaTA1QWtaZFRhODdtbG9mWXRMcUVmZlozZjFDMHBaTzJBd09aWDRCc1h2a2oyNWN3b3l4b2ZqWFlsaDVLc2xqTTdjTVlYTXdncVAyaHZSQ1hLc203ZVp2Nmx3SFJIQ0g2azE1R09xVGdXRDk5Z0gtaUdLQ3Z5d2wwMzhldDd1S0xUc3dJM3hqeHVlakRVVkdTb2pPQVhaMjFWbEY4a2otb192bExfMU93?oc=5",
     "publishedAt": "2026-09-25T14:41:00.000Z",
     "summary": "“This is an album about killing people!”: Inside BRAT’s brutal, vengeful, righteous return Kerrang!",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/country/dylan-gossett-ramblin-album-interview-1236347445/",
-    "source": "billboard",
-    "title": "Dylan Gossett on Expanding His Troubadour Sound With New Album, Touring with Mumford & Sons and ‘Trying to Make the Best Songs Possible’",
-    "url": "https://www.billboard.com/music/country/dylan-gossett-ramblin-album-interview-1236347445/",
-    "publishedAt": "2026-09-25T14:19:59.000Z",
-    "summary": "Texan Dylan Gossett talks about how fatherhood inspired songs on his new album.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/pop/taylor-swift-inspiration-patient-zero-single-1236347468/",
-    "source": "billboard",
-    "title": "Taylor Swift Says Inspiration For ‘Patient Zero’ Came From Chat With Friends About This Awkward Relationship Request From an Ex",
-    "url": "https://www.billboard.com/music/pop/taylor-swift-inspiration-patient-zero-single-1236347468/",
-    "publishedAt": "2026-09-25T14:16:30.000Z",
-    "summary": "The track appears on the just-released The Life of a Showgirl: The Encore.",
     "image": null
   },
   {
@@ -153,30 +252,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/pro/val-blavatnik-warner-music-executive-elliot-grainge-ada/",
-    "source": "billboard",
-    "title": "Val Blavatnik Named to Warner Music Group Executive Team, Elliot Grainge Named Chair of ADA, More",
-    "url": "https://www.billboard.com/pro/val-blavatnik-warner-music-executive-elliot-grainge-ada/",
-    "publishedAt": "2026-09-25T14:01:31.000Z",
-    "summary": "As part of a slew of executive announcements, Simon Robson will be leaving the company, while Alejandro Duque takes the top international role.",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/george-michael-faith-tour-1235629699/",
-    "source": "rolling-stone",
-    "title": "When George Michael Conquered the World as a Live Superstar — Then Walked Away",
-    "url": "https://www.rollingstone.com/music/music-features/george-michael-faith-tour-1235629699/",
-    "publishedAt": "2026-09-25T14:00:00.000Z",
-    "summary": "A new film, The Faith Tour, will revisit the forgotten moment when he embraced his live potential, just that once",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/britney-spears-slave-4-u-vmas-25th-anniversary-gen-z-1235631530/",
-    "source": "rolling-stone",
-    "title": "Gen Z Can’t Stop Listening to Britney Spears’ ‘I’m a Slave 4 U’",
-    "url": "https://www.rollingstone.com/music/music-news/britney-spears-slave-4-u-vmas-25th-anniversary-gen-z-1235631530/",
-    "publishedAt": "2026-09-25T13:46:04.000Z",
-    "summary": "Twenty-five years after her VMA performance, Spears’ Neptunes-produced song has become a hit with Gen Z",
+    "id": "nme-https://news.google.com/rss/articles/CBMipAFBVV95cUxNTUQ3Z05qSDdVVVl0OUNaZEprSGVENHk3UGNFSEFQbVRucWdMRHVyRTdDSFRYZkdrMmtiRnZRWXVxUUROZFp3cl9NWmRzMjFnUlhQTWhfalFIa3BvR2JQZlluY0NtTkRSMmo1c1dDd000S1VjejR1aGJRNENoQWtnSHJBdUViQjk5RGFTdF9FcUUyZmw5c2FkUU1feWE2Q3RTN0hmaw?oc=5",
+    "source": "nme",
+    "title": "Elton John to open new Apple Music Hall in London – with Charli XCX and Chase & Status also among confirmed acts - NME",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTUQ3Z05qSDdVVVl0OUNaZEprSGVENHk3UGNFSEFQbVRucWdMRHVyRTdDSFRYZkdrMmtiRnZRWXVxUUROZFp3cl9NWmRzMjFnUlhQTWhfalFIa3BvR2JQZlluY0NtTkRSMmo1c1dDd000S1VjejR1aGJRNENoQWtnSHJBdUViQjk5RGFTdF9FcUUyZmw5c2FkUU1feWE2Q3RTN0hmaw?oc=5",
+    "publishedAt": "2026-09-25T13:40:39.000Z",
+    "summary": "Elton John to open new Apple Music Hall in London – with Charli XCX and Chase & Status also among confirmed acts NME",
     "image": null
   },
   {
@@ -186,24 +267,6 @@
     "url": "https://loudwire.com/rock-metal-songs-feature-famous-speeches/",
     "publishedAt": "2026-09-25T13:37:59.000Z",
     "summary": "Here are rock and metal songs that feature audio samples from famous speeches that've been given throughout history by politicians, scientists and more. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/7-artists-one-album-inside-e-l-f-cosmetics-mirror-mix-1235631091/",
-    "source": "rolling-stone",
-    "title": "Seven Artists, Three Days, One Album: Inside e.l.f. Cosmetics’ ‘Mirror Mix’",
-    "url": "https://www.rollingstone.com/music/music-news/7-artists-one-album-inside-e-l-f-cosmetics-mirror-mix-1235631091/",
-    "publishedAt": "2026-09-25T13:24:13.000Z",
-    "summary": "What happens when you give 50 songwriters, producers, creators, and collaborators free rein in one marathon creative session? E.l.f Cosmetics has the answer to this question – “Mirror Mix,” its second original music compilation album that features a bevy of rising talent across pop, R&B, Latin, and rock. It’s an endeavor that honors e.l.f’s commitment […]",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-latin/latin-music-revenue-2026-growth-outpacing-u-s-market-1235631280/",
-    "source": "rolling-stone",
-    "title": "Latin Music Revenue Is Booming — And Outpacing the Overall U.S. Market (Again)",
-    "url": "https://www.rollingstone.com/music/music-latin/latin-music-revenue-2026-growth-outpacing-u-s-market-1235631280/",
-    "publishedAt": "2026-09-25T13:15:00.000Z",
-    "summary": "An RIAA report shows that Latin music made more than $542.2 million in the first half of 2026",
     "image": null
   },
   {
@@ -222,6 +285,15 @@
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVE1uZ1NtTXR6LVlpbGE4X0FsNElhVElHYk9QajVxQ1pGVVRkQ1ZYRXRyOGVLYVh2ekV2X3lPb1VHQTllXzM3TW1icHZZR0NJREEySGQzOHJ0V0ZfOHdpanUxcU9fTU4xT3MyOHc4ekp3WXBZQ2FLamtOUTVuejFSTUVxRzlEbDhsSm1iRmNIYV9PN01GWkNOYWlteDl5VFNpRTlKZA?oc=5",
     "publishedAt": "2026-09-25T11:57:09.000Z",
     "summary": "Nothing But Thieves tell us about \"subverting expectations\" on introspective 'Stray Dogs': \"We're a band that takes left turns\" NME",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMilAFBVV95cUxOVGtLZVBaV3RDem1zTkdVMXU2SmhKYlU3M3BTc3VVWXFtQ29ZV0FxRzRmUy1Mb241YzMzNTdvQjBsc2VKcVRDLUN0TUdUTmphZXRUdUEzQXA5UTR4ZFlJYjNOWmVFYVFPMTlPTWJtY3FEQ2NvQUFMR09YSnF5OFVFVWJ2SHd3RW1PQXVGQjljampFbXNz?oc=5",
+    "source": "nme",
+    "title": "‘How To Get To Heaven From Belfast’ cancelled at Netflix - NME",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVGtLZVBaV3RDem1zTkdVMXU2SmhKYlU3M3BTc3VVWXFtQ29ZV0FxRzRmUy1Mb241YzMzNTdvQjBsc2VKcVRDLUN0TUdUTmphZXRUdUEzQXA5UTR4ZFlJYjNOWmVFYVFPMTlPTWJtY3FEQ2NvQUFMR09YSnF5OFVFVWJ2SHd3RW1PQXVGQjljampFbXNz?oc=5",
+    "publishedAt": "2026-09-25T11:55:09.000Z",
+    "summary": "‘How To Get To Heaven From Belfast’ cancelled at Netflix NME",
     "image": null
   },
   {
@@ -387,39 +459,12 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/story/sugababes-announces-first-album-as-original-trio-in-26-years/",
-    "source": "pitchfork",
-    "title": "Sugababes Announce First Album as Original Trio in 26 Years",
-    "url": "https://pitchfork.com/story/sugababes-announces-first-album-as-original-trio-in-26-years/",
-    "publishedAt": "2026-09-24T18:03:13.000Z",
-    "summary": "After various lineup changes, the OG girl group have reunited for a self-titled record due out next year",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/slipknot-dolly-parton-same-manager-danny-nozell/",
     "source": "loudwire",
     "title": "Slipknot's Unlikely Connection to Dolly Parton",
     "url": "https://loudwire.com/slipknot-dolly-parton-same-manager-danny-nozell/",
     "publishedAt": "2026-09-24T18:01:39.000Z",
     "summary": "Slipknot had an unlikely connection to late country legend Dolly Parton: they had the same manager, though at different points. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/morphine-unveil-lost-album-cocoon/",
-    "source": "pitchfork",
-    "title": "Morphine Unveil Lost Album Cocoon",
-    "url": "https://pitchfork.com/story/morphine-unveil-lost-album-cocoon/",
-    "publishedAt": "2026-09-24T17:54:08.000Z",
-    "summary": "The album, led by the title track, was completed from recordings shelved soon before the death of frontman Mark Sandman",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/u2-announce-first-album-in-nine-years/",
-    "source": "pitchfork",
-    "title": "U2 Announce First Album in Nine Years",
-    "url": "https://pitchfork.com/story/u2-announce-first-album-in-nine-years/",
-    "publishedAt": "2026-09-24T17:31:18.000Z",
-    "summary": "Carnaval De Luz cut “Torn” features Dolly Parton’s last-recorded vocal performance",
     "image": null
   },
   {
@@ -459,39 +504,12 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/americas-got-talent-nene-royal-opening-spot-avenged-sevenfold/",
-    "source": "loudwire",
-    "title": "'America's Got Talent' Winner Lands Opening Spot for Major Band",
-    "url": "https://loudwire.com/americas-got-talent-nene-royal-opening-spot-avenged-sevenfold/",
-    "publishedAt": "2026-09-24T14:32:47.000Z",
-    "summary": "Nene Royal will open for Avenged Sevenfold when they play in Singapore in October 2026. Continue reading…",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/reviews/julia-jacklins-the-gem-reviewed-australian-road-warrior-discovers-theres-no-place-like-home-156469/",
     "source": "uncut",
     "title": "Julia Jacklin’s The Gem reviewed: Australian road warrior discovers there’s no place like home",
     "url": "https://www.uncut.co.uk/reviews/julia-jacklins-the-gem-reviewed-australian-road-warrior-discovers-theres-no-place-like-home-156469/",
     "publishedAt": "2026-09-24T13:10:46.000Z",
     "summary": "After years spent on the touring treadmill, she finds fresh sense of purpose back in Melbourne",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMiwwFBVV95cUxQczlmQVJ6TFVMWWF4bFV1bVc2QzFNMnZIX0dkc0F6dUM4bW1vM0dpa1hneGdQRTNWSGlBNmFVV3JoV1ZiMi1TbHEzUHhyZkN4X3NMLVNsZmRGVVk4T3ctNW1ydU54ekVQS01qWDFyclkwYndrcjREV3lxUlh1UVdReTA0SXphRHZLXzVudVAyaHp1RkhnNWVQMThWd3lkMnluYWlTVF9YT2lDNmdHSUJpS3JVZDlLWHNIZ2NQWVppcm5KVkU?oc=5",
-    "source": "nme",
-    "title": "Robert Pattinson details cut Joker scene from 'The Batman' with Barry Keoghan: \"He's the man\" - NME",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQczlmQVJ6TFVMWWF4bFV1bVc2QzFNMnZIX0dkc0F6dUM4bW1vM0dpa1hneGdQRTNWSGlBNmFVV3JoV1ZiMi1TbHEzUHhyZkN4X3NMLVNsZmRGVVk4T3ctNW1ydU54ekVQS01qWDFyclkwYndrcjREV3lxUlh1UVdReTA0SXphRHZLXzVudVAyaHp1RkhnNWVQMThWd3lkMnluYWlTVF9YT2lDNmdHSUJpS3JVZDlLWHNIZ2NQWVppcm5KVkU?oc=5",
-    "publishedAt": "2026-09-24T11:55:13.000Z",
-    "summary": "Robert Pattinson details cut Joker scene from 'The Batman' with Barry Keoghan: \"He's the man\" NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMiswFBVV95cUxQQU5EMG1GTGRrTHdXRnY0Wkxjd0pMUm9HaXZOMTJLeGhyZHNMWWhfVmk3akotZmx0ejJHclFjVG1HY19uV3RINzgySGt0Zlo2V2NMWEdqYkN5VV90OXRvM2NBUDhVM1ZRQTNjVE5BTGZLVjlHdUxPWkU4OVB1Vi1yZjF6cWRNV3NUMS1ZOTlHNU1JQkRtTG1pcXh3RG5KZzQxNUI4bTNGWm1aS19NMnRHWWZZdw?oc=5",
-    "source": "nme",
-    "title": "Liam Gallagher says Oasis’ ‘Live ’27’ “isn’t a farewell tour but it still could be our last” - NME",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQU5EMG1GTGRrTHdXRnY0Wkxjd0pMUm9HaXZOMTJLeGhyZHNMWWhfVmk3akotZmx0ejJHclFjVG1HY19uV3RINzgySGt0Zlo2V2NMWEdqYkN5VV90OXRvM2NBUDhVM1ZRQTNjVE5BTGZLVjlHdUxPWkU4OVB1Vi1yZjF6cWRNV3NUMS1ZOTlHNU1JQkRtTG1pcXh3RG5KZzQxNUI4bTNGWm1aS19NMnRHWWZZdw?oc=5",
-    "publishedAt": "2026-09-24T11:07:37.000Z",
-    "summary": "Liam Gallagher says Oasis’ ‘Live ’27’ “isn’t a farewell tour but it still could be our last” NME",
     "image": null
   },
   {
@@ -573,24 +591,6 @@
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80OWtIb1Zvdm1WYjl5NkF1MUpiRG5NOS1ES3lCN0NHZEJKZVBwQ3JoMU1ILVhVb3hPX3BWZGwzY2NBbzFwR0R3YWhLRFRvdEpEemV2ZFc1Qy1yeHd0aGk5SG04OGJtVmxxbGJtUw?oc=5",
     "publishedAt": "2026-09-24T09:55:00.000Z",
     "summary": "Album review: Split Dogs – Nice N’ Rough Kerrang!",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/americas-got-talent-winner-nene-royal-linkin-park-finale/",
-    "source": "loudwire",
-    "title": "'AGT' Winner Nene Royal Performs With Linkin Park on Finale",
-    "url": "https://loudwire.com/americas-got-talent-winner-nene-royal-linkin-park-finale/",
-    "publishedAt": "2026-09-24T03:40:13.000Z",
-    "summary": "Congrats to Nene Royal, who performed with Linkin Park before being named the 2026 'America's Got Talent' champion. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/hayley-williams-death-ex-husband-chad-gilbert-statement/",
-    "source": "loudwire",
-    "title": "Hayley Williams Addresses Death of Ex-Husband Chad Gilbert ",
-    "url": "https://loudwire.com/hayley-williams-death-ex-husband-chad-gilbert-statement/",
-    "publishedAt": "2026-09-23T19:14:10.000Z",
-    "summary": "Hayley Williams has now spoken after the death of her ex-husband, New Found Glory's Chad Gilbert. Continue reading…",
     "image": null
   },
   {
