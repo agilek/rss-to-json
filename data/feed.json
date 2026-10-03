@@ -1,5 +1,77 @@
 [
   {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/kennedy-center-honors-washington-d-c-arena-venue-closure-1235636463/",
+    "source": "rolling-stone",
+    "title": "Kennedy Center Honors Moving to Washington, D.C. Arena Amid Venue’s Closure",
+    "url": "https://www.rollingstone.com/music/music-news/kennedy-center-honors-washington-d-c-arena-venue-closure-1235636463/",
+    "publishedAt": "2026-10-03T15:14:47.000Z",
+    "summary": "2026 show will take place at Capital One Arena, home of basketball and hockey teams, while the performing arts center is \"temporarily closed\" for the foreseeable future",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/dexter-and-the-moonrocks-interview-freakin-out-1235636235/",
+    "source": "rolling-stone",
+    "title": "Lunar Landing: Dexter and the Moonrocks Touch Down in Country Music",
+    "url": "https://www.rollingstone.com/music/music-features/dexter-and-the-moonrocks-interview-freakin-out-1235636235/",
+    "publishedAt": "2026-10-03T15:00:00.000Z",
+    "summary": "The Texas band mix hard rock and grunge on their debut album Friends That I Don’t Like and want to create a Turnstile-like concert environment",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/best-glam-rock-song-each-year-1970s/",
+    "source": "loudwire",
+    "title": "The Best Glam Rock Song of Each Year of the 1970s",
+    "url": "https://loudwire.com/best-glam-rock-song-each-year-1970s/",
+    "publishedAt": "2026-10-03T14:15:13.000Z",
+    "summary": "Before the decade was over, glam rock had left its fingerprints all over popular music Continue reading…",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/tinashe-bob-dylan-times-they-are-a-changin-1235636095/",
+    "source": "rolling-stone",
+    "title": "Watch Tinashe Sing ‘The Times They Are-A Changin’ to Bob Dylan When She Was 10 Years Old",
+    "url": "https://www.rollingstone.com/music/music-features/tinashe-bob-dylan-times-they-are-a-changin-1235636095/",
+    "publishedAt": "2026-10-03T14:00:00.000Z",
+    "summary": "Dylan's 2003 movie Masked and Anonymous was an epic box office bomb, but it was saved for a least a couple of minutes by a precocious Tinashe, years before she became famous",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/team-dresch-nineties-new-album-furthermore-1235635794/",
+    "source": "rolling-stone",
+    "title": "Team Dresch Are Queercore Punk Legends — But They Have Just Begun to Fight",
+    "url": "https://www.rollingstone.com/music/music-features/team-dresch-nineties-new-album-furthermore-1235635794/",
+    "publishedAt": "2026-10-03T14:00:00.000Z",
+    "summary": "The Nineties rebels are back with first album in 30 years, the brutal and inspirational Furthermore",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/ac-dc-out-dave-grohl-highway-to-hell-power-up-tour-finale-1235636450/",
+    "source": "rolling-stone",
+    "title": "See AC/DC Bring Out Dave Grohl for ‘Highway to Hell’ at Power Up Tour’s Final Show",
+    "url": "https://www.rollingstone.com/music/music-news/ac-dc-out-dave-grohl-highway-to-hell-power-up-tour-finale-1235636450/",
+    "publishedAt": "2026-10-03T13:41:17.000Z",
+    "summary": "Foo Fighters served as openers at New Jersey's MetLife Stadium, the last show on AC/DC's itinerary for the foreseeable future, and maybe longer",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/noah-kahan-producer-gabe-simon-interview-1235634924/",
+    "source": "rolling-stone",
+    "title": "Noah Kahan Producer Gabe Simon Is More Than Just a ‘Stomp-Clap’ Guy",
+    "url": "https://www.rollingstone.com/music/music-features/noah-kahan-producer-gabe-simon-interview-1235634924/",
+    "publishedAt": "2026-10-03T13:30:00.000Z",
+    "summary": "\"I have no desire to do one thing,\" says the architect of Stick Season, The Great Divide, and albums by country rocker Koe Wetzel",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/tom-morello-interview-album-sheeran-springsteen-audioslave-1235635303/",
+    "source": "rolling-stone",
+    "title": "Tom Morello: ‘If It Kills Like Fascism, Brothers and Sisters, It’s Fascism’",
+    "url": "https://www.rollingstone.com/music/music-features/tom-morello-interview-album-sheeran-springsteen-audioslave-1235635303/",
+    "publishedAt": "2026-10-03T13:00:00.000Z",
+    "summary": "The musician-activist dropped a heavy new album, toured with Springsteen, and is launching the Power to the People festival — and he’s got a lot more to say",
+    "image": null
+  },
+  {
     "id": "louder-than-war-https://louderthanwar.com/adult-dvd-fighting-cocks-kingston-live-review/",
     "source": "louder-than-war",
     "title": "Adult DVD: Fighting Cocks, Kingston – Live Review",
@@ -27,6 +99,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMizwFBVV95cUxOcV91RlJ0a0RlVTRNU0tCQ082eVpSX3pVdmcxazhVLTNyYWRxWWdmMVVNUThhV0lxTzZlYmp2RHZkcXV0bm5NQkxPSUxhbzVsVWQ4U19SX2RfR1ZqQl9qVnRhVnA3TEI3R2lPWFNuQ3A2OTZVc0RwRFdNc2J3NmlvaF9pODBKSUMwcUp3UEFnUG9vTmFUNGtKQkktaEpFWFlxZkdYUTV6NFZxa1NoN214SWlqYTZXM3pfamtId2tNeXNUTUFBRDdVckFkaWNZd0E?oc=5",
+    "source": "nme",
+    "title": "Zach Bryan wears ‘Free Palestine’ shirt at Gillette Stadium following Robert Kraft-Macklemore row - NME",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcV91RlJ0a0RlVTRNU0tCQ082eVpSX3pVdmcxazhVLTNyYWRxWWdmMVVNUThhV0lxTzZlYmp2RHZkcXV0bm5NQkxPSUxhbzVsVWQ4U19SX2RfR1ZqQl9qVnRhVnA3TEI3R2lPWFNuQ3A2OTZVc0RwRFdNc2J3NmlvaF9pODBKSUMwcUp3UEFnUG9vTmFUNGtKQkktaEpFWFlxZkdYUTV6NFZxa1NoN214SWlqYTZXM3pfamtId2tNeXNUTUFBRDdVckFkaWNZd0E?oc=5",
+    "publishedAt": "2026-10-03T07:56:10.000Z",
+    "summary": "Zach Bryan wears ‘Free Palestine’ shirt at Gillette Stadium following Robert Kraft-Macklemore row NME",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/zach-bryan-free-palestine-shirt-gillette-stadium-macklemore-1235636423/",
     "source": "rolling-stone",
     "title": "Zach Bryan Wears ‘Free Palestine’ Shirt at Gillette After Owner Robert Kraft Banned Macklemore",
@@ -38,10 +119,10 @@
   {
     "id": "nme-https://news.google.com/rss/articles/CBMitAFBVV95cUxNQkR0YWV6eE81NFdMeFEzRHNMUmJmNThCSTZ6em02dkI4TVhlQUVWRDNrNUI1VjBOeWlxS3F3WHZ0emJCazRCbzhFaVY0VGhOZWdVckliNS1Oa185OERfaDVFQ1Y5THBxTzViSmoxVTcwUVpmelF5UzdUaThja3J0OTdDM3Ffd1dEVmNkX1UwOHRQbFJpZHQ4aDhaSFlLMXlsc25pVjM4ZzFNMTVhZEg1dW1IcGg?oc=5",
     "source": "nme",
-    "title": "Olympia London cancels all December shows due to \"unforeseen planning issues\" - nme.com",
+    "title": "Olympia London cancels all December shows due to \"unforeseen planning issues\" - NME",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQkR0YWV6eE81NFdMeFEzRHNMUmJmNThCSTZ6em02dkI4TVhlQUVWRDNrNUI1VjBOeWlxS3F3WHZ0emJCazRCbzhFaVY0VGhOZWdVckliNS1Oa185OERfaDVFQ1Y5THBxTzViSmoxVTcwUVpmelF5UzdUaThja3J0OTdDM3Ffd1dEVmNkX1UwOHRQbFJpZHQ4aDhaSFlLMXlsc25pVjM4ZzFNMTVhZEg1dW1IcGg?oc=5",
     "publishedAt": "2026-10-03T04:12:37.000Z",
-    "summary": "Olympia London cancels all December shows due to \"unforeseen planning issues\" nme.com",
+    "summary": "Olympia London cancels all December shows due to \"unforeseen planning issues\" NME",
     "image": null
   },
   {
@@ -144,57 +225,12 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/quiet-riot-new-singer-cum-on-feel-the-noize-1235636026/",
-    "source": "rolling-stone",
-    "title": "Watch Quiet Riot’s New 23-Year-Old Singer Belt Out ‘Cum On Feel The Noize’ at Debut Concert",
-    "url": "https://www.rollingstone.com/music/music-news/quiet-riot-new-singer-cum-on-feel-the-noize-1235636026/",
-    "publishedAt": "2026-10-02T17:48:31.000Z",
-    "summary": "John Torra has basically lived out the plot of the 2001 Mark Wahlberg movie Rock Star by landing a role as the lead singer of one his favorite bands, and nailing it on the first night",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/noel-gallagher-mtv-unplugged-guitar-300000-auction-1235635985/",
-    "source": "rolling-stone",
-    "title": "Noel Gallagher’s ‘MTV Unplugged’ Acoustic Guitar Fetches $300,000 at Auction",
-    "url": "https://www.rollingstone.com/music/music-news/noel-gallagher-mtv-unplugged-guitar-300000-auction-1235635985/",
-    "publishedAt": "2026-10-02T17:47:06.000Z",
-    "summary": "A Freddie Mercury notebook with handwritten lyrics and a Michael Jackson jacket also drew big bucks at the first day of Propstore’s Music Live Auction",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/fontaines-dc-plot-2027-north-american-tour/",
     "source": "pitchfork",
     "title": "Fontaines D.C. Plot 2027 North American Tour",
     "url": "https://pitchfork.com/story/fontaines-dc-plot-2027-north-american-tour/",
     "publishedAt": "2026-10-02T17:40:27.000Z",
     "summary": "The Irish band is headed to arenas across the pond with Iceage and Westside Cowboy",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/kid-rock-jimmie-allen-collab-christian-album-1235635895/",
-    "source": "rolling-stone",
-    "title": "Kid Rock Enlists Accused Sexual Assaulter for New Christian Album",
-    "url": "https://www.rollingstone.com/music/music-country/kid-rock-jimmie-allen-collab-christian-album-1235635895/",
-    "publishedAt": "2026-10-02T17:30:00.000Z",
-    "summary": "Jimmie Allen, who allegedly sexually assaulted a woman in 2022 and filmed the encounter, appears on the track list for Rock's Halfway 2 Jesus",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-latin/karol-g-drake-bruno-mars-dating-rumors-1235635698/",
-    "source": "rolling-stone",
-    "title": "What’s Going on Between Karol G, Drake, and Bruno Mars?",
-    "url": "https://www.rollingstone.com/music/music-latin/karol-g-drake-bruno-mars-dating-rumors-1235635698/",
-    "publishedAt": "2026-10-02T17:28:04.000Z",
-    "summary": "The musicians keep leaning into a love triangle. Whether it’s real or a marketing tactic, people are intrigued",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-live-reviews/ringo-starr-forest-hills-stadium-first-time-1964-1235635951/",
-    "source": "rolling-stone",
-    "title": "Ringo Starr Plays Forest Hills Stadium for First Time Since Beatlemania in 1964",
-    "url": "https://www.rollingstone.com/music/music-live-reviews/ringo-starr-forest-hills-stadium-first-time-1964-1235635951/",
-    "publishedAt": "2026-10-02T17:11:59.000Z",
-    "summary": "“It’s great to be back,” Ringo deadpanned to the crowd, which included several fans who caught him there with the Beatles 62 years earlier",
     "image": null
   },
   {
@@ -207,30 +243,12 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/fontaines-dc-miranda-lambert-quavo-songs-you-need-to-know-1235635833/",
-    "source": "rolling-stone",
-    "title": "Fontaines D.C., Miranda Lambert, and All the Songs You Need to Know This Week",
-    "url": "https://www.rollingstone.com/music/music-features/fontaines-dc-miranda-lambert-quavo-songs-you-need-to-know-1235635833/",
-    "publishedAt": "2026-10-02T16:54:32.000Z",
-    "summary": "Looking for the week’s best new music? Check out our Songs You Need to Know playlist",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/miranda-lambert-ella-langley-snakeskin-boots-collab-1235635849/",
-    "source": "rolling-stone",
-    "title": "Miranda Lambert and Ella Langley Throw on Their ‘Snakeskin Boots’ for New Collab",
-    "url": "https://www.rollingstone.com/music/music-country/miranda-lambert-ella-langley-snakeskin-boots-collab-1235635849/",
-    "publishedAt": "2026-10-02T15:53:47.000Z",
-    "summary": "After co-writing “Choosin’ Texas” together, the vocalists team up for a duet on Lambert’s newly-released studio album, Crisco",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMiygFBVV95cUxOY0NYNXZnVTJ1TVpBbFdZZVozNlFDcV91SWtQd1ZNY3poTEdLRUJ6cjhoOFdFUzYxODdyOTJQN194bHM3OTVZNjEtamZPUkRRdHhoVUFfMml3eFpUY29uQm1zb19xRzZPUFJlaWpOaFBtN1JuRC03NnZoRklzaXJ5emU5XzFGT0M5dW1RLW1nV0MzUUhhTkpXWmpJb1lONGhpSktZaDFUV3JTRXJpQnAzU3JZTlZIalBkaEhiQ0lkRVBwNndoSEp2RmdR?oc=5",
     "source": "nme",
-    "title": "Stray Kids join BTS in boycotting 2027 Grammys following introduction of Asian Pop category - nme.com",
+    "title": "Stray Kids join BTS in boycotting 2027 Grammys following introduction of Asian Pop category - NME",
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOY0NYNXZnVTJ1TVpBbFdZZVozNlFDcV91SWtQd1ZNY3poTEdLRUJ6cjhoOFdFUzYxODdyOTJQN194bHM3OTVZNjEtamZPUkRRdHhoVUFfMml3eFpUY29uQm1zb19xRzZPUFJlaWpOaFBtN1JuRC03NnZoRklzaXJ5emU5XzFGT0M5dW1RLW1nV0MzUUhhTkpXWmpJb1lONGhpSktZaDFUV3JTRXJpQnAzU3JZTlZIalBkaEhiQ0lkRVBwNndoSEp2RmdR?oc=5",
     "publishedAt": "2026-10-02T14:32:57.000Z",
-    "summary": "Stray Kids join BTS in boycotting 2027 Grammys following introduction of Asian Pop category nme.com",
+    "summary": "Stray Kids join BTS in boycotting 2027 Grammys following introduction of Asian Pop category NME",
     "image": null
   },
   {
@@ -245,10 +263,10 @@
   {
     "id": "nme-https://news.google.com/rss/articles/CBMirwFBVV95cUxOQW1XQWRJWDFObUhOMER3SUpRZWI2R2xOWUtFUVFHQVVLTEI1LWlGbG9mUHg1SHYtZTVnNVc3azdFbG15bzJEaFhNRUQzQzYyUW9Lc2lVaUNpVDZPTW53UFpZb3BKdnNsN3paNVZBZGx5LXlPclc0VlREcVRhU09sTEFiMXhOLV8wZHVzNm9MY185aE1KV1E2OVA0YUo2NmxCcDhSMXBqdzRFajBxTU4w?oc=5",
     "source": "nme",
-    "title": "Muse announce ‘The Wow! Signal’ 2027 European arena tour - nme.com",
+    "title": "Muse announce ‘The Wow! Signal’ 2027 European arena tour - NME",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQW1XQWRJWDFObUhOMER3SUpRZWI2R2xOWUtFUVFHQVVLTEI1LWlGbG9mUHg1SHYtZTVnNVc3azdFbG15bzJEaFhNRUQzQzYyUW9Lc2lVaUNpVDZPTW53UFpZb3BKdnNsN3paNVZBZGx5LXlPclc0VlREcVRhU09sTEFiMXhOLV8wZHVzNm9MY185aE1KV1E2OVA0YUo2NmxCcDhSMXBqdzRFajBxTU4w?oc=5",
     "publishedAt": "2026-10-02T14:19:53.000Z",
-    "summary": "Muse announce ‘The Wow! Signal’ 2027 European arena tour nme.com",
+    "summary": "Muse announce ‘The Wow! Signal’ 2027 European arena tour NME",
     "image": null
   },
   {
@@ -308,19 +326,19 @@
   {
     "id": "nme-https://news.google.com/rss/articles/CBMi9AFBVV95cUxNODEwMlY0bUc5MHBfSHZCWDFrb21lWG5nM0RNLWhSaDQtVFYwLVQ1WVp0TVRCY2VXZ0p5TDlGOHJXWk5lSXkzM24wdllweHlPbk4xRXBUeDhRcUU0TjNqNzhMRWlldDVfcmVaaXpBV2ZUS0NGWDRtRms3UXdMT3V3N0ZQRU9fT3Y1TzhuTEJSajZDYk9vRjR5OFJ5UDBXTWN2RndKTDRENEp1am5JX1N1TVFrd3V5WXlPWHNyX2lvMUk5WjlMM1NIVUVNQnk2dy1MTXNSbkdmUm1PMm9uQzhTWlpFWmtFRjg1YTQ5RWZLMng1bk5r?oc=5",
     "source": "nme",
-    "title": "Phil Collins reignites Paul McCartney feud after ‘Tomorrow Never Knows’ cover “taken out” of Beatles doc: “Maybe he didn’t like it” - nme.com",
+    "title": "Phil Collins reignites Paul McCartney feud after ‘Tomorrow Never Knows’ cover “taken out” of Beatles doc: “Maybe he didn’t like it” - NME",
     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNODEwMlY0bUc5MHBfSHZCWDFrb21lWG5nM0RNLWhSaDQtVFYwLVQ1WVp0TVRCY2VXZ0p5TDlGOHJXWk5lSXkzM24wdllweHlPbk4xRXBUeDhRcUU0TjNqNzhMRWlldDVfcmVaaXpBV2ZUS0NGWDRtRms3UXdMT3V3N0ZQRU9fT3Y1TzhuTEJSajZDYk9vRjR5OFJ5UDBXTWN2RndKTDRENEp1am5JX1N1TVFrd3V5WXlPWHNyX2lvMUk5WjlMM1NIVUVNQnk2dy1MTXNSbkdmUm1PMm9uQzhTWlpFWmtFRjg1YTQ5RWZLMng1bk5r?oc=5",
     "publishedAt": "2026-10-02T12:17:25.000Z",
-    "summary": "Phil Collins reignites Paul McCartney feud after ‘Tomorrow Never Knows’ cover “taken out” of Beatles doc: “Maybe he didn’t like it” nme.com",
+    "summary": "Phil Collins reignites Paul McCartney feud after ‘Tomorrow Never Knows’ cover “taken out” of Beatles doc: “Maybe he didn’t like it” NME",
     "image": null
   },
   {
     "id": "nme-https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT0tCekZYd2V0U0J2bnlPMFBzc0tqOEYzT0hZZ3FxbGgyd3VGQkVoRzQ0WG5PR3NxSGNSWWx6SllteEpmUzcxNkFWdmhOdE1qSGhleXJNS3hHczZiM3hyeENhUGlENm9rR0ZDaTRrTFNpSGM5ZzdoWlJZN0gwSzhYSlJPZktZZUNLemY3aW5jeW1VVXluUmpDNk4xUnY2WWc3UmwwbVRYYzVDM3ZEZ3o5Qk9pWHl2Q3pf?oc=5",
     "source": "nme",
-    "title": "Watch Metallica revive '...And Justice For All' as they kick off mind-bending Las Vegas Sphere residency - nme.com",
+    "title": "Watch Metallica revive '...And Justice For All' as they kick off mind-bending Las Vegas Sphere residency - NME",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT0tCekZYd2V0U0J2bnlPMFBzc0tqOEYzT0hZZ3FxbGgyd3VGQkVoRzQ0WG5PR3NxSGNSWWx6SllteEpmUzcxNkFWdmhOdE1qSGhleXJNS3hHczZiM3hyeENhUGlENm9rR0ZDaTRrTFNpSGM5ZzdoWlJZN0gwSzhYSlJPZktZZUNLemY3aW5jeW1VVXluUmpDNk4xUnY2WWc3UmwwbVRYYzVDM3ZEZ3o5Qk9pWHl2Q3pf?oc=5",
     "publishedAt": "2026-10-02T11:22:09.000Z",
-    "summary": "Watch Metallica revive '...And Justice For All' as they kick off mind-bending Las Vegas Sphere residency nme.com",
+    "summary": "Watch Metallica revive '...And Justice For All' as they kick off mind-bending Las Vegas Sphere residency NME",
     "image": null
   },
   {
@@ -344,10 +362,10 @@
   {
     "id": "nme-https://news.google.com/rss/articles/CBMivgFBVV95cUxONmVndWRMR0NoeWRkZjUxWlByYVdUMUNSMC1OVXdSbzM5cVNhSTZRc2JBYlJ2X3pUbUgtaXdXZG9YWjVYMHJJdVg5eVk3eTZLaWxjbkFhRi1xM0kxOWVtdnpqUTFlWHRmeDlKa2VNb0FVaEZ2RWFOaXNpNHdkNUJTaUFKMkZ1RWNQSDRSZmVNa2xmc2ZLVmt3TkVNYlVOX2FUT0J3SEtSMVVGZkI1MjNvcG5MYjVjTFBaTWZNX2Vn?oc=5",
     "source": "nme",
-    "title": "CMAT shares “hot take” on “unfair” Ed Sheeran backlash: “Maybe his problem was that he started identifying as Irish recently” - nme.com",
+    "title": "CMAT shares “hot take” on “unfair” Ed Sheeran backlash: “Maybe his problem was that he started identifying as Irish recently” - NME",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONmVndWRMR0NoeWRkZjUxWlByYVdUMUNSMC1OVXdSbzM5cVNhSTZRc2JBYlJ2X3pUbUgtaXdXZG9YWjVYMHJJdVg5eVk3eTZLaWxjbkFhRi1xM0kxOWVtdnpqUTFlWHRmeDlKa2VNb0FVaEZ2RWFOaXNpNHdkNUJTaUFKMkZ1RWNQSDRSZmVNa2xmc2ZLVmt3TkVNYlVOX2FUT0J3SEtSMVVGZkI1MjNvcG5MYjVjTFBaTWZNX2Vn?oc=5",
     "publishedAt": "2026-10-02T10:31:07.000Z",
-    "summary": "CMAT shares “hot take” on “unfair” Ed Sheeran backlash: “Maybe his problem was that he started identifying as Irish recently” nme.com",
+    "summary": "CMAT shares “hot take” on “unfair” Ed Sheeran backlash: “Maybe his problem was that he started identifying as Irish recently” NME",
     "image": null
   },
   {
@@ -375,6 +393,15 @@
     "url": "https://www.uncut.co.uk/reviews/johnny-marrs-the-age-of-everything-reviewed-sharp-songs-from-an-indie-survivor-156556/",
     "publishedAt": "2026-10-02T09:26:14.000Z",
     "summary": "The erstwhile super-sideman's latter-day burst of solo creativity continues apace",
+    "image": null
+  },
+  {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMiekFVX3lxTE40NmxhZ28yRE8wQXY3RUxVTXFteTRtaDRzMllaWFFpanoxY081WFMxUFlfRENpNFc3SlFVZTVJLUtoY0Y3a0ZmTWtady1tUXZ5Vk9GMC1WRklIYnoycWN6UGhOY1B2MllHMERjaVNjaFBPZEdOTHkxVzh3?oc=5",
+    "source": "kerrang",
+    "title": "Album review: Amon Amarth – The Allfather Awakens - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE40NmxhZ28yRE8wQXY3RUxVTXFteTRtaDRzMllaWFFpanoxY081WFMxUFlfRENpNFc3SlFVZTVJLUtoY0Y3a0ZmTWtady1tUXZ5Vk9GMC1WRklIYnoycWN6UGhOY1B2MllHMERjaVNjaFBPZEdOTHkxVzh3?oc=5",
+    "publishedAt": "2026-10-02T09:24:00.000Z",
+    "summary": "Album review: Amon Amarth – The Allfather Awakens Kerrang!",
     "image": null
   },
   {
@@ -468,15 +495,6 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/iron-maiden-us-tour-closer-review-set-list-photos/",
-    "source": "loudwire",
-    "title": "Photos - Iron Maiden Wrap 2026 U.S. Tour Dates",
-    "url": "https://loudwire.com/iron-maiden-us-tour-closer-review-set-list-photos/",
-    "publishedAt": "2026-10-01T18:59:27.000Z",
-    "summary": "After half a century of rocking, there's still nobody who does it like them. Continue reading…",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/yung-miami-announces-debut-solo-album-watch-dis-features/",
     "source": "pitchfork",
     "title": "Yung Miami Launches Debut Solo Album With New Songs “F U” and “2008”",
@@ -546,15 +564,6 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ3psYkpJeHBMZnE0cWZFODhyTnVRN002NWh5Tlo3b3N2RUFSQW5CWHpPLTFjbkNOb3JYRk13MWQ4Ym8xb2VzcWk0ZmpuNXhRRHAxODMwcFNiUUVVSVR3QlBuU2Zub09mb3ZhVzlLc1lOYVd1SFdHTERPUUVoUThQVlc0eC1NLVNMRDVCNDJpcUFXaHZ6c1Q3cDlPelh3aGk3UEZGeUNUd0twdHJQc1JVRWZDT3c?oc=5",
     "publishedAt": "2026-10-01T15:16:40.000Z",
     "summary": "GANS announce self-titled second album with propulsive new single 'My God Is A Stranger': \"A cauldron of casual sex and witchcraft\" NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMinwFBVV95cUxQU1hyUFlGY09pQlo5a3Boa19RcDlpZEhWWm84T1BrSlZlUnF3eEhGSkNPczM2Wk5rNGdtemhJeW5JTHVEdEE5cndJbUhCZE9sb0NZMVhpeVlMMTU5WkY4YjNSMm9nM1RyMEVDSzBGc2lEODdzRVhJU0s1NlVDUEd3U19SV3UwcFhGXzdkSmlPLWFfcHZmZVhkMngxSWc4VFk?oc=5",
-    "source": "nme",
-    "title": "‘East Of Eden’ review: brutal American epic powered by Florence Pugh - NME",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU1hyUFlGY09pQlo5a3Boa19RcDlpZEhWWm84T1BrSlZlUnF3eEhGSkNPczM2Wk5rNGdtemhJeW5JTHVEdEE5cndJbUhCZE9sb0NZMVhpeVlMMTU5WkY4YjNSMm9nM1RyMEVDSzBGc2lEODdzRVhJU0s1NlVDUEd3U19SV3UwcFhGXzdkSmlPLWFfcHZmZVhkMngxSWc4VFk?oc=5",
-    "publishedAt": "2026-10-01T14:15:04.000Z",
-    "summary": "‘East Of Eden’ review: brutal American epic powered by Florence Pugh NME",
     "image": null
   },
   {
@@ -690,15 +699,6 @@
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMGtaUXhJYXFFR0FTU0NYOW4zU3NqVDl2WC1DUGVXYlJKc2UxWHBDOGt6XzdmWFdhV1pqbzU4WDcwbTI5TWRKLUFfWi1OdnJEN0pOanRVcERDWGlXc1dOUWFZdDA3ZDRUVDFZcVByYUdfSlFrdmNYOGc2bnBubXR5d0JWWlNucHdvSzBhSHNCNzZJSzkwaTNSVlUyY00tV0IyN0NYUGxrVWUtcDhLS1N6MUxMS1ppUG15THh2X1lRenZiMVBOOUNySw?oc=5",
     "publishedAt": "2026-09-30T11:50:00.000Z",
     "summary": "“If you're true to yourself, other people will be able to feel it”: unpeople are on a mission to bring us together Kerrang!",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWXFya2VaYURVcktKTXhBb2JpTFpyb0FtaGIzNEp5T0FnSm9LVVlfanpUMXdLLWFnMmhmWFE3X09PRm13cDY2aWlYUUxhbzFTVTZ2cmMzYXB0QUN4SFRsTEphb2h0eEJkbm1UeEIweFBndnh2V2sxRUJ4RmJFNlZfQzJTMy1IcXNrZzhCQVFLcFNvb3c2dTJHV2hkNFYxQ1o4TzdlZ3M0N0dyRXVsNUV5T3FUTFFubm9scGMza0l2Qkc3UTQ?oc=5",
-    "source": "kerrang",
-    "title": "Slam Dunk announces first names for 2027, including Bowling For Soup, Killswitch Engage and Simple Plan - kerrang.com",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWXFya2VaYURVcktKTXhBb2JpTFpyb0FtaGIzNEp5T0FnSm9LVVlfanpUMXdLLWFnMmhmWFE3X09PRm13cDY2aWlYUUxhbzFTVTZ2cmMzYXB0QUN4SFRsTEphb2h0eEJkbm1UeEIweFBndnh2V2sxRUJ4RmJFNlZfQzJTMy1IcXNrZzhCQVFLcFNvb3c2dTJHV2hkNFYxQ1o4TzdlZ3M0N0dyRXVsNUV5T3FUTFFubm9scGMza0l2Qkc3UTQ?oc=5",
-    "publishedAt": "2026-09-30T09:07:59.000Z",
-    "summary": "Slam Dunk announces first names for 2027, including Bowling For Soup, Killswitch Engage and Simple Plan kerrang.com",
     "image": null
   },
   {
