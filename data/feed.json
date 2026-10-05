@@ -1,5 +1,68 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/victoria-monet-frequency-of-love-new-music-poll-results-1236354023/",
+    "source": "billboard",
+    "title": "Fans Choose Victoria Monét’s ‘Frequency of Love’ as This Week’s Favorite New Music",
+    "url": "https://www.billboard.com/music/rb-hip-hop/victoria-monet-frequency-of-love-new-music-poll-results-1236354023/",
+    "publishedAt": "2026-10-05T02:41:40.000Z",
+    "summary": "Her 22-song sophomore set brought in 40% of the vote.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/latin/shakira-madrid-concert-livestream-amazon-music-record-1236353979/",
+    "source": "billboard",
+    "title": "Shakira’s Madrid Concert Sets an Amazon Music Livestreaming Record",
+    "url": "https://www.billboard.com/music/latin/shakira-madrid-concert-livestream-amazon-music-record-1236353979/",
+    "publishedAt": "2026-10-05T00:42:16.000Z",
+    "summary": "Shakira's show, featuring surprise guest Dua Lipa, marked a milestone for female artists who've livestreamed performances on the platform.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/shakiras-madrid-residency-guests-list/",
+    "source": "billboard",
+    "title": "All the Guests at Shakira’s Madrid Residency (Updating)",
+    "url": "https://www.billboard.com/lists/shakiras-madrid-residency-guests-list/",
+    "publishedAt": "2026-10-04T23:27:34.000Z",
+    "summary": "Laura Pausini, Alejandro Sanz, Dua Lipa and more: These are the artists who have joined the Colombian superstar onstage at Shakira Stadium.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/sunday-night-football-2026-2027-watch-nfl-live-online-free-1236343279/",
+    "source": "billboard",
+    "title": "‘Sunday Night Football’: How to Watch the Detroit Lions vs. Carolina Panthers Game Live Online Free",
+    "url": "https://www.billboard.com/culture/product-recommendations/sunday-night-football-2026-2027-watch-nfl-live-online-free-1236343279/",
+    "publishedAt": "2026-10-04T23:04:20.000Z",
+    "summary": "Watch the Lions take on the Panthers on Sunday, Oct. 4.",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTWVESzJSLVRUWVFRM19TZkZ4UTlreTJWMGh4YUE0Z0NPMzd0cjFJY0JvUjRKRC05VE81YUNkcHBUdmljcHlwazhocUJveURMTXE4OXpTSXJqTmJKWU1kU216SHBZNzdKbEJmU1R5UTBPVXJXcEdYWWVld1R6VWdhRzhHb0tneXFqWVMySF9uelZTVlFXM0hFYmczM2VrV1pwWTg3OU9zbVNZUVpjVlppUzhMUmdyNHpWeG5J?oc=5",
+    "source": "nme",
+    "title": "Watch Turnstile make ‘Saturday Night Live’ debut with ‘Birds’ and ‘I Care/Dull’ medley - NME",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTWVESzJSLVRUWVFRM19TZkZ4UTlreTJWMGh4YUE0Z0NPMzd0cjFJY0JvUjRKRC05VE81YUNkcHBUdmljcHlwazhocUJveURMTXE4OXpTSXJqTmJKWU1kU216SHBZNzdKbEJmU1R5UTBPVXJXcEdYWWVld1R6VWdhRzhHb0tneXFqWVMySF9uelZTVlFXM0hFYmczM2VrV1pwWTg3OU9zbVNZUVpjVlppUzhMUmdyNHpWeG5J?oc=5",
+    "publishedAt": "2026-10-04T22:16:38.000Z",
+    "summary": "Watch Turnstile make ‘Saturday Night Live’ debut with ‘Birds’ and ‘I Care/Dull’ medley NME",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/most-weeks-at-no-1-billboard-200-taylor-swift-the-beatles/",
+    "source": "billboard",
+    "title": "Taylor Swift, The Beatles, Elvis & More Artists With the Most Weeks at No. 1 on the Billboard 200: Full List",
+    "url": "https://www.billboard.com/lists/most-weeks-at-no-1-billboard-200-taylor-swift-the-beatles/",
+    "publishedAt": "2026-10-04T21:29:11.000Z",
+    "summary": "Will Swift eventually equal or top the Fab Four's record?",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/taylor-swift-life-of-a-showgirl-no-1-encore-1236353941/",
+    "source": "billboard",
+    "title": "Taylor Swift’s ‘The Life of a Showgirl’ Returns to No. 1 After ‘Encore’ Reissue",
+    "url": "https://www.billboard.com/music/chart-beat/taylor-swift-life-of-a-showgirl-no-1-encore-1236353941/",
+    "publishedAt": "2026-10-04T21:00:07.000Z",
+    "summary": "Plus, Tinashe and Kenny Chesney debut in the top 10.",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/elvis-costello-early-days-my-aim-is-true-box-set-1235636676/",
     "source": "rolling-stone",
     "title": "Elvis Costello on His Early Days: The Birth of ‘My Aim Is True’",
@@ -69,15 +132,6 @@
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWDFFcU9CRFlhdk5EaDRlbUpTLWxldHdDek9yUnpJOHpOa2pMUl9HR3VVVC1QdUlMOWV1U3F6Z2FYWjBLWGF2dmg4RDBUUlVhR3JQUXo2Ym4zdVNsME9OQVpkb3pVamNOOHluSlRIUUt0UVZUSzE5UVlybUZOU2hDckRXTDlqTVBlYTk1STFRM2JOWVZrbmR5YnE2TnBiQXBrcG5SaQ?oc=5",
     "publishedAt": "2026-10-04T17:23:45.000Z",
     "summary": "Fans react as Glastonbury 2027 general tickets sell out in 42 minutes NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTWVESzJSLVRUWVFRM19TZkZ4UTlreTJWMGh4YUE0Z0NPMzd0cjFJY0JvUjRKRC05VE81YUNkcHBUdmljcHlwazhocUJveURMTXE4OXpTSXJqTmJKWU1kU216SHBZNzdKbEJmU1R5UTBPVXJXcEdYWWVld1R6VWdhRzhHb0tneXFqWVMySF9uelZTVlFXM0hFYmczM2VrV1pwWTg3OU9zbVNZUVpjVlppUzhMUmdyNHpWeG5J?oc=5",
-    "source": "nme",
-    "title": "Watch Turnstile make ‘Saturday Night Live’ debut with ‘Birds’ and ‘I Care/Dull’ medley - NME",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTWVESzJSLVRUWVFRM19TZkZ4UTlreTJWMGh4YUE0Z0NPMzd0cjFJY0JvUjRKRC05VE81YUNkcHBUdmljcHlwazhocUJveURMTXE4OXpTSXJqTmJKWU1kU216SHBZNzdKbEJmU1R5UTBPVXJXcEdYWWVld1R6VWdhRzhHb0tneXFqWVMySF9uelZTVlFXM0hFYmczM2VrV1pwWTg3OU9zbVNZUVpjVlppUzhMUmdyNHpWeG5J?oc=5",
-    "publishedAt": "2026-10-04T17:23:45.000Z",
-    "summary": "Watch Turnstile make ‘Saturday Night Live’ debut with ‘Birds’ and ‘I Care/Dull’ medley NME",
     "image": null
   },
   {
@@ -162,30 +216,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/nfl-london-2026-colts-commanders-watch-live-online-free-1236352881/",
-    "source": "billboard",
-    "title": "NFL London Game 2026: Where to Watch Indianapolis Colts vs. Washington Commanders Live Online Free",
-    "url": "https://www.billboard.com/culture/product-recommendations/nfl-london-2026-colts-commanders-watch-live-online-free-1236352881/",
-    "publishedAt": "2026-10-04T10:30:00.000Z",
-    "summary": "Livestream the Colts take on the Commanders live from London on Oct. 4 — plus, watch Jordyn Simone and Mimi Webb perform their country's national anthems, ahead of kickoff.",
-    "image": null
-  },
-  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMidEFVX3lxTE8xbDU4WlNJbkQ1d28tY0JkdDdVSEZpREFXRTJjVkV2akFwZk9wV2V6MWJiU3VaR09pV3luU0NxOUxWWHA5WWdrZ1RMT3ltb1F2dXkwaW9zVFFCODNpVEZEcVhxbDBUWGYxMlFQM243ZzVxUVVo?oc=5",
     "source": "kerrang",
     "title": "Live review: Metallica, The Sphere, Las Vegas - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xbDU4WlNJbkQ1d28tY0JkdDdVSEZpREFXRTJjVkV2akFwZk9wV2V6MWJiU3VaR09pV3luU0NxOUxWWHA5WWdrZ1RMT3ltb1F2dXkwaW9zVFFCODNpVEZEcVhxbDBUWGYxMlFQM243ZzVxUVVo?oc=5",
     "publishedAt": "2026-10-04T09:59:00.000Z",
     "summary": "Live review: Metallica, The Sphere, Las Vegas Kerrang!",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/tv-film/turnstile-snl-debut-dakota-johnson-1236353747/",
-    "source": "billboard",
-    "title": "Turnstile Make Explosive ‘SNL’ Debut With ‘Birds’ and ‘Never Enough’ Medley",
-    "url": "https://www.billboard.com/culture/tv-film/turnstile-snl-debut-dakota-johnson-1236353747/",
-    "publishedAt": "2026-10-04T08:07:13.000Z",
-    "summary": "The Grammy-winning Baltimore band moved an Oklahoma City tour date to make their first appearance on the show.",
     "image": null
   },
   {
@@ -204,42 +240,6 @@
     "url": "https://www.rollingstone.com/music/music-news/snl-watch-turnstile-perform-birds-medley-album-never-enough-1235636456/",
     "publishedAt": "2026-10-04T06:56:01.000Z",
     "summary": "Hardcore Baltimore band debuts on SNL with three songs from their Grammy-winning album",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rock/polaris-ryan-siew-good-things-festival-1236343902/",
-    "source": "billboard",
-    "title": "Polaris on Honoring Ryan Siew With ‘Without You’ & Their Good Things Return",
-    "url": "https://www.billboard.com/music/rock/polaris-ryan-siew-good-things-festival-1236343902/",
-    "publishedAt": "2026-10-04T06:46:11.000Z",
-    "summary": "The Australian band reflects on its first new song in three years, the decision to keep touring and a milestone Good Things Festival set.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/tv-film/taylor-swift-dakota-johnson-snl-monologue-1236353893/",
-    "source": "billboard",
-    "title": "Taylor Swift Makes Surprise ‘SNL’ Cameo in Dakota Johnson’s Monologue",
-    "url": "https://www.billboard.com/culture/tv-film/taylor-swift-dakota-johnson-snl-monologue-1236353893/",
-    "publishedAt": "2026-10-04T04:24:47.000Z",
-    "summary": "The bit ended with Swift noting she sends Johnson home with \"a Pedialyte\" and a security escort.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/snl-2026-dakota-johnson-turnstile-watch-live-online-free-1236352925/",
-    "source": "billboard",
-    "title": "Dakota Johnson & Turnstile on ‘SNL’: Here’s Where to Watch ‘Saturday Night Live’ Online for Free",
-    "url": "https://www.billboard.com/culture/product-recommendations/snl-2026-dakota-johnson-turnstile-watch-live-online-free-1236352925/",
-    "publishedAt": "2026-10-04T00:30:00.000Z",
-    "summary": "Livestream the Fifty Shades of Grey actress host and Baltimore hardcore punk band perform on Saturday, Oct. 3 — watch live online for free.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/guess-who-nfl-edition-board-game-travis-kelce-buy-online-1236064196/",
-    "source": "billboard",
-    "title": "Nostalgic Board Game ‘Guess Who?’ Drops NFL Edition Featuring Travis Kelce: Buy It Here",
-    "url": "https://www.billboard.com/culture/product-recommendations/guess-who-nfl-edition-board-game-travis-kelce-buy-online-1236064196/",
-    "publishedAt": "2026-10-04T00:04:00.000Z",
-    "summary": "The NFL Guess Who? board game is an officially-licensed collaboration between the league and toymaker Hasbro.",
     "image": null
   },
   {
