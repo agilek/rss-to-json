@@ -1,11 +1,29 @@
 [
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/hayley-williams-dhs-ice-comments-onstage-1235637280/",
+    "id": "billboard-https://www.billboard.com/music/concerts/jimmy-barnes-2027-red-hot-summer-tour-lineup-1236354817/",
+    "source": "billboard",
+    "title": "Jimmy Barnes to Headline 2027 Red Hot Summer Tour With All-Australian Lineup",
+    "url": "https://www.billboard.com/music/concerts/jimmy-barnes-2027-red-hot-summer-tour-lineup-1236354817/",
+    "publishedAt": "2026-10-06T04:17:56.000Z",
+    "summary": "The ARIA Hall of Famer leads an eight-date rock run alongside Jon Stevens, Birds of Tokyo, Eskimo Joe and more.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/kacey-musgraves-intocable-uncertain-tx-spanish-version-1235636792/",
     "source": "rolling-stone",
-    "title": "Hayley Williams Responds to DHS’ Suggestion to Thank Officers After ICE Comments: ‘Nazi Bitches’",
-    "url": "https://www.rollingstone.com/music/music-news/hayley-williams-dhs-ice-comments-onstage-1235637280/",
-    "publishedAt": "2026-10-05T23:27:44.000Z",
-    "summary": "During a recent show in California, the singer yelled \"Fuck ICE\" and \"Free Palestine\"",
+    "title": "Kacey Musgraves Taps Intocable for Spanish Version of ‘Uncertain, TX’",
+    "url": "https://www.rollingstone.com/music/music-country/kacey-musgraves-intocable-uncertain-tx-spanish-version-1235636792/",
+    "publishedAt": "2026-10-06T04:08:36.000Z",
+    "summary": "\"Having a song with the legends of Intocable is such a thrill for me,\" Musgraves said in a statement",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/hayley-williams-dhs-response-ice-concert-1236354758/",
+    "source": "billboard",
+    "title": "Hayley Williams Has a Blunt Message for DHS After ‘F–k ICE’ Concert Remark: ‘And May I Suggest…’",
+    "url": "https://www.billboard.com/music/music-news/hayley-williams-dhs-response-ice-concert-1236354758/",
+    "publishedAt": "2026-10-06T01:32:52.000Z",
+    "summary": "The Paramore frontwoman responded after the Department of Homeland Security weighed in on her recent onstage comments.",
     "image": null
   },
   {
@@ -13,8 +31,89 @@
     "source": "nme",
     "title": "Keo announce 2027 UK, European and North American tour - NME",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ0liRlU0cC1qOWE2a01BVUpDRmc4eW9iRkQwclJnNEdyNEVrYzFHbjhzZkdUNU1kSlZGWjVqSVY5bDlOT05YSjhXYVF4TjVaY25SazNfX2lTbWUtNlFKc0drSTBnWTBwdE5wZ0xndV9KbHpNSjNLX0xNeDVvZFlmQWFIc2QyS0JUejhydFRJcUlRVDkxN1dfdllCM2cySWdhYXVJUWZpOFFMcXpTTFg0?oc=5",
-    "publishedAt": "2026-10-05T22:56:58.000Z",
+    "publishedAt": "2026-10-06T01:23:08.000Z",
     "summary": "Keo announce 2027 UK, European and North American tour NME",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/blake-shelton-gwen-stefani-birthday-photos-1236354719/",
+    "source": "billboard",
+    "title": "Blake Shelton Celebrates Wife Gwen Stefani’s Birthday With Sweet Tribute: ‘I Love You Pretty Girl’",
+    "url": "https://www.billboard.com/music/music-news/blake-shelton-gwen-stefani-birthday-photos-1236354719/",
+    "publishedAt": "2026-10-06T00:51:06.000Z",
+    "summary": "The country star marked Stefani's 57th birthday with a carousel of couple photos and a very affectionate message.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/dolly-parton-estate-nephew-lawsuit-caution-tape-1235637263/",
+    "source": "rolling-stone",
+    "title": "Dolly Parton Estate Claims Nephew Used Caution Tape and Barbed Wire to Dodge Lawsuit Service",
+    "url": "https://www.rollingstone.com/music/music-news/dolly-parton-estate-nephew-lawsuit-caution-tape-1235637263/",
+    "publishedAt": "2026-10-06T00:29:44.000Z",
+    "summary": "“Mr. Seaver attempted to evade service of process, and this court should not reward that behavior,” the estate’s lawyers wrote",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/offset-argues-paris-casino-staff-video-1236354670/",
+    "source": "billboard",
+    "title": "Offset Argues With Casino Staff in Paris: ‘You Need to Treat Me Like How I’m Betting’",
+    "url": "https://www.billboard.com/music/rb-hip-hop/offset-argues-paris-casino-staff-video-1236354670/",
+    "publishedAt": "2026-10-06T00:24:41.000Z",
+    "summary": "The Atlanta rapper was upset with staff for allowing random people to play in spots that he reserved for himself.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/tinashe-reacts-popstar-billboard-200-debut-1236354693/",
+    "source": "billboard",
+    "title": "Tinashe Is ‘Cryinggggg’ Over Her Biggest Billboard 200 Album Debut Yet With ‘Popstar’: ‘This Is CRAZY’",
+    "url": "https://www.billboard.com/music/rb-hip-hop/tinashe-reacts-popstar-billboard-200-debut-1236354693/",
+    "publishedAt": "2026-10-06T00:18:18.000Z",
+    "summary": "\"I'm so unbelievably grateful,\" the R&B singer wrote on X, followed by a flood of crying emojis.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/too-short-apologizes-diddy-comments-welcome-home-party-1236354669/",
+    "source": "billboard",
+    "title": "Too $hort Apologizes for ‘Insensitive’ Diddy Comments: ‘I Do Not Support Abuse or Abusers’",
+    "url": "https://www.billboard.com/music/rb-hip-hop/too-short-apologizes-diddy-comments-welcome-home-party-1236354669/",
+    "publishedAt": "2026-10-06T00:12:55.000Z",
+    "summary": "The Bay Area rapper had told TMZ that he would go to Diddy's \"welcome home\" party after prison.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/slayyyter-worst-man-in-america-album-announced-1236354667/",
+    "source": "billboard",
+    "title": "More ‘WOR$T’ Is on the Way: Slayyyter’s ‘WOR$T MAN IN AMERICA’ Album Is Coming",
+    "url": "https://www.billboard.com/music/pop/slayyyter-worst-man-in-america-album-announced-1236354667/",
+    "publishedAt": "2026-10-06T00:07:44.000Z",
+    "summary": "The nine-track project arrives less than a year after her breakout third album, WOR$T GIRL IN AMERICA.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/sony-music-requested-removal-ai-deepfake-songs/",
+    "source": "billboard",
+    "title": "Sony Music Has Requested the Removal of Over 260,000 AI Deepfake Songs From Digital Platforms",
+    "url": "https://www.billboard.com/pro/sony-music-requested-removal-ai-deepfake-songs/",
+    "publishedAt": "2026-10-06T00:05:31.000Z",
+    "summary": "The major music company says the problem is growing fast and that the deepfake issue \"harms artists, misleads fans and undermines the ethical use of AI.\"",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/shop/how-to-get-paramount-plus-free-trial-1235080553/",
+    "source": "billboard",
+    "title": "Here’s How to Get Paramount+ Online for Free",
+    "url": "https://www.billboard.com/shop/how-to-get-paramount-plus-free-trial-1235080553/",
+    "publishedAt": "2026-10-05T23:40:28.000Z",
+    "summary": "The best way to get access to Paramount+ for free is right here.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/hayley-williams-dhs-ice-comments-onstage-1235637280/",
+    "source": "rolling-stone",
+    "title": "Hayley Williams Responds to DHS’ Suggestion to Thank Officers After ICE Comments: ‘Nazi Bitches’",
+    "url": "https://www.rollingstone.com/music/music-news/hayley-williams-dhs-ice-comments-onstage-1235637280/",
+    "publishedAt": "2026-10-05T23:27:44.000Z",
+    "summary": "During a recent show in California, the singer yelled \"Fuck ICE\" and \"Free Palestine\"",
     "image": null
   },
   {
@@ -27,21 +126,30 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMinwFBVV95cUxPT1hBdzhab25SS2o3OEhnM1ZnbXNaWHZKTGpyVk9hclBhZnJTZHdEV20tN2lHTFg3bElTdWdmeG41SjIzaEYxQXM4Tnppam5xVC03ZG1yckZtcnUwc2YtX3RXRmd6bzhIaGxGYVJZb2dsaUpLLWVMZVl1OUVKYzU3dEdSS1o1aERzMkExd25qNFVtMVZnY0dOWllLU2dmUDA?oc=5",
-    "source": "nme",
-    "title": "‘House Of The Dragon’ star Ewan Mitchell being eyed for Bond villain, rumours say - NME",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT1hBdzhab25SS2o3OEhnM1ZnbXNaWHZKTGpyVk9hclBhZnJTZHdEV20tN2lHTFg3bElTdWdmeG41SjIzaEYxQXM4Tnppam5xVC03ZG1yckZtcnUwc2YtX3RXRmd6bzhIaGxGYVJZb2dsaUpLLWVMZVl1OUVKYzU3dEdSS1o1aERzMkExd25qNFVtMVZnY0dOWllLU2dmUDA?oc=5",
-    "publishedAt": "2026-10-05T22:27:49.000Z",
-    "summary": "‘House Of The Dragon’ star Ewan Mitchell being eyed for Bond villain, rumours say NME",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVDFMMUNQM0pablB1Smx3cXJzaF85eFRtWVFlU0ZZWmNLakNTMzVVdkV0VEFnWUYyd1BCU2xHd2VCVHYtZzlUN3NwYVdoT3JidnZyZFFqMVVlTGhJYUxmWGpNZi14T3RTT1d1Ym55OVlKUGd3Snp1VzRVb3lwVGRsYS1fMG16UUdJQUJBWGNia0JQTEFxSldSaDdpQWUzRkVtSFJLemZHNXk0d0tyUmlUclN5RURUUzhMTzBxSEZ5UTZGRjEwLVdTVUd1QXlSY3M3OE5fdTBsX0wxSDFKS0tvSnkyM1U?oc=5",
     "source": "nme",
     "title": "'Bowie80' to celebrate late icon's milestone birthday in 2027 – with special events, releases, collaborations and more - NME",
     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVDFMMUNQM0pablB1Smx3cXJzaF85eFRtWVFlU0ZZWmNLakNTMzVVdkV0VEFnWUYyd1BCU2xHd2VCVHYtZzlUN3NwYVdoT3JidnZyZFFqMVVlTGhJYUxmWGpNZi14T3RTT1d1Ym55OVlKUGd3Snp1VzRVb3lwVGRsYS1fMG16UUdJQUJBWGNia0JQTEFxSldSaDdpQWUzRkVtSFJLemZHNXk0d0tyUmlUclN5RURUUzhMTzBxSEZ5UTZGRjEwLVdTVUd1QXlSY3M3OE5fdTBsX0wxSDFKS0tvSnkyM1U?oc=5",
     "publishedAt": "2026-10-05T22:27:49.000Z",
     "summary": "'Bowie80' to celebrate late icon's milestone birthday in 2027 – with special events, releases, collaborations and more NME",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMirgFBVV95cUxOUXFMMks2aldPekdBYy11MlUwRDkwdUMtZV81Vjk5NS1pWXYwRjA2UWUyMDBydW9iMTdfS294TmtSVjZjRlFETjhYeU92MFFMaGo2NEFyZWF4ZVZQTDBQSEdPZEJWR3RXRzNqSVA2T3RoRzhmQ1RxQWtJNGNGRWw4aGswT2xaaWVaTzB4WDA5d0FtNExVby1TbGh2bWFtczAtYnpVOW1uaDFXZ2pmb1E?oc=5",
+    "source": "nme",
+    "title": "Tom Cruise’s ‘Digger’ is on course to become one of the biggest flops ever - NME",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUXFMMks2aldPekdBYy11MlUwRDkwdUMtZV81Vjk5NS1pWXYwRjA2UWUyMDBydW9iMTdfS294TmtSVjZjRlFETjhYeU92MFFMaGo2NEFyZWF4ZVZQTDBQSEdPZEJWR3RXRzNqSVA2T3RoRzhmQ1RxQWtJNGNGRWw4aGswT2xaaWVaTzB4WDA5d0FtNExVby1TbGh2bWFtczAtYnpVOW1uaDFXZ2pmb1E?oc=5",
+    "publishedAt": "2026-10-05T22:27:49.000Z",
+    "summary": "Tom Cruise’s ‘Digger’ is on course to become one of the biggest flops ever NME",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMiswFBVV95cUxOcUo5LVE0c2EwV0pza21DOGhEUWpwS08ycUVmSjU1Z2l4Y1pDbEFYZ19iVnp6ZlBoMG5fQURXaUpVTENyZ1dLWFhiYmVnWTRDQUpBenlTOWNwaEtiUGlIWU5xY3lUcXBnRzFjS0lUQ2lwX2ZHYUlnV2g1MEY5N3BtQzFWazdiQ3JIMm84czRXajNKbG9KN3pZNGVERVRmbGhieWpZX3BjQWM2YU96bmMtUlY5Yw?oc=5",
+    "source": "nme",
+    "title": "Johnny Marr blind-ranks five of his songs – see where The Smiths classics land - NME",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcUo5LVE0c2EwV0pza21DOGhEUWpwS08ycUVmSjU1Z2l4Y1pDbEFYZ19iVnp6ZlBoMG5fQURXaUpVTENyZ1dLWFhiYmVnWTRDQUpBenlTOWNwaEtiUGlIWU5xY3lUcXBnRzFjS0lUQ2lwX2ZHYUlnV2g1MEY5N3BtQzFWazdiQ3JIMm84czRXajNKbG9KN3pZNGVERVRmbGhieWpZX3BjQWM2YU96bmMtUlY5Yw?oc=5",
+    "publishedAt": "2026-10-05T22:27:49.000Z",
+    "summary": "Johnny Marr blind-ranks five of his songs – see where The Smiths classics land NME",
     "image": null
   },
   {
@@ -63,102 +171,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/watch-messi-final-game-argentina-soccer-match-online-free-1236354349/",
-    "source": "billboard",
-    "title": "Lionel Messi’s Final Match: Here’s Where to Livestream the Argentina vs. Benin Soccer Game Online Free",
-    "url": "https://www.billboard.com/culture/product-recommendations/watch-messi-final-game-argentina-soccer-match-online-free-1236354349/",
-    "publishedAt": "2026-10-05T22:10:04.000Z",
-    "summary": "After a decorated international career spanning more than 20 years, the soccer legend makes his final appearance for Argentina this week.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/american-idol-wife-murder-caleb-flynn-max-prison-sentence-1236354500/",
-    "source": "billboard",
-    "title": "‘American Idol’ Contestant Caleb Flynn Receives Maximum Sentence for Wife’s Murder",
-    "url": "https://www.billboard.com/music/music-news/american-idol-wife-murder-caleb-flynn-max-prison-sentence-1236354500/",
-    "publishedAt": "2026-10-05T22:08:44.000Z",
-    "summary": "The musical pastor was given life in prison without the possibility of parole.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/artists-most-number-one-hits-all-time-hot-100/",
-    "source": "billboard",
-    "title": "Artists With the Most No. 1 Songs on the Hot 100, From The Beatles to Rihanna to Drake & More",
-    "url": "https://www.billboard.com/lists/artists-most-number-one-hits-all-time-hot-100/",
-    "publishedAt": "2026-10-05T21:04:07.000Z",
-    "summary": "The Beatles have the most No. 1 hits among all acts in the chart's history, with 20.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/acts-with-most-billboard-200-hot-100-number-ones-combined/",
-    "source": "billboard",
-    "title": "The Beatles, Taylor Swift, Drake, Mariah Carey & More: Acts With the Most Billboard 200 & Hot 100 No. 1s Combined",
-    "url": "https://www.billboard.com/lists/acts-with-most-billboard-200-hot-100-number-ones-combined/",
-    "publishedAt": "2026-10-05T21:00:00.000Z",
-    "summary": "These artists stand at the pinnacle of chart success with both albums and songs.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/ade-2026-billboard-pro-subscribers-discount-pro-pass/",
-    "source": "billboard",
-    "title": "Billboard Pro Subscribers Can Get a 15% Discount on an ADE 2026 Pro Pass",
-    "url": "https://www.billboard.com/pro/ade-2026-billboard-pro-subscribers-discount-pro-pass/",
-    "publishedAt": "2026-10-05T20:59:24.000Z",
-    "summary": "ADE's 30th annual edition happens Oct. 21-24 in the Dutch capital.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/lola-young-2027-tour-dates-1236354490/",
-    "source": "billboard",
-    "title": "Lola Young Announces 2027 Everything Begins North American Tour",
-    "url": "https://www.billboard.com/music/music-news/lola-young-2027-tour-dates-1236354490/",
-    "publishedAt": "2026-10-05T20:58:08.000Z",
-    "summary": "The 17-date trek will take the singer-songwriter to some of her biggest U.S. venues yet.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/american-idol-contestant-sentenced-life-prison-murder-wife-1235636930/",
     "source": "rolling-stone",
     "title": "‘American Idol’ Contestant Sentenced to Life Without Parole for Murder of Wife",
     "url": "https://www.rollingstone.com/music/music-news/american-idol-contestant-sentenced-life-prison-murder-wife-1235636930/",
     "publishedAt": "2026-10-05T20:45:42.000Z",
     "summary": "\"The layers of deceit, manipulation, and cruelty that you have shown are quite honestly impossible to fathom,\" judge said to Caleb Flynn",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/t-mobile-on-us-apple-iphone-18-pro-best-deals-online-1236354432/",
-    "source": "billboard",
-    "title": "T-Mobile Rolls Out the New Apple iPhone 18 Pro With ‘On Us’ Deals",
-    "url": "https://www.billboard.com/culture/product-recommendations/t-mobile-on-us-apple-iphone-18-pro-best-deals-online-1236354432/",
-    "publishedAt": "2026-10-05T20:44:36.000Z",
-    "summary": "Upgrade to Apple's latest pro smartphone with this can't-miss trade-in deal.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/awards/cinco-paul-ascap-richard-rodgers-new-horizons-award-1236354478/",
-    "source": "billboard",
-    "title": "‘Schmigadoon!’ Creator Cinco Paul to Receive the ASCAP Foundation Richard Rodgers New Horizons Award",
-    "url": "https://www.billboard.com/music/awards/cinco-paul-ascap-richard-rodgers-new-horizons-award-1236354478/",
-    "publishedAt": "2026-10-05T20:42:18.000Z",
-    "summary": "The award will be presented at Carnegie Hall in New York City.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/ciara-paris-runway-pregnant-1236354443/",
-    "source": "billboard",
-    "title": "Ciara Walked the Paris Runway Three Times This Weekend — While Pregnant With Baby No. 5",
-    "url": "https://www.billboard.com/music/music-news/ciara-paris-runway-pregnant-1236354443/",
-    "publishedAt": "2026-10-05T20:25:00.000Z",
-    "summary": "The R&B singer brought her baby bump to Paris Fashion Week, making three appearances at Junya Watanabe’s show.",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMirgFBVV95cUxOUXFMMks2aldPekdBYy11MlUwRDkwdUMtZV81Vjk5NS1pWXYwRjA2UWUyMDBydW9iMTdfS294TmtSVjZjRlFETjhYeU92MFFMaGo2NEFyZWF4ZVZQTDBQSEdPZEJWR3RXRzNqSVA2T3RoRzhmQ1RxQWtJNGNGRWw4aGswT2xaaWVaTzB4WDA5d0FtNExVby1TbGh2bWFtczAtYnpVOW1uaDFXZ2pmb1E?oc=5",
-    "source": "nme",
-    "title": "Tom Cruise’s ‘Digger’ is on course to become one of the biggest flops ever - NME",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUXFMMks2aldPekdBYy11MlUwRDkwdUMtZV81Vjk5NS1pWXYwRjA2UWUyMDBydW9iMTdfS294TmtSVjZjRlFETjhYeU92MFFMaGo2NEFyZWF4ZVZQTDBQSEdPZEJWR3RXRzNqSVA2T3RoRzhmQ1RxQWtJNGNGRWw4aGswT2xaaWVaTzB4WDA5d0FtNExVby1TbGh2bWFtczAtYnpVOW1uaDFXZ2pmb1E?oc=5",
-    "publishedAt": "2026-10-05T20:12:49.000Z",
-    "summary": "Tom Cruise’s ‘Digger’ is on course to become one of the biggest flops ever NME",
     "image": null
   },
   {
@@ -261,21 +279,12 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/carly-rae-jepsen-day-and-night-b-sides-1235636872/",
-    "source": "rolling-stone",
-    "title": "Carly Rae Jepsen Is Dropping Eight More Songs From Her Double Album",
-    "url": "https://www.rollingstone.com/music/music-news/carly-rae-jepsen-day-and-night-b-sides-1235636872/",
-    "publishedAt": "2026-10-05T17:35:56.000Z",
-    "summary": "Arriving this Friday, the Day and Night B sides include “Yes,” “Wedding Season,” and “Muscle Memory”",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/doechii-phoebe-bridgers-primavera-sound-barcelona-2027-1235636852/",
-    "source": "rolling-stone",
-    "title": "Doechii, Phoebe Bridgers, Hayley Williams Lead Primavera Sound Barcelona Lineup",
-    "url": "https://www.rollingstone.com/music/music-news/doechii-phoebe-bridgers-primavera-sound-barcelona-2027-1235636852/",
-    "publishedAt": "2026-10-05T17:31:28.000Z",
-    "summary": "Fontaines D.C., FKA twigs, Turnstile, Massive Attack, and Robyn are among those headlining at the fest’s 25th anniversary",
+    "id": "nme-https://news.google.com/rss/articles/CBMioAFBVV95cUxPaHJCRFZZdHlmd2l6SGp4Yi12Tmp2NVZndGtEeDdGVGQ1OXdka1gyLVQ2TDRJX2x5czBHU29JeDJnUl9FcXB0SjJWMXRwUEF4Wm15eDZGME5EbzRYaldHVzlkMWMydzZoWUM0WUYzSXQ3bEJtV3diU1pabUg2X21FTGtzM2dGNzhFcVNmRWlWX0pWbFBRU19aNV8tb28tSnRR?oc=5",
+    "source": "nme",
+    "title": "Erol Alkan on the magic of ‘00s electroclash: “‘Sleaze’ isn’t a word I’m particularly a fan of” - NME",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaHJCRFZZdHlmd2l6SGp4Yi12Tmp2NVZndGtEeDdGVGQ1OXdka1gyLVQ2TDRJX2x5czBHU29JeDJnUl9FcXB0SjJWMXRwUEF4Wm15eDZGME5EbzRYaldHVzlkMWMydzZoWUM0WUYzSXQ3bEJtV3diU1pabUg2X21FTGtzM2dGNzhFcVNmRWlWX0pWbFBRU19aNV8tb28tSnRR?oc=5",
+    "publishedAt": "2026-10-05T17:23:35.000Z",
+    "summary": "Erol Alkan on the magic of ‘00s electroclash: “‘Sleaze’ isn’t a word I’m particularly a fan of” NME",
     "image": null
   },
   {
@@ -294,15 +303,6 @@
     "url": "https://loudwire.com/metallicas-james-hetfield-raiders-game-kiss/",
     "publishedAt": "2026-10-05T16:35:44.000Z",
     "summary": "Metallica's James Hetfield is apparently enjoying everything Las Vegas has to offer while the band continues its residency at Sphere, including some Raiders football. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMiswFBVV95cUxOcUo5LVE0c2EwV0pza21DOGhEUWpwS08ycUVmSjU1Z2l4Y1pDbEFYZ19iVnp6ZlBoMG5fQURXaUpVTENyZ1dLWFhiYmVnWTRDQUpBenlTOWNwaEtiUGlIWU5xY3lUcXBnRzFjS0lUQ2lwX2ZHYUlnV2g1MEY5N3BtQzFWazdiQ3JIMm84czRXajNKbG9KN3pZNGVERVRmbGhieWpZX3BjQWM2YU96bmMtUlY5Yw?oc=5",
-    "source": "nme",
-    "title": "Johnny Marr blind-ranks five of his songs – see where The Smiths classics land - NME",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcUo5LVE0c2EwV0pza21DOGhEUWpwS08ycUVmSjU1Z2l4Y1pDbEFYZ19iVnp6ZlBoMG5fQURXaUpVTENyZ1dLWFhiYmVnWTRDQUpBenlTOWNwaEtiUGlIWU5xY3lUcXBnRzFjS0lUQ2lwX2ZHYUlnV2g1MEY5N3BtQzFWazdiQ3JIMm84czRXajNKbG9KN3pZNGVERVRmbGhieWpZX3BjQWM2YU96bmMtUlY5Yw?oc=5",
-    "publishedAt": "2026-10-05T16:32:47.000Z",
-    "summary": "Johnny Marr blind-ranks five of his songs – see where The Smiths classics land NME",
     "image": null
   },
   {
@@ -348,6 +348,15 @@
     "url": "https://loudwire.com/best-thing-worst-album-prog-rock-bands/",
     "publishedAt": "2026-10-05T13:03:00.000Z",
     "summary": "Even the worst prog rock records have at least one bright spot, right? Continue reading…",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMinwFBVV95cUxPT1hBdzhab25SS2o3OEhnM1ZnbXNaWHZKTGpyVk9hclBhZnJTZHdEV20tN2lHTFg3bElTdWdmeG41SjIzaEYxQXM4Tnppam5xVC03ZG1yckZtcnUwc2YtX3RXRmd6bzhIaGxGYVJZb2dsaUpLLWVMZVl1OUVKYzU3dEdSS1o1aERzMkExd25qNFVtMVZnY0dOWllLU2dmUDA?oc=5",
+    "source": "nme",
+    "title": "‘House Of The Dragon’ star Ewan Mitchell being eyed for Bond villain, rumours say - NME",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT1hBdzhab25SS2o3OEhnM1ZnbXNaWHZKTGpyVk9hclBhZnJTZHdEV20tN2lHTFg3bElTdWdmeG41SjIzaEYxQXM4Tnppam5xVC03ZG1yckZtcnUwc2YtX3RXRmd6bzhIaGxGYVJZb2dsaUpLLWVMZVl1OUVKYzU3dEdSS1o1aERzMkExd25qNFVtMVZnY0dOWllLU2dmUDA?oc=5",
+    "publishedAt": "2026-10-05T13:02:51.000Z",
+    "summary": "‘House Of The Dragon’ star Ewan Mitchell being eyed for Bond villain, rumours say NME",
     "image": null
   },
   {
@@ -425,19 +434,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMidEFVX3lxTE8xbDU4WlNJbkQ1d28tY0JkdDdVSEZpREFXRTJjVkV2akFwZk9wV2V6MWJiU3VaR09pV3luU0NxOUxWWHA5WWdrZ1RMT3ltb1F2dXkwaW9zVFFCODNpVEZEcVhxbDBUWGYxMlFQM243ZzVxUVVo?oc=5",
     "source": "kerrang",
-    "title": "Live review: Metallica, The Sphere, Las Vegas - kerrang.com",
+    "title": "Live review: Metallica, The Sphere, Las Vegas - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xbDU4WlNJbkQ1d28tY0JkdDdVSEZpREFXRTJjVkV2akFwZk9wV2V6MWJiU3VaR09pV3luU0NxOUxWWHA5WWdrZ1RMT3ltb1F2dXkwaW9zVFFCODNpVEZEcVhxbDBUWGYxMlFQM243ZzVxUVVo?oc=5",
     "publishedAt": "2026-10-04T09:59:00.000Z",
-    "summary": "Live review: Metallica, The Sphere, Las Vegas kerrang.com",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMilgFBVV95cUxPV3ZxcXZ1LUFMcXp5bC1DVGxoc3BfdmpNaThGTVpaaEp0VWZWUFRjb3kzaUdlZVl5eW82MWxKdDFJN1o4cVRHeWVzd0h5WlY2YzEzVTd1d0dBOEgzOGoxVHMwLW1vdFdZV0djb3ZTUUUzbzlkT2ltWVFTdVY5OG9ESEJVWU0xX2pEbGRPRC1GeVc2dE5ta3c?oc=5",
-    "source": "nme",
-    "title": "Watch Dave Grohl join AC/DC for ‘Highway To Hell’ at final ‘Power Up’ tour show - NME",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV3ZxcXZ1LUFMcXp5bC1DVGxoc3BfdmpNaThGTVpaaEp0VWZWUFRjb3kzaUdlZVl5eW82MWxKdDFJN1o4cVRHeWVzd0h5WlY2YzEzVTd1d0dBOEgzOGoxVHMwLW1vdFdZV0djb3ZTUUUzbzlkT2ltWVFTdVY5OG9ESEJVWU0xX2pEbGRPRC1GeVc2dE5ta3c?oc=5",
-    "publishedAt": "2026-10-04T09:32:44.000Z",
-    "summary": "Watch Dave Grohl join AC/DC for ‘Highway To Hell’ at final ‘Power Up’ tour show NME",
+    "summary": "Live review: Metallica, The Sphere, Las Vegas Kerrang!",
     "image": null
   },
   {
@@ -524,10 +524,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMimwFBVV95cUxOTUxTWWtROVlkXzNINWZUUF9XRkZpSUIwUXdXQmtSVFo3TEMxSlVpZnVUWEVEeWtCeFdSOFUzT2xyN1M0cXdUVlhYYUlnYUFTcEhZRTFHODlOWHJEUnpOUHRHSm9ud2pKZGM3WXMzNWN0aFlNVFJaNmxpajVFaHhUVE10czB4RDVoalJxelRqYTVYLS1sYjNQLTRqYw?oc=5",
     "source": "kerrang",
-    "title": "“This is a different kind of heavy. We’re not doing metalcore anymore”: Imminence’s track-by-track guide to Axis Mundi - kerrang.com",
+    "title": "“This is a different kind of heavy. We’re not doing metalcore anymore”: Imminence’s track-by-track guide to Axis Mundi - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTUxTWWtROVlkXzNINWZUUF9XRkZpSUIwUXdXQmtSVFo3TEMxSlVpZnVUWEVEeWtCeFdSOFUzT2xyN1M0cXdUVlhYYUlnYUFTcEhZRTFHODlOWHJEUnpOUHRHSm9ud2pKZGM3WXMzNWN0aFlNVFJaNmxpajVFaHhUVE10czB4RDVoalJxelRqYTVYLS1sYjNQLTRqYw?oc=5",
     "publishedAt": "2026-10-02T10:19:00.000Z",
-    "summary": "“This is a different kind of heavy. We’re not doing metalcore anymore”: Imminence’s track-by-track guide to Axis Mundi kerrang.com",
+    "summary": "“This is a different kind of heavy. We’re not doing metalcore anymore”: Imminence’s track-by-track guide to Axis Mundi Kerrang!",
     "image": null
   },
   {
@@ -632,19 +632,19 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMicEFVX3lxTFB2d3J6X1FSRFR2VjVqdjI5dXNScjVlZFJUMWhJLWRJMFNaZGFxRF9SN0x4QTNSeG90djFFeEwwSGN4SThnaDFsUmZwczBkYllNd09mSU5DRVZWN18xWWtVaF96QXZzemNSa0NTbGEzLTM?oc=5",
     "source": "kerrang",
-    "title": "Album review: Miss May I – No Place For Me - kerrang.com",
+    "title": "Album review: Miss May I – No Place For Me - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2d3J6X1FSRFR2VjVqdjI5dXNScjVlZFJUMWhJLWRJMFNaZGFxRF9SN0x4QTNSeG90djFFeEwwSGN4SThnaDFsUmZwczBkYllNd09mSU5DRVZWN18xWWtVaF96QXZzemNSa0NTbGEzLTM?oc=5",
     "publishedAt": "2026-10-01T11:00:00.000Z",
-    "summary": "Album review: Miss May I – No Place For Me kerrang.com",
+    "summary": "Album review: Miss May I – No Place For Me Kerrang!",
     "image": null
   },
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMi9AFBVV95cUxNd2JBaXlzMjI3Q1hkT0VUQWdHaHg5dHBlenM3ZWEtX2Q2WkhKQ0N0NTFNZzZ4X3dxN2lQVXBzVkVpSVhEMUFuZndwcEZBbzEtNlhvbmlxTHpzMkVBUEtfdFktWFBzV1JfZnh0T0pFbFFzSmR0QXVwQm9QTVRPdFJ0YjlTMTk0NDdVMExvVU15bHRfYmdYN205cFJiMU1FRVdRWEdNNXdkRldveHFyZmdXa1lxZ0hGd1IyVk1jeGh0TTZxVnlESDBjZU9Vel8xaWlNTnBrdmVhRUhvckhjRVdWTVA3SDlmUGxmVDd2ME1EUHJqN1J1?oc=5",
     "source": "kerrang",
-    "title": "“I dabbled in LSD, and then later it was heroin”: The Life Less Ordinary of Nicko McBrain - kerrang.com",
+    "title": "“I dabbled in LSD, and then later it was heroin”: The Life Less Ordinary of Nicko McBrain - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNd2JBaXlzMjI3Q1hkT0VUQWdHaHg5dHBlenM3ZWEtX2Q2WkhKQ0N0NTFNZzZ4X3dxN2lQVXBzVkVpSVhEMUFuZndwcEZBbzEtNlhvbmlxTHpzMkVBUEtfdFktWFBzV1JfZnh0T0pFbFFzSmR0QXVwQm9QTVRPdFJ0YjlTMTk0NDdVMExvVU15bHRfYmdYN205cFJiMU1FRVdRWEdNNXdkRldveHFyZmdXa1lxZ0hGd1IyVk1jeGh0TTZxVnlESDBjZU9Vel8xaWlNTnBrdmVhRUhvckhjRVdWTVA3SDlmUGxmVDd2ME1EUHJqN1J1?oc=5",
     "publishedAt": "2026-10-01T10:24:00.000Z",
-    "summary": "“I dabbled in LSD, and then later it was heroin”: The Life Less Ordinary of Nicko McBrain kerrang.com",
+    "summary": "“I dabbled in LSD, and then later it was heroin”: The Life Less Ordinary of Nicko McBrain Kerrang!",
     "image": null
   },
   {
@@ -668,10 +668,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMihAFBVV95cUxOOW9BTVlnUG5LZFRGLVJQNnZ6UHNhaS1yV3h4cEk3ekNKU2RLUkxtQUl0UUdwcnN4LUpFYXlBZTZEb3E5YWxoMFYzWUFvWDBCZ0Y4ZlFrek93S2lrdE1UYWo1ZkZYTmtxOGpLLW1UOHRlR1RKOUpRUkhDelhkcVJEXzluMU4?oc=5",
     "source": "kerrang",
-    "title": "Album review: Twin Atlantic – Separation From The Animals - kerrang.com",
+    "title": "Album review: Twin Atlantic – Separation From The Animals - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOW9BTVlnUG5LZFRGLVJQNnZ6UHNhaS1yV3h4cEk3ekNKU2RLUkxtQUl0UUdwcnN4LUpFYXlBZTZEb3E5YWxoMFYzWUFvWDBCZ0Y4ZlFrek93S2lrdE1UYWo1ZkZYTmtxOGpLLW1UOHRlR1RKOUpRUkhDelhkcVJEXzluMU4?oc=5",
     "publishedAt": "2026-10-01T08:36:00.000Z",
-    "summary": "Album review: Twin Atlantic – Separation From The Animals kerrang.com",
+    "summary": "Album review: Twin Atlantic – Separation From The Animals Kerrang!",
     "image": null
   },
   {
@@ -704,10 +704,10 @@
   {
     "id": "kerrang-https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QVktNUTRmeU9mUlNTcHhGMUpkbDljSmZNeDJTSk1SeUFCOUp2WTJKVEFWZGsyMzVlVDNDWTlkQnhGRDE5R1kwTll0UEJYd1FyckpldWtlR0tsUU9WMHg0bFFNTDBGcm15?oc=5",
     "source": "kerrang",
-    "title": "Film review: Linkin Park: Unshatter - kerrang.com",
+    "title": "Film review: Linkin Park: Unshatter - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QVktNUTRmeU9mUlNTcHhGMUpkbDljSmZNeDJTSk1SeUFCOUp2WTJKVEFWZGsyMzVlVDNDWTlkQnhGRDE5R1kwTll0UEJYd1FyckpldWtlR0tsUU9WMHg0bFFNTDBGcm15?oc=5",
     "publishedAt": "2026-09-30T15:12:00.000Z",
-    "summary": "Film review: Linkin Park: Unshatter kerrang.com",
+    "summary": "Film review: Linkin Park: Unshatter Kerrang!",
     "image": null
   },
   {
