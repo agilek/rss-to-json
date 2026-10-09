@@ -1,20 +1,335 @@
 [
   {
-    "id": "billboard-https://www.billboard.com/music/country/dolly-parton-posthumous-video-cma-music-teachers-excellence-1236357873/",
-    "source": "billboard",
-    "title": "Dolly Parton Makes Posthumous Appearance in Video At Awards Show Honoring Music Teachers: ‘Thank You For Your Passion’",
-    "url": "https://www.billboard.com/music/country/dolly-parton-posthumous-video-cma-music-teachers-excellence-1236357873/",
-    "publishedAt": "2026-10-09T12:25:09.000Z",
-    "summary": "Parton recorded the tribute for the Country Music Association Foundation's Music Teachers of Excellence event before her death at 80 in August.",
+    "id": "pitchfork-https://pitchfork.com/story/willie-nelson-yo-la-tengo-endorse-james-talarico/",
+    "source": "pitchfork",
+    "title": "Willie Nelson, Yo La Tengo Endorse James Talarico",
+    "url": "https://pitchfork.com/story/willie-nelson-yo-la-tengo-endorse-james-talarico/",
+    "publishedAt": "2026-10-09T21:54:32.000Z",
+    "summary": "YLT will play a benefit concert for the Texas Senate hopeful in Austin on October 27",
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/culture/lifestyle/grand-theft-auto-vi-radio-station-hosts-bad-bunny-lana-del-rey-1236357868/",
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/brandy-flytime-house-of-rb-concert-lagos-nigeria-1236358381/",
     "source": "billboard",
-    "title": "Bad Bunny, Lana Del Rey (and Her Husband), Morgan Wallen, Robyn & Burna Boy to Host ‘Grand Theft Auto VI’ In-Game Radio Stations",
-    "url": "https://www.billboard.com/culture/lifestyle/grand-theft-auto-vi-radio-station-hosts-bad-bunny-lana-del-rey-1236357868/",
-    "publishedAt": "2026-10-09T11:47:06.000Z",
-    "summary": "The six in-game stations include Back Country Radio, Cocoteo FM, AfroBank FM, Dirty South Classics, The Chamber 106.6 and Flash FM.",
+    "title": "Brandy Heading to Africa to Headline Flytime’s House of R&B Concert for Lagos’ Detty December",
+    "url": "https://www.billboard.com/music/rb-hip-hop/brandy-flytime-house-of-rb-concert-lagos-nigeria-1236358381/",
+    "publishedAt": "2026-10-09T21:49:28.000Z",
+    "summary": "The Vocal Bible is headed to Africa.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/photos/adela-los-angeles-concert-photos-katseye-fonda-1236358300/",
+    "source": "billboard",
+    "title": "ADÉLA Reunites With KATSEYE Members & Owns the Stage at Red Bottoms Tour Stop in LA: Exclusive Photos",
+    "url": "https://www.billboard.com/photos/adela-los-angeles-concert-photos-katseye-fonda-1236358300/",
+    "publishedAt": "2026-10-09T21:44:54.000Z",
+    "summary": "Megan Skiendiel, Lara Raj and fellow 'Dream Academy' vet Emily Kelavos cheered her on from the audience.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/daisuke-ashihara-world-trigger-vol-30-japan-book-hot-100-1236358444/",
+    "source": "billboard",
+    "title": "Daisuke Ashihara’s ‘World Trigger’ Vol. 30 Tops Billboard Japan Book Hot 100 as Comics Sweep Top 10",
+    "url": "https://www.billboard.com/music/chart-beat/daisuke-ashihara-world-trigger-vol-30-japan-book-hot-100-1236358444/",
+    "publishedAt": "2026-10-09T21:33:22.000Z",
+    "summary": "Debuting at No. 2 is Vol. 11 of the comic adaptation of the popular light novel Futsutsuka na Akujo dewa Gozaimasu ga.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/john-mayer-live-sphere-2027-residency-tickets-buy-shop-1236358216/",
+    "source": "billboard",
+    "title": "John Mayer Live at Sphere 2027: Here’s Where to Shop Affordable Tickets Online",
+    "url": "https://www.billboard.com/culture/product-recommendations/john-mayer-live-sphere-2027-residency-tickets-buy-shop-1236358216/",
+    "publishedAt": "2026-10-09T21:13:24.000Z",
+    "summary": "The singer-songwriter's 18-concert residency in Las Vegas starts on Thursday, April. 8, 2027.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/troye-sivan-nicole-kidman-interview-1236358263/",
+    "source": "billboard",
+    "title": "Troye Sivan Shares How He Got Nicole Kidman for ‘She’s the Best’ Video (And What He Thinks of ADÉLA’s Hit)",
+    "url": "https://www.billboard.com/music/music-news/troye-sivan-nicole-kidman-interview-1236358263/",
+    "publishedAt": "2026-10-09T21:09:33.000Z",
+    "summary": "The star also talks about his favorite \"slinky sexy\" pop stars, including Addison Rae.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/travis-scott-sample-lawsuit-astroworld-utopia-songs-ends/",
+    "source": "billboard",
+    "title": "Travis Scott No Longer Facing Lawsuit Over ‘Alright’ Sample on ‘Astroworld’ and ‘Utopia’",
+    "url": "https://www.billboard.com/pro/travis-scott-sample-lawsuit-astroworld-utopia-songs-ends/",
+    "publishedAt": "2026-10-09T21:06:18.000Z",
+    "summary": "A pair of songwriters dropped their nearly three-year-old copyright infringement case against the star rapper.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/troye-sivan-billboard-news-interview/",
+    "source": "billboard",
+    "title": "Troye Sivan Talks New Album ‘She’s the Best,’ Madonna Sample On ‘Party’ & Nicole Kidman Cameo | Billboard News",
+    "url": "https://www.billboard.com/video/troye-sivan-billboard-news-interview/",
+    "publishedAt": "2026-10-09T21:00:06.000Z",
+    "summary": "Troye Sivan reveals how Madonna cleared the sample on “Party,” and why that moment became a major creative unlock for the song. He walks us through the writing process, and how the track evolved from early versions into the final club-ready record. Sivan also opens up about the emotional whiplash of his new era, releasing […]",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/backstreet-boys-touring-record-canada-music-news/",
+    "source": "billboard",
+    "title": "In Canada: Backstreet Boys Set New Touring Record; Vans Warped Tour Not Returning",
+    "url": "https://www.billboard.com/pro/backstreet-boys-touring-record-canada-music-news/",
+    "publishedAt": "2026-10-09T20:56:36.000Z",
+    "summary": "Also up north this week: Noise complaints at Toronto's Rogers Stadium are way up — thanks in part to shows by Chris Brown & Usher and Bruno Mars.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/from-ashes-to-new-rock-no-1-die-for-you-1236358325/",
+    "source": "billboard",
+    "title": "From Ashes to New Score Second Straight Mainstream Rock Airplay No. 1 With ‘Die for You’",
+    "url": "https://www.billboard.com/music/chart-beat/from-ashes-to-new-rock-no-1-die-for-you-1236358325/",
+    "publishedAt": "2026-10-09T20:23:47.000Z",
+    "summary": "The band joins Shinedown and Three Days Grace as the only acts with multiple leaders in 2026.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/mastodon-fossil-vinyl-release-1235640557/",
+    "source": "rolling-stone",
+    "title": "Mastodon Are Releasing Vinyl Containing Actual Mastodon Fossils",
+    "url": "https://www.rollingstone.com/music/music-news/mastodon-fossil-vinyl-release-1235640557/",
+    "publishedAt": "2026-10-09T20:18:22.000Z",
+    "summary": "Limited to 170 copies, the \"Bone Dust\" vinyl was pressed in partnership with Waxwork Records and the University of Georgia's geology department",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/john-cena-drake-quebec-shoutout-1236358121/",
+    "source": "billboard",
+    "title": "WWE Legend John Cena Says He’s ‘Super Grateful’ for Drake Shoutout on ‘Quebec’: ‘You Never Know Who You’re Gonna Reach’",
+    "url": "https://www.billboard.com/music/rb-hip-hop/john-cena-drake-quebec-shoutout-1236358121/",
+    "publishedAt": "2026-10-09T20:18:02.000Z",
+    "summary": "Once upon a time, Cena released a rap album.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/rockers-salute-judas-priest-ian-hill-retirement/",
+    "source": "loudwire",
+    "title": "Rockers Salute Judas Priest's Ian Hill Following Retirement ",
+    "url": "https://loudwire.com/rockers-salute-judas-priest-ian-hill-retirement/",
+    "publishedAt": "2026-10-09T20:02:43.000Z",
+    "summary": "Members of the rock and metal community are weighing in after Judas Priest bassist Ian Hill announced his retirement. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/remi-wolf-announces-north-america-tour/",
+    "source": "pitchfork",
+    "title": "Remi Wolf Announces 2027 North America Tour",
+    "url": "https://pitchfork.com/story/remi-wolf-announces-north-america-tour/",
+    "publishedAt": "2026-10-09T19:29:28.000Z",
+    "summary": "The singer will hit New York, Los Angeles, Chicago, Toronto, and more",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/metallica-james-hetfield-hair/",
+    "source": "loudwire",
+    "title": "The History of Metallica's James Hetfield's Hair in 30 Photos",
+    "url": "https://loudwire.com/metallica-james-hetfield-hair/",
+    "publishedAt": "2026-10-09T19:22:52.000Z",
+    "summary": "For a band that isn't hair metal, the subject of \"hair\" sure has continued to follow Metallica around. James Hetfield's latest hairstyle choice is no exception. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/the-decemberists-new-song-the-better-part-of-bravery/",
+    "source": "pitchfork",
+    "title": "The Decemberists Premiere First Song in Two Years",
+    "url": "https://pitchfork.com/story/the-decemberists-new-song-the-better-part-of-bravery/",
+    "publishedAt": "2026-10-09T19:22:15.000Z",
+    "summary": "“The Better Part of Bravery” was made for Wildwood, a film based on Colin Meloy’s debut novel",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/chappell-roan-super-graphic-spectacular-lineup-block-party-1235640489/",
+    "source": "rolling-stone",
+    "title": "Lola Young, Caroline Polachek, Tinashe Lead Chappell Roan Benefit Shows",
+    "url": "https://www.rollingstone.com/music/music-news/chappell-roan-super-graphic-spectacular-lineup-block-party-1235640489/",
+    "publishedAt": "2026-10-09T19:02:46.000Z",
+    "summary": "The two-night LGBTQ+ fundraising event Super Graphic Spectacular, also featuring Muna, takes place at Shrine Auditorium in Los Angeles later this month",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/willie-nelson-endorses-james-talarico-1235640468/",
+    "source": "rolling-stone",
+    "title": "Willie Nelson Endorses James Talarico in Texas Senate Race",
+    "url": "https://www.rollingstone.com/music/music-country/willie-nelson-endorses-james-talarico-1235640468/",
+    "publishedAt": "2026-10-09T18:50:37.000Z",
+    "summary": "\"He's a good man who will be a good senator,\" says the country legend",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/alanis-morissette-holiday-album-announcement-1235640402/",
+    "source": "rolling-stone",
+    "title": "Alanis Morissette Is Dropping a Holiday Album",
+    "url": "https://www.rollingstone.com/music/music-news/alanis-morissette-holiday-album-announcement-1235640402/",
+    "publishedAt": "2026-10-09T18:11:46.000Z",
+    "summary": "Good Weather for Immaculate Conception features two original Christmas songs, plus collaborations with Brandi Carlile, Steve Martin, and more",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/slayyyter-i-think-hes-got-a-girl-video-1235640278/",
+    "source": "rolling-stone",
+    "title": "Slayyyter Confronts a Cheater in Self-Directed ‘I Think He’s Got a Girl’ Video",
+    "url": "https://www.rollingstone.com/music/music-news/slayyyter-i-think-hes-got-a-girl-video-1235640278/",
+    "publishedAt": "2026-10-09T18:09:51.000Z",
+    "summary": "The new single will appear on Wor$t Man in America, out on Dec. 4",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-latin/piero-argentina-latin-american-songwriting-dead-at-81-1235640395/",
+    "source": "rolling-stone",
+    "title": "Piero, Known as a Leader of Latin American Songwriting, Dead at 81",
+    "url": "https://www.rollingstone.com/music/music-latin/piero-argentina-latin-american-songwriting-dead-at-81-1235640395/",
+    "publishedAt": "2026-10-09T17:44:55.000Z",
+    "summary": "The musician was known for classic songs like “Mi Viejo\" and “Soy Pan, Soy Paz, Soy Más\"",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/lorna-shore-paranormal-prison-ghost-hunt/",
+    "source": "loudwire",
+    "title": "Lorna Shore's 'Paranormal Prison' Ghost Hunt",
+    "url": "https://loudwire.com/lorna-shore-paranormal-prison-ghost-hunt/",
+    "publishedAt": "2026-10-09T16:58:28.000Z",
+    "summary": "Deathcore titans Lorna Shore are the latest guest on 'Paranormal Prison' in what might be the funniest episode yet! Continue reading…",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/sheryl-crow-advice-for-olivia-rodrigo-1235640313/",
+    "source": "rolling-stone",
+    "title": "Why Sheryl Crow Relates to Olivia Rodrigo: She ‘Inspires Me to Keep Going’",
+    "url": "https://www.rollingstone.com/music/music-country/sheryl-crow-advice-for-olivia-rodrigo-1235640313/",
+    "publishedAt": "2026-10-09T16:53:20.000Z",
+    "summary": "The Rock & Roll Hall of Fame member also praises the \"Drop Dead\" singer for doing the work with events like her Daisy Chain Fields festival",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/metallica-setlist-third-sphere-show/",
+    "source": "loudwire",
+    "title": "Metallica Switch Up Setlist Again During Third Sphere Show",
+    "url": "https://loudwire.com/metallica-setlist-third-sphere-show/",
+    "publishedAt": "2026-10-09T16:36:18.000Z",
+    "summary": "Metallica switched up the setlist a little bit again with a classic song during their third Las Vegas Sphere residency show last night (Oct. 8). Continue reading…",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/troye-sivan-dawn-richard-remi-wolf-songs-you-need-to-know-1235639943/",
+    "source": "rolling-stone",
+    "title": "Troye Sivan, Dawn Richard, Remi Wolf, and All the Songs You Need to Know This Week",
+    "url": "https://www.rollingstone.com/music/music-features/troye-sivan-dawn-richard-remi-wolf-songs-you-need-to-know-1235639943/",
+    "publishedAt": "2026-10-09T16:22:44.000Z",
+    "summary": "Looking for the week’s best new music? Check out our Songs You Need to Know playlist",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMiqAFBVV95cUxObVlfU25fZFRYcy1BOVRjYXhpVkk0eEhnbWF1THo4WmlrWEFGNTZOZHZ4UXlyT0Z6VlVJUlB5czNsUmg1OW1heURaSGFiLWJMZzJyajZRQzNFSjQyRVdnTEpMd3hTY3p0bl9oaU9qZXdUS0xHUV8xQ3VsUmhQRko5a1hHem1SSzJQZmNCdEkwRmFORnhFMkU0Q3JFak9mSWZSTWNpZzhyWlA?oc=5",
+    "source": "nme",
+    "title": "Thom Yorke says he wishes he hadn’t written Radiohead’s ‘High And Dry’ - NME",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObVlfU25fZFRYcy1BOVRjYXhpVkk0eEhnbWF1THo4WmlrWEFGNTZOZHZ4UXlyT0Z6VlVJUlB5czNsUmg1OW1heURaSGFiLWJMZzJyajZRQzNFSjQyRVdnTEpMd3hTY3p0bl9oaU9qZXdUS0xHUV8xQ3VsUmhQRko5a1hHem1SSzJQZmNCdEkwRmFORnhFMkU0Q3JFak9mSWZSTWNpZzhyWlA?oc=5",
+    "publishedAt": "2026-10-09T16:16:23.000Z",
+    "summary": "Thom Yorke says he wishes he hadn’t written Radiohead’s ‘High And Dry’ NME",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/alanis-morissette-made-a-holiday-album/",
+    "source": "pitchfork",
+    "title": "Alanis Morissette Made a Holiday Album",
+    "url": "https://pitchfork.com/story/alanis-morissette-made-a-holiday-album/",
+    "publishedAt": "2026-10-09T16:10:23.000Z",
+    "summary": "This Christmas season, expect Good Weather for Immaculate Conception",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/creed-higher-instagram-recommendation-1235640225/",
+    "source": "rolling-stone",
+    "title": "You’re Not Crazy: Instagram Was Indeed Persuading You to Listen to Creed",
+    "url": "https://www.rollingstone.com/music/music-news/creed-higher-instagram-recommendation-1235640225/",
+    "publishedAt": "2026-10-09T15:57:12.000Z",
+    "summary": "\"[We] found that this song is being recommended to more people than intended,\" an Instagram spokesperson said of the issue",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/phoebe-bridgers-boygenius-sound-check-1235640211/",
+    "source": "rolling-stone",
+    "title": "Phoebe Bridgers Brings a ‘Haunted’ Vibe — And Boygenius — to New York’s Cherry Lane Theatre",
+    "url": "https://www.rollingstone.com/music/music-news/phoebe-bridgers-boygenius-sound-check-1235640211/",
+    "publishedAt": "2026-10-09T15:37:38.000Z",
+    "summary": "Sound Check at Cherry Lane Theatre, helmed by her Primetime director Lance Oppenheim, features three songs",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMirwFBVV95cUxNZDI5UGNYV0xUbTdOc3hROFNBb1FKLWhBd0d2Nnc0UUQ2eDluYmVhUzZQcENMTHV6WWEwWUV4MGJVbjdZZGxiTGt3bDMxNlo4aFZGLXRYc3g4QU5UT2JocGJFQTMtc014WGdqUXdNU05PT2g2UUlsUmhzc0NzRHBFUDBlbDRMVnJYSk1nODNNY1NLTnk3WkR3VUYxdEZycmNMU0xPMFR2X1VQeXZvNTI0?oc=5",
+    "source": "nme",
+    "title": "Ed Sheeran announces new tour opening acts after Macklemore controversy - NME",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZDI5UGNYV0xUbTdOc3hROFNBb1FKLWhBd0d2Nnc0UUQ2eDluYmVhUzZQcENMTHV6WWEwWUV4MGJVbjdZZGxiTGt3bDMxNlo4aFZGLXRYc3g4QU5UT2JocGJFQTMtc014WGdqUXdNU05PT2g2UUlsUmhzc0NzRHBFUDBlbDRMVnJYSk1nODNNY1NLTnk3WkR3VUYxdEZycmNMU0xPMFR2X1VQeXZvNTI0?oc=5",
+    "publishedAt": "2026-10-09T15:21:23.000Z",
+    "summary": "Ed Sheeran announces new tour opening acts after Macklemore controversy NME",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/instagram-too-many-creed-recommendations/",
+    "source": "loudwire",
+    "title": "Instagram Investigating Why Creed Song Keeps Getting Recommended",
+    "url": "https://loudwire.com/instagram-too-many-creed-recommendations/",
+    "publishedAt": "2026-10-09T14:38:56.000Z",
+    "summary": "It appears a glitch in the algorithm has been suggesting Creed's 'Higher' for all kinds of photo and video posts. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/best-grunge-album-opening-closing-songs/",
+    "source": "loudwire",
+    "title": "The 5 Best Grunge Album Openers + Closers of All Time",
+    "url": "https://loudwire.com/best-grunge-album-opening-closing-songs/",
+    "publishedAt": "2026-10-09T14:24:38.000Z",
+    "summary": "We picked the five best grunge album openers and the five best closing tracks on grunge albums and combined them into one list. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/9-new-albums-you-should-listen-to-now-cameron-winter-deafheaven-dawn-richard/",
+    "source": "pitchfork",
+    "title": "9 New Albums You Should Listen to Now: Cameron Winter, Deafheaven, Dawn Richard, and More",
+    "url": "https://pitchfork.com/story/9-new-albums-you-should-listen-to-now-cameron-winter-deafheaven-dawn-richard/",
+    "publishedAt": "2026-10-09T14:11:08.000Z",
+    "summary": "Stream new releases from Cameron Winter, Deafheaven, Dawn Richard, Troye Sivan, and more",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/nickelback-2027-world-tour-dates/",
+    "source": "loudwire",
+    "title": "Nickelback Announce 2027 World Tour Dates",
+    "url": "https://loudwire.com/nickelback-2027-world-tour-dates/",
+    "publishedAt": "2026-10-09T13:54:24.000Z",
+    "summary": "Nickelback have just announced a bunch of 2027 world tour dates in support of their upcoming album 'Everything Under the Sun.' Continue reading…",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/new-rock-metal-tours-announced-oct-2-8-2026/",
+    "source": "loudwire",
+    "title": "19 New Rock + Metal Tours Announced This Past Week",
+    "url": "https://loudwire.com/new-rock-metal-tours-announced-oct-2-8-2026/",
+    "publishedAt": "2026-10-09T13:43:41.000Z",
+    "summary": "What a huge week for new touring announcements including tours and special shows from Staind, Slash, Def Leppard and Goo Goo Dolls, Greta Van Fleet, Aerosmith and many more. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/watch-phoebe-bridgers-and-boygenius-sound-check-at-cherry-lane-theater/",
+    "source": "pitchfork",
+    "title": "Watch Phoebe Bridgers and Boygenius Perform Live in New Short Film",
+    "url": "https://pitchfork.com/story/watch-phoebe-bridgers-and-boygenius-sound-check-at-cherry-lane-theater/",
+    "publishedAt": "2026-10-09T13:08:36.000Z",
+    "summary": "Bridgers is the latest guest on A24’s Sound Check at Cherry Lane Theatre YouTube series",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMirwFBVV95cUxPOEpCZFBzbFlFNktORzkzV0ZxRXNIS1hQcFNWZVFsUENIMkVFSWhYN3pqRmhKRl9tMXFmcDdUaUJWY3Y5Y3g0cWYzeVA1V2c4eUJLQkZYRmZVeEd0a0ZOeHhxOFFGQnU4N2Vlci1CbnBzbHNRNHNvUk44RkhtZmRwNi10Q0NsdUFMdjB2YjIwRHlDZnJVdE0wa1dNNHQxZTNnd3dyU0Z3LVVjTE1IMk1j?oc=5",
+    "source": "nme",
+    "title": "Geordie Greep responds to allegation of sexual misconduct live on stage - NME",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOEpCZFBzbFlFNktORzkzV0ZxRXNIS1hQcFNWZVFsUENIMkVFSWhYN3pqRmhKRl9tMXFmcDdUaUJWY3Y5Y3g0cWYzeVA1V2c4eUJLQkZYRmZVeEd0a0ZOeHhxOFFGQnU4N2Vlci1CbnBzbHNRNHNvUk44RkhtZmRwNi10Q0NsdUFMdjB2YjIwRHlDZnJVdE0wa1dNNHQxZTNnd3dyU0Z3LVVjTE1IMk1j?oc=5",
+    "publishedAt": "2026-10-09T12:21:23.000Z",
+    "summary": "Geordie Greep responds to allegation of sexual misconduct live on stage NME",
     "image": null
   },
   {
@@ -81,12 +396,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/pop/pet-shop-boys-alan-turing-on-a-man-from-the-future-stream-1236357860/",
-    "source": "billboard",
-    "title": "Pet Shop Boys Salute Computer Pioneer Alan Turing on ‘A Man From The Future’: Stream It Now",
-    "url": "https://www.billboard.com/music/pop/pet-shop-boys-alan-turing-on-a-man-from-the-future-stream-1236357860/",
-    "publishedAt": "2026-10-09T09:00:26.000Z",
-    "summary": "More than a decade later, the project has been updated, reworked and rearranged with new electronic elements, new text and fresh orchestrations.",
+    "id": "nme-https://news.google.com/rss/articles/CBMiwwFBVV95cUxQakx6c1ZpV1JpMm5RMGZmRFZUTmVPM3NPYWNjR1B5eTVyV0huRzFicy1CRFVTU2NUbmRHTWI3RmYzc2NqVDA4Qmd6Tl9iaHdmMEVBakk4d2lZNE1xUGZjbEhPNzZSX3dMa1g5N202SzBXckstTmZ2WERWOUNXTnN2SFE5MU1xaktsSUY5djUyVTVteEhLMndSQUdqRU8wWkd1QXJySmhRdEZ6bFFqaldhNDB2Nk0zR3Q0S3FIcDFBUmZsZkU?oc=5",
+    "source": "nme",
+    "title": "Chloe Slater – ‘Riot Youth’ review: extending a hopeful hand to a generation on the edge - NME",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQakx6c1ZpV1JpMm5RMGZmRFZUTmVPM3NPYWNjR1B5eTVyV0huRzFicy1CRFVTU2NUbmRHTWI3RmYzc2NqVDA4Qmd6Tl9iaHdmMEVBakk4d2lZNE1xUGZjbEhPNzZSX3dMa1g5N202SzBXckstTmZ2WERWOUNXTnN2SFE5MU1xaktsSUY5djUyVTVteEhLMndSQUdqRU8wWkd1QXJySmhRdEZ6bFFqaldhNDB2Nk0zR3Q0S3FIcDFBUmZsZkU?oc=5",
+    "publishedAt": "2026-10-09T08:26:11.000Z",
+    "summary": "Chloe Slater – ‘Riot Youth’ review: extending a hopeful hand to a generation on the edge NME",
     "image": null
   },
   {
@@ -99,75 +414,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/olivia-dean-the-art-of-loving-returns-no-1-aria-chart-1236357851/",
-    "source": "billboard",
-    "title": "As National Tour Gets Underway, Olivia Dean’s ‘The Art Of Loving’ Returns to No. 1 on ARIA Chart",
-    "url": "https://www.billboard.com/music/chart-beat/olivia-dean-the-art-of-loving-returns-no-1-aria-chart-1236357851/",
-    "publishedAt": "2026-10-09T07:53:04.000Z",
-    "summary": "The British singer returns to No. 1 just days after the start of her six-date trans-Tasman tour.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rock/journey-drummer-deen-castronovo-medical-emergency-1236357831/",
-    "source": "billboard",
-    "title": "Journey Drummer Deen Castronovo Suffers On-Stage ‘Medical Emergency’",
-    "url": "https://www.billboard.com/music/rock/journey-drummer-deen-castronovo-medical-emergency-1236357831/",
-    "publishedAt": "2026-10-09T06:23:15.000Z",
-    "summary": "Journey are making their final go-round with a lineup featuring Castronovo, Neal Schon, Jonathan Cain, and singer Arnel Pineda.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/troye-sivan-shes-the-best-album-best-songs-ranked/",
-    "source": "billboard",
-    "title": "Troye Sivan’s ‘She’s the Best’ Album: All 12 Tracks Ranked",
-    "url": "https://www.billboard.com/lists/troye-sivan-shes-the-best-album-best-songs-ranked/",
-    "publishedAt": "2026-10-09T06:08:45.000Z",
-    "summary": "Sivan's fourth studio album is an intimate letter that brings together dance, music, queerness and sex.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/troye-sivan-slayyyter-remi-wolf-new-music-friday-guide-1236353582/",
-    "source": "billboard",
-    "title": "Troye Sivan, Remi Wolf, Slayyyter & Pitbull: New Music Friday Guide",
-    "url": "https://www.billboard.com/music/music-news/troye-sivan-slayyyter-remi-wolf-new-music-friday-guide-1236353582/",
-    "publishedAt": "2026-10-09T05:54:17.000Z",
-    "summary": "Check out the must-hear releases of the week.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/pop/sheryl-crow-pick-you-up-stream-it-now-1236357789/",
-    "source": "billboard",
-    "title": "Sheryl Crow Is Here to ‘Pick You Up’: Stream It Now",
-    "url": "https://www.billboard.com/music/pop/sheryl-crow-pick-you-up-stream-it-now-1236357789/",
-    "publishedAt": "2026-10-09T05:23:37.000Z",
-    "summary": "The Rock And Roll Hall of Fame inductee returns with her 13th studio album.",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/journey-drummer-deen-castronovo-medical-emergency-1235640127/",
-    "source": "rolling-stone",
-    "title": "Journey Drummer Deen Castronovo Suffers Medical Emergency During Tulsa Concert",
-    "url": "https://www.rollingstone.com/music/music-news/journey-drummer-deen-castronovo-medical-emergency-1235640127/",
-    "publishedAt": "2026-10-09T04:47:25.000Z",
-    "summary": "The musician was reportedly hospitalized after the concert was paused at BOK Center",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/slayyyter-i-think-hes-got-a-girl-video/",
     "source": "pitchfork",
     "title": "Watch Slayyyter Rock a Raccoon Pelt in “I Think He’s Got a Girl” Video",
     "url": "https://pitchfork.com/story/slayyyter-i-think-hes-got-a-girl-video/",
     "publishedAt": "2026-10-09T04:39:53.000Z",
     "summary": "The next single from Wor$t Man in America comes with a video she directed herself",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rock/greta-van-fleet-palace-for-the-people-stream-it-now-1236357750/",
-    "source": "billboard",
-    "title": "Greta Van Fleet Checks In With ‘Palace For The People’: Stream It Now",
-    "url": "https://www.billboard.com/music/rock/greta-van-fleet-palace-for-the-people-stream-it-now-1236357750/",
-    "publishedAt": "2026-10-09T04:31:18.000Z",
-    "summary": "\"Palace\" is the followup to 2023’s \"Starcatcher,\" which peaked at No. 8 on the Billboard 200 chart and landed a Grammy nomination.",
     "image": null
   },
   {
@@ -185,7 +437,7 @@
     "title": "Deafheaven Surprise Release New EP At Work in the Fields of the Bomb",
     "url": "https://pitchfork.com/story/deafheaven-surprise-release-new-ep-at-work-in-the-fields-of-the-bomb/",
     "publishedAt": "2026-10-09T04:11:14.000Z",
-    "summary": "Their first new music since 2025’s Lonely People with Power",
+    "summary": "The three-tracker comes with a short film for “Hunter”",
     "image": null
   },
   {
@@ -198,48 +450,12 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/story/power-trip-return-with-first-songs-since-death-of-riley-gale/",
-    "source": "pitchfork",
-    "title": "Power Trip Return With First Songs Since Death of Riley Gale",
-    "url": "https://pitchfork.com/story/power-trip-return-with-first-songs-since-death-of-riley-gale/",
-    "publishedAt": "2026-10-09T04:01:48.000Z",
-    "summary": "“I think he would have been stoked to see it come to fruition,” says guitarist Blake Ibanez of “Precinct 3” and “Scavenger”",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/2026-hard-rock-metal-album-release-calendar/",
-    "source": "loudwire",
-    "title": "The New Rock + Metal Albums Out This Week",
-    "url": "https://loudwire.com/2026-hard-rock-metal-album-release-calendar/",
-    "publishedAt": "2026-10-09T04:01:48.000Z",
-    "summary": "See all the new releases coming each week of 2026. Continue reading…",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMif0FVX3lxTFBleklkMXVYY1FuQXgzb0FHRnhiZVFzSFlFUTd5S0lIMUxRZTZnVVFPbUJaNmhBNFptRTR2eEJpOUxQVXR6b3gwUkpjMGhIRXA3QWYxNDZQVVg2RmIySWJMYzQ0eWVmNUI3MFhXc3B6S09OakM3UWxhbnE1QzNoOTQ?oc=5",
     "source": "nme",
     "title": "Troye Sivan – ‘She’s the Best’ review: late-night revelations set to a ’90s alt-dance groove - NME",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBleklkMXVYY1FuQXgzb0FHRnhiZVFzSFlFUTd5S0lIMUxRZTZnVVFPbUJaNmhBNFptRTR2eEJpOUxQVXR6b3gwUkpjMGhIRXA3QWYxNDZQVVg2RmIySWJMYzQ0eWVmNUI3MFhXc3B6S09OakM3UWxhbnE1QzNoOTQ?oc=5",
     "publishedAt": "2026-10-09T04:01:10.000Z",
     "summary": "Troye Sivan – ‘She’s the Best’ review: late-night revelations set to a ’90s alt-dance groove NME",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/dolly-parton-video-teachers-zac-brown-cma-foundation-1235640120/",
-    "source": "rolling-stone",
-    "title": "Zac Brown Shares Dolly Parton’s Posthumous Video Message to Teachers: ‘Thank You for Your Passion’",
-    "url": "https://www.rollingstone.com/music/music-country/dolly-parton-video-teachers-zac-brown-cma-foundation-1235640120/",
-    "publishedAt": "2026-10-09T04:00:10.000Z",
-    "summary": "The singer shared Parton's video during a CMA Foundation event",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rock/powderfinger-reunite-2027-tour-1236357739/",
-    "source": "billboard",
-    "title": "Powderfinger Will Reunite For 2027 Tour",
-    "url": "https://www.billboard.com/music/rock/powderfinger-reunite-2027-tour-1236357739/",
-    "publishedAt": "2026-10-09T03:18:47.000Z",
-    "summary": "The Australian rock juggernauts will hit the road for a run of concerts, their first in almost two decades.",
     "image": null
   },
   {
@@ -261,120 +477,12 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/emma-ogier-new-music-interview-1235638737/",
-    "source": "rolling-stone",
-    "title": "You’re Going to Love Emma Ogier’s Music. Just Wait",
-    "url": "https://www.rollingstone.com/music/music-features/emma-ogier-new-music-interview-1235638737/",
-    "publishedAt": "2026-10-08T20:17:02.000Z",
-    "summary": "She's linked up with Bright Eyes and Dominic Fike, and gotten shoutouts from Clairo, Gracie Abrams, Audrey Hobert, and Ethel Cain. Her upcoming debut is one of the year's best",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/loretta-lynn-van-lear-rose-return-streaming-reissue-1235639919/",
-    "source": "rolling-stone",
-    "title": "Loretta Lynn’s Late-Career Masterpiece ‘Van Lear Rose’ Is Returning to Streaming",
-    "url": "https://www.rollingstone.com/music/music-country/loretta-lynn-van-lear-rose-return-streaming-reissue-1235639919/",
-    "publishedAt": "2026-10-08T19:47:02.000Z",
-    "summary": "After a mysterious seven-year absence, the Jack White-produced album will also be reissued on CD and vinyl from Third Man Records",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/rock-metal-bands-canceled-postponed-shows-2026/",
-    "source": "loudwire",
-    "title": "29 Big Rock + Metal Bands Who've Canceled Shows in 2026",
-    "url": "https://loudwire.com/rock-metal-bands-canceled-postponed-shows-2026/",
-    "publishedAt": "2026-10-08T19:06:22.000Z",
-    "summary": "Here are 29 rock and metal bands that have called off shows so far this year and the reason behind the cancellations. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/guns-n-roses-aerosmith-friends-concerts/",
-    "source": "loudwire",
-    "title": "Guns N' Roses Join Aerosmith's Hollywood Bowl Comeback Shows",
-    "url": "https://loudwire.com/guns-n-roses-aerosmith-friends-concerts/",
-    "publishedAt": "2026-10-08T19:04:11.000Z",
-    "summary": "Aerosmith's coming back to the Hollywood Bowl with an insane lineup. Guns N' Roses just got added to what's shaping up to be the ultimate rock reunion. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/taylor-swift-perform-academy-museum-2027-gala-1235639847/",
-    "source": "rolling-stone",
-    "title": "Taylor Swift to Perform at Academy Museum’s Annual Gala",
-    "url": "https://www.rollingstone.com/music/music-news/taylor-swift-perform-academy-museum-2027-gala-1235639847/",
-    "publishedAt": "2026-10-08T18:34:27.000Z",
-    "summary": "The stop comes ahead of the start of Oscar voting season, with Swift's Toy Story 5 hit \"I Knew It, I Knew You\" eligible for Best Original Song",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/katseye-sophia-laforteza-return-group-2027-1235639811/",
-    "source": "rolling-stone",
-    "title": "Katseye’s Sophia Laforteza to Return to Group in January",
-    "url": "https://www.rollingstone.com/music/music-news/katseye-sophia-laforteza-return-group-2027-1235639811/",
-    "publishedAt": "2026-10-08T17:44:58.000Z",
-    "summary": "However, singer will miss North American leg of Katseye’s Wildworld Tour this fall as she continues to focus on her mental health",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/audrey-hobert-phoebe-video-1235638189/",
-    "source": "rolling-stone",
-    "title": "Audrey Hobert Embarks on a Soul-Searching Journey in New ‘Phoebe’ Video",
-    "url": "https://www.rollingstone.com/music/music-news/audrey-hobert-phoebe-video-1235638189/",
-    "publishedAt": "2026-10-08T17:31:06.000Z",
-    "summary": "The pop artist will open for Charli XCX next year",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/powderfinger-teasing-reunion/",
-    "source": "loudwire",
-    "title": "Are '90s + 2000s Alt-Rockers Powderfinger Teasing a Reunion? ",
-    "url": "https://loudwire.com/powderfinger-teasing-reunion/",
-    "publishedAt": "2026-10-08T17:22:22.000Z",
-    "summary": "The 18-time ARIA Award winners Powderfinger have been cryptically teasing something new over the past week while launching a mysterious Instagram account. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/loretta-lynns-van-lear-rose-is-returning-to-streaming/",
-    "source": "pitchfork",
-    "title": "Loretta Lynn’s Van Lear Rose Is Returning to Streaming",
-    "url": "https://pitchfork.com/story/loretta-lynns-van-lear-rose-is-returning-to-streaming/",
-    "publishedAt": "2026-10-08T17:21:59.000Z",
-    "summary": "Third Man will reissue Lynn’s 2004 comeback album, which was mysteriously pulled from DSPs in 2021",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/audrey-hobert-phoebe-video/",
-    "source": "pitchfork",
-    "title": "Watch Audrey Hobert Talk to a Redwood Tree in New “Phoebe” Video",
-    "url": "https://pitchfork.com/story/audrey-hobert-phoebe-video/",
-    "publishedAt": "2026-10-08T17:15:07.000Z",
-    "summary": "The Friends-inspired Who’s the Clown? track gets its own visual",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/amelia-coburn-announces-new-single-and-album/",
     "source": "louder-than-war",
     "title": "Amelia Coburn announces new single and album!",
     "url": "https://louderthanwar.com/amelia-coburn-announces-new-single-and-album/",
     "publishedAt": "2026-10-08T16:57:35.000Z",
     "summary": "Acclaimed north-east artist Amelia Coburn has announced her second album, Myself and Other Monsters, due to arrive on 5th March 2027, alongside new single I Just Want To Say. Renowned for her vivid, gothic-tinged storytelling, Coburn’s new record is a cabinet of curiosities, where the supernatural hides within the domestic and beauty exists alongside the […] The post Amelia Coburn announces new single and album! appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/david-byrne-and-daniel-pemberton-made-a-song-using-weird-elon-musk-quotes/",
-    "source": "pitchfork",
-    "title": "David Byrne and Daniel Pemberton Made a Song Using Weird Elon Musk Quotes",
-    "url": "https://pitchfork.com/story/david-byrne-and-daniel-pemberton-made-a-song-using-weird-elon-musk-quotes/",
-    "publishedAt": "2026-10-08T16:53:33.000Z",
-    "summary": "“Let Me Sell You a Dream” appears in Musk, a new documentary about the tech mogul directed by Alex Gibney",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/madra-salach-ireland-folk-interview-1235636950/",
-    "source": "rolling-stone",
-    "title": "Madra Salach on the Hunger at the Heart of Their Debut Album",
-    "url": "https://www.rollingstone.com/music/music-features/madra-salach-ireland-folk-interview-1235636950/",
-    "publishedAt": "2026-10-08T16:30:00.000Z",
-    "summary": "The Dublin band tell us how they use the stories of mythical figures to dive into “the strange tapestry that is Irish history”",
     "image": null
   },
   {
@@ -396,24 +504,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/weird-al-yankovic-uhf-live-show-weird-sequel-1235639023/",
-    "source": "rolling-stone",
-    "title": "‘Weird Al’ Yankovic Is Celebrating ‘UHF’ With a Live Show, But Struggling to Make a Biopic Sequel",
-    "url": "https://www.rollingstone.com/music/music-features/weird-al-yankovic-uhf-live-show-weird-sequel-1235639023/",
-    "publishedAt": "2026-10-08T15:55:33.000Z",
-    "summary": "There’s a script that continues the story of Yankovic’s 2022 mock biopic, Weird, and Daniel Radcliffe is down to reprise his leading role, but no studio is onboard",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/bjork-announces-new-orchestral-live-album/",
-    "source": "pitchfork",
-    "title": "Björk Announces New Orchestral Live Album",
-    "url": "https://pitchfork.com/story/bjork-announces-new-orchestral-live-album/",
-    "publishedAt": "2026-10-08T15:43:27.000Z",
-    "summary": "Drawn from her 2021 performances adapting songs, primarily from Medúlla, for an ensemble including a 50-person choir",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMipAFBVV95cUxOU3FncThxQ2dNMHVZSi1Pa2JmUXBjZXdTd29NVXRRQzB4eDVoSnJCbHo2WUpMSnpVLXp5cFhsQVU5cVFZb1kwWTFxOTJoS1FDRkE3cFBXb2FvSERONmRaN29ZQ0U5RlBzcDhyY0ZJZGJXUkdncVVpOWdLSGdZakVNZV9rbmRIMUExeno0ejVtc3h1NkZhM0hZYjVkZzktWFRDRTd1ag?oc=5",
     "source": "nme",
     "title": "Thom Yorke says Radiohead reunion tour caused “massive” crash in self-confidence: “It took me months” - NME",
@@ -429,15 +519,6 @@
     "url": "https://www.uncut.co.uk/news/billy-bragg-and-wilcos-mermaid-avenue-sessions-expanded-in-new-box-set-156606/",
     "publishedAt": "2026-10-08T15:37:06.000Z",
     "summary": "All three volumes of the acclaimed Woody Guthrie project alongside 16 previously unreleased recordings, including demos, alternate versions and a newly unearthed Guthrie home recording",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/rosalia-interview-u2-song-jimmy-fallon-1235639699/",
-    "source": "rolling-stone",
-    "title": "U2 Wrote a Song About Rosalía. How Does She Feel About That?",
-    "url": "https://www.rollingstone.com/music/music-news/rosalia-interview-u2-song-jimmy-fallon-1235639699/",
-    "publishedAt": "2026-10-08T15:34:15.000Z",
-    "summary": "The superstar joined Jimmy Fallon on The Tonight Show and shared her thoughts on U2’s upcoming song “The Mirror Maker (Rosalía)”",
     "image": null
   },
   {
@@ -459,33 +540,6 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/grand-theft-auto-6-metal-station-slayer/",
-    "source": "loudwire",
-    "title": "2 'Big 4' Thrash Stars Host Metal Radio Station in 'GTA 6'",
-    "url": "https://loudwire.com/grand-theft-auto-6-metal-station-slayer/",
-    "publishedAt": "2026-10-08T15:00:53.000Z",
-    "summary": "Grand Theft Auto 6 has shared previews of its in-game radio stations — and two 'Big 4' thrash stars are the hosts of the metal station. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/andrew-watt-black-sabbath-album/",
-    "source": "loudwire",
-    "title": "Black Sabbath Into Making a New Album on One Condition",
-    "url": "https://loudwire.com/andrew-watt-black-sabbath-album/",
-    "publishedAt": "2026-10-08T14:27:43.000Z",
-    "summary": "Producer Andrew Watt shares in a new interview why a potential Black Sabbath album didn't happen. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/turnstile-announce-free-show-to-raise-funds-for-palestine-sudan-and-lebanon/",
-    "source": "pitchfork",
-    "title": "Turnstile Announce Free Show to Raise Funds for Palestine, Sudan, and Lebanon",
-    "url": "https://pitchfork.com/story/turnstile-announce-free-show-to-raise-funds-for-palestine-sudan-and-lebanon/",
-    "publishedAt": "2026-10-08T14:12:17.000Z",
-    "summary": "The Washington D.C. concert takes place on October 24 in collaboration with Human Concern International",
-    "image": null
-  },
-  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMilgFBVV95cUxOSWtmeUFReUp4YU1ZcjB5RUtBV25yZFJYN2NCSjRDSmNTeS1JYUJ2YXhfaVY5LXl4NDhiOXAzbklpeVRIdTlLTDRObXRqSFl1SXpMbVFudmx1OGN3aEttenhmelFyenhGNUhkR29fZ2hBZjFJOHhnZ0Y4QmppYVVzLXBhNHo4VU9yLTJEZVBfMmt1TkdYRmc?oc=5",
     "source": "kerrang",
     "title": "Trivium announce new album, Crown In The Grave, and share title-track - Kerrang!",
@@ -501,51 +555,6 @@
     "url": "https://louderthanwar.com/spooky-eyes-spooky-eyes-album-review/",
     "publishedAt": "2026-10-08T13:43:15.000Z",
     "summary": "The power of three, no need for more. Fuzz to the floor and drench yourself in some real deep garage psych. From the depths of Tasmania come this devilish band, Spooky Eyes, steeped in the sounds of classic psych-rock, filtered through the fervour and energy of youth, drenched in the history of the blues. This […] The post Spooky Eyes: Spooky Eyes – Album Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/brian-may-queen-touring-misinterpretation/",
-    "source": "loudwire",
-    "title": "Brian May Clarifies His Comment About Queen Not Touring Anymore",
-    "url": "https://loudwire.com/brian-may-queen-touring-misinterpretation/",
-    "publishedAt": "2026-10-08T13:00:31.000Z",
-    "summary": "Guitarist clarifies what he described as a \"misinterpretation\" of what he meant. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMinwFBVV95cUxNNkFjaE1RZEJadjVjM1JOeC1IUmFGM0E1N0FrUHQwVEdDdWNxbTMtYkJtdno0Si1qY002QnJSTlh4R3F5dXp4WXZESF84UThsdnpidGFFalRFUlJoREIzbno0Q2FtMkljYzlxR2lVQ1Z3YWJJR2ljVmM4QzNUcWQ3TEdjVTF3aXZwTS1rN3U0OGZvRDVOTnlVbm1NbHRDdGM?oc=5",
-    "source": "nme",
-    "title": "Sydney Sweeney and Marilyn Monroe are related - NME",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNkFjaE1RZEJadjVjM1JOeC1IUmFGM0E1N0FrUHQwVEdDdWNxbTMtYkJtdno0Si1qY002QnJSTlh4R3F5dXp4WXZESF84UThsdnpidGFFalRFUlJoREIzbno0Q2FtMkljYzlxR2lVQ1Z3YWJJR2ljVmM4QzNUcWQ3TEdjVTF3aXZwTS1rN3U0OGZvRDVOTnlVbm1NbHRDdGM?oc=5",
-    "publishedAt": "2026-10-08T12:32:45.000Z",
-    "summary": "Sydney Sweeney and Marilyn Monroe are related NME",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/def-leppard-2027-tour/",
-    "source": "loudwire",
-    "title": "Def Leppard Book Huge 2027 North American Tour ",
-    "url": "https://loudwire.com/def-leppard-2027-tour/",
-    "publishedAt": "2026-10-08T11:24:08.000Z",
-    "summary": "Def Leppard will be hitting the road hard next year on a huge North American tour with Goo Goo Dolls and The Struts. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMi0gFBVV95cUxOb2pHLUZtSVFHSzdBLVJJT0djbzNWLVNIWWd5dHRFcjZYVHNELTdqS0YtUVBOaGpSd2VTcjVPN3ZMSzZWZzZnOGtMY2JzU2NoWnZreDVvd1JTQjlFaHBxeEtEYkstVUs0Q3F6YXlWSkgwQXVNTTY0cTlBSGZrNENrNjA2elJpVzVnUzYzYnNDQ0tHR0JSUVN1cVA3WFJ2T18yX3Y0YmUwbTBaWFM0bWFTdE9DR0J3dTlJekNNRWxYcHVHZUh5UTk0aWFSS19hR1VqSFE?oc=5",
-    "source": "nme",
-    "title": "Lorde calls out Robert Kraft with \"Free Palestine\" jacket following Ed Sheeran-Macklemore controversy - NME",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOb2pHLUZtSVFHSzdBLVJJT0djbzNWLVNIWWd5dHRFcjZYVHNELTdqS0YtUVBOaGpSd2VTcjVPN3ZMSzZWZzZnOGtMY2JzU2NoWnZreDVvd1JTQjlFaHBxeEtEYkstVUs0Q3F6YXlWSkgwQXVNTTY0cTlBSGZrNENrNjA2elJpVzVnUzYzYnNDQ0tHR0JSUVN1cVA3WFJ2T18yX3Y0YmUwbTBaWFM0bWFTdE9DR0J3dTlJekNNRWxYcHVHZUh5UTk0aWFSS19hR1VqSFE?oc=5",
-    "publishedAt": "2026-10-08T10:45:06.000Z",
-    "summary": "Lorde calls out Robert Kraft with \"Free Palestine\" jacket following Ed Sheeran-Macklemore controversy NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMitgFBVV95cUxNOGRLWTFKYkhFbWRjZjRSM28zV2dxUjEyTlVkeWZNMklabnNzQ0RWSzVZV1JDQ3JtZDd5VUMtdVZiT0kzcFd1aHhQeDV0Vng3ampCQkNLdjNGWGtwUXBmMmlfNHhXUEc0WGczb25zWjZwemRZWmlzRE1LNWcyblpEaTVMam43TjFGMkJ1TmYycDJPZ0k2Unl2SnNPeE1sUk9mOExVSi1jb21remF3YkxhdEQ1SmMydw?oc=5",
-    "source": "nme",
-    "title": "Paul McCartney on how a happy accident led to The Beatles’ iconic’ ‘Rubber Soul’ cover - NME",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOGRLWTFKYkhFbWRjZjRSM28zV2dxUjEyTlVkeWZNMklabnNzQ0RWSzVZV1JDQ3JtZDd5VUMtdVZiT0kzcFd1aHhQeDV0Vng3ampCQkNLdjNGWGtwUXBmMmlfNHhXUEc0WGczb25zWjZwemRZWmlzRE1LNWcyblpEaTVMam43TjFGMkJ1TmYycDJPZ0k2Unl2SnNPeE1sUk9mOExVSi1jb21remF3YkxhdEQ1SmMydw?oc=5",
-    "publishedAt": "2026-10-08T10:42:43.000Z",
-    "summary": "Paul McCartney on how a happy accident led to The Beatles’ iconic’ ‘Rubber Soul’ cover NME",
     "image": null
   },
   {
@@ -582,15 +591,6 @@
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Ldlc3R3JUbnVWcEozMW5hWk1aWUJDNFJPQzhfU2drMzF2WWJiQ2llWnNXRkhKdTFPeHU5cGN6UHpBUVhHQ1gyWE9aSVlPNHpIVVlFdlRfcTQ5V3BDeGVFSVhpVFA4MkxFSndOLUwyYnJmaW5wWVE?oc=5",
     "publishedAt": "2026-10-08T07:00:00.000Z",
     "summary": "Album review: Left To Suffer – Unwelcome Guest Kerrang!",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMipwFBVV95cUxOYmdLelFtSkstMWdlckF6Umx4RWpEeXNvMktVVXNjQkRUa2o0eVdORmlrOU4tQm83WnlmQVcxUnlUMnpPc0tmSkRqRVBEWVAzQWoxaVJmb3VZSkxJc2JEZXI3bk9Oc3R3eUZFZ3ZCcGNJZUhvSUxnMUhTU1RJU0ozN3E4LTY4VEo3UTRRcXJjZTFVZEZjbk5PSklsaU5aRjNWSk43X0hxRQ?oc=5",
-    "source": "nme",
-    "title": "‘24 Hour Party People’ cast reunite for premiere anniversary screening in Manchester - NME",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYmdLelFtSkstMWdlckF6Umx4RWpEeXNvMktVVXNjQkRUa2o0eVdORmlrOU4tQm83WnlmQVcxUnlUMnpPc0tmSkRqRVBEWVAzQWoxaVJmb3VZSkxJc2JEZXI3bk9Oc3R3eUZFZ3ZCcGNJZUhvSUxnMUhTU1RJU0ozN3E4LTY4VEo3UTRRcXJjZTFVZEZjbk5PSklsaU5aRjNWSk43X0hxRQ?oc=5",
-    "publishedAt": "2026-10-07T20:09:39.000Z",
-    "summary": "‘24 Hour Party People’ cast reunite for premiere anniversary screening in Manchester NME",
     "image": null
   },
   {
@@ -657,6 +657,15 @@
     "image": null
   },
   {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDUEliaFRqNDllU291ZTM4ZGJhZFNHbDlpcmctckFlcVVfSWc2c0l1cUlKZG9GY1NfbHpfQm45SlZ0RTFrdlpNTm1GMzA1Q20zMWhfTmlEZkswTllXVlhOSlZTMUo?oc=5",
+    "source": "kerrang",
+    "title": "Album review: Wage War – Landfall - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDUEliaFRqNDllU291ZTM4ZGJhZFNHbDlpcmctckFlcVVfSWc2c0l1cUlKZG9GY1NfbHpfQm45SlZ0RTFrdlpNTm1GMzA1Q20zMWhfTmlEZkswTllXVlhOSlZTMUo?oc=5",
+    "publishedAt": "2026-10-06T12:00:00.000Z",
+    "summary": "Album review: Wage War – Landfall Kerrang!",
+    "image": null
+  },
+  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMib0FVX3lxTE9yQVFuRGdIQi1TVDFSZmJDazRTSFdkUkR1dGhSTzdJN2ZOZm5KXzg3QU1kRjJEUkZVRXBodVpzUk5xd1g1SkQtT2NwU240V2Fmd0lnQTdvWlVOdkJGcFhHMU12eURaV0dIemw4M1FJOA?oc=5",
     "source": "kerrang",
     "title": "Album review: Dead Poet Society – Monarch - Kerrang!",
@@ -708,15 +717,6 @@
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DTk1RaE15VmFjTDdNcjZaejA4Tzdxc29vV3hNUGRtcjN0UkxhUlpTYUIyT0J3Q3huLV9aZllVd1ZFMnIxQ3lDUVRNZHhHWEU5U2hhRnlFZ1I2UEM1Q1pwSEF6aGE5VWg5OERtVXpvVzVhdzJBN0RVNEFNNDc?oc=5",
     "publishedAt": "2026-10-02T10:00:00.000Z",
     "summary": "Album review: Banks Arcade – Second Place Superstar Kerrang!",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMiekFVX3lxTE40NmxhZ28yRE8wQXY3RUxVTXFteTRtaDRzMllaWFFpanoxY081WFMxUFlfRENpNFc3SlFVZTVJLUtoY0Y3a0ZmTWtady1tUXZ5Vk9GMC1WRklIYnoycWN6UGhOY1B2MllHMERjaVNjaFBPZEdOTHkxVzh3?oc=5",
-    "source": "kerrang",
-    "title": "Album review: Amon Amarth – The Allfather Awakens - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE40NmxhZ28yRE8wQXY3RUxVTXFteTRtaDRzMllaWFFpanoxY081WFMxUFlfRENpNFc3SlFVZTVJLUtoY0Y3a0ZmTWtady1tUXZ5Vk9GMC1WRklIYnoycWN6UGhOY1B2MllHMERjaVNjaFBPZEdOTHkxVzh3?oc=5",
-    "publishedAt": "2026-10-02T09:24:00.000Z",
-    "summary": "Album review: Amon Amarth – The Allfather Awakens Kerrang!",
     "image": null
   }
 ]
