@@ -1,5 +1,32 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/music-news/mike-love-health-update-beach-boys-1236358865/",
+    "source": "billboard",
+    "title": "Mike Love Is ‘Facing Serious Health Challenges,’ Says John Stamos",
+    "url": "https://www.billboard.com/music/music-news/mike-love-health-update-beach-boys-1236358865/",
+    "publishedAt": "2026-10-12T03:14:02.000Z",
+    "summary": "Stamos shared a candid update about The Beach Boys singer on social media before their performance in Nashville Sunday night (Oct. 11) after the band returns after a three-month break.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/harry-styles-oscar-belgal-ice-shooting-msg-concert-nyc-1236358841/",
+    "source": "billboard",
+    "title": "Harry Styles Dedicates Moment to Oscar Belgal After ICE Shooting: ‘Look After Each Other,’ He Tells NYC Crowd",
+    "url": "https://www.billboard.com/music/pop/harry-styles-oscar-belgal-ice-shooting-msg-concert-nyc-1236358841/",
+    "publishedAt": "2026-10-12T01:56:16.000Z",
+    "summary": "Styles paused his show with a speech naming Belgal at night 21 of his Madison Square Garden residency. Belgal was shot by ICE in his car in the Bronx, with his 5-year-old in the backseat.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/troye-sivan-shes-the-best-new-music-poll-results-1236358805/",
+    "source": "billboard",
+    "title": "Fans Choose Troye Sivan’s ‘She’s the Best’ as This Week’s Favorite New Music",
+    "url": "https://www.billboard.com/music/music-news/troye-sivan-shes-the-best-new-music-poll-results-1236358805/",
+    "publishedAt": "2026-10-11T22:42:06.000Z",
+    "summary": "His fourth full-length album brought in 56% of the vote.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/country/ella-langley-concert-bomb-threat-stage-return-1236358808/",
     "source": "billboard",
     "title": "Ella Langley Addresses Bomb Threat That Led to Show Cancellation: ‘A Concert’s Not Worth a Human Life’",
@@ -72,24 +99,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/calvin-harris-added-head-trip-day-two-lineup-coachella-1236358733/",
-    "source": "billboard",
-    "title": "It’s a Force Field! Calvin Harris Slides Into Head Trip Day Two After Weather Cuts Night One Short",
-    "url": "https://www.billboard.com/music/music-news/calvin-harris-added-head-trip-day-two-lineup-coachella-1236358733/",
-    "publishedAt": "2026-10-11T18:14:16.000Z",
-    "summary": "The night two bill will now feature Harris, Skrillex, Swedish House Mafia and more.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/inside-halftime-music-strategy-nfl-international-games/",
-    "source": "billboard",
-    "title": "Inside the Halftime Music Strategy For the NFL’s International Games: ‘The Biggest Challenge Is Expectation’",
-    "url": "https://www.billboard.com/pro/inside-halftime-music-strategy-nfl-international-games/",
-    "publishedAt": "2026-10-11T17:54:47.000Z",
-    "summary": "As the NFL expands with seven new halftime performances in seven cities around the world, the league's Tim Tubito breaks down their music strategy.",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMilAFBVV95cUxQNUhBRmZFOV9KeXBLQnNGWlZzQnF5dXJaYzVsOTVJZ2c5bkRVdHlFMWVxTGtKVUFuUGUyVi02bEJrMzNRLWdSOVhTZEstbzBzamdOcEkzYkcyTjlaNmJxQWRYT0Z3d01pekUwY3VTZzRfYWFKSXRISGpUV2xiTERYeWZSYll4VEVqSllCTXA3d2I0djgt?oc=5",
     "source": "nme",
     "title": "Watch Rosalía perform ‘Reliquia’ en pointe and ‘Magnolias’ in the rain on ‘SNL’ - NME",
@@ -105,15 +114,6 @@
     "url": "https://www.rollingstone.com/music/music-lists/best-albums-1976-1235622589/",
     "publishedAt": "2026-10-11T17:35:11.000Z",
     "summary": "Disco was king, Frampton came alive, new sounds like dub and punk were rising up, and the radio was full of Stevie Wonder and Kiss",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/cornell-cancels-homecoming-concert-sexual-assault-case-1236358709/",
-    "source": "billboard",
-    "title": "Cornell University Cancels Homecoming Concert Amid Fallout From Sexual Assault Case",
-    "url": "https://www.billboard.com/music/music-news/cornell-cancels-homecoming-concert-sexual-assault-case-1236358709/",
-    "publishedAt": "2026-10-11T17:26:32.000Z",
-    "summary": "Indie-pop duo Between Friends was scheduled to perform at Barton Hall on Oct. 17.",
     "image": null
   },
   {
@@ -549,6 +549,15 @@
     "image": null
   },
   {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMikwFBVV95cUxQM2VFU3RpREZZUUxXQ05SN1hCNnhobmp1YTJrakU1cmtFTXlfajQtRXFDRDRWblNYYTRFN3YxeXBHejRyVnlfUDJ3Q3Q4cGlhWHVtWDg3dVpqZ3k4eW15QVUtT3lMSURwTlJsRnptWVN0YUZheW1wQ3IzbExFWGtXNXZBLXFsc1hOT2xKLTg0NlZ0Qkk?oc=5",
+    "source": "kerrang",
+    "title": "Nickelback announce Everything Under The Sun world tour for 2027 - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQM2VFU3RpREZZUUxXQ05SN1hCNnhobmp1YTJrakU1cmtFTXlfajQtRXFDRDRWblNYYTRFN3YxeXBHejRyVnlfUDJ3Q3Q4cGlhWHVtWDg3dVpqZ3k4eW15QVUtT3lMSURwTlJsRnptWVN0YUZheW1wQ3IzbExFWGtXNXZBLXFsc1hOT2xKLTg0NlZ0Qkk?oc=5",
+    "publishedAt": "2026-10-09T13:04:00.000Z",
+    "summary": "Nickelback announce Everything Under The Sun world tour for 2027 Kerrang!",
+    "image": null
+  },
+  {
     "id": "uncut-https://www.uncut.co.uk/features/beyond-imagine-20-john-lennon-deep-cuts-you-should-hear-156626/",
     "source": "uncut",
     "title": "Beyond “Imagine”: 20 John Lennon deep cuts you should hear",
@@ -708,15 +717,6 @@
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9yQVFuRGdIQi1TVDFSZmJDazRTSFdkUkR1dGhSTzdJN2ZOZm5KXzg3QU1kRjJEUkZVRXBodVpzUk5xd1g1SkQtT2NwU240V2Fmd0lnQTdvWlVOdkJGcFhHMU12eURaV0dIemw4M1FJOA?oc=5",
     "publishedAt": "2026-10-06T10:31:00.000Z",
     "summary": "Album review: Dead Poet Society – Monarch Kerrang!",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMibkFVX3lxTFBBeW1XRXRhOGtBd01wLWR4X0Nyd1JsWnVlOHBSY25WOVRpRU1fMDRyN21ZTF9JeHVXbVV1R0JIQ29ZY0dzWHlaQ2x0X2NMc2trUTFpMHR5TnJFNEYyRkNtUnpSdXpHT2RXVGhkMkxR?oc=5",
-    "source": "kerrang",
-    "title": "Album review: unpeople – we are unpeople - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBeW1XRXRhOGtBd01wLWR4X0Nyd1JsWnVlOHBSY25WOVRpRU1fMDRyN21ZTF9JeHVXbVV1R0JIQ29ZY0dzWHlaQ2x0X2NMc2trUTFpMHR5TnJFNEYyRkNtUnpSdXpHT2RXVGhkMkxR?oc=5",
-    "publishedAt": "2026-10-05T13:00:00.000Z",
-    "summary": "Album review: unpeople – we are unpeople Kerrang!",
     "image": null
   }
 ]
