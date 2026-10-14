@@ -1,20 +1,263 @@
 [
   {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/50-cent-talks-diddy-documentary-kimmel-1236360474/",
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/marsha-blackburn-kendrick-lamar-not-like-us-ai-video-slammed-1236360552/",
     "source": "billboard",
-    "title": "‘I Don’t Know Why He Filmed That:’ 50 Cent Talks Diddy Documentary on ‘Kimmel’",
-    "url": "https://www.billboard.com/music/rb-hip-hop/50-cent-talks-diddy-documentary-kimmel-1236360474/",
-    "publishedAt": "2026-10-14T09:56:41.000Z",
-    "summary": "Fifty stopped by ABC's Jimmy Kimmel Live for a chat about life, new ventures and victories.",
+    "title": "Sen. Marsha Blackburn Slammed for ‘Cringe’ AI Video of Her as Kendrick Lamar Performing ‘Not Like Us’ at Super Bowl",
+    "url": "https://www.billboard.com/music/rb-hip-hop/marsha-blackburn-kendrick-lamar-not-like-us-ai-video-slammed-1236360552/",
+    "publishedAt": "2026-10-14T16:18:24.000Z",
+    "summary": "The Republican is running for governor of Tennessee.",
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/culture/tv-film/the-voice-chari-marcus-ladden-jr-battle-on-my-own-1236360461/",
+    "id": "billboard-https://www.billboard.com/music/pop/bts-new-trailer-tour-arirang-buenos-aires-sao-paulo-viewing-1236360579/",
     "source": "billboard",
-    "title": "‘The Voice’ Singers Chari and Marcus Ladden Jr. Power Through ‘Incredible’ Battle With ‘On My Own’: Watch",
-    "url": "https://www.billboard.com/culture/tv-film/the-voice-chari-marcus-ladden-jr-battle-on-my-own-1236360461/",
-    "publishedAt": "2026-10-14T08:40:01.000Z",
-    "summary": "“I’m so proud of both of you,” Queen Latifah enthused. “You have done a phenomenal job.”",
+    "title": "BTS Set the Stage on ‘Fire’ in Latest Trailer For ‘BTS World Tour ‘ARIRANG’ in Buenos Aires and São Paulo: Live Viewing’: Watch",
+    "url": "https://www.billboard.com/music/pop/bts-new-trailer-tour-arirang-buenos-aires-sao-paulo-viewing-1236360579/",
+    "publishedAt": "2026-10-14T16:13:47.000Z",
+    "summary": "The K-pop supergroup's first-ever show in Argentina will hit cinemas on Oct. 24 and their Latin American tour finale screens on Oct. 30.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/the-rolling-stones-announce-foreign-tongues-deluxe-edition-1235642496/",
+    "source": "rolling-stone",
+    "title": "The Rolling Stones’ Release Date for ‘Foreign Tongues’ Deluxe Edition",
+    "url": "https://www.rollingstone.com/music/music-news/the-rolling-stones-announce-foreign-tongues-deluxe-edition-1235642496/",
+    "publishedAt": "2026-10-14T16:12:21.000Z",
+    "summary": "Foreign Tongues, Loose Lips will be released on November 27 with five additional songs including “Bad Luck Hideaway\"",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/pretty-reckless-taylor-momsen-perfect-song/",
+    "source": "loudwire",
+    "title": "The Pretty Reckless’ Taylor Momsen Names ‘The Perfect Song’",
+    "url": "https://loudwire.com/pretty-reckless-taylor-momsen-perfect-song/",
+    "publishedAt": "2026-10-14T16:11:27.000Z",
+    "summary": "The Pretty Reckless' Taylor Momsen named what she believes is 'the perfect song' that she wishes she'd written during a recent interview. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/blackpink-lisa-teases-tarantino-next-single-press-play-1236360583/",
+    "source": "billboard",
+    "title": "‘It’s a Movie, Baby’: LISA of BLACKPINK Announces Cinematic ‘Press Play’ Single ‘Tarantino’",
+    "url": "https://www.billboard.com/music/music-news/blackpink-lisa-teases-tarantino-next-single-press-play-1236360583/",
+    "publishedAt": "2026-10-14T16:05:17.000Z",
+    "summary": "\"Got my nails really long like the barrel of my gun and my lipstick all over your face,\" she sings on the track.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-latin/empress-of-dream-house-eaton-fires-interview-1235642318/",
+    "source": "rolling-stone",
+    "title": "How Empress Of Found a New Sense of Home on ‘Dream House’",
+    "url": "https://www.rollingstone.com/music/music-latin/empress-of-dream-house-eaton-fires-interview-1235642318/",
+    "publishedAt": "2026-10-14T16:00:46.000Z",
+    "summary": "After experiencing a major loss during the Eaton fires, the singer used her music to rebuild",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/victoria-monet-frequency-of-love-billboard-news-interview/",
+    "source": "billboard",
+    "title": "Victoria Monét Breaks Down ‘Frequency of Love’ Album & Bruno Mars, SZA & Chlöe Collabs | Billboard News Interview",
+    "url": "https://www.billboard.com/video/victoria-monet-frequency-of-love-billboard-news-interview/",
+    "publishedAt": "2026-10-14T16:00:00.000Z",
+    "summary": "Victoria Monét breaks down ‘Frequency of Love’ and why this era is about healing, softness and choosing love while also opening up about touring, the pressure of live performance, and the collaborators who helped shape the project. From training in Tai Qi and doing breathwork to pulling inspiration from her grandmother for the “Juicy” music […]",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/midland-interview-choosin-texas-1235641880/",
+    "source": "rolling-stone",
+    "title": "Midland on ‘Choosin’ Texas’: ‘Might Be the Best Thing to Ever Happen to Midland’",
+    "url": "https://www.rollingstone.com/music/music-country/midland-interview-choosin-texas-1235641880/",
+    "publishedAt": "2026-10-14T15:59:57.000Z",
+    "summary": "“It shined a light on the music that we’ve been playing, music that we set out to play,\" says the Grammy-nominated trio's Mark Wystrach",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/country/jackson-dean-blacktop-blues-makin-tracks-1236360515/",
+    "source": "billboard",
+    "title": "Jackson Dean’s ‘Blacktop Blues’ and The Tug of War in Country’s Limelight: ‘The Beauty of Nashville Is That It’s a Song Town’",
+    "url": "https://www.billboard.com/music/country/jackson-dean-blacktop-blues-makin-tracks-1236360515/",
+    "publishedAt": "2026-10-14T15:54:36.000Z",
+    "summary": "Billboard's Makin' Tracks column looks at Jackson Dean's \"Blacktop Blues.\"",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/ultra-music-festival-miami-2027-phase-1-lineup-calvin-harris-1236360564/",
+    "source": "billboard",
+    "title": "Ultra Music Festival 2027 Announces Phase One Lineup, Including Several First Ever B2Bs",
+    "url": "https://www.billboard.com/music/music-news/ultra-music-festival-miami-2027-phase-1-lineup-calvin-harris-1236360564/",
+    "publishedAt": "2026-10-14T15:54:01.000Z",
+    "summary": "The event takes place at the city's Bayfront Park in March.",
+    "image": null
+  },
+  {
+    "id": "uncut-https://www.uncut.co.uk/news/psych-punk-pioneers-butthole-surfers-announce-latest-batch-of-reissues-156678/",
+    "source": "uncut",
+    "title": "Psych-punk pioneers Butthole Surfers announce latest batch of reissues",
+    "url": "https://www.uncut.co.uk/news/psych-punk-pioneers-butthole-surfers-announce-latest-batch-of-reissues-156678/",
+    "publishedAt": "2026-10-14T15:48:52.000Z",
+    "summary": "Remastered vinyl editions of 1991's Piouhgd and 2002's Humpty Dumpty LSD coming in December",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/miley-cyrus-philanthropy-interview/",
+    "source": "billboard",
+    "title": "Ahead of Her Long-Awaited Live Return, Miley Cyrus Takes Us Inside Her Philanthropic Focus: ‘There Is Much More to Do’",
+    "url": "https://www.billboard.com/pro/miley-cyrus-philanthropy-interview/",
+    "publishedAt": "2026-10-14T15:44:47.000Z",
+    "summary": "Miley and Tish Cyrus look back on 12 years of supporting youth and women experiencing homelessness while upping their commitment to My Friend’s Place and Downtown Women’s Center.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/kelly-clarkson-art-of-play-security-video-released-1236360535/",
+    "source": "billboard",
+    "title": "Kelly Clarkson’s Interaction at Brooklyn Store Art of Play Revealed in Store’s Security Video",
+    "url": "https://www.billboard.com/music/music-news/kelly-clarkson-art-of-play-security-video-released-1236360535/",
+    "publishedAt": "2026-10-14T15:43:43.000Z",
+    "summary": "The footage shows the singer's discussion with the employee she'd later call out online.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/black-lives-in-music-report-live-music/",
+    "source": "billboard",
+    "title": "Racial Bias in Live Events Licensing Costs London’s Music Scene $185M Annually, Says Landmark Report",
+    "url": "https://www.billboard.com/pro/black-lives-in-music-report-live-music/",
+    "publishedAt": "2026-10-14T15:29:34.000Z",
+    "summary": "The report has been in the making for the past two years and features data and testimonies from a wide range of contributors.",
+    "image": null
+  },
+  {
+    "id": "uncut-https://www.uncut.co.uk/news/deluxe-edition-of-the-rolling-stones-foreign-tongues-to-include-five-new-songs-156686/",
+    "source": "uncut",
+    "title": "Deluxe edition of The Rolling Stones’ Foreign Tongues to include five new songs",
+    "url": "https://www.uncut.co.uk/news/deluxe-edition-of-the-rolling-stones-foreign-tongues-to-include-five-new-songs-156686/",
+    "publishedAt": "2026-10-14T15:29:30.000Z",
+    "summary": "Foreign Tongues, Loose Lips features contributions from Courtney Pine and late, great Stones drummer Charlie Watts",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/drake-habibti-fomo-bonus-tracks-five-burning-questions-1236360538/",
+    "source": "billboard",
+    "title": "With Drake and Taylor Swift Doing It in Back-to-Back Weeks, Are Four-Song Bonuses Now the Move for Pop Stars’ Deluxe Editions?",
+    "url": "https://www.billboard.com/music/chart-beat/drake-habibti-fomo-bonus-tracks-five-burning-questions-1236360538/",
+    "publishedAt": "2026-10-14T15:18:16.000Z",
+    "summary": "This week's Five Burning Questions looks at Drake's new quartet of 'HABIBTI' bonus cuts taking swarming this week's Hot 100.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/nene-royal-avenged-sevenfold-onstage-singapore/",
+    "source": "loudwire",
+    "title": "Teen 'America's Got Talent' Winner Joins Major Rock Band Onstage",
+    "url": "https://loudwire.com/nene-royal-avenged-sevenfold-onstage-singapore/",
+    "publishedAt": "2026-10-14T14:37:23.000Z",
+    "summary": "Teen 'America's Got Talent' winner Nene Royal just joined Avenged Sevenfold onstage in Singapore. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/catch-your-breath-josh-mowery-not-broken-enough-interview/",
+    "source": "loudwire",
+    "title": "Josh Mowery Reflects on Catch Your Breath's Career, New Album",
+    "url": "https://loudwire.com/catch-your-breath-josh-mowery-not-broken-enough-interview/",
+    "publishedAt": "2026-10-14T14:21:02.000Z",
+    "summary": "Catch Your Breath's Josh Mowery opens up about the band's latest album, their early days of playing small shows and what's on the horizon for them. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/cameron-winter-carnegie-hall-teaser-trailer-1235642403/",
+    "source": "rolling-stone",
+    "title": "‘Cameron Winter at Carnegie Hall’ Trailer Shares Glimpse of ‘Drinking Age’",
+    "url": "https://www.rollingstone.com/music/music-news/cameron-winter-carnegie-hall-teaser-trailer-1235642403/",
+    "publishedAt": "2026-10-14T14:15:54.000Z",
+    "summary": "The concert film, directed by Paul Thomas Anderson and shot on 35mm film, will be released this winter",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/big-thief-launch-free-concert-archive/",
+    "source": "pitchfork",
+    "title": "Big Thief Launch Free Concert Archive",
+    "url": "https://pitchfork.com/story/big-thief-launch-free-concert-archive/",
+    "publishedAt": "2026-10-14T14:10:23.000Z",
+    "summary": "The Big Thief Live Archive includes 10 fully mixed shows, with plans to add new sets each month",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMixgFBVV95cUxQb3ZWYXczVmtJQ2lEZUM1SWdSVzR2aTFZSWpRWjVOSHNPc0NCNUdFTkNlS21ULXhrME80MjZQZnBPU2cyUW1HcWlLZ2otdldvcnlGWWlkWkZkOGp3WkFDcWJyb2ttYk1Gdl9sRUxzbi15UFhScXVoZnNjMDRkOEZmYURFSFcwVEFiYnAyNWNSaUtJRDJhbXl0MlpIdWxZd0tvc2tqS0JwRng0RTBzcEZWX1paLWtjdFlhZlpOeE5rQWZic295Nmc?oc=5",
+    "source": "nme",
+    "title": "Hailed by Robert Smith as \"one of the most heartfelt and beautiful Cure covers I have heard,\" American Football officially release their stripped-back take on 'Boys Don't Cry’ - NME",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb3ZWYXczVmtJQ2lEZUM1SWdSVzR2aTFZSWpRWjVOSHNPc0NCNUdFTkNlS21ULXhrME80MjZQZnBPU2cyUW1HcWlLZ2otdldvcnlGWWlkWkZkOGp3WkFDcWJyb2ttYk1Gdl9sRUxzbi15UFhScXVoZnNjMDRkOEZmYURFSFcwVEFiYnAyNWNSaUtJRDJhbXl0MlpIdWxZd0tvc2tqS0JwRng0RTBzcEZWX1paLWtjdFlhZlpOeE5rQWZic295Nmc?oc=5",
+    "publishedAt": "2026-10-14T14:01:57.000Z",
+    "summary": "Hailed by Robert Smith as \"one of the most heartfelt and beautiful Cure covers I have heard,\" American Football officially release their stripped-back take on 'Boys Don't Cry’ NME",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/grammys-2027-song-of-the-year-predictions-nominees-1235639803/",
+    "source": "rolling-stone",
+    "title": "The 2027 Grammys Contenders for Song of the Year Should Be Predominantly Women",
+    "url": "https://www.rollingstone.com/music/music-features/grammys-2027-song-of-the-year-predictions-nominees-1235639803/",
+    "publishedAt": "2026-10-14T13:41:49.000Z",
+    "summary": "Olivia Rodrigo, Olivia Dean, Taylor Swift, and Ella Langley could all have strong showings in this Big Four category",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/hair-metal-bands-one-original-member/",
+    "source": "loudwire",
+    "title": "5 Active Hair Metal Bands With Only 1 Original Member Left",
+    "url": "https://loudwire.com/hair-metal-bands-one-original-member/",
+    "publishedAt": "2026-10-14T13:31:27.000Z",
+    "summary": "Forty years can change a lot, and in the case of these five bands, those years have almost changed their entire lineup! Continue reading…",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/watch-cameron-winter-at-carnegie-halls-first-teaser-trailer/",
+    "source": "pitchfork",
+    "title": "Watch Cameron Winter at Carnegie Hall’s First Teaser Trailer",
+    "url": "https://pitchfork.com/story/watch-cameron-winter-at-carnegie-halls-first-teaser-trailer/",
+    "publishedAt": "2026-10-14T13:01:14.000Z",
+    "summary": "Paul Thomas Anderson’s concert film comes to theaters next month",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMisgFBVV95cUxOTUIwQ1Utc29IOHBSR0VjVVNNdmdVbFBYeldmOVBGc3BqRHRuTURuRmRPYktnUVcwU1pDZmtON2lMTGhNSmR3TC1wZVA1b0VZVkxBdmRhNlNId05HVk93bVI0aG5jSWE1UjlmNEZuVEEyR1VoZFhNbmQ4T0lubXJhNWhWbkNEUVdjMFI0NG8tVzFYSjFjM2lhcUxMdWhvYndhMFJ5NEt3aUdTdnNZV2VtakhB?oc=5",
+    "source": "nme",
+    "title": "Paul McCartney on the bugbear from upcoming Beatles biopics that made him text Sam Mendes \"don’t do this!” - NME",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTUIwQ1Utc29IOHBSR0VjVVNNdmdVbFBYeldmOVBGc3BqRHRuTURuRmRPYktnUVcwU1pDZmtON2lMTGhNSmR3TC1wZVA1b0VZVkxBdmRhNlNId05HVk93bVI0aG5jSWE1UjlmNEZuVEEyR1VoZFhNbmQ4T0lubXJhNWhWbkNEUVdjMFI0NG8tVzFYSjFjM2lhcUxMdWhvYndhMFJ5NEt3aUdTdnNZV2VtakhB?oc=5",
+    "publishedAt": "2026-10-14T10:37:19.000Z",
+    "summary": "Paul McCartney on the bugbear from upcoming Beatles biopics that made him text Sam Mendes \"don’t do this!” NME",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdjRWUGhwbVo4M0dzQmgxbW1nWXIxRnJ5dlJfVThXUTRDMzhGRzNRRTRINlFuWDRfVUtBazBsUTRqRG5fUXZKakE5bmxGdW5PY0J3Y1pNd0ZfVElTc3FkWXlkRWE4ZmxrWmxWTjRlSUVDNURQUUJqWWQ1anE1MDc1M3hlLXU2TTl3TUZGd29ENy1Oak95YlZta0toZ1JPazRqMldkNjIyTVE?oc=5",
+    "source": "nme",
+    "title": "Here's your first look at Greta Gerwig's 'Narnia: The Magician's Nephew' - NME",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdjRWUGhwbVo4M0dzQmgxbW1nWXIxRnJ5dlJfVThXUTRDMzhGRzNRRTRINlFuWDRfVUtBazBsUTRqRG5fUXZKakE5bmxGdW5PY0J3Y1pNd0ZfVElTc3FkWXlkRWE4ZmxrWmxWTjRlSUVDNURQUUJqWWQ1anE1MDc1M3hlLXU2TTl3TUZGd29ENy1Oak95YlZta0toZ1JPazRqMldkNjIyTVE?oc=5",
+    "publishedAt": "2026-10-14T10:25:51.000Z",
+    "summary": "Here's your first look at Greta Gerwig's 'Narnia: The Magician's Nephew' NME",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMiugFBVV95cUxPaXpHZ2xlLXZZQmo0XzUwYWcxcXdzdmJfTEZaR0phYU9HbzZFYk9aQUhjbFNCS0RfaGV5M2RHTTFOaW1EUGR3VHlnU2JZUUpNM2FkYVI4Qzd2bWxtZzdxa1F3aFJ4SlJYWjFwRjFJT3J2WWZIZ0xPRHU3ZDZWbERISDRVWmdwZjRWdng4Unhsc3dOeEFIU0NXV3VnanZ3ZEpSampwbk9nMEFFVl9PX043Y3NLeGZROGVUbFE?oc=5",
+    "source": "nme",
+    "title": "Fontaines D.C.'s Grian Chatten on \"career high\" of working with Rosalía: \"I've got a suspicion that her heart is similar to mine” - NME",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaXpHZ2xlLXZZQmo0XzUwYWcxcXdzdmJfTEZaR0phYU9HbzZFYk9aQUhjbFNCS0RfaGV5M2RHTTFOaW1EUGR3VHlnU2JZUUpNM2FkYVI4Qzd2bWxtZzdxa1F3aFJ4SlJYWjFwRjFJT3J2WWZIZ0xPRHU3ZDZWbERISDRVWmdwZjRWdng4Unhsc3dOeEFIU0NXV3VnanZ3ZEpSampwbk9nMEFFVl9PX043Y3NLeGZROGVUbFE?oc=5",
+    "publishedAt": "2026-10-14T09:45:17.000Z",
+    "summary": "Fontaines D.C.'s Grian Chatten on \"career high\" of working with Rosalía: \"I've got a suspicion that her heart is similar to mine” NME",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ0pWdFBqa3c2WHpsQlZHVFp4YXFtR290SzhoOXU1eVpJLU5FRXRJWWZDM2QycFk5TjB3d1BRUmJ1S1JIdUtRT0YxVzB6cUpnc01tQ1RtdzVCRzM1blQ1WVlCN20tTi1KaVZERXlJUGZ1bEJETW5uQWFscnBlY3h4YklReGprdXFwWXJBWlJQOEQ2Y2JGaXRMRUR0TldHUm5kVVdqX1JmOVM4a0hwM0FYcV9rVWlVRWM?oc=5",
+    "source": "nme",
+    "title": "Check out these behind-the-scenes photos from Thom Yorke’s ‘Hamlet Hail To The Thief’ London rehearsals - NME",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ0pWdFBqa3c2WHpsQlZHVFp4YXFtR290SzhoOXU1eVpJLU5FRXRJWWZDM2QycFk5TjB3d1BRUmJ1S1JIdUtRT0YxVzB6cUpnc01tQ1RtdzVCRzM1blQ1WVlCN20tTi1KaVZERXlJUGZ1bEJETW5uQWFscnBlY3h4YklReGprdXFwWXJBWlJQOEQ2Y2JGaXRMRUR0TldHUm5kVVdqX1JmOVM4a0hwM0FYcV9rVWlVRWM?oc=5",
+    "publishedAt": "2026-10-14T09:30:44.000Z",
+    "summary": "Check out these behind-the-scenes photos from Thom Yorke’s ‘Hamlet Hail To The Thief’ London rehearsals NME",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMihgFBVV95cUxNb3pvbW16QmZYcHc0U2pOMUhCanRXckNpcFZaUnp4LWNOMHFBN0tKRTY1TnlfQTFFb2RQNXY2VndURGU0UUx0V1p5RS1ncmRsZGZuZmxNa3RxaDFtcHhtdlBUaEdiRkdWTVVlRHVZV0tWVDdId2JubjZKeWgzWGFrZFJWWElzUQ?oc=5",
+    "source": "nme",
+    "title": "The Avalanches – ‘No Bad Memories’ review: excessive and overstimulating by design - NME",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNb3pvbW16QmZYcHc0U2pOMUhCanRXckNpcFZaUnp4LWNOMHFBN0tKRTY1TnlfQTFFb2RQNXY2VndURGU0UUx0V1p5RS1ncmRsZGZuZmxNa3RxaDFtcHhtdlBUaEdiRkdWTVVlRHVZV0tWVDdId2JubjZKeWgzWGFrZFJWWElzUQ?oc=5",
+    "publishedAt": "2026-10-14T08:04:25.000Z",
+    "summary": "The Avalanches – ‘No Bad Memories’ review: excessive and overstimulating by design NME",
     "image": null
   },
   {
@@ -27,84 +270,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/awards/cezary-skubiszewski-saluted-2026-screen-music-awards-1236360450/",
-    "source": "billboard",
-    "title": "Cezary Skubiszewski to Be Saluted at 2026 Screen Music Awards",
-    "url": "https://www.billboard.com/music/awards/cezary-skubiszewski-saluted-2026-screen-music-awards-1236360450/",
-    "publishedAt": "2026-10-14T06:50:13.000Z",
-    "summary": "APRA AMCOS' annual ceremony will be presented Wednesday, Oct. 28 at Fortitude Music Hall in Brisbane, Australia.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/kelly-clarksons-brooklyn-shop-feud-security-footage-details-1235642387/",
     "source": "rolling-stone",
     "title": "More Details Emerge About Kelly Clarkson’s Feud With Brooklyn Shop",
     "url": "https://www.rollingstone.com/music/music-news/kelly-clarksons-brooklyn-shop-feud-security-footage-details-1235642387/",
     "publishedAt": "2026-10-14T06:48:44.000Z",
-    "summary": "Security footage of Clarkson's visit to Art of Play was revealed on Tuesday, while the shop's owner responded to questions from the press",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/dom-dolla-lgood-fortune-records-1236360432/",
-    "source": "billboard",
-    "title": "Dom Dolla Launches Good Fortune Records",
-    "url": "https://www.billboard.com/music/music-news/dom-dolla-lgood-fortune-records-1236360432/",
-    "publishedAt": "2026-10-14T04:22:26.000Z",
-    "summary": "The superstar Australian DJ and producer unveils Good Fortune Records, which launches proper this Friday (Oct. 16) with its first release -- Torren Foot & rhys from the sticks’ “DANCE.”",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/kpop-demon-hunters-costco-exclusive-trading-cards-shop-1236360008/",
-    "source": "billboard",
-    "title": "Costco’s Exclusive ‘KPop Demon Hunters’ Trading Card Set Includes 11 Rarity Levels & A Character-Inspired Frame",
-    "url": "https://www.billboard.com/culture/product-recommendations/kpop-demon-hunters-costco-exclusive-trading-cards-shop-1236360008/",
-    "publishedAt": "2026-10-14T03:14:31.000Z",
-    "summary": "Fans have a choice between the HUNTR/X or Saja Boys trading card Collector Box, each sold exclusively at Costco.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/concerts/f1-singapore-lana-del-rey-hints-another-visit-asia-1236360421/",
-    "source": "billboard",
-    "title": "After F1 Singapore Concert, Lana Del Rey Hints at Another Visit to Asia",
-    "url": "https://www.billboard.com/music/concerts/f1-singapore-lana-del-rey-hints-another-visit-asia-1236360421/",
-    "publishedAt": "2026-10-14T03:10:48.000Z",
-    "summary": "“I know it’s not going to be the last time we see you,” Del Rey remarked near the finale.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/troye-sivan-role-model-dance-cowboy-tiktok-1236360392/",
-    "source": "billboard",
-    "title": "Watch Troye Sivan and Role Model Saddle Up and Sway to Troye’s New Track ‘Cowboy’",
-    "url": "https://www.billboard.com/music/music-news/troye-sivan-role-model-dance-cowboy-tiktok-1236360392/",
-    "publishedAt": "2026-10-14T01:40:55.000Z",
-    "summary": "The pop star dances with the singer/songwriter to the new track on his new album, She's the Best, which released last Friday (Oct. 9).",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/pop/hailey-bieber-loves-rosalia-lux-album-1236360374/",
-    "source": "billboard",
-    "title": "Rosalía’s ‘LUX’ Is Making Hailey Bieber ‘Wanna Throw Up in a Good Way’",
-    "url": "https://www.billboard.com/music/pop/hailey-bieber-loves-rosalia-lux-album-1236360374/",
-    "publishedAt": "2026-10-14T01:28:02.000Z",
-    "summary": "The model shared her love for the Spanish superstar's genre-bending album on her Instagram Story.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/tv-film/led-zeppelin-stairway-to-heaven-narnia-trailer-greta-gerwig-1236360368/",
-    "source": "billboard",
-    "title": "Here’s How Greta Gerwig Got Led Zeppelin to Say Yes to Using ‘Stairway to Heaven’ in ‘Narnia’ Trailer",
-    "url": "https://www.billboard.com/culture/tv-film/led-zeppelin-stairway-to-heaven-narnia-trailer-greta-gerwig-1236360368/",
-    "publishedAt": "2026-10-14T01:20:18.000Z",
-    "summary": "Robert Plant & Jimmy Page gave the filmmaker their blessing to use the rock classic in the first look at Narnia: The Magician's Nephew.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/asap-rocky-ferg-new-album-1236360253/",
-    "source": "billboard",
-    "title": "A$AP Rocky Extends Olive Branch, Offers to Distribute New FERG Album: ‘U Know Where Home Is’",
-    "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-ferg-new-album-1236360253/",
-    "publishedAt": "2026-10-14T00:05:33.000Z",
-    "summary": "The two A$AP members have been going back and forth through the media over FERG's name change.",
+    "summary": "Security footage of Clarkson’s visit to Art of Play was revealed on Tuesday, while the shop's owner responded to questions from the press",
     "image": null
   },
   {
@@ -122,7 +293,7 @@
     "title": "Summer Walker Claims Label LVRN ‘Fraudulently’ Hid YouTube, Amazon Cash as Contract War Escalates",
     "url": "https://www.rollingstone.com/music/music-news/summer-walker-love-renaissance-interscope-youtube-amazon-1235642163/",
     "publishedAt": "2026-10-13T21:39:12.000Z",
-    "summary": "The \"No Love\" singer is asking a judge in Atlanta to void her contract with Love Renaissance",
+    "summary": "The “No Love” singer is asking a judge in Atlanta to void her contract with Love Renaissance",
     "image": null
   },
   {
@@ -198,15 +369,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/michael-jackson-super-bowl-halftime-show-documentary-1235642023/",
-    "source": "rolling-stone",
-    "title": "Michael Jackson’s Legendary Super Bowl Halftime Show Is Getting Its Own Documentary",
-    "url": "https://www.rollingstone.com/music/music-news/michael-jackson-super-bowl-halftime-show-documentary-1235642023/",
-    "publishedAt": "2026-10-13T18:13:39.000Z",
-    "summary": "Spectacle: Michael Jackson at the Super Bowl will arrive February 2027 and feature never-before-seen footage of the King of Pop’s preparations",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/rush-soundcheck-song/",
     "source": "loudwire",
     "title": "Why Rush Play The Same Song Before Every Show on Reunion Tour",
@@ -261,15 +423,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/sharon-osbourne-ozzy-back-to-the-beginning-concert-film-1235640059/",
-    "source": "rolling-stone",
-    "title": "Sharon Osbourne Talks Ozzy’s ‘Back to the Beginning’ Film: ‘He Went Out Like a Viking’",
-    "url": "https://www.rollingstone.com/music/music-features/sharon-osbourne-ozzy-back-to-the-beginning-concert-film-1235640059/",
-    "publishedAt": "2026-10-13T15:11:30.000Z",
-    "summary": "Ahead of concert film’s release, the Prince of Darkness’ wife and manager opens up about Ozzy’s historic farewell",
-    "image": null
-  },
-  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMiYkFVX3lxTFBBc19jWWp4R1BsalNQV3ZncVFOckVabXRrNnZPMG12bEtDWGFfbWJ2azZ2di10N2xDcWI1cDIwZEpkLUdnTVV0b2NoTFJzVXB4SDhtXzl0Q0plVXFxZ1pKSmRn?oc=5",
     "source": "kerrang",
     "title": "Album review: Caspian – Caspian - Kerrang!",
@@ -285,15 +438,6 @@
     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPd0dGcGthdFlpdndLbk9WaTc3Vk5GWFZkeHBXTlNQaG8tZFJxcW41NHhaa29FZjdZUVNoR0FuTGFMMTU1bjRYUms0ZEtteTZ1VUgxSHlOMjJXOVA3cWcyWGdkYW90UVNoRXFxTFhmWUVueUhmeExZay1udVg2NUZRazlydHlYamtLWno3NFZWb3c5VEJ6X1hFOXcxOFQySjdSWUY3SGVEbk1Scm03R0I1YVRZNGtGNHFwdk1reVUtNm1icXpzQVFfVnE3R2d4R1FjU2JsMlBkdTJReThkSUp0cndBS1ktc3M?oc=5",
     "publishedAt": "2026-10-13T14:58:10.000Z",
     "summary": "Lost Amy Winehouse interview resurfaces: \"The thought of dying without ever making my mark, that was my biggest fear” NME",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/al-jardine-beach-boys-reunion-mike-love-health-1235641772/",
-    "source": "rolling-stone",
-    "title": "Al Jardine on His Beach Boys Reunion Show, Mike Love’s Health: ‘I’m Speechless’",
-    "url": "https://www.rollingstone.com/music/music-features/al-jardine-beach-boys-reunion-mike-love-health-1235641772/",
-    "publishedAt": "2026-10-13T14:50:17.000Z",
-    "summary": "“Mike wants to be onstage,” Jardine says. “He doesn’t know what else to do, so I think he’s trapped”",
     "image": null
   },
   {
@@ -321,33 +465,6 @@
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9URFMxeEFybjlQMnJPbTJCdWZ1b1RBTmdoakUtQU9sRzJnajB1dUl1WThHcWpQR050cVJyTUJJNnNyU1JJQno4Q0Q2V0pscjFFQ1VHSE1jYkpLal9RZ2JHMDRodHFmSk5VcWdSVEdWem9CRHM?oc=5",
     "publishedAt": "2026-10-13T13:35:00.000Z",
     "summary": "Album review: Of Virtue – Death Of The Altar Kerrang!",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/forgotten-2006-rock-radio-hits/",
-    "source": "loudwire",
-    "title": "Do You Remember These 10 Forgotten 2006 Rock Radio Hits?",
-    "url": "https://loudwire.com/forgotten-2006-rock-radio-hits/",
-    "publishedAt": "2026-10-13T13:31:10.000Z",
-    "summary": "They once ruled the rock radio airwaves, but unlike some of the other songs from that era they haven't really stood the test of time. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/jennie-kevin-parker-musicians-on-musicians-interview-1235635921/",
-    "source": "rolling-stone",
-    "title": "How Jennie and Kevin Parker’s Chance Encounter Led to One of the Year’s Biggest Hits",
-    "url": "https://www.rollingstone.com/music/music-features/jennie-kevin-parker-musicians-on-musicians-interview-1235635921/",
-    "publishedAt": "2026-10-13T13:00:00.000Z",
-    "summary": "After teaming up for “Dracula,” the Tame Impala mastermind and the Blackpink star talk about making hits, loving Rihanna, and how fate brought them together",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/grammys-2027-album-of-the-year-predictions-nominees-1235641231/",
-    "source": "rolling-stone",
-    "title": "Will Olivia Rodrigo Win Her First Album of the Year Award at 2027 Grammys?",
-    "url": "https://www.rollingstone.com/music/music-features/grammys-2027-album-of-the-year-predictions-nominees-1235641231/",
-    "publishedAt": "2026-10-13T12:45:20.000Z",
-    "summary": "Rodrigo is bound to go up against tough competition for the night’s biggest prize with albums from Olivia Dean and Rosalía",
     "image": null
   },
   {
@@ -396,93 +513,12 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMiswFBVV95cUxPOU5xRklnMWFuaTI0Sm1MM0EzZjY5UGs1YXR0ZFF3VTlaSjNuWGJxbmIyazVCdld2eU43YU0tTjZEMnoxZExnNVotcy1IVUJ4ckNvTE9HSGotbmFpWGZURHIzOE9Vc0p1eTd6bUhQbjFwU1lFejZ1VWl6MTdBWWJPb2xRSVR2RlFQdkxxWmFFZUlvU3oxbFBGQUV0emp3MU9UUHhpaHZqQ3RLQzB2UkhVSVVRUQ?oc=5",
-    "source": "nme",
-    "title": "Check out Fontaines D.C.’s and Rosalía’s sweeping, cinematic collab ‘Where Is Gone?’ - NME",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOU5xRklnMWFuaTI0Sm1MM0EzZjY5UGs1YXR0ZFF3VTlaSjNuWGJxbmIyazVCdld2eU43YU0tTjZEMnoxZExnNVotcy1IVUJ4ckNvTE9HSGotbmFpWGZURHIzOE9Vc0p1eTd6bUhQbjFwU1lFejZ1VWl6MTdBWWJPb2xRSVR2RlFQdkxxWmFFZUlvU3oxbFBGQUV0emp3MU9UUHhpaHZqQ3RLQzB2UkhVSVVRUQ?oc=5",
-    "publishedAt": "2026-10-13T08:59:47.000Z",
-    "summary": "Check out Fontaines D.C.’s and Rosalía’s sweeping, cinematic collab ‘Where Is Gone?’ NME",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/the-hu-o2-brixton-academy-london-live-review/",
     "source": "louder-than-war",
     "title": "The HU: O2 Brixton Academy, London – Live Review",
     "url": "https://louderthanwar.com/the-hu-o2-brixton-academy-london-live-review/",
     "publishedAt": "2026-10-13T08:59:36.000Z",
     "summary": "The HU O2 Brixton Academy, London 9th October 2026 Mongolia’s loudest export The HU literally brought Genghis Khan to Brixton Academy, their biggest UK headline show so far, unleashing their unique hunnu rock, with its layers of warrior tradition, heavy metal, throat singing and Mongolian history, on an audience who lapped up every minute. It’s […] The post The HU: O2 Brixton Academy, London – Live Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMiowFBVV95cUxQNTUyUzdocGNvUVpaY3Mza0FDcS1wR1d0X296WGowUmRvc1Y2ZnlYZWhNUG4zWjNvdXA3RGR2UWVJdm9ZeVRQcEd3UVV2ZEdESW1oaUN0TUZhb2pEaEdfMmVGbVkzVlBJMFpnNVI0V0lLeXlSRWV0bVNIbzBjUFlydUpXMld1WDdRbmxlZXlOTU1Beno2RUdkR0cxMUhfdXY1VUdZ?oc=5",
-    "source": "nme",
-    "title": "‘Breaking Bad’ cast pay tribute to RJ Mitte, who died aged 34 - NME",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNTUyUzdocGNvUVpaY3Mza0FDcS1wR1d0X296WGowUmRvc1Y2ZnlYZWhNUG4zWjNvdXA3RGR2UWVJdm9ZeVRQcEd3UVV2ZEdESW1oaUN0TUZhb2pEaEdfMmVGbVkzVlBJMFpnNVI0V0lLeXlSRWV0bVNIbzBjUFlydUpXMld1WDdRbmxlZXlOTU1Beno2RUdkR0cxMUhfdXY1VUdZ?oc=5",
-    "publishedAt": "2026-10-13T08:42:51.000Z",
-    "summary": "‘Breaking Bad’ cast pay tribute to RJ Mitte, who died aged 34 NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMikwFBVV95cUxNTGUtRjYzaE1CVk5RMldPT05aeWdncmpBYVJvS2M4VGFxM2had3p5SVp5THFweXdJZENDVWJUcDVOQ205b2JtQXlXOUNXbElFMUpOMWN1TlhXajBMdmtoekE3M0tldlA4S01TTGQ2a1dVOENhZG94ei0wbnktZXRkM1dHWTRIYURxckN1NXVJY1FWQ2M?oc=5",
-    "source": "nme",
-    "title": "For Troye Sivan, the dancefloor is a healing space - NME",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTGUtRjYzaE1CVk5RMldPT05aeWdncmpBYVJvS2M4VGFxM2had3p5SVp5THFweXdJZENDVWJUcDVOQ205b2JtQXlXOUNXbElFMUpOMWN1TlhXajBMdmtoekE3M0tldlA4S01TTGQ2a1dVOENhZG94ei0wbnktZXRkM1dHWTRIYURxckN1NXVJY1FWQ2M?oc=5",
-    "publishedAt": "2026-10-13T08:01:11.000Z",
-    "summary": "For Troye Sivan, the dancefloor is a healing space NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVHBxMTZReWl4YmFKZHdQVmlmUHp0WmJ3cldQSTBuZWtQbjd3cEFTQmc2Ym1JSkU0RmRFNTg0TVZBckJDM0JyRVZ6VkZYYWN6aEVNRTh2aWt2ZUtkS0FBTEZUMUxuLV90d3hLS21QcFg3RjBtSTB3a3NMWHN4bEF0ZVQ4VFk1WV8y?oc=5",
-    "source": "nme",
-    "title": "Nieve Ella – ‘How Long Will It Take?’ review: coming to terms with the messiness of growing up - NME",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVHBxMTZReWl4YmFKZHdQVmlmUHp0WmJ3cldQSTBuZWtQbjd3cEFTQmc2Ym1JSkU0RmRFNTg0TVZBckJDM0JyRVZ6VkZYYWN6aEVNRTh2aWt2ZUtkS0FBTEZUMUxuLV90d3hLS21QcFg3RjBtSTB3a3NMWHN4bEF0ZVQ4VFk1WV8y?oc=5",
-    "publishedAt": "2026-10-13T08:00:58.000Z",
-    "summary": "Nieve Ella – ‘How Long Will It Take?’ review: coming to terms with the messiness of growing up NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMimgFBVV95cUxPcFZXWThEeE80VXk3aWVRTlh2cVpNUTYzTjhmQUR4TllsTVZ4bGJKMTczMnhxdno5bWxZbGpaNUdheW1pX1VpdDZnRE5wWkhVNUNVU3RPRllUaDJlYkpVam45Z1BoVVE0d1Q3X1o2TzBENUpENjlVZ0pfMWhPSVd4X1oxdXNiaGpiUUFTTDZlTUpab0l5MEVjdjF3?oc=5",
-    "source": "nme",
-    "title": "Dan Levy calls out Shane Gillis’ comments on ‘SNL’: “I’m speechless that something like that can exist on live national television” - NME",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcFZXWThEeE80VXk3aWVRTlh2cVpNUTYzTjhmQUR4TllsTVZ4bGJKMTczMnhxdno5bWxZbGpaNUdheW1pX1VpdDZnRE5wWkhVNUNVU3RPRllUaDJlYkpVam45Z1BoVVE0d1Q3X1o2TzBENUpENjlVZ0pfMWhPSVd4X1oxdXNiaGpiUUFTTDZlTUpab0l5MEVjdjF3?oc=5",
-    "publishedAt": "2026-10-12T23:58:58.000Z",
-    "summary": "Dan Levy calls out Shane Gillis’ comments on ‘SNL’: “I’m speechless that something like that can exist on live national television” NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMisgFBVV95cUxNLXRBUGVIb1E0NHVDNjh0dFE4Y1V4OGIydU9zOHZIcEk4SnliSWQ2cUQxTTUyd1Vmb3NuT1gzUGZsZm5pUlJnZEJqUlA2QTBqOUFycm16UzUtU1k4NTN1bVNaNC1QOExYSjJ6WXdnMDVkcDctTjhWTl9UNFFwS0ZsamZ0UDZOQnhjVGxtdWhVak5oWWZHZ0pQeFpET2RwUHp3VFRZR3FFOXB6bTJ2NTRzTWV3?oc=5",
-    "source": "nme",
-    "title": "Watch Sunflower Bean's Julia Cumming step in on bass for Wolf Alice as they support Olivia Rodrigo on US tour - NME",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLXRBUGVIb1E0NHVDNjh0dFE4Y1V4OGIydU9zOHZIcEk4SnliSWQ2cUQxTTUyd1Vmb3NuT1gzUGZsZm5pUlJnZEJqUlA2QTBqOUFycm16UzUtU1k4NTN1bVNaNC1QOExYSjJ6WXdnMDVkcDctTjhWTl9UNFFwS0ZsamZ0UDZOQnhjVGxtdWhVak5oWWZHZ0pQeFpET2RwUHp3VFRZR3FFOXB6bTJ2NTRzTWV3?oc=5",
-    "publishedAt": "2026-10-12T22:57:47.000Z",
-    "summary": "Watch Sunflower Bean's Julia Cumming step in on bass for Wolf Alice as they support Olivia Rodrigo on US tour NME",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/kelly-osbourne-wish-ozzy-grave/",
-    "source": "loudwire",
-    "title": "The Wish Kelly Osbourne Made at Ozzy's Grave",
-    "url": "https://loudwire.com/kelly-osbourne-wish-ozzy-grave/",
-    "publishedAt": "2026-10-12T20:10:22.000Z",
-    "summary": "Kelly Osbourne has shared that she made a wish at Ozzy's grave in the midst of her grief and that something life-changing happened to her th next day. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/better-myles-kennedy-band-alter-bridge-vs-slash-featuring-myles-kennedy-and-the-conspirators/",
-    "source": "loudwire",
-    "title": "VOTE: Better Myles Kennedy Band - Alter Bridge vs. Slash ",
-    "url": "https://loudwire.com/better-myles-kennedy-band-alter-bridge-vs-slash-featuring-myles-kennedy-and-the-conspirators/",
-    "publishedAt": "2026-10-12T19:56:47.000Z",
-    "summary": "Let us know if you prefer Alter Bridge or Slash Featuring Myles Kennedy and the Conspirators in the Loudwire Nights Chuck's Fight Club poll. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/rush-rehearsed-mistakes-prepping-tour/",
-    "source": "loudwire",
-    "title": "How Rush Rehearsed 'Mistakes' Prepping for Fifty Something Tour",
-    "url": "https://loudwire.com/rush-rehearsed-mistakes-prepping-tour/",
-    "publishedAt": "2026-10-12T19:12:13.000Z",
-    "summary": "Rush changed their approach while rehearsing for their return to the stage. Part of it was admitting \"mistakes\" will happen. Continue reading…",
     "image": null
   },
   {
@@ -567,15 +603,6 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/story/charli-xcx-brings-out-tinashe-at-austin-city-limits/",
-    "source": "pitchfork",
-    "title": "Charli XCX Brings Out Tinashe at Austin City Limits Festival",
-    "url": "https://pitchfork.com/story/charli-xcx-brings-out-tinashe-at-austin-city-limits/",
-    "publishedAt": "2026-10-11T16:30:44.000Z",
-    "summary": "The Popstar mastermind gave “Nobody Wanna Dance Anymore\" and “Melatonin” live debuts",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/band-of-horses-manchester-albert-hall-live-review/",
     "source": "louder-than-war",
     "title": "Band Of Horses: Manchester Albert Hall – Live Review",
@@ -591,15 +618,6 @@
     "url": "https://louderthanwar.com/meryl-streek-100-club-london-live-review/",
     "publishedAt": "2026-10-11T15:38:35.000Z",
     "summary": "It’s been four years since we first crossed paths with Meryl Streek. Four years of continuous enthusiasm for Death to the Landlord and the two albums we have available. Album number three is released the day after this show (reviewed here). Keith Goldhanger goes back for another live experience. We find ourselves at the iconic […] The post Meryl Streek: 100 Club, London – Live Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/jack-white-reunites-the-raconteurs-at-nashville-show/",
-    "source": "pitchfork",
-    "title": "Jack White Reunites the Raconteurs at Nashville Show",
-    "url": "https://pitchfork.com/story/jack-white-reunites-the-raconteurs-at-nashville-show/",
-    "publishedAt": "2026-10-11T15:11:58.000Z",
-    "summary": "It marked the bands first appearance together since 2019",
     "image": null
   },
   {
@@ -699,24 +717,6 @@
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSWtmeUFReUp4YU1ZcjB5RUtBV25yZFJYN2NCSjRDSmNTeS1JYUJ2YXhfaVY5LXl4NDhiOXAzbklpeVRIdTlLTDRObXRqSFl1SXpMbVFudmx1OGN3aEttenhmelFyenhGNUhkR29fZ2hBZjFJOHhnZ0Y4QmppYVVzLXBhNHo4VU9yLTJEZVBfMmt1TkdYRmc?oc=5",
     "publishedAt": "2026-10-08T14:00:00.000Z",
     "summary": "Trivium announce new album, Crown In The Grave, and share title-track Kerrang!",
-    "image": null
-  },
-  {
-    "id": "uncut-https://www.uncut.co.uk/features/introducing-the-new-uncut-george-harrison-amy-winehouse-a-free-brian-eno-friends-cd-shane-macgowan-john-prine-black-sabbath-and-more-156598/",
-    "source": "uncut",
-    "title": "Introducing the new Uncut: George Harrison, Amy Winehouse, a free Brian Eno & friends CD, Shane MacGowan, John Prine, Black Sabbath and more!",
-    "url": "https://www.uncut.co.uk/features/introducing-the-new-uncut-george-harrison-amy-winehouse-a-free-brian-eno-friends-cd-shane-macgowan-john-prine-black-sabbath-and-more-156598/",
-    "publishedAt": "2026-10-08T08:57:22.000Z",
-    "summary": "Plus Butthole Surfers, The Who, Lankum's Radie Peat, Roky Erickson and Queens Of The Stone Age",
-    "image": null
-  },
-  {
-    "id": "uncut-https://www.uncut.co.uk/features/what-drew-the-rolling-stones-bob-dylan-and-aretha-franklin-to-this-tiny-alabama-town-156525/",
-    "source": "uncut",
-    "title": "What drew The Rolling Stones, Bob Dylan and Aretha Franklin to this tiny Alabama town?",
-    "url": "https://www.uncut.co.uk/features/what-drew-the-rolling-stones-bob-dylan-and-aretha-franklin-to-this-tiny-alabama-town-156525/",
-    "publishedAt": "2026-10-08T08:29:05.000Z",
-    "summary": "The improbable story of the studios, musicians and producers who turned Muscle Shoals into a recording mecca",
     "image": null
   }
 ]
