@@ -1,92 +1,110 @@
 [
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/joni-mitchell-us-citizen-60-years-america-1236360212/",
+    "id": "billboard-https://www.billboard.com/music/music-news/troye-sivan-role-model-dance-cowboy-tiktok-1236360392/",
     "source": "billboard",
-    "title": "Joni Mitchell Celebrates U.S. Citizenship After ‘A Journey That Began 62 Years Ago’",
-    "url": "https://www.billboard.com/music/music-news/joni-mitchell-us-citizen-60-years-america-1236360212/",
-    "publishedAt": "2026-10-13T22:10:33.000Z",
-    "summary": "From her early days in the Laurel Canyon music scene, the Canadian-born icon has spent decades influencing American music.",
+    "title": "Watch Troye Sivan and Role Model Saddle Up and Sway to Troye’s New Track ‘Cowboy’",
+    "url": "https://www.billboard.com/music/music-news/troye-sivan-role-model-dance-cowboy-tiktok-1236360392/",
+    "publishedAt": "2026-10-14T01:40:55.000Z",
+    "summary": "The pop star dances with the singer/songwriter to the new track on his new album, She's the Best, which released last Friday (Oct. 9).",
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/tia-ray-grammy-museum-show-1236360233/",
+    "id": "billboard-https://www.billboard.com/music/pop/hailey-bieber-loves-rosalia-lux-album-1236360374/",
     "source": "billboard",
-    "title": "Tia Ray Becomes First Chinese Female Singer to Headline Grammy Museum Show",
-    "url": "https://www.billboard.com/music/music-news/tia-ray-grammy-museum-show-1236360233/",
-    "publishedAt": "2026-10-13T21:45:17.000Z",
-    "summary": "\"An Evening with Tia Ray\" took place Oct. 6.",
+    "title": "Rosalía’s ‘LUX’ Is Making Hailey Bieber ‘Wanna Throw Up in a Good Way’",
+    "url": "https://www.billboard.com/music/pop/hailey-bieber-loves-rosalia-lux-album-1236360374/",
+    "publishedAt": "2026-10-14T01:28:02.000Z",
+    "summary": "The model shared her love for the Spanish superstar's genre-bending album on her Instagram Story.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/tv-film/led-zeppelin-stairway-to-heaven-narnia-trailer-greta-gerwig-1236360368/",
+    "source": "billboard",
+    "title": "Here’s How Greta Gerwig Got Led Zeppelin to Say Yes to Using ‘Stairway to Heaven’ in ‘Narnia’ Trailer",
+    "url": "https://www.billboard.com/culture/tv-film/led-zeppelin-stairway-to-heaven-narnia-trailer-greta-gerwig-1236360368/",
+    "publishedAt": "2026-10-14T01:20:18.000Z",
+    "summary": "Robert Plant & Jimmy Page gave the filmmaker their blessing to use the rock classic in the first look at Narnia: The Magician's Nephew.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/asap-rocky-ferg-new-album-1236360253/",
+    "source": "billboard",
+    "title": "A$AP Rocky Extends Olive Branch, Offers to Distribute New FERG Album: ‘U Know Where Home Is’",
+    "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-ferg-new-album-1236360253/",
+    "publishedAt": "2026-10-14T00:05:33.000Z",
+    "summary": "The two A$AP members have been going back and forth through the media over FERG's name change.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "source": "billboard",
+    "title": "Billboard’s Music Industry Events Calendar",
+    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "publishedAt": "2026-10-13T23:59:00.000Z",
+    "summary": "A complete rundown of the most important events across the music business.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/50-cent-j-cole-kendrick-lamar-drake-battle-andrew-schulz-1236359972/",
+    "source": "billboard",
+    "title": "50 Cent Says J. Cole ‘Paid the Most’ By Opting Out of Kendrick Lamar vs. Drake Battle: ‘It’s a Part of Hip-Hop Culture to Compete’",
+    "url": "https://www.billboard.com/music/rb-hip-hop/50-cent-j-cole-kendrick-lamar-drake-battle-andrew-schulz-1236359972/",
+    "publishedAt": "2026-10-13T23:57:59.000Z",
+    "summary": "50 knows a thing or two about beefing in hip-hop.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/latin/pedro-fernandez-us-ave-fenix-tour-interview-1236360335/",
+    "source": "billboard",
+    "title": "Pedro Fernández on Bringing His Ave Fénix Two’R to the U.S., A Journey ‘Open to Spontaneity’",
+    "url": "https://www.billboard.com/music/latin/pedro-fernandez-us-ave-fenix-tour-interview-1236360335/",
+    "publishedAt": "2026-10-13T23:53:31.000Z",
+    "summary": "The ranchera singer will tour 13 cities across the country, starting Thursday in Los Angeles.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/karol-g-bby-wow-judeline-rusowsky-first-latin-airplay-no-1-1236360307/",
+    "source": "billboard",
+    "title": "Judeline & rusowsky Score First Latin Airplay No. 1 With Karol G Collab ‘BbY WOW’",
+    "url": "https://www.billboard.com/music/chart-beat/karol-g-bby-wow-judeline-rusowsky-first-latin-airplay-no-1-1236360307/",
+    "publishedAt": "2026-10-13T23:43:39.000Z",
+    "summary": "The song also marks the longest coronation by a Spanish act on the Global 200 chart.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/pride/lucian-piane-death-rupauls-drag-race-producer-songwriter-1236360298/",
+    "source": "billboard",
+    "title": "Lucian Piane, ‘RuPaul’s Drag Race’ Music Producer & Songwriter Behind ‘Sissy That Walk,’ Dies at 46",
+    "url": "https://www.billboard.com/culture/pride/lucian-piane-death-rupauls-drag-race-producer-songwriter-1236360298/",
+    "publishedAt": "2026-10-13T23:39:09.000Z",
+    "summary": "The composer helped construct the soundtrack of the hit drag competition series & collaborated on some of RuPaul's best-known songs.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/hamilton-500th-week-number-one-billboard-cast-albums-chart-1236360319/",
+    "source": "billboard",
+    "title": "‘Hamilton’ Hits Milestone 500th Week at No. 1 on Billboard’s Cast Albums Chart",
+    "url": "https://www.billboard.com/music/chart-beat/hamilton-500th-week-number-one-billboard-cast-albums-chart-1236360319/",
+    "publishedAt": "2026-10-13T23:30:00.000Z",
+    "summary": "The smash set has dominated the list since its release in 2015.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/dolly-parton-nephew-denies-threats-restraining-order-1235642217/",
+    "source": "rolling-stone",
+    "title": "Dolly Parton’s Nephew Denies Making Threats In Effort to Quash Restraining Order",
+    "url": "https://www.rollingstone.com/music/music-country/dolly-parton-nephew-denies-threats-restraining-order-1235642217/",
+    "publishedAt": "2026-10-13T22:13:21.000Z",
+    "summary": "Bryan Seaver said many messages cited in a recent complaint against him were taken out of context",
     "image": null
   },
   {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/summer-walker-love-renaissance-interscope-youtube-amazon-1235642163/",
     "source": "rolling-stone",
-    "title": "Summer Walker Claims Label ‘Fraudulently’ Hid YouTube, Amazon Cash as Contract War Escalates",
+    "title": "Summer Walker Claims Label LVRN ‘Fraudulently’ Hid YouTube, Amazon Cash as Contract War Escalates",
     "url": "https://www.rollingstone.com/music/music-news/summer-walker-love-renaissance-interscope-youtube-amazon-1235642163/",
     "publishedAt": "2026-10-13T21:39:12.000Z",
     "summary": "The \"No Love\" singer is asking a judge in Atlanta to void her contract with Love Renaissance",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/kelly-clarkson-bird-art-of-play-owner-interview-1236360165/",
-    "source": "billboard",
-    "title": "‘Kelly Clarkson Has Put Us in Danger’: Art of Play Owner Says Viral Dispute Has Led to Threats Against NYC Store",
-    "url": "https://www.billboard.com/music/music-news/kelly-clarkson-bird-art-of-play-owner-interview-1236360165/",
-    "publishedAt": "2026-10-13T21:35:22.000Z",
-    "summary": "Adam Rubin details the impact of the controversy, alleging that employees, supporters & nearby residents have faced harassment.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/taylor-swift-patient-zero-bts-1236360150/",
-    "source": "billboard",
-    "title": "Watch Taylor Swift Laugh With Dakota Johnson & Cuddle With Travis Kelce in New ‘Patient Zero’ Footage",
-    "url": "https://www.billboard.com/music/music-news/taylor-swift-patient-zero-bts-1236360150/",
-    "publishedAt": "2026-10-13T21:16:52.000Z",
-    "summary": "The pop star's husband joined her on set to support her behind the director's chair.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/latin/shakira-madrid-spain-final-residency-experience-1236360135/",
-    "source": "billboard",
-    "title": "Here’s What It Was Like to Walk With Shakira For the Final Night of Her Historic Madrid Residency",
-    "url": "https://www.billboard.com/music/latin/shakira-madrid-spain-final-residency-experience-1236360135/",
-    "publishedAt": "2026-10-13T21:10:01.000Z",
-    "summary": "Billboard joins the Colombian superstar's pack once again, this time for the closing night of her European residency at Estadio Shakira.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/drake-habibti-solar-eclipse-number-1-rb-hip-hop-album-chart-1236360174/",
-    "source": "billboard",
-    "title": "With ‘HABIBTI,’ Drake Sets New Record For Most No. 1 Albums on R&B/Hip-Hop Chart",
-    "url": "https://www.billboard.com/music/chart-beat/drake-habibti-solar-eclipse-number-1-rb-hip-hop-album-chart-1236360174/",
-    "publishedAt": "2026-10-13T21:01:32.000Z",
-    "summary": "The superstar breaks from a tie with Future and The Temptations for the crown.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/skrillex-apology-head-trip-set-1236360149/",
-    "source": "billboard",
-    "title": "Skrillex Issues Apology After Head Trip Set: ‘Will Take The L and Make a Lesson Of It’",
-    "url": "https://www.billboard.com/music/music-news/skrillex-apology-head-trip-set-1236360149/",
-    "publishedAt": "2026-10-13T20:57:32.000Z",
-    "summary": "The producer performed at the one-time-only festival on Oct. 11.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/features/tiffany-day-dance-artist-halo-album-tour-interview-1236359884/",
-    "source": "billboard",
-    "title": "Dance Up & Comer of the Month Tiffany Day Turned Her Worst-Streamed Song Into Her Biggest Hit",
-    "url": "https://www.billboard.com/music/features/tiffany-day-dance-artist-halo-album-tour-interview-1236359884/",
-    "publishedAt": "2026-10-13T20:46:24.000Z",
-    "summary": "\"American Girl\" was included on her fantastic album Halo released in April. Her latest single, \"Meant To Be,\" is out today (Oct. 13).",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/country-music-association-2026-broadcast-award-winners-list/",
-    "source": "billboard",
-    "title": "Country Music Association Reveals 2026 Broadcast Award Winners: Full List ",
-    "url": "https://www.billboard.com/pro/country-music-association-2026-broadcast-award-winners-list/",
-    "publishedAt": "2026-10-13T20:34:33.000Z",
-    "summary": "Reigning CMA new artist of the year Zach Top surprises stations and broadcast personalities with the news.",
     "image": null
   },
   {
@@ -96,15 +114,6 @@
     "url": "https://www.rollingstone.com/music/music-news/joni-mitchell-united-states-citizenship-1235642054/",
     "publishedAt": "2026-10-13T20:34:09.000Z",
     "summary": "The news arrives several decades after the legend began living — and writing — about the U.S.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/tv-film/proud-family-wizmas-disney-plus-special-anderson-paak-1236360066/",
-    "source": "billboard",
-    "title": "Anderson .Paak, Gabrielle Union and More Join ‘A Proud Family Wizmas’ Holiday Special",
-    "url": "https://www.billboard.com/culture/tv-film/proud-family-wizmas-disney-plus-special-anderson-paak-1236360066/",
-    "publishedAt": "2026-10-13T20:21:56.000Z",
-    "summary": "Penny Proud is about to have a very chaotic Christmas, and a star-studded lineup of guests are joining the holiday mayhem.",
     "image": null
   },
   {
@@ -231,6 +240,15 @@
     "url": "https://www.rollingstone.com/music/music-features/sharon-osbourne-ozzy-back-to-the-beginning-concert-film-1235640059/",
     "publishedAt": "2026-10-13T15:11:30.000Z",
     "summary": "Ahead of concert film’s release, the Prince of Darkness’ wife and manager opens up about Ozzy’s historic farewell",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMi5wFBVV95cUxPd0dGcGthdFlpdndLbk9WaTc3Vk5GWFZkeHBXTlNQaG8tZFJxcW41NHhaa29FZjdZUVNoR0FuTGFMMTU1bjRYUms0ZEtteTZ1VUgxSHlOMjJXOVA3cWcyWGdkYW90UVNoRXFxTFhmWUVueUhmeExZay1udVg2NUZRazlydHlYamtLWno3NFZWb3c5VEJ6X1hFOXcxOFQySjdSWUY3SGVEbk1Scm03R0I1YVRZNGtGNHFwdk1reVUtNm1icXpzQVFfVnE3R2d4R1FjU2JsMlBkdTJReThkSUp0cndBS1ktc3M?oc=5",
+    "source": "nme",
+    "title": "Lost Amy Winehouse interview resurfaces: \"The thought of dying without ever making my mark, that was my biggest fear” - NME",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPd0dGcGthdFlpdndLbk9WaTc3Vk5GWFZkeHBXTlNQaG8tZFJxcW41NHhaa29FZjdZUVNoR0FuTGFMMTU1bjRYUms0ZEtteTZ1VUgxSHlOMjJXOVA3cWcyWGdkYW90UVNoRXFxTFhmWUVueUhmeExZay1udVg2NUZRazlydHlYamtLWno3NFZWb3c5VEJ6X1hFOXcxOFQySjdSWUY3SGVEbk1Scm03R0I1YVRZNGtGNHFwdk1reVUtNm1icXpzQVFfVnE3R2d4R1FjU2JsMlBkdTJReThkSUp0cndBS1ktc3M?oc=5",
+    "publishedAt": "2026-10-13T14:58:10.000Z",
+    "summary": "Lost Amy Winehouse interview resurfaces: \"The thought of dying without ever making my mark, that was my biggest fear” NME",
     "image": null
   },
   {
@@ -405,15 +423,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-live-reviews/my-morning-jacket-grateful-dead-san-francisco-fillmore-1235641598/",
-    "source": "rolling-stone",
-    "title": "My Morning Jacket Connect the Grateful Dead Dots in Faithful San Francisco Residency",
-    "url": "https://www.rollingstone.com/music/music-live-reviews/my-morning-jacket-grateful-dead-san-francisco-fillmore-1235641598/",
-    "publishedAt": "2026-10-12T23:09:21.000Z",
-    "summary": "The band concluded a seven-night run at the Fillmore that corresponded to the seven colors of the rainbow",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMisgFBVV95cUxNLXRBUGVIb1E0NHVDNjh0dFE4Y1V4OGIydU9zOHZIcEk4SnliSWQ2cUQxTTUyd1Vmb3NuT1gzUGZsZm5pUlJnZEJqUlA2QTBqOUFycm16UzUtU1k4NTN1bVNaNC1QOExYSjJ6WXdnMDVkcDctTjhWTl9UNFFwS0ZsamZ0UDZOQnhjVGxtdWhVak5oWWZHZ0pQeFpET2RwUHp3VFRZR3FFOXB6bTJ2NTRzTWV3?oc=5",
     "source": "nme",
     "title": "Watch Sunflower Bean's Julia Cumming step in on bass for Wolf Alice as they support Olivia Rodrigo on US tour - NME",
@@ -492,15 +501,6 @@
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd1RZTnN4WktMOTczQXdmX1VZX0JSRjNVSTk4NnFpQm1VMVhsbURTM2FXRUNSc2x1c3NtTm84b3dJV1BNSnVJRE5OYzVBclZtYUJyTUU2X3NrRF9pQ2J2QW9NaXhGSmo4Mmk1elNNQUdFdEQxN2piUW1aT01zMlE2SzRsN0RIYmZ0cE9HZ0Nwcl9nTm9jU18zM20tWkR5UQ?oc=5",
     "publishedAt": "2026-10-12T11:32:00.000Z",
     "summary": "MAN WITH A MISSION drop party-starting new single, Firestarter Kerrang!",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMisgFBVV95cUxOWnBvMFVEY21Oa05IMFFINThmdFBuM1Z3Z0ZNbGZxa283TU5ILURsRWMzX092UHpSaXRxdmZPMnlJVlNVVlB3S0s1UnVOR20wd0g4MkRhWlYyV0dHbTh5Y3FOTUFoS3Fhb0V6RDdVblJ0R1JrZVA1dmcxdnJZZVYxUXhyakY1cWlDU19HSElCSFVnTm5ESkpwX3BCSGlxQi1QWWlFcGoydHNyOFF5dXBfaG1n?oc=5",
-    "source": "nme",
-    "title": "BBC responds to “trans rights censorship” accusations over ‘House Of The Dragon’ star’s ‘Protect The Dolls’ t-shirt - NME",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWnBvMFVEY21Oa05IMFFINThmdFBuM1Z3Z0ZNbGZxa283TU5ILURsRWMzX092UHpSaXRxdmZPMnlJVlNVVlB3S0s1UnVOR20wd0g4MkRhWlYyV0dHbTh5Y3FOTUFoS3Fhb0V6RDdVblJ0R1JrZVA1dmcxdnJZZVYxUXhyakY1cWlDU19HSElCSFVnTm5ESkpwX3BCSGlxQi1QWWlFcGoydHNyOFF5dXBfaG1n?oc=5",
-    "publishedAt": "2026-10-12T11:11:36.000Z",
-    "summary": "BBC responds to “trans rights censorship” accusations over ‘House Of The Dragon’ star’s ‘Protect The Dolls’ t-shirt NME",
     "image": null
   },
   {
