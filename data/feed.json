@@ -1,5 +1,68 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/rock/powderfinger-overwhelmed-demand-expands-2027-reunion-tour-1236361118/",
+    "source": "billboard",
+    "title": "‘Holy S—‘: Powderfinger Overwhelmed By Demand, Expands 2027 Reunion Tour",
+    "url": "https://www.billboard.com/music/rock/powderfinger-overwhelmed-demand-expands-2027-reunion-tour-1236361118/",
+    "publishedAt": "2026-10-15T10:00:03.000Z",
+    "summary": "\"The demand blew us away,\" say the members of Powderfinger, as their 2027 reunion tour balloons from 18 to 26 shows.",
+    "image": null
+  },
+  {
+    "id": "uncut-https://www.uncut.co.uk/news/50-years-since-their-debut-blondie-announce-new-album-high-noon-156695/",
+    "source": "uncut",
+    "title": "50 years since their debut, Blondie announce new album High Noon",
+    "url": "https://www.uncut.co.uk/news/50-years-since-their-debut-blondie-announce-new-album-high-noon-156695/",
+    "publishedAt": "2026-10-15T08:48:41.000Z",
+    "summary": "Listen to the single \"Spectral Eyes\", written by and featuring Johnny Marr",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/hilltop-hoods-immortalized-laneway-adelaide-1236361102/",
+    "source": "billboard",
+    "title": "Hilltop Hoods Immortalized With Laneway In Adelaide",
+    "url": "https://www.billboard.com/music/rb-hip-hop/hilltop-hoods-immortalized-laneway-adelaide-1236361102/",
+    "publishedAt": "2026-10-15T07:53:51.000Z",
+    "summary": "The legendary hip-hop trio becomes the sixth addition to the City of Adelaide’s City of Music Laneways trail.",
+    "image": null
+  },
+  {
+    "id": "uncut-https://www.uncut.co.uk/features/10-classic-novels-that-predicted-the-world-were-living-in-today-156527/",
+    "source": "uncut",
+    "title": "10 classic novels that predicted the world we’re living in today",
+    "url": "https://www.uncut.co.uk/features/10-classic-novels-that-predicted-the-world-were-living-in-today-156527/",
+    "publishedAt": "2026-10-15T07:39:54.000Z",
+    "summary": "Totalitarian states, religious intolerance, environmental collapse... come read our list!",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMitAFBVV95cUxOUXJXZWRHcUFnc3cxdjE5SGZNMW5tR05WQS1CNnRkU19qc1hQTEdxcDJ4enNqa29DUHZlaF9rUzZEcHVvOUNEcm5NRFRCLTd0elJTVUkyY0pDYXphWHlQWFRLV25kaHoxNGVRMjlDUl9kX0lSUmZDMUhkRWVWTzNMUFA3SUg1b0VPSi1iTldpOFB6RXBJZEtRdUVOZU1KdzFKcDAySEJUTHphZkN5M0hZZlZLWm4?oc=5",
+    "source": "nme",
+    "title": "\"Classic Blondie\" return with new album 'High Noon' featuring Johnny Marr, Glen Matlock and more and energetic single 'Spectral Eyes’ - NME",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUXJXZWRHcUFnc3cxdjE5SGZNMW5tR05WQS1CNnRkU19qc1hQTEdxcDJ4enNqa29DUHZlaF9rUzZEcHVvOUNEcm5NRFRCLTd0elJTVUkyY0pDYXphWHlQWFRLV25kaHoxNGVRMjlDUl9kX0lSUmZDMUhkRWVWTzNMUFA3SUg1b0VPSi1iTldpOFB6RXBJZEtRdUVOZU1KdzFKcDAySEJUTHphZkN5M0hZZlZLWm4?oc=5",
+    "publishedAt": "2026-10-15T07:01:21.000Z",
+    "summary": "\"Classic Blondie\" return with new album 'High Noon' featuring Johnny Marr, Glen Matlock and more and energetic single 'Spectral Eyes’ NME",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/latin/rauw-alejandro-camilo-tattoo-remix-youtube-billion-views-1236361081/",
+    "source": "billboard",
+    "title": "Rauw Alejandro and Camilo’s ‘Tattoo (Remix)’ Enters YouTube’s Billion Views Club",
+    "url": "https://www.billboard.com/music/latin/rauw-alejandro-camilo-tattoo-remix-youtube-billion-views-1236361081/",
+    "publishedAt": "2026-10-15T03:53:43.000Z",
+    "summary": "Six years after its release, the official music video for the chart-topping reggaeton hit passes one billion views on YouTube.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/awards/sienna-spiro-perform-2026-aria-awards-1236361069/",
+    "source": "billboard",
+    "title": "Sienna Spiro to Perform at 2026 ARIA Awards",
+    "url": "https://www.billboard.com/music/awards/sienna-spiro-perform-2026-aria-awards-1236361069/",
+    "publishedAt": "2026-10-15T03:00:23.000Z",
+    "summary": "The British pop artist will make her ARIAs debut when she performs on stage next month at Sydney’s Hordern Pavilion.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/pro/former-recognition-music-ceo-ben-katovsky-joins-pipeline/",
     "source": "billboard",
     "title": "Former Recognition Music CEO Ben Katovsky Leaves Catalog Fund for Top Job at Pipeline",
@@ -72,39 +135,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/pro/youtube-music-adding-labels-ai-music/",
-    "source": "billboard",
-    "title": "YouTube Music Rolls Out Labels for AI-Generated Content",
-    "url": "https://www.billboard.com/pro/youtube-music-adding-labels-ai-music/",
-    "publishedAt": "2026-10-14T22:51:07.000Z",
-    "summary": "The streamer will add the labels to music deemed to have been \"created primarily using generative AI.\"",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/drakeo-the-ruler-settles-live-nation-lawsuit-stabbing/",
-    "source": "billboard",
-    "title": "Drakeo the Ruler’s Estate Settles With Live Nation, Others Over Fatal Festival Stabbing",
-    "url": "https://www.billboard.com/pro/drakeo-the-ruler-settles-live-nation-lawsuit-stabbing/",
-    "publishedAt": "2026-10-14T22:37:55.000Z",
-    "summary": "The concert promotions giant is still set to go to trial next month on separate claims brought by Drakeo's brother and members of his entourage.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/chance-the-rapper-legal-fight-manager-pat-corcoran-1235642805/",
     "source": "rolling-stone",
     "title": "Chance the Rapper Wins Lingering Legal Fight With Ex-Manager: ‘Owed Him Loyalty’",
     "url": "https://www.rollingstone.com/music/music-news/chance-the-rapper-legal-fight-manager-pat-corcoran-1235642805/",
     "publishedAt": "2026-10-14T22:27:15.000Z",
     "summary": "“I’m grateful to finally close this chapter of my life,\" the artist says in a statement",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/randy-rainbow-rfk-jr-lament-donald-trump-jay-z-1236360848/",
-    "source": "billboard",
-    "title": "Randy Rainbow Quotes Jay-Z’s ’99 Problems’ in RFK Jr.-Roasting New Song Parody: ‘The Worms in His Brain Clearly Drove Him Insane’",
-    "url": "https://www.billboard.com/music/rb-hip-hop/randy-rainbow-rfk-jr-lament-donald-trump-jay-z-1236360848/",
-    "publishedAt": "2026-10-14T22:16:45.000Z",
-    "summary": "Rainbow remixed \"Adelaide's Lament\" from Guys and Dolls to jab the health secretary along with Donald Trump.",
     "image": null
   },
   {
@@ -132,15 +168,6 @@
     "url": "https://www.rollingstone.com/music/music-news/geordie-greep-sexual-assault-allegations-detailed-victim-1235642784/",
     "publishedAt": "2026-10-14T21:53:17.000Z",
     "summary": "\"I want to unreservedly apologise to her for what I did and for the distress and hurt I caused that night,\" former Black Midi singer says. \"It was a huge mistake\"",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/geordie-greep-misconduct-allegation-cancels-tour-dates-1236358602/",
-    "source": "billboard",
-    "title": "Geordie Greep Responds to Sexual Misconduct Allegation, Cancels Tour Dates (UPDATE)",
-    "url": "https://www.billboard.com/music/music-news/geordie-greep-misconduct-allegation-cancels-tour-dates-1236358602/",
-    "publishedAt": "2026-10-14T21:45:00.000Z",
-    "summary": "The former Black Midi frontman denied any wrongdoing during his Vancouver show, and shared a new response to a Paste interview with the alleged victim.",
     "image": null
   },
   {
@@ -513,15 +540,6 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMi3gFBVV95cUxONVJHQnBPdlNIMWlMeGp2TVFlLVAwOEdpejlRXzlRV0NJMlZ4cEIybk5MYWRZTWMwVmgwU0RtZV9YdnNXeDhOZTR0eGlQN0VBWUFremVDYWZyU0gwa3AxQlpWOER4ZDJrR2lYOUdyUXR0UmFtTUZRM1oyazRqU0tsVjNpX0djY3R4cFB0RmV6WXBhelM4VEI1WFRCSXdraGZSbGJVcVg2TGxQcHgyWVp0bEpLemhuN3BSRC1NVmprZDZkdklsRUlrSHR2UjltS2RaY0FJUjhvZ3dUR0daUnc?oc=5",
-    "source": "nme",
-    "title": "Raye Royal Albert Hall show \"overwhelmed by scalpers using AI bots\" after receiving nearly 2million sign-ups - NME",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONVJHQnBPdlNIMWlMeGp2TVFlLVAwOEdpejlRXzlRV0NJMlZ4cEIybk5MYWRZTWMwVmgwU0RtZV9YdnNXeDhOZTR0eGlQN0VBWUFremVDYWZyU0gwa3AxQlpWOER4ZDJrR2lYOUdyUXR0UmFtTUZRM1oyazRqU0tsVjNpX0djY3R4cFB0RmV6WXBhelM4VEI1WFRCSXdraGZSbGJVcVg2TGxQcHgyWVp0bEpLemhuN3BSRC1NVmprZDZkdklsRUlrSHR2UjltS2RaY0FJUjhvZ3dUR0daUnc?oc=5",
-    "publishedAt": "2026-10-13T11:14:48.000Z",
-    "summary": "Raye Royal Albert Hall show \"overwhelmed by scalpers using AI bots\" after receiving nearly 2million sign-ups NME",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/roxanne-de-bastion-apocalypse-queen-single-review-interview-album-and-tour-news/",
     "source": "louder-than-war",
     "title": "Roxanne de Bastion: Apocalypse Queen – Single Review, Interview, Album and Tour News",
@@ -699,24 +717,6 @@
     "url": "https://www.uncut.co.uk/reviews/jim-ghedis-the-death-of-robin-hood-reviewed-sheffield-folkie-takes-his-dark-ruminations-to-hollywood-156603/",
     "publishedAt": "2026-10-08T15:57:01.000Z",
     "summary": "History, folktale and myth in this sparse, brooding soundtrack",
-    "image": null
-  },
-  {
-    "id": "uncut-https://www.uncut.co.uk/news/billy-bragg-and-wilcos-mermaid-avenue-sessions-expanded-in-new-box-set-156606/",
-    "source": "uncut",
-    "title": "Billy Bragg and Wilco’s Mermaid Avenue sessions expanded in new box set",
-    "url": "https://www.uncut.co.uk/news/billy-bragg-and-wilcos-mermaid-avenue-sessions-expanded-in-new-box-set-156606/",
-    "publishedAt": "2026-10-08T15:37:06.000Z",
-    "summary": "All three volumes of the acclaimed Woody Guthrie project alongside 16 previously unreleased recordings, including demos, alternate versions and a newly unearthed Guthrie home recording",
-    "image": null
-  },
-  {
-    "id": "uncut-https://www.uncut.co.uk/news/new-joe-strummer-box-set-chronicles-his-years-before-the-clash-156614/",
-    "source": "uncut",
-    "title": "New Joe Strummer box set chronicles his years before The Clash",
-    "url": "https://www.uncut.co.uk/news/new-joe-strummer-box-set-chronicles-his-years-before-the-clash-156614/",
-    "publishedAt": "2026-10-08T15:26:16.000Z",
-    "summary": "The upcoming Joe Strummer 003: The 101'ers Years (1974-1976) features 48 tracks",
     "image": null
   }
 ]
