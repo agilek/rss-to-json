@@ -1,8 +1,35 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/lists/miley-hollywood-bowl-live-return-recap/",
+    "source": "billboard",
+    "title": "‘I’m Experiencing Everything I’ve Ever Wanted’: Recapping Miley’s Live Return, On Her Own Terms",
+    "url": "https://www.billboard.com/lists/miley-hollywood-bowl-live-return-recap/",
+    "publishedAt": "2026-10-17T08:09:27.000Z",
+    "summary": "Here's what went down during Miley's first of two sold-out nights at the iconic Hollywood Bowl.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/harry-styles-dedicates-song-to-liam-payne-1236362307/",
+    "source": "billboard",
+    "title": "Harry Styles Pays Tribute to Liam Payne With Unreleased Song on Anniversary of His Death",
+    "url": "https://www.billboard.com/music/music-news/harry-styles-dedicates-song-to-liam-payne-1236362307/",
+    "publishedAt": "2026-10-17T05:07:06.000Z",
+    "summary": "Styles premiered the unreleased tribute “What Is Enough” on the second anniversary of his former One Direction bandmate’s death.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/harry-styles-liam-payne-new-song-msg-1235644335/",
+    "source": "rolling-stone",
+    "title": "Harry Styles Performs New Song Written for Liam Payne on Anniversary of His Death",
+    "url": "https://www.rollingstone.com/music/music-news/harry-styles-liam-payne-new-song-msg-1235644335/",
+    "publishedAt": "2026-10-17T03:46:48.000Z",
+    "summary": "The singer debuted the unreleased song \"What Is Enough\" in honor of his former One Direction bandmate",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/rb-hip-hop/50-cent-diddy-transfer-prison-reaction-1236362276/",
     "source": "billboard",
-    "title": "50 Cent Says Diddy’s ‘Gonna Turn Up in This Next Joint’ After Reported Prison Transfer",
+    "title": "50 Cent Says Diddy’s ‘Gonna Turn Up in This Next Joint’ After Prison Transfer",
     "url": "https://www.billboard.com/music/rb-hip-hop/50-cent-diddy-transfer-prison-reaction-1236362276/",
     "publishedAt": "2026-10-17T00:54:44.000Z",
     "summary": "Combs was involved in a physical altercation behind bars earlier this week that resulted in him being hospitalized.",
@@ -78,24 +105,6 @@
     "url": "https://www.billboard.com/music/pop/nunew-tima-interview-1236362238/",
     "publishedAt": "2026-10-16T21:34:46.000Z",
     "summary": "Billboard spoke to the Thai singer-actor backstage at the 2026 TMElive International Music Awards.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/pop/taylor-swift-intimidated-basketball-coach-cal-knicks-game-1236362225/",
-    "source": "billboard",
-    "title": "Hall of Fame Basketball Coach Recalls Being Too ‘Embarrassed’ to Talk to Taylor Swift at Knicks Game: ‘I Acted Like I Was on My Phone’",
-    "url": "https://www.billboard.com/music/pop/taylor-swift-intimidated-basketball-coach-cal-knicks-game-1236362225/",
-    "publishedAt": "2026-10-16T21:22:51.000Z",
-    "summary": "The pop star attended game four of the NBA finals at Madison Square Garden.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/pop/nexz-tima-interview-1236362212/",
-    "source": "billboard",
-    "title": "NEXZ Share Their Favorite Songs From ‘SAUCIN”: ‘The Lyrics Fit Us Perfectly’",
-    "url": "https://www.billboard.com/music/pop/nexz-tima-interview-1236362212/",
-    "publishedAt": "2026-10-16T21:20:45.000Z",
-    "summary": "Billboard spoke with the seven-member boy band backstage at the 2026 TMElive International Music Awards.",
     "image": null
   },
   {
@@ -216,15 +225,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/rachel-chinouriri-fontaines-dc-songs-you-need-to-know-1235642639/",
-    "source": "rolling-stone",
-    "title": "Rachel Chinouriri, Fontaines D.C., Olivia Rodrigo, and All the Songs You Need to Know This Week",
-    "url": "https://www.rollingstone.com/music/music-features/rachel-chinouriri-fontaines-dc-songs-you-need-to-know-1235642639/",
-    "publishedAt": "2026-10-16T16:56:38.000Z",
-    "summary": "Looking for the week’s best new music? Check out our Songs You Need to Know playlist",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/iron-maiden-a-perfect-circle-sonic-temple-2027-lineup/",
     "source": "loudwire",
     "title": "The 14 Artists Announced for Sonic Temple 2027 So Far",
@@ -276,6 +276,15 @@
     "url": "https://loudwire.com/songs-aerosmith-never-played-live/",
     "publishedAt": "2026-10-16T13:51:04.000Z",
     "summary": "Aerosmith have released 15 studio albums between 1973 and 2012 and out of those albums, there are only 35 songs they never played live. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMipwFBVV95cUxPcDdibExCVTBiSExxcF91aFFzaTA4eEkzZDNxSDhTenNNbzB5V2ZiZm1fMXRmbnM2RGlHSlV3NWZ3NmE3OVM2bDU5Y01xSjJTbllGWHdZQ1ZTeGxsNHg5SFlPX1Bzc3R5ZEZNY0xyWE5hekRZQkFZVFItNW9SaUpWQkZvUmpzNHZqc3NUUE1USVZQSWtpd3QycDRYQjhMTlFGRTFQbHgxYw?oc=5",
+    "source": "nme",
+    "title": "Fontaines D.C. open up about “very tough year” at Roundhouse - NME",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcDdibExCVTBiSExxcF91aFFzaTA4eEkzZDNxSDhTenNNbzB5V2ZiZm1fMXRmbnM2RGlHSlV3NWZ3NmE3OVM2bDU5Y01xSjJTbllGWHdZQ1ZTeGxsNHg5SFlPX1Bzc3R5ZEZNY0xyWE5hekRZQkFZVFItNW9SaUpWQkZvUmpzNHZqc3NUUE1USVZQSWtpd3QycDRYQjhMTlFGRTFQbHgxYw?oc=5",
+    "publishedAt": "2026-10-16T13:46:14.000Z",
+    "summary": "Fontaines D.C. open up about “very tough year” at Roundhouse NME",
     "image": null
   },
   {
@@ -369,6 +378,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMisgFBVV95cUxNVlVwWmhWcG5CdjZGVW91LVdQREpKNTRndG5xMDFydVBCOVZnbW9jSGlEZFBubGxfSm1ubjJFMXlTNHgyRXA1S0g3dkdnUy03M3VkSUlQM1Q5cGhncHFlSzRySV84S2Nyc2lrZUlEdUNhd0RGaERsT2VrZUhLY0k5LWJibkMyM0NDTDhZZklUejRaRTZVdHAteS03YVFhTzluSzlvOC1LcnQwWEZyYTFYWTZn?oc=5",
+    "source": "nme",
+    "title": "Brandon Flowers imagines \"what would New Order sound like if they were Johnny Cash\" at spellbinding Royal Albert Hall gig - NME",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVlVwWmhWcG5CdjZGVW91LVdQREpKNTRndG5xMDFydVBCOVZnbW9jSGlEZFBubGxfSm1ubjJFMXlTNHgyRXA1S0g3dkdnUy03M3VkSUlQM1Q5cGhncHFlSzRySV84S2Nyc2lrZUlEdUNhd0RGaERsT2VrZUhLY0k5LWJibkMyM0NDTDhZZklUejRaRTZVdHAteS03YVFhTzluSzlvOC1LcnQwWEZyYTFYWTZn?oc=5",
+    "publishedAt": "2026-10-16T09:40:51.000Z",
+    "summary": "Brandon Flowers imagines \"what would New Order sound like if they were Johnny Cash\" at spellbinding Royal Albert Hall gig NME",
+    "image": null
+  },
+  {
     "id": "nme-https://news.google.com/rss/articles/CBMioAFBVV95cUxOTVE1MVU0V1lvLTFDZE8zWERpN0xJSzMzXy1CLXdCaTBidmVlN1BwalVGTmpzZ2lUUkV1eDY0R3Vka2w2aUI2TlR2VnhIVmhNWUlpNnl4WGFDNUdIZlRLTi1hdV9mUWluOVJEeC1vQnM2NGdQN29FSktkVmc2WHFvNG93SkRGT2p0a0liUlVFLTUycnYzRkE4dm5Sd3ZBajhB?oc=5",
     "source": "nme",
     "title": "Neil Young: “‘Digger’ is the best film I have ever seen” - NME",
@@ -402,6 +420,15 @@
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVkV0eFliZWtmdU1ReWV1c1J0R1JiWnpUcERaNjIyV2hUc1U2Qmt5YTBhWUdqdDhDT3RVOGIzMmg5V3NrRVl3OGhaZElYUDZpOWZwa1BlUXh3XzFSOXdXZmZhZ2dVT3ZTRWJNNEFDd2Fka2ZDRXJ3MVZIeHFGVk55STJwMThGVE1CdkdVRFAyclpaUnZ1TS1rOUVQVVhyTG5tMFphejFZeTZKVnh1Qk5NVw?oc=5",
     "publishedAt": "2026-10-16T06:56:00.000Z",
     "summary": "The Pretty Reckless team up with Dave Grohl for new version of About You Kerrang!",
+    "image": null
+  },
+  {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMi1gFBVV95cUxOODVuZU1Ob2hnMTVraUpYMWZtNUVsRWhaMmszc1p0SnNiZnZFT3FSbThaZWRqbGhYUF9rY1JuS0FsTWVyT3l5bkRXckNPbWNsRXozWUJmTGVaTVBxaUI2bWdmR3JIcV9tWEdya0o2RlJNekd1eUxHQ1NZNGtyTXM5djZ1cWlJeFFqSkFKXzhVN2dtVF9vR1ExcVlyTU5uckdPWDdBTm94aTA3TTlMNU5mVk1PZmt0WHZHT2lCam1wQ2lkLTJFT1VpN3lXTDdjYUJTR25JbHN3?oc=5",
+    "source": "kerrang",
+    "title": "The Smashing Pumpkins release new song, Black Stars, for The Hunger Games: Sunrise On The Reaping - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOODVuZU1Ob2hnMTVraUpYMWZtNUVsRWhaMmszc1p0SnNiZnZFT3FSbThaZWRqbGhYUF9rY1JuS0FsTWVyT3l5bkRXckNPbWNsRXozWUJmTGVaTVBxaUI2bWdmR3JIcV9tWEdya0o2RlJNekd1eUxHQ1NZNGtyTXM5djZ1cWlJeFFqSkFKXzhVN2dtVF9vR1ExcVlyTU5uckdPWDdBTm94aTA3TTlMNU5mVk1PZmt0WHZHT2lCam1wQ2lkLTJFT1VpN3lXTDdjYUJTR25JbHN3?oc=5",
+    "publishedAt": "2026-10-16T06:36:00.000Z",
+    "summary": "The Smashing Pumpkins release new song, Black Stars, for The Hunger Games: Sunrise On The Reaping Kerrang!",
     "image": null
   },
   {
@@ -576,15 +603,6 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeXJWbDhSTm8yZG9vOWRoSlB5ZUZVUGNhVUwydUFFemRaUVd1N2pBZlpyMHN3bEE2XzZmSm9uMHZBYzJ6b0J6Q3N6cDRIbVVOLXF3Rkh6eTNsNnFJaEFVV2hhVEs0akI1SnhuSkhrVkEyX0h2Q3pBb2hmNlBGVjBOSXZlUXhfS1JhSXJpbC1ydkRrYmZGeGhyRXN1b193ZjAyMUNFOERwWkFYeUNzUXdBYWE3UGFtLXR2MmFr?oc=5",
-    "source": "nme",
-    "title": "Fontaines D.C.'s Grian Chatten planning another solo album: \"It’d be a lot more lively and a bit more kind of festival-ready\" - NME",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeXJWbDhSTm8yZG9vOWRoSlB5ZUZVUGNhVUwydUFFemRaUVd1N2pBZlpyMHN3bEE2XzZmSm9uMHZBYzJ6b0J6Q3N6cDRIbVVOLXF3Rkh6eTNsNnFJaEFVV2hhVEs0akI1SnhuSkhrVkEyX0h2Q3pBb2hmNlBGVjBOSXZlUXhfS1JhSXJpbC1ydkRrYmZGeGhyRXN1b193ZjAyMUNFOERwWkFYeUNzUXdBYWE3UGFtLXR2MmFr?oc=5",
-    "publishedAt": "2026-10-15T10:22:50.000Z",
-    "summary": "Fontaines D.C.'s Grian Chatten planning another solo album: \"It’d be a lot more lively and a bit more kind of festival-ready\" NME",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/rank-guilt-parade-review-album-of-the-week/",
     "source": "louder-than-war",
     "title": "Rank: Guilt Parade – Review – ALBUM OF THE WEEK!",
@@ -609,15 +627,6 @@
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ3NIa0lsVlg5MmVURGZlQi1YY2pFd3NRWjM2bVNiM09sc2hrXzl3UkQtM0xSTXNWN2xaY1Rvd3J0QVBFOHpVUEpGNmFvRm9GT29rR010X1lNTXpXVmFSOVl6anBQYUd3YlVORTBNOEJUOFpqOGJOd0d0UGpXb2xKZU9UdExIQV9ycmlmUlh1TnBKd3lvT2JsWjEtVm5MdkhWNGVjU2FJZEZkMWJjVUE2TkRUWFNVTFB3?oc=5",
     "publishedAt": "2026-10-15T10:08:00.000Z",
     "summary": "Floor Jansen shares statement on Nightwish departure: “I believe there is a bright musical journey ahead of me” Kerrang!",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMivgFBVV95cUxQbXhjQW94MGpRVXM4MjFGRm96M1hXU0wxSTBid2dHQmt0ckR1N0dXNExhLTJkMDdwZ3pROGJPOEszSDZDdHVwOXRWc1I0SXA0VFhQd0hZUVU3RmNFM2hmVzVlSHpPUEVBQjFGZzNlSHFtalRfWDRUVHh2TTRKUHcwQzdfYzBkcy1rRUVqNC14TWc1dVhDU3Bsclh6ZXd4aEhzemVycHVfR2paVHRXZVVBZ2R1eEU5b1NPb2Jrb0NB?oc=5",
-    "source": "nme",
-    "title": "Geordie Greep responds after alleged victim and ex-bandmate speak out over \"sexual assault\" claims - NME",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbXhjQW94MGpRVXM4MjFGRm96M1hXU0wxSTBid2dHQmt0ckR1N0dXNExhLTJkMDdwZ3pROGJPOEszSDZDdHVwOXRWc1I0SXA0VFhQd0hZUVU3RmNFM2hmVzVlSHpPUEVBQjFGZzNlSHFtalRfWDRUVHh2TTRKUHcwQzdfYzBkcy1rRUVqNC14TWc1dVhDU3Bsclh6ZXd4aEhzemVycHVfR2paVHRXZVVBZ2R1eEU5b1NPb2Jrb0NB?oc=5",
-    "publishedAt": "2026-10-15T09:40:19.000Z",
-    "summary": "Geordie Greep responds after alleged victim and ex-bandmate speak out over \"sexual assault\" claims NME",
     "image": null
   },
   {
@@ -708,15 +717,6 @@
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUVJzNk5LVjk1SkFmUzQwdWhwWURfNnJ2R245UjR1M3laVWpqWldXbm13QmVrMVB1SnhaOTJQaExReERQV3FabXJ2ak4tcGpLWmRwZklESXBpN1ZUNlN1eHEwT18xZjY4WmFZdnVIdmtjLUZ2RV9ieXduZ1dVWHVxWnZBVXZzMFlQRjNFazh3TmRSZTc1N2RMUHhKZ0d1N0xCMm5LTnB5ZnlMSnJjZVJMcFNwdVdTb1hFZnVtXzVvZXpTVEdXa1FB?oc=5",
     "publishedAt": "2026-10-14T12:12:00.000Z",
     "summary": "“It’s heavy, unforgiving”: Underdark swipe at turncoat politicians on furious new single, Death Of A Toolmaker Kerrang!",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMiYkFVX3lxTFBBc19jWWp4R1BsalNQV3ZncVFOckVabXRrNnZPMG12bEtDWGFfbWJ2azZ2di10N2xDcWI1cDIwZEpkLUdnTVV0b2NoTFJzVXB4SDhtXzl0Q0plVXFxZ1pKSmRn?oc=5",
-    "source": "kerrang",
-    "title": "Album review: Caspian – Caspian - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBBc19jWWp4R1BsalNQV3ZncVFOckVabXRrNnZPMG12bEtDWGFfbWJ2azZ2di10N2xDcWI1cDIwZEpkLUdnTVV0b2NoTFJzVXB4SDhtXzl0Q0plVXFxZ1pKSmRn?oc=5",
-    "publishedAt": "2026-10-13T15:00:00.000Z",
-    "summary": "Album review: Caspian – Caspian Kerrang!",
     "image": null
   }
 ]
