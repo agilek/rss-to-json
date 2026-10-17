@@ -1,5 +1,59 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/country/zach-bryan-sobriety-matthew-mcconaughey-interview-1236362369/",
+    "source": "billboard",
+    "title": "Zach Bryan Gets Candid About Sobriety in Matthew McConaughey Interview: ‘Why Am I Drinking?’",
+    "url": "https://www.billboard.com/music/country/zach-bryan-sobriety-matthew-mcconaughey-interview-1236362369/",
+    "publishedAt": "2026-10-17T19:28:02.000Z",
+    "summary": "The country star’s two-hour conversation with the Oscar-winning actor was uploaded to YouTube on Oct. 16.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rock/iron-maiden-2027-north-american-tour-dates-1236362365/",
+    "source": "billboard",
+    "title": "Iron Maiden Announce 2027 Run for Your Lives North American Tour: See the Dates",
+    "url": "https://www.billboard.com/music/rock/iron-maiden-2027-north-american-tour-dates-1236362365/",
+    "publishedAt": "2026-10-17T17:52:08.000Z",
+    "summary": "The third and final leg of the metal legends’ 50th-anniversary trek launches in April.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-live-reviews/miley-cyrus-hollywood-bowl-show-concert-2026-1235644375/",
+    "source": "rolling-stone",
+    "title": "Miley Showcases New Era, Remembers ‘Aunt Dolly’ Parton at Hollywood Bowl",
+    "url": "https://www.rollingstone.com/music/music-live-reviews/miley-cyrus-hollywood-bowl-show-concert-2026-1235644375/",
+    "publishedAt": "2026-10-17T17:47:48.000Z",
+    "summary": "The singer covers \"Jolene\" and brings out Flaming Lips' Wayne Coyne at her first full concert in nearly four years",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/iron-maiden-surprise-2027-north-american-tour-1235644371/",
+    "source": "rolling-stone",
+    "title": "Iron Maiden Announce Surprise 2027 North American Tour",
+    "url": "https://www.rollingstone.com/music/music-news/iron-maiden-surprise-2027-north-american-tour-1235644371/",
+    "publishedAt": "2026-10-17T16:34:08.000Z",
+    "summary": "Heavy metal legends were \"planning on taking a break\" next year, but will instead play final 16 shows of their 50th anniversary tour",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/awards/bette-midler-woody-guthrie-prize-2026-accepts-performs-1236362345/",
+    "source": "billboard",
+    "title": "Bette Midler Accepts 2026 Woody Guthrie Prize, Sings Protest Classic: ‘My Small Contribution to the Resistance’",
+    "url": "https://www.billboard.com/music/awards/bette-midler-woody-guthrie-prize-2026-accepts-performs-1236362345/",
+    "publishedAt": "2026-10-17T16:15:17.000Z",
+    "summary": "Yep, she's woke. And proud of it.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/les-paul-house-controversy-1235641696/",
+    "source": "rolling-stone",
+    "title": "Who Gets to Own Rock & Roll History?",
+    "url": "https://www.rollingstone.com/music/music-features/les-paul-house-controversy-1235641696/",
+    "publishedAt": "2026-10-17T15:00:00.000Z",
+    "summary": "The New Jersey home where electric-guitar pioneer Les Paul lived and worked was torn down. His family is devastated",
+    "image": null
+  },
+  {
     "id": "loudwire-https://loudwire.com/rockers-weve-lost-2026/",
     "source": "loudwire",
     "title": "Rockers We've Lost in 2026",
@@ -18,21 +72,21 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/latin/becky-g-world-mental-health-day-latin-grammys-leading-ladies-1236360559/",
-    "source": "billboard",
-    "title": "Becky G Brings World Mental Health Day Festival to a Powerful Close in NYC & More Uplifting Moments",
-    "url": "https://www.billboard.com/music/latin/becky-g-world-mental-health-day-latin-grammys-leading-ladies-1236360559/",
-    "publishedAt": "2026-10-17T14:00:00.000Z",
-    "summary": "Además, BMI impulsa a las compositoras de la música mexicana, y Lin-Manuel Miranda recibirá el Premio Corazón Latino de iHeartRadio.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/say-now-new-single-hot-and-talking-1235642594/",
     "source": "rolling-stone",
     "title": "Say Now Aren’t Flirting on New Single, They’re Just ‘Hot and Talking’",
     "url": "https://www.rollingstone.com/music/music-news/say-now-new-single-hot-and-talking-1235642594/",
     "publishedAt": "2026-10-17T14:00:00.000Z",
     "summary": "The track will appear on the British girl group's debut EP Say What You See, co-written and executive produced by PinkPantheress, out Nov. 13",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/latin/becky-g-world-mental-health-day-latin-grammys-leading-ladies-1236360559/",
+    "source": "billboard",
+    "title": "Becky G Brings World Mental Health Day Festival to a Powerful Close in NYC & More Uplifting Moments",
+    "url": "https://www.billboard.com/music/latin/becky-g-world-mental-health-day-latin-grammys-leading-ladies-1236360559/",
+    "publishedAt": "2026-10-17T14:00:00.000Z",
+    "summary": "Además, BMI impulsa a las compositoras de la música mexicana, y Lin-Manuel Miranda recibirá el Premio Corazón Latino de iHeartRadio.",
     "image": null
   },
   {
@@ -69,6 +123,15 @@
     "url": "https://www.billboard.com/lists/miley-hollywood-bowl-live-return-recap/",
     "publishedAt": "2026-10-17T08:09:27.000Z",
     "summary": "Here's what went down during Miley's first of two sold-out nights at the iconic Hollywood Bowl.",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMi7wFBVV95cUxQOTNjakZqbksxNmc4QV9xWG56VVdRMGpsVl8zVWVCVEwtVXkxbmpFLVAtTE1XVG42SFdnQWlvNlRuWHJIelJDazQzaEJPS0FBTFp6ZnJ1R1lXNWFIelZtOGh3N1hxOVVoNWYySVVIcG1pNHJjalNCTjhmdTUtMzY5NHpjcTBhQUdoa01LQk9uTGZLcTlXNDJRR0puQ1EyOWNSVG9QTFNnVFE3emhyREExaEQ0MDlFcWZPTFNWeEVxTi04OWY5QlBOZkVMVElKMlVWQkZ4amJBYkRoRGJRcEVLNnlEOVZCVmhKWnltcWZJOA?oc=5",
+    "source": "nme",
+    "title": "Harry Styles pays tribute to Liam Payne on anniversary of One Direction star's death with moving new song - NME",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQOTNjakZqbksxNmc4QV9xWG56VVdRMGpsVl8zVWVCVEwtVXkxbmpFLVAtTE1XVG42SFdnQWlvNlRuWHJIelJDazQzaEJPS0FBTFp6ZnJ1R1lXNWFIelZtOGh3N1hxOVVoNWYySVVIcG1pNHJjalNCTjhmdTUtMzY5NHpjcTBhQUdoa01LQk9uTGZLcTlXNDJRR0puQ1EyOWNSVG9QTFNnVFE3emhyREExaEQ0MDlFcWZPTFNWeEVxTi04OWY5QlBOZkVMVElKMlVWQkZ4amJBYkRoRGJRcEVLNnlEOVZCVmhKWnltcWZJOA?oc=5",
+    "publishedAt": "2026-10-17T08:01:45.000Z",
+    "summary": "Harry Styles pays tribute to Liam Payne on anniversary of One Direction star's death with moving new song NME",
     "image": null
   },
   {
@@ -135,33 +198,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/pro/mark-pucci-death-publicist-lynyrd-skynyrd-johnny-cash-dead/",
-    "source": "billboard",
-    "title": "Mark Pucci, Veteran Music Publicist & Recognized Blues Advocate, Dies at 79",
-    "url": "https://www.billboard.com/pro/mark-pucci-death-publicist-lynyrd-skynyrd-johnny-cash-dead/",
-    "publishedAt": "2026-10-16T23:12:14.000Z",
-    "summary": "Over a 50-year career, Pucci represented such music icons as Johnny Cash, Lynyrd Skynyrd and The Allman Brothers Band.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/drake-janice-stfu-lawsuit-songwriter-sues-copied-demo/",
-    "source": "billboard",
-    "title": "Drake Sued Over ‘Janice STFU’: Songwriter Claims Chorus Is ‘Literally Identical’ to His Demo",
-    "url": "https://www.billboard.com/pro/drake-janice-stfu-lawsuit-songwriter-sues-copied-demo/",
-    "publishedAt": "2026-10-16T22:05:19.000Z",
-    "summary": "Aviel Calev Hirschfield alleges the rapper's reps \"shamelessly refuse to acknowledge\" his contributions. Drake's team calls the lawsuit \"entirely fabricated.\"",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/cardi-b-billboard-canada-women-in-music-2026-award-news/",
-    "source": "billboard",
-    "title": "In Canada: Cardi B Named First-Ever Global Woman of the Year at Billboard Canada Women in Music 2026",
-    "url": "https://www.billboard.com/pro/cardi-b-billboard-canada-women-in-music-2026-award-news/",
-    "publishedAt": "2026-10-16T21:42:52.000Z",
-    "summary": "Also up north this week: Drake extends a chart record with \"Habibti\" and holders of obstructed Backstreet Boys tickets may get an upgrade.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-features/venus-twins-olivia-rodrigo-chappell-roan-expectations-video-1235643173/",
     "source": "rolling-stone",
     "title": "Brooklyn Punk Duo Venus Twins Tell Us How They Ended Up in Olivia Rodrigo’s New Music Video",
@@ -180,39 +216,12 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/sophia-stel-greatest-album-interview-1235643788/",
-    "source": "rolling-stone",
-    "title": "Sophia Stel’s Pop Ambitions Are Stronger Than Her Nerves",
-    "url": "https://www.rollingstone.com/music/music-features/sophia-stel-greatest-album-interview-1235643788/",
-    "publishedAt": "2026-10-16T18:42:05.000Z",
-    "summary": "The singer-producer spent years worrying her music wasn’t good enough to release. Her debut album makes a bold introduction for an artist still learning to enjoy the attention",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/slipknot-tour-b-stage/",
     "source": "loudwire",
     "title": "Why Slipknot's 2027 Tour Includes a B Stage in Some Cities",
     "url": "https://loudwire.com/slipknot-tour-b-stage/",
     "publishedAt": "2026-10-16T18:17:28.000Z",
     "summary": "Slipknot's back with stadium shows in 2027, and the stage setup hints at something bigger than a typical tour. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/asap-rocky-drops-fan-favorite-song-shroom-clouds-1235644012/",
-    "source": "rolling-stone",
-    "title": "A$AP Rocky Finally Drops His ‘Fan Favorite’ Song ‘Shroom Clouds’",
-    "url": "https://www.rollingstone.com/music/music-news/asap-rocky-drops-fan-favorite-song-shroom-clouds-1235644012/",
-    "publishedAt": "2026-10-16T18:10:47.000Z",
-    "summary": "The track, which the rapper first premiered onstage in 2022, arrives ahead of his Don’t Be Dumb “extension” Disc 2",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-latin/karol-g-bby-wow-music-video-1235643905/",
-    "source": "rolling-stone",
-    "title": "Karol G Celebrates Latest Tour Leg With ‘Bby Wow’ Music Video",
-    "url": "https://www.rollingstone.com/music/music-latin/karol-g-bby-wow-music-video-1235643905/",
-    "publishedAt": "2026-10-16T18:06:15.000Z",
-    "summary": "The Colombian singer just wrapped her Viajando Por El Mundo Tropitour dates in North America",
     "image": null
   },
   {
@@ -249,6 +258,15 @@
     "url": "https://pitchfork.com/story/asap-rocky-recruits-jeremih-and-reggie-for-shroom-clouds/",
     "publishedAt": "2026-10-16T16:58:23.000Z",
     "summary": "Teased since 2021, the song launches Don’t Be Dumb - Disc 2",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTlNFdEQ0NEx6SjRZTUJlN3VFZnRzcS1FWFhWYjBwbDNHaHZ4bXFsWkFjZ1lEMzdqSnFsSFhtV2htcmR3azB5Z3haVXk3c3NveEtrSm53V2dKWmRqaDJoZG9JTUI0bHRqSHBXLTdSalJXRjd6NTJNNHViYWRxc2tyWkZzV2xOQXZnVU1LNVhIdnNJUzUxRmU0N2dqRHJnUXlLOUM2SmQteXcwSnZkMHRrM3MzdV9VVElqZlRFam1hancyUVlvWmF5OA?oc=5",
+    "source": "nme",
+    "title": "My Chemical Romance share fiery unreleased song 'Someone Out There Loves You' ahead of 'The Black Parade' 20th anniversary reissue - NME",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTlNFdEQ0NEx6SjRZTUJlN3VFZnRzcS1FWFhWYjBwbDNHaHZ4bXFsWkFjZ1lEMzdqSnFsSFhtV2htcmR3azB5Z3haVXk3c3NveEtrSm53V2dKWmRqaDJoZG9JTUI0bHRqSHBXLTdSalJXRjd6NTJNNHViYWRxc2tyWkZzV2xOQXZnVU1LNVhIdnNJUzUxRmU0N2dqRHJnUXlLOUM2SmQteXcwSnZkMHRrM3MzdV9VVElqZlRFam1hancyUVlvWmF5OA?oc=5",
+    "publishedAt": "2026-10-16T15:55:57.000Z",
+    "summary": "My Chemical Romance share fiery unreleased song 'Someone Out There Loves You' ahead of 'The Black Parade' 20th anniversary reissue NME",
     "image": null
   },
   {
@@ -504,15 +522,6 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRU9BemYzY184d2lhWUgtQjlHRnA0NzBwckVkOGI5S0xSTV96NktOT2dWSENjMTE2RUY1aGRzcV9Rd1V6OXQ5dWtCcFVBendDYmNnd3RMaUNqWjgzekdYVTEyOFBxVTJMQUFtN0RDd18zelFCMHUyMDVvb0FOMzZnMzNuVE82cVFob2tQa1RielVqOEd5V08wS0NGOVBvWk1YbEQ0dUhZeVgwUQ?oc=5",
-    "source": "nme",
-    "title": "Fontaines D.C. special of ‘Later… With Jools Holland’ to air next month - NME",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRU9BemYzY184d2lhWUgtQjlHRnA0NzBwckVkOGI5S0xSTV96NktOT2dWSENjMTE2RUY1aGRzcV9Rd1V6OXQ5dWtCcFVBendDYmNnd3RMaUNqWjgzekdYVTEyOFBxVTJMQUFtN0RDd18zelFCMHUyMDVvb0FOMzZnMzNuVE82cVFob2tQa1RielVqOEd5V08wS0NGOVBvWk1YbEQ0dUhZeVgwUQ?oc=5",
-    "publishedAt": "2026-10-15T16:43:18.000Z",
-    "summary": "Fontaines D.C. special of ‘Later… With Jools Holland’ to air next month NME",
-    "image": null
-  },
-  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMilgFBVV95cUxNSGNvTC1qMVdoNmpDdlBZd24yTU5jN21NejNGS25yRzhOSTl6ODBiN2JBMEhfc0pkRHprRVZ0Sk42T0pTLUNOd0lEMHNYSXBYWDVNeElTQVBtM0FJc2dOdzBScENKbF9BeHhGSnQwZzY2R1BqemMtZjYxeEt2VkJyWHN6UWdjS3AwTFNVd0pMSF8yUzl0YlE?oc=5",
     "source": "kerrang",
     "title": "We Came As Romans join forces with Headwreck for where did you go? O - Kerrang!",
@@ -582,15 +591,6 @@
     "url": "https://pitchfork.com/story/blondie-announce-first-album-in-nine-years/",
     "publishedAt": "2026-10-15T13:51:05.000Z",
     "summary": "Johnny Marr, Sex Pistols’ Glen Matlock, and Beirut’s Zach Condon feature on High Noon, led by “Spectral Eyes”",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMiswFBVV95cUxQNkNaOFBRejVzZTFicktBRThrUERyNFo2el9kOW00ekJDcDZQbXlqdHRfaVRMMEJuQ3djTWxKWWRXOUFSTnVxQzN6RW95aWJVSkpfV3NxSlBMMFNrSFZUU2k3VEc4eWdUaV9ycWdkTGVIcXNNU1otUDBLVnNRcDZ4QjVlVWY4d0gyOElqVVo2WVdxUm5yRk15WDdXTE5aWDJzUEJydmtzb01NNW5uNnJKWlg5QQ?oc=5",
-    "source": "nme",
-    "title": "Justice are behind the ‘Grand Theft Auto 6’ soundtrack - NME",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNkNaOFBRejVzZTFicktBRThrUERyNFo2el9kOW00ekJDcDZQbXlqdHRfaVRMMEJuQ3djTWxKWWRXOUFSTnVxQzN6RW95aWJVSkpfV3NxSlBMMFNrSFZUU2k3VEc4eWdUaV9ycWdkTGVIcXNNU1otUDBLVnNRcDZ4QjVlVWY4d0gyOElqVVo2WVdxUm5yRk15WDdXTE5aWDJzUEJydmtzb01NNW5uNnJKWlg5QQ?oc=5",
-    "publishedAt": "2026-10-15T13:45:43.000Z",
-    "summary": "Justice are behind the ‘Grand Theft Auto 6’ soundtrack NME",
     "image": null
   },
   {
