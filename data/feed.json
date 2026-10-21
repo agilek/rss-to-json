@@ -1,5 +1,77 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/pop/lisa-playstation-spot-tarantino-watch-1236364319/",
+    "source": "billboard",
+    "title": "LISA Is a Boss In New PlayStation Spot Featuring ‘Tarantino’: Watch",
+    "url": "https://www.billboard.com/music/pop/lisa-playstation-spot-tarantino-watch-1236364319/",
+    "publishedAt": "2026-10-21T09:18:57.000Z",
+    "summary": "The BLACKPINK star gets her game on with PlayStation, for a promo that unlocks an extended preview of \"Tarantino.\"",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/sam-fender-2027-tour-dates-uk-ireland-1236363653/",
+    "source": "billboard",
+    "title": "Sam Fender Is Doing a Proper Massive Stadium Tour for 2027 in U.K. & Ireland, Including Nights at Wembley",
+    "url": "https://www.billboard.com/music/music-news/sam-fender-2027-tour-dates-uk-ireland-1236363653/",
+    "publishedAt": "2026-10-21T09:00:00.000Z",
+    "summary": "Wunderhorse join the bill as the support act for the U.K. shows.",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMizgFBVV95cUxOWmZSeVNoYncwclc0cWF5dU1KaTVZR0xzaDFMUzF6RGJOZTh1MmxKaG5tbFJRNzNUaUpGR0lQZzljNGdnLW5hSGxRS1pCaHJJUHhlYXRyUFdQaGlRdXg2QUVXeUJHZkZLeG5ab0s1WFp0SjlIckJVXzV5eEdTVkxEMnpkS1cyLXd5bnNPUkI1clN3QS1peUE5NV9EWm5XME44WVlRNk54QTF1MXM5Tk9rYVNvazNJR3RtR1RGUTZRaWU5OGVmQjZkVFZ6aEhaZw?oc=5",
+    "source": "nme",
+    "title": "Sam Fender announces UK and Ireland ‘Proper Massive Stadium Tour’ for summer 2027 - NME",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWmZSeVNoYncwclc0cWF5dU1KaTVZR0xzaDFMUzF6RGJOZTh1MmxKaG5tbFJRNzNUaUpGR0lQZzljNGdnLW5hSGxRS1pCaHJJUHhlYXRyUFdQaGlRdXg2QUVXeUJHZkZLeG5ab0s1WFp0SjlIckJVXzV5eEdTVkxEMnpkS1cyLXd5bnNPUkI1clN3QS1peUE5NV9EWm5XME44WVlRNk54QTF1MXM5Tk9rYVNvazNJR3RtR1RGUTZRaWU5OGVmQjZkVFZ6aEhaZw?oc=5",
+    "publishedAt": "2026-10-21T08:59:35.000Z",
+    "summary": "Sam Fender announces UK and Ireland ‘Proper Massive Stadium Tour’ for summer 2027 NME",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/jeff-satur-signs-universal-music-southeast-asia-1236364306/",
+    "source": "billboard",
+    "title": "Jeff Satur Signs With Universal Music Southeast Asia",
+    "url": "https://www.billboard.com/music/music-news/jeff-satur-signs-universal-music-southeast-asia-1236364306/",
+    "publishedAt": "2026-10-21T08:32:57.000Z",
+    "summary": "UM SEA has tentatively scheduled a Q2 2027 release date for Satur’s next album, his first through the major music company.",
+    "image": null
+  },
+  {
+    "id": "uncut-https://www.uncut.co.uk/features/you-might-own-one-of-these-records-without-knowing-its-worth-a-fortune-156737/",
+    "source": "uncut",
+    "title": "You might own one of these records without knowing it’s worth a fortune",
+    "url": "https://www.uncut.co.uk/features/you-might-own-one-of-these-records-without-knowing-its-worth-a-fortune-156737/",
+    "publishedAt": "2026-10-21T08:08:53.000Z",
+    "summary": "Quick, to the loft!",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/australia-live-industry-results-2025/",
+    "source": "billboard",
+    "title": "Australia’s Live Entertainment Industry Feels The Pinch From Escalating Costs",
+    "url": "https://www.billboard.com/pro/australia-live-industry-results-2025/",
+    "publishedAt": "2026-10-21T07:05:09.000Z",
+    "summary": "“Australians love their live performance experiences but are under more intense cost-of-living pressures and being more selective in their ticket buying choices.\"",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/tv-film/beck-sacha-baron-cohen-tonight-show-performance-watch-1236364237/",
+    "source": "billboard",
+    "title": "Beck Gets Some Help From Sacha Baron Cohen For ‘Tonight Show’ Performance: Watch",
+    "url": "https://www.billboard.com/culture/tv-film/beck-sacha-baron-cohen-tonight-show-performance-watch-1236364237/",
+    "publishedAt": "2026-10-21T05:00:42.000Z",
+    "summary": "The British funnyman flexed his musician muscles for a surprise back seat spot on the cello, supporting Beck on “In the Night.”",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/apra-amcos-reports-record-high-revenue/",
+    "source": "billboard",
+    "title": "APRA AMCOS Reports Record-High Revenue, Local Content Streams Experience ‘Devastating’ Dip",
+    "url": "https://www.billboard.com/pro/apra-amcos-reports-record-high-revenue/",
+    "publishedAt": "2026-10-21T04:55:22.000Z",
+    "summary": "The Australasian rights organization has posted all-time-high revenue of A$857.4 million, up 8.8%.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/rock/powderfinger-pledges-encore-dates-reunion-tour-sells-out-1236364224/",
     "source": "billboard",
     "title": "‘Nothing Short of Extraordinary’: Powderfinger Pledges Encore Dates After Reunion Tour Sells Out",
@@ -51,60 +123,6 @@
     "url": "https://www.rollingstone.com/music/music-news/charli-xcx-cancels-music-fashion-film-show-arizona-illness-1235645838/",
     "publishedAt": "2026-10-21T01:08:10.000Z",
     "summary": "The star said that she has been fighting an illness and had to cut her performance on Wednesday",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/video/the-womens-panel-global-rising-billboard-latin-music-week/",
-    "source": "billboard",
-    "title": "The Women’s Panel: Global Rising | Billboard Latin Music Week 2026",
-    "url": "https://www.billboard.com/video/the-womens-panel-global-rising-billboard-latin-music-week/",
-    "publishedAt": "2026-10-21T00:47:18.000Z",
-    "summary": "A conversation with the female powerhouses of Latin music from around the globe, featuring Ana Mena, Aria Vega, Greeicy, LALI, Lola Indigo and RaiNao. The 2026 Billboard Latin Music Week takes place from Oct. 19-22 at the Faena Forum Miami Beach, serving as a dynamic platform celebrating the heartbeat of Latin music and culture, with […]",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/alice-cooper-memoir-devil-on-my-shoulder-shop-online-1236364058/",
-    "source": "billboard",
-    "title": "Alice Cooper’s Third Memoir Becomes No. 1 Bestseller as the Most Accurate Account of the Rock Star’s Life",
-    "url": "https://www.billboard.com/culture/product-recommendations/alice-cooper-memoir-devil-on-my-shoulder-shop-online-1236364058/",
-    "publishedAt": "2026-10-21T00:46:35.000Z",
-    "summary": "Released Oct. 6, the “Poison” singer says 90% of the stories in his 2026 memoir are true, unlike his two earlier books.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/latin/clave-especial-regional-mexican-music-latin-music-week-1236364172/",
-    "source": "billboard",
-    "title": "The New Generation of Regional Mexican Music Bets on Fresh Sounds & More Personal Lyrics",
-    "url": "https://www.billboard.com/music/latin/clave-especial-regional-mexican-music-latin-music-week-1236364172/",
-    "publishedAt": "2026-10-21T00:23:29.000Z",
-    "summary": "Clave Especial, Edgardo Núñez, Emmanuel Cortés, Hermanos Espinoza & Los Dos de Tamaulipas discussed the path to success at Billboard Latin Music Week.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/doechii-catwoman-video-swamp-sessions-1236364134/",
-    "source": "billboard",
-    "title": "Doechii Detonates Herself in the Desert in Explosive ‘CATWOMAN’ Video: Watch",
-    "url": "https://www.billboard.com/music/rb-hip-hop/doechii-catwoman-video-swamp-sessions-1236364134/",
-    "publishedAt": "2026-10-21T00:15:14.000Z",
-    "summary": "The Florida rapper returned with another installment of Swamp Sessions.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/video/superstar-qa-with-anuel-aa-premiere-party/",
-    "source": "billboard",
-    "title": "Superstar Q&A With Anuel AA: Premiere Party | Billboard Latin Music Week 2026",
-    "url": "https://www.billboard.com/video/superstar-qa-with-anuel-aa-premiere-party/",
-    "publishedAt": "2026-10-21T00:01:38.000Z",
-    "summary": "Superstar Q&A with Anuel AA, in which the Latin star reveals new, unreleased music from his new album, ‘REAL HASTA LA MUERTE 2’ and some of the stories behind the new tracks. The 2026 Billboard Latin Music Week takes place from Oct. 19-22 at the Faena Forum Miami Beach, serving as a dynamic platform celebrating […]",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/photos/tunexx-kpop-up-comer-october-photos-1236363572/",
-    "source": "billboard",
-    "title": "TUNEXX Is Billboard’s K-Pop Up & Comer of the Month for October: Exclusive Photos",
-    "url": "https://www.billboard.com/photos/tunexx-kpop-up-comer-october-photos-1236363572/",
-    "publishedAt": "2026-10-21T00:00:00.000Z",
-    "summary": "Ready to make fresh waves in the global music scene through constant experimentation, TUNEXX share their story in their own words.",
     "image": null
   },
   {
@@ -195,6 +213,15 @@
     "url": "https://louderthanwar.com/tom-mcrae-ramsgate-music-hall-ramsgate-kent-live-review/",
     "publishedAt": "2026-10-20T18:06:03.000Z",
     "summary": "Tom McRae Ramsgate Music Hall, Ramsgate, Kent 17th October 2026 Tom McRae brought his celebratory “Stadium Tour” to the South-East coast as he entertained his faithful followers at Ramsgate Music Hall for the first time in just over two years. Last year saw the man in black mark the 25th anniversary of his eponymous debut […] The post Tom McRae: Ramsgate Music Hall, Ramsgate, Kent – Live Review appeared first on Louder Than War.",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMi_gFBVV95cUxQa193bndqT01aSUVtVDFnTFFOZEFMNThnTmdjMVNvdXB2WE9rY2dUNWZ1cVVMX2NTV1JfVHVqeGtMR1VwZXpDX1MyVWZPRnVxcHJjZEk1YUpsUU84M0FrNnN3MTdOSkt4XzdVLXlsWDNFaHdsdnpuR2trMk14Vl9VUC1xNk9pR2RRNXBIRTZrRERGZVZrcjc0VVplcjJ6SnRlV1FfWk1ZbEpBeWVES3hHSFVEQ2RCRWU5eEdDVzZyRlNZTW1CZ2xRM3BWNDI2eHlHcENiTzRWYnpWamZTbThoZ1dyYm1XdW1wLVlKSlRRUTFaT0ZMMWdfOUpKVjY0dw?oc=5",
+    "source": "nme",
+    "title": "FKA Twigs announced as Southbank's Meltdown 2027 curator, with special guests to curate 'Hometown' grassroots events across the UK - NME",
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQa193bndqT01aSUVtVDFnTFFOZEFMNThnTmdjMVNvdXB2WE9rY2dUNWZ1cVVMX2NTV1JfVHVqeGtMR1VwZXpDX1MyVWZPRnVxcHJjZEk1YUpsUU84M0FrNnN3MTdOSkt4XzdVLXlsWDNFaHdsdnpuR2trMk14Vl9VUC1xNk9pR2RRNXBIRTZrRERGZVZrcjc0VVplcjJ6SnRlV1FfWk1ZbEpBeWVES3hHSFVEQ2RCRWU5eEdDVzZyRlNZTW1CZ2xRM3BWNDI2eHlHcENiTzRWYnpWamZTbThoZ1dyYm1XdW1wLVlKSlRRUTFaT0ZMMWdfOUpKVjY0dw?oc=5",
+    "publishedAt": "2026-10-20T18:01:16.000Z",
+    "summary": "FKA Twigs announced as Southbank's Meltdown 2027 curator, with special guests to curate 'Hometown' grassroots events across the UK NME",
     "image": null
   },
   {
@@ -549,15 +576,6 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMi7wFBVV95cUxOcWNlTlFIOGRtQm9YeTZSeGN3ZTIxVE1DNlRZdFo2MFM4WUh4MmNXV3U0Z0tKNEt0NGhObnJDbGhFNzcydXlIV2hpWGRXTmcxMkg1ZUE5ZzRXOHZVUkI3bG1zWkVVWnFzWEUydkVkQjN2SVVwM0UtWEVSb2pSV3dTTFZmMFdlekwyYkt2V3QtbVFCUUtwcExZVWR4ZkZPbFZ6ekliemlueVdDeVBBMmJJU3VCZFo2aG9HUFRuZWVNZE5sbTNfRjJfQnU3Si1VdHZTRUwtTEhFbzVMWnpCeDhPU3hVOGhmVG9QeVlhRHN3MA?oc=5",
-    "source": "nme",
-    "title": "Watch Brandon Flowers cover The Coral's classic 'Dreaming Of You' and debut new song 'A Good Man Is Hard To Find' in Bristol - NME",
-    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOcWNlTlFIOGRtQm9YeTZSeGN3ZTIxVE1DNlRZdFo2MFM4WUh4MmNXV3U0Z0tKNEt0NGhObnJDbGhFNzcydXlIV2hpWGRXTmcxMkg1ZUE5ZzRXOHZVUkI3bG1zWkVVWnFzWEUydkVkQjN2SVVwM0UtWEVSb2pSV3dTTFZmMFdlekwyYkt2V3QtbVFCUUtwcExZVWR4ZkZPbFZ6ekliemlueVdDeVBBMmJJU3VCZFo2aG9HUFRuZWVNZE5sbTNfRjJfQnU3Si1VdHZTRUwtTEhFbzVMWnpCeDhPU3hVOGhmVG9QeVlhRHN3MA?oc=5",
-    "publishedAt": "2026-10-19T14:37:15.000Z",
-    "summary": "Watch Brandon Flowers cover The Coral's classic 'Dreaming Of You' and debut new song 'A Good Man Is Hard To Find' in Bristol NME",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/system-of-a-down-rose-bowl-2027/",
     "source": "loudwire",
     "title": "System Of A Down Announces Rose Bowl Stadium Show",
@@ -582,15 +600,6 @@
     "url": "https://louderthanwar.com/boris-brudenell-social-club-leeds-live-review/",
     "publishedAt": "2026-10-19T12:33:50.000Z",
     "summary": "Boris | Planning for Burial Brudenell Social Club, Leeds 13th October 2026 Boris celebrate the 20th anniversary of Pink with a sweat-soaked show at the Brudenell Social Club. Andy Brown reviews for Louder Than War. Few names in heavy music command the kind of respect and admiration given to Tokyo-based legends, Boris. The band released […] The post Boris: Brudenell Social Club, Leeds – Live Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMixAFBVV95cUxNZHVWZFVUd3NfMVFiN0UtcEFMb1kwcmtSalBGR21PSWNTUDJTZVNQWk9iaEFyemRDLVl4LUZLU3VsNC1LbXJoMldVREY1QktuSEJiLVNuSGdNS2hOWTQ0YlpmOFl3LTR6UXdmOWZyMkdISmVZU2NtTmtsTkNGWjVZazMxVjlYTUxfT2psNk03UXZ5WGVTaWhHRS1PWEYzaWVrSE1ESl9RVVpJd08zeTZFQnJOQjhGb2Q3QjVvWUhacWtCdWxW?oc=5",
-    "source": "nme",
-    "title": "The National joined by Richard Reed Parry and play '90-Mile Water Wall' for first time since 2014 at first full gig in two years - NME",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZHVWZFVUd3NfMVFiN0UtcEFMb1kwcmtSalBGR21PSWNTUDJTZVNQWk9iaEFyemRDLVl4LUZLU3VsNC1LbXJoMldVREY1QktuSEJiLVNuSGdNS2hOWTQ0YlpmOFl3LTR6UXdmOWZyMkdISmVZU2NtTmtsTkNGWjVZazMxVjlYTUxfT2psNk03UXZ5WGVTaWhHRS1PWEYzaWVrSE1ESl9RVVpJd08zeTZFQnJOQjhGb2Q3QjVvWUhacWtCdWxW?oc=5",
-    "publishedAt": "2026-10-19T12:13:36.000Z",
-    "summary": "The National joined by Richard Reed Parry and play '90-Mile Water Wall' for first time since 2014 at first full gig in two years NME",
     "image": null
   },
   {
@@ -708,15 +717,6 @@
     "url": "https://www.uncut.co.uk/reviews/fontaines-dcs-dopamine-chamber-reviewed-commanding-fifth-album-from-irelands-unstoppable-rock-stars-156708/",
     "publishedAt": "2026-10-15T14:36:49.000Z",
     "summary": "Grian Chatten and co swap guitars for icy synths and confront a world of endless conflict, digital dependency and creeping despair",
-    "image": null
-  },
-  {
-    "id": "uncut-https://www.uncut.co.uk/features/blondie-on-the-making-of-heart-of-glass-we-were-trying-to-sound-like-kraftwerk-1474/",
-    "source": "uncut",
-    "title": "“I’m not playing disco!” The unlikely story behind Blondie’s biggest hit",
-    "url": "https://www.uncut.co.uk/features/blondie-on-the-making-of-heart-of-glass-we-were-trying-to-sound-like-kraftwerk-1474/",
-    "publishedAt": "2026-10-15T13:58:10.000Z",
-    "summary": "The song they never expected to become a No 1 smash",
     "image": null
   }
 ]
