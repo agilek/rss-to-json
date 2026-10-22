@@ -1,11 +1,254 @@
 [
   {
-    "id": "billboard-https://www.billboard.com/lists/amy-winehouse-back-to-black-tribute-concert-best-moments/",
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/drake-toronto-raptors-opener-bedazzled-cowboy-boots-1236365795/",
     "source": "billboard",
-    "title": "Amy Winehouse Honored With Stunning All-Star Tribute Concert Celebrating 20 Years of ‘Back to Black’: Best Moments",
-    "url": "https://www.billboard.com/lists/amy-winehouse-back-to-black-tribute-concert-best-moments/",
-    "publishedAt": "2026-10-22T10:16:33.000Z",
-    "summary": "Jorja Smith, FLO, Sasha Keable and more took joined Amy's original band at the show at London's Roundhouse in Camden.",
+    "title": "Drake Makes Courtside Appearance in Bedazzled Red Cowboy Boots for Toronto Raptors Home Opener",
+    "url": "https://www.billboard.com/music/rb-hip-hop/drake-toronto-raptors-opener-bedazzled-cowboy-boots-1236365795/",
+    "publishedAt": "2026-10-22T16:26:52.000Z",
+    "summary": "Drizzy's team throttled the Chicago Bulls as Kawhi Leonard made his return.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/funk-flex-fight-new-york-knicks-game-1235646120/",
+    "source": "rolling-stone",
+    "title": "Funk Flex Addresses Heated Altercation With Music Executive at New York Knicks Game",
+    "url": "https://www.rollingstone.com/music/music-news/funk-flex-fight-new-york-knicks-game-1235646120/",
+    "publishedAt": "2026-10-22T16:23:07.000Z",
+    "summary": "Flex denied being assaulted, accusing Shadow Stokes of attempting to \"bait\" him into a lawsuit",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/fleetwood-mac-apple-tv-documentary-1235646500/",
+    "source": "rolling-stone",
+    "title": "Fleetwood Mac Set Authorized Documentary Tied to ‘Rumours’ 50th Anniversary",
+    "url": "https://www.rollingstone.com/music/music-news/fleetwood-mac-apple-tv-documentary-1235646500/",
+    "publishedAt": "2026-10-22T16:13:58.000Z",
+    "summary": "Frank Marshall's Fleetwood Mac: The Chain arrives in January on Apple TV",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/final-song-rock-metal-bands/",
+    "source": "loudwire",
+    "title": "The Last Song 15 Big Rock + Metal Played at Their Final Show",
+    "url": "https://loudwire.com/final-song-rock-metal-bands/",
+    "publishedAt": "2026-10-22T16:11:13.000Z",
+    "summary": "Looking back at the last song 15 rock and metal bands played before they disbanded or stopped touring forever. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/forest-hills-stadium-neighborhood-settlement/",
+    "source": "billboard",
+    "title": "Forest Hills Stadium Agrees to Cap Number of Concerts Per Year, Ending Years of Litigation With Locals",
+    "url": "https://www.billboard.com/pro/forest-hills-stadium-neighborhood-settlement/",
+    "publishedAt": "2026-10-22T16:07:07.000Z",
+    "summary": "The new agreement puts an end to the yearslong litigation that put the venue’s concerts in jeopardy.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/milestone-moment-with-grupo-duelo-latin-music-week-2026/",
+    "source": "billboard",
+    "title": "Milestone Moment With Grupo Duelo | Billboard Latin Music Week 2026",
+    "url": "https://www.billboard.com/video/milestone-moment-with-grupo-duelo-latin-music-week-2026/",
+    "publishedAt": "2026-10-22T16:04:51.000Z",
+    "summary": "This is sponsored content. Presented by La Bonita. Grupo Duelo runs through its milestone moments throughout the band’s career, perform live and more! The 2026 Billboard Latin Music Week takes place from Oct. 19 to 22 at the Faena Forum Miami Beach, Fla., serving as a dynamic platform celebrating the heartbeat of Latin music and […]",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/miley-megan-moroney-nobody-wants-this-soundtrack-interview-1236365440/",
+    "source": "billboard",
+    "title": "How New Music From Miley, Megan Moroney, Bella Kay & More Landed on the ‘Nobody Wants This’ Season Three Soundtrack: ‘It Was a Win-Win for All’",
+    "url": "https://www.billboard.com/music/music-news/miley-megan-moroney-nobody-wants-this-soundtrack-interview-1236365440/",
+    "publishedAt": "2026-10-22T16:00:00.000Z",
+    "summary": "Executive producer Simon Tikhman takes us inside this season’s soundtrack to the hit Netflix show.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/tv-film/love-language-chloe-grace-moretz-stevie-nicks-clip-rom-com-1236365259/",
+    "source": "billboard",
+    "title": "‘Do Not Ever Compare Yourself to Stevie Nicks!’: Watch Chloë Grace Moretz Get ‘Tangled’ Up in New Rom-Com ‘Love Language’",
+    "url": "https://www.billboard.com/culture/tv-film/love-language-chloe-grace-moretz-stevie-nicks-clip-rom-com-1236365259/",
+    "publishedAt": "2026-10-22T16:00:00.000Z",
+    "summary": "Love Language -- also starring Anthony Ramos, Manny Jacinto, Lukas Gage, Billie Lourd & Isabel May -- arrives in theaters & digital Friday.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rock/queens-of-the-stone-age-dates-2027-perfecth-us-tour-1236365807/",
+    "source": "billboard",
+    "title": "Queens of the Stone Age Roll Out Dates For 2027 Perfecth U.S. Tour",
+    "url": "https://www.billboard.com/music/rock/queens-of-the-stone-age-dates-2027-perfecth-us-tour-1236365807/",
+    "publishedAt": "2026-10-22T15:58:17.000Z",
+    "summary": "The band's ninth studio album is due out on Oct. 30.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/cardi-b-done-beefing-female-rappers-shades-gen-z-star-1236365690/",
+    "source": "billboard",
+    "title": "Cardi B Says She’s Done ‘Beefing With Rap B—hes’: ‘It’s Kinda Boring’",
+    "url": "https://www.billboard.com/music/music-news/cardi-b-done-beefing-female-rappers-shades-gen-z-star-1236365690/",
+    "publishedAt": "2026-10-22T15:49:31.000Z",
+    "summary": "That said, the rapper did seemingly drop in a bit of shade toward one rising Gen Z star.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "source": "billboard",
+    "title": "Billboard’s Music Industry Events Calendar",
+    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "publishedAt": "2026-10-22T15:49:00.000Z",
+    "summary": "A complete rundown of the most important events across the music business.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/mark-ronson-jessie-reyez-amy-winehouse-tribute-concert-1235646567/",
+    "source": "rolling-stone",
+    "title": "Mark Ronson, Jessie Reyez, Corinne Bailey Rae Lead All-Star Amy Winehouse Tribute Concert",
+    "url": "https://www.rollingstone.com/music/music-news/mark-ronson-jessie-reyez-amy-winehouse-tribute-concert-1235646567/",
+    "publishedAt": "2026-10-22T15:47:12.000Z",
+    "summary": "Twentieth-anniversary celebration of Back to Black in London also featured Salaam Remi, Yebba, Lianne La Havas, the Amy Winehouse Band and more",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/fleetwood-mac-announces-fleetwood-mac-documentary/",
+    "source": "pitchfork",
+    "title": "Fleetwood Mac Announce Fleetwood Mac Documentary",
+    "url": "https://pitchfork.com/story/fleetwood-mac-announces-fleetwood-mac-documentary/",
+    "publishedAt": "2026-10-22T15:40:56.000Z",
+    "summary": "Fleetwood Mac: The Chain hits Apple TV in January",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/kacey-musgraves-reveals-middle-of-nowhere-companion-album/",
+    "source": "pitchfork",
+    "title": "Kacey Musgraves Reveals Middle of Nowhere Companion Album",
+    "url": "https://pitchfork.com/story/kacey-musgraves-reveals-middle-of-nowhere-companion-album/",
+    "publishedAt": "2026-10-22T15:40:06.000Z",
+    "summary": "She’ll unvault the 16-track Tex Mex Tapes on January 15",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/lifestyle/north-west-dresses-natalie-nunn-halloween-baddies-reaction-1236365684/",
+    "source": "billboard",
+    "title": "North West Dresses as Natalie Nunn for Halloween: Here’s How the ‘Bad Girls Club’ Star Reacted",
+    "url": "https://www.billboard.com/culture/lifestyle/north-west-dresses-natalie-nunn-halloween-baddies-reaction-1236365684/",
+    "publishedAt": "2026-10-22T15:13:30.000Z",
+    "summary": "The Baddies cast member loved it, especially the Nicki Minaj-coded chin check.",
+    "image": null
+  },
+  {
+    "id": "louder-than-war-https://louderthanwar.com/immersion-announce-uk-and-dutch-dates/",
+    "source": "louder-than-war",
+    "title": "Immersion announce UK and Dutch dates",
+    "url": "https://louderthanwar.com/immersion-announce-uk-and-dutch-dates/",
+    "publishedAt": "2026-10-22T15:13:27.000Z",
+    "summary": "Immersion (Colin Newman from Wire and Malka Spigel Minimal Compact) tour dates The post Immersion announce UK and Dutch dates appeared first on Louder Than War.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/brad-paisley-remembers-dolly-parton-husband-carl-dean-1235646478/",
+    "source": "rolling-stone",
+    "title": "Brad Paisley on the Time Carl Dean Drove Dolly Parton to His House",
+    "url": "https://www.rollingstone.com/music/music-country/brad-paisley-remembers-dolly-parton-husband-carl-dean-1235646478/",
+    "publishedAt": "2026-10-22T14:59:39.000Z",
+    "summary": "Dolly and Paisley were filming the video for \"When I Get Where I'm Going,\" and her husband patiently waited in the car. \"He was so happy to be in the shadows,\" Paisley says",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/scotty-mccreery-clear-as-day-chart-rewind-2011-1236365683/",
+    "source": "billboard",
+    "title": "Chart Rewind: In 2011, Scotty McCreery’s Debut Album Made Him a ‘Clear’ Country Favorite",
+    "url": "https://www.billboard.com/music/chart-beat/scotty-mccreery-clear-as-day-chart-rewind-2011-1236365683/",
+    "publishedAt": "2026-10-22T14:43:03.000Z",
+    "summary": "The American Idol winner was anything but idle as he launched his recording career.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/queens-of-the-stone-age-plot-2027-us-tour/",
+    "source": "pitchfork",
+    "title": "Queens of the Stone Age Plot 2027 U.S. Tour",
+    "url": "https://pitchfork.com/story/queens-of-the-stone-age-plot-2027-us-tour/",
+    "publishedAt": "2026-10-22T14:34:54.000Z",
+    "summary": "Josh Homme and the band also gave “Where the Goth Girls At?” its live debut on Fallon",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/queens-of-the-stone-age-2027-tour-dates-pixies/",
+    "source": "loudwire",
+    "title": "Queens of the Stone Age Announce 2027 Tour With Pixies",
+    "url": "https://loudwire.com/queens-of-the-stone-age-2027-tour-dates-pixies/",
+    "publishedAt": "2026-10-22T14:26:12.000Z",
+    "summary": "Get all the tour dates and ticketing info for Queens of the Stone Age's 2027 North American tour. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/daft-punk-lego-pyramid-stage-set-1235646469/",
+    "source": "rolling-stone",
+    "title": "Daft Punk Team With Lego for Set Based on Classic Pyramid Stage",
+    "url": "https://www.rollingstone.com/music/music-news/daft-punk-lego-pyramid-stage-set-1235646469/",
+    "publishedAt": "2026-10-22T14:17:39.000Z",
+    "summary": "French duo drop teaser video ahead of 2027 collaboration with toymakers",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/being-dead-sign-to-polyvinyl-plan-to-take-over-the-world/",
+    "source": "pitchfork",
+    "title": "Being Dead Sign to Polyvinyl, Plan to “Take Over the World”",
+    "url": "https://pitchfork.com/story/being-dead-sign-to-polyvinyl-plan-to-take-over-the-world/",
+    "publishedAt": "2026-10-22T14:02:52.000Z",
+    "summary": "The Austin rock trio has also shared two new songs, one about dating a dolphin",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/daft-punk-are-now-lego/",
+    "source": "pitchfork",
+    "title": "Daft Punk Are Now Lego",
+    "url": "https://pitchfork.com/story/daft-punk-are-now-lego/",
+    "publishedAt": "2026-10-22T14:01:08.000Z",
+    "summary": "And so is the Alive 2007 pyramid",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-lists/halloween-costume-ideas-2026-music-dolly-parton-bad-bunny-1235645993/",
+    "source": "rolling-stone",
+    "title": "The Best Music-Themed Halloween Costume Ideas of 2026 Are Here",
+    "url": "https://www.rollingstone.com/music/music-lists/halloween-costume-ideas-2026-music-dolly-parton-bad-bunny-1235645993/",
+    "publishedAt": "2026-10-22T14:00:00.000Z",
+    "summary": "Need an outfit that will wow everyone at the party? How about honoring the late Dolly Parton, or channeling Bad Bunny at the Super Bowl — or one of these other possibilities?",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMinAJBVV95cUxNckRJM0xGbkszOEdjLWlobk1zN1E1YWJxMFMxTFBRY0ZoRTM2OEZrM1hhTFJCWmRDN1NZVFVTc1ZNVlItYzdjVjFXME1CODU3LW9SMjJIZXY5by1BTm0yb2Z1emlpYldJUmxEZUUzRThhVE4tU0FtRkQ1OGVkWlVyQTNMU2hkNURmM25USXRqU1VJNTNwWVhHaTNXUFlXN1hQZFZJdDIwRjBrMzFqdFpWZVlPMGp5ZTg0OU4wUVFLRjM1WWlaVUtCal9IWFRCb0RrTC1HdFR0S3JJUktXMVVMYUJnSDZCM1lVWTJURm5ENlMwV2hGdHdQRVBDa0ZUdzN0b3FybDdFWHhqY3kyb2I2OFcxVWlyczJuZWJPOQ?oc=5",
+    "source": "nme",
+    "title": "Watch Mark Ronson, Salaam Remi, Corinne Bailey Rae, Jessie Reyez and more celebrate 20 years of 'Back To Black' with Amy Winehouse's band at London's Roundhouse - NME",
+    "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNckRJM0xGbkszOEdjLWlobk1zN1E1YWJxMFMxTFBRY0ZoRTM2OEZrM1hhTFJCWmRDN1NZVFVTc1ZNVlItYzdjVjFXME1CODU3LW9SMjJIZXY5by1BTm0yb2Z1emlpYldJUmxEZUUzRThhVE4tU0FtRkQ1OGVkWlVyQTNMU2hkNURmM25USXRqU1VJNTNwWVhHaTNXUFlXN1hQZFZJdDIwRjBrMzFqdFpWZVlPMGp5ZTg0OU4wUVFLRjM1WWlaVUtCal9IWFRCb0RrTC1HdFR0S3JJUktXMVVMYUJnSDZCM1lVWTJURm5ENlMwV2hGdHdQRVBDa0ZUdzN0b3FybDdFWHhqY3kyb2I2OFcxVWlyczJuZWJPOQ?oc=5",
+    "publishedAt": "2026-10-22T13:46:59.000Z",
+    "summary": "Watch Mark Ronson, Salaam Remi, Corinne Bailey Rae, Jessie Reyez and more celebrate 20 years of 'Back To Black' with Amy Winehouse's band at London's Roundhouse NME",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/2027-sonic-temple-lineup/",
+    "source": "loudwire",
+    "title": "Full 2027 Sonic Temple Lineup Revealed Featuring Nearly 150 Bands",
+    "url": "https://loudwire.com/2027-sonic-temple-lineup/",
+    "publishedAt": "2026-10-22T13:20:21.000Z",
+    "summary": "The full 2027 Sonic Temple lineup has officially been revealed, featuring nearly 150 artists that will perform over the four days. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaEtVRlJaRkl3QzR6MHdlNGpZUlNaQnlzWHNsVnc2TDB0aHh1ZVVMdDdYNlE4S2I0TmswU0VOVklIUExHSXdWeURzcUpta0hlb2lWR3ZIbXRuNGZobGdaeUhOWjQyRW1lM21yTU9kc3NENW52M2Q5b0NfM3dLYmhCR0JJVGxIX01LOV9BRGR0cjhTcTFhUXVfZmVwUEg4NUx3U1E4bXFVd1BHS015VTlzVktVNENDTTdvQV84NTFQSjdmTFU5d0kwR1dway05ck04UU1J?oc=5",
+    "source": "kerrang",
+    "title": "Angine de Poitrine announce world tour, including Brixton Academy and Piece Hall shows - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaEtVRlJaRkl3QzR6MHdlNGpZUlNaQnlzWHNsVnc2TDB0aHh1ZVVMdDdYNlE4S2I0TmswU0VOVklIUExHSXdWeURzcUpta0hlb2lWR3ZIbXRuNGZobGdaeUhOWjQyRW1lM21yTU9kc3NENW52M2Q5b0NfM3dLYmhCR0JJVGxIX01LOV9BRGR0cjhTcTFhUXVfZmVwUEg4NUx3U1E4bXFVd1BHS015VTlzVktVNENDTTdvQV84NTFQSjdmTFU5d0kwR1dway05ck04UU1J?oc=5",
+    "publishedAt": "2026-10-22T11:39:00.000Z",
+    "summary": "Angine de Poitrine announce world tour, including Brixton Academy and Piece Hall shows Kerrang!",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMiugFBVV95cUxOM1JUUXB5N0psX014ZVBkbHRFR0tzcDFCVjFsUUF0YmZRX01CSmdBYjlXbjZrdXYzQWpucUFqMUl2YUZsZFVoclJkcFBVaFRCeHZWbkpLSG5SS3l4ZEhoOUxreE9GUWxjM1JxVXdZZzlVVEJTdUtpQUFWSzRxSXVJT291Tm5wUnFneGVWT2l2aEtqSHRDWjZtTENSdTZoR3Vob3drV1A5dGVHdkM5eFRvVlpYMmlQTTRpNHc?oc=5",
+    "source": "nme",
+    "title": "Grian Chatten says Fontaines D.C. had no idea AI was used in 'Marianne' video: \"I don't condone it” - NME",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOM1JUUXB5N0psX014ZVBkbHRFR0tzcDFCVjFsUUF0YmZRX01CSmdBYjlXbjZrdXYzQWpucUFqMUl2YUZsZFVoclJkcFBVaFRCeHZWbkpLSG5SS3l4ZEhoOUxreE9GUWxjM1JxVXdZZzlVVEJTdUtpQUFWSzRxSXVJT291Tm5wUnFneGVWT2l2aEtqSHRDWjZtTENSdTZoR3Vob3drV1A5dGVHdkM5eFRvVlpYMmlQTTRpNHc?oc=5",
+    "publishedAt": "2026-10-22T10:22:08.000Z",
+    "summary": "Grian Chatten says Fontaines D.C. had no idea AI was used in 'Marianne' video: \"I don't condone it” NME",
     "image": null
   },
   {
@@ -27,30 +270,30 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/pro/spotify-q3-earnings-report-subscriber-gains-revenue-growth/",
-    "source": "billboard",
-    "title": "Spotify Subscriber Gains Beat Expectations, Driving Double-Digit Revenue Growth in Q3",
-    "url": "https://www.billboard.com/pro/spotify-q3-earnings-report-subscriber-gains-revenue-growth/",
-    "publishedAt": "2026-10-22T10:01:00.000Z",
-    "summary": "\"This was a quarter where we did what we said,\" said Spotify Co-CEO Alex Norström.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rock/queens-of-the-stone-age-tonight-show-performance-watch-1236365591/",
-    "source": "billboard",
-    "title": "Queens of the Stone Age Look Road-Ready In ‘Tonight Show’ Performance: Watch",
-    "url": "https://www.billboard.com/music/rock/queens-of-the-stone-age-tonight-show-performance-watch-1236365591/",
-    "publishedAt": "2026-10-22T09:55:06.000Z",
-    "summary": "Bathed in cold blue light, QOTSA sounded tight for their late-night spot, appeared lean and mean.",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/reviews/queens-of-the-stone-ages-perfecth-reviewed-rock-of-ages-156750/",
     "source": "uncut",
     "title": "Queens Of The Stone Age’s Perfecth reviewed: rock of ages",
     "url": "https://www.uncut.co.uk/reviews/queens-of-the-stone-ages-perfecth-reviewed-rock-of-ages-156750/",
     "publishedAt": "2026-10-22T09:52:22.000Z",
     "summary": "Josh Homme delivers their warmest, wisest and most emotionally direct album yet",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ3NoeWlxcWIwNzNKTkJ2QkFlSUswYnFfc1E1Yjh1T2M0RmR0Qk1LazQ2RkRNcDFQWWdLcG9YTTNpZnlfaURnTHY3V2RHeGljUHE0UUw5NVhJTmhTbWh5UWVrZWstNURSdlkzNUNFTGdtQjJUQnVBMnlNbkFJSFQxaGRtOENkN2MxSUN5LVltZjZzM3pIZmhQc2stWGdKbmNGaFE?oc=5",
+    "source": "nme",
+    "title": "Noel Gallagher to appear on final season of ‘Chicken Shop Date’ - NME",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ3NoeWlxcWIwNzNKTkJ2QkFlSUswYnFfc1E1Yjh1T2M0RmR0Qk1LazQ2RkRNcDFQWWdLcG9YTTNpZnlfaURnTHY3V2RHeGljUHE0UUw5NVhJTmhTbWh5UWVrZWstNURSdlkzNUNFTGdtQjJUQnVBMnlNbkFJSFQxaGRtOENkN2MxSUN5LVltZjZzM3pIZmhQc2stWGdKbmNGaFE?oc=5",
+    "publishedAt": "2026-10-22T09:37:22.000Z",
+    "summary": "Noel Gallagher to appear on final season of ‘Chicken Shop Date’ NME",
+    "image": null
+  },
+  {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMiekFVX3lxTE9UR3o5eGJSb0xmcjFHUktxdjRpWmduZjktajg4Snd0SEV4SWhzVlY1VS1XRG1yYVZJUm9EX1JYamhCNC1IS0lTTWM3bmNjUVc4UHRFQ0RRZXFnRXNpNFlyRVctUmw2Nm5jZlJyY0xwVEFuTHBPLVdDNHVn?oc=5",
+    "source": "kerrang",
+    "title": "Album review: Wolves In The Throne Room – Estuary - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9UR3o5eGJSb0xmcjFHUktxdjRpWmduZjktajg4Snd0SEV4SWhzVlY1VS1XRG1yYVZJUm9EX1JYamhCNC1IS0lTTWM3bmNjUVc4UHRFQ0RRZXFnRXNpNFlyRVctUmw2Nm5jZlJyY0xwVEFuTHBPLVdDNHVn?oc=5",
+    "publishedAt": "2026-10-22T09:29:00.000Z",
+    "summary": "Album review: Wolves In The Throne Room – Estuary Kerrang!",
     "image": null
   },
   {
@@ -63,12 +306,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/pop/chappell-roan-duets-christina-aguilera-la-concert-1236365547/",
-    "source": "billboard",
-    "title": "Chappell Roan Brings Out Christina Aguilera at L.A. Concert: ‘Honestly Paved the Way for Me’",
-    "url": "https://www.billboard.com/music/pop/chappell-roan-duets-christina-aguilera-la-concert-1236365547/",
-    "publishedAt": "2026-10-22T09:21:53.000Z",
-    "summary": "Aguilera performed \"Beautiful\" at the Super Graphic Spectacular concert before joining Roan for a duet of the latter artist's track \"Coffee.\"",
+    "id": "nme-https://news.google.com/rss/articles/CBMijwFBVV95cUxQRElzM2tTQldOX0dJYnlIRi03WU9JaDR0cUJ5RDFmRzZTY0hnb05kSExScnhmX0oxc0hpbVA0UmRDdmlVa0loZFZkRDA3M20zMFo1aGxlSzdWQUJCNFhtZ0E4U0Fjd1AxSFVIbThESGJBdHZHOFkzNUVETXphNm5DOVgtdXNnLVZiQi1KaUVtUQ?oc=5",
+    "source": "nme",
+    "title": "James Bond casting down to three actors, insider claims - NME",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRElzM2tTQldOX0dJYnlIRi03WU9JaDR0cUJ5RDFmRzZTY0hnb05kSExScnhmX0oxc0hpbVA0UmRDdmlVa0loZFZkRDA3M20zMFo1aGxlSzdWQUJCNFhtZ0E4U0Fjd1AxSFVIbThESGJBdHZHOFkzNUVETXphNm5DOVgtdXNnLVZiQi1KaUVtUQ?oc=5",
+    "publishedAt": "2026-10-22T09:17:22.000Z",
+    "summary": "James Bond casting down to three actors, insider claims NME",
     "image": null
   },
   {
@@ -78,6 +321,15 @@
     "url": "https://www.uncut.co.uk/features/want-to-get-into-jazz-but-dont-know-where-to-start-heres-the-first-21-albums-you-should-buy-156579/",
     "publishedAt": "2026-10-22T09:07:28.000Z",
     "summary": "From Charles Mingus and Thelonious Monk to Sun Ra and Don Cherry, 21 albums that offer different routes into this endlessly rewarding world",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMimAFBVV95cUxQeU9jWXF4MlV1QTN5RlVrWDdKSjBHUDllalVmZm13YmF6emRBd3BaYnpMZEtnME1VX1AwZXpxYWZjSU9POEw2VmIzY1ROUFhmYXRCb0twWjdpNU1WV1JpXzJVeldtNEtkaWVCaFhfX2JqaUNyb0llNTlPNzdqT1ByYlRKT1RVQjRkS0RuMXZ0MHlSVlVNVjRQWA?oc=5",
+    "source": "nme",
+    "title": "Glastonbury 2027: coach tickets oversold in admin error - NME",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeU9jWXF4MlV1QTN5RlVrWDdKSjBHUDllalVmZm13YmF6emRBd3BaYnpMZEtnME1VX1AwZXpxYWZjSU9POEw2VmIzY1ROUFhmYXRCb0twWjdpNU1WV1JpXzJVeldtNEtkaWVCaFhfX2JqaUNyb0llNTlPNzdqT1ByYlRKT1RVQjRkS0RuMXZ0MHlSVlVNVjRQWA?oc=5",
+    "publishedAt": "2026-10-22T08:55:30.000Z",
+    "summary": "Glastonbury 2027: coach tickets oversold in admin error NME",
     "image": null
   },
   {
@@ -99,21 +351,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/country/john-anderson-death-reaction-1236365421/",
-    "source": "billboard",
-    "title": "‘The Great And Unmatched’: John Anderson Remembered by Blake Shelton, Tim McGraw & More",
-    "url": "https://www.billboard.com/music/country/john-anderson-death-reaction-1236365421/",
-    "publishedAt": "2026-10-22T06:41:50.000Z",
-    "summary": "The country music community is paying tribute to Anderson, who died Wednesday, Oct. 21 at the age of 71.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-country/carrie-underwood-sings-i-will-always-love-you-dolly-tribute-1235646179/",
     "source": "rolling-stone",
     "title": "Watch Carrie Underwood Close Dolly Parton Tribute Concert With ‘I Will Always Love You’",
     "url": "https://www.rollingstone.com/music/music-country/carrie-underwood-sings-i-will-always-love-you-dolly-tribute-1235646179/",
     "publishedAt": "2026-10-22T06:11:24.000Z",
-    "summary": "The country star was joined by some of the Nashville tribute concert's other performers to sing the soaring ballad",
+    "summary": "The country star was joined by some of the Nashville tribute concert’s other performers to sing the soaring ballad",
     "image": null
   },
   {
@@ -122,16 +365,7 @@
     "title": "Zac Brown Delivers Emotional ‘Duet’ With Dolly Parton During Tribute Ceremony",
     "url": "https://www.rollingstone.com/music/music-country/zac-brown-dolly-parton-duet-butterfly-tribute-concert-1235646266/",
     "publishedAt": "2026-10-22T05:47:50.000Z",
-    "summary": "The country music icon, who died in August, originally recorded \"Butterfly\" for Brown's 2025 album Love & Fear",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/latin/floyymenor-cris-mj-youtube-billion-views-club-gata-only-1236365413/",
-    "source": "billboard",
-    "title": "FloyyMenor and Cris MJ Enter YouTube’s Billion Views Club With ‘Gata Only’",
-    "url": "https://www.billboard.com/music/latin/floyymenor-cris-mj-youtube-billion-views-club-gata-only-1236365413/",
-    "publishedAt": "2026-10-22T05:47:41.000Z",
-    "summary": "The Chilean artists clock up one billion views with the official music video for their viral hit.",
+    "summary": "The country music icon, who died in August, originally recorded “Butterfly” for Brown’s 2025 album, Love & Fear",
     "image": null
   },
   {
@@ -144,48 +378,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/pro/live-nation-north-melbourne-venue-australian-portfolio/",
-    "source": "billboard",
-    "title": "Live Nation Adds North Melbourne Venue to Australian Portfolio",
-    "url": "https://www.billboard.com/pro/live-nation-north-melbourne-venue-australian-portfolio/",
-    "publishedAt": "2026-10-22T04:00:29.000Z",
-    "summary": "The concerts giant will deliver and operate a new purpose-built venue at Arden Central, about one mile from the city’s CBD.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/country/john-anderson-country-music-hall-of-fame-inductee-dead-1236365341/",
-    "source": "billboard",
-    "title": "John Anderson, Country Music Hall of Fame Inductee, Dies at 71",
-    "url": "https://www.billboard.com/music/country/john-anderson-country-music-hall-of-fame-inductee-dead-1236365341/",
-    "publishedAt": "2026-10-22T02:47:15.000Z",
-    "summary": "The country music legend was known for his distinctive voice and a songbook that included “Swingin’,” “Straight Tequila Night,” and “Seminole Wind.”",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/video/icon-qa-with-ruben-blades-billboard-latin-music/",
-    "source": "billboard",
-    "title": "Icon Q&A With Rubén Blades | Billboard Latin Music Week 2026",
-    "url": "https://www.billboard.com/video/icon-qa-with-ruben-blades-billboard-latin-music/",
-    "publishedAt": "2026-10-22T02:18:18.000Z",
-    "summary": "Rubén Blades reflects on his legendary career, revisits his biggest hits and shares memories of working with Willie Colón. He discusses how music can unite people, why he never expected to become a major salsa singer or actor, and his experience appearing on The Walking Dead. The 2026 Billboard Latin Music Week takes place from Oct. […]",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-country/ella-langley-performs-jolene-dolly-parton-tribute-concert-1235646106/",
     "source": "rolling-stone",
     "title": "Ella Langley Pays Tribute to Dolly Parton With Smoldering Version of ‘Jolene’",
     "url": "https://www.rollingstone.com/music/music-country/ella-langley-performs-jolene-dolly-parton-tribute-concert-1235646106/",
     "publishedAt": "2026-10-22T01:56:26.000Z",
-    "summary": "The \"Choosin' Texas\" star offered a fiery rendition of the country legend's 1974 hit during the CMA's I Will Always Love You tribute",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/video/generaciones-why-nostalgia-is-hipper-than-ever/",
-    "source": "billboard",
-    "title": "Generaciones: Why Nostalgia Is Hipper Than Ever | Billboard Latin Music Week 2026",
-    "url": "https://www.billboard.com/video/generaciones-why-nostalgia-is-hipper-than-ever/",
-    "publishedAt": "2026-10-22T01:24:31.000Z",
-    "summary": "Presented by Andrea Ramirez PR. A discussion with Mar Solís, Emir Pabon of Grupo Canaveral, and Alex Iñigo, Alex Torres, Fito Echeverria and Luis Araque of Grupo Niche. The 2026 Billboard Latin Music Week takes place from Oct. 19-22 at the Faena Forum Miami Beach, serving as a dynamic platform celebrating the heartbeat of Latin […]",
+    "summary": "The “Choosin’ Texas” star offered a fiery rendition of the country legend’s 1974 hit during the CMA’s I Will Always Love You tribute",
     "image": null
   },
   {
@@ -198,66 +396,12 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/john-anderson-dead-obit-1235646322/",
-    "source": "rolling-stone",
-    "title": "John Anderson, Country Music Hall of Famer With Unmistakable Voice, Dead at 71",
-    "url": "https://www.rollingstone.com/music/music-country/john-anderson-dead-obit-1235646322/",
-    "publishedAt": "2026-10-22T01:22:06.000Z",
-    "summary": "The Florida native was known for an idiosyncratic warble, which he used to power hits like \"Swingin',\" \"Seminole Wind,\" and \"Wild and Blue\"",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/jack-avery-gabbie-gonzalez-murder-plot-custody-daughter-1235646294/",
-    "source": "rolling-stone",
-    "title": "Jack Avery Testifies He’s ‘Very Scared’ of Ex Accused of Murder Plot, Wins Sole Custody of Daughter",
-    "url": "https://www.rollingstone.com/music/music-news/jack-avery-gabbie-gonzalez-murder-plot-custody-daughter-1235646294/",
-    "publishedAt": "2026-10-22T01:10:28.000Z",
-    "summary": "The Why Don’t We singer took the stand for the first time to testify about an alleged dark web murder-for-hire plot targeting him",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/aaron-carter-estate-settlement-walgreens-xanax-prescription-1235646315/",
-    "source": "rolling-stone",
-    "title": "Aaron Carter Estate Reaches Settlement With Walgreens Over Xanax Prescriptions",
-    "url": "https://www.rollingstone.com/music/music-news/aaron-carter-estate-settlement-walgreens-xanax-prescription-1235646315/",
-    "publishedAt": "2026-10-22T00:39:38.000Z",
-    "summary": "The singer's family settled wrongful death claims against the company and another pharmacy",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/talking-heads-announce-new-book/",
     "source": "pitchfork",
     "title": "Talking Heads Announce New Book",
     "url": "https://pitchfork.com/story/talking-heads-announce-new-book/",
     "publishedAt": "2026-10-21T23:03:37.000Z",
     "summary": "With essays from Lorde, Debbie Harry, Karl Ove Knausgaard, and more",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/talking-heads-new-feeling-book-1235646227/",
-    "source": "rolling-stone",
-    "title": "Talking Heads Reunite for Coffee-Table Book",
-    "url": "https://www.rollingstone.com/music/music-news/talking-heads-new-feeling-book-1235646227/",
-    "publishedAt": "2026-10-21T21:45:37.000Z",
-    "summary": "New Feeling, due in May, will feature handwritten lyrics, original album sketches, and private photos",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-latin/los-gemelos-de-sinaloa-u-s-tour-dates-label-rancho-humilde-1235646185/",
-    "source": "rolling-stone",
-    "title": "Meet Los Gemelos de Sinaloa, the Twins Winning the Música Mexicana Game",
-    "url": "https://www.rollingstone.com/music/music-latin/los-gemelos-de-sinaloa-u-s-tour-dates-label-rancho-humilde-1235646185/",
-    "publishedAt": "2026-10-21T20:10:10.000Z",
-    "summary": "The brothers have a new label, a new outlook, and a slew of hits — plus a major U.S. tour on the way",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/2027-grammys-predictions-producer-of-the-year-nominees-1235645105/",
-    "source": "rolling-stone",
-    "title": "The Grammy for Producer of the Year, Non-Classical, Will Go to the Best Storyteller",
-    "url": "https://www.rollingstone.com/music/music-features/2027-grammys-predictions-producer-of-the-year-nominees-1235645105/",
-    "publishedAt": "2026-10-21T19:50:40.000Z",
-    "summary": "Miranda Lambert, Kenny Beats, and Andrew Watt are all likely nominees in this coveted category",
     "image": null
   },
   {
@@ -315,15 +459,6 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/story/snoh-aalegra-unveils-new-album-with-song-featuring-nile-rodgers-and-raphael-saadiq/",
-    "source": "pitchfork",
-    "title": "Snoh Aalegra Unveils New Album With Song Featuring Nile Rodgers and Raphael Saadiq",
-    "url": "https://pitchfork.com/story/snoh-aalegra-unveils-new-album-with-song-featuring-nile-rodgers-and-raphael-saadiq/",
-    "publishedAt": "2026-10-21T16:07:50.000Z",
-    "summary": "Listen to “I Love You” from Legendary Love",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMiogFBVV95cUxQZHVua2xvYVdtMWRWbWY4Umoyd2ItOVh0RDBHNFM3T1AzbTVtWGJ5aFlNQnZ1ZTlSWXZaY2pHR3lNR3BzTDhWZld5RlZqYmRZWVhVN2NTOEFmTnZ5allGNGVtN0NCb21XV3RUUGxZcE1XaVAyeEkyb2dkeGpOQUZEYnZjRkN0ZmRtdndKdjZlck9IaTJxUkFzeEl0TFlvSm92YUE?oc=5",
     "source": "nme",
     "title": "Daft Punk reportedly turned down ‘GTA 6’ soundtrack offer before Justice said yes - NME",
@@ -351,39 +486,12 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/story/angine-de-poitrine-set-2027-international-tour/",
-    "source": "pitchfork",
-    "title": "Angine de Poitrine Set 2027 International Tour",
-    "url": "https://pitchfork.com/story/angine-de-poitrine-set-2027-international-tour/",
-    "publishedAt": "2026-10-21T15:42:52.000Z",
-    "summary": "Will they land Angine de Pawtrine to open?",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/clap-your-hands-say-yeah-launch-new-album-burned-2027-tour/",
-    "source": "pitchfork",
-    "title": "Clap Your Hands Say Yeah Launch New Album Burned",
-    "url": "https://pitchfork.com/story/clap-your-hands-say-yeah-launch-new-album-burned-2027-tour/",
-    "publishedAt": "2026-10-21T14:43:36.000Z",
-    "summary": "Alec Ounsworth and co. will also tour in 2027",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/nirvana-acdc-best-selling-albums-ever/",
     "source": "loudwire",
     "title": "Nirvana Album Moves Ahead of AC/DC in Top 10 Best-Sellers List",
     "url": "https://loudwire.com/nirvana-acdc-best-selling-albums-ever/",
     "publishedAt": "2026-10-21T14:27:27.000Z",
     "summary": "AC/DC's 'Back in Black' has been passed by a '90s rock record inside the Top 10 biggest-selling albums in history. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/bassvictim-readying-second-album-of-the-year/",
-    "source": "pitchfork",
-    "title": "Bassvictim Readying Second Album of the Year",
-    "url": "https://pitchfork.com/story/bassvictim-readying-second-album-of-the-year/",
-    "publishedAt": "2026-10-21T14:12:23.000Z",
-    "summary": "Listen to “White Flag” from the UK duo’s Peace + War",
     "image": null
   },
   {
@@ -402,33 +510,6 @@
     "url": "https://loudwire.com/most-least-played-song-megadeth-albums/",
     "publishedAt": "2026-10-21T13:38:40.000Z",
     "summary": "See the most popular live tracks and the biggest rarities when it comes to what Megadeth have played off each of their studio albums. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbi1VSGRlc0FUOGgwa09zMVJSUno3X25rNmNkQ09FVTRJbjZFMnhHeDB6Y0ZXbXJmOUpVWEE1UVNjSFBsdTd3eWhpUXp3NjRqTXdEclZaV3ktZDNoRGxnTjl4Vk9SS2RxSnFwUmdiMFJRNjJORzdLQkFrWm84WFZiVHRuTEpaMHlaNENnYndlWHpuWW9Cck5jN2M0dmpWQnNHUExaOWZ6U3kzSUtIQkZ5X0hMeWU3dUxVNlkyNTFiX050NGZkd1l1WXpXbEcxaDZmZ0lrMQ?oc=5",
-    "source": "nme",
-    "title": "Sharon Osbourne: ‘Back To The Beginning’ celebrated “the bastards of the music industry\" - NME",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbi1VSGRlc0FUOGgwa09zMVJSUno3X25rNmNkQ09FVTRJbjZFMnhHeDB6Y0ZXbXJmOUpVWEE1UVNjSFBsdTd3eWhpUXp3NjRqTXdEclZaV3ktZDNoRGxnTjl4Vk9SS2RxSnFwUmdiMFJRNjJORzdLQkFrWm84WFZiVHRuTEpaMHlaNENnYndlWHpuWW9Cck5jN2M0dmpWQnNHUExaOWZ6U3kzSUtIQkZ5X0hMeWU3dUxVNlkyNTFiX050NGZkd1l1WXpXbEcxaDZmZ0lrMQ?oc=5",
-    "publishedAt": "2026-10-21T13:09:08.000Z",
-    "summary": "Sharon Osbourne: ‘Back To The Beginning’ celebrated “the bastards of the music industry\" NME",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/wendy-eisenberg-shares-two-reworked-songs-featuring-trevor-dunn-more-eaze/",
-    "source": "pitchfork",
-    "title": "Wendy Eisenberg Shares 30-Minute Song, Announces New Band With More Eaze",
-    "url": "https://pitchfork.com/story/wendy-eisenberg-shares-two-reworked-songs-featuring-trevor-dunn-more-eaze/",
-    "publishedAt": "2026-10-21T12:59:31.000Z",
-    "summary": "Whait will release their debut LP in February",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMizgFBVV95cUxOWmZSeVNoYncwclc0cWF5dU1KaTVZR0xzaDFMUzF6RGJOZTh1MmxKaG5tbFJRNzNUaUpGR0lQZzljNGdnLW5hSGxRS1pCaHJJUHhlYXRyUFdQaGlRdXg2QUVXeUJHZkZLeG5ab0s1WFp0SjlIckJVXzV5eEdTVkxEMnpkS1cyLXd5bnNPUkI1clN3QS1peUE5NV9EWm5XME44WVlRNk54QTF1MXM5Tk9rYVNvazNJR3RtR1RGUTZRaWU5OGVmQjZkVFZ6aEhaZw?oc=5",
-    "source": "nme",
-    "title": "Sam Fender announces UK and Ireland ‘Proper Massive Stadium Tour’ for summer 2027 - NME",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWmZSeVNoYncwclc0cWF5dU1KaTVZR0xzaDFMUzF6RGJOZTh1MmxKaG5tbFJRNzNUaUpGR0lQZzljNGdnLW5hSGxRS1pCaHJJUHhlYXRyUFdQaGlRdXg2QUVXeUJHZkZLeG5ab0s1WFp0SjlIckJVXzV5eEdTVkxEMnpkS1cyLXd5bnNPUkI1clN3QS1peUE5NV9EWm5XME44WVlRNk54QTF1MXM5Tk9rYVNvazNJR3RtR1RGUTZRaWU5OGVmQjZkVFZ6aEhaZw?oc=5",
-    "publishedAt": "2026-10-21T08:59:35.000Z",
-    "summary": "Sam Fender announces UK and Ireland ‘Proper Massive Stadium Tour’ for summer 2027 NME",
     "image": null
   },
   {
@@ -468,15 +549,6 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMi_gFBVV95cUxQa193bndqT01aSUVtVDFnTFFOZEFMNThnTmdjMVNvdXB2WE9rY2dUNWZ1cVVMX2NTV1JfVHVqeGtMR1VwZXpDX1MyVWZPRnVxcHJjZEk1YUpsUU84M0FrNnN3MTdOSkt4XzdVLXlsWDNFaHdsdnpuR2trMk14Vl9VUC1xNk9pR2RRNXBIRTZrRERGZVZrcjc0VVplcjJ6SnRlV1FfWk1ZbEpBeWVES3hHSFVEQ2RCRWU5eEdDVzZyRlNZTW1CZ2xRM3BWNDI2eHlHcENiTzRWYnpWamZTbThoZ1dyYm1XdW1wLVlKSlRRUTFaT0ZMMWdfOUpKVjY0dw?oc=5",
-    "source": "nme",
-    "title": "FKA Twigs announced as Southbank's Meltdown 2027 curator, with special guests to curate 'Hometown' grassroots events across the UK - NME",
-    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQa193bndqT01aSUVtVDFnTFFOZEFMNThnTmdjMVNvdXB2WE9rY2dUNWZ1cVVMX2NTV1JfVHVqeGtMR1VwZXpDX1MyVWZPRnVxcHJjZEk1YUpsUU84M0FrNnN3MTdOSkt4XzdVLXlsWDNFaHdsdnpuR2trMk14Vl9VUC1xNk9pR2RRNXBIRTZrRERGZVZrcjc0VVplcjJ6SnRlV1FfWk1ZbEpBeWVES3hHSFVEQ2RCRWU5eEdDVzZyRlNZTW1CZ2xRM3BWNDI2eHlHcENiTzRWYnpWamZTbThoZ1dyYm1XdW1wLVlKSlRRUTFaT0ZMMWdfOUpKVjY0dw?oc=5",
-    "publishedAt": "2026-10-20T18:01:16.000Z",
-    "summary": "FKA Twigs announced as Southbank's Meltdown 2027 curator, with special guests to curate 'Hometown' grassroots events across the UK NME",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/arab-strap-howard-assembly-room-leeds-live-review/",
     "source": "louder-than-war",
     "title": "Arab Strap: Howard Assembly Room, Leeds – Live Review",
@@ -504,48 +576,12 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZE1yalBkeTF1a0pmbzA1V1R1UE51NzdkV2kzQkxlU2FlQ19vTkZQTDlQMUpiMHBTbi16QmxNVUxYaHdUSkJhdGxOaHJtNjRVOGltLUtKd2NoT3hIMTk0dmtMTVFlQjM3Ni1WM1R4TzZNNlFocG56aTllSlZSbjEyRHh6U2VJYm5HQTRHa1I0ZFpLOFREdEJVaDdPS3hhX0wzZlpuT2NZaWVtRmFhLVBYN19HU3FiQjB2cTNJ?oc=5",
-    "source": "nme",
-    "title": "Doves' Jez Williams talks debut solo album 'Life Of Me And You': \"It feels like destiny is coming to its starting point\" - NME",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZE1yalBkeTF1a0pmbzA1V1R1UE51NzdkV2kzQkxlU2FlQ19vTkZQTDlQMUpiMHBTbi16QmxNVUxYaHdUSkJhdGxOaHJtNjRVOGltLUtKd2NoT3hIMTk0dmtMTVFlQjM3Ni1WM1R4TzZNNlFocG56aTllSlZSbjEyRHh6U2VJYm5HQTRHa1I0ZFpLOFREdEJVaDdPS3hhX0wzZlpuT2NZaWVtRmFhLVBYN19HU3FiQjB2cTNJ?oc=5",
-    "publishedAt": "2026-10-20T15:01:10.000Z",
-    "summary": "Doves' Jez Williams talks debut solo album 'Life Of Me And You': \"It feels like destiny is coming to its starting point\" NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOEdfUHdodDVpby1jU3dlN0RVR3VXaUo5aWhUeHFaTWNObWRubC12Q1E4WXUwUjRfazFZRU9scXBQNldiY1RKVVJJZlZWakhBWkRaVm5rRnhsby1MNlhQODFMYVhza3l4UFdEY1Q5d2UtanlEd3dpbThHMzhKcFZrTENoU1h4dUlHanpIZ2l5MV9aV01VVjJWN1IzY0hTUzJ6MlVwYVJsWGp6TVQwbVdrUVlWTnNaMWl0RzU4c0hBQmtvUQ?oc=5",
-    "source": "nme",
-    "title": "The Beatles Story: Apple Corps announce huge new immersive fan experience in Liverpool - NME",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOEdfUHdodDVpby1jU3dlN0RVR3VXaUo5aWhUeHFaTWNObWRubC12Q1E4WXUwUjRfazFZRU9scXBQNldiY1RKVVJJZlZWakhBWkRaVm5rRnhsby1MNlhQODFMYVhza3l4UFdEY1Q5d2UtanlEd3dpbThHMzhKcFZrTENoU1h4dUlHanpIZ2l5MV9aV01VVjJWN1IzY0hTUzJ6MlVwYVJsWGp6TVQwbVdrUVlWTnNaMWl0RzU4c0hBQmtvUQ?oc=5",
-    "publishedAt": "2026-10-20T15:00:06.000Z",
-    "summary": "The Beatles Story: Apple Corps announce huge new immersive fan experience in Liverpool NME",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/boardwalk-rock-festival-2027-iron-maiden-korn-bad-omens-more/",
-    "source": "loudwire",
-    "title": "Boardwalk Rock Fest 2027 Features Iron Maiden, Korn + Bad Omens",
-    "url": "https://loudwire.com/boardwalk-rock-festival-2027-iron-maiden-korn-bad-omens-more/",
-    "publishedAt": "2026-10-20T14:57:37.000Z",
-    "summary": "It's an amazing lineup featuring Korn, Bad Omens and a final day that includes headliners Iron Maiden and Judas Priest on the same bill. Continue reading…",
-    "image": null
-  },
-  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMilAFBVV95cUxOdmVNVndKNVBoeTNnV2Y2bllVcmhGTWk3UFRSYkEwRS1ieGd1cl9QSkR1M1lrR21sSW9nMGgwcWw3d2RUX1cwQTRiNlJUQnQ3NjR4NkdFaWlJdGVTWG5zcGtEaW45VXRGWW1FQXpuQTlobmNJUkxwRjVqSzB3U29ZaUw2cFJJaGFMZk9ROEhTZnNkYXk0?oc=5",
     "source": "kerrang",
     "title": "Lambrini Girls drop two contrasting singles, The Basement and Spilt - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdmVNVndKNVBoeTNnV2Y2bllVcmhGTWk3UFRSYkEwRS1ieGd1cl9QSkR1M1lrR21sSW9nMGgwcWw3d2RUX1cwQTRiNlJUQnQ3NjR4NkdFaWlJdGVTWG5zcGtEaW45VXRGWW1FQXpuQTlobmNJUkxwRjVqSzB3U29ZaUw2cFJJaGFMZk9ROEhTZnNkYXk0?oc=5",
     "publishedAt": "2026-10-20T14:34:00.000Z",
     "summary": "Lambrini Girls drop two contrasting singles, The Basement and Spilt Kerrang!",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/2027-rock-metal-festival-cruise-guide/",
-    "source": "loudwire",
-    "title": "2027 Rock + Metal Festival and Cruise Guide",
-    "url": "https://loudwire.com/2027-rock-metal-festival-cruise-guide/",
-    "publishedAt": "2026-10-20T14:12:21.000Z",
-    "summary": "What will be your big musical adventure of 2027? Continue reading…",
     "image": null
   },
   {
@@ -603,15 +639,6 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/slipknot-eloy-casagrande-playing-like-joey-jordison/",
-    "source": "loudwire",
-    "title": "What Slipknot Told Eloy Casagrande About Playing Like Jordison",
-    "url": "https://loudwire.com/slipknot-eloy-casagrande-playing-like-joey-jordison/",
-    "publishedAt": "2026-10-19T20:37:54.000Z",
-    "summary": "If you're going to drum for Slipknot, you have to be prepared to be compared to those who held the position before you. But it's not like the band is necessarily doing that. Continue reading…",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/liines-as-shadows-fall-ep-review/",
     "source": "louder-than-war",
     "title": "LIINES: As Shadows Fall – EP Review",
@@ -657,15 +684,6 @@
     "image": null
   },
   {
-    "id": "louder-than-war-https://louderthanwar.com/paddy-smith-could-have-found-grace-album-review/",
-    "source": "louder-than-war",
-    "title": "Paddy Smith: Could Have Found Grace – Album Review",
-    "url": "https://louderthanwar.com/paddy-smith-could-have-found-grace-album-review/",
-    "publishedAt": "2026-10-19T15:05:38.000Z",
-    "summary": "Ireland has always understood the blues, even if it took a while to call it that. A country built on emigration ballads, rebel songs and laments for people and places lost was never going to struggle with music born of hardship. So when the electric blues crossed the Atlantic in the 1960s, Irish musicians did […] The post Paddy Smith: Could Have Found Grace – Album Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOTFqOGFuOFFjUHJJMEF2RnB2bHJZc2d1Uno3anR5Q1pybExIcTAxVmhIb3hIbHY0UHFOQnNkdWEyYjJsX0hrVHBpTVdlOTRMWHNiTXd3Yy1ob05uSDlkcjZRbjh1U1BfWHJ5TmNfUHNDTmZFOENKNjEyRlVvMEY1VlhVRXRpcXdOVWNVenYwQ3hnVV95LUZaY1k1R19Nem9Td09nbWYyaDVVYmQyRVFuNkVhSnZ6eDRINm9xTWRQcFN6SkxaU0swUGZzaGVyc2I4LXA0?oc=5",
     "source": "kerrang",
     "title": "PRESIDENT: “I felt really alone when this all started. Now I feel like there are other people like me” - Kerrang!",
@@ -699,24 +717,6 @@
     "url": "https://www.uncut.co.uk/features/your-week-in-beatles-hamburg-cake-and-the-fool-on-the-hill-156716/",
     "publishedAt": "2026-10-19T07:59:40.000Z",
     "summary": "From German school halls and Beatlemania breakthroughs to Magical Mystery Tour-era experimentation, here's what was happening in the Fabs' world during seven remarkable days in October",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMivAFBVV95cUxOdUM5OEd4YlVXZThaWkR6cTM2QlI2Tld1dnVlZktBRDVHa3dpNEt1dDAyRVVETnFfczgtcFdTYlZqYk9jVWlWOUljbU9BaXRKNjVtU3VRbUFlMnhzdmh6SmFYblBiaV94YW5idU1uNmRwemJEbVVaTDFPOGZWWGluWmxpZFVfWDB2TkNwc2NPdVRzTzVQbWpPclowTmtxb3dLTFFUUFV3M2dVVm9OME1UVHNUc0NVOUhRR2huUw?oc=5",
-    "source": "kerrang",
-    "title": "System Of A Down are teasing something for 2027 - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdUM5OEd4YlVXZThaWkR6cTM2QlI2Tld1dnVlZktBRDVHa3dpNEt1dDAyRVVETnFfczgtcFdTYlZqYk9jVWlWOUljbU9BaXRKNjVtU3VRbUFlMnhzdmh6SmFYblBiaV94YW5idU1uNmRwemJEbVVaTDFPOGZWWGluWmxpZFVfWDB2TkNwc2NPdVRzTzVQbWpPclowTmtxb3dLTFFUUFV3M2dVVm9OME1UVHNUc0NVOUhRR2huUw?oc=5",
-    "publishedAt": "2026-10-18T09:25:00.000Z",
-    "summary": "System Of A Down are teasing something for 2027 Kerrang!",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUVBmaHVJV084enhlWElhcWRiajF2RjlLWFV4TE9zM25wa2otUnE1UERHUFNNaHplYzU3ZWhrOWZuOTFhU0RkazdyYUNtNS1xd0h5dndqSnNBZ2pya3VMeFlnUlZsckM2dkVuODBuckFoLUZUVzh1dS1NN1haaUwyWUZLdmN0QVV1eTJSUk9xMHREQmpxaHdTWk9NRGN2bE1pb1h2RUp5amRFRnRUM2RFNVF6NHluR21qWGM4N2R5bG4?oc=5",
-    "source": "kerrang",
-    "title": "Here’s twenty one pilots’ unbelievable 38-song setlist from Ohio Stadium - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUVBmaHVJV084enhlWElhcWRiajF2RjlLWFV4TE9zM25wa2otUnE1UERHUFNNaHplYzU3ZWhrOWZuOTFhU0RkazdyYUNtNS1xd0h5dndqSnNBZ2pya3VMeFlnUlZsckM2dkVuODBuckFoLUZUVzh1dS1NN1haaUwyWUZLdmN0QVV1eTJSUk9xMHREQmpxaHdTWk9NRGN2bE1pb1h2RUp5amRFRnRUM2RFNVF6NHluR21qWGM4N2R5bG4?oc=5",
-    "publishedAt": "2026-10-18T09:06:00.000Z",
-    "summary": "Here’s twenty one pilots’ unbelievable 38-song setlist from Ohio Stadium Kerrang!",
     "image": null
   }
 ]
