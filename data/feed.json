@@ -1,5 +1,14 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/drake-40th-birthday-backstreet-boys-surprise-performance-1236367504/",
+    "source": "billboard",
+    "title": "Drake Sings ‘I Want It That Way’ With Backstreet Boys at 40th Birthday Bash",
+    "url": "https://www.billboard.com/music/rb-hip-hop/drake-40th-birthday-backstreet-boys-surprise-performance-1236367504/",
+    "publishedAt": "2026-10-24T06:11:30.000Z",
+    "summary": "The rapper capped a week of festivities with a lavish New York celebration — complete with designer gifts and a $1 million game show.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/pro/summer-walker-bebe-rexha-billboard-canada-women-in-music/",
     "source": "billboard",
     "title": "In Canada: Summer Walker, Bebe Rexha to Accept Awards at Billboard Canada Women in Music 2026",
@@ -87,15 +96,6 @@
     "url": "https://www.billboard.com/music/rb-hip-hop/yung-miami-drake-spend-dat-remix-1236367368/",
     "publishedAt": "2026-10-23T20:43:55.000Z",
     "summary": "Kodak Black and Lil Baby hopped on the official remix.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/case-closed-vol-109-billboard-japan-book-hot-100-1236367405/",
-    "source": "billboard",
-    "title": "‘Case Closed’ Vol. 109 Debuts at No. 1 on Billboard Japan Book Hot 100",
-    "url": "https://www.billboard.com/music/chart-beat/case-closed-vol-109-billboard-japan-book-hot-100-1236367405/",
-    "publishedAt": "2026-10-23T20:40:32.000Z",
-    "summary": "Last week’s No. 1, Taiki Kawakami, Fuse & Mitz Vah’s Tensei Shitara Suraimu Datta Ken (That Time I Got Reincarnated as a Slime) Vol. 33, slips to No. 2.",
     "image": null
   },
   {
@@ -360,6 +360,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeUZneDRscW1CLTBGbjN2QUYyS0Q1WWlneE9JN0RTSW4yZ2dkREItd0xldERiU0FiTldKWDk2cUEtNHg3bU5BemJkb2pGUTRkSF91YThoaDNyb0pJeWREaEhBRXBaLV9FWVBwX18zQ3ZXYktvVDNTOFhoRnp1VHgzY1dZSG95SEZ5cWgzRnZBRTJjcjRJVWUzOUppdkVDUl94M0lEYmxPSXNLN0dlSUo2Mlh2Tml1NUY5T3Bn?oc=5",
+    "source": "nme",
+    "title": "Suede tell us about progress on their new \"anarcho-punk\" album: \"These are songs of tribes and belonging\" - NME",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeUZneDRscW1CLTBGbjN2QUYyS0Q1WWlneE9JN0RTSW4yZ2dkREItd0xldERiU0FiTldKWDk2cUEtNHg3bU5BemJkb2pGUTRkSF91YThoaDNyb0pJeWREaEhBRXBaLV9FWVBwX18zQ3ZXYktvVDNTOFhoRnp1VHgzY1dZSG95SEZ5cWgzRnZBRTJjcjRJVWUzOUppdkVDUl94M0lEYmxPSXNLN0dlSUo2Mlh2Tml1NUY5T3Bn?oc=5",
+    "publishedAt": "2026-10-23T11:21:13.000Z",
+    "summary": "Suede tell us about progress on their new \"anarcho-punk\" album: \"These are songs of tribes and belonging\" NME",
+    "image": null
+  },
+  {
     "id": "uncut-https://www.uncut.co.uk/publications/the-new-ultimate-music-guide-bob-dylans-bootleg-series-156762/",
     "source": "uncut",
     "title": "The new Ultimate Music Guide: Bob Dylan’s Bootleg Series",
@@ -573,15 +582,6 @@
     "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNckRJM0xGbkszOEdjLWlobk1zN1E1YWJxMFMxTFBRY0ZoRTM2OEZrM1hhTFJCWmRDN1NZVFVTc1ZNVlItYzdjVjFXME1CODU3LW9SMjJIZXY5by1BTm0yb2Z1emlpYldJUmxEZUUzRThhVE4tU0FtRkQ1OGVkWlVyQTNMU2hkNURmM25USXRqU1VJNTNwWVhHaTNXUFlXN1hQZFZJdDIwRjBrMzFqdFpWZVlPMGp5ZTg0OU4wUVFLRjM1WWlaVUtCal9IWFRCb0RrTC1HdFR0S3JJUktXMVVMYUJnSDZCM1lVWTJURm5ENlMwV2hGdHdQRVBDa0ZUdzN0b3FybDdFWHhqY3kyb2I2OFcxVWlyczJuZWJPOQ?oc=5",
     "publishedAt": "2026-10-22T13:46:59.000Z",
     "summary": "Watch Mark Ronson, Salaam Remi, Corinne Bailey Rae, Jessie Reyez and more celebrate 20 years of 'Back To Black' with Amy Winehouse's band at London's Roundhouse NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa3lWRk9YS3NsbDNqbU11ZjNLeFFBWVNhdjdCb0hPRm9KS1NDMDlkTENMQk1FcXA2UmV1SXR0cU8tQThQWjVENHh1NnRqaFJvc3FoWUNGRTV2NVA5Qk12NFVSdzVWdWozLW9hZlEta0toekhmcHlmSDNqN0cxbk5yR3laV2hTdVhFSzNnX2dPVDBSY3ppalVLbHpPVWxBWEF6UkR0VW5QNFBaa0x3YTNzcV94SXJBOEZJcXFON2dGWkFVUQ?oc=5",
-    "source": "nme",
-    "title": "Talking Heads announce first ever authorised book 'New Feeling' featuring unseen archive material - NME",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa3lWRk9YS3NsbDNqbU11ZjNLeFFBWVNhdjdCb0hPRm9KS1NDMDlkTENMQk1FcXA2UmV1SXR0cU8tQThQWjVENHh1NnRqaFJvc3FoWUNGRTV2NVA5Qk12NFVSdzVWdWozLW9hZlEta0toekhmcHlmSDNqN0cxbk5yR3laV2hTdVhFSzNnX2dPVDBSY3ppalVLbHpPVWxBWEF6UkR0VW5QNFBaa0x3YTNzcV94SXJBOEZJcXFON2dGWkFVUQ?oc=5",
-    "publishedAt": "2026-10-22T13:46:59.000Z",
-    "summary": "Talking Heads announce first ever authorised book 'New Feeling' featuring unseen archive material NME",
     "image": null
   },
   {
