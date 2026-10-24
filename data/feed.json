@@ -1,5 +1,59 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/jay-z-la-night-one-guests-blue-ivy-john-legend-scarface-1236367544/",
+    "source": "billboard",
+    "title": "Jay-Z Brings Out Blue Ivy, John Legend, DJ Khaled & Scarface in Los Angeles",
+    "url": "https://www.billboard.com/music/rb-hip-hop/jay-z-la-night-one-guests-blue-ivy-john-legend-scarface-1236367544/",
+    "publishedAt": "2026-10-24T19:24:38.000Z",
+    "summary": "Night one at SoFi Stadium featured a handful of special guests for his return to L.A.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/elvis-presley-rightsholders-anthropic-lawsuit-infringement-1235647682/",
+    "source": "rolling-stone",
+    "title": "Elvis Presley Rightsholders Sue Anthropic for Training on 274 Songs Without Permission",
+    "url": "https://www.rollingstone.com/music/music-news/elvis-presley-rightsholders-anthropic-lawsuit-infringement-1235647682/",
+    "publishedAt": "2026-10-24T18:28:26.000Z",
+    "summary": "\"The Elvis Plaintiffs are deeply protective of these iconic songs,\" lawyer states in $41 million lawsuit against AI company behind Claude",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-pictures/musicians-on-musicians-event-2026-best-photos-1235647568/",
+    "source": "rolling-stone",
+    "title": "Rolling Stone’s Musicians on Musicians Event 2026: The Best Photos",
+    "url": "https://www.rollingstone.com/music/music-pictures/musicians-on-musicians-event-2026-best-photos-1235647568/",
+    "publishedAt": "2026-10-24T17:49:03.000Z",
+    "summary": "",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-live-reviews/musicians-on-musicians-event-2026-recap-1235647549/",
+    "source": "rolling-stone",
+    "title": "Don Toliver, Malcolm Todd, Alex Warren, and Megan Moroney Rock Rolling Stone’s Musicians on Musicians Event",
+    "url": "https://www.rollingstone.com/music/music-live-reviews/musicians-on-musicians-event-2026-recap-1235647549/",
+    "publishedAt": "2026-10-24T17:22:01.000Z",
+    "summary": "Hosted by SNL’s James Austin Johnson, the sold-out Los Angeles show was full of collaborative performances and candid conversations",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/doja-cat-meta-interview/",
+    "source": "billboard",
+    "title": "Doja Cat Talks About What She Loves About Collaborating With SZA & Performing With Latto",
+    "url": "https://www.billboard.com/video/doja-cat-meta-interview/",
+    "publishedAt": "2026-10-24T17:02:22.000Z",
+    "summary": "Doja Cat talks about what she loves about collaborating with SZA on her last album “Vie” with “Take Me Dancing,” what she loves about performing with Latto and how she incorporates the Meta glasses into her everyday fashion.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/2026-bluegrass-music-awards-winners-billy-strings-1235647613/",
+    "source": "rolling-stone",
+    "title": "Billy Strings Can’t Stop Winning at the 2026 Bluegrass Awards",
+    "url": "https://www.rollingstone.com/music/music-features/2026-bluegrass-music-awards-winners-billy-strings-1235647613/",
+    "publishedAt": "2026-10-24T16:29:04.000Z",
+    "summary": "The guitar phenom was named Entertainer of the Year for the fifth time in six years at the annual International Bluegrass Music Association awards in Chattanooga",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/pro/elvis-presley-estate-sues-suno-anthropic/",
     "source": "billboard",
     "title": "Anthropic Sued For Stealing Elvis Presley Music to Train AI: ‘Deeply Protective of These Iconic Songs’",
@@ -90,6 +144,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMivAFBVV95cUxQai1YSXhKaUpiOExuVlVuaWtralVvYkVXcWNIRVE4YkZBYU1sYk1hOTgtckg0UkhGQ0dHMzVCWmdiN2N6XzVNNjJ5Q0RGY0pxSEVzWDkzWTBteEdEdVpiOEJDd0RyTlFEaU11RHN2RTBWZjlEV1REVi1WcW5HLVUzT2dHMTV1RVJUNWVJSGtCdU96bXlnUVoxUHZIYzZwaTNESmtmZFFOZzRXT1QzbkdhdkRvZlB5M0phcU9EMQ?oc=5",
+    "source": "nme",
+    "title": "Macklemore calls for \"free Palestine\" and condemns ICE at first show since Ed Sheeran saga - NME",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQai1YSXhKaUpiOExuVlVuaWtralVvYkVXcWNIRVE4YkZBYU1sYk1hOTgtckg0UkhGQ0dHMzVCWmdiN2N6XzVNNjJ5Q0RGY0pxSEVzWDkzWTBteEdEdVpiOEJDd0RyTlFEaU11RHN2RTBWZjlEV1REVi1WcW5HLVUzT2dHMTV1RVJUNWVJSGtCdU96bXlnUVoxUHZIYzZwaTNESmtmZFFOZzRXT1QzbkdhdkRvZlB5M0phcU9EMQ?oc=5",
+    "publishedAt": "2026-10-24T10:03:42.000Z",
+    "summary": "Macklemore calls for \"free Palestine\" and condemns ICE at first show since Ed Sheeran saga NME",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/rb-hip-hop/drake-40th-birthday-backstreet-boys-surprise-performance-1236367504/",
     "source": "billboard",
     "title": "Drake Sings ‘I Want It That Way’ With Backstreet Boys at 40th Birthday Bash",
@@ -135,24 +198,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/noel-gallagher-chicken-shop-date-vegetarians-paul-mccartney-1236367401/",
-    "source": "billboard",
-    "title": "Noel Gallagher Says ‘F—‘ Vegetarians on ‘Chicken Shop Date’ — With One Very Notable Exception",
-    "url": "https://www.billboard.com/music/music-news/noel-gallagher-chicken-shop-date-vegetarians-paul-mccartney-1236367401/",
-    "publishedAt": "2026-10-23T21:33:09.000Z",
-    "summary": "The Oasis guitarist also recalled how meeting Matthew McConaughey inspired a change in his home decor.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/vince-gill-charlie-handsome-2026-nmpa-gold-platinum-gala/",
-    "source": "billboard",
-    "title": "Vince Gill & Charlie Handsome Lead 2026 NMPA Gold & Platinum Gala Honorees",
-    "url": "https://www.billboard.com/pro/vince-gill-charlie-handsome-2026-nmpa-gold-platinum-gala/",
-    "publishedAt": "2026-10-23T21:19:40.000Z",
-    "summary": "The 2026 National Music Publishers' Association Gold & Platinum Gala, held Thursday, honored over 150 Nashville songwriters.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/stevie-wonder-lawsuit-evict-woman-rent-free-house-1235647480/",
     "source": "rolling-stone",
     "title": "Stevie Wonder Files Lawsuit to Evict Woman Living on His Property Rent-Free for 38 Years",
@@ -171,39 +216,12 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/slayyyter-cancels-european-u-k-tour-laryngitis-vocal-tears-1235647296/",
-    "source": "rolling-stone",
-    "title": "Slayyyter Cancels Remaining European and U.K. Tour Dates Due to Laryngitis and Vocal Cord Tears",
-    "url": "https://www.rollingstone.com/music/music-news/slayyyter-cancels-european-u-k-tour-laryngitis-vocal-tears-1235647296/",
-    "publishedAt": "2026-10-23T18:57:47.000Z",
-    "summary": "“Because of this, I am forced to cancel the remaining U.K./EU dates to avoid permanent damage to my voice,” singer writes",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/red-clay-strays-zach-top-cover-john-anderson-swingin-1235647271/",
-    "source": "rolling-stone",
-    "title": "See Red Clay Strays and Zach Top Pay Tribute to the Late John Anderson",
-    "url": "https://www.rollingstone.com/music/music-country/red-clay-strays-zach-top-cover-john-anderson-swingin-1235647271/",
-    "publishedAt": "2026-10-23T18:22:38.000Z",
-    "summary": "The country-rock band invited Top to join them in a rendition of Anderson's 1983 CMA Single of the Year, \"Swingin'\"",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/slayyyter-cancels-remaining-uk-and-european-tour-dates/",
     "source": "pitchfork",
     "title": "Slayyyter Cancels Remaining UK and European Tour Dates",
     "url": "https://pitchfork.com/story/slayyyter-cancels-remaining-uk-and-european-tour-dates/",
     "publishedAt": "2026-10-23T17:50:01.000Z",
     "summary": "Laryngitis and vocal cord tears are forcing the singer “to go on medication and full vocal rest for at least two weeks”",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/chappell-roan-performance-pinkpantheress-lola-young-1235647178/",
-    "source": "rolling-stone",
-    "title": "Chappell Roan Concludes Benefit Shows With Surprise Duets Featuring PinkPantheress, Lola Young",
-    "url": "https://www.rollingstone.com/music/music-news/chappell-roan-performance-pinkpantheress-lola-young-1235647178/",
-    "publishedAt": "2026-10-23T17:35:44.000Z",
-    "summary": "Roan also joined Caroline Polachek to perform “Look at Me Now,” after kicking off the two-night run with a special Christina Aguilera-assisted duet",
     "image": null
   },
   {
@@ -222,15 +240,6 @@
     "url": "https://loudwire.com/bad-wolves-jolene-featuring-dolly-parton/",
     "publishedAt": "2026-10-23T17:32:50.000Z",
     "summary": "Bad Wolves, with the approval of Dolly Parton's estate, have now issued a version of their cover of 'Jolene' with the late singer's vocals included. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/kacey-musgraves-doechii-lisa-songs-you-need-to-know-1235647140/",
-    "source": "rolling-stone",
-    "title": "Kacey Musgraves, Doechii, Lisa, and All the Songs You Need to Know This Week",
-    "url": "https://www.rollingstone.com/music/music-features/kacey-musgraves-doechii-lisa-songs-you-need-to-know-1235647140/",
-    "publishedAt": "2026-10-23T17:23:57.000Z",
-    "summary": "Looking for the week’s best new music? Check out our Songs You Need to Know playlist",
     "image": null
   },
   {
@@ -387,6 +396,15 @@
     "image": null
   },
   {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMibkFVX3lxTE5TMXc1bHJDR2ZiZE1idG5Ed3FBdDFhcmdPc0FERjI2bWtzT0tpVVpmRlh4cnlBSmxkTVNmeEJSenQtZXpiRXZLMl93QmI3OGZENnFpUGF3aUFnak45bEhDc1ZCTlVsUzFaU09ORDlR?oc=5",
+    "source": "kerrang",
+    "title": "Album review: Like Roses – After It Ends - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TMXc1bHJDR2ZiZE1idG5Ed3FBdDFhcmdPc0FERjI2bWtzT0tpVVpmRlh4cnlBSmxkTVNmeEJSenQtZXpiRXZLMl93QmI3OGZENnFpUGF3aUFnak45bEhDc1ZCTlVsUzFaU09ORDlR?oc=5",
+    "publishedAt": "2026-10-23T11:00:00.000Z",
+    "summary": "Album review: Like Roses – After It Ends Kerrang!",
+    "image": null
+  },
+  {
     "id": "uncut-https://www.uncut.co.uk/publications/the-new-ultimate-music-guide-bob-dylans-bootleg-series-156762/",
     "source": "uncut",
     "title": "The new Ultimate Music Guide: Bob Dylan’s Bootleg Series",
@@ -501,15 +519,6 @@
     "url": "https://loudwire.com/2026-hard-rock-metal-album-release-calendar/",
     "publishedAt": "2026-10-23T04:01:48.000Z",
     "summary": "See all the new releases coming each week of 2026. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMipwFBVV95cUxPOWQ2UjJxeFlTcXFjSXhuTURRYWhfT1Z5WlJQRHowVXFqdXBBTEVUYXJtSHRYSkViR1pNSjNlZW9rWjh3TTdCUUdJQi1BczM1aWo5Yl9hNTBfaFVQRzVvaGljWkNtZFAyTWYyM0I0MWxrLUxpZ1NwNFJ1cHRBT3lGbzZUUXNQR1pjZVNPdXB0eDQwVm5zVjJhRld3S0NCWHdRU3hhOVJuOA?oc=5",
-    "source": "nme",
-    "title": "Raye wins the Mercury Prize 2026: \"Hope is just something that we all need. Music is medicine\" - NME",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOWQ2UjJxeFlTcXFjSXhuTURRYWhfT1Z5WlJQRHowVXFqdXBBTEVUYXJtSHRYSkViR1pNSjNlZW9rWjh3TTdCUUdJQi1BczM1aWo5Yl9hNTBfaFVQRzVvaGljWkNtZFAyTWYyM0I0MWxrLUxpZ1NwNFJ1cHRBT3lGbzZUUXNQR1pjZVNPdXB0eDQwVm5zVjJhRld3S0NCWHdRU3hhOVJuOA?oc=5",
-    "publishedAt": "2026-10-23T01:57:49.000Z",
-    "summary": "Raye wins the Mercury Prize 2026: \"Hope is just something that we all need. Music is medicine\" NME",
     "image": null
   },
   {
@@ -699,15 +708,6 @@
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdmVNVndKNVBoeTNnV2Y2bllVcmhGTWk3UFRSYkEwRS1ieGd1cl9QSkR1M1lrR21sSW9nMGgwcWw3d2RUX1cwQTRiNlJUQnQ3NjR4NkdFaWlJdGVTWG5zcGtEaW45VXRGWW1FQXpuQTlobmNJUkxwRjVqSzB3U29ZaUw2cFJJaGFMZk9ROEhTZnNkYXk0?oc=5",
     "publishedAt": "2026-10-20T14:34:00.000Z",
     "summary": "Lambrini Girls drop two contrasting singles, The Basement and Spilt Kerrang!",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMijgFBVV95cUxNTlpvc3pEX3ViR0pSTmJoVFNpc2R6ZWZHdVBfNjlNTk96b1ozMWRSUTREbGx0ZlpObkNYZ3JsOHhZUWZ1eW9PMVBmT2dLNEp5LVkwVTRNQWpHTXBCdHBXQ0xhSXRYX0hGMlhJQmFQU1dYRXdjYU5nMnZrcF9LUktDU0lYR0lNcFNtU05YakpR?oc=5",
-    "source": "kerrang",
-    "title": "Mirrortalk release atmospheric new single, Calm On The Surface - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTlpvc3pEX3ViR0pSTmJoVFNpc2R6ZWZHdVBfNjlNTk96b1ozMWRSUTREbGx0ZlpObkNYZ3JsOHhZUWZ1eW9PMVBmT2dLNEp5LVkwVTRNQWpHTXBCdHBXQ0xhSXRYX0hGMlhJQmFQU1dYRXdjYU5nMnZrcF9LUktDU0lYR0lNcFNtU05YakpR?oc=5",
-    "publishedAt": "2026-10-20T14:04:00.000Z",
-    "summary": "Mirrortalk release atmospheric new single, Calm On The Surface Kerrang!",
     "image": null
   },
   {
