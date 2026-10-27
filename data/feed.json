@@ -1,11 +1,335 @@
 [
   {
-    "id": "billboard-https://www.billboard.com/culture/tv-film/the-voice-cade-mower-moves-on-after-battle-round-1236368596/",
+    "id": "billboard-https://www.billboard.com/lists/jay-z-super-bowl-halftime-show-dream-setlist/",
     "source": "billboard",
-    "title": "‘The Voice’: Four-Chair Turn Cade Mower Moves on After Battle Round",
-    "url": "https://www.billboard.com/culture/tv-film/the-voice-cade-mower-moves-on-after-battle-round-1236368596/",
-    "publishedAt": "2026-10-27T09:18:09.000Z",
-    "summary": "Mower and 19-year-old Howell were paired by coach Riley Green for the Battle, with Carly Pearce joining Team Riley as a guest adviser.",
+    "title": "Jay-Z’s Super Bowl LXI Halftime Show: Our Dream Setlist",
+    "url": "https://www.billboard.com/lists/jay-z-super-bowl-halftime-show-dream-setlist/",
+    "publishedAt": "2026-10-27T17:15:49.000Z",
+    "summary": "Here's how Brooklyn's most prodigious son can light up the world's biggest stage next year at SoFi Stadium.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/melanie-c-new-album-sweat-spice-girls-1235648616/",
+    "source": "rolling-stone",
+    "title": "How Melanie C Learned to Embrace Sporty Spice",
+    "url": "https://www.rollingstone.com/music/music-features/melanie-c-new-album-sweat-spice-girls-1235648616/",
+    "publishedAt": "2026-10-27T17:04:02.000Z",
+    "summary": "The artist delves into her exuberant solo album, Sweat, the joy of touring again, and tapping into her onstage persona",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/awards/latin-grammy-awards-2026-performers-feid-milo-j-1236368870/",
+    "source": "billboard",
+    "title": "Feid, Milo J, Cristian Castro & More to Perform at 2026 Latin Grammy Awards",
+    "url": "https://www.billboard.com/music/awards/latin-grammy-awards-2026-performers-feid-milo-j-1236368870/",
+    "publishedAt": "2026-10-27T16:50:31.000Z",
+    "summary": "The 27th annual ceremony will air live from Las Vegas in November.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/legal-beat-elvis-presley-neil-young-drake-spotify/",
+    "source": "billboard",
+    "title": "Elvis Presley AI Lawsuit, Neil Young Trump Case, Drake Spotify Ruling & More Music Law News",
+    "url": "https://www.billboard.com/pro/legal-beat-elvis-presley-neil-young-drake-spotify/",
+    "publishedAt": "2026-10-27T16:48:55.000Z",
+    "summary": "In this week's Legal Beat newsletter, The King battles Anthropic, Neil Young sues Trump, Spotify beats a bots case and much more.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/macklemore-free-palestine-show-speeches-mark-ruffalo-1236368791/",
+    "source": "billboard",
+    "title": "Mark Ruffalo, Julian Casablancas & More Make Surprise Speeches at Macklemore’s Free Palestine Show in Dublin",
+    "url": "https://www.billboard.com/music/music-news/macklemore-free-palestine-show-speeches-mark-ruffalo-1236368791/",
+    "publishedAt": "2026-10-27T16:44:45.000Z",
+    "summary": "\"There will be no peace until there's equality,\" the Marvel actor told the crowd.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/the-voice-dakota-cohen-destinee-monroe-evanescence-bring-me-to-life-2026/",
+    "source": "loudwire",
+    "title": "'The Voice' Competitors Battle It Out to Evanescence Classic",
+    "url": "https://loudwire.com/the-voice-dakota-cohen-destinee-monroe-evanescence-bring-me-to-life-2026/",
+    "publishedAt": "2026-10-27T16:42:22.000Z",
+    "summary": "Dakota Cohen and Destinee Monroe delivered a collaborative powerful performance of the Evanescence classic on 'The Voice.' Continue reading…",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/foo-fighters-jimmy-kimmel-window-taylor-hawkins-1235648487/",
+    "source": "rolling-stone",
+    "title": "Foo Fighters Play ‘Window,’ Dave Grohl Talks Taylor Hawkins on ‘Kimmel’",
+    "url": "https://www.rollingstone.com/music/music-news/foo-fighters-jimmy-kimmel-window-taylor-hawkins-1235648487/",
+    "publishedAt": "2026-10-27T16:39:31.000Z",
+    "summary": "Band is performing on the show every night this week",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/neil-young-really-wants-trump-to-stop-playing-rockin-in-the-free-world/",
+    "source": "pitchfork",
+    "title": "Neil Young Really Wants Trump to Stop Playing “Rockin’ in the Free World”",
+    "url": "https://pitchfork.com/story/neil-young-really-wants-trump-to-stop-playing-rockin-in-the-free-world/",
+    "publishedAt": "2026-10-27T16:29:52.000Z",
+    "summary": "He’s suing (again) over the president’s unauthorized use of the song at political rallies",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/songwriters-hall-of-fame-taylor-swift-george-strait-1235648629/",
+    "source": "rolling-stone",
+    "title": "George Strait, Lyle Lovett, and Taylor Swift Join Nashville Songwriters Hall of Fame",
+    "url": "https://www.rollingstone.com/music/music-country/songwriters-hall-of-fame-taylor-swift-george-strait-1235648629/",
+    "publishedAt": "2026-10-27T16:24:03.000Z",
+    "summary": "Strait gave a rare speech, Lyle Lovett praised the late Guy Clark, and Lainey Wilson sang for Swift at the 56th anniversary gala",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/tate-mcrae-housewife-tradwives-tiktok-trend-1235648068/",
+    "source": "rolling-stone",
+    "title": "Are Trad Wives Missing the Point of Tate McRae’s New Song?",
+    "url": "https://www.rollingstone.com/music/music-features/tate-mcrae-housewife-tradwives-tiktok-trend-1235648068/",
+    "publishedAt": "2026-10-27T16:17:22.000Z",
+    "summary": "TikTok creators seem to be misconstruing the Canadian singer's empowered single",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rock/donnie-iris-death-ah-leah-the-rapper-singer-dies-obituary-1236368700/",
+    "source": "billboard",
+    "title": "Donnie Iris, ‘Ah! Leah!’ and ‘The Rapper’ Singer Dies at 83",
+    "url": "https://www.billboard.com/music/rock/donnie-iris-death-ah-leah-the-rapper-singer-dies-obituary-1236368700/",
+    "publishedAt": "2026-10-27T15:46:33.000Z",
+    "summary": "The Pittsburgh favorite announced his retirement from performance just weeks ago after his final gig on Sept. 28.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/tate-mcrae-olivia-rodrigo-chappell-roan-chart-highlights-oct/",
+    "source": "billboard",
+    "title": "Tate McRae, Olivia Rodrigo, Chappell Roan & More: Highlights of This Week’s Billboard Charts",
+    "url": "https://www.billboard.com/lists/tate-mcrae-olivia-rodrigo-chappell-roan-chart-highlights-oct/",
+    "publishedAt": "2026-10-27T15:35:45.000Z",
+    "summary": "All of Billboard’s charts update each Tuesday.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/ariana-grande-swarovski-musical-holiday-campaign-video-1236368690/",
+    "source": "billboard",
+    "title": "Ariana Grande Shines Brighter Than a Christmas Tree in Luxury Brand’s Musical Holiday Spectacular Campaign Video",
+    "url": "https://www.billboard.com/music/music-news/ariana-grande-swarovski-musical-holiday-campaign-video-1236368690/",
+    "publishedAt": "2026-10-27T15:30:41.000Z",
+    "summary": "Swarovski has unveiled its latest collaboration with the singer.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/listen-to-mj-lenderman-cover-lambchops-weakened/",
+    "source": "pitchfork",
+    "title": "Listen to MJ Lenderman Cover Lambchop’s “Weakened”",
+    "url": "https://pitchfork.com/story/listen-to-mj-lenderman-cover-lambchops-weakened/",
+    "publishedAt": "2026-10-27T15:27:33.000Z",
+    "summary": "From the veteran Nashville band's new covers EP Demoed",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/50-cent-sues-rick-ross-ex-over-posts-about-teenage-son/",
+    "source": "billboard",
+    "title": "50 Cent Sues Rick Ross Ex in $6M Defamation Lawsuit Over ‘Offensive’ Posts About Teenage Son",
+    "url": "https://www.billboard.com/pro/50-cent-sues-rick-ross-ex-over-posts-about-teenage-son/",
+    "publishedAt": "2026-10-27T15:26:29.000Z",
+    "summary": "The star has launched coast-to-coast legal actions against Tia Kemp over ugly social media posts about his son Sire Jackson.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/billboard-top-soundtracks-chart-most-weeks-no-1-full-list/",
+    "source": "billboard",
+    "title": "‘KPop Demon Hunters’ Extends Record for Most Weeks at No. 1 on Billboard’s Soundtracks Chart: Full List",
+    "url": "https://www.billboard.com/lists/billboard-top-soundtracks-chart-most-weeks-no-1-full-list/",
+    "publishedAt": "2026-10-27T15:15:00.000Z",
+    "summary": "The K-pop megahit has had a \"Golden\" chart run.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/bet-revamps-soul-train-awards-couldnt-be-granddaddy-show/",
+    "source": "billboard",
+    "title": "BET Revamps the Soul Train Awards: ‘We Knew This Couldn’t Be a Granddaddy’ Show",
+    "url": "https://www.billboard.com/pro/bet-revamps-soul-train-awards-couldnt-be-granddaddy-show/",
+    "publishedAt": "2026-10-27T15:07:25.000Z",
+    "summary": "Following a two-year hiatus, the awards franchise will air on Nov. 27.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/davie-bowie-stage-immersive-experience-berlin-1235648423/",
+    "source": "rolling-stone",
+    "title": "David Bowie’s 1978 Tour to Become Immersive Experience in Berlin",
+    "url": "https://www.rollingstone.com/music/music-news/davie-bowie-stage-immersive-experience-berlin-1235648423/",
+    "publishedAt": "2026-10-27T15:05:10.000Z",
+    "summary": "Filmmaker Brett Morgen, who made Moonage Daydream, found footage for Stage that will be projected on three screens with concert lighting in Berlin’s Uber Arena",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/kiss-end-of-the-road-tour-documentary-trailer-1235648469/",
+    "source": "rolling-stone",
+    "title": "Kiss Take Their Curtain Call in New ‘End of the Road’ Doc Trailer",
+    "url": "https://www.rollingstone.com/music/music-news/kiss-end-of-the-road-tour-documentary-trailer-1235648469/",
+    "publishedAt": "2026-10-27T15:03:35.000Z",
+    "summary": "The film, premiering Nov. 19, follows the legendary band in the lead-up to the last show on their 2023 farewell tour",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/neil-young-lawsuit-donald-trump/",
+    "source": "loudwire",
+    "title": "Neil Young Files $10M Lawsuit Against Donald Trump Campaign",
+    "url": "https://loudwire.com/neil-young-lawsuit-donald-trump/",
+    "publishedAt": "2026-10-27T14:52:48.000Z",
+    "summary": "Neil Young has taken legal action over the usage of 'Rockin' in the Free World' at a Trump rally earlier this month. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "uncut-https://www.uncut.co.uk/news/david-bowies-1978-stage-tour-to-be-recreated-in-immersive-arena-experience-156798/",
+    "source": "uncut",
+    "title": "David Bowie’s 1978 Stage tour to be recreated in immersive arena experience",
+    "url": "https://www.uncut.co.uk/news/david-bowies-1978-stage-tour-to-be-recreated-in-immersive-arena-experience-156798/",
+    "publishedAt": "2026-10-27T14:51:57.000Z",
+    "summary": "Previously unseen footage from his celebrated 1978 Isolar II tour premiers in Berlin next February",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/shelved-david-bowie-concert-film-revived-for-immersive-live-show/",
+    "source": "pitchfork",
+    "title": "Shelved David Bowie Concert Film Revived for Immersive Live Show",
+    "url": "https://pitchfork.com/story/shelved-david-bowie-concert-film-revived-for-immersive-live-show/",
+    "publishedAt": "2026-10-27T14:48:01.000Z",
+    "summary": "Moonage Daydream director Brett Morgen has remastered the unreleased 1978 film “Stage” for a multi-screen extravaganza",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/mickey-thomas-starship-interview-we-built-this-city-1235647687/",
+    "source": "rolling-stone",
+    "title": "Mickey Thomas Is Happy to Be the Voice of Starship. (And Nothing’s Gonna Stop Him Now)",
+    "url": "https://www.rollingstone.com/music/music-features/mickey-thomas-starship-interview-we-built-this-city-1235647687/",
+    "publishedAt": "2026-10-27T14:42:28.000Z",
+    "summary": "The powerful pipes behind \"Sara,\" \"Nothing's Gonna Stop Us Now,\" and \"We Built This City\" continues to tour heavily as the band's leader — even if Grace Slick won't take his calls",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/meshuggah-2027-tour-testament-blood-incantation/",
+    "source": "loudwire",
+    "title": "Meshuggah Announce 40th Anniversary Tour in 2027",
+    "url": "https://loudwire.com/meshuggah-2027-tour-testament-blood-incantation/",
+    "publishedAt": "2026-10-27T14:00:04.000Z",
+    "summary": "Get details on where you can see Meshuggah playing with Testament and Blood Incantation in 2027. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "uncut-https://www.uncut.co.uk/news/hear-mj-lenderman-sing-lambchop-weakened-from-the-bands-new-demoed-ep-156772/",
+    "source": "uncut",
+    "title": "Hear MJ Lenderman sing Lambchop’s “Weakened”, from the new Demoed EP",
+    "url": "https://www.uncut.co.uk/news/hear-mj-lenderman-sing-lambchop-weakened-from-the-bands-new-demoed-ep-156772/",
+    "publishedAt": "2026-10-27T14:00:00.000Z",
+    "summary": "Features demos of songs from their recent Punching The Clown album, sung by the likes of Alan Sparhawk and Circuit des Yeux",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/ryan-gosling-dead-mans-bones-new-song-lost-in-the-night-1235648447/",
+    "source": "rolling-stone",
+    "title": "Ryan Gosling’s Band Dead Man’s Bones Get ‘Lost in the Night’ on First Song in 17 Years",
+    "url": "https://www.rollingstone.com/music/music-news/ryan-gosling-dead-mans-bones-new-song-lost-in-the-night-1235648447/",
+    "publishedAt": "2026-10-27T13:50:51.000Z",
+    "summary": "Gosling and his bandmate Zach Shields haven’t released any music since their 2009 debut album",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/best-album-college-rock-bands/",
+    "source": "loudwire",
+    "title": "The Best Album by 20 Legendary College Rock Bands",
+    "url": "https://loudwire.com/best-album-college-rock-bands/",
+    "publishedAt": "2026-10-27T13:25:36.000Z",
+    "summary": "From the underground to legendary status, we take a look at the best records from 20 bands who led the college rock era. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV3RvWkpnOHNYY2lHMkMtOTMzTEFsMk5yV21tUkxGUWlDZ2pVMHd1ZF9mUnBUYnhIQUQ4dDFXTm9mUHdVMElxbFJFMkhXbkhBb0RsS1lERGJOMEFtVDBlc1VkYXJPeDNhMHRFdHp2aVdBdXpIQW1iTWJFWEhhTm9nOXloTjJNN25LZ255TnRXY0g5UFlkMjdQLXd6ZHhYRWRVRW5SV0N3cjhMekNMczAxTHYzcVhrRU9EbWk2QlZBOVllTkVkNklWbjZBcG9MajBx?oc=5",
+    "source": "nme",
+    "title": "Jay-Z chooses himself to headline Super Bowl halftime show with U2 playing Thanksgiving Eve game - NME",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV3RvWkpnOHNYY2lHMkMtOTMzTEFsMk5yV21tUkxGUWlDZ2pVMHd1ZF9mUnBUYnhIQUQ4dDFXTm9mUHdVMElxbFJFMkhXbkhBb0RsS1lERGJOMEFtVDBlc1VkYXJPeDNhMHRFdHp2aVdBdXpIQW1iTWJFWEhhTm9nOXloTjJNN25LZ255TnRXY0g5UFlkMjdQLXd6ZHhYRWRVRW5SV0N3cjhMekNMczAxTHYzcVhrRU9EbWk2QlZBOVllTkVkNklWbjZBcG9MajBx?oc=5",
+    "publishedAt": "2026-10-27T13:19:16.000Z",
+    "summary": "Jay-Z chooses himself to headline Super Bowl halftime show with U2 playing Thanksgiving Eve game NME",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-lists/best-rock-songs-of-the-21st-century-1235634033/",
+    "source": "rolling-stone",
+    "title": "The 200 Greatest Rock Songs of the 21st Century So Far",
+    "url": "https://www.rollingstone.com/music/music-lists/best-rock-songs-of-the-21st-century-1235634033/",
+    "publishedAt": "2026-10-27T13:01:30.000Z",
+    "summary": "From dance-floor glam to gritty punk, from psychedelic jams to acoustic storytellers, and more",
+    "image": null
+  },
+  {
+    "id": "uncut-https://www.uncut.co.uk/features/these-are-the-worlds-richest-singers-but-who-has-the-biggest-fortune-156779/",
+    "source": "uncut",
+    "title": "These are the world’s richest singers – but who has the biggest fortune?",
+    "url": "https://www.uncut.co.uk/features/these-are-the-worlds-richest-singers-but-who-has-the-biggest-fortune-156779/",
+    "publishedAt": "2026-10-27T12:40:30.000Z",
+    "summary": "Welcome to the billionaire's club",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/factory-floor-return-with-first-album-in-10-years/",
+    "source": "pitchfork",
+    "title": "Factory Floor Return With First Album in 10 Years",
+    "url": "https://pitchfork.com/story/factory-floor-return-with-first-album-in-10-years/",
+    "publishedAt": "2026-10-27T12:13:43.000Z",
+    "summary": "Listen to “Continuation” and the title track from One Trip",
+    "image": null
+  },
+  {
+    "id": "louder-than-war-https://louderthanwar.com/ten-tunes-by-artists-that-performed-at-this-years-swn-festival-in-cardiff/",
+    "source": "louder-than-war",
+    "title": "Ten tunes by artists that performed at this years Sŵn Festival in Cardiff.",
+    "url": "https://louderthanwar.com/ten-tunes-by-artists-that-performed-at-this-years-swn-festival-in-cardiff/",
+    "publishedAt": "2026-10-27T12:10:33.000Z",
+    "summary": "It’s not just the music by the bands that were seen at this year’s Sŵn Festival in Cardiff that have taken up a lot of our listening habits recently. Some of the tunes performed over the three-day event we still haven’t seen played live yet due to not being able to be in two places […] The post Ten tunes by artists that performed at this years Sŵn Festival in Cardiff. appeared first on Louder Than War.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/bruce-dickinson-2027-tour-dates/",
+    "source": "loudwire",
+    "title": "Iron Maiden's Bruce Dickinson Announces Massive 2027 Solo Tour",
+    "url": "https://loudwire.com/bruce-dickinson-2027-tour-dates/",
+    "publishedAt": "2026-10-27T11:50:34.000Z",
+    "summary": "The tour will include music from an as-yet announced new album that he promised would be 'heavy as s---.' Continue reading…",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMi6gFBVV95cUxORnhHY1ZWblFrUWVCdEJkejdCdlo2OVF0WnF5aU5NV3ZsaGM0SW1LaW5ZaWZRQnAwR25lbWtPM2xnTmVOZHVXaGxYcFJFdmVCNktmRTNCckZicGRja09aVHl2WUlDRTNaUGhBNko0T0hjMkxBa0hJQ1A0Y3JmRmNxUDFhV2wwX0hVZWNrdV9Oc2gzQWVBX2RLWGRSY08xaWRKaTFVQkFCSmdyRWk0TXJBVTVMTG1ndkhKdEJhUVMzN3JNSkNXZlBEbUFBMUxmTGRwYWVKcGF3cDNsWUZmRmRYRGN3YnByUmFnRFE?oc=5",
+    "source": "nme",
+    "title": "Legendary unseen 1978 David Bowie concert 'Stage' to hit arenas as \"global immersive experience\", made with Brett Morgen - NME",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORnhHY1ZWblFrUWVCdEJkejdCdlo2OVF0WnF5aU5NV3ZsaGM0SW1LaW5ZaWZRQnAwR25lbWtPM2xnTmVOZHVXaGxYcFJFdmVCNktmRTNCckZicGRja09aVHl2WUlDRTNaUGhBNko0T0hjMkxBa0hJQ1A0Y3JmRmNxUDFhV2wwX0hVZWNrdV9Oc2gzQWVBX2RLWGRSY08xaWRKaTFVQkFCSmdyRWk0TXJBVTVMTG1ndkhKdEJhUVMzN3JNSkNXZlBEbUFBMUxmTGRwYWVKcGF3cDNsWUZmRmRYRGN3YnByUmFnRFE?oc=5",
+    "publishedAt": "2026-10-27T11:02:13.000Z",
+    "summary": "Legendary unseen 1978 David Bowie concert 'Stage' to hit arenas as \"global immersive experience\", made with Brett Morgen NME",
+    "image": null
+  },
+  {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMihgFBVV95cUxQbm9ackFhenpSMTlWRmFBZl90Z0VmQVFoQVhva0FWQ2UzWThsWFZfdUZyV1R0ZXRVTUpZUzdjaXZmbVVYWkc5NWt4cGdQZGtwbUpEWGJYSEVqdDU5d0ZGSWx5akJaSlh1S3B5R2VQODNOMlFuczNTSk9IaTc5RnJqQUo3TWhkUQ?oc=5",
+    "source": "kerrang",
+    "title": "Bruce Dickinson announces PsychoGod UK and Europe shows - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbm9ackFhenpSMTlWRmFBZl90Z0VmQVFoQVhva0FWQ2UzWThsWFZfdUZyV1R0ZXRVTUpZUzdjaXZmbVVYWkc5NWt4cGdQZGtwbUpEWGJYSEVqdDU5d0ZGSWx5akJaSlh1S3B5R2VQODNOMlFuczNTSk9IaTc5RnJqQUo3TWhkUQ?oc=5",
+    "publishedAt": "2026-10-27T10:49:49.000Z",
+    "summary": "Bruce Dickinson announces PsychoGod UK and Europe shows Kerrang!",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMinAFBVV95cUxPZzJaaGhUbTVLTHlCQWZrbHhSOWJOdTBzR29tMUhsTUtOdU0wQlRaQ0hVT1Jod1RlNXhwSnZCak5PeUtoc0JEMkZ4MUdEUjRTakJuenNzYXRpWjZSRTFUZ3B0TnNsZGdVYVczSkEzbWl1NFFlX2hOWmhmUFg5bFhzTTE3S212NE1HNkVuOXdyelFZOEtsdXZQblBJM3Q?oc=5",
+    "source": "nme",
+    "title": "Glasvegas return with the anthemic 'Degüello' and tell us about first album in six years, 'Airy Fairy' - NME",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZzJaaGhUbTVLTHlCQWZrbHhSOWJOdTBzR29tMUhsTUtOdU0wQlRaQ0hVT1Jod1RlNXhwSnZCak5PeUtoc0JEMkZ4MUdEUjRTakJuenNzYXRpWjZSRTFUZ3B0TnNsZGdVYVczSkEzbWl1NFFlX2hOWmhmUFg5bFhzTTE3S212NE1HNkVuOXdyelFZOEtsdXZQblBJM3Q?oc=5",
+    "publishedAt": "2026-10-27T10:00:50.000Z",
+    "summary": "Glasvegas return with the anthemic 'Degüello' and tell us about first album in six years, 'Airy Fairy' NME",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMiowFBVV95cUxOcEp4aEhwTTFEY3lhV1MyNTRucTA0Vmt1U0QyLU5DWTJHRjVLOWFtSDVUTWZJd1BjRnFPb1ZjUXo5ZUliNW1GcFBUeEE2QUY4OVZjclFENlh5MjhOSkNrMUU4WkxfOGpIM0YyTTNpdTZGVm0yUTZnWXlOaTc1aDBub2l0dmhKVm10aTNhQS0xVTJveHExdTViMnVaYWJNbk5YTjNr?oc=5",
+    "source": "nme",
+    "title": "‘Ali G: Who Iz I?’ dumped on streaming just five days after cinema release - NME",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcEp4aEhwTTFEY3lhV1MyNTRucTA0Vmt1U0QyLU5DWTJHRjVLOWFtSDVUTWZJd1BjRnFPb1ZjUXo5ZUliNW1GcFBUeEE2QUY4OVZjclFENlh5MjhOSkNrMUU4WkxfOGpIM0YyTTNpdTZGVm0yUTZnWXlOaTc1aDBub2l0dmhKVm10aTNhQS0xVTJveHExdTViMnVaYWJNbk5YTjNr?oc=5",
+    "publishedAt": "2026-10-27T09:48:22.000Z",
+    "summary": "‘Ali G: Who Iz I?’ dumped on streaming just five days after cinema release NME",
     "image": null
   },
   {
@@ -18,48 +342,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/awards/taylor-swift-george-strait-nashville-songwriters-hall-fame-1236368579/",
-    "source": "billboard",
-    "title": "Taylor Swift, George Strait, Lee Thomas Miller & More Celebrated During Nashville Songwriters Hall of Fame Gala",
-    "url": "https://www.billboard.com/music/awards/taylor-swift-george-strait-nashville-songwriters-hall-fame-1236368579/",
-    "publishedAt": "2026-10-27T06:17:42.000Z",
-    "summary": "The event was held Oct. 26 in Nashville.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rock/disturbed-the-sickness-australia-new-zealand-tour-1236368583/",
-    "source": "billboard",
-    "title": "Disturbed to Play ‘The Sickness’ in Full on Australia and New Zealand Tour",
-    "url": "https://www.billboard.com/music/rock/disturbed-the-sickness-australia-new-zealand-tour-1236368583/",
-    "publishedAt": "2026-10-27T06:08:15.000Z",
-    "summary": "The band will perform its 2000 debut start to finish, followed by a greatest-hits set, across seven arena dates in April and May 2027.",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/dead-mans-bones-unveil-first-new-song-in-17-years/",
     "source": "pitchfork",
     "title": "Dead Man’s Bones Unveil First New Song in 17 Years",
     "url": "https://pitchfork.com/story/dead-mans-bones-unveil-first-new-song-in-17-years/",
     "publishedAt": "2026-10-27T05:10:37.000Z",
     "summary": "The duo of Ryan Gosling and Zach Shields return with “Lost in the Night”",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/taylor-swift-nashville-songwriters-hall-of-fame-speech-1236368575/",
-    "source": "billboard",
-    "title": "Taylor Swift Says Nashville Songwriters ‘Raised Me’ During Hall of Fame Induction",
-    "url": "https://www.billboard.com/music/music-news/taylor-swift-nashville-songwriters-hall-of-fame-speech-1236368575/",
-    "publishedAt": "2026-10-27T03:18:25.000Z",
-    "summary": "Taylor Swift was inducted into the Nashville Songwriters Hall of Fame on Monday night.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/macklemore-hozier-kneecap-free-palestine-benefit-concert-dublin-1236368558/",
-    "source": "billboard",
-    "title": "Macklemore, Hozier and Kneecap Play Sold-Out Free Palestine Benefit Concert in Dublin",
-    "url": "https://www.billboard.com/music/music-news/macklemore-hozier-kneecap-free-palestine-benefit-concert-dublin-1236368558/",
-    "publishedAt": "2026-10-27T02:50:34.000Z",
-    "summary": "The show at Dublin’s 3Arena opened a three-city series raising money for Palestinian aid organizations, with Paris and London to follow this week.",
     "image": null
   },
   {
@@ -72,15 +360,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/jay-z-super-bowl-halftime-2027-headliner-1236368561/",
-    "source": "billboard",
-    "title": "Jay-Z to Headline 2027 Super Bowl Halftime Show: ‘GOAT’s Out of the Bag’",
-    "url": "https://www.billboard.com/music/rb-hip-hop/jay-z-super-bowl-halftime-2027-headliner-1236368561/",
-    "publishedAt": "2026-10-27T02:07:07.000Z",
-    "summary": "After producing the halftime show alongside Roc Nation since 2020, the rapper gives himself the nod for the Feb. 14 Super Bowl.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/jay-z-headline-2027-super-bowl-halftime-show-1235648064/",
     "source": "rolling-stone",
     "title": "Jay-Z to Headline Super Bowl LXI Halftime Show: ‘A Dream Come True’",
@@ -90,111 +369,12 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/neil-young-sues-trump-pac-rockin-in-the-free-world-rally-1235648258/",
-    "source": "rolling-stone",
-    "title": "Neil Young Sues Trump Committee for $10 Million Over Use of ‘Rockin’ in the Free World’",
-    "url": "https://www.rollingstone.com/music/music-news/neil-young-sues-trump-pac-rockin-in-the-free-world-rally-1235648258/",
-    "publishedAt": "2026-10-27T01:30:18.000Z",
-    "summary": "The fundraising committee played the anthem at a rally this month despite a prior settlement barring such use without permission from Young himself, the lawsuit claims",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/sufjan-stevens-makes-first-live-appearance-in-over-eight-years/",
     "source": "pitchfork",
     "title": "Sufjan Stevens Makes First Live Appearance in Over Eight Years",
     "url": "https://pitchfork.com/story/sufjan-stevens-makes-first-live-appearance-in-over-eight-years/",
     "publishedAt": "2026-10-27T01:20:04.000Z",
     "summary": "He played piano at Meg Lui’s show in Kingston, New York",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/blackpink-lisa-playstation-merch-buy-online-limited-edition-1236366129/",
-    "source": "billboard",
-    "title": "LISA Drops New Limited-Edition Merch for Her PlayStation Collab: Shop the BLACKPINK Star’s Designs Online",
-    "url": "https://www.billboard.com/culture/product-recommendations/blackpink-lisa-playstation-merch-buy-online-limited-edition-1236366129/",
-    "publishedAt": "2026-10-27T01:01:59.000Z",
-    "summary": "The partnership features the PS5 wireless controller, a merch line available now exclusively through LISA's official Amazon store and a second merch line available for preorder through PlayStation.",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/taylor-swift-nashville-songwriters-hall-of-fame-speech-1235648096/",
-    "source": "rolling-stone",
-    "title": "Taylor Swift Says ‘There Is No Music Community Like This’ at Nashville Songwriters Hall of Fame Speech",
-    "url": "https://www.rollingstone.com/music/music-news/taylor-swift-nashville-songwriters-hall-of-fame-speech-1235648096/",
-    "publishedAt": "2026-10-27T00:49:58.000Z",
-    "summary": "The superstar was inducted by Brad Paisley on Monday night, marking her second Songwriters Hall of Fame induction of the year",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/taylor-swift-inducted-nashville-songwriters-hall-of-fame-1235648093/",
-    "source": "rolling-stone",
-    "title": "Taylor Swift Inducted Into Nashville Songwriters Hall of Fame: ‘Not Lost on Me How Crazy This Is’",
-    "url": "https://www.rollingstone.com/music/music-news/taylor-swift-inducted-nashville-songwriters-hall-of-fame-1235648093/",
-    "publishedAt": "2026-10-27T00:05:00.000Z",
-    "summary": "The pop superstar was in attendance at the Monday night gala in Music City, where she officially became the youngest-ever member of the Nashville institution",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/macklemore-free-palestine-tour-dublin-performers-1235648074/",
-    "source": "rolling-stone",
-    "title": "Macklemore Launches ‘Free Palestine’ Tour With Hozier and Kneecap in Dublin",
-    "url": "https://www.rollingstone.com/music/music-news/macklemore-free-palestine-tour-dublin-performers-1235648074/",
-    "publishedAt": "2026-10-27T00:03:55.000Z",
-    "summary": "The show kicked off the rapper's series of charity concerts after he was removed from Ed Sheeran's tour for \"free Palestine\" statements — and it featured Sheeran's own backing band",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/ade-2026-cliff-fluet-talk-ai-streaming-fan-engagement/",
-    "source": "billboard",
-    "title": "At ADE 2026, a Top Music Lawyer Talks AI, Independence & What the Biz Can Learn From Radiohead",
-    "url": "https://www.billboard.com/lists/ade-2026-cliff-fluet-talk-ai-streaming-fan-engagement/",
-    "publishedAt": "2026-10-26T23:57:09.000Z",
-    "summary": "Lawyer and music industry analyst Cliff Fluet laid out where power in the music industry is moving and who’s positioned to hold it.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/anthony-edwards-adidas-ad-drake-shots-hasan-minhaj-1236368315/",
-    "source": "billboard",
-    "title": "New Anthony Edwards Ad Takes Shots at Drake: ‘A Certain Bandwagon Fan Is Facing FOMO & Buried in Lawsuits’",
-    "url": "https://www.billboard.com/music/rb-hip-hop/anthony-edwards-adidas-ad-drake-shots-hasan-minhaj-1236368315/",
-    "publishedAt": "2026-10-26T23:00:45.000Z",
-    "summary": "This is the second time the NBA superstar has responded to a Kevin Durant & Drake Nike commercial from earlier this year.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/neil-young-trump-lawsuit-song-midterm-election-rally/",
-    "source": "billboard",
-    "title": "Neil Young Hits Trump With $10M Lawsuit for Playing ‘Rockin’ in the Free World’ at Rally — Again",
-    "url": "https://www.billboard.com/pro/neil-young-trump-lawsuit-song-midterm-election-rally/",
-    "publishedAt": "2026-10-26T22:38:31.000Z",
-    "summary": "“The song is the opposite of everything that Donald J. Trump stands for,” write Young’s attorneys in the copyright infringement complaint.",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/drake-spotify-fake-stream-fraud-lawsuit-dismissed-1235648076/",
-    "source": "rolling-stone",
-    "title": "Judge Dismisses Lawsuit Claiming Spotify Allowed Billions of Fake Streams of Drake’s Music",
-    "url": "https://www.rollingstone.com/music/music-news/drake-spotify-fake-stream-fraud-lawsuit-dismissed-1235648076/",
-    "publishedAt": "2026-10-26T21:31:44.000Z",
-    "summary": "The lawsuit was filed by Snoop Dogg's cousin RBX as a class action",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/jack-antonoff-ed-sheeran-macklemore-tour-1235648117/",
-    "source": "rolling-stone",
-    "title": "Jack Antonoff Knocks Ed Sheeran for Caving to Billionaire’s Demand to Drop Macklemore",
-    "url": "https://www.rollingstone.com/music/music-news/jack-antonoff-ed-sheeran-macklemore-tour-1235648117/",
-    "publishedAt": "2026-10-26T21:11:44.000Z",
-    "summary": "The Bleachers frontman said Sheeran should've canceled his tour instead of bowing to a pressure campaign over Macklemore's Israel-Gaza comments",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/flaming-lips-teardrop-throbs-album-announcement-1235648060/",
-    "source": "rolling-stone",
-    "title": "Flaming Lips Announce First Album in Six Years and Concert Series in U.S. and U.K.",
-    "url": "https://www.rollingstone.com/music/music-news/flaming-lips-teardrop-throbs-album-announcement-1235648060/",
-    "publishedAt": "2026-10-26T20:13:47.000Z",
-    "summary": "“God Will Control the Werewolves” is the first taste of The Teardrop Throbs which arrives Jan. 22 via Third Man Records",
     "image": null
   },
   {
@@ -222,15 +402,6 @@
     "url": "https://loudwire.com/metallica-las-vagas-sphere-residency-videos/",
     "publishedAt": "2026-10-26T19:50:56.000Z",
     "summary": "Metallica is slowly releasing pro-shot videos from their Sphere shows. We chose the moments you have to see in each of the videos so far. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/tate-mcrae-billboard-hot-100-number-two-olivia-rodrigo-1235645932/",
-    "source": "rolling-stone",
-    "title": "Tate McRae Beats Taylor Swift, Olivia Rodrigo in Billboard Hot 100 Race for … Number Two",
-    "url": "https://www.rollingstone.com/music/music-news/tate-mcrae-billboard-hot-100-number-two-olivia-rodrigo-1235645932/",
-    "publishedAt": "2026-10-26T18:44:29.000Z",
-    "summary": "The pop star’s “Housewife” takes the second spot on the chart after Ella Langley’s “Choosin’ Texas”",
     "image": null
   },
   {
@@ -270,15 +441,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/kesha-releases-backstabber-music-video-1235647866/",
-    "source": "rolling-stone",
-    "title": "Kesha Unearths ‘Backstabber’ Music Video After 16 Years",
-    "url": "https://www.rollingstone.com/music/music-news/kesha-releases-backstabber-music-video-1235647866/",
-    "publishedAt": "2026-10-26T17:00:40.000Z",
-    "summary": "The singer gets back behind the wheel of the gold Trans Am an unfaithful friend stole from her all those years ago and revs up for a nuclear night out",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/sophia-stel-is-going-on-the-greatest-tour-of-all-time/",
     "source": "pitchfork",
     "title": "Sophia Stel Is Going on the “Greatest Tour of All Time”",
@@ -306,15 +468,6 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/story/the-weeknd-debuts-hong-kong-in-hong-kong/",
-    "source": "pitchfork",
-    "title": "The Weeknd Debuts “Hong Kong” in Hong Kong",
-    "url": "https://pitchfork.com/story/the-weeknd-debuts-hong-kong-in-hong-kong/",
-    "publishedAt": "2026-10-26T15:25:35.000Z",
-    "summary": "Faye Wong features on the new song, premiered during his four-night run at Kai Tak Stadium",
-    "image": null
-  },
-  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMigwFBVV95cUxPa0tCNXVrc1pLX0wwYjFPLWpjR1FMSWFra051NHF1SE5LaWxtODkteGhGNlhMY3JEOW9GMkxHNGxWaTlBeDRCaHZJS1AxSlZyNnN5ZUFPWnFOelBqTTN3QjNlcXFrQUJvT3p5dTRhWHBSRjhrVmJwb2FtZzJ2Nld4NTk3aw?oc=5",
     "source": "kerrang",
     "title": "Album review: Ministry – Hate To Go (Take Out Or Delivery) - Kerrang!",
@@ -330,15 +483,6 @@
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1YbG9SSjdzNkhVSmRfdXF0V0xGUThBVld5anVjQ0c0VkZwQUg0VTNWT3RCbnpKYkhCOUR4VHdSeXF1c2Y2Sm5rV1V4V3ZNcmV1UkV3QlU3NXdnaWd0cG9XQkxDdk0zaHRqNGQ1X181Q0N3VDhk?oc=5",
     "publishedAt": "2026-10-26T15:18:09.000Z",
     "summary": "Album review: Mason Hill – World So Wonderful Kerrang!",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/throwing-muses-reissue-self-titled-debut-album-for-40th-anniversary/",
-    "source": "pitchfork",
-    "title": "Throwing Muses Reissue Self-Titled Debut Album for 40th Anniversary",
-    "url": "https://pitchfork.com/story/throwing-muses-reissue-self-titled-debut-album-for-40th-anniversary/",
-    "publishedAt": "2026-10-26T15:12:38.000Z",
-    "summary": "Throwing Muses introduced 4AD’s first American signing to the world",
     "image": null
   },
   {
@@ -378,24 +522,6 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/testament-chuck-billy-kiss-fandom-metal-journey-interview/",
-    "source": "loudwire",
-    "title": "Chuck Billy Reflects - '70s Inspiration, Testament Getting Signed",
-    "url": "https://loudwire.com/testament-chuck-billy-kiss-fandom-metal-journey-interview/",
-    "publishedAt": "2026-10-26T14:21:21.000Z",
-    "summary": "Testament's Chuck Billy discusses his KISS fandom, his family's musical background and key moments of the band's career. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/scariest-prog-rock-songs/",
-    "source": "loudwire",
-    "title": "The 11 Scariest Prog Rock Songs",
-    "url": "https://loudwire.com/scariest-prog-rock-songs/",
-    "publishedAt": "2026-10-26T13:42:49.000Z",
-    "summary": "These prog rock compositions are REALLY creepy! Continue reading…",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMinAFBVV95cUxNbG5NRWpFR2dJNEtkRnVCQ3JVZWJhaDRNU2Zic3JUaW42M3k5UmtqQTItckd2eDEyaHN5MmhQc01NZlF5VGtTZ0pfQWNKbDhfVkFQODdNazRnZzliRmMwZDkxeVJxY0tISko2M3RaSW9tY3BZaFVaQnRBMHhPZXZaRkN2d1pVTUpGQkVwcjctYndCRGNXQzZZUlZ3ckw?oc=5",
     "source": "nme",
     "title": "Slayyyter addresses resurfaced racial slurs amid backlash - NME",
@@ -420,15 +546,6 @@
     "url": "https://louderthanwar.com/pulp-announce-sheffield-hallamshire-hotel-takeover/",
     "publishedAt": "2026-10-26T10:22:41.000Z",
     "summary": "Pulp pop up in Sheffield The post Pulp announce Sheffield Hallamshire Hotel takeover appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/perfect-circle-hawaii/",
-    "source": "loudwire",
-    "title": "Win a Trip to Hawaii to See A Perfect Circle in Concert",
-    "url": "https://loudwire.com/perfect-circle-hawaii/",
-    "publishedAt": "2026-10-26T10:00:11.000Z",
-    "summary": "Win a trip to paradise to experience A Perfect Circle in concert. Continue reading…",
     "image": null
   },
   {
@@ -459,84 +576,12 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/story/elvis-presley-catalog-owners-sue-ai-company-anthropic-for-copyright-infringement/",
-    "source": "pitchfork",
-    "title": "Elvis Presley Catalog Owners Sue AI Company Anthropic for Copyright Infringement",
-    "url": "https://pitchfork.com/story/elvis-presley-catalog-owners-sue-ai-company-anthropic-for-copyright-infringement/",
-    "publishedAt": "2026-10-25T18:06:26.000Z",
-    "summary": "The lawsuit claims Anthropic illegally used 274 songs by the King to train its AI model Claude",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/watch-jay-z-bring-out-dr-dre-and-snoop-dogg-at-la-tour-closer/",
-    "source": "pitchfork",
-    "title": "Watch Jay-Z Bring Out Dr. Dre and Snoop Dogg at LA Tour Closer",
-    "url": "https://pitchfork.com/story/watch-jay-z-bring-out-dr-dre-and-snoop-dogg-at-la-tour-closer/",
-    "publishedAt": "2026-10-25T16:57:49.000Z",
-    "summary": "Too $hort, John Legend, Scarface, and Blue Ivy Carter also joined the final Jay-Z 30 shows at SoFi Stadium",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/david-ellefson-megadeth-louder-than-life-rearview-mirror-moment/",
-    "source": "loudwire",
-    "title": "How David Ellefson Felt Seeing Megadeth at Louder Than Life 2026",
-    "url": "https://loudwire.com/david-ellefson-megadeth-louder-than-life-rearview-mirror-moment/",
-    "publishedAt": "2026-10-25T16:49:11.000Z",
-    "summary": "Metal Church bassist David Ellefson explains why sharing the stage with his former band at Louder Than Life 2026 was a \"rearview mirror moment.\" Continue reading…",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/river-of-words-joni-mitchell-at-the-bbc-tom-hagler-book-review/",
     "source": "louder-than-war",
     "title": "River of Words: Joni Mitchell at the BBC – Tom Hagler – Book Review",
     "url": "https://louderthanwar.com/river-of-words-joni-mitchell-at-the-bbc-tom-hagler-book-review/",
     "publishedAt": "2026-10-25T15:11:55.000Z",
     "summary": "River of Words: Joni Mitchell at the BBC – A Life on the Airwaves by Tom Hagler Published by Headline and the BBC | Available now Order here Drawing on decades of BBC interviews, performances and archive recordings, Tom Hagler is ideally placed to tell the story of Joni Mitchell in her own words. In […] The post River of Words: Joni Mitchell at the BBC – Tom Hagler – Book Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/it-was-my-own-fault-jack-osbourne-digital-ozzy-controversy/",
-    "source": "loudwire",
-    "title": "'It Was My Own Fault' - Jack Osbourne on 'Digital Ozzy' Backlash",
-    "url": "https://loudwire.com/it-was-my-own-fault-jack-osbourne-digital-ozzy-controversy/",
-    "publishedAt": "2026-10-25T14:53:53.000Z",
-    "summary": "He also gives more explanation for why the family is continuing with the A.I. Ozzy plan. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ0tKdW8wM1FCbGNhOUpFb2FUWHdGQUNZTFRyUHEtQnFRSHhlbEhWcUs1WnR2dHNKSkdVN0Rmd3FtbHBOTWZQcjNJS2RyMDJwSkNaY3BVOFg3X082TGEzMG5LTGNpcDVGQWdFdmliTkNaTXFMYWt2RnJ4Z2QyVnFQWEpXdF9lVEVjRWhud0JoVEVCR2t3ZGl6N2hzRkhqbGlITGtRWlJVU1c1cFhQcFlJ?oc=5",
-    "source": "nme",
-    "title": "Pulp on their full circle moment with the Mercury Prize and Brian Eno nearly throwing their prize money away - NME",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ0tKdW8wM1FCbGNhOUpFb2FUWHdGQUNZTFRyUHEtQnFRSHhlbEhWcUs1WnR2dHNKSkdVN0Rmd3FtbHBOTWZQcjNJS2RyMDJwSkNaY3BVOFg3X082TGEzMG5LTGNpcDVGQWdFdmliTkNaTXFMYWt2RnJ4Z2QyVnFQWEpXdF9lVEVjRWhud0JoVEVCR2t3ZGl6N2hzRkhqbGlITGtRWlJVU1c1cFhQcFlJ?oc=5",
-    "publishedAt": "2026-10-25T14:25:01.000Z",
-    "summary": "Pulp on their full circle moment with the Mercury Prize and Brian Eno nearly throwing their prize money away NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMiswFBVV95cUxPbk9lV0FTQUFqTXo2a001RG5Nemk4d3N5Vno0VTF5bUhYWWxaVC13bklQWF90M2VfV3NqUnNJRGp1VzYzanhSemluZnhNejlGbmtQQ3ZnT2FBSEpoVUwyeDlMR1dnYmtneTFwMW1xY0tVYm5BSzlwVVBjUUJmTU1kVzFYbks2SnRTd2RxdDBRNXVjV1MxR2hSSUpJUUxFVUhfRXkxbExfdWN2YVV6SUVuZ25VVQ?oc=5",
-    "source": "nme",
-    "title": "Elvis Presley rightsholders sue AI company Anthropic over alleged copyright infringement of 274 songs - NME",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbk9lV0FTQUFqTXo2a001RG5Nemk4d3N5Vno0VTF5bUhYWWxaVC13bklQWF90M2VfV3NqUnNJRGp1VzYzanhSemluZnhNejlGbmtQQ3ZnT2FBSEpoVUwyeDlMR1dnYmtneTFwMW1xY0tVYm5BSzlwVVBjUUJmTU1kVzFYbks2SnRTd2RxdDBRNXVjV1MxR2hSSUpJUUxFVUhfRXkxbExfdWN2YVV6SUVuZ25VVQ?oc=5",
-    "publishedAt": "2026-10-25T11:46:12.000Z",
-    "summary": "Elvis Presley rightsholders sue AI company Anthropic over alleged copyright infringement of 274 songs NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMilwFBVV95cUxOZFZjMlRGcUN0QllXRE9oM2VxOTJyUkZQNzNrbG1TbUZYZnppQ3Y3OUpXbDd6X0pQX1JhVnNJbkJ1X0YtLWZnd01VZS1VWGstMnFTcHJvODlzTFhwWmF3OENhVU1NZ1FxUGYxYUU0c3ZrQ1psXzdrby1lSFhjNFFrZW1iQWE2VV9QejhUV0VVMVJSaFVPUzM0?oc=5",
-    "source": "nme",
-    "title": "Watch Ali G mock Noel Gallagher’s Oasis comeback and try to kick him out of cinema - NME",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZFZjMlRGcUN0QllXRE9oM2VxOTJyUkZQNzNrbG1TbUZYZnppQ3Y3OUpXbDd6X0pQX1JhVnNJbkJ1X0YtLWZnd01VZS1VWGstMnFTcHJvODlzTFhwWmF3OENhVU1NZ1FxUGYxYUU0c3ZrQ1psXzdrby1lSFhjNFFrZW1iQWE2VV9QejhUV0VVMVJSaFVPUzM0?oc=5",
-    "publishedAt": "2026-10-25T10:31:27.000Z",
-    "summary": "Watch Ali G mock Noel Gallagher’s Oasis comeback and try to kick him out of cinema NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ01maVZ0aXBIQW5rNzlhbXpjYnBPT2FRalZ2Z3htVzhoYzFYQnhkQ0FXVWhNTkZSbTZFX2dxQXFZTTRSM0JnSEJHVjJReU5pUVBOUHdpVVE1b2NCZzd4OHVFMDZKdGJ2dWtnb2x1X2hpWEI2R0ZIUWtvYm9zdE00dk1NYzNmS2VQcllQQ0NkSF96MmRrV2NlbEdXd0VPT2w3czRWcGdFYTVUM2cxZ2JaUnFDYnM?oc=5",
-    "source": "nme",
-    "title": "My Chemical Romance face legal action from Dallas Cowboys Cheerleaders over Hollywood Bowl costumes - NME",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ01maVZ0aXBIQW5rNzlhbXpjYnBPT2FRalZ2Z3htVzhoYzFYQnhkQ0FXVWhNTkZSbTZFX2dxQXFZTTRSM0JnSEJHVjJReU5pUVBOUHdpVVE1b2NCZzd4OHVFMDZKdGJ2dWtnb2x1X2hpWEI2R0ZIUWtvYm9zdE00dk1NYzNmS2VQcllQQ0NkSF96MmRrV2NlbEdXd0VPT2w3czRWcGdFYTVUM2cxZ2JaUnFDYnM?oc=5",
-    "publishedAt": "2026-10-25T09:26:57.000Z",
-    "summary": "My Chemical Romance face legal action from Dallas Cowboys Cheerleaders over Hollywood Bowl costumes NME",
     "image": null
   },
   {
@@ -600,15 +645,6 @@
     "url": "https://www.uncut.co.uk/publications/the-new-ultimate-music-guide-bob-dylans-bootleg-series-156762/",
     "publishedAt": "2026-10-23T10:58:34.000Z",
     "summary": "As you’ll read in this new magazine, where 1985’s Biograph opened the door, the mission of the Bootleg Series (18 volumes and counting …) has been to go further into Bob Dylan‘s extremely deep and well-curated vault. Inside it is music from an entire ghost Dylan career, as mesmerizing as the one we previously knew. […]",
-    "image": null
-  },
-  {
-    "id": "louder-than-war-https://louderthanwar.com/gas-kunst-maggoty-lane-or-the-untimely-demise-of-memphis-marsh-single-review/",
-    "source": "louder-than-war",
-    "title": "Gas Kunst: Maggoty Lane: Or, The Untimely Demise of Memphis Marsh – Single Review",
-    "url": "https://louderthanwar.com/gas-kunst-maggoty-lane-or-the-untimely-demise-of-memphis-marsh-single-review/",
-    "publishedAt": "2026-10-23T10:25:24.000Z",
-    "summary": "Zany Northwich combo, Gas Kunst, have delivered an absolute gem of a record – probably the best eighteen-minute Cheshire-based psychedelic rock opera you’ll hear this year. Despite belatedly clocking Gas Kunst as a band to watch, my first up-close-and-personal encounter didn’t go too well. A marquee in a rain-lashed New Mills field was the venue, […] The post Gas Kunst: Maggoty Lane: Or, The Untimely Demise of Memphis Marsh – Single Review appeared first on Louder Than War.",
     "image": null
   },
   {
@@ -681,42 +717,6 @@
     "url": "https://www.uncut.co.uk/reviews/queens-of-the-stone-ages-perfecth-reviewed-rock-of-ages-156750/",
     "publishedAt": "2026-10-22T09:52:22.000Z",
     "summary": "Josh Homme delivers their warmest, wisest and most emotionally direct album yet",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMiekFVX3lxTE9UR3o5eGJSb0xmcjFHUktxdjRpWmduZjktajg4Snd0SEV4SWhzVlY1VS1XRG1yYVZJUm9EX1JYamhCNC1IS0lTTWM3bmNjUVc4UHRFQ0RRZXFnRXNpNFlyRVctUmw2Nm5jZlJyY0xwVEFuTHBPLVdDNHVn?oc=5",
-    "source": "kerrang",
-    "title": "Album review: Wolves In The Throne Room – Estuary - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9UR3o5eGJSb0xmcjFHUktxdjRpWmduZjktajg4Snd0SEV4SWhzVlY1VS1XRG1yYVZJUm9EX1JYamhCNC1IS0lTTWM3bmNjUVc4UHRFQ0RRZXFnRXNpNFlyRVctUmw2Nm5jZlJyY0xwVEFuTHBPLVdDNHVn?oc=5",
-    "publishedAt": "2026-10-22T09:29:00.000Z",
-    "summary": "Album review: Wolves In The Throne Room – Estuary Kerrang!",
-    "image": null
-  },
-  {
-    "id": "uncut-https://www.uncut.co.uk/news/talking-heads-reunite-for-new-book-project-156748/",
-    "source": "uncut",
-    "title": "Talking Heads reunite for new book project",
-    "url": "https://www.uncut.co.uk/news/talking-heads-reunite-for-new-book-project-156748/",
-    "publishedAt": "2026-10-22T09:25:35.000Z",
-    "summary": "Coming next May, it gathers handwritten lyrics, rare photographs, artwork and memorabilia",
-    "image": null
-  },
-  {
-    "id": "uncut-https://www.uncut.co.uk/features/want-to-get-into-jazz-but-dont-know-where-to-start-heres-the-first-21-albums-you-should-buy-156579/",
-    "source": "uncut",
-    "title": "Want to get into jazz but don’t know where to start? Here’s the first 21 albums you should buy",
-    "url": "https://www.uncut.co.uk/features/want-to-get-into-jazz-but-dont-know-where-to-start-heres-the-first-21-albums-you-should-buy-156579/",
-    "publishedAt": "2026-10-22T09:07:28.000Z",
-    "summary": "From Charles Mingus and Thelonious Monk to Sun Ra and Don Cherry, 21 albums that offer different routes into this endlessly rewarding world",
-    "image": null
-  },
-  {
-    "id": "uncut-https://www.uncut.co.uk/news/a-major-new-beatles-attraction-to-open-in-liverpool-156740/",
-    "source": "uncut",
-    "title": "A major new Beatles attraction to open in Liverpool",
-    "url": "https://www.uncut.co.uk/news/a-major-new-beatles-attraction-to-open-in-liverpool-156740/",
-    "publishedAt": "2026-10-20T15:37:37.000Z",
-    "summary": "Plans are afoot for a launch in 2028",
     "image": null
   }
 ]
