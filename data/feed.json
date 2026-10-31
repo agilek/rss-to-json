@@ -1,5 +1,32 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/music-news/lizzo-dolly-parton-jolene-halloween-costume-1236371650/",
+    "source": "billboard",
+    "title": "Lizzo Recreates Dolly Parton’s Iconic ‘Jolene’ Look for Halloween",
+    "url": "https://www.billboard.com/music/music-news/lizzo-dolly-parton-jolene-halloween-costume-1236371650/",
+    "publishedAt": "2026-10-31T20:18:31.000Z",
+    "summary": "\"Dolly, you icon you, thank you for believing in the good of humanity,\" the rapper-singer wrote.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/wwe-nxt-halloween-havoc-2026-how-to-watch-live-online-free-1236369109/",
+    "source": "billboard",
+    "title": "‘NXT Halloween Havoc’ 2026: Here’s Where to Watch WWE Premium Live Event Online",
+    "url": "https://www.billboard.com/culture/product-recommendations/wwe-nxt-halloween-havoc-2026-how-to-watch-live-online-free-1236369109/",
+    "publishedAt": "2026-10-31T20:00:00.000Z",
+    "summary": "There are a number of ways to stream the pro wrestling TV event — watch online for free.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/donald-trump-nicki-minaj-white-house-press-secretary-1236371646/",
+    "source": "billboard",
+    "title": "Donald Trump Weighs In on Nicki Minaj as Potential White House Press Secretary",
+    "url": "https://www.billboard.com/music/rb-hip-hop/donald-trump-nicki-minaj-white-house-press-secretary-1236371646/",
+    "publishedAt": "2026-10-31T18:51:21.000Z",
+    "summary": "The president was asked whether the rapper could take on the role in his administration.",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/deep-purple-postpone-concerts-ian-gillan-medical-emergency-1235650888/",
     "source": "rolling-stone",
     "title": "Deep Purple Postpone Concerts After Singer Ian Gillan’s ‘Medical Emergency’",
@@ -54,21 +81,21 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/latin/valentin-elizalde-hbo-max-docuseries-uplifting-moments-latin-1236371370/",
-    "source": "billboard",
-    "title": "Valentín Elizalde’s Legacy Gets a New HBO Max Docuseries & More Uplifting Moments in Latin Music",
-    "url": "https://www.billboard.com/music/latin/valentin-elizalde-hbo-max-docuseries-uplifting-moments-latin-1236371370/",
-    "publishedAt": "2026-10-31T14:00:00.000Z",
-    "summary": "Plus, Ozuna announces a one-night hometown concert at El Choli, and Rosalía uses her WSJ. Innovator Award moment to send support to Spain.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-features/nicki-minaj-donald-trump-timeline-1235650624/",
     "source": "rolling-stone",
     "title": "A Timeline of Nicki Minaj and Donald Trump’s Bizarre MAGA Alliance",
     "url": "https://www.rollingstone.com/music/music-features/nicki-minaj-donald-trump-timeline-1235650624/",
     "publishedAt": "2026-10-31T14:00:00.000Z",
     "summary": "How did the rapper and the president get so tight? Here's a full look at what led to this",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/latin/valentin-elizalde-hbo-max-docuseries-uplifting-moments-latin-1236371370/",
+    "source": "billboard",
+    "title": "Valentín Elizalde’s Legacy Gets a New HBO Max Docuseries & More Uplifting Moments in Latin Music",
+    "url": "https://www.billboard.com/music/latin/valentin-elizalde-hbo-max-docuseries-uplifting-moments-latin-1236371370/",
+    "publishedAt": "2026-10-31T14:00:00.000Z",
+    "summary": "Plus, Ozuna announces a one-night hometown concert at El Choli, and Rosalía uses her WSJ. Innovator Award moment to send support to Spain.",
     "image": null
   },
   {
@@ -96,6 +123,33 @@
     "url": "https://www.rollingstone.com/music/music-features/faith-hill-come-back-to-country-music-1235650396/",
     "publishedAt": "2026-10-31T13:00:00.000Z",
     "summary": "The Grammy-winning country superstar hasn't released a solo album since 2005. Will she ever return to making music?",
+    "image": null
+  },
+  {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMiywFBVV95cUxQYWlBT1FQRVBHUldHaHJJb1k4WXY2YjJUdVh2X0kwRExfcUxjWXl2dXpDNzRuT2pkQzFtS2xObm1TZjFsTG9TYUI1OGZXV2tzY0g3UmFVYi1HaW5qdkt3eTM3UllIaFVOQ2o3T1hSQjl6aGRPWEdfNnBPckkwR0hEVWc0aG9TNmdJRjRoNS11eWYyQWRUaVphRFFOWDNhazRRZEtpYXotVGlYUjlvN2hTSnRYSjE1LU83SXZHSUxTNWNiUEM1TmRhRUFwWQ?oc=5",
+    "source": "kerrang",
+    "title": "“Welcome To Twilight Town Mall”: Fall Out Boy are teasing something - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYWlBT1FQRVBHUldHaHJJb1k4WXY2YjJUdVh2X0kwRExfcUxjWXl2dXpDNzRuT2pkQzFtS2xObm1TZjFsTG9TYUI1OGZXV2tzY0g3UmFVYi1HaW5qdkt3eTM3UllIaFVOQ2o3T1hSQjl6aGRPWEdfNnBPckkwR0hEVWc0aG9TNmdJRjRoNS11eWYyQWRUaVphRFFOWDNhazRRZEtpYXotVGlYUjlvN2hTSnRYSjE1LU83SXZHSUxTNWNiUEM1TmRhRUFwWQ?oc=5",
+    "publishedAt": "2026-10-31T11:54:14.000Z",
+    "summary": "“Welcome To Twilight Town Mall”: Fall Out Boy are teasing something Kerrang!",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMirAFBVV95cUxObk51Nzg2WkVmQTAtLTVsaUxvdExncDFVb1l4SVNQbDRQbVNhT0lsLWZHd1RPVEJLbVQ0Yzh2TzE5R1JUbmZLczk0UkNvNzg0d1RocGZrdklDNkhlSHhBOHlrMEM2NWdfWXFfVXoyVHhLR2VQLVZTZUN3LTN2RU9qV09tNllLR0tEY3Z2SWRSSV80bnI4VWJ4aUhpaDNMc1dEd3dhRk43aUo2M1o1?oc=5",
+    "source": "nme",
+    "title": "Watch Harry Styles recreate his 2010 'X Factor' audition with Stevie Wonder cover at 'Harryween' show - NME",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObk51Nzg2WkVmQTAtLTVsaUxvdExncDFVb1l4SVNQbDRQbVNhT0lsLWZHd1RPVEJLbVQ0Yzh2TzE5R1JUbmZLczk0UkNvNzg0d1RocGZrdklDNkhlSHhBOHlrMEM2NWdfWXFfVXoyVHhLR2VQLVZTZUN3LTN2RU9qV09tNllLR0tEY3Z2SWRSSV80bnI4VWJ4aUhpaDNMc1dEd3dhRk43aUo2M1o1?oc=5",
+    "publishedAt": "2026-10-31T11:42:43.000Z",
+    "summary": "Watch Harry Styles recreate his 2010 'X Factor' audition with Stevie Wonder cover at 'Harryween' show NME",
+    "image": null
+  },
+  {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVHYtd0NBTGZjcllZQmJLZHp3XzBlQWZqRE15R1Zla1A5SE9vb3I5cnczN2NyckdOalhWbVh2QTRvT19OcjBnUEgyejJxY01QRG1xcllMYnIwcmMyQkJkb0NNdFpzaHdLQi0yaWx2ZFJ3ZHNnaWRaWkh1c2hsbW5Ia1VtX3ZSM2pMOThKR0NjbjBub2ROMjY4MThvX1AwYWYwN3dyOWhReTJmMzh6X2U3YW9NSXVyVElVSGZ5N3BETEhldWJrSjZhbA?oc=5",
+    "source": "kerrang",
+    "title": "Did My Chemical Romance just confirm MCR5? - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVHYtd0NBTGZjcllZQmJLZHp3XzBlQWZqRE15R1Zla1A5SE9vb3I5cnczN2NyckdOalhWbVh2QTRvT19OcjBnUEgyejJxY01QRG1xcllMYnIwcmMyQkJkb0NNdFpzaHdLQi0yaWx2ZFJ3ZHNnaWRaWkh1c2hsbW5Ia1VtX3ZSM2pMOThKR0NjbjBub2ROMjY4MThvX1AwYWYwN3dyOWhReTJmMzh6X2U3YW9NSXVyVElVSGZ5N3BETEhldWJrSjZhbA?oc=5",
+    "publishedAt": "2026-10-31T10:49:14.000Z",
+    "summary": "Did My Chemical Romance just confirm MCR5? Kerrang!",
     "image": null
   },
   {
@@ -155,10 +209,10 @@
   {
     "id": "billboard-https://www.billboard.com/music/pop/harry-styles-harryween-isnt-she-lovely-x-factor-outfit-1236371616/",
     "source": "billboard",
-    "title": "Harry Styles Revives His ‘X Factor’ Audition Look for ‘Isn’t She Lovely’ at Harryween",
+    "title": "Harry Styles Revives His 2010 ‘X Factor’ Audition Look for ‘Isn’t She Lovely’ at Harryween",
     "url": "https://www.billboard.com/music/pop/harry-styles-harryween-isnt-she-lovely-x-factor-outfit-1236371616/",
     "publishedAt": "2026-10-31T05:52:08.000Z",
-    "summary": "The singer recreated his 2010 audition look for the Stevie Wonder cover at Madison Square Garden, the penultimate night of his 30-show residency.",
+    "summary": "The singer dressed like Elvis Presley and recreated his Stevie Wonder cover at Madison Square Garden for the penultimate night of his 30-show residency.",
     "image": null
   },
   {
@@ -204,33 +258,6 @@
     "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
     "publishedAt": "2026-10-31T01:17:00.000Z",
     "summary": "A complete rundown of the most important events across the music business.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/tv-film/joe-budden-law-and-order-cameo-rapper-big-switty-1236371484/",
-    "source": "billboard",
-    "title": "Joe Budden Makes ‘Law & Order’ Cameo as a Rapper Named Big Switty",
-    "url": "https://www.billboard.com/culture/tv-film/joe-budden-law-and-order-cameo-rapper-big-switty-1236371484/",
-    "publishedAt": "2026-10-31T00:23:19.000Z",
-    "summary": "The rapper-turned-podcaster can now add \"actor\" to his résumé, just after he launched a true-crime podcast with L&O creator Dick Wolf.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/best-christmas-gifts-2026-buy-shop-online-1236368800/",
-    "source": "billboard",
-    "title": "The 36 Best Christmas Gifts to Shop Online in 2026",
-    "url": "https://www.billboard.com/culture/product-recommendations/best-christmas-gifts-2026-buy-shop-online-1236368800/",
-    "publishedAt": "2026-10-31T00:05:08.000Z",
-    "summary": "ShopBillboard has the best gift ideas for the holiday season — starting at just $25.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/indie-venue-of-month-jacksonville-haunted-florida-theatre/",
-    "source": "billboard",
-    "title": "Inside Jacksonville’s Historic — And Haunted? — Florida Theatre, Which Turns 100 Next Year",
-    "url": "https://www.billboard.com/pro/indie-venue-of-month-jacksonville-haunted-florida-theatre/",
-    "publishedAt": "2026-10-30T23:48:02.000Z",
-    "summary": "The nearly century-old venue has hosted acts including Elvis Presley, Fleetwood Mac and Bon Jovi — and according to some, it’s home to multiple active spirits.",
     "image": null
   },
   {
@@ -522,15 +549,6 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMiekFVX3lxTFB5Q2cxQXdycFBlazZtbDFvTnVsQWpaOXpsODFuSGNCLTAwOWpOTGZyRndIbE1tQm9MdllsNTBlQk1mbzhqNVNBTGRlbGlOdm90bWhIMjY4OTZrM2dDTkROeXkxNTFLX2dYT2xadXZ4amZnUlVZWkVlMG1R?oc=5",
-    "source": "nme",
-    "title": "Chloe Qisha – ‘Fantasize’ review: horny, theatrical and irresistibly catchy - NME",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5Q2cxQXdycFBlazZtbDFvTnVsQWpaOXpsODFuSGNCLTAwOWpOTGZyRndIbE1tQm9MdllsNTBlQk1mbzhqNVNBTGRlbGlOdm90bWhIMjY4OTZrM2dDTkROeXkxNTFLX2dYT2xadXZ4amZnUlVZWkVlMG1R?oc=5",
-    "publishedAt": "2026-10-30T00:03:08.000Z",
-    "summary": "Chloe Qisha – ‘Fantasize’ review: horny, theatrical and irresistibly catchy NME",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/phoebe-bridgers-announces-madison-square-garden-ep/",
     "source": "pitchfork",
     "title": "Phoebe Bridgers Announces Madison Square Garden EP",
@@ -573,6 +591,15 @@
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1TNWhOZm5VZVZXNmIxOFFzb1J0a3FfZGoxeGI1dmIzb05jZWIzckxFYUxSSlUwVFRBZHM5d3pZYVBZVWlpUEhrMGNUcEpFN3BuX1RCd3p1ZUpLcVdacUlseGRWcms0Q2FiS29CSEo5OVBWUQ?oc=5",
     "publishedAt": "2026-10-29T15:57:34.000Z",
     "summary": "Album review: KABBEL – When The War Is Over Kerrang!",
+    "image": null
+  },
+  {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMidkFVX3lxTE1jRDR4el9XbjJhUTV1RnRIRVBZUENBY3d4SzhNaUd3emZYT1ZCOGtNZDlvem1ZWlU5UWZhaXBXaGppWUZzV0p4NWRxeXJBZmxKc21nRm8ya0NXNU1IUGdGYlNIOUNmU1NJcVV5ZU1EaTdZVnp4VUE?oc=5",
+    "source": "kerrang",
+    "title": "Album review: PISS – you made me / skin on linen - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jRDR4el9XbjJhUTV1RnRIRVBZUENBY3d4SzhNaUd3emZYT1ZCOGtNZDlvem1ZWlU5UWZhaXBXaGppWUZzV0p4NWRxeXJBZmxKc21nRm8ya0NXNU1IUGdGYlNIOUNmU1NJcVV5ZU1EaTdZVnp4VUE?oc=5",
+    "publishedAt": "2026-10-29T15:54:48.000Z",
+    "summary": "Album review: PISS – you made me / skin on linen Kerrang!",
     "image": null
   },
   {
@@ -684,39 +711,12 @@
     "image": null
   },
   {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMisAFBVV95cUxQX2gydzZZQllPUmZQTTFUUmpoSUJjdGdoSl9palJyZjBCekd0UUpZMjdsTjQwd3ZBRno1RDEwYjNIY1E0V3BHQ05JSXZNc0V6dGpIMHluTThKU0NrR2dBenQzXzF1S2Rpa3NEdUJDdjhrTm5GNmRUakFCUHpua0hRY2FzaDgzeHBjVmRqbmpwY3k3Uk96dUlqWkg0Tm5CMV9yNndXcEN4cUIwemh6ZnVmTA?oc=5",
-    "source": "kerrang",
-    "title": "Live review: Korn, Leeds First Direct Arena - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX2gydzZZQllPUmZQTTFUUmpoSUJjdGdoSl9palJyZjBCekd0UUpZMjdsTjQwd3ZBRno1RDEwYjNIY1E0V3BHQ05JSXZNc0V6dGpIMHluTThKU0NrR2dBenQzXzF1S2Rpa3NEdUJDdjhrTm5GNmRUakFCUHpua0hRY2FzaDgzeHBjVmRqbmpwY3k3Uk96dUlqWkg0Tm5CMV9yNndXcEN4cUIwemh6ZnVmTA?oc=5",
-    "publishedAt": "2026-10-27T22:29:03.000Z",
-    "summary": "Live review: Korn, Leeds First Direct Arena Kerrang!",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMiggFBVV95cUxObUdKTXpZT1N3ejQxTjhobU1QOFp1d3UzR0N3NlRiLXdXOEtvVE80UzhNVGh6b0dXVGdMQ2RCWG1PNmRGWWU5UTVvVXc0dnR5QmRvaUpaVV95UEdkcWJNbUl4UFFnSU9FSDk4ajJDSFUxNTZHd2VpX0owT2ttU2k0eDNR?oc=5",
-    "source": "kerrang",
-    "title": "Film review: Ozzy & Black Sabbath: Back To The Beginning - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObUdKTXpZT1N3ejQxTjhobU1QOFp1d3UzR0N3NlRiLXdXOEtvVE80UzhNVGh6b0dXVGdMQ2RCWG1PNmRGWWU5UTVvVXc0dnR5QmRvaUpaVV95UEdkcWJNbUl4UFFnSU9FSDk4ajJDSFUxNTZHd2VpX0owT2ttU2k0eDNR?oc=5",
-    "publishedAt": "2026-10-27T19:55:50.000Z",
-    "summary": "Film review: Ozzy & Black Sabbath: Back To The Beginning Kerrang!",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/news/david-bowies-1978-stage-tour-to-be-recreated-in-immersive-arena-experience-156798/",
     "source": "uncut",
     "title": "David Bowie’s 1978 Stage tour to be recreated in immersive arena experience",
     "url": "https://www.uncut.co.uk/news/david-bowies-1978-stage-tour-to-be-recreated-in-immersive-arena-experience-156798/",
     "publishedAt": "2026-10-27T14:51:57.000Z",
     "summary": "Previously unseen footage from his celebrated 1978 Isolar II tour premiers in Berlin next February",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMihgFBVV95cUxQbm9ackFhenpSMTlWRmFBZl90Z0VmQVFoQVhva0FWQ2UzWThsWFZfdUZyV1R0ZXRVTUpZUzdjaXZmbVVYWkc5NWt4cGdQZGtwbUpEWGJYSEVqdDU5d0ZGSWx5akJaSlh1S3B5R2VQODNOMlFuczNTSk9IaTc5RnJqQUo3TWhkUQ?oc=5",
-    "source": "kerrang",
-    "title": "Bruce Dickinson announces PsychoGod UK and Europe shows - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbm9ackFhenpSMTlWRmFBZl90Z0VmQVFoQVhva0FWQ2UzWThsWFZfdUZyV1R0ZXRVTUpZUzdjaXZmbVVYWkc5NWt4cGdQZGtwbUpEWGJYSEVqdDU5d0ZGSWx5akJaSlh1S3B5R2VQODNOMlFuczNTSk9IaTc5RnJqQUo3TWhkUQ?oc=5",
-    "publishedAt": "2026-10-27T10:49:49.000Z",
-    "summary": "Bruce Dickinson announces PsychoGod UK and Europe shows Kerrang!",
     "image": null
   }
 ]
