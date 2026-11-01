@@ -1,5 +1,167 @@
 [
   {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/my-chemical-romance-black-parade-billboard-200-number-one-1235650097/",
+    "source": "rolling-stone",
+    "title": "My Chemical Romance Tops the Billboard 200 With 20-Year-Old Album",
+    "url": "https://www.rollingstone.com/music/music-news/my-chemical-romance-black-parade-billboard-200-number-one-1235650097/",
+    "publishedAt": "2026-11-01T21:08:58.000Z",
+    "summary": "The rock band's The Black Parade reached the top slot with its 20th anniversary reissue, beating out Olivia Rodrigo",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/top-country-albums-number-ones-biggest/",
+    "source": "billboard",
+    "title": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
+    "url": "https://www.billboard.com/lists/top-country-albums-number-ones-biggest/",
+    "publishedAt": "2026-11-01T20:49:13.000Z",
+    "summary": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/latin/rawayana-venezuelan-halloween-party-new-york-concert-review-1236371750/",
+    "source": "billboard",
+    "title": "Rawayana Throws Venezuelan-Style Halloween Party in NYC, Feat. Guests Cheo Pardo & Yorghaki",
+    "url": "https://www.billboard.com/music/latin/rawayana-venezuelan-halloween-party-new-york-concert-review-1236371750/",
+    "publishedAt": "2026-11-01T20:10:08.000Z",
+    "summary": "Donning wigs and costumes, the trippy-pop band lit up Brooklyn's Barclays Center as part of their ¿Dónde Es El After? World Tour.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/my-chemical-romance-number-one-billboard-200-black-parade-1236371717/",
+    "source": "billboard",
+    "title": "My Chemical Romance Earns First No. 1 Album on Billboard 200 After ‘The Black Parade’ Reissue",
+    "url": "https://www.billboard.com/music/chart-beat/my-chemical-romance-number-one-billboard-200-black-parade-1236371717/",
+    "publishedAt": "2026-11-01T20:00:11.000Z",
+    "summary": "The Black Parade’s 20-year-wait to reach No. 1 is the longest ever for an album.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/juan-atkins-death-techno-music-pioneer-cybotron-dies-1236371734/",
+    "source": "billboard",
+    "title": "Juan Atkins, Techno Pioneer and Cybotron Co-Founder, Dies at 64",
+    "url": "https://www.billboard.com/music/music-news/juan-atkins-death-techno-music-pioneer-cybotron-dies-1236371734/",
+    "publishedAt": "2026-11-01T19:42:47.000Z",
+    "summary": "The DJ and producer helped bring techno to a global audience through Cybotron, Model 500 and the Belleville Three.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/first-billboard-issue-november-1-1894/",
+    "source": "billboard",
+    "title": "The First Billboard: All That Was ‘New, Bright & Interesting on the Boards’",
+    "url": "https://www.billboard.com/pro/first-billboard-issue-november-1-1894/",
+    "publishedAt": "2026-11-01T18:58:55.000Z",
+    "summary": "Looking back at Nov. 1, 1894, when Billboard published its first issue, one that's vastly different from today's magazine and expanded platforms.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-pictures/harryween-harry-styles-photos-msg-1235650951/",
+    "source": "rolling-stone",
+    "title": "Harryween: The Best Photos From Harry Styles’ Final MSG Show",
+    "url": "https://www.rollingstone.com/music/music-pictures/harryween-harry-styles-photos-msg-1235650951/",
+    "publishedAt": "2026-11-01T18:12:13.000Z",
+    "summary": "The singer brought his record-breaking Together, Together residency to a close after 30 nights — and fans went all out.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/metallica-halloween-spooky-sphere-residency-song-debut-setlist-video/",
+    "source": "loudwire",
+    "title": "Metallica Celebrate Halloween With Spooky Sphere Song Debut",
+    "url": "https://loudwire.com/metallica-halloween-spooky-sphere-residency-song-debut-setlist-video/",
+    "publishedAt": "2026-11-01T17:30:48.000Z",
+    "summary": "Last night (Oct. 31), Metallica played a spooky song from 1991's 'Metallica' for the first time during their Las Vegas Sphere residency. Plus, their regular \"Kirk and Rob Doodle\" received a creepy coating! Continue reading…",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/juan-atkins-techno-music-pioneer-cybotron-dead-obituary-1235651028/",
+    "source": "rolling-stone",
+    "title": "Juan Atkins, Techno Music Pioneer, Dead at 64",
+    "url": "https://www.rollingstone.com/music/music-news/juan-atkins-techno-music-pioneer-cybotron-dead-obituary-1235651028/",
+    "publishedAt": "2026-11-01T17:17:49.000Z",
+    "summary": "The originator of Detroit techno, Atkins was a founding member of the pioneering electronic music duo Cybotron and released the influential \"No UFO's\" under his Model 500 moniker",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/best-halloween-costumes-paris-hilton-kim-kardashian/",
+    "source": "billboard",
+    "title": "The Best 2026 Halloween Costumes, From Paris Hilton as Britney Spears to Kim Kardashian as North West",
+    "url": "https://www.billboard.com/lists/best-halloween-costumes-paris-hilton-kim-kardashian/",
+    "publishedAt": "2026-11-01T17:05:55.000Z",
+    "summary": "Boo!",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/brian-may-interview-queen-live-budapest-1235651023/",
+    "source": "rolling-stone",
+    "title": "Brian May Clears Up Queen’s Live Future: ‘I’m on a Break’",
+    "url": "https://www.rollingstone.com/music/music-features/brian-may-interview-queen-live-budapest-1235651023/",
+    "publishedAt": "2026-11-01T16:17:49.000Z",
+    "summary": "In our new interview, the legendary Queen guitarist explains his thoughts on future live shows, while looking back at 'Flash Gordon' and the 'Queen Budapest' performance",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-album-reviews/bigxthaplug-better-over-time-new-album-review-1235649228/",
+    "source": "rolling-stone",
+    "title": "BigXthaPlug Wrestles With Success on ‘Better Over Time’",
+    "url": "https://www.rollingstone.com/music/music-album-reviews/bigxthaplug-better-over-time-new-album-review-1235649228/",
+    "publishedAt": "2026-11-01T16:00:00.000Z",
+    "summary": "The Texas rapper is living large and making hits, but that doesn't always mean life is easy",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/juan-atkins-co-founder-of-techno-music-dies-at-64/",
+    "source": "pitchfork",
+    "title": "Juan Atkins, Co-Founder of Techno Music, Dies at 64",
+    "url": "https://pitchfork.com/story/juan-atkins-co-founder-of-techno-music-dies-at-64/",
+    "publishedAt": "2026-11-01T15:49:25.000Z",
+    "summary": "The Detroit producer and DJ pioneered the genre as a solo artist and member of the Belleville Three, Cybotron, and Borderland",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/my-chemical-romance-2027-plans-new-album-no-shows/",
+    "source": "loudwire",
+    "title": "MCR Confirm 2027 Plans for New Album + 'Probably' No Shows",
+    "url": "https://loudwire.com/my-chemical-romance-2027-plans-new-album-no-shows/",
+    "publishedAt": "2026-11-01T15:45:27.000Z",
+    "summary": "Frontman Gerard Way clarified the band's plans for 2027 during their Oct. 30 show at the Hollywood Bowl (where they also gave a 'Danger Days' B-side its live debut AND reunited with The Used's Bert McCracken)! Continue reading…",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/november-rock-metal-rock-star-birthdays/",
+    "source": "loudwire",
+    "title": "Rock Stars Celebrating Birthdays in November",
+    "url": "https://loudwire.com/november-rock-metal-rock-star-birthdays/",
+    "publishedAt": "2026-11-01T15:00:08.000Z",
+    "summary": "Scroll through to see if you share a birthday with a rock star. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/parker-mccollum-interview-quitting-music-1235650478/",
+    "source": "rolling-stone",
+    "title": "Parker McCollum Says He Wanted to Quit Country Music Right When His Career Was Taking Off",
+    "url": "https://www.rollingstone.com/music/music-features/parker-mccollum-interview-quitting-music-1235650478/",
+    "publishedAt": "2026-11-01T14:30:00.000Z",
+    "summary": "\"I hadn’t been writing and had just been dying out on the road,\" says the Texas songwriter, who surprise-released a rejuvenating acoustic album in October",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/aliexpress-singles-day-sale-2026-best-tech-deals-online-1236371407/",
+    "source": "billboard",
+    "title": "AliExpress’ Singles’ Day Sale Is a Tech Lover’s Dream, From Gaming Consoles to Karaoke Machines",
+    "url": "https://www.billboard.com/culture/product-recommendations/aliexpress-singles-day-sale-2026-best-tech-deals-online-1236371407/",
+    "publishedAt": "2026-11-01T14:00:00.000Z",
+    "summary": "The annual shopping event runs through Nov. 18, bringing deals on music and gaming essentials alongside products from Brand+ sellers.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/disabled-fans-live-music-industry-ada-compliance-1235566027/",
+    "source": "rolling-stone",
+    "title": "Disabled Fans Say the Live-Music Industry Can Do Better: ‘We Are Not a Pain in the Ass’",
+    "url": "https://www.rollingstone.com/music/music-features/disabled-fans-live-music-industry-ada-compliance-1235566027/",
+    "publishedAt": "2026-11-01T14:00:00.000Z",
+    "summary": "The passage of the Americans With Disabilities Act in 1990 has fostered improvements in accessibility. But concertgoers and advocates say there's still a long way to go in reaching true equal access at shows",
+    "image": null
+  },
+  {
     "id": "nme-https://news.google.com/rss/articles/CBMimgFBVV95cUxOM2RRUVF1dHlyNUJqdDJlMmhCaXNBcUh0T2FKOUVkNDYzdVhLN0s2NzBTYjBxdHQ4SXJkZjRmcnk5SEhBclgzTG1ZbVlVV0tXS1NnZE1XVHFUYjE2UFZqdDhJTFJ3aXVjYmotc25VUkthX1JQSFJ4MmRMakh0Wk82UkMyM0dZX0JGR1YyZTZPZ3pZemlzOFU3MmJn?oc=5",
     "source": "nme",
     "title": "Turnstile turned down the chance to tour with Metallica - NME",
@@ -63,39 +225,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/culture/tv-film/snl-nicki-minaj-spoof-trump-cold-open-halloween-1236371672/",
-    "source": "billboard",
-    "title": "‘SNL’ Parodies Nicki Minaj After Her Trump Rally Appearance",
-    "url": "https://www.billboard.com/culture/tv-film/snl-nicki-minaj-spoof-trump-cold-open-halloween-1236371672/",
-    "publishedAt": "2026-11-01T05:06:19.000Z",
-    "summary": "Saidah Belo-Osagie played the rapper days after Minaj joined Trump at a Michigan rally.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/harry-styles-jalen-bruson-banner-msg-psycho-killer-1235648896/",
     "source": "rolling-stone",
     "title": "Harry Styles Honored by Jalen Brunson at Madison Square Garden, Receives 30 Nights Banner",
     "url": "https://www.rollingstone.com/music/music-news/harry-styles-jalen-bruson-banner-msg-psycho-killer-1235648896/",
     "publishedAt": "2026-11-01T03:09:16.000Z",
     "summary": "The singer ended his record-breaking Together, Together residency with a special Halloween show where he also covered \"Psycho Killer\" dressed as a New York City rat",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/snl-inde-navarrette-gracie-abrams-halloween-watch-live-free-1236359709/",
-    "source": "billboard",
-    "title": "Inde Navarrette & Gracie Abrams on ‘SNL’ Halloween Episode: Here’s Where to Watch ‘Saturday Night Live’ Online for Free",
-    "url": "https://www.billboard.com/culture/product-recommendations/snl-inde-navarrette-gracie-abrams-halloween-watch-live-free-1236359709/",
-    "publishedAt": "2026-11-01T00:30:00.000Z",
-    "summary": "Livestream the Obsession actress and pop singer/songwriter on Saturday, Oct. 31 — watch live online for free.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/lizzo-dolly-parton-jolene-halloween-costume-1236371650/",
-    "source": "billboard",
-    "title": "Lizzo Recreates Dolly Parton’s Iconic ‘Jolene’ Look for Halloween",
-    "url": "https://www.billboard.com/music/music-news/lizzo-dolly-parton-jolene-halloween-costume-1236371650/",
-    "publishedAt": "2026-10-31T20:18:31.000Z",
-    "summary": "\"Dolly, you icon you, thank you for believing in the good of humanity,\" the rapper-singer wrote.",
     "image": null
   },
   {
@@ -108,48 +243,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/wwe-nxt-halloween-havoc-2026-how-to-watch-live-online-free-1236369109/",
-    "source": "billboard",
-    "title": "‘NXT Halloween Havoc’ 2026: Here’s Where to Watch WWE Premium Live Event Online",
-    "url": "https://www.billboard.com/culture/product-recommendations/wwe-nxt-halloween-havoc-2026-how-to-watch-live-online-free-1236369109/",
-    "publishedAt": "2026-10-31T20:00:00.000Z",
-    "summary": "There are a number of ways to stream the pro wrestling TV event — watch online for free.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/donald-trump-nicki-minaj-white-house-press-secretary-1236371646/",
-    "source": "billboard",
-    "title": "Donald Trump Weighs In on Nicki Minaj as Potential White House Press Secretary",
-    "url": "https://www.billboard.com/music/rb-hip-hop/donald-trump-nicki-minaj-white-house-press-secretary-1236371646/",
-    "publishedAt": "2026-10-31T18:51:21.000Z",
-    "summary": "The president was asked whether the rapper could take on the role in his administration.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/deep-purple-postpone-concerts-ian-gillan-medical-emergency-1235650888/",
     "source": "rolling-stone",
     "title": "Deep Purple Postpone Concerts After Singer Ian Gillan’s ‘Medical Emergency’",
     "url": "https://www.rollingstone.com/music/music-news/deep-purple-postpone-concerts-ian-gillan-medical-emergency-1235650888/",
     "publishedAt": "2026-10-31T16:38:32.000Z",
     "summary": "Singer hospitalized in Germany following unspecified medical issue; band is currently scheduled to resume tour next week",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rock/deep-purple-ian-gillan-hospitalized-medical-emergency-1236371632/",
-    "source": "billboard",
-    "title": "Deep Purple’s Ian Gillan Hospitalized Following Medical Emergency, Two Shows Postponed",
-    "url": "https://www.billboard.com/music/rock/deep-purple-ian-gillan-hospitalized-medical-emergency-1236371632/",
-    "publishedAt": "2026-10-31T16:38:09.000Z",
-    "summary": "The 81-year-old singer was scheduled to perform in Germany over the weekend.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/florida-vs-georgia-watch-college-football-live-online-free-1236370601/",
-    "source": "billboard",
-    "title": "Atlanta Gridiron Classic 2026: Here’s Where to Watch Florida Gators vs. Georgia Bulldogs Live Online Free",
-    "url": "https://www.billboard.com/culture/product-recommendations/florida-vs-georgia-watch-college-football-live-online-free-1236370601/",
-    "publishedAt": "2026-10-31T16:30:47.000Z",
-    "summary": "Livestream the SEC college football rivalry game on Saturday, Oct. 31 — and possible celebrity sightings at the game.",
     "image": null
   },
   {
@@ -180,39 +279,12 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/nicki-minaj-donald-trump-timeline-1235650624/",
-    "source": "rolling-stone",
-    "title": "A Timeline of Nicki Minaj and Donald Trump’s Bizarre MAGA Alliance",
-    "url": "https://www.rollingstone.com/music/music-features/nicki-minaj-donald-trump-timeline-1235650624/",
-    "publishedAt": "2026-10-31T14:00:00.000Z",
-    "summary": "How did the rapper and the president get so tight? Here's a full look at what led to this",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/michael-douglas-jack-nicholson-update-1235650863/",
-    "source": "rolling-stone",
-    "title": "Michael Douglas Gives Update on Jack Nicholson: He’s ‘Well’ But Has ‘Disappeared’",
-    "url": "https://www.rollingstone.com/music/music-news/michael-douglas-jack-nicholson-update-1235650863/",
-    "publishedAt": "2026-10-31T13:56:16.000Z",
-    "summary": "\"He is up there by his house and walking around in his slippers,\" actor says of his longtime friend. \"He deserves it.\"",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/songs-to-scare-off-trick-or-treaters/",
     "source": "loudwire",
     "title": "11 Songs to Scare Off Trick-or-Treaters",
     "url": "https://loudwire.com/songs-to-scare-off-trick-or-treaters/",
     "publishedAt": "2026-10-31T13:00:35.000Z",
     "summary": "Here are some songs to scare off trick-or-treaters this Halloween if you want to be that type of person. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/faith-hill-come-back-to-country-music-1235650396/",
-    "source": "rolling-stone",
-    "title": "Come Back, Faith Hill",
-    "url": "https://www.rollingstone.com/music/music-features/faith-hill-come-back-to-country-music-1235650396/",
-    "publishedAt": "2026-10-31T13:00:00.000Z",
-    "summary": "The Grammy-winning country superstar hasn't released a solo album since 2005. Will she ever return to making music?",
     "image": null
   },
   {
@@ -294,42 +366,6 @@
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaEVQZzBLenBLcEZlREl0cVZIRHRxQmI2WGU4aDJpTG14bHJobTNWMXFidkIwdVVUVXBHR2tRS2xnT1RVdmlXeVV2cTVsdkE5dE9MazJwRkdueTFfZVZxU3JGWXNTNzNnd0h1Wm81V0d2TUJDX2NHRDAtNjdROExnTzk0bTZfTXpiODZxTUlLWHVOWWRYd0tMQ1ltenlET2R2dTBWZ0VR?oc=5",
     "publishedAt": "2026-10-31T08:42:27.000Z",
     "summary": "My Chemical Romance's Gerard Way reveals plans to make new album in 2027 and return to touring in 2028 NME",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/live-nation-my-chemical-romance-dallas-cowboys-cheerleaders-1235650825/",
-    "source": "rolling-stone",
-    "title": "Live Nation Defends My Chemical Romance’s Dallas Cowboys Cheerleaders Lookalikes: It Was ‘Parody’",
-    "url": "https://www.rollingstone.com/music/music-news/live-nation-my-chemical-romance-dallas-cowboys-cheerleaders-1235650825/",
-    "publishedAt": "2026-10-31T02:55:00.000Z",
-    "summary": "The cheer squad sued the band and the concert promoter last week, asking for damages and a trial",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/harry-styles-harryween-stevie-wonder-x-factor-isnt-lovely-1235650398/",
-    "source": "rolling-stone",
-    "title": "Harryween Is Back From Dead: Harry Styles Dons ‘X Factor’ Outfit for Stevie Wonder Cover",
-    "url": "https://www.rollingstone.com/music/music-news/harry-styles-harryween-stevie-wonder-x-factor-isnt-lovely-1235650398/",
-    "publishedAt": "2026-10-31T02:38:47.000Z",
-    "summary": "Singer performs \"Isn't She Lovely,\" his X Factor audition song at age 16, for penultimate MSG concert of 30-night residency",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/raye-benny-safdie-film-lizard-music-novel-1235650792/",
-    "source": "rolling-stone",
-    "title": "Raye to Voice Character and Pen Music for Benny Safdie Film Based on 1976 Novel ‘Lizard Music’",
-    "url": "https://www.rollingstone.com/music/music-news/raye-benny-safdie-film-lizard-music-novel-1235650792/",
-    "publishedAt": "2026-10-30T23:04:53.000Z",
-    "summary": "Dwayne Johnson, Alicia Silverstone, Regina Hall, Colman Domingo, Jeff Goldblum, Rachel McAdams, and more will also feature in the film",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/diana-silvers-interview-daughter-of-sorts-album-1235636948/",
-    "source": "rolling-stone",
-    "title": "‘Grief Is Universal — And Very Specific’: Diana Silvers on Her Devastatingly Beautiful New Record",
-    "url": "https://www.rollingstone.com/music/music-features/diana-silvers-interview-daughter-of-sorts-album-1235636948/",
-    "publishedAt": "2026-10-30T21:28:52.000Z",
-    "summary": "Her new folk album Daughter of Sorts is a reflection on loss and the transition from girlhood to womanhood",
     "image": null
   },
   {
@@ -423,6 +459,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMilAFBVV95cUxPRVU2NHdfRlJtZG9zcDg3S0g5S1BVeExpTFdSZW9pSnN1TjRWN1B5djluMjhnTHF5Tm9SNEU5TDgzVXBUd0Rmc0ZOTlZzc0c3WjF0LU91SGNiNHdSRjF2blQzV183ZzZQNTNqS19vUGZhbFNUV3RydDRwbzk0Y3FtSEhoU0FUOTRHNzhWZzVNYUdYVUh1?oc=5",
+    "source": "nme",
+    "title": "DIIV share hook-laden single ‘Dare Me’ and announce massive 2027 world tour - NME",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRVU2NHdfRlJtZG9zcDg3S0g5S1BVeExpTFdSZW9pSnN1TjRWN1B5djluMjhnTHF5Tm9SNEU5TDgzVXBUd0Rmc0ZOTlZzc0c3WjF0LU91SGNiNHdSRjF2blQzV183ZzZQNTNqS19vUGZhbFNUV3RydDRwbzk0Y3FtSEhoU0FUOTRHNzhWZzVNYUdYVUh1?oc=5",
+    "publishedAt": "2026-10-30T17:47:15.000Z",
+    "summary": "DIIV share hook-laden single ‘Dare Me’ and announce massive 2027 world tour NME",
+    "image": null
+  },
+  {
     "id": "nme-https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMEREQWVkaWw5QU5tc1JmbzRSRHpqMHFmRnlwQUw0V0I1WnVINkZFY0ZaVlBVUnNlejFidG9jUFpEa3gwckE2c0dRTzhqNDhvNGhpcTB5MkR5cE9zZ3VTZjU0LUZLdUpMUkQ1WUI3MmJYMVpQcTAyNTQxb1BTcXRQVkRFZWdjWXEzZ2JVb09sRWs1Z19kWjloRVV4aWpfR0MyNkpUZjNWVy0tdndYTTZqNTVrRWRPeW14akZn?oc=5",
     "source": "nme",
     "title": "Billie Eilish, Phoebe Bridgers and more star in My Chemical Romance's short film 'Prelude To The End' - NME",
@@ -441,48 +486,12 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/get-scared-paranormal-prison-ghost-hunt/",
-    "source": "loudwire",
-    "title": "Get Scared Go on a 'Paranormal Prison' Ghost Hunt",
-    "url": "https://loudwire.com/get-scared-paranormal-prison-ghost-hunt/",
-    "publishedAt": "2026-10-30T17:00:10.000Z",
-    "summary": "Members of post-hardcore band Get Scared get scared in a new episode of 'Paranormal Prison,' only on Loudwire. Continue reading…",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/lily-allen-dressed-as-an-empty-ticketmaster-map-for-halloween/",
     "source": "pitchfork",
     "title": "Lily Allen Dressed as an Empty Ticketmaster Map for Halloween",
     "url": "https://pitchfork.com/story/lily-allen-dressed-as-an-empty-ticketmaster-map-for-halloween/",
     "publishedAt": "2026-10-30T16:02:12.000Z",
     "summary": "After scaling down her summer tour, Allen dressed up as every pop star’s nightmare: a pox of unsold tickets",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/most-streamed-metal-artists-spotify/",
-    "source": "loudwire",
-    "title": "The 13 Most-Streamed Metal Artists of All Time on Spotify",
-    "url": "https://loudwire.com/most-streamed-metal-artists-spotify/",
-    "publishedAt": "2026-10-30T15:47:19.000Z",
-    "summary": "These are the 13 most-streamed metal artists of all time on Spotify according to the ChartMasters database, which lists the most-streamed artists of all time. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/aerosmith-friends-california-dream-on-highlights-night-1/",
-    "source": "loudwire",
-    "title": "5 Big Things That Happened at First 'Aerosmith + Friends' Show",
-    "url": "https://loudwire.com/aerosmith-friends-california-dream-on-highlights-night-1/",
-    "publishedAt": "2026-10-30T15:38:49.000Z",
-    "summary": "Here are five big things that happened at Aerosmith's first California Dream On show at the Hollywood Bowl last night (Oct. 29). Continue reading…",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMihgFBVV95cUxNc1RoaXZkYUVhejBwdFVaLWNJWXFnQlNFMHhWM0gxeXRPVmhYU01nM3pGdE9LaVY3cDBjbWprRDVCQVhMRlFnSEh3bHg1d3REaVVOTGdLVDhSMlFCcjNDY0NRRU1HeDhsNGxmSUNNSG9KMUtENUpZSUhDYWhGVkg5OVhRdlJtUQ?oc=5",
-    "source": "nme",
-    "title": "“We won!” – London’s iconic Moth Club is saved - NME",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNc1RoaXZkYUVhejBwdFVaLWNJWXFnQlNFMHhWM0gxeXRPVmhYU01nM3pGdE9LaVY3cDBjbWprRDVCQVhMRlFnSEh3bHg1d3REaVVOTGdLVDhSMlFCcjNDY0NRRU1HeDhsNGxmSUNNSG9KMUtENUpZSUhDYWhGVkg5OVhRdlJtUQ?oc=5",
-    "publishedAt": "2026-10-30T14:07:40.000Z",
-    "summary": "“We won!” – London’s iconic Moth Club is saved NME",
     "image": null
   },
   {
@@ -663,15 +672,6 @@
     "url": "https://www.uncut.co.uk/features/the-extraordinary-story-of-the-city-that-invented-modern-music-156800/",
     "publishedAt": "2026-10-29T10:00:00.000Z",
     "summary": "Rock'n'roll, soul, power pop, hip-hop and more all flourished in Memphis - the city whose greatest talent was bringing different musical worlds together",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/maryland-is-getting-its-own-mini-sphere/",
-    "source": "pitchfork",
-    "title": "Maryland Is Getting Its Own (Mini) Sphere",
-    "url": "https://pitchfork.com/story/maryland-is-getting-its-own-mini-sphere/",
-    "publishedAt": "2026-10-28T22:41:52.000Z",
-    "summary": "The Prince George’s County Council has authorized up to $215 million for a venue at the D.C. area National Harbor",
     "image": null
   },
   {
