@@ -1,5 +1,23 @@
 [
   {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/harry-styles-jalen-bruson-banner-msg-psycho-killer-1235648896/",
+    "source": "rolling-stone",
+    "title": "Harry Styles Honored by Jalen Brunson at Madison Square Garden, Receives 30 Nights Banner",
+    "url": "https://www.rollingstone.com/music/music-news/harry-styles-jalen-bruson-banner-msg-psycho-killer-1235648896/",
+    "publishedAt": "2026-11-01T03:09:16.000Z",
+    "summary": "The singer ended his record-breaking Together, Together residency with a special Halloween show where he also covered \"Psycho Killer\" dressed as a New York City rat",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/snl-inde-navarrette-gracie-abrams-halloween-watch-live-free-1236359709/",
+    "source": "billboard",
+    "title": "Inde Navarrette & Gracie Abrams on ‘SNL’ Halloween Episode: Here’s Where to Watch ‘Saturday Night Live’ Online for Free",
+    "url": "https://www.billboard.com/culture/product-recommendations/snl-inde-navarrette-gracie-abrams-halloween-watch-live-free-1236359709/",
+    "publishedAt": "2026-11-01T00:30:00.000Z",
+    "summary": "Livestream the Obsession actress and pop singer/songwriter on Saturday, Oct. 31 — watch live online for free.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/music-news/lizzo-dolly-parton-jolene-halloween-costume-1236371650/",
     "source": "billboard",
     "title": "Lizzo Recreates Dolly Parton’s Iconic ‘Jolene’ Look for Halloween",
@@ -252,15 +270,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-    "source": "billboard",
-    "title": "Billboard’s Music Industry Events Calendar",
-    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-    "publishedAt": "2026-10-31T01:17:00.000Z",
-    "summary": "A complete rundown of the most important events across the music business.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/raye-benny-safdie-film-lizard-music-novel-1235650792/",
     "source": "rolling-stone",
     "title": "Raye to Voice Character and Pen Music for Benny Safdie Film Based on 1976 Novel ‘Lizard Music’",
@@ -342,15 +351,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/glen-hansard-posthumous-release-pogues-cover-shane-macgowan-1235650610/",
-    "source": "rolling-stone",
-    "title": "Hear Glen Hansard’s Posthumously Released Pogues Cover Honoring Shane MacGowan",
-    "url": "https://www.rollingstone.com/music/music-news/glen-hansard-posthumous-release-pogues-cover-shane-macgowan-1235650610/",
-    "publishedAt": "2026-10-30T19:02:28.000Z",
-    "summary": "Hansard’s live cover of the Pogues’ “Smoke in a Bottle” is a highlight of an upcoming MacGowan tribute album that also features Bruce Springsteen and U2",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/mike-d-albert-hall-manchester-live-review/",
     "source": "louder-than-war",
     "title": "Mike D: Albert Hall, Manchester – Live Review",
@@ -384,6 +384,15 @@
     "url": "https://loudwire.com/what-who-like-see-second-aerosmith-friends-show/",
     "publishedAt": "2026-10-30T17:50:19.000Z",
     "summary": "There's still a wealth of talent that didn't play the opening night of the 'Aerosmith + Friends' shows. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMEREQWVkaWw5QU5tc1JmbzRSRHpqMHFmRnlwQUw0V0I1WnVINkZFY0ZaVlBVUnNlejFidG9jUFpEa3gwckE2c0dRTzhqNDhvNGhpcTB5MkR5cE9zZ3VTZjU0LUZLdUpMUkQ1WUI3MmJYMVpQcTAyNTQxb1BTcXRQVkRFZWdjWXEzZ2JVb09sRWs1Z19kWjloRVV4aWpfR0MyNkpUZjNWVy0tdndYTTZqNTVrRWRPeW14akZn?oc=5",
+    "source": "nme",
+    "title": "Billie Eilish, Phoebe Bridgers and more star in My Chemical Romance's short film 'Prelude To The End' - NME",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMEREQWVkaWw5QU5tc1JmbzRSRHpqMHFmRnlwQUw0V0I1WnVINkZFY0ZaVlBVUnNlejFidG9jUFpEa3gwckE2c0dRTzhqNDhvNGhpcTB5MkR5cE9zZ3VTZjU0LUZLdUpMUkQ1WUI3MmJYMVpQcTAyNTQxb1BTcXRQVkRFZWdjWXEzZ2JVb09sRWs1Z19kWjloRVV4aWpfR0MyNkpUZjNWVy0tdndYTTZqNTVrRWRPeW14akZn?oc=5",
+    "publishedAt": "2026-10-30T17:42:12.000Z",
+    "summary": "Billie Eilish, Phoebe Bridgers and more star in My Chemical Romance's short film 'Prelude To The End' NME",
     "image": null
   },
   {
@@ -519,15 +528,6 @@
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcWRRZkM5SkdYTzk0Q2RXcy1OSlRUQmtQNzJLaDFGaGtrRXY4bW9tVUh4dW9fSHI2RDB6UDYzSEFrVzZzaElyNVBmeW40M3JSX1BoOGJEdHlVWlVydF9Gd092MTdfMmdmZmdPdEMxM2VORWFQeVkwZFo1R0R0ZTZnQTdJRUMwMHFxeFNwVkRGT1I?oc=5",
     "publishedAt": "2026-10-30T10:02:01.000Z",
     "summary": "Queens Of The Stone Age – ‘Perfecth’ review: the desert rock dons adventure into love for their third act NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMitgFBVV95cUxPb1ExSDJ1M3BOUU9wc0hYbVR2cmJpSlpqdWV4Mk85VWxDZnVqYUNKMWlPZkJ5SjlMV0NUNWhmeEltR0pqUHVwakphcG9pVG9yY1hfNVcxODg3dzE0STlpenJ4YjM4bDVqX0NDYllFMWVCSkRwV1BQclZoVlR4UmpBSFI3THI5ZkFHT1VOYVVlU0JpelVfU0Zibms2akI1am1hOEgzNTJaMFJyVGNCOXA0M2VsTTVpUQ?oc=5",
-    "source": "nme",
-    "title": "As The Strokes wrapped up their European tour, Nick Valensi joined Duran Duran on stage in Paris - NME",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb1ExSDJ1M3BOUU9wc0hYbVR2cmJpSlpqdWV4Mk85VWxDZnVqYUNKMWlPZkJ5SjlMV0NUNWhmeEltR0pqUHVwakphcG9pVG9yY1hfNVcxODg3dzE0STlpenJ4YjM4bDVqX0NDYllFMWVCSkRwV1BQclZoVlR4UmpBSFI3THI5ZkFHT1VOYVVlU0JpelVfU0Zibms2akI1am1hOEgzNTJaMFJyVGNCOXA0M2VsTTVpUQ?oc=5",
-    "publishedAt": "2026-10-30T09:54:01.000Z",
-    "summary": "As The Strokes wrapped up their European tour, Nick Valensi joined Duran Duran on stage in Paris NME",
     "image": null
   },
   {
