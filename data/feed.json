@@ -1,20 +1,290 @@
 [
   {
-    "id": "loudwire-https://loudwire.com/classic-prog-rock-best-album-streaks/",
-    "source": "loudwire",
-    "title": "Classic Prog Rock’s 5 Best Three-Album Hot Streaks",
-    "url": "https://loudwire.com/classic-prog-rock-best-album-streaks/",
-    "publishedAt": "2026-11-02T14:29:54.000Z",
-    "summary": "Genesis and Rush have multiple options! Continue reading…",
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/justin-timberlake-docuseries-janet-jackson-super-bowl-1235651589/",
+    "source": "rolling-stone",
+    "title": "Justin Timberlake to Drop a Docuseries Featuring Janet Jackson Discussing Super Bowl Debacle",
+    "url": "https://www.rollingstone.com/music/music-news/justin-timberlake-docuseries-janet-jackson-super-bowl-1235651589/",
+    "publishedAt": "2026-11-02T23:20:53.000Z",
+    "summary": "The four-part Apple TV series will cover the infamous 2004 \"wardrobe malfunction\" during the halftime performance",
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/lists/my-chemical-romances-the-black-parade-best-songs-ranked/",
+    "id": "billboard-https://www.billboard.com/music/music-news/justin-timberlake-docuseries-janet-jackson-apple-tv-1236372543/",
     "source": "billboard",
-    "title": "My Chemical Romance’s ‘The Black Parade’ at 20: Every Track Ranked",
-    "url": "https://www.billboard.com/lists/my-chemical-romances-the-black-parade-best-songs-ranked/",
-    "publishedAt": "2026-11-02T14:27:12.000Z",
-    "summary": "In honor of the classic emo album receiving a 20th anniversary reissue — and now topping the Billboard 200 for the first time — we rank all 18 tracks on its deluxe edition.",
+    "title": "Justin Timberlake to Release 4-Part Docuseries That Includes Janet Jackson as a Guest",
+    "url": "https://www.billboard.com/music/music-news/justin-timberlake-docuseries-janet-jackson-apple-tv-1236372543/",
+    "publishedAt": "2026-11-02T22:55:05.000Z",
+    "summary": "The project is set to arrive on Apple TV by the end of the year.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/trent-reznor-atticus-ross-misadventures-cliff-booth-1235651484/",
+    "source": "rolling-stone",
+    "title": "Trent Reznor and Atticus Ross Scored ‘The Further Mis-Adventures of Cliff Booth’",
+    "url": "https://www.rollingstone.com/music/music-news/trent-reznor-atticus-ross-misadventures-cliff-booth-1235651484/",
+    "publishedAt": "2026-11-02T22:49:49.000Z",
+    "summary": "The Once Upon a Time ... in Hollywood spinoff directed by David Fincher hits theaters on Nov. 25 and Netflix in December",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/monday-night-football-2026-2027-watch-nfl-live-online-free-1236339452/",
+    "source": "billboard",
+    "title": "‘Monday Night Football’ 2026: How to Watch Chicago Bears vs. Seattle Seahawks Live Online Free",
+    "url": "https://www.billboard.com/culture/product-recommendations/monday-night-football-2026-2027-watch-nfl-live-online-free-1236339452/",
+    "publishedAt": "2026-11-02T22:24:51.000Z",
+    "summary": "Watch the CHI Bears take on the SEA Seahawks on Monday, Nov. 2 — and possible celebrity sightings at the game.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/bruce-springsteen-michigan-abdul-el-sayed-us-senate-1236372511/",
+    "source": "billboard",
+    "title": "Bruce Springsteen Backs Michigan’s Dr. Abdul El-Sayed for U.S. Senate Amid Haley Stevens Reversal: ‘He’s a Fighter’",
+    "url": "https://www.billboard.com/music/music-news/bruce-springsteen-michigan-abdul-el-sayed-us-senate-1236372511/",
+    "publishedAt": "2026-11-02T22:20:21.000Z",
+    "summary": "\"I’m in his corner 100%,\" the Boss said of the Democratic nominee.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/news/new-album-releases/",
+    "source": "pitchfork",
+    "title": "New Music Releases and Upcoming Albums in 2026 and 2027",
+    "url": "https://pitchfork.com/news/new-album-releases/",
+    "publishedAt": "2026-11-02T22:05:17.000Z",
+    "summary": "A regularly updated guide to the new albums, EPs, mixtapes, and projects getting released in the coming weeks and months",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/taylor-swift-movie-songs-ranked/",
+    "source": "billboard",
+    "title": "Taylor Swift’s Songs Written for Movies, Ranked (Critic’s Picks)",
+    "url": "https://www.billboard.com/lists/taylor-swift-movie-songs-ranked/",
+    "publishedAt": "2026-11-02T22:05:00.000Z",
+    "summary": "Swift’s soundtrack credits include Cats, The Hunger Games, Where the Crawdads Sing and more.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/tate-mcrae-housewife-global-charts-nov-7-1236372344/",
+    "source": "billboard",
+    "title": "Tate McRae’s ‘Housewife’ Scores Second Week at No. 1 on Billboard Global Charts",
+    "url": "https://www.billboard.com/music/chart-beat/tate-mcrae-housewife-global-charts-nov-7-1236372344/",
+    "publishedAt": "2026-11-02T21:58:02.000Z",
+    "summary": "Plus, first top 10s for Jamie Miller and Felipe & Rodrigo.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/steel-guitar-sho-bud-concert-slash-1235651450/",
+    "source": "rolling-stone",
+    "title": "Steel Guitars by the Dozen: A Cultish Concert Pays Tribute to the Most Country Instrument of All",
+    "url": "https://www.rollingstone.com/music/music-features/steel-guitar-sho-bud-concert-slash-1235651450/",
+    "publishedAt": "2026-11-02T21:42:26.000Z",
+    "summary": "Slash, Marcus King, Robert Randolph, and \"Mr. Nashville Sound\" Lloyd Green gathered in Nashville for a celebration of the Sho-Bud pedal steel guitar",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/better-rush-era-1970s-vs-1980s/",
+    "source": "loudwire",
+    "title": "VOTE: Better Rush Era - 1970s vs. 1980s?",
+    "url": "https://loudwire.com/better-rush-era-1970s-vs-1980s/",
+    "publishedAt": "2026-11-02T21:18:24.000Z",
+    "summary": "Vote on whether the 1970s or 1980s were the better era for Rush in this week's Chuck's Fight Club on the Loudwire Nights radio show. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/cardi-b-students-dont-use-ai-chatgpt-1236372365/",
+    "source": "billboard",
+    "title": "Cardi B Tells Students to Pass Exams Without Using AI: ‘Don’t Ask ChatGPT for the Answer’",
+    "url": "https://www.billboard.com/music/rb-hip-hop/cardi-b-students-dont-use-ai-chatgpt-1236372365/",
+    "publishedAt": "2026-11-02T21:14:47.000Z",
+    "summary": "Cardi had a message for the students who attended Johns Hopkins University’s Hoptoberfest over the weekend.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/timbaland-lawsuit-ex-managers-financial-misconduct/",
+    "source": "billboard",
+    "title": "Timbaland Sues Ex-Managers for $15M Over Accusations of ‘Financial Misconduct’",
+    "url": "https://www.billboard.com/pro/timbaland-lawsuit-ex-managers-financial-misconduct/",
+    "publishedAt": "2026-11-02T21:11:23.000Z",
+    "summary": "The veteran hitmaker claims his longtime manager and partner Gary Marella treated him like \"a piggy bank\" — accusations the manager strongly denies.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/juan-atkins-death-tributes/",
+    "source": "billboard",
+    "title": "Juan Atkins Mourned By Fellow Artists: He ‘Sparked the Electronic Music Revolution We’re Living in Today’",
+    "url": "https://www.billboard.com/lists/juan-atkins-death-tributes/",
+    "publishedAt": "2026-11-02T21:04:57.000Z",
+    "summary": "The founding father of techno died on Oct. 31 at age 64.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/the-neighbourhood-sweater-weather-spotify-history-1236371938/",
+    "source": "billboard",
+    "title": "The Neighbourhood Reacts as ‘Sweater Weather’ Makes Spotify History: ‘It Feels Bigger Than the Band at This Point’",
+    "url": "https://www.billboard.com/music/music-news/the-neighbourhood-sweater-weather-spotify-history-1236371938/",
+    "publishedAt": "2026-11-02T20:50:08.000Z",
+    "summary": "The 2012 single is the streamer's most playlisted song of all time.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/jake-shears-rocky-horror-show-broadway-1236372035/",
+    "source": "billboard",
+    "title": "‘My Whole Life Has Been the Audition’: Jake Shears Talks ‘Rocky Horror,’ Tim Curry & His ‘One Request’ About Callbacks",
+    "url": "https://www.billboard.com/music/music-news/jake-shears-rocky-horror-show-broadway-1236372035/",
+    "publishedAt": "2026-11-02T20:24:33.000Z",
+    "summary": "The Scissor Sisters rocker currently stars as Dr. Frank-N-Furter on Broadway.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/nettspend-gracie-abrams-factory-floor-pitchfork-selects-playlist-songs-of-the-week/",
+    "source": "pitchfork",
+    "title": "Nettspend, Gracie Abrams, Factory Floor, and More: This Week’s Pitchfork Selects Playlist",
+    "url": "https://pitchfork.com/story/nettspend-gracie-abrams-factory-floor-pitchfork-selects-playlist-songs-of-the-week/",
+    "publishedAt": "2026-11-02T20:13:06.000Z",
+    "summary": "Our weekly playlist highlights songs that our writers, editors, and contributors are listening to on repeat",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/timbaland-sues-ex-managers-lawsuit-1235651347/",
+    "source": "rolling-stone",
+    "title": "Timbaland Sues Ex-Managers for $15 Million, Fires Back at Claim He Blew Fortune",
+    "url": "https://www.rollingstone.com/music/music-news/timbaland-sues-ex-managers-lawsuit-1235651347/",
+    "publishedAt": "2026-11-02T20:01:35.000Z",
+    "summary": "\"Holding someone accountable for the responsibilities they were hired and paid to perform is not shifting blame,\" a lawyer for the super-producer says",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/rocker-halloween-costumes-2026/",
+    "source": "loudwire",
+    "title": "PHOTOS - See How Your Favorite Rockers Dressed for Halloween",
+    "url": "https://loudwire.com/rocker-halloween-costumes-2026/",
+    "publishedAt": "2026-11-02T19:14:37.000Z",
+    "summary": "See who wore what for the spookiest of holidays, Halloween, in 2026. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/trent-reznor-and-atticus-ross-david-fincher-mis-adventures-of-cliff-booth/",
+    "source": "pitchfork",
+    "title": "Trent Reznor and Atticus Ross Are Back at It (Scoring David Fincher Movies)",
+    "url": "https://pitchfork.com/story/trent-reznor-and-atticus-ross-david-fincher-mis-adventures-of-cliff-booth/",
+    "publishedAt": "2026-11-02T18:39:08.000Z",
+    "summary": "The duo’s work on The Further Mis-Adventures of Cliff Booth will be their sixth collaboration",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/andy-garcia-david-foster-paul-anka-kennedy-center-honors-1235651317/",
+    "source": "rolling-stone",
+    "title": "Andy Garcia, David Foster, Paul Anka Lead Kennedy Center Honors",
+    "url": "https://www.rollingstone.com/music/music-news/andy-garcia-david-foster-paul-anka-kennedy-center-honors-1235651317/",
+    "publishedAt": "2026-11-02T17:49:03.000Z",
+    "summary": "David Mamet and Barbara Mandrell are also honorees for this year’s event that will be celebrated on Dec. 7",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMiugFBVV95cUxQWEJyTkpVVEhWb3NhSkduRHJqdWxOUGFxaE5vRGtHU1hocl9QclVPNWRoR21Uck5IS3FLaVU3a09naU1Jdl92bTFGbjdyTjVLUHJmbTd0c2tmakNXNk8zNUlyTkJmSkdsU1M1blJSbjZMV0hPdDJpenI1YzJoTnFpMjJ4WmNzazI2emZ6a1pGc2lSWHEtNGpSU2ZIXzRreVZiZGFaRkRXb0dyLVNMelVhbWRJOHl0MlBscHc?oc=5",
+    "source": "nme",
+    "title": "Interpol announce intimate London replacement show after Bloc Party co-headline gig cancelled - NME",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWEJyTkpVVEhWb3NhSkduRHJqdWxOUGFxaE5vRGtHU1hocl9QclVPNWRoR21Uck5IS3FLaVU3a09naU1Jdl92bTFGbjdyTjVLUHJmbTd0c2tmakNXNk8zNUlyTkJmSkdsU1M1blJSbjZMV0hPdDJpenI1YzJoTnFpMjJ4WmNzazI2emZ6a1pGc2lSWHEtNGpSU2ZIXzRreVZiZGFaRkRXb0dyLVNMelVhbWRJOHl0MlBscHc?oc=5",
+    "publishedAt": "2026-11-02T17:09:05.000Z",
+    "summary": "Interpol announce intimate London replacement show after Bloc Party co-headline gig cancelled NME",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/guns-n-roses-setlist-second-aerosmith-show/",
+    "source": "loudwire",
+    "title": "Guns N' Roses Play Different Setlist at Second Aerosmith' Show",
+    "url": "https://loudwire.com/guns-n-roses-setlist-second-aerosmith-show/",
+    "publishedAt": "2026-11-02T17:07:28.000Z",
+    "summary": "Guns N' Roses played a completely different setlist at the second 'Aerosmith + Friends' show last night (Nov. 1) at the Hollywood Bowl. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/morgan-wallen-kings-of-leon-sand-in-my-boots-lineup-1235651282/",
+    "source": "rolling-stone",
+    "title": "Kings of Leon, Ella Langley, Flo Rida Tapped for Morgan Wallen’s Sand in My Boots Fest",
+    "url": "https://www.rollingstone.com/music/music-country/morgan-wallen-kings-of-leon-sand-in-my-boots-lineup-1235651282/",
+    "publishedAt": "2026-11-02T17:00:28.000Z",
+    "summary": "Kygo, Empire of the Sun, Nelly and more will perform at festival returning to Gulf Shores, Alabama in May",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/zach-bryan-covers-kentucky-hurricane-ian-noe-1235651328/",
+    "source": "rolling-stone",
+    "title": "Zach Bryan’s New Song Is a Cover By an Obscure Kentucky Songwriter",
+    "url": "https://www.rollingstone.com/music/music-country/zach-bryan-covers-kentucky-hurricane-ian-noe-1235651328/",
+    "publishedAt": "2026-11-02T16:59:21.000Z",
+    "summary": "Bryan interprets “Kentucky Hurricane,” off Ian Noe's Canyon Falls Trailer Band album, in a new video he uploaded to YouTube",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/juan-atkins-tribute-derrick-may-kevin-saunderson-techno-1235651287/",
+    "source": "rolling-stone",
+    "title": "Kevin Saunderson and Derrick May Honor Belleville Three ‘Brother’ Juan Atkins",
+    "url": "https://www.rollingstone.com/music/music-news/juan-atkins-tribute-derrick-may-kevin-saunderson-techno-1235651287/",
+    "publishedAt": "2026-11-02T16:43:53.000Z",
+    "summary": "“We shared a journey that changed music forever,” Saunderson wrote of his friend and fellow techno pioneer",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/britney-spears-find-a-new-family-1235651260/",
+    "source": "rolling-stone",
+    "title": "Britney Spears Says Kevin Federline and Jamie Lynn Spears Made Her ‘Feel Like a Slave’",
+    "url": "https://www.rollingstone.com/music/music-news/britney-spears-find-a-new-family-1235651260/",
+    "publishedAt": "2026-11-02T16:32:46.000Z",
+    "summary": "Spears alleged her sister wouldn’t let her hold her daughter Ivey, says she “will find a new family”",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/yaeji-plots-a-dance-dance-revolution-in-new-ddr-video/",
+    "source": "pitchfork",
+    "title": "Yaeji Plots a Dance Dance Revolution in New Single “DDR”",
+    "url": "https://pitchfork.com/story/yaeji-plots-a-dance-dance-revolution-in-new-ddr-video/",
+    "publishedAt": "2026-11-02T16:27:19.000Z",
+    "summary": "The singer-producer’s first song of the year is a collaboration with Enayet and K Wata",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-lists/harry-styles-msg-resdiency-new-york-city-1235650490/",
+    "source": "rolling-stone",
+    "title": "How Harry Styles Took Over New York City",
+    "url": "https://www.rollingstone.com/music/music-lists/harry-styles-msg-resdiency-new-york-city-1235650490/",
+    "publishedAt": "2026-11-02T16:18:32.000Z",
+    "summary": "He embraced the Big Apple — and it embraced him back",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/turnstile-turn-down-open-metallica/",
+    "source": "loudwire",
+    "title": "The Grammy-Winning Band That Turned Down Opening for Metallica",
+    "url": "https://loudwire.com/turnstile-turn-down-open-metallica/",
+    "publishedAt": "2026-11-02T15:38:50.000Z",
+    "summary": "Metallica's James Hetfield didn't seem phased by the 'pass,' praising this rising young rock band on his SiriusXM show. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/steven-tyler-aerosmith-future/",
+    "source": "loudwire",
+    "title": "Steven Tyler Pushes Back Against Rumors of Aerosmith's Retirement",
+    "url": "https://loudwire.com/steven-tyler-aerosmith-future/",
+    "publishedAt": "2026-11-02T15:10:05.000Z",
+    "summary": "\"You can't get rid of Aerosmith,\" the singer declared early into the show. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/listen-to-sufjan-stevens-new-song-on-this-christmas-it-only-gets-better/",
+    "source": "pitchfork",
+    "title": "Listen to Sufjan Stevens’ New Song “On This Christmas (It Only Gets Better)”",
+    "url": "https://pitchfork.com/story/listen-to-sufjan-stevens-new-song-on-this-christmas-it-only-gets-better/",
+    "publishedAt": "2026-11-02T15:07:32.000Z",
+    "summary": "He dug into the vault for his holiday compilation Worst Christmas Ever!",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/classic-prog-rock-best-album-streaks/",
+    "source": "loudwire",
+    "title": "Classic Prog Rock’s 5 Best 3-Album Hot Streaks",
+    "url": "https://loudwire.com/classic-prog-rock-best-album-streaks/",
+    "publishedAt": "2026-11-02T14:29:54.000Z",
+    "summary": "Genesis and Rush have multiple options! Continue reading…",
     "image": null
   },
   {
@@ -63,12 +333,30 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/raye-bst-hyde-park-london-show-sienna-spiro-2027-1236371864/",
-    "source": "billboard",
-    "title": "RAYE to Make BST Hyde Park Headline Debut With Special Guest Sienna Spiro",
-    "url": "https://www.billboard.com/music/music-news/raye-bst-hyde-park-london-show-sienna-spiro-2027-1236371864/",
-    "publishedAt": "2026-11-02T13:09:35.000Z",
-    "summary": "The recent Mercury Prize winner will top the bill at the London concert series next summer.",
+    "id": "nme-https://news.google.com/rss/articles/CBMilAFBVV95cUxPRGpzRjNkV1FVMVZaOThXTE0tYkRvY241bXU0Y3pmTGNsVzRjYUxQMVk4QWpVTGhhTUxvX3prcVRnN3EyeVptS2tnMnlTT1VUbE1QSXdnZTNnX3V5WTR5YjhmTVN6YzRuUDF0cVZmRmpBQndKSDY5Q3JQTEgzVUp0RXByd3AxdFpCWXQtbFpMSmxCYjd2?oc=5",
+    "source": "nme",
+    "title": "BST Hyde Park 2027: RAYE announced as next headliner - NME",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRGpzRjNkV1FVMVZaOThXTE0tYkRvY241bXU0Y3pmTGNsVzRjYUxQMVk4QWpVTGhhTUxvX3prcVRnN3EyeVptS2tnMnlTT1VUbE1QSXdnZTNnX3V5WTR5YjhmTVN6YzRuUDF0cVZmRmpBQndKSDY5Q3JQTEgzVUp0RXByd3AxdFpCWXQtbFpMSmxCYjd2?oc=5",
+    "publishedAt": "2026-11-02T12:01:06.000Z",
+    "summary": "BST Hyde Park 2027: RAYE announced as next headliner NME",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMioAFBVV95cUxNZTlORlFnX0xiMFVERVpJZEVyUDhFYnN4VUE4R09oMWZjY2dNdU1xeWhpdERSckJjNkMwd1BwbFVVeWl1emhaYVB6RjJsVGdxOHB0ZEJidm5RQmlITVRNVlpUc3hndDdOdmdkRXppQzF5M3RkRWxlN2pINzExVzRzMDhzM0owZXdxeUk3OThYekg4UnhLRGR0anhOZFEzMkxQ?oc=5",
+    "source": "nme",
+    "title": "James Bond experts think Callum Turner has been named new 007 - NME",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZTlORlFnX0xiMFVERVpJZEVyUDhFYnN4VUE4R09oMWZjY2dNdU1xeWhpdERSckJjNkMwd1BwbFVVeWl1emhaYVB6RjJsVGdxOHB0ZEJidm5RQmlITVRNVlpUc3hndDdOdmdkRXppQzF5M3RkRWxlN2pINzExVzRzMDhzM0owZXdxeUk3OThYekg4UnhLRGR0anhOZFEzMkxQ?oc=5",
+    "publishedAt": "2026-11-02T10:21:05.000Z",
+    "summary": "James Bond experts think Callum Turner has been named new 007 NME",
+    "image": null
+  },
+  {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMieEFVX3lxTFAwdDFBdGFkTkhTM2pQWkc1dFIzNFBseUVwNXdDZzgwc00xUS0tSUZUNURJOWZ4RV9SNXNQLS0ycU1oX0pyczgwLTZFUmNiWTNLSktFdHhTbVJoRFpVWW1ib0Y5bS1FLUdGNHRTNTJETjlLYXVjbG1Gaw?oc=5",
+    "source": "kerrang",
+    "title": "Album review: Spanish Love Songs – Future Nausea - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwdDFBdGFkTkhTM2pQWkc1dFIzNFBseUVwNXdDZzgwc00xUS0tSUZUNURJOWZ4RV9SNXNQLS0ycU1oX0pyczgwLTZFUmNiWTNLSktFdHhTbVJoRFpVWW1ib0Y5bS1FLUdGNHRTNTJETjlLYXVjbG1Gaw?oc=5",
+    "publishedAt": "2026-11-02T10:11:24.000Z",
+    "summary": "Album review: Spanish Love Songs – Future Nausea Kerrang!",
     "image": null
   },
   {
@@ -83,7 +371,7 @@
   {
     "id": "uncut-https://www.uncut.co.uk/features/we-can-work-it-out-10-times-lennon-and-mccartney-fell-out-and-somehow-stayed-friends-156851/",
     "source": "uncut",
-    "title": "We Can Work It Out: 10 times Lennon and McCartney fell out… and somehow stayed friends",
+    "title": "We Can Work It Out: 10 times JohnLennon and Paul McCartney fell out… and somehow stayed friends",
     "url": "https://www.uncut.co.uk/features/we-can-work-it-out-10-times-lennon-and-mccartney-fell-out-and-somehow-stayed-friends-156851/",
     "publishedAt": "2026-11-02T09:43:04.000Z",
     "summary": "From songwriting disputes and business battles to public insults and surprise reconciliations, the complicated friendship at the heart of The Beatles",
@@ -96,15 +384,6 @@
     "url": "https://louderthanwar.com/various-artists-cronyvirus-detector-a-studio-1-in-12-sampler-vol-1-album-review/",
     "publishedAt": "2026-11-02T09:33:11.000Z",
     "summary": "As the 1 in 12 Club in Bradford celebrates it’s 45th birthday, a benefit CD compilation has been produced of all the bands who recorded in its basement at the Studio 1 in 12. Compiled by resident engineer/producer Bri Doom, who provides liner notes on the studio history. Neil Crud applauds loudly. There is something […] The post Various Artists – Cronyvirus Detector: A Studio 1 in 12 Sampler Vol 1 – album review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rock/surfs-up-festival-2027-thornhill-melbourne-lineup-1236371818/",
-    "source": "billboard",
-    "title": "Surf’s Up! Festival Brings Heavy Lineup Back to Melbourne in 2027",
-    "url": "https://www.billboard.com/music/rock/surfs-up-festival-2027-thornhill-melbourne-lineup-1236371818/",
-    "publishedAt": "2026-11-02T09:27:02.000Z",
-    "summary": "Australia's Thornhill hand-picked a bill featuring Stand Atlantic, Alpha Wolf and US acts SACE6 and Varials for the beachside event in February.",
     "image": null
   },
   {
@@ -126,102 +405,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/concerts/suki-waterhouse-australian-crawl-sydney-opera-houses-on-the-steps-1236371837/",
-    "source": "billboard",
-    "title": "Suki Waterhouse, Australian Crawl Join Sydney Opera House’s On The Steps Series",
-    "url": "https://www.billboard.com/music/concerts/suki-waterhouse-australian-crawl-sydney-opera-houses-on-the-steps-1236371837/",
-    "publishedAt": "2026-11-02T06:45:33.000Z",
-    "summary": "The outdoor concert series grows to 12 nights on the Opera House Forecourt and will again raise money for Australian music charity Support Act.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/ausify-campaign-returns/",
-    "source": "billboard",
-    "title": "Ausify Campaign Returns as Australian Music’s Streaming  Share Hits New Low",
-    "url": "https://www.billboard.com/pro/ausify-campaign-returns/",
-    "publishedAt": "2026-11-02T03:50:58.000Z",
-    "summary": "Ben Lee, Missy Higgins and Budjerah are among the artists backing the month-long push, which asks fans to make their support for local music public.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/marty-erlichman-death-barbra-streisand-manager/",
-    "source": "billboard",
-    "title": "Marty Erlichman, Barbra Streisand’s Longtime Manager, Dies at 97",
-    "url": "https://www.billboard.com/pro/marty-erlichman-death-barbra-streisand-manager/",
-    "publishedAt": "2026-11-02T01:12:50.000Z",
-    "summary": "An entertainment manager for decades, Erlichman also worked with The Clancy Brothers and Tommy Makem.",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/the-17-best-musician-halloween-costumes-this-year/",
     "source": "pitchfork",
     "title": "The 18 Best Musician Halloween Costumes This Year",
     "url": "https://pitchfork.com/story/the-17-best-musician-halloween-costumes-this-year/",
     "publishedAt": "2026-11-02T00:56:36.000Z",
     "summary": "From Tinashe as melatonin to Wednesday as the Addams Family, here are our favorite get-ups this year",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/harry-styles-madison-square-garden-end-season-2-weight-loss-1235648505/",
-    "source": "rolling-stone",
-    "title": "Harry Styles Ended His Historic Madison Square Garden Run — And This Song Captured It All",
-    "url": "https://www.rollingstone.com/music/music-features/harry-styles-madison-square-garden-end-season-2-weight-loss-1235648505/",
-    "publishedAt": "2026-11-01T23:03:54.000Z",
-    "summary": "The bass-filled record \"Season 2 Weight Loss\" became an essential part of how we understand the singer, especially across his 30-night New York residency",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/wu-tang-clan-halftime-show-detroit-lions-thanksgiving-game-1236371793/",
-    "source": "billboard",
-    "title": "Wu-Tang Clan to Headline Detroit Lions Thanksgiving Game Halftime Show",
-    "url": "https://www.billboard.com/music/rb-hip-hop/wu-tang-clan-halftime-show-detroit-lions-thanksgiving-game-1236371793/",
-    "publishedAt": "2026-11-01T22:46:52.000Z",
-    "summary": "They'll take the halftime performance slot at the Nov. 26 Lions-Bears game, while Antonio Cipriano will perform the national anthem.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/sunday-night-football-2026-2027-watch-nfl-live-online-free-1236343279/",
-    "source": "billboard",
-    "title": "‘Sunday Night Football’: How to Watch Philadelphia Eagles vs. Washington Commanders Game Live Online Free",
-    "url": "https://www.billboard.com/culture/product-recommendations/sunday-night-football-2026-2027-watch-nfl-live-online-free-1236343279/",
-    "publishedAt": "2026-11-01T22:15:28.000Z",
-    "summary": "Watch the PHL Eagles take on the WAS Commanders on Sunday, Nov. 1.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/pop/harry-styles-pizza-rat-harryween-msg-residency-final-show-1236371781/",
-    "source": "billboard",
-    "title": "Harry Styles Dresses as NYC ‘Pizza Rat,’ Gets Jalen Brunson Tribute at Final MSG Residency Show",
-    "url": "https://www.billboard.com/music/pop/harry-styles-pizza-rat-harryween-msg-residency-final-show-1236371781/",
-    "publishedAt": "2026-11-01T21:36:01.000Z",
-    "summary": "The pop star marked the occasion with a Halloween tribute to one of the city's most infamous viral sensations.",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/my-chemical-romance-black-parade-billboard-200-number-one-1235650097/",
-    "source": "rolling-stone",
-    "title": "My Chemical Romance Tops the Billboard 200 With 20-Year-Old Album",
-    "url": "https://www.rollingstone.com/music/music-news/my-chemical-romance-black-parade-billboard-200-number-one-1235650097/",
-    "publishedAt": "2026-11-01T21:08:58.000Z",
-    "summary": "The rock band's The Black Parade reached the top slot with its 20th anniversary reissue, beating out Olivia Rodrigo",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/top-country-albums-number-ones-biggest/",
-    "source": "billboard",
-    "title": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
-    "url": "https://www.billboard.com/lists/top-country-albums-number-ones-biggest/",
-    "publishedAt": "2026-11-01T20:49:13.000Z",
-    "summary": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-pictures/harryween-harry-styles-photos-msg-1235650951/",
-    "source": "rolling-stone",
-    "title": "Harryween: The Best Photos From Harry Styles’ Final MSG Show",
-    "url": "https://www.rollingstone.com/music/music-pictures/harryween-harry-styles-photos-msg-1235650951/",
-    "publishedAt": "2026-11-01T18:12:13.000Z",
-    "summary": "The singer brought his record-breaking Together, Together residency to a close after 30 nights — and fans went all out.",
     "image": null
   },
   {
@@ -243,33 +432,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/juan-atkins-techno-music-pioneer-cybotron-dead-obituary-1235651028/",
-    "source": "rolling-stone",
-    "title": "Juan Atkins, Techno Music Pioneer, Dead at 64",
-    "url": "https://www.rollingstone.com/music/music-news/juan-atkins-techno-music-pioneer-cybotron-dead-obituary-1235651028/",
-    "publishedAt": "2026-11-01T17:17:49.000Z",
-    "summary": "The originator of Detroit techno, Atkins was a founding member of the pioneering electronic music duo Cybotron and released the influential \"No UFO's\" under his Model 500 moniker",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/brian-may-interview-queen-live-budapest-1235651023/",
-    "source": "rolling-stone",
-    "title": "Brian May Clears Up Queen’s Live Future: ‘I’m on a Break’",
-    "url": "https://www.rollingstone.com/music/music-features/brian-may-interview-queen-live-budapest-1235651023/",
-    "publishedAt": "2026-11-01T16:17:49.000Z",
-    "summary": "In our new interview, the legendary Queen guitarist explains his thoughts on future live shows, while looking back at 'Flash Gordon' and the 'Queen Budapest' performance",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-album-reviews/bigxthaplug-better-over-time-new-album-review-1235649228/",
-    "source": "rolling-stone",
-    "title": "BigXthaPlug Wrestles With Success on ‘Better Over Time’",
-    "url": "https://www.rollingstone.com/music/music-album-reviews/bigxthaplug-better-over-time-new-album-review-1235649228/",
-    "publishedAt": "2026-11-01T16:00:00.000Z",
-    "summary": "The Texas rapper is living large and making hits, but that doesn't always mean life is easy",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/juan-atkins-co-founder-of-techno-music-dies-at-64/",
     "source": "pitchfork",
     "title": "Juan Atkins, Co-Founder of Techno Music, Dies at 64",
@@ -288,39 +450,12 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/november-rock-metal-rock-star-birthdays/",
-    "source": "loudwire",
-    "title": "Rock Stars Celebrating Birthdays in November",
-    "url": "https://loudwire.com/november-rock-metal-rock-star-birthdays/",
-    "publishedAt": "2026-11-01T15:00:08.000Z",
-    "summary": "Scroll through to see if you share a birthday with a rock star. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/parker-mccollum-interview-quitting-music-1235650478/",
-    "source": "rolling-stone",
-    "title": "Parker McCollum Says He Wanted to Quit Country Music Right When His Career Was Taking Off",
-    "url": "https://www.rollingstone.com/music/music-features/parker-mccollum-interview-quitting-music-1235650478/",
-    "publishedAt": "2026-11-01T14:30:00.000Z",
-    "summary": "\"I hadn’t been writing and had just been dying out on the road,\" says the Texas songwriter, who surprise-released a rejuvenating acoustic album in October",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/a-word-or-two-on-early-goth/",
     "source": "louder-than-war",
     "title": "THE JUDGEMENT, THE CONDEMNATION, THE SENTENCE : A THINK PIECE ON GOTH",
     "url": "https://louderthanwar.com/a-word-or-two-on-early-goth/",
     "publishedAt": "2026-11-01T14:00:32.000Z",
     "summary": "A history of Goth The post THE JUDGEMENT, THE CONDEMNATION, THE SENTENCE : A THINK PIECE ON GOTH appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/disabled-fans-live-music-industry-ada-compliance-1235566027/",
-    "source": "rolling-stone",
-    "title": "Disabled Fans Say the Live-Music Industry Can Do Better: ‘We Are Not a Pain in the Ass’",
-    "url": "https://www.rollingstone.com/music/music-features/disabled-fans-live-music-industry-ada-compliance-1235566027/",
-    "publishedAt": "2026-11-01T14:00:00.000Z",
-    "summary": "The passage of the Americans With Disabilities Act in 1990 has fostered improvements in accessibility. But concertgoers and advocates say there's still a long way to go in reaching true equal access at shows",
     "image": null
   },
   {
@@ -360,24 +495,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/snl-watch-gracie-abrams-perform-hit-wall-here-you-come-there-you-go-1235650873/",
-    "source": "rolling-stone",
-    "title": "‘SNL’: Watch Gracie Abrams Perform ‘Hit the Wall,’ ‘Here You Come, There You Go’",
-    "url": "https://www.rollingstone.com/music/music-news/snl-watch-gracie-abrams-perform-hit-wall-here-you-come-there-you-go-1235650873/",
-    "publishedAt": "2026-11-01T07:22:52.000Z",
-    "summary": "The singer-songwriter plays one song from her latest album, Daughter from Hell, and another from its deluxe version",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/harry-styles-jalen-bruson-banner-msg-psycho-killer-1235648896/",
-    "source": "rolling-stone",
-    "title": "Harry Styles Honored by Jalen Brunson at Madison Square Garden, Receives 30 Nights Banner",
-    "url": "https://www.rollingstone.com/music/music-news/harry-styles-jalen-bruson-banner-msg-psycho-killer-1235648896/",
-    "publishedAt": "2026-11-01T03:09:16.000Z",
-    "summary": "The singer ended his record-breaking Together, Together residency with a special Halloween show where he also covered \"Psycho Killer\" dressed as a New York City rat",
-    "image": null
-  },
-  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMilAFBVV95cUxNUnpoSGtzVE8tdHJ4WDNpRE1BZlVIZ0VyWFgyT0RIdk9vbUxuTE5OWnRRMVJhYUtvMGFOalctMWI4UjNOeWlQNmdNeFc1VWZ0MFptYTBieUp4M3M3SFg0RXV2VGlSenktS29PcHBkX3drcVJBT2VpV3U5cmNuemZnQlRUWnhfU29fZ0phaDBkMWk4Tmo5?oc=5",
     "source": "kerrang",
     "title": "James Hetfield reveals Turnstile said no to touring with Metallica - Kerrang!",
@@ -411,15 +528,6 @@
     "url": "https://louderthanwar.com/the-final-gathering-memorial-gig-for-colin-jerwood-of-conflict-announced/",
     "publishedAt": "2026-10-31T16:03:51.000Z",
     "summary": "The Final Gathering – Memorial gig for Colin Jerwood of Conflict announced A memorial gig for Colin Jerwood of influential anarcho-punk band Conflict has been announced by his family via posts on Facebook and Instagram. The event, billed as The Final Gathering, will take place on Sat April 2027, 40 years on from the incendiary […] The post The Final Gathering – Memorial gig for Colin Jerwood of Conflict announced appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/songs-to-scare-off-trick-or-treaters/",
-    "source": "loudwire",
-    "title": "11 Songs to Scare Off Trick-or-Treaters",
-    "url": "https://loudwire.com/songs-to-scare-off-trick-or-treaters/",
-    "publishedAt": "2026-10-31T13:00:35.000Z",
-    "summary": "Here are some songs to scare off trick-or-treaters this Halloween if you want to be that type of person. Continue reading…",
     "image": null
   },
   {
@@ -459,33 +567,6 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMipgFBVV95cUxQWDZsQm5vZG1DUUR3VU83SnFwbTBDZmpwRDVsRlgxVW5GdkJ2bGtURG1ycE1rb0M4eWVUQUpEckpsbl9xR2tJRHVZVFR3Rk9WaHppM1JVTktBTzJmeTJPNXVkR3BLSjdMRkhjbW9iWHUzZ1BySVhNc2o4MkpXZTRDaGJvU1V0dm1RNXJUaTVuaHo4T05jZDZKZ1EwTUVfdHhIYWQ4NkZ3?oc=5",
-    "source": "nme",
-    "title": "\"Blue dot fever\": Lily Allen dresses up as Ticketmaster unsold seat map for Halloween - NME",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWDZsQm5vZG1DUUR3VU83SnFwbTBDZmpwRDVsRlgxVW5GdkJ2bGtURG1ycE1rb0M4eWVUQUpEckpsbl9xR2tJRHVZVFR3Rk9WaHppM1JVTktBTzJmeTJPNXVkR3BLSjdMRkhjbW9iWHUzZ1BySVhNc2o4MkpXZTRDaGJvU1V0dm1RNXJUaTVuaHo4T05jZDZKZ1EwTUVfdHhIYWQ4NkZ3?oc=5",
-    "publishedAt": "2026-10-31T10:42:07.000Z",
-    "summary": "\"Blue dot fever\": Lily Allen dresses up as Ticketmaster unsold seat map for Halloween NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMizAFBVV95cUxQclI3SVVBbEhKT3cxMk1td0RlZDNMLUhiSk4ySS0xcDl2SGt2RGZfNXpoaGJUNVhLMWZ5ZE10VkJYZ2RiZnhKNjBRNVZLWjZwUU5UMXVhdmY4OU9IVHhtd29qMVE4LW5vc250cEZULTVwOGMwNEFyVVVmRFo0THlGUzdOa0pHS0Q4cGZ6WjFMSFNtYzFibXpqeDJVVml3eU9TMUs2Ukg4bUtrMExPeV9xcjJjUmVodGYtSG1kQjY1ZEYzZDRaWTZmRUlfSGU?oc=5",
-    "source": "nme",
-    "title": "Greta Thunberg, Paloma Faith and Nemahsis join Macklemore at London 'Free Palestine' tour finale - NME",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQclI3SVVBbEhKT3cxMk1td0RlZDNMLUhiSk4ySS0xcDl2SGt2RGZfNXpoaGJUNVhLMWZ5ZE10VkJYZ2RiZnhKNjBRNVZLWjZwUU5UMXVhdmY4OU9IVHhtd29qMVE4LW5vc250cEZULTVwOGMwNEFyVVVmRFo0THlGUzdOa0pHS0Q4cGZ6WjFMSFNtYzFibXpqeDJVVml3eU9TMUs2Ukg4bUtrMExPeV9xcjJjUmVodGYtSG1kQjY1ZEYzZDRaWTZmRUlfSGU?oc=5",
-    "publishedAt": "2026-10-31T09:33:27.000Z",
-    "summary": "Greta Thunberg, Paloma Faith and Nemahsis join Macklemore at London 'Free Palestine' tour finale NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMipgFBVV95cUxQaEVQZzBLenBLcEZlREl0cVZIRHRxQmI2WGU4aDJpTG14bHJobTNWMXFidkIwdVVUVXBHR2tRS2xnT1RVdmlXeVV2cTVsdkE5dE9MazJwRkdueTFfZVZxU3JGWXNTNzNnd0h1Wm81V0d2TUJDX2NHRDAtNjdROExnTzk0bTZfTXpiODZxTUlLWHVOWWRYd0tMQ1ltenlET2R2dTBWZ0VR?oc=5",
-    "source": "nme",
-    "title": "My Chemical Romance's Gerard Way reveals plans to make new album in 2027 and return to touring in 2028 - NME",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaEVQZzBLenBLcEZlREl0cVZIRHRxQmI2WGU4aDJpTG14bHJobTNWMXFidkIwdVVUVXBHR2tRS2xnT1RVdmlXeVV2cTVsdkE5dE9MazJwRkdueTFfZVZxU3JGWXNTNzNnd0h1Wm81V0d2TUJDX2NHRDAtNjdROExnTzk0bTZfTXpiODZxTUlLWHVOWWRYd0tMQ1ltenlET2R2dTBWZ0VR?oc=5",
-    "publishedAt": "2026-10-31T08:42:27.000Z",
-    "summary": "My Chemical Romance's Gerard Way reveals plans to make new album in 2027 and return to touring in 2028 NME",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/listen-to-the-first-atlas-sound-song-in-15-years/",
     "source": "pitchfork",
     "title": "Listen to the First Atlas Sound Song in 15 Years",
@@ -495,39 +576,12 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/triumph-cancels-2026-tour-dates/",
-    "source": "loudwire",
-    "title": "Triumph Cancel Upcoming 2026 Tour Dates",
-    "url": "https://loudwire.com/triumph-cancels-2026-tour-dates/",
-    "publishedAt": "2026-10-30T20:45:55.000Z",
-    "summary": "The second leg of the Canadian band's 50th anniversary reunion concerts was set to begin in November. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/alice-in-chains-jerry-cantrell-haircut-2026/",
-    "source": "loudwire",
-    "title": "Alice in Chains’ Jerry Cantrell Posts Photo of New Haircut",
-    "url": "https://loudwire.com/alice-in-chains-jerry-cantrell-haircut-2026/",
-    "publishedAt": "2026-10-30T19:59:56.000Z",
-    "summary": "The Alice in Chains leader is back to sporting a closely-cropped look similar to 'The Devil Put Dinosaurs Here' era. Continue reading…",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/you-can-now-share-your-pitchfork-reviews/",
     "source": "pitchfork",
     "title": "You Can Now Share Your Pitchfork Reviews",
     "url": "https://pitchfork.com/story/you-can-now-share-your-pitchfork-reviews/",
     "publishedAt": "2026-10-30T19:45:33.000Z",
     "summary": "Go ahead and send those 0.0s to 10.0s to your friends and family",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/scariest-metal-album-covers/",
-    "source": "loudwire",
-    "title": "The 31 Scariest Metal Album Covers of All Time",
-    "url": "https://loudwire.com/scariest-metal-album-covers/",
-    "publishedAt": "2026-10-30T19:20:18.000Z",
-    "summary": "Take a look at some of the scariest, most frightening album covers in metal. Continue reading…",
     "image": null
   },
   {
@@ -546,24 +600,6 @@
     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNa2ZBVDdJZHRkZmQtZnRzQmpJemJ5X1ROdU5LUXd5R2lSNUd2bFhZQS16WFFiUm5Ka2s1RUNJSWs0ZnRDYzZjV2FRdzZTY1laN2s3cXQtb2FMQS1yYXF0SmVPU1Naa0JPalFvc0hOR2hYejBuOUY5ZjNtSEgyR0I5NmxrTmdJaUNfVXBYVWVqeXR4NDBUbUZ6cDNzV2VMQU05RndWc0FtczJSa3NpSUxvS0R0REhMekFBMi1ZaFNmYW5DdG1rT3RnbVhCcHlabExiZFRDUTVyd1VKd1EyRTYxU0pYY0VpZHVMRUNHS0ZBMzBOeTJUZW1lY1RJaXJXYlVyMmxLcVN6UQ?oc=5",
     "publishedAt": "2026-10-30T17:33:51.000Z",
     "summary": "My Chemical Romance’s The Black Parade tops UK Album Charts 20 years on from its release Kerrang!",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/lily-allen-dressed-as-an-empty-ticketmaster-map-for-halloween/",
-    "source": "pitchfork",
-    "title": "Lily Allen Dressed as an Empty Ticketmaster Map for Halloween",
-    "url": "https://pitchfork.com/story/lily-allen-dressed-as-an-empty-ticketmaster-map-for-halloween/",
-    "publishedAt": "2026-10-30T16:02:12.000Z",
-    "summary": "After scaling down her summer tour, Allen dressed up as every pop star’s nightmare: a pox of unsold tickets",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/8-new-albums-you-should-listen-to-now-diiv-queens-of-the-stone-age/",
-    "source": "pitchfork",
-    "title": "8 New Albums You Should Listen to Now: Diiv, Queens of the Stone Age, and More",
-    "url": "https://pitchfork.com/story/8-new-albums-you-should-listen-to-now-diiv-queens-of-the-stone-age/",
-    "publishedAt": "2026-10-30T13:52:20.000Z",
-    "summary": "Stream new releases from Diiv, Queens of the Stone Age, Kali Malone, and more",
     "image": null
   },
   {
@@ -591,33 +627,6 @@
     "url": "https://www.uncut.co.uk/features/halloween-soundtrack-13-spooky-songs-for-a-dark-october-night-156834/",
     "publishedAt": "2026-10-30T09:00:00.000Z",
     "summary": "Stars Donovan, Bauhaus, Nick Cave, Gillian Welch, PJ Harvey and more",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/phoebe-bridgers-and-billie-eilish-are-in-my-chemical-romances-new-short-film/",
-    "source": "pitchfork",
-    "title": "Phoebe Bridgers and Billie Eilish Lend Their Voices to My Chemical Romance’s New Short Film",
-    "url": "https://pitchfork.com/story/phoebe-bridgers-and-billie-eilish-are-in-my-chemical-romances-new-short-film/",
-    "publishedAt": "2026-10-30T00:28:52.000Z",
-    "summary": "The band made the animated “Prelude to the End” with visual artist Lauren Tsai",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/phoebe-bridgers-announces-madison-square-garden-ep/",
-    "source": "pitchfork",
-    "title": "Phoebe Bridgers Announces Madison Square Garden EP",
-    "url": "https://pitchfork.com/story/phoebe-bridgers-announces-madison-square-garden-ep/",
-    "publishedAt": "2026-10-29T17:25:02.000Z",
-    "summary": "Out now via Tidal",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/nick-valensi-is-busy-playing-with-everyone-but-the-strokes/",
-    "source": "pitchfork",
-    "title": "Nick Valensi Is Busy Playing With Everyone But the Strokes",
-    "url": "https://pitchfork.com/story/nick-valensi-is-busy-playing-with-everyone-but-the-strokes/",
-    "publishedAt": "2026-10-29T16:46:28.000Z",
-    "summary": "He’s on a “temporary break” from his longtime band—but not from performing with other artists",
     "image": null
   },
   {
@@ -708,15 +717,6 @@
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQVZlaGxZUm9KVzVfUHJyX25pai1IdHFaVUh2eVJOOFg5YlJCUWpGNTN1TnRITG9ZWTBwc3VNcHFlTE1ueTdYQ29yazJkaU1HWnotNi1RM1BxYkVoNmVsSko1RzlMemN0ampaNGFUVnZQZkJpbmVjZFVXMy1Na0dNVkxLaUx2aktHVEJRM3JjbE5fYS1NRHlFUy1DTmhKcTZVVEpWclJVMXhoeXNJRlZLZkFiSnFJLTQ?oc=5",
     "publishedAt": "2026-10-28T16:30:45.000Z",
     "summary": "There’s a massive Ozzy & Black Sabbath Back To The Beginning soundtrack album coming Kerrang!",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaHh3RE9OZ3R3ZlotVVFUbFVSempYUmMzUVk4TFJRYmpqc3hNdDM5LWw4bVhGQXAyOWF4Zm1lNXBaMVhLczBOWGtXY2tSU0xCU2lhblhxYWJXQ0c1bHNZQ0VObTJxZVNnaWVZZGlYNG1wTURKbzFqQ190cWxMd3EtdTdFYnNzcDhzbGxLTDh4R3RGcTdpTU9MWThSU3lKM2ZsQmM4bFRhdDBsZENaN0ZjTGtudlRCZndsazNTdTVfOEg?oc=5",
-    "source": "kerrang",
-    "title": "“The records need to get more personal as the years go on, they’re… - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaHh3RE9OZ3R3ZlotVVFUbFVSempYUmMzUVk4TFJRYmpqc3hNdDM5LWw4bVhGQXAyOWF4Zm1lNXBaMVhLczBOWGtXY2tSU0xCU2lhblhxYWJXQ0c1bHNZQ0VObTJxZVNnaWVZZGlYNG1wTURKbzFqQ190cWxMd3EtdTdFYnNzcDhzbGxLTDh4R3RGcTdpTU9MWThSU3lKM2ZsQmM4bFRhdDBsZENaN0ZjTGtudlRCZndsazNTdTVfOEg?oc=5",
-    "publishedAt": "2026-10-28T15:55:43.000Z",
-    "summary": "“The records need to get more personal as the years go on, they’re… Kerrang!",
     "image": null
   }
 ]
