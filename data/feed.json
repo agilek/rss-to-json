@@ -1,5 +1,50 @@
 [
   {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/stevie-wonder-eviction-lawsuit-woman-rent-free-repairs-1235653031/",
+    "source": "rolling-stone",
+    "title": "Stevie Wonder’s Eviction Lawsuit Escalates as Rent-Free Resident Demands Repairs to Walls and Plumbing",
+    "url": "https://www.rollingstone.com/music/music-news/stevie-wonder-eviction-lawsuit-woman-rent-free-repairs-1235653031/",
+    "publishedAt": "2026-11-05T02:35:22.000Z",
+    "summary": "Carmen Efferson, reportedly Wonder's one-time fiancée, claimed the singer failed to make the necessary repairs to the Hollywood Home",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "source": "billboard",
+    "title": "Billboard’s Music Industry Events Calendar",
+    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "publishedAt": "2026-11-05T01:47:00.000Z",
+    "summary": "A complete rundown of the most important events across the music business.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/lil-durk-bail-motion-judge-torn-rapper-jail/",
+    "source": "billboard",
+    "title": "Judge Torn on Lil Durk Bail Question After Murder-for-Hire Verdict: ‘A Question of Psychology’",
+    "url": "https://www.billboard.com/pro/lil-durk-bail-motion-judge-torn-rapper-jail/",
+    "publishedAt": "2026-11-05T01:11:32.000Z",
+    "summary": "The rapper's lawyers want him out of jail ahead of a second racketeering trial. Prosecutors say he'll flee.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/50-cent-diddy-happy-birthday-1236374084/",
+    "source": "billboard",
+    "title": "50 Cent Jokingly Sends Diddy a Happy Birthday Message With Jail Photo: ‘Wishing You Many More LOL’",
+    "url": "https://www.billboard.com/music/rb-hip-hop/50-cent-diddy-happy-birthday-1236374084/",
+    "publishedAt": "2026-11-05T00:59:33.000Z",
+    "summary": "50's petty is unmatched.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/politics/jimmy-kimmel-president-donald-trump-nicki-minaj-ass-joke-1236374399/",
+    "source": "billboard",
+    "title": "Jimmy Kimmel Takes Dig at Trump With Nicki Minaj Joke: ‘The Only A– on Trump’s Mind Tonight Is the One That Got Handed to Him’",
+    "url": "https://www.billboard.com/culture/politics/jimmy-kimmel-president-donald-trump-nicki-minaj-ass-joke-1236374399/",
+    "publishedAt": "2026-11-05T00:18:56.000Z",
+    "summary": "The late-night host continues to spar with Trump by rubbing the president's nose in last night's historic midterm losses.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/culture/tv-film/druski-snl-hosting-promo-dame-hombro-dance-1236374373/",
     "source": "billboard",
     "title": "Watch Druski Get Down to This Viral Latin Hit With Marcello Hernandez Ahead of ‘SNL’ Hosting Debut",
@@ -72,33 +117,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/awards/tony-awards-cbs-deal-renew-1236374277/",
-    "source": "billboard",
-    "title": "The Tony Awards Renew With CBS Ahead of 80th Anniversary",
-    "url": "https://www.billboard.com/music/awards/tony-awards-cbs-deal-renew-1236374277/",
-    "publishedAt": "2026-11-04T21:22:05.000Z",
-    "summary": "The 80th Annual Tony Awards will broadcast live on CBS on Sunday, June 13, 2027.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/tv-film/cynthia-erivo-snoop-dogg-biopic-1236374076/",
-    "source": "billboard",
-    "title": "Cynthia Erivo Joins Snoop Dogg Biopic As This Key Character In Tupac Shakur’s Life",
-    "url": "https://www.billboard.com/culture/tv-film/cynthia-erivo-snoop-dogg-biopic-1236374076/",
-    "publishedAt": "2026-11-04T21:11:43.000Z",
-    "summary": "The Oscar nominee has added yet another film to her 2027 slate.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/democrats-midterm-election-blue-wave-music-policy-impacts/",
-    "source": "billboard",
-    "title": "Here’s How the Midterm Elections Blue Wave Could Impact Music Policy in D.C.",
-    "url": "https://www.billboard.com/pro/democrats-midterm-election-blue-wave-music-policy-impacts/",
-    "publishedAt": "2026-11-04T21:08:30.000Z",
-    "summary": "With control of both the House and the Senate, Democrats will likely open new congressional investigations into the music industry — specifically, the live sector.",
-    "image": null
-  },
-  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/2026-midterm-election-music-memes-1235652733/",
     "source": "rolling-stone",
     "title": "The Midterms Gave Us a Blue Wave — And Some Hilarious Music Memes",
@@ -110,19 +128,10 @@
   {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/nicki-minaj-default-bid-president-trump-new-hampshire-1235652674/",
     "source": "rolling-stone",
-    "title": "As Nicki Minaj Rallied for Trump’s GOP, Her Lawyers Say She Still Owes Them $295,000",
+    "title": "As Nicki Minaj Rallied for Trump’s GOP, Her Lawyers Told Court She Still Owes Them $295,000",
     "url": "https://www.rollingstone.com/music/music-news/nicki-minaj-default-bid-president-trump-new-hampshire-1235652674/",
     "publishedAt": "2026-11-04T20:47:45.000Z",
     "summary": "The rapper turned out for GOP candidates in New Hampshire on Tuesday just as her ex-lawyers said in court filings that she \"failed to pay\" them after settling a copyright lawsuit",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/best-buy-x-blink-smart-home-security-cameras-shop-online-1236373375/",
-    "source": "billboard",
-    "title": "Here’s How to Shop New Blink Smart Home Security Cameras Online at Best Buy",
-    "url": "https://www.billboard.com/culture/product-recommendations/best-buy-x-blink-smart-home-security-cameras-shop-online-1236373375/",
-    "publishedAt": "2026-11-04T20:42:37.000Z",
-    "summary": "In 2026, Blink has a new collection of indoor and outdoor cameras with prices starting at $49.99.",
     "image": null
   },
   {
@@ -216,6 +225,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMiugFBVV95cUxPQVJlc2VNY2RRVWstWF9KVGNSX09ISmlhQVlyUUFqR0hGVm5XQXNDOTFsd2pOVFRGeFBSVXRwa1VWQUF1MHk1RDUtSmJSajAtTU81cFE5RERqVUExN0toZmRnMVF5bjZTVlVhRW8wWUlRWFQ5NmVZTDNvdGpURzBhQnVvQXNZMjBVT3Y2eUNILXJXckI5UDFnVEI0OGI1ZmhWTDZ2REVIOFpLTXJWY0hQOTJWVmdXa3Z3bXc?oc=5",
+    "source": "nme",
+    "title": "Queens Of The Stone Age on 2027 tour plans: \"We’re going to do something that’s beyond what we’ve ever done before\" - NME",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQVJlc2VNY2RRVWstWF9KVGNSX09ISmlhQVlyUUFqR0hGVm5XQXNDOTFsd2pOVFRGeFBSVXRwa1VWQUF1MHk1RDUtSmJSajAtTU81cFE5RERqVUExN0toZmRnMVF5bjZTVlVhRW8wWUlRWFQ5NmVZTDNvdGpURzBhQnVvQXNZMjBVT3Y2eUNILXJXckI5UDFnVEI0OGI1ZmhWTDZ2REVIOFpLTXJWY0hQOTJWVmdXa3Z3bXc?oc=5",
+    "publishedAt": "2026-11-04T16:52:24.000Z",
+    "summary": "Queens Of The Stone Age on 2027 tour plans: \"We’re going to do something that’s beyond what we’ve ever done before\" NME",
+    "image": null
+  },
+  {
     "id": "loudwire-https://loudwire.com/rock-metal-albums-november-history/",
     "source": "loudwire",
     "title": "Biggest Rock + Metal Albums Released Each Day in November History",
@@ -258,15 +276,6 @@
     "url": "https://loudwire.com/iron-maidens-somewhere-in-time-gets-40th-anniversary-graphic-novel/",
     "publishedAt": "2026-11-04T15:00:29.000Z",
     "summary": "Eddie gets a brand new look with Iron Maiden's new 'Somewhere in Time' graphic novel and album reissue in partnership with Z2. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/album-releases-november-2026-1235651380/",
-    "source": "rolling-stone",
-    "title": "All the Albums Coming Out in November",
-    "url": "https://www.rollingstone.com/music/music-news/album-releases-november-2026-1235651380/",
-    "publishedAt": "2026-11-04T14:48:00.000Z",
-    "summary": "Check out our roundup for this month’s biggest new releases to watch for, including U2, Sufjan Stevens, Shygirl, and Skepta",
     "image": null
   },
   {
@@ -366,15 +375,6 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZEl6ajhkX0J2bklVS1Rkc1JkUHVDdGFNa2NGclBtSG9iNnFlZnhkWWtsck1Fa1pmMHNnSkI0UWZKSTZPUFdKbzliTEROTkpMVUg4S0JNSmR1UXBTX29SRVd6MWFMdURPWTFiaktvUVEwbE13aHhrMlNDWlBHcjhmOV9hTDdaU0dmQk1STnItc1VLRDZ1UjhhR253UW16dnM5LVZEV3U5UjYzR2Q1NXF6VnZpazI?oc=5",
     "publishedAt": "2026-11-04T10:57:24.000Z",
     "summary": "The Cure’s Robert Smith promises tour dates for 2027 “bursting with new songs” NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMi8wFBVV95cUxPLUxFZk00Mk9xc01laEUxVU90VEQyemZtaS1heWJ1dTc5bEpiVDdFbk9jMU5kTFBpSEJDaFpNeFVLTkItZXNtNF80TmViNjdLYnMyYjZMdFM1bWVvXzFST0JneWZtV3lGTjd6R29jaC1xM2lQWjFyN1Nsd2RKMmV5RkxmX2luQ2FzVERlbERZWUYwYU5LUUpaQzU4dmtWQTNWdHRDM0ZzNVpYNDdVTU96N0NURGJEQWhNYVRQYkpwY0JlS2xnR2R2bGJ5c3M3VmNSZTRKZ2VQbUw4UDhFVWtTdmtSTVlXYXFoUzJKS0ZBbEdoTG8?oc=5",
-    "source": "nme",
-    "title": "Sam Fender soundtracks 2026 John Lewis Christmas advert with cover of The Rolling Stones' 'You Can't Always Get What You Want’ - NME",
-    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPLUxFZk00Mk9xc01laEUxVU90VEQyemZtaS1heWJ1dTc5bEpiVDdFbk9jMU5kTFBpSEJDaFpNeFVLTkItZXNtNF80TmViNjdLYnMyYjZMdFM1bWVvXzFST0JneWZtV3lGTjd6R29jaC1xM2lQWjFyN1Nsd2RKMmV5RkxmX2luQ2FzVERlbERZWUYwYU5LUUpaQzU4dmtWQTNWdHRDM0ZzNVpYNDdVTU96N0NURGJEQWhNYVRQYkpwY0JlS2xnR2R2bGJ5c3M3VmNSZTRKZ2VQbUw4UDhFVWtTdmtSTVlXYXFoUzJKS0ZBbEdoTG8?oc=5",
-    "publishedAt": "2026-11-04T10:57:10.000Z",
-    "summary": "Sam Fender soundtracks 2026 John Lewis Christmas advert with cover of The Rolling Stones' 'You Can't Always Get What You Want’ NME",
     "image": null
   },
   {
@@ -522,21 +522,21 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMi8wFBVV95cUxPLUxFZk00Mk9xc01laEUxVU90VEQyemZtaS1heWJ1dTc5bEpiVDdFbk9jMU5kTFBpSEJDaFpNeFVLTkItZXNtNF80TmViNjdLYnMyYjZMdFM1bWVvXzFST0JneWZtV3lGTjd6R29jaC1xM2lQWjFyN1Nsd2RKMmV5RkxmX2luQ2FzVERlbERZWUYwYU5LUUpaQzU4dmtWQTNWdHRDM0ZzNVpYNDdVTU96N0NURGJEQWhNYVRQYkpwY0JlS2xnR2R2bGJ5c3M3VmNSZTRKZ2VQbUw4UDhFVWtTdmtSTVlXYXFoUzJKS0ZBbEdoTG8?oc=5",
+    "source": "nme",
+    "title": "Sam Fender soundtracks 2026 John Lewis Christmas advert with cover of The Rolling Stones' 'You Can't Always Get What You Want’ - NME",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPLUxFZk00Mk9xc01laEUxVU90VEQyemZtaS1heWJ1dTc5bEpiVDdFbk9jMU5kTFBpSEJDaFpNeFVLTkItZXNtNF80TmViNjdLYnMyYjZMdFM1bWVvXzFST0JneWZtV3lGTjd6R29jaC1xM2lQWjFyN1Nsd2RKMmV5RkxmX2luQ2FzVERlbERZWUYwYU5LUUpaQzU4dmtWQTNWdHRDM0ZzNVpYNDdVTU96N0NURGJEQWhNYVRQYkpwY0JlS2xnR2R2bGJ5c3M3VmNSZTRKZ2VQbUw4UDhFVWtTdmtSTVlXYXFoUzJKS0ZBbEdoTG8?oc=5",
+    "publishedAt": "2026-11-03T10:08:39.000Z",
+    "summary": "Sam Fender soundtracks 2026 John Lewis Christmas advert with cover of The Rolling Stones' 'You Can't Always Get What You Want’ NME",
+    "image": null
+  },
+  {
     "id": "uncut-https://www.uncut.co.uk/features/he-wrote-a-no-1-hit-launched-rock-careers-and-worked-with-legends-so-why-was-he-forgotten-156853/",
     "source": "uncut",
     "title": "He wrote a No 1 hit, launched rock careers and worked with legends… so why was he forgotten?",
     "url": "https://www.uncut.co.uk/features/he-wrote-a-no-1-hit-launched-rock-careers-and-worked-with-legends-so-why-was-he-forgotten-156853/",
     "publishedAt": "2026-11-03T09:31:24.000Z",
     "summary": "The remarkable rise and fall of Speedy Keen, from chart-topping success and storied connections to cult acclaim and obscurity",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMikAFBVV95cUxOTDYtOUYxMHhhdUNKYjA4blRGVG9pQmVLRjhNNlB2azZ0Mk81dWRkSWNjTmlwVk4wdGdGbnpXRDlZOVMwdUExRjVQSlN6WjlNVnhTeW5ONXZ4dzhGOE9OaF8yNWdqSVBhMVp4cGw3OW1WSXI1XzBfQzRMbTFYb3pDMjVobndUNHd4UDdkN3dMay0?oc=5",
-    "source": "nme",
-    "title": "Do Nothing’s new album is Chris Bailey’s ultimate act of service: “A song will tell you what it wants to be, and it’s not your place to get in the way of that” - NME",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTDYtOUYxMHhhdUNKYjA4blRGVG9pQmVLRjhNNlB2azZ0Mk81dWRkSWNjTmlwVk4wdGdGbnpXRDlZOVMwdUExRjVQSlN6WjlNVnhTeW5ONXZ4dzhGOE9OaF8yNWdqSVBhMVp4cGw3OW1WSXI1XzBfQzRMbTFYb3pDMjVobndUNHd4UDdkN3dMay0?oc=5",
-    "publishedAt": "2026-11-03T09:00:37.000Z",
-    "summary": "Do Nothing’s new album is Chris Bailey’s ultimate act of service: “A song will tell you what it wants to be, and it’s not your place to get in the way of that” NME",
     "image": null
   },
   {
