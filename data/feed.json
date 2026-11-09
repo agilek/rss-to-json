@@ -1,5 +1,32 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/culture/tv-film/ariana-grande-o-christmas-tree-robert-de-niro-ben-stiller-1236377155/",
+    "source": "billboard",
+    "title": "Ariana Grande Sings ‘O Christmas Tree’ With Robert De Niro & Ben Stiller on ‘Tonight Show’: Exclusive Preview",
+    "url": "https://www.billboard.com/culture/tv-film/ariana-grande-o-christmas-tree-robert-de-niro-ben-stiller-1236377155/",
+    "publishedAt": "2026-11-09T02:06:20.000Z",
+    "summary": "The Focker-in-Law cast rings in the holiday season with Jimmy Fallon tonight (Sunday, Nov. 8).",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/top-country-albums-number-ones-biggest/",
+    "source": "billboard",
+    "title": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
+    "url": "https://www.billboard.com/lists/top-country-albums-number-ones-biggest/",
+    "publishedAt": "2026-11-08T23:40:04.000Z",
+    "summary": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/tv-film/druski-singing-snl-sketches-1236377110/",
+    "source": "billboard",
+    "title": "Druski’s Best ‘SNL’ Sketches Had Him Singing Through a Proposal Gone Wrong & In a Hip-Hop Parody",
+    "url": "https://www.billboard.com/culture/tv-film/druski-singing-snl-sketches-1236377110/",
+    "publishedAt": "2026-11-08T23:17:10.000Z",
+    "summary": "The comedian hit the right beats while hosting 'SNL' for the first time Saturday night (Nov. 7).",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/music/music-news/taylor-swift-karlie-kloss-travis-kelce-chiefs-game-1236377058/",
     "source": "billboard",
     "title": "Taylor Swift and Karlie Kloss Attend Travis Kelce’s Chiefs Game in Kansas City",
@@ -32,7 +59,7 @@
     "title": "Del Casher, Guitarist Who Invented the Wah-Wah Pedal, Dead at 88",
     "url": "https://www.rollingstone.com/music/music-news/del-casher-guitarist-invented-wah-wah-pedal-dead-obituary-1235654482/",
     "publishedAt": "2026-11-08T19:13:11.000Z",
-    "summary": "Musician and inventor who played with artists like Elvis Presley, Gene Autry and Frank Zappa died October 1 after cancer battle",
+    "summary": "Musician and inventor who played with artists like Elvis Presley, Gene Autry, and Frank Zappa died Oct. 1 after cancer battle",
     "image": null
   },
   {
@@ -60,6 +87,15 @@
     "url": "https://www.billboard.com/music/rock/the-strokes-snl-walton-goggins-cameo-performance-video-1236377034/",
     "publishedAt": "2026-11-08T17:20:03.000Z",
     "summary": "The NYC band performed “Lonely in the Future” and “Going Shopping” during its Nov. 7 appearance on the show.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/pop-star-helped-my-chemical-romance-first-no-1-album/",
+    "source": "loudwire",
+    "title": "The Pop Star Who Helped MCR Land Their First No. 1 Album",
+    "url": "https://loudwire.com/pop-star-helped-my-chemical-romance-first-no-1-album/",
+    "publishedAt": "2026-11-08T16:53:10.000Z",
+    "summary": "My Chemical Romance recently landed their first No. 1 album on the Billboard 200 with the 20th anniversary reissue of 'The Black Parade,' and a very famous pop star helped them do it! Continue reading…",
     "image": null
   },
   {
@@ -126,12 +162,30 @@
     "image": null
   },
   {
+    "id": "loudwire-https://loudwire.com/sepultura-final-show-setlist-video/",
+    "source": "loudwire",
+    "title": "Sepultura Celebrate Career at Final Show - See Setlist + Video",
+    "url": "https://loudwire.com/sepultura-final-show-setlist-video/",
+    "publishedAt": "2026-11-08T14:45:47.000Z",
+    "summary": "The legendary Brazilian metal band played their final show ever in their home country last night (Nov. 7), complete with an expansive setlist and plenty of guest appearances! Continue reading…",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/justin-timberlake-what-goes-around-comes-around-britney-spears-1235654443/",
     "source": "rolling-stone",
     "title": "Justin Timberlake Reveals ‘What Goes Around… Comes Around’ Is Not About Britney Spears",
     "url": "https://www.rollingstone.com/music/music-news/justin-timberlake-what-goes-around-comes-around-britney-spears-1235654443/",
     "publishedAt": "2026-11-08T14:33:47.000Z",
     "summary": "\"Maybe I should dispel a rumor at this point, which has gone around forever, which is like, it’s not a personal story from mine,\" singer says of FutureSex/LoveSounds hit",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/celine-dion-paris-tickets-best-deals-prices-offers-online-1236339179/",
+    "source": "billboard",
+    "title": "Here’s Where to Find Tickets to Celine Dion’s 2027 Paris Residency Online",
+    "url": "https://www.billboard.com/culture/product-recommendations/celine-dion-paris-tickets-best-deals-prices-offers-online-1236339179/",
+    "publishedAt": "2026-11-08T13:34:00.000Z",
+    "summary": "The residency marks the singer's big comeback since announcing her diagnosis with Stiff Person Syndrome in 2022.",
     "image": null
   },
   {
@@ -195,42 +249,6 @@
     "url": "https://www.rollingstone.com/music/music-news/snl-watch-the-strokes-perform-lonely-future-going-shopping-1235654344/",
     "publishedAt": "2026-11-08T07:40:07.000Z",
     "summary": "Both songs are from the New York rock band's latest album, Reality Awaits",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/u2-macklemore-ed-sheeran-tour-censorship-comments-1236377026/",
-    "source": "billboard",
-    "title": "U2 Weigh In on Ed Sheeran and Macklemore Tour Controversy",
-    "url": "https://www.billboard.com/music/music-news/u2-macklemore-ed-sheeran-tour-censorship-comments-1236377026/",
-    "publishedAt": "2026-11-08T03:53:23.000Z",
-    "summary": "The Edge and Larry Mullen Jr. defended the rapper’s right to speak out, while the Edge said Sheeran “should not be vilified”.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/simple-plan-new-generation-fans-chuck-comeau-interview-1236368697/",
-    "source": "billboard",
-    "title": "Simple Plan Are Meeting a Whole New Generation of Fans, 25 Years In",
-    "url": "https://www.billboard.com/music/music-news/simple-plan-new-generation-fans-chuck-comeau-interview-1236368697/",
-    "publishedAt": "2026-11-08T03:45:04.000Z",
-    "summary": "Drummer Chuck Comeau talks TikTok, Good Things Festival, and why a farewell tour is “not in the cards”",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/snl-2026-druski-the-strokes-watch-live-online-free-1236375885/",
-    "source": "billboard",
-    "title": "Druski & The Strokes on ‘SNL’: Here’s Where to Watch ‘Saturday Night Live’ Online for Free",
-    "url": "https://www.billboard.com/culture/product-recommendations/snl-2026-druski-the-strokes-watch-live-online-free-1236375885/",
-    "publishedAt": "2026-11-08T01:30:00.000Z",
-    "summary": "Livestream the comedian host and the indie rock band perform on Nov. 7 — watch live online for free.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/pride/alanis-morissette-pansexual-1236376991/",
-    "source": "billboard",
-    "title": "Alanis Morissette Shares She Identifies as Pansexual",
-    "url": "https://www.billboard.com/culture/pride/alanis-morissette-pansexual-1236376991/",
-    "publishedAt": "2026-11-08T00:39:09.000Z",
-    "summary": "The singer-songwriter chatted about it briefly in a podcast appearance the week of releasing her new holiday album.",
     "image": null
   },
   {
@@ -600,24 +618,6 @@
     "url": "https://loudwire.com/2026-hard-rock-metal-album-release-calendar/",
     "publishedAt": "2026-11-06T05:01:48.000Z",
     "summary": "See all the new releases coming each week of 2026. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/half-ozzfest-2027-lineup-sharon-osbourne/",
-    "source": "loudwire",
-    "title": "Sharon Osbourne Reveals Ozzfest 2027 Lineup Is Half Confirmed",
-    "url": "https://loudwire.com/half-ozzfest-2027-lineup-sharon-osbourne/",
-    "publishedAt": "2026-11-05T20:48:35.000Z",
-    "summary": "Fans are waiting to see which bands will play Ozzfest next year and Sharon Osbourne has revealed how much progress has been made on that front. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/least-played-rush-songs-live/",
-    "source": "loudwire",
-    "title": "The Least Played Song Off All 19 Rush Albums",
-    "url": "https://loudwire.com/least-played-rush-songs-live/",
-    "publishedAt": "2026-11-05T19:10:36.000Z",
-    "summary": "See how many times they were played and when Rush last played them. Continue reading…",
     "image": null
   },
   {
