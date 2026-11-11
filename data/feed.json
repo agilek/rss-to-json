@@ -1,92 +1,128 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/awards/carl-cox-presented-obe-prince-william-1236379201/",
+    "source": "billboard",
+    "title": "‘Beyond Anything I Could Have Imagined’: Carl Cox  Presented With OBE By Prince William",
+    "url": "https://www.billboard.com/music/awards/carl-cox-presented-obe-prince-william-1236379201/",
+    "publishedAt": "2026-11-11T04:15:00.000Z",
+    "summary": "The pioneering DJ and record producer was honored during a ceremony at Windsor Castle.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/josephine-vaccarello-accepts-the-executive-of-the-year/",
+    "source": "billboard",
+    "title": "Josephine Vaccarello Accepts the Executive of the Year | Billboard Live Music Summit 2026  ",
+    "url": "https://www.billboard.com/video/josephine-vaccarello-accepts-the-executive-of-the-year/",
+    "publishedAt": "2026-11-11T04:04:14.000Z",
+    "summary": "MSG’s Josephine Vaccarello accepts the Executive of the Year from Billboard’s Leila Cobo at the 2026 Billboard Live Music Summit.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/jack-river-gyro-borderline-1236379169/",
+    "source": "billboard",
+    "title": "Jack River Signs With G.Y.R.O., Releases First New Music In Three Years",
+    "url": "https://www.billboard.com/music/music-news/jack-river-gyro-borderline-1236379169/",
+    "publishedAt": "2026-11-11T03:45:00.000Z",
+    "summary": "“Borderline” is Jack River’s first release since 2023’s \"Endless Summer.\"",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/awards/ninajirachi-2026-nsw-music-prize-1236379122/",
+    "source": "billboard",
+    "title": "Ninajirachi Wins 2026 NSW Music Prize",
+    "url": "https://www.billboard.com/music/awards/ninajirachi-2026-nsw-music-prize-1236379122/",
+    "publishedAt": "2026-11-11T03:15:00.000Z",
+    "summary": "The Aussie DJ and producer collected the top award for her debut studio album, \"I Love My Computer.\"",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/brandy-monica-las-vegas-residency-dates-boy-is-mine-1236379156/",
+    "source": "billboard",
+    "title": "Brandy & Monica Announce The Boy Is Mine Las Vegas Residency: See Dates",
+    "url": "https://www.billboard.com/music/rb-hip-hop/brandy-monica-las-vegas-residency-dates-boy-is-mine-1236379156/",
+    "publishedAt": "2026-11-11T03:05:25.000Z",
+    "summary": "Monica tells Billboard that seeing Gladys Knight in Sin City was \"probably the first time that I said to myself, 'I could totally see myself being in Vegas eventually.'\"",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/business/touring/weezer-billboard-legends-of-live-award-1236379084/",
+    "source": "billboard",
+    "title": "Weezer Honored as Billboard Legends of Live as Rivers Cuomo Reflects on the Road Life: ‘A Mission I Want to Take On’",
+    "url": "https://www.billboard.com/business/touring/weezer-billboard-legends-of-live-award-1236379084/",
+    "publishedAt": "2026-11-11T03:05:20.000Z",
+    "summary": "Rivers Cuomo, Patrick Wilson and Scott Shriner chatted about their booming touring business at the 2026 Billboard Live Music Summit.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/garth-brooks-sevens-network-lightning-200-station-frequency/",
+    "source": "billboard",
+    "title": "Garth Brooks’ Sevens Network to Acquire Lightning 100’s Radio Station Frequency",
+    "url": "https://www.billboard.com/pro/garth-brooks-sevens-network-lightning-200-station-frequency/",
+    "publishedAt": "2026-11-11T02:38:59.000Z",
+    "summary": "The Lightning 100 format will continue on Cromwell Media’s 106.3 and 102.5HD3 frequencies.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/international-touring-opportunities-challenges/",
+    "source": "billboard",
+    "title": "International Touring Panel: The Opportunities & Challenges of Global Touring | Billboard Live Music Summit 2026",
+    "url": "https://www.billboard.com/video/international-touring-opportunities-challenges/",
+    "publishedAt": "2026-11-11T02:27:34.000Z",
+    "summary": "The touring sector is stronger than ever in key territories including the United States and Europe. But as music becomes increasingly global, promoters and developers are looking beyond the space’s traditional strongholds to expand touring to new markets. For this panel, Billboard assembled key players in the concert industry’s accelerating worldwide expansion to break down […]",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/los-angeles-azules-tini-pa-el-regional-mexican-airplay-1236379193/",
+    "source": "billboard",
+    "title": "‘Pa’ Él’ Lifts Los Ángeles Azules & Tini to No. 1 on Regional Mexican Airplay Chart",
+    "url": "https://www.billboard.com/music/chart-beat/los-angeles-azules-tini-pa-el-regional-mexican-airplay-1236379193/",
+    "publishedAt": "2026-11-11T02:08:55.000Z",
+    "summary": "It’s a first for Tini and a ninth chart-topper for the Mexican siblings.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/festivals-panel-evolution-of-festivals-live-music-summit/",
+    "source": "billboard",
+    "title": "Festivals Panel: The Evolution of Festivals | Billboard Live Music Summit 2026",
+    "url": "https://www.billboard.com/video/festivals-panel-evolution-of-festivals-live-music-summit/",
+    "publishedAt": "2026-11-11T01:56:48.000Z",
+    "summary": "From the new Daisy Chain Fields music festival to established heavyweights like Coachella, the festival space remains strong, but it is also changing, as genre and artist-focused events continue to grow in popularity. Billboard has gathered several key festival promoters, as well as voices from the management and agency words, to analyze the current factors […]",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/sammy-kershaw-cma-red-carpet-1235655585/",
+    "source": "rolling-stone",
+    "title": "After Online Uproar, Sammy Kershaw and His Wife Will Walk CMA Awards Red Carpet",
+    "url": "https://www.rollingstone.com/music/music-country/sammy-kershaw-cma-red-carpet-1235655585/",
+    "publishedAt": "2026-11-11T00:37:52.000Z",
+    "summary": "After the Nineties hitmaker and his wife were denied access to the red carpet, a slew of artists rallied around him",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/sade-not-attending-rock-roll-hall-fame-induction-ceremony-1235655607/",
+    "source": "rolling-stone",
+    "title": "Sade Are Not Attending Rock & Roll Hall of Fame Induction Ceremony",
+    "url": "https://www.rollingstone.com/music/music-news/sade-not-attending-rock-roll-hall-fame-induction-ceremony-1235655607/",
+    "publishedAt": "2026-11-11T00:07:44.000Z",
+    "summary": "“Please know that our absence takes nothing away from how much this recognition means to us,” band writes",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/megan-thee-stallion-daniel-radcliffe-reunite-reggie-dinkins-1235655555/",
+    "source": "rolling-stone",
+    "title": "Megan Thee Stallion and Daniel Radcliffe Reunite for Season Two of ‘Reggie Dinkins’",
+    "url": "https://www.rollingstone.com/music/music-news/megan-thee-stallion-daniel-radcliffe-reunite-reggie-dinkins-1235655555/",
+    "publishedAt": "2026-11-10T23:27:50.000Z",
+    "summary": "The rapper will reprise her role as a divorced mom who strikes up a flirtation with Radcliffe's character on The Fall and Rise of Reggie Dinkins",
+    "image": null
+  },
+  {
     "id": "pitchfork-https://pitchfork.com/story/king-gizzard-and-the-lizard-wizard-announce-new-album-entropy-two-north-american-tours/",
     "source": "pitchfork",
     "title": "King Gizzard & the Lizard Wizard Announce New Album Entropy, Two North American Tours",
     "url": "https://pitchfork.com/story/king-gizzard-and-the-lizard-wizard-announce-new-album-entropy-two-north-american-tours/",
     "publishedAt": "2026-11-10T22:39:03.000Z",
     "summary": "It’s a companion LP to their last album, Alien Metal",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/michael-jackson-thriller-number-1-rb-albums-chart-halloween-1236379040/",
-    "source": "billboard",
-    "title": "Michael Jackson’s ‘Thriller’ Scares Up 40th Week at No. 1 on Top R&B/Hip-Hop Albums Chart",
-    "url": "https://www.billboard.com/music/chart-beat/michael-jackson-thriller-number-1-rb-albums-chart-halloween-1236379040/",
-    "publishedAt": "2026-11-10T22:24:19.000Z",
-    "summary": "The set’s title track sparks gains for the landmark album after its annual Halloween surge.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/goldie-hawn-recalls-meeting-elvis-presley-1236379011/",
-    "source": "billboard",
-    "title": "Nothing to Cluck At: Goldie Hawn Recalls Wacky Thing Elvis Presley Said She Looked Like When They First Met",
-    "url": "https://www.billboard.com/music/music-news/goldie-hawn-recalls-meeting-elvis-presley-1236379011/",
-    "publishedAt": "2026-11-10T22:16:51.000Z",
-    "summary": "All the actress could do at the time was say \"thank you.\"",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-    "source": "billboard",
-    "title": "Billboard’s Music Industry Events Calendar",
-    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-    "publishedAt": "2026-11-10T22:05:00.000Z",
-    "summary": "A complete rundown of the most important events across the music business.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/love-and-hip-hop-the-final-chapter-watch-philo-online-free-1236378733/",
-    "source": "billboard",
-    "title": "Here’s How to Watch ‘Love & Hip Hop: The Final Chapter’ Online With Philo",
-    "url": "https://www.billboard.com/culture/product-recommendations/love-and-hip-hop-the-final-chapter-watch-philo-online-free-1236378733/",
-    "publishedAt": "2026-11-10T21:56:39.000Z",
-    "summary": "After 15 years, you can stream the six-part limited reality TV series on Tuesdays on VH1.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/awards/nicko-mcbrain-iron-maiden-rock-hall-1236378934/",
-    "source": "billboard",
-    "title": "Nicko McBrain on Iron Maiden Missing Its Rock Hall Induction: ‘I’m Sure We’ll Say Thank You In Another Way’",
-    "url": "https://www.billboard.com/music/awards/nicko-mcbrain-iron-maiden-rock-hall-1236378934/",
-    "publishedAt": "2026-11-10T21:40:59.000Z",
-    "summary": "The drummer, who recently retired from the road, is releasing his memoir, Hello Boys and Girls!, ahead of the ceremony.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/awards/2027-grammys-nominations-predictions-rb-album-jill-scott-1236378519/",
-    "source": "billboard",
-    "title": "Jill Scott & Kehlani Face Off In Crowded R&B Album Category at 2027 Grammys: Our Predictions",
-    "url": "https://www.billboard.com/music/awards/2027-grammys-nominations-predictions-rb-album-jill-scott-1236378519/",
-    "publishedAt": "2026-11-10T21:31:42.000Z",
-    "summary": "A Philly v. Oakland showdown is brewing.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/best-christmas-gifts-for-parents-2026-buy-shop-online-1236374289/",
-    "source": "billboard",
-    "title": "The 23 Best Christmas Gifts for Parents to Shop Online in 2026",
-    "url": "https://www.billboard.com/culture/product-recommendations/best-christmas-gifts-for-parents-2026-buy-shop-online-1236374289/",
-    "publishedAt": "2026-11-10T21:19:55.000Z",
-    "summary": "Cheers to another year of being the best gift giver in the family — we won't take credit.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/halloween-streaming-michael-jackson-thriller-tame-impala-1236378963/",
-    "source": "billboard",
-    "title": "Is Halloween About To Become the New Christmas on the Hot 100?",
-    "url": "https://www.billboard.com/music/chart-beat/halloween-streaming-michael-jackson-thriller-tame-impala-1236378963/",
-    "publishedAt": "2026-11-10T21:14:44.000Z",
-    "summary": "This week's Five Burning Questions looks at new Oct. 31-boosted chart peaks for Michael Jackson's \"Thriller\" and Tame Impala & JENNIE's \"Dracula.\"",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/video/hip-hop-changed-billboard-charts-rappers-delight-to-today/",
-    "source": "billboard",
-    "title": "How Hip-Hop Changed the Billboard Charts: From ‘Rapper’s Delight’ to Today | Billboard News",
-    "url": "https://www.billboard.com/video/hip-hop-changed-billboard-charts-rappers-delight-to-today/",
-    "publishedAt": "2026-11-10T21:10:36.000Z",
-    "summary": "This is partner content. From Sugarhill Gang’s “Rapper’s Delight” breaking into the Hot 100 to chart milestones from Ms. Lauryn Hill, Eminem, Outkast, Drake and Kendrick Lamar, look back at the moments that helped hip-hop reshape music and culture. Tetris Kelly: From block parties in the Bronx to the top of the Billboard charts, hip-hop […]",
     "image": null
   },
   {
@@ -105,15 +141,6 @@
     "url": "https://www.rollingstone.com/music/music-features/henry-rollins-interview-punk-rock-exhibit-nashville-1235655339/",
     "publishedAt": "2026-11-10T20:59:42.000Z",
     "summary": "The hardcore legend brings his vast collection of punk memorabilia to life in a Nashville gallery, with an eye on showing it to the world",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/features/momo-boyd-interview-solo-career-infinity-song-1236378917/",
-    "source": "billboard",
-    "title": "Momo vs. Momo: How Momo Boyd Is Finding Her Own Voice While Staying True to Infinity Song — ‘That’s Always Been the Dream’",
-    "url": "https://www.billboard.com/music/features/momo-boyd-interview-solo-career-infinity-song-1236378917/",
-    "publishedAt": "2026-11-10T20:22:00.000Z",
-    "summary": "Momo Boyd talks embracing creative freedom, exploring different sounds and refusing to put herself in a box: “It's about being able to dip into anything you enjoy without limitations.”",
     "image": null
   },
   {
@@ -270,12 +297,12 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/2026-cma-awards-performers-chris-stapleton-mumford-and-sons-1235655086/",
-    "source": "rolling-stone",
-    "title": "Mumford & Sons, Halestorm, Chris Stapleton Set to Perform at 2026 CMA Awards",
-    "url": "https://www.rollingstone.com/music/music-country/2026-cma-awards-performers-chris-stapleton-mumford-and-sons-1235655086/",
-    "publishedAt": "2026-11-10T16:16:18.000Z",
-    "summary": "The British trio, the hard-rock band, and the country troubadour will join an already announced lineup including Kacey Musgraves, Ella Langley, and Tim McGraw",
+    "id": "nme-https://news.google.com/rss/articles/CBMipwFBVV95cUxOUnpQVGtaTjZuR21jZmdjRFBWYW5oWEhCQ3ptYy03cDAzd0pTdnRwS1czQ0ZBck1yVFNSMmhoODhHSVZzVG9VT3FFbW44aElZcXRtb1N2NTR3ajk0Q2FjTTFsMjVWVi0tYWtPc1NRY19IMmJLbm9xMXMyOGlGT3kxV01hSVBoQms2empSc0VsWVZIX3c4TmVhMlJrclZQZzItWVY0ajM0bw?oc=5",
+    "source": "nme",
+    "title": "Tove Lo drops new single from ‘GTA 6’ soundtrack, ‘Blood In Your Eyes’ - NME",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUnpQVGtaTjZuR21jZmdjRFBWYW5oWEhCQ3ptYy03cDAzd0pTdnRwS1czQ0ZBck1yVFNSMmhoODhHSVZzVG9VT3FFbW44aElZcXRtb1N2NTR3ajk0Q2FjTTFsMjVWVi0tYWtPc1NRY19IMmJLbm9xMXMyOGlGT3kxV01hSVBoQms2empSc0VsWVZIX3c4TmVhMlJrclZQZzItWVY0ajM0bw?oc=5",
+    "publishedAt": "2026-11-10T16:04:12.000Z",
+    "summary": "Tove Lo drops new single from ‘GTA 6’ soundtrack, ‘Blood In Your Eyes’ NME",
     "image": null
   },
   {
@@ -294,24 +321,6 @@
     "url": "https://pitchfork.com/story/palehound-announces-new-album-you-sing-like-youre-joking/",
     "publishedAt": "2026-11-10T15:09:35.000Z",
     "summary": "Water From Your Eyes’ Rachel Brown directed the music video for lead single “Natural Disasters”",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/teilz-come-to-mommy-love-heartbreak-interview-1235652666/",
-    "source": "rolling-stone",
-    "title": "Teilz Has Lived Many Lives, But Her Pop Moment Is Just Beginning",
-    "url": "https://www.rollingstone.com/music/music-features/teilz-come-to-mommy-love-heartbreak-interview-1235652666/",
-    "publishedAt": "2026-11-10T15:00:00.000Z",
-    "summary": "She tells us how her wild years as a teen DJ phenom, a tabloid fixture, and so much more went into her playful debut, Come to Mommy",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/palehound-you-sing-like-youre-joking-new-album-1235653001/",
-    "source": "rolling-stone",
-    "title": "Palehound Return With First Album in Nearly Four Years",
-    "url": "https://www.rollingstone.com/music/music-news/palehound-you-sing-like-youre-joking-new-album-1235653001/",
-    "publishedAt": "2026-11-10T15:00:00.000Z",
-    "summary": "You Sing Like You’re Joking is set for release on February 5",
     "image": null
   },
   {
@@ -366,6 +375,15 @@
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUndMTFU1WW8wZUdTdEdBamJlQ2J3dTl6N0ZDdkttZUVTNUM0SUxSOFVyMUk2YUdSdFdZdDFWeUcwSVUyVmlQaURVYjRCOWJsTzZxd3JENmxLbl9ra0p4d1FEMzFzZUdDd1FIckVQQzZVMnBPejhDV0lld05fcXZRNU9EX09YSUg5d0FKR2Ntb0U0UHQtSUx6ODVRZ3lvWjhza1R6VTUyS3lNSk0tbUE?oc=5",
     "publishedAt": "2026-11-10T12:37:02.000Z",
     "summary": "Oasis to reportedly skip Rock and Roll Hall of Fame induction ceremony NME",
+    "image": null
+  },
+  {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMigAFBVV95cUxQcHZnRXFDa3dIelZCamUtWjVCV2JPdFBCM1lqcWd0eVp1Sy1zSlM0NEVNZTc0NlIySzFndDhFeWNqT19FMkE4Y3NDUTdvZnBOdlNCdXFMTHRCZE42MGNaZDN4WVhuVjdBQm80RnBTQU9YLWtxRDN1eElod1A2S0t1Zg?oc=5",
+    "source": "kerrang",
+    "title": "Album review – Reclus.É – The World Can’t Take Much More - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcHZnRXFDa3dIelZCamUtWjVCV2JPdFBCM1lqcWd0eVp1Sy1zSlM0NEVNZTc0NlIySzFndDhFeWNqT19FMkE4Y3NDUTdvZnBOdlNCdXFMTHRCZE42MGNaZDN4WVhuVjdBQm80RnBTQU9YLWtxRDN1eElod1A2S0t1Zg?oc=5",
+    "publishedAt": "2026-11-10T11:39:31.000Z",
+    "summary": "Album review – Reclus.É – The World Can’t Take Much More Kerrang!",
     "image": null
   },
   {
@@ -510,15 +528,6 @@
     "url": "https://www.uncut.co.uk/features/freak-out-the-101-weirdest-albums-of-all-time-156889/",
     "publishedAt": "2026-11-09T17:26:12.000Z",
     "summary": "Some are legendary, others almost impossible to find – but all have a story worth hearing",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMirwFBVV95cUxQbGhOcktQMEtfbmZkZnFDbVhhczF3b3c5aHpCZExVTV9WRFNFb3oxb1NFb0QzT2pVZkZQckVHVVFOa2Jod0R3UHFiSWF2dW1yYms3UGtuWXlMX3Y3VUNFMjVRUkgzQXNvYnRlQ2M1YVBoUVh3Z1FycE9DazQ0LThVSEdWTG1PRThBZG93YnBTLUJoQ0U0cmVQekxvYjBQLWlIS1poWmdpdTd3NXdpdXEw?oc=5",
-    "source": "nme",
-    "title": "Watch Geese pay tribute to Television’s Richard Lloyd with cover of ‘Ain’t That Nothin” - NME",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbGhOcktQMEtfbmZkZnFDbVhhczF3b3c5aHpCZExVTV9WRFNFb3oxb1NFb0QzT2pVZkZQckVHVVFOa2Jod0R3UHFiSWF2dW1yYms3UGtuWXlMX3Y3VUNFMjVRUkgzQXNvYnRlQ2M1YVBoUVh3Z1FycE9DazQ0LThVSEdWTG1PRThBZG93YnBTLUJoQ0U0cmVQekxvYjBQLWlIS1poWmdpdTd3NXdpdXEw?oc=5",
-    "publishedAt": "2026-11-09T17:00:54.000Z",
-    "summary": "Watch Geese pay tribute to Television’s Richard Lloyd with cover of ‘Ain’t That Nothin” NME",
     "image": null
   },
   {
@@ -690,15 +699,6 @@
     "url": "https://www.uncut.co.uk/news/listen-to-a-newly-unveiled-1977-version-of-pink-floyds-sheep-156953/",
     "publishedAt": "2026-11-05T16:09:52.000Z",
     "summary": "Baa! Moo! Oink!",
-    "image": null
-  },
-  {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaXRCQUtpc2JhVnItSnN0ZXBuOWpGME85cUJmU1BEMkhDSDhKNXd6Z2pIRDFqTmp3Zmpud2g3bG9ZcTEzX212VFRraXNOdndscTdkVFBYZ3RxOHVyeDdOQlk0bHVMUWZHTVl3N3RJUnVreVJUWXBPMzF0RWdac1RZRXR4TVJ1SUZiRVlDU2xlLWJGb2lsV3hwODFGMmJVcWhocjdtSkc5cVVRZjY2aUxSWmctdElMcFV5Z2F4c2xaNE80RUowSTIxaVNxS3BhYWhIWmZoclM0VQ?oc=5",
-    "source": "kerrang",
-    "title": "Ozzfest confirms dates and locations of 2027 comeback - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaXRCQUtpc2JhVnItSnN0ZXBuOWpGME85cUJmU1BEMkhDSDhKNXd6Z2pIRDFqTmp3Zmpud2g3bG9ZcTEzX212VFRraXNOdndscTdkVFBYZ3RxOHVyeDdOQlk0bHVMUWZHTVl3N3RJUnVreVJUWXBPMzF0RWdac1RZRXR4TVJ1SUZiRVlDU2xlLWJGb2lsV3hwODFGMmJVcWhocjdtSkc5cVVRZjY2aUxSWmctdElMcFV5Z2F4c2xaNE80RUowSTIxaVNxS3BhYWhIWmZoclM0VQ?oc=5",
-    "publishedAt": "2026-11-05T15:07:56.000Z",
-    "summary": "Ozzfest confirms dates and locations of 2027 comeback Kerrang!",
     "image": null
   },
   {
