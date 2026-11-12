@@ -1,5 +1,50 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/music/concerts/anyma-return-great-pyramids-of-giza-2027-1236379880/",
+    "source": "billboard",
+    "title": "Anyma Will Return to the Great Pyramids of Giza In 2027",
+    "url": "https://www.billboard.com/music/concerts/anyma-return-great-pyramids-of-giza-2027-1236379880/",
+    "publishedAt": "2026-11-12T04:39:15.000Z",
+    "summary": "Jean-Michel Jarre will share the stage for both shows, for what will mark the French electronic music pioneer’s own return to Giza.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/ebro-peter-rosenberg-kanye-west-touring-success-debate-1236379601/",
+    "source": "billboard",
+    "title": "Ebro & Peter Rosenberg Aren’t Buying Ye’s ‘Comeback’ Narrative After Antisemitism: ‘It’s All Marketing’",
+    "url": "https://www.billboard.com/music/rb-hip-hop/ebro-peter-rosenberg-kanye-west-touring-success-debate-1236379601/",
+    "publishedAt": "2026-11-12T00:56:03.000Z",
+    "summary": "West had more than 83,000 fans attend his AT&T Stadium show in Dallas over the weekend.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/young-thug-birdman-dismissed-lil-wayne-bus-shooting-lawsuit/",
+    "source": "billboard",
+    "title": "Young Thug and Birdman Dismissed From Lawsuit Over 2015 Lil Wayne Tour Bus Shooting",
+    "url": "https://www.billboard.com/pro/young-thug-birdman-dismissed-lil-wayne-bus-shooting-lawsuit/",
+    "publishedAt": "2026-11-12T00:50:29.000Z",
+    "summary": "The shooting was cited as part of the sweeping YSL gang prosecution in Atlanta, in which Thug ultimately walked free.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/tv-film/ariana-grande-ricky-alvarez-red-carpet-photos-focker-in-law-1236379763/",
+    "source": "billboard",
+    "title": "Ariana Grande & Ricky Alvarez Make Red-Carpet Debut at ‘Focker-in-Law’ NYC Premiere: See Photos",
+    "url": "https://www.billboard.com/culture/tv-film/ariana-grande-ricky-alvarez-red-carpet-photos-focker-in-law-1236379763/",
+    "publishedAt": "2026-11-12T00:36:52.000Z",
+    "summary": "Though they originally dated in 2015-16, the couple were only snapped on a red carpet for the very first time on Wednesday night.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/yella-beezy-guilty-murder-mo3-dallas-highway-1236379779/",
+    "source": "billboard",
+    "title": "Yella Beezy Found Guilty in 2020 Murder of Rapper MO3 on a Dallas Highway",
+    "url": "https://www.billboard.com/music/rb-hip-hop/yella-beezy-guilty-murder-mo3-dallas-highway-1236379779/",
+    "publishedAt": "2026-11-12T00:09:04.000Z",
+    "summary": "The 35-year-old was unanimously convicted of capital murder.",
+    "image": null
+  },
+  {
     "id": "billboard-https://www.billboard.com/pro/summer-walker-lawsuit-countersued-lvrn-commissions/",
     "source": "billboard",
     "title": "Summer Walker Countersued by LVRN for Commissions and Royalties: ‘Stubbornly Litigious’",
@@ -41,7 +86,7 @@
     "title": "Slayyyter, Phoebe Bridgers, Billy Strings to Headline Iowa’s 2027 Hinterland Festival",
     "url": "https://www.billboard.com/music/concerts/2027-hinterland-fest-slayyyter-phoebe-bridgers-billy-strings-lineup-1236379427/",
     "publishedAt": "2026-11-11T22:56:43.000Z",
-    "summary": "The July 30-Aug. 1 event in St. Charles, Iowa will also feature sets from Remi Wolf, Violet Grohl, Malcolm Todd, Zach Top and bbno$, among others.",
+    "summary": "The July 30-Aug. 1 event in St. Charles, Iowa will also feature sets from Remi Wolf, Violet Grohl, Malcolm Todd & Zach Top, among others.",
     "image": null
   },
   {
@@ -51,24 +96,6 @@
     "url": "https://www.rollingstone.com/music/music-news/phoebe-bridgers-slayyyter-billy-strings-hinterland-2027-1235655891/",
     "publishedAt": "2026-11-11T22:43:33.000Z",
     "summary": "Remi Wolf, Caroline Polachek, Westside Cowboy, and others also set to perform at Iowa fest",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-    "source": "billboard",
-    "title": "Billboard’s Music Industry Events Calendar",
-    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-    "publishedAt": "2026-11-11T22:29:00.000Z",
-    "summary": "A complete rundown of the most important events across the music business.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/griz-12-days-of-grizmas-2026-program-charity-detroit-1236379732/",
-    "source": "billboard",
-    "title": "GRiZ’s ’12 Days of GRiZMAS’ Charity Drive Announces 2026 Program",
-    "url": "https://www.billboard.com/music/music-news/griz-12-days-of-grizmas-2026-program-charity-detroit-1236379732/",
-    "publishedAt": "2026-11-11T22:26:45.000Z",
-    "summary": "Happening in Detroit Dec. 8-19, the event will feature yoga, dodgeball, ice skating and more — all for a good cause.",
     "image": null
   },
   {
@@ -87,33 +114,6 @@
     "url": "https://www.rollingstone.com/music/music-country/the-cadillac-three-break-up-jaren-johnston-solo-album-1235656110/",
     "publishedAt": "2026-11-11T22:21:01.000Z",
     "summary": "\"When I had to come off the road, they understood,\" the group's frontman says of his bandmates, who haven't given a public concert together since 2024",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/travis-kelce-taylor-swift-tailgate-stage-help-1236379701/",
-    "source": "billboard",
-    "title": "Travis Kelce Plans to Consult Taylor Swift on This Business Venture: ‘I’ll See What My Wife Can Cook Up’",
-    "url": "https://www.billboard.com/music/music-news/travis-kelce-taylor-swift-tailgate-stage-help-1236379701/",
-    "publishedAt": "2026-11-11T22:17:00.000Z",
-    "summary": "The pop star knows a thing or two about putting on a good show.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/elvis-ai-music-lawsuit-explained-why-estate-suing-suno/",
-    "source": "billboard",
-    "title": "The Elvis AI Lawsuit, Explained",
-    "url": "https://www.billboard.com/pro/elvis-ai-music-lawsuit-explained-why-estate-suing-suno/",
-    "publishedAt": "2026-11-11T22:13:41.000Z",
-    "summary": "The King is jumping into a long-running legal battle over AI music, but he’s doing it in a very different way.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/usher-chris-brown-rb-tour-guests/",
-    "source": "billboard",
-    "title": "Usher & Chris Brown’s R&B Tour: All of the Surprise Guests So Far",
-    "url": "https://www.billboard.com/lists/usher-chris-brown-rb-tour-guests/",
-    "publishedAt": "2026-11-11T21:43:09.000Z",
-    "summary": "The North American trek kicked off in Denver on June 26.",
     "image": null
   },
   {
@@ -342,6 +342,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMipAFBVV95cUxPX2EtWGw3RnVSWEY2YjJ5UVVHQ1hpaW11M21aZnFHRlZfcGNsLTl6Wm1famJXUC11UWNiYm9JUjF2VnpZTXUxaWwzZG96TFNPUUtBTERiZjVzM2l3VEdMS0FKVXFrX0lmNDRnRTR2QUJEblJybUZsNWVBZjhGUG14R3pBMFlvMFVLajBiaW5jMUtsemloS3lia0RjdVJYOU1GRVRNRw?oc=5",
+    "source": "nme",
+    "title": "Judge sets new trial date for Steven Tyler’s sexual assault case - NME",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX2EtWGw3RnVSWEY2YjJ5UVVHQ1hpaW11M21aZnFHRlZfcGNsLTl6Wm1famJXUC11UWNiYm9JUjF2VnpZTXUxaWwzZG96TFNPUUtBTERiZjVzM2l3VEdMS0FKVXFrX0lmNDRnRTR2QUJEblJybUZsNWVBZjhGUG14R3pBMFlvMFVLajBiaW5jMUtsemloS3lia0RjdVJYOU1GRVRNRw?oc=5",
+    "publishedAt": "2026-11-11T13:39:46.000Z",
+    "summary": "Judge sets new trial date for Steven Tyler’s sexual assault case NME",
+    "image": null
+  },
+  {
     "id": "loudwire-https://loudwire.com/anticipated-rock-metal-albums-2027/",
     "source": "loudwire",
     "title": "The Most Anticipated Rock + Metal Albums of 2027",
@@ -492,15 +501,6 @@
     "url": "https://loudwire.com/hard-rock-album-hot-streaks-1980s-1990s/",
     "publishedAt": "2026-11-10T16:53:14.000Z",
     "summary": "Two of the biggest decades for hard rock and we break down the three-album hot streaks that kept these bands dominant in the 1980s and 1990s. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMipwFBVV95cUxOUnpQVGtaTjZuR21jZmdjRFBWYW5oWEhCQ3ptYy03cDAzd0pTdnRwS1czQ0ZBck1yVFNSMmhoODhHSVZzVG9VT3FFbW44aElZcXRtb1N2NTR3ajk0Q2FjTTFsMjVWVi0tYWtPc1NRY19IMmJLbm9xMXMyOGlGT3kxV01hSVBoQms2empSc0VsWVZIX3c4TmVhMlJrclZQZzItWVY0ajM0bw?oc=5",
-    "source": "nme",
-    "title": "Tove Lo drops new single from ‘GTA 6’ soundtrack, ‘Blood In Your Eyes’ - NME",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUnpQVGtaTjZuR21jZmdjRFBWYW5oWEhCQ3ptYy03cDAzd0pTdnRwS1czQ0ZBck1yVFNSMmhoODhHSVZzVG9VT3FFbW44aElZcXRtb1N2NTR3ajk0Q2FjTTFsMjVWVi0tYWtPc1NRY19IMmJLbm9xMXMyOGlGT3kxV01hSVBoQms2empSc0VsWVZIX3c4TmVhMlJrclZQZzItWVY0ajM0bw?oc=5",
-    "publishedAt": "2026-11-10T16:04:12.000Z",
-    "summary": "Tove Lo drops new single from ‘GTA 6’ soundtrack, ‘Blood In Your Eyes’ NME",
     "image": null
   },
   {
