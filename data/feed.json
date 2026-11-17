@@ -1,29 +1,326 @@
 [
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-lists/grammys-nominations-snubs-surprises-harry-styles-noah-kahan-1235658612/",
-    "source": "rolling-stone",
-    "title": "Where the Hell Is Harry? And More of This Year’s Biggest Grammys Snubs and Surprises",
-    "url": "https://www.rollingstone.com/music/music-lists/grammys-nominations-snubs-surprises-harry-styles-noah-kahan-1235658612/",
-    "publishedAt": "2026-11-16T14:00:01.000Z",
-    "summary": "Harry Styles is completely shut out of the 2027 nominations, but that's not the only unexpected result this morning",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/hatebreed-jamey-jasta-dream-festival-headliner/",
-    "source": "loudwire",
-    "title": "Hatebreed's Jamey Jasta Names His Dream Festival Headline Act",
-    "url": "https://loudwire.com/hatebreed-jamey-jasta-dream-festival-headliner/",
-    "publishedAt": "2026-11-16T13:55:55.000Z",
-    "summary": "Though this band just played their 'farewell' performance, Jasta says his hypothetical scenario would feature old school members returning and pulling off a 'best of both worlds' set. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/chance-the-rapper-celebrates-birth-third-daughter-hayli-1236382876/",
+    "id": "billboard-https://www.billboard.com/pro/hybe-bts-katseye-partnership-caa/",
     "source": "billboard",
-    "title": "Chance The Rapper Celebrates Birth of Third Daughter, Hayli: ‘Mom n Dad Love You’",
-    "url": "https://www.billboard.com/music/rb-hip-hop/chance-the-rapper-celebrates-birth-third-daughter-hayli-1236382876/",
-    "publishedAt": "2026-11-16T13:54:59.000Z",
-    "summary": "The 33-year-old rapper shares two other children with his ex Kirsten Corley.",
+    "title": "HYBE, Home to BTS and KATSEYE, Forms Strategic Partnership With CAA",
+    "url": "https://www.billboard.com/pro/hybe-bts-katseye-partnership-caa/",
+    "publishedAt": "2026-11-17T01:00:00.000Z",
+    "summary": "The new partnership leverages HYBE’s artist roster alongside CAA's expertise in live experiences, brand partnerships, content and more.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/luke-bryan-jason-aldean-fight-lawsuit-nashville-steakhouse/",
+    "source": "billboard",
+    "title": "Luke Bryan & Jason Aldean Fight $1.4 Million Legal Demand From Nashville Steakhouse Landlord",
+    "url": "https://www.billboard.com/pro/luke-bryan-jason-aldean-fight-lawsuit-nashville-steakhouse/",
+    "publishedAt": "2026-11-17T00:47:25.000Z",
+    "summary": "The two country stars say they aren't liable for unpaid rent following the closure of E3 Chophouse.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/photos/ourbirthday-kpop-up-comer-november-photos-1236381916/",
+    "source": "billboard",
+    "title": "OURBIRTHDAY Is Billboard’s K-Pop Up & Comer of the Month for November: Exclusive Photos",
+    "url": "https://www.billboard.com/photos/ourbirthday-kpop-up-comer-november-photos-1236381916/",
+    "publishedAt": "2026-11-17T00:00:54.000Z",
+    "summary": "From the exact moment their debut finally felt real to the sonic territories they’re eager to explore next, Billboard Korea caught up with OURBIRTHDAY.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/miley-cyrus-dolly-parton-grammy-nomination-1235659342/",
+    "source": "rolling-stone",
+    "title": "Miley Cyrus Shares Sweet Memory of Godmother Dolly Parton as They Earn a Grammy Nod Together",
+    "url": "https://www.rollingstone.com/music/music-news/miley-cyrus-dolly-parton-grammy-nomination-1235659342/",
+    "publishedAt": "2026-11-16T23:39:36.000Z",
+    "summary": "Parton has received three posthumous Grammy nods for the 69th awards",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/billboard-hot-100-top-10-countdown-for-november-21st-2026/",
+    "source": "billboard",
+    "title": "Billboard Hot 100 Top 10 Countdown for November 21st, 2026 | Billboard News",
+    "url": "https://www.billboard.com/video/billboard-hot-100-top-10-countdown-for-november-21st-2026/",
+    "publishedAt": "2026-11-16T23:26:41.000Z",
+    "summary": "Taylor Swift’s “Patient Zero” re-enters the top 10 of the Hot 100, Karol G and Ariana Grande rise, but will either take No. 1 from “Choosin’ Texas?” Tetris Kelly: This is the Billboard Hot 100 Top 10 for the week dated November 21st. “Patient Zero” returns to the top 10. Morgan Wallen falls to nine. […]",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/mississippi-politicis-scott-colom-mavis-staples-folk-fest-1235659306/",
+    "source": "rolling-stone",
+    "title": "‘Mississippi, Lord!’: Mavis Staples Sings the State Into a New Political Era",
+    "url": "https://www.rollingstone.com/music/music-features/mississippi-politicis-scott-colom-mavis-staples-folk-fest-1235659306/",
+    "publishedAt": "2026-11-16T23:10:43.000Z",
+    "summary": "On the ground at the 83rd National Folk Festival, where the soul legend joined blues, gospel, and roots musicians to celebrate the state's musical heritage — and a historic moment of change",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/hayley-williams-outbreak-fest-2027-lineup/",
+    "source": "pitchfork",
+    "title": "Hayley Williams-Curated Outbreak Fest Features Dinosaur Jr., Blood Orange",
+    "url": "https://pitchfork.com/story/hayley-williams-outbreak-fest-2027-lineup/",
+    "publishedAt": "2026-11-16T22:58:42.000Z",
+    "summary": "Also: Mannequin Pussy, Rico Nasty, Ear, Soul Glo, and, yes, Hayley Williams",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/priscilla-presley-fraud-claims-lawsuit-ex-advisers/",
+    "source": "billboard",
+    "title": "Priscilla Presley Still Faces Fraud Claims in Legal War With Former Business Advisers",
+    "url": "https://www.billboard.com/pro/priscilla-presley-fraud-claims-lawsuit-ex-advisers/",
+    "publishedAt": "2026-11-16T22:55:16.000Z",
+    "summary": "Elvis Presley's ex-wife is accusing two former business partners of elder abuse, while they say she's actually in the wrong.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/awards/miley-cyrus-reacts-dolly-parton-collab-2027-grammy-nod-1236383506/",
+    "source": "billboard",
+    "title": "Miley Cyrus Reacts to Shared Grammy Nod With Dolly Parton: ‘A Beautiful Way to Honor Her Enormous Heart’",
+    "url": "https://www.billboard.com/music/awards/miley-cyrus-reacts-dolly-parton-collab-2027-grammy-nod-1236383506/",
+    "publishedAt": "2026-11-16T22:52:05.000Z",
+    "summary": "\"My Aunt Dolly is one of the greatest songwriters the world has ever known,\" the pop star wrote.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/latin/rosalia-lux-grammys-nominations-reaction-1236383548/",
+    "source": "billboard",
+    "title": "Rosalía Reacts to Her 9 Grammy Nominations: See How She Celebrated",
+    "url": "https://www.billboard.com/music/latin/rosalia-lux-grammys-nominations-reaction-1236383548/",
+    "publishedAt": "2026-11-16T22:51:05.000Z",
+    "summary": "The news comes on the heels of the Spanish artist winning big at the Latin Grammys.",
+    "image": null
+  },
+  {
+    "id": "louder-than-war-https://louderthanwar.com/rick-witter-shed-seven-the-john-robb-interview/",
+    "source": "louder-than-war",
+    "title": "Rick Witter (Shed Seven) : The John Robb interview",
+    "url": "https://louderthanwar.com/rick-witter-shed-seven-the-john-robb-interview/",
+    "publishedAt": "2026-11-16T22:38:26.000Z",
+    "summary": "Rick Witter ( Shed Seven ) interviewed by John Robb The post Rick Witter (Shed Seven) : The John Robb interview appeared first on Louder Than War.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/features/what-did-1998-actually-sound-like-1236383571/",
+    "source": "billboard",
+    "title": "What Did 1998 Actually Sound Like? A Look Back at the Year That Changed Pop Music",
+    "url": "https://www.billboard.com/music/features/what-did-1998-actually-sound-like-1236383571/",
+    "publishedAt": "2026-11-16T22:28:32.000Z",
+    "summary": "From hip-hop's growing influence to the boy band explosion, 1998 was a year of musical reinvention that helped shape the sound of a new millennium.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/cole-swindell-signs-make-wake-artists/",
+    "source": "billboard",
+    "title": "Cole Swindell Signs With Make Wake Artists for Management",
+    "url": "https://www.billboard.com/pro/cole-swindell-signs-make-wake-artists/",
+    "publishedAt": "2026-11-16T22:26:25.000Z",
+    "summary": "Swindell joins a roster that includes Luke Combs, Stella Lefty and Jon Bellion.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/priscilla-presley-fraud-lawsuit-lisa-marie-death-1235659137/",
+    "source": "rolling-stone",
+    "title": "Priscilla Presley Scores Partial Win Over Fraud Suit, But Claims About Lisa Marie’s Death Can Stand",
+    "url": "https://www.rollingstone.com/music/music-news/priscilla-presley-fraud-lawsuit-lisa-marie-death-1235659137/",
+    "publishedAt": "2026-11-16T22:18:58.000Z",
+    "summary": "A judge tossed four claims from a memorabilia dealer’s fraud lawsuit against Priscilla Presley on Monday, but said allegations the court called “gratuitous and mean-spirited” can remain",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/john-summit-grammys-dance-category-snubs-1235659248/",
+    "source": "rolling-stone",
+    "title": "John Summit Is Extremely Mad Online About the Grammys",
+    "url": "https://www.rollingstone.com/music/music-news/john-summit-grammys-dance-category-snubs-1235659248/",
+    "publishedAt": "2026-11-16T22:12:54.000Z",
+    "summary": "After being snubbed, the DJ-producer proclaimed the dance and electronic categories were filled with \"music industry fueled pop stars\"",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/leon-bridges-adult-alternative-airplay-no-1-talk-it-over-1236382978/",
+    "source": "billboard",
+    "title": "Leon Bridges Lands Fourth Adult Alternative Airplay No. 1 With ‘Talk It Over’",
+    "url": "https://www.billboard.com/music/chart-beat/leon-bridges-adult-alternative-airplay-no-1-talk-it-over-1236382978/",
+    "publishedAt": "2026-11-16T22:11:31.000Z",
+    "summary": "The single contributes to Columbia Records’ rare simultaneous No. 1s on Adult Alternative Airplay and Alternative Airplay.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/tv-on-the-radio-to-headline-music-hall-of-williamsburgs-final-shows/",
+    "source": "pitchfork",
+    "title": "TV on the Radio to Headline Music Hall of Williamsburg’s Final Shows",
+    "url": "https://pitchfork.com/story/tv-on-the-radio-to-headline-music-hall-of-williamsburgs-final-shows/",
+    "publishedAt": "2026-11-16T21:48:50.000Z",
+    "summary": "The Brooklyn stalwarts will bring the curtain down once and for all on December 5 and 6",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/warped-tour-big-change-teased/",
+    "source": "loudwire",
+    "title": "Warped Tour Hints At 'Big Change' Coming to Festival",
+    "url": "https://loudwire.com/warped-tour-big-change-teased/",
+    "publishedAt": "2026-11-16T21:46:59.000Z",
+    "summary": "Warped Tour says big news lands next week, and fans already have theories. Orlando, Midwest, or a whole new look? Continue reading…",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/better-three-days-grace-album-alienation-vs-three-days-grace/",
+    "source": "loudwire",
+    "title": "Better Three Days Grace Album - 'Alienation' vs. 'Self-Titled'",
+    "url": "https://loudwire.com/better-three-days-grace-album-alienation-vs-three-days-grace/",
+    "publishedAt": "2026-11-16T21:28:07.000Z",
+    "summary": "Vote for either Three Days Grace's self-titled debut or their most recent album 'Alienation' in Loudwire Nights' Chuck's Fight Club poll. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/best-rock-metal-albums-2026/",
+    "source": "loudwire",
+    "title": "25 Best Rock + Metal Albums of 2026 ",
+    "url": "https://loudwire.com/best-rock-metal-albums-2026/",
+    "publishedAt": "2026-11-16T20:18:30.000Z",
+    "summary": "The year 2026 brought us a great selection of albums that show that rock, alternative and metal are as diverse as ever. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/latin-music-takeaways-2027-grammy-nominations-1235659105/",
+    "source": "rolling-stone",
+    "title": "Shakira Goes Global, Drake Gets Love, and More Latin Music Takeaways from the 2027 Grammy Nominations",
+    "url": "https://www.rollingstone.com/music/music-features/latin-music-takeaways-2027-grammy-nominations-1235659105/",
+    "publishedAt": "2026-11-16T19:42:45.000Z",
+    "summary": "One of the biggest genres in the U.S. saw interesting — and confusing — Grammy nods",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/ty-segall-taking-chrome-on-the-road/",
+    "source": "pitchfork",
+    "title": "Ty Segall Is Taking Chrome on the Road",
+    "url": "https://pitchfork.com/story/ty-segall-taking-chrome-on-the-road/",
+    "publishedAt": "2026-11-16T18:08:18.000Z",
+    "summary": "The spring 2027 tour will feature a full band of Mikal Cronin, Emmett Kelly, Ben Boye, and Evan Burrows",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/grammy-nominations-harry-styles-left-out-1235659028/",
+    "source": "rolling-stone",
+    "title": "The Grammy Nominations Blanked Harry Styles. What Happened?",
+    "url": "https://www.rollingstone.com/music/music-features/grammy-nominations-harry-styles-left-out-1235659028/",
+    "publishedAt": "2026-11-16T17:56:36.000Z",
+    "summary": "Despite an acclaimed 2026 album — and a previous Album of the Year win — the Recording Academy failed to recognize Styles",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/slayer-kia-forum-photos-2026/",
+    "source": "loudwire",
+    "title": "Photos - Slayer, Cannibal Corpse, Cavalera Conspiracy + Crowbar",
+    "url": "https://loudwire.com/slayer-kia-forum-photos-2026/",
+    "publishedAt": "2026-11-16T17:26:33.000Z",
+    "summary": "Slayer celebrated 40 years of 'Reign in Blood' at the Kia Forum alongside friends in Cannibal Corpse, Cavalera Conspiracy and Crowbar. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "louder-than-war-https://louderthanwar.com/little-angels-o2-ritz-manchester-live-review/",
+    "source": "louder-than-war",
+    "title": "Little Angels: O2 Ritz, Manchester – Live Review",
+    "url": "https://louderthanwar.com/little-angels-o2-ritz-manchester-live-review/",
+    "publishedAt": "2026-11-16T17:20:48.000Z",
+    "summary": "Little Angels | Luke Morley O2 Ritz, Manchester 13th November 2026 Little Angels fly into town for the Big Bad And Back Tour – one of the most eagerly awaited comebacks by an 80s/90s rock band since their last comeback in 2012 /13. But it seems they’re back for good this time, and anticipation is […] The post Little Angels: O2 Ritz, Manchester – Live Review appeared first on Louder Than War.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/iron-maiden-rock-hall-2026-tom-morello/",
+    "source": "loudwire",
+    "title": "Another Guitarist Was Supposed to Play Iron Maiden Rock Hall Song",
+    "url": "https://loudwire.com/iron-maiden-rock-hall-2026-tom-morello/",
+    "publishedAt": "2026-11-16T17:07:26.000Z",
+    "summary": "The Iron Maiden tribute at this year's Rock & Roll Hall of Fame induction ceremony was meant to sound much different than what we got on stage. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/heaviest-bands-won-grammys/",
+    "source": "loudwire",
+    "title": "The 14 Heaviest Bands Who Have Won a Grammy Award",
+    "url": "https://loudwire.com/heaviest-bands-won-grammys/",
+    "publishedAt": "2026-11-16T16:50:39.000Z",
+    "summary": "These are the heaviest bands that have ever won Grammys — not just the bands who've won in the Best Metal Performance category. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/dolly-parton-2027-grammy-nominations-1235659027/",
+    "source": "rolling-stone",
+    "title": "Dolly Parton Competes Against Herself in One of the 2027 Grammys’ Country Categories",
+    "url": "https://www.rollingstone.com/music/music-country/dolly-parton-2027-grammy-nominations-1235659027/",
+    "publishedAt": "2026-11-16T16:48:06.000Z",
+    "summary": "The country-music icon, who died in August, scored three posthumous nominations, including two for Best Country/Duo Group Performance",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/osbournes-want-super-bowl-halftime-show/",
+    "source": "loudwire",
+    "title": "Who The Osbournes Want to Play the Super Bowl Halftime Show",
+    "url": "https://loudwire.com/osbournes-want-super-bowl-halftime-show/",
+    "publishedAt": "2026-11-16T16:44:41.000Z",
+    "summary": "Sharon suggests a two-time Super Bowl performer before Jack offers up two of rock's finest that have never played the event. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/fans-react-2027-rock-metal-alternative-grammy-nominees/",
+    "source": "loudwire",
+    "title": "Fans React to the 2027 Rock, Metal + Alternative Grammy Nominees",
+    "url": "https://loudwire.com/fans-react-2027-rock-metal-alternative-grammy-nominees/",
+    "publishedAt": "2026-11-16T16:27:45.000Z",
+    "summary": "Fans are reacting to the 2027 rock, metal and alternative Grammy nominees, which were just revealed this morning (Nov. 16). Continue reading…",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMijAFBVV95cUxNVXJQSEJfbEJxSVFtWmxSVDAtMl94UXhfY05yZWl5cFRJdlhsc2RjTlhUUVhVcHhOMHlWaGhBYWw4d2RXeFk0dEZwTmRpclRKN0hzRFF4RVRMa21ZXzhfZHJpUXozYjJULUdiN21OUUJwQklDckZiV2I3Z3hIOU9jMGV0a3YyWkJwODYwSA?oc=5",
+    "source": "nme",
+    "title": "Robert Pattinson is the new James Bond - NME",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVXJQSEJfbEJxSVFtWmxSVDAtMl94UXhfY05yZWl5cFRJdlhsc2RjTlhUUVhVcHhOMHlWaGhBYWw4d2RXeFk0dEZwTmRpclRKN0hzRFF4RVRMa21ZXzhfZHJpUXozYjJULUdiN21OUUJwQklDckZiV2I3Z3hIOU9jMGV0a3YyWkJwODYwSA?oc=5",
+    "publishedAt": "2026-11-16T16:20:36.000Z",
+    "summary": "Robert Pattinson is the new James Bond NME",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/buffalo-springfield-richie-furay-documentary-1235652260/",
+    "source": "rolling-stone",
+    "title": "Watch Buffalo Springfield Come Together for the First Time in Many Years",
+    "url": "https://www.rollingstone.com/music/music-features/buffalo-springfield-richie-furay-documentary-1235652260/",
+    "publishedAt": "2026-11-16T16:00:00.000Z",
+    "summary": "Richie Furay tells us about his upcoming documentary, which features Neil Young, Stephen Stills, Cameron Crowe, David Geffen, Clive Davis, and more",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/2027-grammy-nominations-country-album-men-women-split-1235658757/",
+    "source": "rolling-stone",
+    "title": "The Country Grammys’ Odd Gender Split: Women Are ‘Contemporary,’ Men Are ‘Traditional’",
+    "url": "https://www.rollingstone.com/music/music-country/2027-grammy-nominations-country-album-men-women-split-1235658757/",
+    "publishedAt": "2026-11-16T15:54:46.000Z",
+    "summary": "It’s a record-setting year for women at the 2027 awards, but there’s a clear division when it comes to the country album categories",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/megadeth-2027-north-american-tour-anthrax-kerry-king/",
+    "source": "loudwire",
+    "title": "Megadeth Book 2027 North American Tour With Anthrax + Kerry King",
+    "url": "https://loudwire.com/megadeth-2027-north-american-tour-anthrax-kerry-king/",
+    "publishedAt": "2026-11-16T15:37:51.000Z",
+    "summary": "It's a thrash extravaganza with Megadeth, Anthrax and Kerry King hitting the road in 2027. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/aloe-blacc-forms-supergroup-mudkings-robert-randolph-g-love-1235658773/",
+    "source": "rolling-stone",
+    "title": "Aloe Blacc Forms Supergroup Mudkings With Robert Randolph, G. Love, Sam Hollander, and Johnny Black",
+    "url": "https://www.rollingstone.com/music/music-news/aloe-blacc-forms-supergroup-mudkings-robert-randolph-g-love-1235658773/",
+    "publishedAt": "2026-11-16T15:00:00.000Z",
+    "summary": "The quintet’s first single, “Use It,” arrives Friday",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/best-albums-prog-rock-supergroups/",
+    "source": "loudwire",
+    "title": "The 11 Best Albums by Prog Rock Supergroups",
+    "url": "https://loudwire.com/best-albums-prog-rock-supergroups/",
+    "publishedAt": "2026-11-16T14:40:04.000Z",
+    "summary": "Prog rock is full of supergroups. Even so, we have multiple LPs by some bands in this list of the best albums by prog rock supergroup.s Continue reading…",
     "image": null
   },
   {
@@ -36,30 +333,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/lists/2027-grammy-nominations-snubs-surprises/",
-    "source": "billboard",
-    "title": "Snubs & Surprises In the 2027 Grammy Nominations",
-    "url": "https://www.billboard.com/lists/2027-grammy-nominations-snubs-surprises/",
-    "publishedAt": "2026-11-16T13:50:48.000Z",
-    "summary": "Grammy voters always have a few surprises up their sleeves.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/awards/raye-rosalia-lead-2027-grammy-nominations-women-dominate-1236382617/",
-    "source": "billboard",
-    "title": "RAYE & Rosalía Lead 2027 Grammy Nominations as Women Make History",
-    "url": "https://www.billboard.com/music/awards/raye-rosalia-lead-2027-grammy-nominations-women-dominate-1236382617/",
-    "publishedAt": "2026-11-16T13:50:24.000Z",
-    "summary": "Also, for the first time in Grammy history, seven artists are nominated for album, record and song of the year.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/grammy-nominations-2027-full-list/",
-    "source": "billboard",
-    "title": "Grammy Nominations 2027: See the Complete List",
-    "url": "https://www.billboard.com/lists/grammy-nominations-2027-full-list/",
-    "publishedAt": "2026-11-16T13:49:45.000Z",
-    "summary": "RAYE leads all nominees with 11 nods, followed by Rosalía with nine.",
+    "id": "nme-https://news.google.com/rss/articles/CBMiswFBVV95cUxNQzUtTmJaTk9KSE1tQzVjOWpURHRqci0tRmdLVEYwSGR6SUdBTGZyTU9WRVRrTFFSZ2Uxa000VjAyZ0ZEN0dzaDhqazJKVkdrZHpIUDhnZ0xnLW9DdkpOVHMzNVY5M045ZmFsSlVLQ1oyR3U4Q3lxNll3aVBjSUZ1RlotOTVvWElHNXMxaVlPdDl0eHhmaEdKdnFueGhLTFhDUVlTM2FfMDc1ZlVZa3JtaEV3cw?oc=5",
+    "source": "nme",
+    "title": "Watch U2's surprise opening performance to kick off 2026 Rock & Roll Hall of Fame induction ceremony - NME",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQzUtTmJaTk9KSE1tQzVjOWpURHRqci0tRmdLVEYwSGR6SUdBTGZyTU9WRVRrTFFSZ2Uxa000VjAyZ0ZEN0dzaDhqazJKVkdrZHpIUDhnZ0xnLW9DdkpOVHMzNVY5M045ZmFsSlVLQ1oyR3U4Q3lxNll3aVBjSUZ1RlotOTVvWElHNXMxaVlPdDl0eHhmaEdKdnFueGhLTFhDUVlTM2FfMDc1ZlVZa3JtaEV3cw?oc=5",
+    "publishedAt": "2026-11-16T13:46:04.000Z",
+    "summary": "Watch U2's surprise opening performance to kick off 2026 Rock & Roll Hall of Fame induction ceremony NME",
     "image": null
   },
   {
@@ -77,7 +356,7 @@
     "title": "Angine de Poitrine Nominated for Best New Artist at 2027 Grammys",
     "url": "https://pitchfork.com/story/angine-de-poitrine-nominated-for-best-new-artist-at-2027-grammys/",
     "publishedAt": "2026-11-16T13:36:13.000Z",
-    "summary": "They’re up against Geese, Sienna Spiro, Don Toliver, the Womack Sisters, Ella Langley, and Remi Wold",
+    "summary": "They’re up against Geese, Sienna Spiro, Don Toliver, the Womack Sisters, Ella Langley, and Remi Wolf",
     "image": null
   },
   {
@@ -99,30 +378,21 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/pop/jennifer-lopez-happy-era-20-new-songs-thanksgiving-special-1236382857/",
-    "source": "billboard",
-    "title": "Jennifer Lopez in Her ‘Happy Era,’ Has Recorded 20 New Songs Since Kids Left For College: ‘Unencumbered With Anything Unhealthy’",
-    "url": "https://www.billboard.com/music/pop/jennifer-lopez-happy-era-20-new-songs-thanksgiving-special-1236382857/",
-    "publishedAt": "2026-11-16T13:10:18.000Z",
-    "summary": "The singer also gave a preview of her upcoming Thanksgiving special The JLo Show: Live in Vegas on Sunday night's (Nov. 15) Tonight Show.",
+    "id": "louder-than-war-https://louderthanwar.com/lcd-soundsystem-to-headline-25000-capacity-playy-fields-manchester-show/",
+    "source": "louder-than-war",
+    "title": "LCD Soundsystem to headline 25,000-capacity Platt Fields Manchester show",
+    "url": "https://louderthanwar.com/lcd-soundsystem-to-headline-25000-capacity-playy-fields-manchester-show/",
+    "publishedAt": "2026-11-16T12:55:36.000Z",
+    "summary": "LCD Soundsystem to headline big Manchetser fest The post LCD Soundsystem to headline 25,000-capacity Platt Fields Manchester show appeared first on Louder Than War.",
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/2027-rock-metal-alternative-grammy-nominees/",
-    "source": "loudwire",
-    "title": "Here Are the 2027 Rock, Metal + Alternative Grammy Nominees",
-    "url": "https://loudwire.com/2027-rock-metal-alternative-grammy-nominees/",
-    "publishedAt": "2026-11-16T13:08:45.000Z",
-    "summary": "See which artists are nominated for 2027 Grammy Awards in the rock, metal and alternative categories. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/lists/2027-grammy-nominees-top-categories/",
-    "source": "billboard",
-    "title": "Here Are the 2027 Grammy Nominations in Top Categories: Updating Live",
-    "url": "https://www.billboard.com/lists/2027-grammy-nominees-top-categories/",
-    "publishedAt": "2026-11-16T12:54:05.000Z",
-    "summary": "The Recording Academy is revealing the nominees in all 100 categories. We'll show the top categories right here as soon as soon as they're announced.",
+    "id": "nme-https://news.google.com/rss/articles/CBMikAJBVV95cUxQRWFibUZqUDFvZGJQM1F1SlZYenl1YU5sREFRTW5OOE9yQnc3UEtPajc0Nk9XdnhPWHFvTnI1OTJqWlNTTjJIVkNtZEQ0YVd4Yi1XZTRYUjFHMktNWk5pZEpkUWlRX1R6dUZzWmRwY1phRkdGdUR6WGZSbXJfU0x2TmpqLVpGRy1NZy1sTG9LNjlhcmU0UjhzUTg1VFhpWmpBN0dxdWJPbHhWMXNEVDFBR2pHU0lSSll5Rm1wQjBjM0d1ekNtOExTWUR0YzlUZHFMYk42djBnTW11bW5PaTBtT0hCZ0cydk5WbDVrbHhjN1k0eVd4LVhuaGZwenY2azdVb1FLYUs3cm9INzhpRmtoWg?oc=5",
+    "source": "nme",
+    "title": "See Jack Black and St. Vincent perform with members of Metallica, Rage Against The Machine and Mötley Crüe at Iron Maiden Rock Hall induction - NME",
+    "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQRWFibUZqUDFvZGJQM1F1SlZYenl1YU5sREFRTW5OOE9yQnc3UEtPajc0Nk9XdnhPWHFvTnI1OTJqWlNTTjJIVkNtZEQ0YVd4Yi1XZTRYUjFHMktNWk5pZEpkUWlRX1R6dUZzWmRwY1phRkdGdUR6WGZSbXJfU0x2TmpqLVpGRy1NZy1sTG9LNjlhcmU0UjhzUTg1VFhpWmpBN0dxdWJPbHhWMXNEVDFBR2pHU0lSSll5Rm1wQjBjM0d1ekNtOExTWUR0YzlUZHFMYk42djBnTW11bW5PaTBtT0hCZ0cydk5WbDVrbHhjN1k0eVd4LVhuaGZwenY2azdVb1FLYUs3cm9INzhpRmtoWg?oc=5",
+    "publishedAt": "2026-11-16T12:47:21.000Z",
+    "summary": "See Jack Black and St. Vincent perform with members of Metallica, Rage Against The Machine and Mötley Crüe at Iron Maiden Rock Hall induction NME",
     "image": null
   },
   {
@@ -135,30 +405,48 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/rock/foo-fighters-2027-uk-european-tour-dates-tickets-1236382843/",
-    "source": "billboard",
-    "title": "Foo Fighters Announce 2027 U.K. & European Summer Stadium Tour With Support From QOTSA, Iggy Pop & More",
-    "url": "https://www.billboard.com/music/rock/foo-fighters-2027-uk-european-tour-dates-tickets-1236382843/",
-    "publishedAt": "2026-11-16T12:19:40.000Z",
-    "summary": "The Foos are extending their Take Cover dates into Europe next summer",
+    "id": "nme-https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZFR6NE1kbDFsVWl4T1plTXlrMllPVy1hZGtiVHlwcnBCU1dCUW1hWUVWS2NYbTc5ZFJlWkNpMHJNaEp3RFpDdGgwQ0NDcGk5SlVPSjBTdDVud2ZtN09ObzZzdldfVmFhMTZoSnlGZlF3Sy04TXpUT2dkTHVNR0llemFtY3Nqd2tmV0hVc0ZEQllnUnpBMWw4bjdra096c0pNbGpWcF9HbnE1NHZwbkh2MW9SVy1BWFRweUVTQ1pqVW1rcWhMeDFkV3U0UnJvY3o2c016dG0tMTlPRVk?oc=5",
+    "source": "nme",
+    "title": "LCD Soundsystem announce huge Manchester show for summer 2027 as live music returns to Platt Fields Park - NME",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZFR6NE1kbDFsVWl4T1plTXlrMllPVy1hZGtiVHlwcnBCU1dCUW1hWUVWS2NYbTc5ZFJlWkNpMHJNaEp3RFpDdGgwQ0NDcGk5SlVPSjBTdDVud2ZtN09ObzZzdldfVmFhMTZoSnlGZlF3Sy04TXpUT2dkTHVNR0llemFtY3Nqd2tmV0hVc0ZEQllnUnpBMWw4bjdra096c0pNbGpWcF9HbnE1NHZwbkh2MW9SVy1BWFRweUVTQ1pqVW1rcWhMeDFkV3U0UnJvY3o2c016dG0tMTlPRVk?oc=5",
+    "publishedAt": "2026-11-16T12:01:08.000Z",
+    "summary": "LCD Soundsystem announce huge Manchester show for summer 2027 as live music returns to Platt Fields Park NME",
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/grammy-nominations-2027-full-list-1235658661/",
-    "source": "rolling-stone",
-    "title": "Raye, Rosalía, and Ella Langley Lead 2027 Grammy Nominees",
-    "url": "https://www.rollingstone.com/music/music-news/grammy-nominations-2027-full-list-1235658661/",
-    "publishedAt": "2026-11-16T12:16:13.000Z",
-    "summary": "Taylor Swift, Olivia Rodrigo, Phoebe Bridgers, Bruno Mars, Geese, and Leon Thomas also scored multiple nominations",
+    "id": "louder-than-war-https://louderthanwar.com/alan-vega-live-at-maxs-kansas-city-album-review/",
+    "source": "louder-than-war",
+    "title": "Alan Vega: Live At Max’s Kansas City – Album Review",
+    "url": "https://louderthanwar.com/alan-vega-live-at-maxs-kansas-city-album-review/",
+    "publishedAt": "2026-11-16T11:55:02.000Z",
+    "summary": "First heard as the voice of Suicide’s electronic carnage, then as an eclectic solo artist, the late Alan Vega was an uncompromising and polarising figure. Now we can hear for the first time where that solo career began, with a raw live performance recorded in his native New York in 1980. Robert Plummer feels the […] The post Alan Vega: Live At Max’s Kansas City – Album Review appeared first on Louder Than War.",
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/concerts/westlife-2027-north-america-tour-exclusive-1236382822/",
-    "source": "billboard",
-    "title": "Westlife Sets 2027 North America Tour: Exclusive",
-    "url": "https://www.billboard.com/music/concerts/westlife-2027-north-america-tour-exclusive-1236382822/",
-    "publishedAt": "2026-11-16T11:00:00.000Z",
-    "summary": "“This is probably one of the most exciting moments of our whole career,” Kian Egan tells Billboard.",
+    "id": "nme-https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTlJyXzNCTDk4ZXFKRVYwS0pMeEF1S2x0VFhoTE1ZYUtzTnhMUTRtcXRsY3VSdG5jWHFEWjFBbEl6dFI0UzVVazhyR2JCN2UxSVhCcUFXYVhId0dhcXpGbDRSdm90aFpodldSVWFSVnUya3NSSE50MHdTQ1NXUE00azlTRHNBUWJuRjBrU2l2TEcxRHZiTzJSRDhrTm1UUmpHamRpWERyZ04?oc=5",
+    "source": "nme",
+    "title": "R.E.M.'s Mike Mills on 25 years of 'Reveal', reunion rumours and political activism: “I don't mind creating enemies” - NME",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTlJyXzNCTDk4ZXFKRVYwS0pMeEF1S2x0VFhoTE1ZYUtzTnhMUTRtcXRsY3VSdG5jWHFEWjFBbEl6dFI0UzVVazhyR2JCN2UxSVhCcUFXYVhId0dhcXpGbDRSdm90aFpodldSVWFSVnUya3NSSE50MHdTQ1NXUE00azlTRHNBUWJuRjBrU2l2TEcxRHZiTzJSRDhrTm1UUmpHamRpWERyZ04?oc=5",
+    "publishedAt": "2026-11-16T11:39:59.000Z",
+    "summary": "R.E.M.'s Mike Mills on 25 years of 'Reveal', reunion rumours and political activism: “I don't mind creating enemies” NME",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSEdlUW5SUUItVmljbHRneUdudW9kbE52TER3LVAwalRHVW1XWm5NSlAtb09MS2Y0ZWtjOUFfY0g0OVc3NWRnN2lGSkVaVnJmYWVmTWl2bW1oaDNoTHFLVHRnUGtsejF4dklvVUphakRHSXpCV0ZIX3hoeVdsRkY4NW9ZckdfMG5USzBfSElFU1JRRzhVTDV4SWgwXzFzRGExZTNwOU83eHZoTzhRNnJPN1YxWV9pR2pzTXVJUUt6MU5jcjk1R21sTHJueS1TYW41Q05ZckI2bDlGQVI5dE5lQlpSZw?oc=5",
+    "source": "nme",
+    "title": "Peter Hook tells Rock & Roll Hall Of Fame why New Order will never get back together (without Oasis reunion money) - NME",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSEdlUW5SUUItVmljbHRneUdudW9kbE52TER3LVAwalRHVW1XWm5NSlAtb09MS2Y0ZWtjOUFfY0g0OVc3NWRnN2lGSkVaVnJmYWVmTWl2bW1oaDNoTHFLVHRnUGtsejF4dklvVUphakRHSXpCV0ZIX3hoeVdsRkY4NW9ZckdfMG5USzBfSElFU1JRRzhVTDV4SWgwXzFzRGExZTNwOU83eHZoTzhRNnJPN1YxWV9pR2pzTXVJUUt6MU5jcjk1R21sTHJueS1TYW41Q05ZckI2bDlGQVI5dE5lQlpSZw?oc=5",
+    "publishedAt": "2026-11-16T11:31:07.000Z",
+    "summary": "Peter Hook tells Rock & Roll Hall Of Fame why New Order will never get back together (without Oasis reunion money) NME",
+    "image": null
+  },
+  {
+    "id": "louder-than-war-https://louderthanwar.com/competition-the-room-win/",
+    "source": "louder-than-war",
+    "title": "Competition – The Room; win a vinyl copy of new Doom Pop! album",
+    "url": "https://louderthanwar.com/competition-the-room-win/",
+    "publishedAt": "2026-11-16T10:50:52.000Z",
+    "summary": "Competition – The Room; win a vinyl copy of new Doom Pop! album: Liverpool post punks The Room are back with their new album; Doom Pop! which is released via the cities Nine x Nine label which is also the home to the likes of James Madden, Section 25, and Zombina & The Skeletones amongst […] The post Competition – The Room; win a vinyl copy of new Doom Pop! album appeared first on Louder Than War.",
     "image": null
   },
   {
@@ -171,12 +459,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/awards/lily-collins-phil-collins-rock-hall-induction-tribute-1236382837/",
-    "source": "billboard",
-    "title": "Lily Collins Pays Tribute to Phil Collins After Rock Hall Induction",
-    "url": "https://www.billboard.com/music/awards/lily-collins-phil-collins-rock-hall-induction-tribute-1236382837/",
-    "publishedAt": "2026-11-16T08:55:38.000Z",
-    "summary": "Lily Collins said it felt “monumentally special” to watch her father Phil Collins inducted into the Rock & Roll Hall of Fame as a solo artist.",
+    "id": "nme-https://news.google.com/rss/articles/CBMirwFBVV95cUxPV3JtcTMyeUdxcG44OHVwMEhTYTZxay1sTFhjeDRZcjU2UFRwaWNYdE9UQzBkYXctdmJtTjdNc3RGOHVGclZSMmhQaG1Xc0FrQnB6QXBpMEhhSjNhUmpYUi1XaHM2RE5zbXdSNjIwUlg4Ni1BV0lTdVRwbFJVWFVrc1F6VlBBWFZ5WWlPTWpoeVR6eXpoQ2t3MU85c2o3el9kbFdyQ1FlUmhSNmJJWmZB?oc=5",
+    "source": "nme",
+    "title": "Dave Grohl tells us about Foo Fighters’ all-star 2027 UK and European stadium tour - NME",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV3JtcTMyeUdxcG44OHVwMEhTYTZxay1sTFhjeDRZcjU2UFRwaWNYdE9UQzBkYXctdmJtTjdNc3RGOHVGclZSMmhQaG1Xc0FrQnB6QXBpMEhhSjNhUmpYUi1XaHM2RE5zbXdSNjIwUlg4Ni1BV0lTdVRwbFJVWFVrc1F6VlBBWFZ5WWlPTWpoeVR6eXpoQ2t3MU85c2o3el9kbFdyQ1FlUmhSNmJJWmZB?oc=5",
+    "publishedAt": "2026-11-16T09:12:10.000Z",
+    "summary": "Dave Grohl tells us about Foo Fighters’ all-star 2027 UK and European stadium tour NME",
     "image": null
   },
   {
@@ -189,48 +477,12 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/jennifer-lopez-new-music-tease-fallon-las-vegas-1235658777/",
-    "source": "rolling-stone",
-    "title": "Jennifer Lopez Teases New Music on ‘Fallon’: ‘This Does Feel Like a Happy Era’",
-    "url": "https://www.rollingstone.com/music/music-news/jennifer-lopez-new-music-tease-fallon-las-vegas-1235658777/",
-    "publishedAt": "2026-11-16T07:37:04.000Z",
-    "summary": "\"I've made like 20 songs and I feel like I'm only halfway done,\" the singer confirmed",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/awards/2027-grammy-nominations-announcement-livestream-details-1236375604/",
-    "source": "billboard",
-    "title": "Watch Olivia Dean, Kehlani, Juanes & More Revealing 2027 Grammy Nominations Here",
-    "url": "https://www.billboard.com/music/awards/2027-grammy-nominations-announcement-livestream-details-1236375604/",
-    "publishedAt": "2026-11-16T05:01:00.000Z",
-    "summary": "The 2027 Grammy nominations livestream begins at 7:45 a.m. ET on Monday (Nov. 16).",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-country-lists/oak-ridge-boys-best-songs-joe-bonsall-1235056397/",
-    "source": "rolling-stone",
-    "title": "The Oak Ridge Boys: 10 Essential Songs",
-    "url": "https://www.rollingstone.com/music/music-country-lists/oak-ridge-boys-best-songs-joe-bonsall-1235056397/",
-    "publishedAt": "2026-11-16T00:55:06.000Z",
-    "summary": "From their signature \"Elvira\" to high-energy radio hits like \"American Made,\" the country quartet's must-hear tunes",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/r-i-p-richard-lloyd-televisions-guitar-alchemist/",
     "source": "louder-than-war",
     "title": "R.I.P. Richard Lloyd: Television’s Guitar Alchemist",
     "url": "https://louderthanwar.com/r-i-p-richard-lloyd-televisions-guitar-alchemist/",
     "publishedAt": "2026-11-16T00:52:40.000Z",
     "summary": "“I can’t imagine grinding through a massive, gelatinous discography trying to find something I might like by the Grateful Dead with Marquee Moon just sitting there, ready to go.” Thus spake Steve Albini about Televison. It was one of many times he’d laud the band. While many of its evangelists have a hard time describing […] The post R.I.P. Richard Lloyd: Television’s Guitar Alchemist appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/richard-sterban-oak-ridge-boys-singer-dead-obituary-1235658566/",
-    "source": "rolling-stone",
-    "title": "Richard Sterban, Oak Ridge Boys’ Bass Singer, Dead at 83",
-    "url": "https://www.rollingstone.com/music/music-country/richard-sterban-oak-ridge-boys-singer-dead-obituary-1235658566/",
-    "publishedAt": "2026-11-16T00:46:58.000Z",
-    "summary": "Sterban's baritone delivery of \"oom poppa mow-mow\" in \"Elvira\" helped give the Country Music Hall of Fame vocal group its signature song",
     "image": null
   },
   {
@@ -243,33 +495,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/slayer-tom-araya-pauses-concert-reprimand-unruly-fans-1235658570/",
-    "source": "rolling-stone",
-    "title": "Slayer’s Tom Araya Pauses Concert to Reprimand Unruly Fans: ‘Maintain Yourself’",
-    "url": "https://www.rollingstone.com/music/music-news/slayer-tom-araya-pauses-concert-reprimand-unruly-fans-1235658570/",
-    "publishedAt": "2026-11-15T19:01:08.000Z",
-    "summary": "“We’re gonna pause until you guys get your shit and your act together,” singer told destructive crowd. “There’s no one to blame but you”",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/deftones-lauren-mayberry-peter-hook-play-joy-division-and-new-order-songs-at-2026-rock-hall/",
-    "source": "pitchfork",
-    "title": "Peter Hook, Lauren Mayberry, Deftones Play Joy Division and New Order Songs at 2026 Rock Hall",
-    "url": "https://pitchfork.com/story/deftones-lauren-mayberry-peter-hook-play-joy-division-and-new-order-songs-at-2026-rock-hall/",
-    "publishedAt": "2026-11-15T18:36:24.000Z",
-    "summary": "They christened the 2026 induction ceremony with “Love Will Tear Us Apart” and “Bizarre Love Triangle”",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/stephen-wilson-jr-sings-wonderwall-oasis-rock-hall-1235658561/",
-    "source": "rolling-stone",
-    "title": "Watch Stephen Wilson Jr. Interpret ‘Wonderwall’ for Oasis at Rock Hall Induction",
-    "url": "https://www.rollingstone.com/music/music-country/stephen-wilson-jr-sings-wonderwall-oasis-rock-hall-1235658561/",
-    "publishedAt": "2026-11-15T18:07:11.000Z",
-    "summary": "The country singer is heavily influenced by Nineties alt-rock and stood in for the Britpop honorees when they chose not to attend the ceremony",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/features/how-rod-stewart-survived-fame-excess-and-50-years-at-the-top-i-enjoyed-the-money-being-a-celebrity-who-wouldnt-155430/",
     "source": "uncut",
     "title": "How Rod Stewart survived fame, excess and 50 years at the top: “I enjoyed the money, being a celebrity. Who wouldn’t?”",
@@ -279,84 +504,12 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/story/watch-wu-tang-clan-perform-at-the-rock-and-roll-hall-of-fame-2026-induction-ceremony/",
-    "source": "pitchfork",
-    "title": "Watch Wu-Tang Clan Perform at the Rock & Roll Hall of Fame 2026 Induction Ceremony",
-    "url": "https://pitchfork.com/story/watch-wu-tang-clan-perform-at-the-rock-and-roll-hall-of-fame-2026-induction-ceremony/",
-    "publishedAt": "2026-11-15T17:14:57.000Z",
-    "summary": "RZA, GZA, Method Man, Raekwon, Ghostface Killah, and co. broke out the hits for the occasion",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/jack-black-names-greatest-heavy-metal-vocalist/",
-    "source": "loudwire",
-    "title": "Jack Black Names the 'Greatest Heavy Metal Vocalist of All Time'",
-    "url": "https://loudwire.com/jack-black-names-greatest-heavy-metal-vocalist/",
-    "publishedAt": "2026-11-15T16:54:40.000Z",
-    "summary": "Black praised the singer's \"beautiful voice\" and \"beautiful spirit.\" Continue reading…",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/metallica-jack-black-st-vincent-iron-maiden-rock-hall-1235658543/",
-    "source": "rolling-stone",
-    "title": "St. Vincent and Metallica Honor Iron Maiden at Rock Hall (With a Jack Black Assist)",
-    "url": "https://www.rollingstone.com/music/music-news/metallica-jack-black-st-vincent-iron-maiden-rock-hall-1235658543/",
-    "publishedAt": "2026-11-15T16:19:48.000Z",
-    "summary": "The supergroup — which also featured Rage Against the Machine’s Brad Wilk and guitarist John 5 — played the metal band’s 1983 classic “The Trooper”",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/phil-collins-gets-rare-two-time-inductee-status-at-rock-and-roll-hall-of-fame/",
-    "source": "pitchfork",
-    "title": "Phil Collins Gets Rare Two-Time Inductee Status at Rock & Roll Hall of Fame",
-    "url": "https://pitchfork.com/story/phil-collins-gets-rare-two-time-inductee-status-at-rock-and-roll-hall-of-fame/",
-    "publishedAt": "2026-11-15T16:18:14.000Z",
-    "summary": "The Genesis musician was celebrated for his solo career at the 2026 Induction Ceremony",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/red-hot-chili-peppers-rick-rubin-rock-hall-of-fame/",
-    "source": "loudwire",
-    "title": "Red Hot Chili Peppers, Dressed as Rick Rubin, Induct Rick Rubin ",
-    "url": "https://loudwire.com/red-hot-chili-peppers-rick-rubin-rock-hall-of-fame/",
-    "publishedAt": "2026-11-15T16:00:04.000Z",
-    "summary": "No, you're not seeing things. Continue reading…",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMiugFBVV95cUxOQTd6OTBrTHJVTmI2cmNsUnJWTGVzckRUVE9FdklFTk1XV29SeHg4VmNSYjVCblJXV1c1Mk9jbHcwV293WTRTOUVtMk13c2ExVlBtbFhJdmRnR2pnVExiYTI1bEJaaDlIRlVZeC1RV3pXNkwtSlg5NWRIMkJkZVRMNExkLU5xb0F6QThrelFOa180U2RwdFJJc3hTTlptM3dYLWFjQmhxWVlOaGY5MWx2blFSWU9RUlp5aEE?oc=5",
     "source": "nme",
     "title": "Watch Travis Barker and Cynthia Erivo perform ‘In The Air Tonight’ as Phil Collins tells Rock & Roll Hall Of Fame: “You haven’t heard the last of me” - NME",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQTd6OTBrTHJVTmI2cmNsUnJWTGVzckRUVE9FdklFTk1XV29SeHg4VmNSYjVCblJXV1c1Mk9jbHcwV293WTRTOUVtMk13c2ExVlBtbFhJdmRnR2pnVExiYTI1bEJaaDlIRlVZeC1RV3pXNkwtSlg5NWRIMkJkZVRMNExkLU5xb0F6QThrelFOa180U2RwdFJJc3hTTlptM3dYLWFjQmhxWVlOaGY5MWx2blFSWU9RUlp5aEE?oc=5",
     "publishedAt": "2026-11-15T15:43:50.000Z",
     "summary": "Watch Travis Barker and Cynthia Erivo perform ‘In The Air Tonight’ as Phil Collins tells Rock & Roll Hall Of Fame: “You haven’t heard the last of me” NME",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/cynthia-erivo-travis-barker-phil-collins-2026-rock-hall-1235658531/",
-    "source": "rolling-stone",
-    "title": "Cynthia Erivo, Travis Barker Honor Phil Collins With Big Vocals, Big Drums at Rock Hall Ceremony",
-    "url": "https://www.rollingstone.com/music/music-news/cynthia-erivo-travis-barker-phil-collins-2026-rock-hall-1235658531/",
-    "publishedAt": "2026-11-15T15:29:30.000Z",
-    "summary": "The unlikely pair delivered a dynamic and dramatic rendition of Collins’ 1980 smash, “In the Air Tonight”",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/red-hot-chili-peppers-rick-rubin-rock-hall-performance-1235658506/",
-    "source": "rolling-stone",
-    "title": "Red Hot Chili Peppers Donned Their Bushiest Rick Rubin Beards for Wild Rock Hall Performance",
-    "url": "https://www.rollingstone.com/music/music-news/red-hot-chili-peppers-rick-rubin-rock-hall-performance-1235658506/",
-    "publishedAt": "2026-11-15T15:16:44.000Z",
-    "summary": "The band honored the legendary producer and Musical Excellence Award recipient with “Give It Away”",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/slayer-stop-concert-unruly-crowd-safety-concerns/",
-    "source": "loudwire",
-    "title": "Slayer Show Stopped Due to Rowdy Crowd + Safety Concerns",
-    "url": "https://loudwire.com/slayer-stop-concert-unruly-crowd-safety-concerns/",
-    "publishedAt": "2026-11-15T15:06:27.000Z",
-    "summary": "Frontman Tom Araya threatened to cancel the rest of the show if the crowd didn't calm down. Continue reading…",
     "image": null
   },
   {
@@ -378,78 +531,6 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdzR2UzYtaW1PbFB4RlZxMGlUeWJBSWJmMjlUSndkVEdGdXl5a2g3VWd3bE5sRzJfeTl4VDNTTjF5MEFHbW5BZ2x4NDhpdGt0YTBMY3RiZU82MWdQOHRfMGxsUnpoS3d3SXVDRVVKdVhIQmdkLWFCWlVUSklxRGZmRnp4UjYyMkxwc2pSYU11ZzdON2hPa05CWWIxVmdHRjlBa1RtSUtjSkE?oc=5",
-    "source": "nme",
-    "title": "Lana Del Rey, Dua Lipa and Zara Larsson contribute new music to ‘GTA VI: The Album’ – see the full tracklist - NME",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdzR2UzYtaW1PbFB4RlZxMGlUeWJBSWJmMjlUSndkVEdGdXl5a2g3VWd3bE5sRzJfeTl4VDNTTjF5MEFHbW5BZ2x4NDhpdGt0YTBMY3RiZU82MWdQOHRfMGxsUnpoS3d3SXVDRVVKdVhIQmdkLWFCWlVUSklxRGZmRnp4UjYyMkxwc2pSYU11ZzdON2hPa05CWWIxVmdHRjlBa1RtSUtjSkE?oc=5",
-    "publishedAt": "2026-11-15T12:26:10.000Z",
-    "summary": "Lana Del Rey, Dua Lipa and Zara Larsson contribute new music to ‘GTA VI: The Album’ – see the full tracklist NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMiywFBVV95cUxOVEVOc1IxQ0w3c2hWS1ROV2hhUDVXQTllU0VBbXJTUnE2ZUtSSjdhSllyeEhGNkRkWGFJSjdRcFpWMFdsTUhVSlBUVlJqaW02ZVVGekY4OWhpQ1NOVGlLMlNXY2taMFh2UkVVOUlZY1R6VFVELThqTzFRSTlKZHJia2ZQRUNTRHBvcGh4UnFRVDcyTEloZVpfX19kUXpnVGFHWHV0NzR2bVpaMjNzS1ZuX0d2VWZCMFY1ZkNEdE16a05PZUl3MHN3Y1QySQ?oc=5",
-    "source": "nme",
-    "title": "Watch Deftones' Chino Moreno, Chvrches' Lauren Mayberry and Peter Hook perform Joy Division and New Order classics with Rock Hall Of Fame induction from Trent Reznor - NME",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVEVOc1IxQ0w3c2hWS1ROV2hhUDVXQTllU0VBbXJTUnE2ZUtSSjdhSllyeEhGNkRkWGFJSjdRcFpWMFdsTUhVSlBUVlJqaW02ZVVGekY4OWhpQ1NOVGlLMlNXY2taMFh2UkVVOUlZY1R6VFVELThqTzFRSTlKZHJia2ZQRUNTRHBvcGh4UnFRVDcyTEloZVpfX19kUXpnVGFHWHV0NzR2bVpaMjNzS1ZuX0d2VWZCMFY1ZkNEdE16a05PZUl3MHN3Y1QySQ?oc=5",
-    "publishedAt": "2026-11-15T11:42:53.000Z",
-    "summary": "Watch Deftones' Chino Moreno, Chvrches' Lauren Mayberry and Peter Hook perform Joy Division and New Order classics with Rock Hall Of Fame induction from Trent Reznor NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMirwFBVV95cUxPUTZKVDJlZFRNUnRzZjE4OFhsd0hmRDhRWXJZSHNjZ09CQktQVk9IS3gxdEpyNlV0a0czRXA2QnpGd0RmS0EzYUMwVEdTTjd6R3ZaTmtTbXl0NzgydWVEdEgwTTNDV196eFE1ODNrNFFpR2pJS1F0M3piaFQ3MTZHMHRIR0QxMGRmVUNCQjlOQ3poOHRpMDl5aHhLOENKWDlmazNVazRsMXJBMW1fWUxz?oc=5",
-    "source": "nme",
-    "title": "Tout selling £1million of U2 tickets has raised questions about clampdown on bot use for bulk-buying - NME",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUTZKVDJlZFRNUnRzZjE4OFhsd0hmRDhRWXJZSHNjZ09CQktQVk9IS3gxdEpyNlV0a0czRXA2QnpGd0RmS0EzYUMwVEdTTjd6R3ZaTmtTbXl0NzgydWVEdEgwTTNDV196eFE1ODNrNFFpR2pJS1F0M3piaFQ3MTZHMHRIR0QxMGRmVUNCQjlOQ3poOHRpMDl5aHhLOENKWDlmazNVazRsMXJBMW1fWUxz?oc=5",
-    "publishedAt": "2026-11-15T10:44:03.000Z",
-    "summary": "Tout selling £1million of U2 tickets has raised questions about clampdown on bot use for bulk-buying NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbGo3dkJVclJEY1VCT2F3Q2YtTTZXYTlUdGFoZUtIY2EtZWUtZ2E5UFdCMzlyWk1hWXdSQVl4ZFVtRnZfV3YwNVJZYk5jcVdFSllyclM5VkJOSzhzWnVxMnJuekppakM3aUhUc2daME52blVudjVzWWk5dklVdWVib2w2cTZfTEJVS0U3aEFyNmZpdFhzZnVmdVpTaHR2VlNrSWVybF9MRFBVWkhkLUhreGNlQ0hWd016?oc=5",
-    "source": "nme",
-    "title": "Watch Noel Gallagher join Goldie and Skunk Anansie's Skin on stage for first performance since Oasis reunion tour - NME",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbGo3dkJVclJEY1VCT2F3Q2YtTTZXYTlUdGFoZUtIY2EtZWUtZ2E5UFdCMzlyWk1hWXdSQVl4ZFVtRnZfV3YwNVJZYk5jcVdFSllyclM5VkJOSzhzWnVxMnJuekppakM3aUhUc2daME52blVudjVzWWk5dklVdWVib2w2cTZfTEJVS0U3aEFyNmZpdFhzZnVmdVpTaHR2VlNrSWVybF9MRFBVWkhkLUhreGNlQ0hWd016?oc=5",
-    "publishedAt": "2026-11-15T09:57:23.000Z",
-    "summary": "Watch Noel Gallagher join Goldie and Skunk Anansie's Skin on stage for first performance since Oasis reunion tour NME",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/iron-maiden-rock-hall-2026-performance/",
-    "source": "loudwire",
-    "title": "Iron Maiden Honored With Rock Hall Induction Performance",
-    "url": "https://loudwire.com/iron-maiden-rock-hall-2026-performance/",
-    "publishedAt": "2026-11-15T07:20:16.000Z",
-    "summary": "Maiden is currently on tour in Australia and previously stated they would not attend the ceremony. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/phil-collins-honored-by-cynthia-erivo-and-travis-barker-at-rock-hall/",
-    "source": "loudwire",
-    "title": "Phil Collins Honored by Cynthia Erivo, Travis Barker at Rock Hall",
-    "url": "https://loudwire.com/phil-collins-honored-by-cynthia-erivo-and-travis-barker-at-rock-hall/",
-    "publishedAt": "2026-11-15T04:48:47.000Z",
-    "summary": "The two delivered an electrifying rendition of \"In the Air Tonight.\" Continue reading…",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/phil-collins-inducted-into-rock-and-roll-hall-of-fame-for-a-second-time/",
-    "source": "loudwire",
-    "title": "Phil Collins Inducted Into the Rock Hall for a Second Time",
-    "url": "https://loudwire.com/phil-collins-inducted-into-rock-and-roll-hall-of-fame-for-a-second-time/",
-    "publishedAt": "2026-11-15T04:16:42.000Z",
-    "summary": "Fewer than 30 artists have had the honor of being included two or more times. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/2026-rock-and-roll-hall-of-fame-induction-ceremony-photo-gallery/",
-    "source": "loudwire",
-    "title": "2026 Rock & Roll Hall of Fame Induction Ceremony - Photo Gallery",
-    "url": "https://loudwire.com/2026-rock-and-roll-hall-of-fame-induction-ceremony-photo-gallery/",
-    "publishedAt": "2026-11-15T01:40:29.000Z",
-    "summary": "See photos from the 2026 Rock and Roll Hall of Fame red carpet, induction ceremony and other Rock and Roll Hall of Fame week festivities. Continue reading…",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/yard-act-o2-victoria-warehouse-manchester-live-review/",
     "source": "louder-than-war",
     "title": "Yard Act: O2 Victoria Warehouse, Manchester – Live Review",
@@ -468,39 +549,12 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMiogFBVV95cUxQY0FzSFR5emVmcVNCY2ZtZHdSNF93VGs3VDZVRmg5RmxobVlPYUtJcXBqRWZQTWZHNUxRWV9nOGFmM1lQR0R3WVFfNDBPNlAwR2pjZWN4ekRXd2hFQ3RwU2VEQVV6eDc4QnZlY2l5VEJCc0tJR2k4bFBodHN0clZHM2hnblFQajloRXJ5N2NpMnhRV29QRldHd01QZnlyUC1qalE?oc=5",
-    "source": "nme",
-    "title": "Kate Nash to lose $16,000 from current tour as she keeps afloat with OnlyFans money - NME",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY0FzSFR5emVmcVNCY2ZtZHdSNF93VGs3VDZVRmg5RmxobVlPYUtJcXBqRWZQTWZHNUxRWV9nOGFmM1lQR0R3WVFfNDBPNlAwR2pjZWN4ekRXd2hFQ3RwU2VEQVV6eDc4QnZlY2l5VEJCc0tJR2k4bFBodHN0clZHM2hnblFQajloRXJ5N2NpMnhRV29QRldHd01QZnlyUC1qalE?oc=5",
-    "publishedAt": "2026-11-14T11:41:10.000Z",
-    "summary": "Kate Nash to lose $16,000 from current tour as she keeps afloat with OnlyFans money NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMikAFBVV95cUxNSkZnWE1IdEdqWjJxenFWaXh4alFCeU1FMXhjbm5rWmZUSkJTU2pEOS0tRDBTb090RUZTQWhNS3dCeEpKbVU1bk5DaG1FUHZEVmlPNDRLaTBEV1ZiVmRrYkVFSjE0WTBOYWZhdHFsZWszd2ZmQnRfWWNTd0hyNlY5YmtpVXEzWUZ6M2JvZkNVTTE?oc=5",
-    "source": "nme",
-    "title": "U2’s The Edge breaks his silence on sequel to ‘Elf’ - NME",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSkZnWE1IdEdqWjJxenFWaXh4alFCeU1FMXhjbm5rWmZUSkJTU2pEOS0tRDBTb090RUZTQWhNS3dCeEpKbVU1bk5DaG1FUHZEVmlPNDRLaTBEV1ZiVmRrYkVFSjE0WTBOYWZhdHFsZWszd2ZmQnRfWWNTd0hyNlY5YmtpVXEzWUZ6M2JvZkNVTTE?oc=5",
-    "publishedAt": "2026-11-14T11:26:15.000Z",
-    "summary": "U2’s The Edge breaks his silence on sequel to ‘Elf’ NME",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/the-rezillos-the-crash-landings-the-1865-southampton-live-review/",
     "source": "louder-than-war",
     "title": "The Rezillos | The Crash Landings: The 1865, Southampton – Live Review",
     "url": "https://louderthanwar.com/the-rezillos-the-crash-landings-the-1865-southampton-live-review/",
     "publishedAt": "2026-11-14T10:40:45.000Z",
     "summary": "The Rezillos | The Crash Landings The 1865, Southampton 12 November 2026 What the fuck was it about Thursday? So many gigs clashing down South! The Bunnymen at Engine Rooms, Manics & Suede at the BIC, The Briefs & Cyanide Pills at the Wedge! Ged Babey chose the Rezillos, as bizarrely he had never seen […] The post The Rezillos | The Crash Landings: The 1865, Southampton – Live Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMipgFBVV95cUxQMmRWT2dTZm4tY0FoekpYMnFYeEVhN2xEVncwRUNIRTE5SVVfZmNMRkVWaDVZVE9pbXlacDljakU1c1RKSTlsRnNjaWpHZEtpNDd5SC05WGFPS3FtZVFGZDBkVC1NZXh6UDlKOUxqSm5HWHJGZ2Y0TENFR1ZHYnlSVUFOd0Q4dDBHRlNlY1Vtc2pReTU3VFhmc1ctcUE4ZTQxLVp6SGpR?oc=5",
-    "source": "nme",
-    "title": "Robyn says Eurovision is \"just shit\" now: \"It really is embarrassing\" - NME",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMmRWT2dTZm4tY0FoekpYMnFYeEVhN2xEVncwRUNIRTE5SVVfZmNMRkVWaDVZVE9pbXlacDljakU1c1RKSTlsRnNjaWpHZEtpNDd5SC05WGFPS3FtZVFGZDBkVC1NZXh6UDlKOUxqSm5HWHJGZ2Y0TENFR1ZHYnlSVUFOd0Q4dDBHRlNlY1Vtc2pReTU3VFhmc1ctcUE4ZTQxLVp6SGpR?oc=5",
-    "publishedAt": "2026-11-14T10:28:34.000Z",
-    "summary": "Robyn says Eurovision is \"just shit\" now: \"It really is embarrassing\" NME",
     "image": null
   },
   {
@@ -540,24 +594,6 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/loudwire-readers-iron-maiden-billy-idol-rock-hall-song/",
-    "source": "loudwire",
-    "title": "Loudwire Readers Pick Iron Maiden + Billy Idol's Rock Hall Songs",
-    "url": "https://loudwire.com/loudwire-readers-iron-maiden-billy-idol-rock-hall-song/",
-    "publishedAt": "2026-11-13T21:15:39.000Z",
-    "summary": "We asked, you answered and we now know what songs Loudwire readers want to see represent Iron Maiden and Billy Idol at their Rock Hall inductions. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "louder-than-war-https://louderthanwar.com/we-were-here-a-history-of-black-people-and-alternative-music-by-stephanie-phillips-book-review/",
-    "source": "louder-than-war",
-    "title": "We Were Here: A History of Black People and Alternative Music by Stephanie Phillips – Book Review",
-    "url": "https://louderthanwar.com/we-were-here-a-history-of-black-people-and-alternative-music-by-stephanie-phillips-book-review/",
-    "publishedAt": "2026-11-13T19:15:41.000Z",
-    "summary": "We Were Here: A History of Black People and Alternative Music by Stephanie Phillips Da Capo | 368 pages | published August 27th 2026 in the UK; November 17th 2026 in the U.S. Despite what mainstream media might want you to think, rock and alternative music are not primarily white genres. In her new book, […] The post We Were Here: A History of Black People and Alternative Music by Stephanie Phillips – Book Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMizgFBVV95cUxQaG93aFQ5UUkzampvM3phR2JHNXdsaDBUdDA1N1o3eHZ4WTR6RE9fdlRRTjF1aGhGUjZvRFM5ZU85WmQtc0JMcktNRHJMQ0NvOHk2WGxRQlFnalNOb0dDTWF0MUJfaENpT2ZMMUZ1WExlQ3RqX2pGYWZqY0RvaFFwZUVoVGxvanR1bmpnd0tIMDlsYXptYTAxYk9sNWVnbks5ZlM5cVp6bzR1ZFJacjZmMFpFOFJiaEUwcHFpazVtVENtOWVIRDlLZjlkaURVdw?oc=5",
     "source": "kerrang",
     "title": "Fall Out Boy formally release new single, Doomsday Generation (Slacker For The Ages), featuring Walter Schreifels - Kerrang!",
@@ -576,39 +612,12 @@
     "image": null
   },
   {
-    "id": "louder-than-war-https://louderthanwar.com/big-ass-truck-i-e-found-on-road-dead-ep-review/",
-    "source": "louder-than-war",
-    "title": "BIG ASS TRUCK I.E.: FOUND ON ROAD DEAD – EP Review",
-    "url": "https://louderthanwar.com/big-ass-truck-i-e-found-on-road-dead-ep-review/",
-    "publishedAt": "2026-11-13T10:38:41.000Z",
-    "summary": "Metallic Hardcore assassins from San Bernardino, California gift us a short and blackened chunk of great depth and subtle meaning. Touring the UK and elsewhere in the new year, catch them before they go global. MK Bennett sees the future. A band’s name can mean everything and nothing. In metal, there’s a very good […] The post BIG ASS TRUCK I.E.: FOUND ON ROAD DEAD – EP Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "louder-than-war-https://louderthanwar.com/ed-blunt-things-no-machine-could-ever-understand-album-review/",
-    "source": "louder-than-war",
-    "title": "Ed Blunt: Things No Machine Could Ever Understand – Album Review",
-    "url": "https://louderthanwar.com/ed-blunt-things-no-machine-could-ever-understand-album-review/",
-    "publishedAt": "2026-11-13T10:15:58.000Z",
-    "summary": "On his third album singer-songwriter Ed Blunt asks what does it mean to be human in the age of thinking machines. Mark Ray reviews… The world is moving fast. When personal computers first became available in the 1980s, they aided humans to speed up and enhance tasks such as writing, spreadsheets, and calculations. The next […] The post Ed Blunt: Things No Machine Could Ever Understand – Album Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/features/nashville-is-famous-for-country-music-but-theres-a-whole-other-side-to-the-city-157006/",
     "source": "uncut",
     "title": "Nashville is famous for country music – but there’s a whole other side to the city",
     "url": "https://www.uncut.co.uk/features/nashville-is-famous-for-country-music-but-theres-a-whole-other-side-to-the-city-157006/",
     "publishedAt": "2026-11-13T08:54:26.000Z",
     "summary": "Beyond the Grand Ole Opry and Broadway's neon glow lies a more complicated Nashville: a city where traditionalists, outsiders, superstars and iconoclasts have been reshaping American music for generations",
-    "image": null
-  },
-  {
-    "id": "louder-than-war-https://louderthanwar.com/swansea-sound-pre-post-truth-album-review/",
-    "source": "louder-than-war",
-    "title": "Swansea Sound: pre-post-truth – Album Review",
-    "url": "https://louderthanwar.com/swansea-sound-pre-post-truth-album-review/",
-    "publishedAt": "2026-11-13T08:50:19.000Z",
-    "summary": "Swansea Sound release their third album, pre-post-truth, containing twelve new punk and power-pop tunes on 13th November The indie supergroup christened ‘The C86 Crass’ by comedian Stewart Lee, consisting of ex members of Hue Williams (ex-The Pooh Sticks), Amelia Fletcher and Rob Pursey (Heavenly), Bob Collins (The Dentists) and Ian Button (Death In Vegas, Railcard) […] The post Swansea Sound: pre-post-truth – Album Review appeared first on Louder Than War.",
     "image": null
   },
   {
@@ -636,15 +645,6 @@
     "url": "https://www.uncut.co.uk/reviews/tom-petty-the-heartbreakers-origins-1971-1978-reviewed-the-long-road-to-rocknroll-greatness-157046/",
     "publishedAt": "2026-11-12T16:30:12.000Z",
     "summary": "Fitting monument to their perseverance",
-    "image": null
-  },
-  {
-    "id": "louder-than-war-https://louderthanwar.com/jabu-severn-flood-plain-where-you-run-to-ep-review/",
-    "source": "louder-than-war",
-    "title": "Jabu: Severn Flood Plain/Where You Run To – EP Review",
-    "url": "https://louderthanwar.com/jabu-severn-flood-plain-where-you-run-to-ep-review/",
-    "publishedAt": "2026-11-12T13:57:45.000Z",
-    "summary": "Bristol’s Jabu release the “great lost song” of Twin Peaks on their atmospheric new EP. Richard Foster lets it wash over him. The Severn, “Britain’s mightiest river”, so described by another Bristol luminary, Professor Ronald Hutton, finds musical form with this brilliant and all-too-short EP from Jabu. To stay Huttonish in spirit, we can […] The post Jabu: Severn Flood Plain/Where You Run To – EP Review appeared first on Louder Than War.",
     "image": null
   },
   {
