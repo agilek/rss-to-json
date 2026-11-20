@@ -1,11 +1,308 @@
 [
   {
+    "id": "billboard-https://www.billboard.com/pro/billboard-canada-women-in-music-40-under-40-2026-lists/",
+    "source": "billboard",
+    "title": "In Canada: Billboard Canada’s 2026 Women in Music and 40 Under 40 Lists Are Out",
+    "url": "https://www.billboard.com/pro/billboard-canada-women-in-music-40-under-40-2026-lists/",
+    "publishedAt": "2026-11-20T23:10:59.000Z",
+    "summary": "Also up north this week: Gracie Abrams discusses Daughter From Hell, her second No. 1 on Billboard Canada's Canadian Albums chart.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/awards/2026-mama-awards-winners-list-1236387006/",
+    "source": "billboard",
+    "title": "BTS & ENHYPEN Are Big Winners on Night 1 of 2026 MAMA Awards",
+    "url": "https://www.billboard.com/music/awards/2026-mama-awards-winners-list-1236387006/",
+    "publishedAt": "2026-11-20T22:50:45.000Z",
+    "summary": "The K-pop awards are being presented over the course of two nights in Osaka, Japan.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/enhypen-reflects-on-the-sin-parallel-world-mama-awards/",
+    "source": "billboard",
+    "title": "ENHYPEN Reflects On ‘THE SIN : PARALLEL WORLD’ | MAMA Awards 2026",
+    "url": "https://www.billboard.com/video/enhypen-reflects-on-the-sin-parallel-world-mama-awards/",
+    "publishedAt": "2026-11-20T22:49:08.000Z",
+    "summary": "ENHYPEN caught up with Billboard’s Tetris Kelly on the red carpet at the MAMA Awards 2026.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/brandy-monica-las-vegas-residency-2027-buy-tickets-online-1236386397/",
+    "source": "billboard",
+    "title": "Brandy & Monica’s Las Vegas Residency 2027: Here’s Where to Shop Affordable Tickets Online",
+    "url": "https://www.billboard.com/culture/product-recommendations/brandy-monica-las-vegas-residency-2027-buy-tickets-online-1236386397/",
+    "publishedAt": "2026-11-20T22:39:53.000Z",
+    "summary": "The R&B icons embark on The Boy Is Mine Vegas Residency starting May 29, 2027.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/rosalia-praises-taylor-swift-master-songwriter-1235661869/",
+    "source": "rolling-stone",
+    "title": "Rosalía Calls Taylor Swift a ‘Master Songwriter,’ Reveals Her Favorite Swift Track",
+    "url": "https://www.rollingstone.com/music/music-news/rosalia-praises-taylor-swift-master-songwriter-1235661869/",
+    "publishedAt": "2026-11-20T22:35:32.000Z",
+    "summary": "The Spanish singer said \"Wildest Dreams\" is \"one of the songs I’ve listened to the most in my entire life\"",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/lorna-shore-will-ramos-motionless-in-white-chris-motionless-2026-haircuts/",
+    "source": "loudwire",
+    "title": "Two Metal Vocalists Just Cut Their Hair - See Their New Looks",
+    "url": "https://loudwire.com/lorna-shore-will-ramos-motionless-in-white-chris-motionless-2026-haircuts/",
+    "publishedAt": "2026-11-20T22:22:34.000Z",
+    "summary": "Lorna Shore's Will Ramos and Motionless in White's Chris Motionless are both sporting new shorter haircuts. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/gta-vi-lisa-blackpink-gracie-abrams-best-new-music-poll-1236386883/",
+    "source": "billboard",
+    "title": "From LISA of BLACKPINK & Gracie Abrams to the ‘GTA VI’ Album, Which Music Release Is Your Favorite This Week? Vote!",
+    "url": "https://www.billboard.com/music/music-news/gta-vi-lisa-blackpink-gracie-abrams-best-new-music-poll-1236386883/",
+    "publishedAt": "2026-11-20T22:12:24.000Z",
+    "summary": "TOMORROW X TOGETHER, Tems and Zach Top also dropped fresh projects.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/current-k-pop-concerts-1236234463/",
+    "source": "billboard",
+    "title": "A Full List of Current 2026/27 K-Pop Concerts (Updating)",
+    "url": "https://www.billboard.com/culture/product-recommendations/current-k-pop-concerts-1236234463/",
+    "publishedAt": "2026-11-20T22:08:16.000Z",
+    "summary": "From KATSEYE to BIGBANG, and even the KPop Demon Hunters GOLDEN World Tour, here's what you can expect from the K-pop concert scene this year.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/apple-tv-2026-streaming-deals-black-friday-online-1236386775/",
+    "source": "billboard",
+    "title": "Apple TV Black Friday Deal: Here’s How to Save More Than 50% Off a Streaming Subscription",
+    "url": "https://www.billboard.com/culture/product-recommendations/apple-tv-2026-streaming-deals-black-friday-online-1236386775/",
+    "publishedAt": "2026-11-20T22:07:52.000Z",
+    "summary": "Watch Widow's Bay, Severance, Ted Lasso and original music programming for just $6.99 per month (was $14.99 per month).",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/remi-wolf-bottle-adult-alternative-airplay-1236386842/",
+    "source": "billboard",
+    "title": "Remi Wolf Earns First Billboard No. 1 as ‘Bottle’ Tops Adult Alternative Airplay",
+    "url": "https://www.billboard.com/music/chart-beat/remi-wolf-bottle-adult-alternative-airplay-1236386842/",
+    "publishedAt": "2026-11-20T22:00:08.000Z",
+    "summary": "The single is from the Grammy-nominated artist’s third album, Mud.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rock/rem-reveal-mike-mills-interview-1236386854/",
+    "source": "billboard",
+    "title": "‘One of the Best Recording Experiences You Could Have’: Mike Mills on R.E.M.’s ‘Reveal’ at 25",
+    "url": "https://www.billboard.com/music/rock/rem-reveal-mike-mills-interview-1236386854/",
+    "publishedAt": "2026-11-20T21:55:01.000Z",
+    "summary": "The deluxe edition includes a previously unreleased live show from the era.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-lists/gta-vi-best-music-1235661734/",
+    "source": "rolling-stone",
+    "title": "The Best Music Moments and Surprise Cameos From ‘GTA VI’",
+    "url": "https://www.rollingstone.com/music/music-lists/gta-vi-best-music-1235661734/",
+    "publishedAt": "2026-11-20T21:51:33.000Z",
+    "summary": "From an unreleased D’Angelo song to King Gizzard snippets, here’s what you’ll hear when you play the game",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/awards/new-york-pops-david-foster-wme-group-richard-weitz-1236386810/",
+    "source": "billboard",
+    "title": "David Foster and WME Group Co-Chairman Richard Weitz to be Honored by the New York Pops",
+    "url": "https://www.billboard.com/music/awards/new-york-pops-david-foster-wme-group-richard-weitz-1236386810/",
+    "publishedAt": "2026-11-20T21:37:37.000Z",
+    "summary": "Proceeds from the gala support the New York Pops orchestra and the organization’s PopsEd music education programs.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/it-dies-today-wrestler-injury/",
+    "source": "loudwire",
+    "title": "Wrestler Breaks Leg at Metalcore Band's 25th Anniversary Show",
+    "url": "https://loudwire.com/it-dies-today-wrestler-injury/",
+    "publishedAt": "2026-11-20T21:27:58.000Z",
+    "summary": "It Dies Today wanted a 25th anniversary to remember. Then a friend in the crowd got hurt. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/stone-sour-jim-root-full-of-empty/",
+    "source": "loudwire",
+    "title": "Stone Sour's Jim Root Returns to Complete Previously Unheard Song",
+    "url": "https://loudwire.com/stone-sour-jim-root-full-of-empty/",
+    "publishedAt": "2026-11-20T21:20:27.000Z",
+    "summary": "Stone Sour finally finished the previously incomplete 'Full of Empty' with guitarist Jim Root returning to assist. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMirgFBVV95cUxOMzlEajNrLXdGN3FLQnlkZEg1RmRmNjZQcGRxdWtEZWczQW5fNVBMeWdfMTlJX2VyN1J2c2tsMHVLVlZDRk1qNWpOa19ERXozS1Y1U2pydkZFZS1VMjRIVW5zZ1Fyb1duQnd1ajZST1F2UF8xNEpCQVljdVZWS3I4Y2RFd1dYWnhzUUNyUF96T0xnWkdBMGF1VDlsNkhXNTZWd1lZbUZGZ1FpVzFscFE?oc=5",
+    "source": "nme",
+    "title": "Every song on ‘Grand Theft Auto 6: The Album’ – ranked! - NME",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMzlEajNrLXdGN3FLQnlkZEg1RmRmNjZQcGRxdWtEZWczQW5fNVBMeWdfMTlJX2VyN1J2c2tsMHVLVlZDRk1qNWpOa19ERXozS1Y1U2pydkZFZS1VMjRIVW5zZ1Fyb1duQnd1ajZST1F2UF8xNEpCQVljdVZWS3I4Y2RFd1dYWnhzUUNyUF96T0xnWkdBMGF1VDlsNkhXNTZWd1lZbUZGZ1FpVzFscFE?oc=5",
+    "publishedAt": "2026-11-20T20:46:51.000Z",
+    "summary": "Every song on ‘Grand Theft Auto 6: The Album’ – ranked! NME",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/hard-rock-metal-songs-past-grand-theft-auto-games/",
+    "source": "loudwire",
+    "title": "Every Rock + Metal Song That's Been in 'Grand Theft Auto' Games",
+    "url": "https://loudwire.com/hard-rock-metal-songs-past-grand-theft-auto-games/",
+    "publishedAt": "2026-11-20T20:46:03.000Z",
+    "summary": "Here's every hard rock and metal song that's been featured in past 'Grand Theft Auto' games in honor of the release of the long-awaited 'GTA 6.' Continue reading…",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/listen-to-two-new-grimes-songs/",
+    "source": "pitchfork",
+    "title": "Grimes Releases Two New Psy Opera Songs",
+    "url": "https://pitchfork.com/story/listen-to-two-new-grimes-songs/",
+    "publishedAt": "2026-11-20T18:11:09.000Z",
+    "summary": "“Killing God With Computers” and the A.I.-assisted “Deepseek” both appear on Psy Opera",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/beastie-boys-mike-d-brings-album-thank-you-to-tiny-desk-1235659577/",
+    "source": "rolling-stone",
+    "title": "Beastie Boys’ Mike D Brings Solo Album — and His Sons — to Tiny Desk Concert",
+    "url": "https://www.rollingstone.com/music/music-news/beastie-boys-mike-d-brings-album-thank-you-to-tiny-desk-1235659577/",
+    "publishedAt": "2026-11-20T18:05:41.000Z",
+    "summary": "The former Beastie Boys member performed six tracks off his solo album with his sons",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/paranormal-prison-alien-ant-farm-ghost-hunt/",
+    "source": "loudwire",
+    "title": "Alien Ant Farm's 'Paranormal Prison' Ghost Hunt Was Too Funny",
+    "url": "https://loudwire.com/paranormal-prison-alien-ant-farm-ghost-hunt/",
+    "publishedAt": "2026-11-20T18:00:30.000Z",
+    "summary": "Alien Ant Farm close out Season 4 of 'Paranormal Prison,' going on a truly hilarious ghost hunt that yields some surprising answers. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/megan-moroney-alex-warren-know-good-song-in-the-car-1235654145/",
+    "source": "rolling-stone",
+    "title": "Megan Moroney and Alex Warren Know a Good Song When They Hear It in the Car",
+    "url": "https://www.rollingstone.com/music/music-news/megan-moroney-alex-warren-know-good-song-in-the-car-1235654145/",
+    "publishedAt": "2026-11-20T17:58:00.000Z",
+    "summary": "For two artists whose lives revolve around music, the road offers a different kind of listening experience.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/julien-baker-phoebe-bridgers-jt-gta-vi-songs-you-need-to-know-1235661634/",
+    "source": "rolling-stone",
+    "title": "Julien Baker, Phoebe Bridgers, JT, and All the Songs You Need to Know",
+    "url": "https://www.rollingstone.com/music/music-features/julien-baker-phoebe-bridgers-jt-gta-vi-songs-you-need-to-know-1235661634/",
+    "publishedAt": "2026-11-20T17:30:47.000Z",
+    "summary": "Looking for the week’s best new music? Check out our Songs You Need to Know playlist",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/dangelo-unreleased-song-kamakazi-grand-theft-auto-6-1235661667/",
+    "source": "rolling-stone",
+    "title": "Unreleased D’Angelo Song ‘Kamikazi’ Emerges in ‘GTA VI’",
+    "url": "https://www.rollingstone.com/music/music-news/dangelo-unreleased-song-kamakazi-grand-theft-auto-6-1235661667/",
+    "publishedAt": "2026-11-20T17:27:05.000Z",
+    "summary": "Late singer previously contributed \"Unshaken\" to Rockstar Games' Red Dead Redemption 2",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/petition-remove-marilyn-manson-slipknot-uk-2027/",
+    "source": "loudwire",
+    "title": "Marilyn Manson U.K. Concert Removal Petition Gaining Popularity",
+    "url": "https://loudwire.com/petition-remove-marilyn-manson-slipknot-uk-2027/",
+    "publishedAt": "2026-11-20T17:19:14.000Z",
+    "summary": "An online petition seeking Marilyn Manson's removal from a 2027 Slipknot show in London has surpassed 20,000 signatures. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMizgFBVV95cUxNazUyQmwxRGlkZjVZVzBZMGJtdFpxbnJtZEdmUWVlQUJZdW9VV29ic2lXSG1rSjFxR1FwLS1NNDF0Yi1nSnI0X01zX0FCLWFfZEUtN0EwQkR3cXZxZkRpMWZKQTZQUnppWF93TkU3QXZjWGFzQklFbGthTkZHbHg3dXNiTmhnRHFGWDE1SHJXTF9vMGN0cmJzYWZsSnFLaUNfanZNZThRNV9jU2FjSThtbHNqWHJyQjhOVW9GRkgwaVJ2ZjZmNjBPZy16a1Fidw?oc=5",
+    "source": "nme",
+    "title": "Liam Gallagher, Bonehead and Primal Scream lead tributes on one year anniversary of Mani's death - NME",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNazUyQmwxRGlkZjVZVzBZMGJtdFpxbnJtZEdmUWVlQUJZdW9VV29ic2lXSG1rSjFxR1FwLS1NNDF0Yi1nSnI0X01zX0FCLWFfZEUtN0EwQkR3cXZxZkRpMWZKQTZQUnppWF93TkU3QXZjWGFzQklFbGthTkZHbHg3dXNiTmhnRHFGWDE1SHJXTF9vMGN0cmJzYWZsSnFLaUNfanZNZThRNV9jU2FjSThtbHNqWHJyQjhOVW9GRkgwaVJ2ZjZmNjBPZy16a1Fidw?oc=5",
+    "publishedAt": "2026-11-20T17:09:48.000Z",
+    "summary": "Liam Gallagher, Bonehead and Primal Scream lead tributes on one year anniversary of Mani's death NME",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/tom-waits-orphans-bonus-streaming-services-1235661577/",
+    "source": "rolling-stone",
+    "title": "Tom Waits’ Rare ‘Orphans: Bonus’ EP, Previously Vinyl-Only, Now Streaming",
+    "url": "https://www.rollingstone.com/music/music-news/tom-waits-orphans-bonus-streaming-services-1235661577/",
+    "publishedAt": "2026-11-20T16:09:45.000Z",
+    "summary": "Six songs include covers, a collaboration, and originals",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/atlas-sound-bradford-cox-surprise-new-album-thanatos-1235661600/",
+    "source": "rolling-stone",
+    "title": "Atlas Sound Returns With Surprise New Album ‘Thanatos,’ First LP in 15 Years",
+    "url": "https://www.rollingstone.com/music/music-news/atlas-sound-bradford-cox-surprise-new-album-thanatos-1235661600/",
+    "publishedAt": "2026-11-20T15:53:45.000Z",
+    "summary": "After a lengthy musical hiatus, Deerhunter singer Bradford Cox revives his long-dormant solo project",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/rock-metal-musicians-djs-grand-theft-auto-6/",
+    "source": "loudwire",
+    "title": "All 5 Rock + Metal Musicians Who Are DJs in 'Grand Theft Auto 6'",
+    "url": "https://loudwire.com/rock-metal-musicians-djs-grand-theft-auto-6/",
+    "publishedAt": "2026-11-20T15:46:39.000Z",
+    "summary": "Slayer's Kerry King and Tom Araya, The Rolling Stones' Keith Richards, Fleetwood Mac's Lindsey Buckingham and Michael McDonald all voice DJs in 'GTA 6.' Continue reading…",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/songs-in-the-key-of-life-50th-tour-stevie-wonder-1235661575/",
+    "source": "rolling-stone",
+    "title": "‘Songs in the Key of Life’ at 50: Stevie Wonder Brings a Miracle to Madison Square Garden",
+    "url": "https://www.rollingstone.com/music/music-features/songs-in-the-key-of-life-50th-tour-stevie-wonder-1235661575/",
+    "publishedAt": "2026-11-20T15:44:03.000Z",
+    "summary": "Wonder’s 1976 masterpiece sounded fresher than ever in the first U.S. stop of a 50th-anniversary tour",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/lana-del-reys-crazy-for-you-gets-official-release-for-gta-vi/",
+    "source": "pitchfork",
+    "title": "Lana Del Rey’s “Crazy for You” Gets Official Release for GTA VI",
+    "url": "https://pitchfork.com/story/lana-del-reys-crazy-for-you-gets-official-release-for-gta-vi/",
+    "publishedAt": "2026-11-20T15:42:36.000Z",
+    "summary": "The keenly awaited loosie has found a home on the blockbuster game’s soundtrack",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/new-rock-metal-tours-announced-nov-13-19-2026/",
+    "source": "loudwire",
+    "title": "21 New Rock + Metal Tours Announced This Past Week",
+    "url": "https://loudwire.com/new-rock-metal-tours-announced-nov-13-19-2026/",
+    "publishedAt": "2026-11-20T15:16:14.000Z",
+    "summary": "Get the latest tour news on Megadeth, Sevendust, Avatar and more, as well as the lineup reveals for the When We Were Young and New Orleans Jazz and Heritage festivals. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/5-new-albums-you-should-listen-to-now-atlas-sound-toro-y-moi-and-more/",
+    "source": "pitchfork",
+    "title": "5 New Albums You Should Listen to Now: Atlas Sound, Toro y Moi, and More",
+    "url": "https://pitchfork.com/story/5-new-albums-you-should-listen-to-now-atlas-sound-toro-y-moi-and-more/",
+    "publishedAt": "2026-11-20T14:53:41.000Z",
+    "summary": "Stream new releases from Atlas Sound, Toro y Moi, and Lorenzo Senni",
+    "image": null
+  },
+  {
     "id": "loudwire-https://loudwire.com/power-trip-mutual-death-warrant-grand-theft-auto-6/",
     "source": "loudwire",
     "title": "'GTA 6' Radio Station Has a Previously Unreleased Metal Song",
     "url": "https://loudwire.com/power-trip-mutual-death-warrant-grand-theft-auto-6/",
     "publishedAt": "2026-11-20T14:35:15.000Z",
     "summary": "Power Trip have released a new song, but you need to play 'Grand Theft Auto 6' to hear it. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMizgFBVV95cUxQalNFbUFPQXhaVG84bENQdzAwbW5MNGd3b0wtRUhNYUNielFZWGFjbnRhLWFKdWg1bGxQaE9QQjFhVXlobUxEaXJGbV9adTdieXhyMUYwUnhlS0dSQjVxR0lTT0gwejVsa0ozazFHNGtuZzZxWHIzb0E5V29kMDRBUGVPNlp0V2M5RFMzYXVhZXJsN1ZUVXlLTmgyZEdrZ294aFJvVGluWTdCMW1WMjF6Z3hTRldUc1cwNm5QcHdydmxraE5XQV9yOEVGZ1ItUQ?oc=5",
+    "source": "nme",
+    "title": "Steve Aoki tries to \"get a real job\" on LinkedIn, gives up two hours later, becomes \"thought leader\" - NME",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQalNFbUFPQXhaVG84bENQdzAwbW5MNGd3b0wtRUhNYUNielFZWGFjbnRhLWFKdWg1bGxQaE9QQjFhVXlobUxEaXJGbV9adTdieXhyMUYwUnhlS0dSQjVxR0lTT0gwejVsa0ozazFHNGtuZzZxWHIzb0E5V29kMDRBUGVPNlp0V2M5RFMzYXVhZXJsN1ZUVXlLTmgyZEdrZ294aFJvVGluWTdCMW1WMjF6Z3hTRldUc1cwNm5QcHdydmxraE5XQV9yOEVGZ1ItUQ?oc=5",
+    "publishedAt": "2026-11-20T13:35:20.000Z",
+    "summary": "Steve Aoki tries to \"get a real job\" on LinkedIn, gives up two hours later, becomes \"thought leader\" NME",
     "image": null
   },
   {
@@ -27,12 +324,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/lists/biggest-snubs-surprises-2026-aria-awards/",
-    "source": "billboard",
-    "title": "The Biggest Snubs and Surprises at the 2026 ARIA Awards",
-    "url": "https://www.billboard.com/lists/biggest-snubs-surprises-2026-aria-awards/",
-    "publishedAt": "2026-11-20T11:34:50.000Z",
-    "summary": "The 2026 ARIA Awards are in the books, the empties have been discarded and the hangovers (mostly) settled. With the benefit of hindsight, the Australian recording industry’s 40th annual ceremony at Sydney’s Hordern Pavilion on Wednesday (Nov. 20) was an appropriately large, and noisy, night for such an occasion. Not for the first time, Kevin […]",
+    "id": "nme-https://news.google.com/rss/articles/CBMipwFBVV95cUxOWkVqVDdQSkFVQjRoTnB0X3Btdm00M3FNUjV1dmZtSFZsdHZxVUJBZzhmQkV5d01LMVNkTXVfZVYxdnctNDJTcTM0STFLNGpBQXI4amNRbVg2bndScnc3MkNSeVJ1RWpJMVVfaFlvSExuMWJXT3JrYzdKM3NrQUxDNkVHVTZORXlrbGRDMEhidUlkdHg0Uy0wVUFvT1NrTGNIbGVLNUJiTQ?oc=5",
+    "source": "nme",
+    "title": "'GTA 6' is on its way to outselling every movie released this year - NME",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWkVqVDdQSkFVQjRoTnB0X3Btdm00M3FNUjV1dmZtSFZsdHZxVUJBZzhmQkV5d01LMVNkTXVfZVYxdnctNDJTcTM0STFLNGpBQXI4amNRbVg2bndScnc3MkNSeVJ1RWpJMVVfaFlvSExuMWJXT3JrYzdKM3NrQUxDNkVHVTZORXlrbGRDMEhidUlkdHg0Uy0wVUFvT1NrTGNIbGVLNUJiTQ?oc=5",
+    "publishedAt": "2026-11-20T11:14:26.000Z",
+    "summary": "'GTA 6' is on its way to outselling every movie released this year NME",
     "image": null
   },
   {
@@ -54,15 +351,6 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/jordan-brunoli-bugs-obituary-1236386241/",
-    "source": "billboard",
-    "title": "Jordan Brunoli, Bassist With Australian Indie Rockers Bugs, Dies at 31",
-    "url": "https://www.billboard.com/music/music-news/jordan-brunoli-bugs-obituary-1236386241/",
-    "publishedAt": "2026-11-20T08:43:31.000Z",
-    "summary": "Brunoli was diagnosed with stage 4 colorectal cancer in 2025.",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/features/fans-were-baffled-his-record-label-sued-him-neil-young-told-me-the-story-behind-his-misunderstood-album-157150/",
     "source": "uncut",
     "title": "Fans were baffled, his record label sued him – Neil Young told me the story behind his misunderstood album",
@@ -81,42 +369,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/blackpink-jisoo-sun-showers-single-angry-birds-movie-1235661547/",
-    "source": "rolling-stone",
-    "title": "Blackpink’s Jisoo Debuts Buoyant Single ‘Sun Showers’",
-    "url": "https://www.rollingstone.com/music/music-news/blackpink-jisoo-sun-showers-single-angry-birds-movie-1235661547/",
-    "publishedAt": "2026-11-20T07:46:19.000Z",
-    "summary": "The song was written and recorded for upcoming animated film The Angry Birds Movie 3",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/awards/u2-no-1-aria-chart-carnaval-de-luz-1236386224/",
-    "source": "billboard",
-    "title": "U2 Ride to No. 1 on ARIA Chart With ‘Carnaval De Luz’",
-    "url": "https://www.billboard.com/music/awards/u2-no-1-aria-chart-carnaval-de-luz-1236386224/",
-    "publishedAt": "2026-11-20T07:21:43.000Z",
-    "summary": "Jamie Miller becomes for the first male solo artist to top the national singles chart in almost 18 months, with \"Babydoll.\"",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/pop/gracie-abrams-daughter-from-hell-deluxe-treatment-1236386211/",
-    "source": "billboard",
-    "title": "Gracie Abrams’ ‘Daughter from Hell’ Gets Deluxe Treatment: Stream It Now",
-    "url": "https://www.billboard.com/music/pop/gracie-abrams-daughter-from-hell-deluxe-treatment-1236386211/",
-    "publishedAt": "2026-11-20T05:52:40.000Z",
-    "summary": "The expanded version of her Billboard 200 leader now features five fresh cuts.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/grand-theft-auto-vi-gracie-abrams-new-music-friday-guide-1236385829/",
-    "source": "billboard",
-    "title": "‘Grand Theft Auto VI’ Soundtrack, Gracie Abrams, LISA, Tomorrow x Together & More: New Music Friday Guide",
-    "url": "https://www.billboard.com/music/music-news/grand-theft-auto-vi-gracie-abrams-new-music-friday-guide-1236385829/",
-    "publishedAt": "2026-11-20T05:39:46.000Z",
-    "summary": "Check out the must-hear releases of the week.",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/atlas-sound-surprise-releases-first-album-in-15-years/",
     "source": "pitchfork",
     "title": "Atlas Sound Surprise Releases First Album in 15 Years",
@@ -126,75 +378,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/music-news/hans-zimmer-rufus-du-sol-innerbloom-remix-listen-1236385801/",
-    "source": "billboard",
-    "title": "Hear Hans Zimmer’s Sweeping Take on Rüfüs Du Sol’s Classic ‘Innerbloom’",
-    "url": "https://www.billboard.com/music/music-news/hans-zimmer-rufus-du-sol-innerbloom-remix-listen-1236385801/",
-    "publishedAt": "2026-11-20T05:02:51.000Z",
-    "summary": "\"Innerbloom XI\" is out today, Nov. 20, the 11-year anniversary of the original's release.",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/2026-hard-rock-metal-album-release-calendar/",
     "source": "loudwire",
     "title": "The New Rock + Metal Albums Out This Week",
     "url": "https://loudwire.com/2026-hard-rock-metal-album-release-calendar/",
     "publishedAt": "2026-11-20T05:01:48.000Z",
     "summary": "See all the new releases coming each week of 2026. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/blondie-release-new-song-come-back-home-1235661533/",
-    "source": "rolling-stone",
-    "title": "Blondie Are Waiting for the Clouds to Part on Wistful New Song ‘Come Back Home’",
-    "url": "https://www.rollingstone.com/music/music-news/blondie-release-new-song-come-back-home-1235661533/",
-    "publishedAt": "2026-11-20T05:01:29.000Z",
-    "summary": "The tender track will appear on the band's new album, High Noon, out February",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/grand-theft-auto-vi-the-album-1236385865/",
-    "source": "billboard",
-    "title": "‘Grand Theft Auto VI: The Album’ Is Here: Stream the Project Featuring Dua Lipa, Playboi Carti, Lana Del Rey, Cardi B & More",
-    "url": "https://www.billboard.com/music/music-news/grand-theft-auto-vi-the-album-1236385865/",
-    "publishedAt": "2026-11-20T05:00:00.000Z",
-    "summary": "The long-awaited video game, which was released on Thursday (Nov. 19), has already reportedly generated seven figures in sales.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/awards/childish-gambino-this-is-america-youtube-billion-views-club-1236386157/",
-    "source": "billboard",
-    "title": "Childish Gambino’s Politically-Charged ‘This Is America’ Joins YouTube’s Billion Views Club",
-    "url": "https://www.billboard.com/music/awards/childish-gambino-this-is-america-youtube-billion-views-club-1236386157/",
-    "publishedAt": "2026-11-20T04:45:30.000Z",
-    "summary": "“This Is America’ was a politically-charged shot that rung out around the globe, a hit that touches on gun violence, racism and discrimination in America.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/p1harmony-first-no1-top-album-sales-blow-up-1236386121/",
-    "source": "billboard",
-    "title": "P1Harmony Earns First No. 1 on Top Album Sales Chart With ‘BLOW UP’",
-    "url": "https://www.billboard.com/music/chart-beat/p1harmony-first-no1-top-album-sales-blow-up-1236386121/",
-    "publishedAt": "2026-11-20T03:42:01.000Z",
-    "summary": "Plus, Kings of Leon, Steven Wilson, A Charlie Brown Christmas and Ariana Grande make waves in the top 10.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/awards/darren-hayes-2026-aria-awards-savage-gardens-affirmation-1236386147/",
-    "source": "billboard",
-    "title": "Darren Hayes Launches the 2026 ARIA Awards With Savage Garden’s ‘Affirmation’: Watch",
-    "url": "https://www.billboard.com/music/awards/darren-hayes-2026-aria-awards-savage-gardens-affirmation-1236386147/",
-    "publishedAt": "2026-11-20T03:32:17.000Z",
-    "summary": "The stirring performance was the starting point for the 40th annual ceremony.",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/bruno-mars-mourns-father-death-peter-hernandez-1235661510/",
-    "source": "rolling-stone",
-    "title": "Bruno Mars Mourns His Father’s Death: ‘The Man That Taught Me Everything I Know’",
-    "url": "https://www.rollingstone.com/music/music-news/bruno-mars-mourns-father-death-peter-hernandez-1235661510/",
-    "publishedAt": "2026-11-20T00:44:22.000Z",
-    "summary": "The singer praised his father, Peter “Dr. Doo-Wop” Hernandez, often during interviews and credited him for his signature style",
     "image": null
   },
   {
@@ -213,42 +402,6 @@
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTks0V2JrT3RvdE9XMWt2bzZwUWg1a2Utc3ZZcktJaF8wLUlZU1dSVThWVGRNQzd0d3Z5Q05yQkc3TDdIcG1uUXROa1pJWmNFMlJnbzBDeFJBSFo4SWtpQTltOTZncUFHNXJNLWctYVBLNl9WLXNIckFBbUZCb0hqWTItVnRwWXVERXVISUdlRkh4NTlHS243c1BHem9PeGNiUmVTMHU1YlRTdTNweWxnX1lNSQ?oc=5",
     "publishedAt": "2026-11-19T23:03:01.000Z",
     "summary": "‘GTA 6’ doesn’t feature prostitution for first game since 2001’s ‘Grand Theft Auto 3’ NME",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/rock-metal-bands-broke-up-retired-2026/",
-    "source": "loudwire",
-    "title": "15 Rock + Metal Bands That Broke Up in 2026",
-    "url": "https://loudwire.com/rock-metal-bands-broke-up-retired-2026/",
-    "publishedAt": "2026-11-19T20:05:07.000Z",
-    "summary": "For many of these bands, ending things was more than just deciding they weren't having fun anymore. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/gta-vi-tinashe-stream-1235660901/",
-    "source": "rolling-stone",
-    "title": "Tinashe Crashes a Plane and Belts Out ‘Melatonin’ During Hilarious ‘GTA VI’ Stream",
-    "url": "https://www.rollingstone.com/music/music-news/gta-vi-tinashe-stream-1235660901/",
-    "publishedAt": "2026-11-19T19:23:49.000Z",
-    "summary": "The pop star cracked fans up as she wreaked havoc in Vice City",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/foo-fighters-noah-kahan-the-who-new-orleans-jazz-fest-1235661091/",
-    "source": "rolling-stone",
-    "title": "Foo Fighters, Noah Kahan, the Who Lead New Orleans Jazz and Heritage Festival Lineup",
-    "url": "https://www.rollingstone.com/music/music-news/foo-fighters-noah-kahan-the-who-new-orleans-jazz-fest-1235661091/",
-    "publishedAt": "2026-11-19T19:13:35.000Z",
-    "summary": "Brandi Carlile, Gwen Stefani, James Taylor, Jack White, and the Red Clay Strays also set to perform in 2027",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/marlon-jackson-reveal-stage-4-prostate-cancer-diagnosis-1235661255/",
-    "source": "rolling-stone",
-    "title": "Marlon Jackson Reveals Stage 4 Prostate Cancer Diagnosis",
-    "url": "https://www.rollingstone.com/music/music-news/marlon-jackson-reveal-stage-4-prostate-cancer-diagnosis-1235661255/",
-    "publishedAt": "2026-11-19T19:07:56.000Z",
-    "summary": "“I’ve had my prostate gland removed and I’ve had radiation treatment and everything is fine,” Jackson 5 singer and Rock Hall inductee says of current condition",
     "image": null
   },
   {
@@ -288,15 +441,6 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/the-beatles-celebrate-liverpool-new-video-in-my-life-1235661140/",
-    "source": "rolling-stone",
-    "title": "The Beatles Celebrate Liverpool in New Video for ‘In My Life’",
-    "url": "https://www.rollingstone.com/music/music-news/the-beatles-celebrate-liverpool-new-video-in-my-life-1235661140/",
-    "publishedAt": "2026-11-19T17:51:37.000Z",
-    "summary": "Adolescence’s Owen Cooper stars in visual that coincides with Rubber Soul reissue and The Beatles Story’s move to bigger location in band’s hometown",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/muse-the-o2-arena-london-live-review/",
     "source": "louder-than-war",
     "title": "Muse: The O2 Arena, London – Live Review",
@@ -306,48 +450,12 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/taylor-swift-cma-awards-performance-all-the-country-stars-1235660996/",
-    "source": "rolling-stone",
-    "title": "All the Country Stars in Taylor Swift’s CMA Awards Performance, Explained",
-    "url": "https://www.rollingstone.com/music/music-country/taylor-swift-cma-awards-performance-all-the-country-stars-1235660996/",
-    "publishedAt": "2026-11-19T17:26:03.000Z",
-    "summary": "For her first performance in 13 years at the awards show on Wednesday, Swift lined up a score of cameos from her country music past",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/phoebe-bridgers-covers-adrianne-lenkers-anything-for-the-holidays/",
     "source": "pitchfork",
     "title": "Phoebe Bridgers Covers Adrianne Lenker’s “Anything” for the Holidays",
     "url": "https://pitchfork.com/story/phoebe-bridgers-covers-adrianne-lenkers-anything-for-the-holidays/",
     "publishedAt": "2026-11-19T17:13:14.000Z",
     "summary": "Proceeds from the track will benefit Palestine Children’s Relief Fund",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/taylor-swift-cma-performance-easter-eggs-explained-1235660977/",
-    "source": "rolling-stone",
-    "title": "Taylor Swift’s CMA Performance Was Filled With Easter Eggs From the Early Days of Her Career",
-    "url": "https://www.rollingstone.com/music/music-country/taylor-swift-cma-performance-easter-eggs-explained-1235660977/",
-    "publishedAt": "2026-11-19T16:35:38.000Z",
-    "summary": "Everything from the song choice to the cameos to the dresses strewn about backstage seemed to hint that maybe the Taylor Swift re-record is on the way",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/halestorm-brooks-dunn-2026-cmas-reaction/",
-    "source": "loudwire",
-    "title": "Halestorm Salute Brooks & Dunn at the 2026 CMAs - Reactions",
-    "url": "https://loudwire.com/halestorm-brooks-dunn-2026-cmas-reaction/",
-    "publishedAt": "2026-11-19T16:27:39.000Z",
-    "summary": "Some country fans were taken aback by Halestorm's rocked-up cover of 'Boot Scootin' Boogie' as part ofa Brooks & Dunn CMA tribute, but they also had their defenders. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/touchtunes-top-5-most-played-current-catalog-rock-songs-2026/",
-    "source": "loudwire",
-    "title": "TouchTunes Reveals Most Played Rock Songs of 2026",
-    "url": "https://loudwire.com/touchtunes-top-5-most-played-current-catalog-rock-songs-2026/",
-    "publishedAt": "2026-11-19T14:43:13.000Z",
-    "summary": "Get a closer look at what current and classic rock songs people were paying to hear on jukeboxes in 2026. Continue reading…",
     "image": null
   },
   {
@@ -396,15 +504,6 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMi6gFBVV95cUxQX1Rhd0JMMk1FSVR3NFhnRndtaTFtcEdOSHp2QXYxZTBuaGw5eXBOVllGVTBvdzdDa0dIeDR0MGkzM3hNa21lT0Q2bU4yM3VmYzJuYWdnbnNRN243U3RtZUhfMXNuOW9WMDc5RmpNWXAyTmxUeS01VGhmdUs1bDZNc1RJejk2X2x5VHhtOEhBcWZxeS1Uckp0SVdnYzRGWWhpRExHSi15Vm9mdHh5VHo1andTNno1bjBHS2lqZ0ZRYzl5OU5PTnY0YlUxTEM2TG00TnRjbDdmV3ZDWVZ0RU1IdkVPemlsdlNxM3c?oc=5",
-    "source": "nme",
-    "title": "Boardmasters 2027: Chase & Status, Disclosure and Wolf Alice to headline, with music on the Thursday for first time ever - NME",
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQX1Rhd0JMMk1FSVR3NFhnRndtaTFtcEdOSHp2QXYxZTBuaGw5eXBOVllGVTBvdzdDa0dIeDR0MGkzM3hNa21lT0Q2bU4yM3VmYzJuYWdnbnNRN243U3RtZUhfMXNuOW9WMDc5RmpNWXAyTmxUeS01VGhmdUs1bDZNc1RJejk2X2x5VHhtOEhBcWZxeS1Uckp0SVdnYzRGWWhpRExHSi15Vm9mdHh5VHo1andTNno1bjBHS2lqZ0ZRYzl5OU5PTnY0YlUxTEM2TG00TnRjbDdmV3ZDWVZ0RU1IdkVPemlsdlNxM3c?oc=5",
-    "publishedAt": "2026-11-19T11:34:49.000Z",
-    "summary": "Boardmasters 2027: Chase & Status, Disclosure and Wolf Alice to headline, with music on the Thursday for first time ever NME",
-    "image": null
-  },
-  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KWHpUalhuR1hXajJKeUdPQlhfRTgxZURxOHlLZm1SSHhnZE11UlZRaUxRd2VIai1VX1ladEZHU1FQTmxsYm4wLUdINWN6YjZ6cFdxV1VOb1hvZFBScTRz?oc=5",
     "source": "kerrang",
     "title": "Album review: Down – Volume V - Kerrang!",
@@ -414,39 +513,12 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMijwFBVV95cUxNOGs3SndQVmk0WnhocEJBTGhvNmxkWmJEWFU5aWN3dzBLSmY4VUl0X1IzN3YtTktKNTd3emVnNjUxVTZHdEt6Zk5LTEFUMWhPdnBKQUdUNjlET2JHSDlSNy1rR3ZzX2doanZfc0tUbTd1ZzNZLVJjOWkyYzRyVkFRVy1uYl9fMlNtdHNqYk1Edw?oc=5",
-    "source": "nme",
-    "title": "Beabadoobee live in London: Four albums in, she’s reached arena headline status her own way - NME",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOGs3SndQVmk0WnhocEJBTGhvNmxkWmJEWFU5aWN3dzBLSmY4VUl0X1IzN3YtTktKNTd3emVnNjUxVTZHdEt6Zk5LTEFUMWhPdnBKQUdUNjlET2JHSDlSNy1rR3ZzX2doanZfc0tUbTd1ZzNZLVJjOWkyYzRyVkFRVy1uYl9fMlNtdHNqYk1Edw?oc=5",
-    "publishedAt": "2026-11-19T10:53:54.000Z",
-    "summary": "Beabadoobee live in London: Four albums in, she’s reached arena headline status her own way NME",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/sheherazaad-khudgarzi-album-review/",
     "source": "louder-than-war",
     "title": "Sheherazaad: Khudgarzi – Album Review",
     "url": "https://louderthanwar.com/sheherazaad-khudgarzi-album-review/",
     "publishedAt": "2026-11-19T10:12:25.000Z",
     "summary": "Reclamation can take many forms. The Netherlands has been particularly successful in its land reclamation over the centuries; in certain parts of American Black culture, whilst verboten to pretty much everyone else, the N-word has been reclaimed and repowered. For Urdu avant-folk artist Sheherazaad, whose debut album’s title translates to “Selfishness”, her reclamation comes […] The post Sheherazaad: Khudgarzi – Album Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQS15TzhFRkJQYmt6bGFBTFNBTVJUWktBd2pHaDFDeTg0c1dxWkNUV1BUUlExNjRKVUticVJpUmdxbGRaWFBiVVBoQ1lYOHdyX3JKdzdNRWhjaFQtTDZVaFZLOS1PT0pCeW9fX041cHVVQjZzWkhVNVJrWHRQdG51Vl9oYkhTMnREZlZuSExBTEpWZWk2a3B1OGNxcF8wbkxpRm5hRUtKbzNRQ3E1b0pXV3hSM3BmZUY4Q3FDcG1VRUdoTzZKNFgxVHdQczVVVG1BeDBfUk94MklLM3ZMSllZVDVscWw1SjExRFRDRmNuQQ?oc=5",
-    "source": "nme",
-    "title": "Watch Matt Helders react to KoRn's Ray Luzier’s drum cover of Arctic Monkeys 'R U Mine' after hearing it for the first time - NME",
-    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQS15TzhFRkJQYmt6bGFBTFNBTVJUWktBd2pHaDFDeTg0c1dxWkNUV1BUUlExNjRKVUticVJpUmdxbGRaWFBiVVBoQ1lYOHdyX3JKdzdNRWhjaFQtTDZVaFZLOS1PT0pCeW9fX041cHVVQjZzWkhVNVJrWHRQdG51Vl9oYkhTMnREZlZuSExBTEpWZWk2a3B1OGNxcF8wbkxpRm5hRUtKbzNRQ3E1b0pXV3hSM3BmZUY4Q3FDcG1VRUdoTzZKNFgxVHdQczVVVG1BeDBfUk94MklLM3ZMSllZVDVscWw1SjExRFRDRmNuQQ?oc=5",
-    "publishedAt": "2026-11-19T09:53:58.000Z",
-    "summary": "Watch Matt Helders react to KoRn's Ray Luzier’s drum cover of Arctic Monkeys 'R U Mine' after hearing it for the first time NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMipAFBVV95cUxPM0o1T28yLTVQN202LXdPU24tYWI1YTQteXBOSHJpdFVWM0NTNDM2M1pud2dneDNhck5pNWFIazlBWVBLZFBKQWxXemg2WUZudUJ6UHBndFFvOUV6bGlfRkR2U0NhQW5TQU9yOFdRUkJUZmo5TDZ6NHhiTThyZjg4TThJcFQ0emM5R3JYNVljN1ViR091eWw2cE5qb2xJTm9nRzQ1eg?oc=5",
-    "source": "nme",
-    "title": "‘The Altruists’ review: another cautionary tale of power, corruption and tech bros - NME",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPM0o1T28yLTVQN202LXdPU24tYWI1YTQteXBOSHJpdFVWM0NTNDM2M1pud2dneDNhck5pNWFIazlBWVBLZFBKQWxXemg2WUZudUJ6UHBndFFvOUV6bGlfRkR2U0NhQW5TQU9yOFdRUkJUZmo5TDZ6NHhiTThyZjg4TThJcFQ0emM5R3JYNVljN1ViR091eWw2cE5qb2xJTm9nRzQ1eg?oc=5",
-    "publishedAt": "2026-11-19T08:03:47.000Z",
-    "summary": "‘The Altruists’ review: another cautionary tale of power, corruption and tech bros NME",
     "image": null
   },
   {
@@ -477,84 +549,12 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/rock-metal-soundtrack-songs-grand-theft-auto-6/",
-    "source": "loudwire",
-    "title": "Here Are All the Rock + Metal Songs in 'Grand Theft Auto 6'",
-    "url": "https://loudwire.com/rock-metal-soundtrack-songs-grand-theft-auto-6/",
-    "publishedAt": "2026-11-18T19:23:33.000Z",
-    "summary": "Tomorrow is the big day, so keep reading to see all of the rock and metal songs that are featured in 'Grand Theft Auto 6.' Continue reading…",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/enroll-now-for-the-waxahatchee-songwriting-workshop/",
     "source": "pitchfork",
     "title": "Waxahatchee Is Hosting a Songwriting Workshop",
     "url": "https://pitchfork.com/story/enroll-now-for-the-waxahatchee-songwriting-workshop/",
     "publishedAt": "2026-11-18T17:58:50.000Z",
     "summary": "Katie Crutchfield will host four weeks of online classes via School of Song",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/tony-iommi-exclusive-interview-2026/",
-    "source": "loudwire",
-    "title": "Tony Iommi Exclusive Interview - New Album, Back to the Start",
-    "url": "https://loudwire.com/tony-iommi-exclusive-interview-2026/",
-    "publishedAt": "2026-11-18T17:58:35.000Z",
-    "summary": "Tony Iommi joins Loudwire for an exclusive, in-depth conversation around his new album, 'From the Dark,' and opens up about the beginning of everything for him. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/jack-black-hack-love-bands-again/",
-    "source": "loudwire",
-    "title": "Jack Black’s Simple Tip for Falling Back in Love With Bands",
-    "url": "https://loudwire.com/jack-black-hack-love-bands-again/",
-    "publishedAt": "2026-11-18T17:50:36.000Z",
-    "summary": "Jack Black has a growing list of bands he no longer likes, but he's also found a way to fall back in love with them well after he stopped reaching for their albums. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/sml-announce-2027-us-tour/",
-    "source": "pitchfork",
-    "title": "SML Announce 2027 U.S. Tour",
-    "url": "https://pitchfork.com/story/sml-announce-2027-us-tour/",
-    "publishedAt": "2026-11-18T17:18:31.000Z",
-    "summary": "Including an opening slot for Death Cab for Cutie at Red Rocks",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/touche-amore-share-new-song-2027-tour-dates/",
-    "source": "pitchfork",
-    "title": "Touché Amoré Share New Song, 2027 Tour Dates",
-    "url": "https://pitchfork.com/story/touche-amore-share-new-song-2027-tour-dates/",
-    "publishedAt": "2026-11-18T17:03:49.000Z",
-    "summary": "The band will make their way to New York, Chicago, Detroit, and more",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/lucinda-williams-is-going-on-tour-in-2027/",
-    "source": "pitchfork",
-    "title": "Lucinda Williams Is Going on Tour in 2027",
-    "url": "https://pitchfork.com/story/lucinda-williams-is-going-on-tour-in-2027/",
-    "publishedAt": "2026-11-18T16:35:46.000Z",
-    "summary": "The World’s Gone Wrong trek kicks off next February in Knoxville",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/rammstein-flake-band-future/",
-    "source": "loudwire",
-    "title": "What Rammstein's Keyboardist Just Said About the Band's Future",
-    "url": "https://loudwire.com/rammstein-flake-band-future/",
-    "publishedAt": "2026-11-18T15:13:56.000Z",
-    "summary": "Rammstein keyboardist Christian \"Flake\" Lorenz just gave an update on the band's future during a new interview with a German publication. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/bruce-dickinson-psychogod-speaking-in-tongues/",
-    "source": "loudwire",
-    "title": "Bruce Dickinson's 2027 Album Announced, First Song Out Now",
-    "url": "https://loudwire.com/bruce-dickinson-psychogod-speaking-in-tongues/",
-    "publishedAt": "2026-11-18T15:02:30.000Z",
-    "summary": "Iron Maiden's Bruce Dickinson has announced his new solo album alongside the release of a music video for the first song. Continue reading…",
     "image": null
   },
   {
