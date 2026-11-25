@@ -1,65 +1,209 @@
 [
   {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/new-order-first-tour-without-drummer-stephen-morris-1235664185/",
+    "source": "rolling-stone",
+    "title": "See New Order Kick Off First Tour Without Drummer Stephen Morris",
+    "url": "https://www.rollingstone.com/music/music-news/new-order-first-tour-without-drummer-stephen-morris-1235664185/",
+    "publishedAt": "2026-11-25T16:37:43.000Z",
+    "summary": "\"We’re sorry Steve and Gillian can’t be here with us,\" frontman Bernard Sumner told the crowd early in the set, \"and we just want them to know how much we’re missing them\"",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/megan-thee-stallion-netflix-kshop-campaign-exclusive-1236389377/",
+    "source": "billboard",
+    "title": "Megan Thee Stallion Is the Big Boss of Netflix’s KShop In New Campaign: Exclusive First Look",
+    "url": "https://www.billboard.com/music/rb-hip-hop/megan-thee-stallion-netflix-kshop-campaign-exclusive-1236389377/",
+    "publishedAt": "2026-11-25T16:30:00.000Z",
+    "summary": "The chart-topping Texas hip-hop star flexes her acting chops in a new custom ad for \"KPop Demon Hunters\" merch.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/latin/horacio-palencia-historic-chart-achievements-interview-1236389484/",
+    "source": "billboard",
+    "title": "Horacio Palencia Celebrates Historic Billboard Chart Achievements: ‘I Like Making Music That Transcends’",
+    "url": "https://www.billboard.com/music/latin/horacio-palencia-historic-chart-achievements-interview-1236389484/",
+    "publishedAt": "2026-11-25T16:29:33.000Z",
+    "summary": "Palencia has notched 45 No. 1 hits on Regional Mexican Airplay as a songwriter.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/tv-film/will-smith-surprises-tatyana-ali-dwts-season-35-finale-video-1236389432/",
+    "source": "billboard",
+    "title": "Will Smith Surprises Former ‘Fresh Prince’ Co-Star With ‘DWTS’ Season 35 Finale Cameo: I Am In Awe. I Am Inspired’",
+    "url": "https://www.billboard.com/culture/tv-film/will-smith-surprises-tatyana-ali-dwts-season-35-finale-video-1236389432/",
+    "publishedAt": "2026-11-25T16:26:53.000Z",
+    "summary": "Smith showed up on Tuesday night's (Nov. 24) show alongside Elmo and the Black Eyed Peas' will.i.am to support Tatyana Ali.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/seal-new-person-tame-impala-cover-like-a-version-1235664192/",
+    "source": "rolling-stone",
+    "title": "Seal Returns Favor, Cover’s Tame Impala’s ‘New Person, Same Old Mistakes’",
+    "url": "https://www.rollingstone.com/music/music-news/seal-new-person-tame-impala-cover-like-a-version-1235664192/",
+    "publishedAt": "2026-11-25T16:20:14.000Z",
+    "summary": "The \"Kiss From A Rose\" singer said he wanted to return the honor after Tame Impala's cover",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-country/wawa-comes-to-nasvhille-devon-gilfillian-interview-1235664138/",
+    "source": "rolling-stone",
+    "title": "Wawa Brings Community, Connection, and Hoagies to Nashville",
+    "url": "https://www.rollingstone.com/music/music-country/wawa-comes-to-nasvhille-devon-gilfillian-interview-1235664138/",
+    "publishedAt": "2026-11-25T16:15:48.000Z",
+    "summary": "Rolling Stone’s Nashville Now podcast hosts singer-songwriter Devon Gilfillian for a special on-location episode celebrating the chain’s first-ever Music City outpost",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/gift-bundles-rock-metal-fans-metallica-90s/",
+    "source": "loudwire",
+    "title": "5 Curated Gift Bundles for Rock + Metal Fans - Metallica + More",
+    "url": "https://loudwire.com/gift-bundles-rock-metal-fans-metallica-90s/",
+    "publishedAt": "2026-11-25T15:42:51.000Z",
+    "summary": "A couple of curated gift bundles that are absolutely perfect to give to rock and metal fans this holiday season - especially fans of Metallica and the '90s. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/coachella-sues-walmart-for-selling-knockoffs-near-festival/",
+    "source": "billboard",
+    "title": "Coachella Sues Walmart for Selling Knockoffs at Stores Near Festival: ‘Who Needs the Merch Tent?’",
+    "url": "https://www.billboard.com/pro/coachella-sues-walmart-for-selling-knockoffs-near-festival/",
+    "publishedAt": "2026-11-25T15:26:31.000Z",
+    "summary": "The lawsuit claims Walmart has been infringing Coachella's trademarks for years at stores near the Southern California festival grounds.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/50-years-neil-young-the-last-waltz-late-night-show-1235663524/",
+    "source": "rolling-stone",
+    "title": "50 Years Ago Today: Neil Young Played a 1 A.M. Concert the Morning of the Last Waltz",
+    "url": "https://www.rollingstone.com/music/music-features/50-years-neil-young-the-last-waltz-late-night-show-1235663524/",
+    "publishedAt": "2026-11-25T15:25:19.000Z",
+    "summary": "In an extraordinary feat that required some chemical assistance, Neil Young played two shows in Atlanta on Nov. 24, 1976, and then flew across the country to play with the Band in San Francisco",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/the-chicks-willie-colon-join-ai-music-lawsuit-against-suno/",
+    "source": "billboard",
+    "title": "The Chicks & Willie Colón Join AI Music Lawsuit Against Suno: ‘Misappropriated Identities’",
+    "url": "https://www.billboard.com/pro/the-chicks-willie-colon-join-ai-music-lawsuit-against-suno/",
+    "publishedAt": "2026-11-25T15:07:33.000Z",
+    "summary": "The country legends and the late Latin titan are the biggest musical acts yet to do more than just speak out about the rise of AI music.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/black-dahlia-murder-welcome-back-brandon-ellis/",
+    "source": "loudwire",
+    "title": "The Black Dahlia Murder Welcome Back Familiar Face",
+    "url": "https://loudwire.com/black-dahlia-murder-welcome-back-brandon-ellis/",
+    "publishedAt": "2026-11-25T15:07:31.000Z",
+    "summary": "A year and a half after his exit, guitarist Brandon Ellis has returned to The Black Dahlia Murder. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/video/josephine-vaccarello-booking-harry-styles-artist-residencies/",
+    "source": "billboard",
+    "title": "Josephine Vaccarello on Booking Harry Styles, Artist Residencies & the Future of Concerts | Billboard On The Record",
+    "url": "https://www.billboard.com/video/josephine-vaccarello-booking-harry-styles-artist-residencies/",
+    "publishedAt": "2026-11-25T14:00:00.000Z",
+    "summary": "From Radio City Music Hall to Madison Square Garden and Sphere, Josephine Vaccarello has had a front-row seat to the evolution of live entertainment. The president of MSG Entertainment and Billboard’s 2026 Touring Executive of the Year joins Billboard On The Record host Kristin Robinson live from the Billboard Live Music Summit to discuss how […]",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/awards/dolly-parton-cnn-heroes-legacy-award-miley-cyrus-accept-1236389084/",
+    "source": "billboard",
+    "title": "Dolly Parton to Receive CNN Heroes Legacy Award, Miley Cyrus to Accept on Her Behalf",
+    "url": "https://www.billboard.com/music/awards/dolly-parton-cnn-heroes-legacy-award-miley-cyrus-accept-1236389084/",
+    "publishedAt": "2026-11-25T14:00:00.000Z",
+    "summary": "Wynonna Judd will present the honor during the network's broadcast.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/concerts/essence-festival-culture-leaving-new-orleans-three-decades-1236389426/",
+    "source": "billboard",
+    "title": "ESSENCE Festival of Culture Moving On From New Orleans After Three Decades: ‘Memories Were Made — And So Was History’",
+    "url": "https://www.billboard.com/music/concerts/essence-festival-culture-leaving-new-orleans-three-decades-1236389426/",
+    "publishedAt": "2026-11-25T13:41:33.000Z",
+    "summary": "The beloved event first took place in the Big Easy in 1995 with a lineup that included Aaliyah, Aretha Franklin, Mary J. Blige, Luther Vandross and more.",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/erykah-badu-does-breezy-salutes-elton-john-on-fallon/",
+    "source": "pitchfork",
+    "title": "Erykah Badu Does “Breezy,” Salutes Elton John on Fallon",
+    "url": "https://pitchfork.com/story/erykah-badu-does-breezy-salutes-elton-john-on-fallon/",
+    "publishedAt": "2026-11-25T13:15:56.000Z",
+    "summary": "Her rendition of the Alchemist-assisted single interpolated “Bennie and the Jets”",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/pop/noah-kahan-live-from-the-great-divide-concert-album-1236389418/",
+    "source": "billboard",
+    "title": "Noah Kahan Caps Epic Year With ‘Live From the Great Divide’ Album",
+    "url": "https://www.billboard.com/music/pop/noah-kahan-live-from-the-great-divide-concert-album-1236389418/",
+    "publishedAt": "2026-11-25T12:37:36.000Z",
+    "summary": "The 16-track record features songs recorded across North America during the singer's summer tour.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/belle-and-sebastian-sign-catalog-deal-matador-records/",
+    "source": "billboard",
+    "title": "Belle and Sebastian Sign Worldwide Catalog Deal With Matador Records",
+    "url": "https://www.billboard.com/pro/belle-and-sebastian-sign-catalog-deal-matador-records/",
+    "publishedAt": "2026-11-25T12:17:54.000Z",
+    "summary": "The first release under the new arrangement will be a reissue of If You're Feeling Sinister.",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMilgFBVV95cUxNd0c4RzI4UHdfb2gxLV9WTmFqdjhGem05WTVobk83b0tXaUM1NzNWcTNBcTNTLXZ5d1dpZFdkc2tENmdGZFJMSVpjQWJhaHZvREtyRENSdWtzbTNpOG45YWhTdTN2bVlHOC1YZ196U3BqaXFyeE40R2hyTVJkNXFibmJLY21xREp3Ykk4d2hMWVR6ZVBjNVE?oc=5",
+    "source": "nme",
+    "title": "Matthew Perry’s grave headstone ‘Friends’ reference removed - NME",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd0c4RzI4UHdfb2gxLV9WTmFqdjhGem05WTVobk83b0tXaUM1NzNWcTNBcTNTLXZ5d1dpZFdkc2tENmdGZFJMSVpjQWJhaHZvREtyRENSdWtzbTNpOG45YWhTdTN2bVlHOC1YZ196U3BqaXFyeE40R2hyTVJkNXFibmJLY21xREp3Ykk4d2hMWVR6ZVBjNVE?oc=5",
+    "publishedAt": "2026-11-25T12:05:26.000Z",
+    "summary": "Matthew Perry’s grave headstone ‘Friends’ reference removed NME",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMi1wFBVV95cUxQS3R2cWxvOUcwdDBpMU9LMEdJRFZMbXlhTHJhUEhBYVMxdTgybFBKQkFvWWhwQnI3bWhxTkV6V0M4N0JRcFRTazlNaEJxWHhsQnVyMVF2MWpZVm1kVFFJQmc4RUNUai1Zc1pxSWljVTFlQ1dIRXNLYV9Wa09qZExNcGxPUGk4U2ZpS0pTSFRfek5EUkZvWlJ4UkVVODZ2UWk0aU1Ta2Ztb1JZZ3VxUFFWVnI3Vk5NSmp1LXFJOFlWc1NicnJNd0x6YzBveUoya0NuSzV2d2hQcw?oc=5",
+    "source": "nme",
+    "title": "New Order play first full gig without Stephen Morris and Gillian Gilbert in São Paulo: \"We just want them to know how much we’re missing them” - NME",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQS3R2cWxvOUcwdDBpMU9LMEdJRFZMbXlhTHJhUEhBYVMxdTgybFBKQkFvWWhwQnI3bWhxTkV6V0M4N0JRcFRTazlNaEJxWHhsQnVyMVF2MWpZVm1kVFFJQmc4RUNUai1Zc1pxSWljVTFlQ1dIRXNLYV9Wa09qZExNcGxPUGk4U2ZpS0pTSFRfek5EUkZvWlJ4UkVVODZ2UWk0aU1Ta2Ztb1JZZ3VxUFFWVnI3Vk5NSmp1LXFJOFlWc1NicnJNd0x6YzBveUoya0NuSzV2d2hQcw?oc=5",
+    "publishedAt": "2026-11-25T12:05:26.000Z",
+    "summary": "New Order play first full gig without Stephen Morris and Gillian Gilbert in São Paulo: \"We just want them to know how much we’re missing them” NME",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ3VEUWlQMjE0WEthVUNPNUhVT0tidF9QQV9EYXYyd1libklVNjhnZV9NM0FfUUU1WktzQUxJY2pfSnhpTkpyNTRZaldMWV9RMXRMcHo2NkladjJkMHd4QnRSQ3RsSmMzSGV6OG0xTVlsUXRMSnVtLVlyRTktUXhON1pVLWJ2VHFBVnNjekxBSTYwOXdWdVk0SzFR?oc=5",
+    "source": "nme",
+    "title": "AI music banned on TIDAL as they delete 29million songs - NME",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ3VEUWlQMjE0WEthVUNPNUhVT0tidF9QQV9EYXYyd1libklVNjhnZV9NM0FfUUU1WktzQUxJY2pfSnhpTkpyNTRZaldMWV9RMXRMcHo2NkladjJkMHd4QnRSQ3RsSmMzSGV6OG0xTVlsUXRMSnVtLVlyRTktUXhON1pVLWJ2VHFBVnNjekxBSTYwOXdWdVk0SzFR?oc=5",
+    "publishedAt": "2026-11-25T09:50:26.000Z",
+    "summary": "AI music banned on TIDAL as they delete 29million songs NME",
+    "image": null
+  },
+  {
+    "id": "louder-than-war-https://louderthanwar.com/lottie-brazier-on-course-but-no-one-there-to-salute-you-album-review/",
+    "source": "louder-than-war",
+    "title": "Lottie Brazier: On Course But No-one There to Salute You – Album Review",
+    "url": "https://louderthanwar.com/lottie-brazier-on-course-but-no-one-there-to-salute-you-album-review/",
+    "publishedAt": "2026-11-25T09:17:41.000Z",
+    "summary": "Lottie Brazier’s debut is a gnomic, introverted but often mesmeric psychedelic pop record with a strong Eighties filter. Lottie Brazier’s debut is a record with many aspects. It can act as a puzzle. Sometimes the music disappears into itself, at other times it bursts out in technicolour radiance. The album’s title, On Course but No-one […] The post Lottie Brazier: On Course But No-one There to Salute You – Album Review appeared first on Louder Than War.",
+    "image": null
+  },
+  {
+    "id": "uncut-https://www.uncut.co.uk/features/how-austin-became-the-live-music-capital-of-the-world-157195/",
+    "source": "uncut",
+    "title": "How Austin became the Live Music Capital of the World",
+    "url": "https://www.uncut.co.uk/features/how-austin-became-the-live-music-capital-of-the-world-157195/",
+    "publishedAt": "2026-11-25T08:00:00.000Z",
+    "summary": "Austin wasn't supposed to become America's live music capital. Then Willie Nelson came home and a remarkable scene began to take shape",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-news/brandi-carlile-ice-arrests-seattle-airport-action-1235664018/",
     "source": "rolling-stone",
     "title": "Brandi Carlile Says the ‘Horror’ of ICE Arrests at Seattle Airport ‘Cannot Be Overstated’",
     "url": "https://www.rollingstone.com/music/music-news/brandi-carlile-ice-arrests-seattle-airport-action-1235664018/",
     "publishedAt": "2026-11-25T01:13:18.000Z",
     "summary": "The musician called on fans to call their representatives and donate to organizations working to protect immigrants",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-    "source": "billboard",
-    "title": "Billboard’s Music Industry Events Calendar",
-    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-    "publishedAt": "2026-11-25T00:46:00.000Z",
-    "summary": "A complete rundown of the most important events across the music business.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/dolly-parton-estate-creative-team-star-legacy/",
-    "source": "billboard",
-    "title": "Dolly Parton Estate Reveals Creative Team That Will ‘Preserve and Carry Forward’ Her Legacy",
-    "url": "https://www.billboard.com/pro/dolly-parton-estate-creative-team-star-legacy/",
-    "publishedAt": "2026-11-25T00:30:06.000Z",
-    "summary": "The team will be led by Steve Summers, who worked with the music icon for more than 30 years.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/kodak-black-secret-radio-station-grand-theft-auto-vi-1236389147/",
-    "source": "billboard",
-    "title": "Kodak Black Has Secret Radio Station in ‘Grand Theft Auto VI’: Here’s How to Unlock It",
-    "url": "https://www.billboard.com/music/rb-hip-hop/kodak-black-secret-radio-station-grand-theft-auto-vi-1236389147/",
-    "publishedAt": "2026-11-25T00:15:13.000Z",
-    "summary": "Gamers also found another secret station hosted by fictional DJ Pretzel.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/marty-robbins-singing-the-blues-chart-rewind-1956-1236389281/",
-    "source": "billboard",
-    "title": "Chart Rewind: In 1956, ‘Blues’ Singer Marty Robbins Swept 3 Country Charts",
-    "url": "https://www.billboard.com/music/chart-beat/marty-robbins-singing-the-blues-chart-rewind-1956-1236389281/",
-    "publishedAt": "2026-11-25T00:10:29.000Z",
-    "summary": "The Grand Ole Opry stalwart reached a new plateau with a crossover special.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/rb-hip-hop/e-d-i-mean-2pac-planning-squash-beef-with-biggie-1236389146/",
-    "source": "billboard",
-    "title": "E.D.I. Mean Says 2Pac Was Planning to Squash Beef With Biggie: ‘I’m Deading Everything’",
-    "url": "https://www.billboard.com/music/rb-hip-hop/e-d-i-mean-2pac-planning-squash-beef-with-biggie-1236389146/",
-    "publishedAt": "2026-11-24T23:14:24.000Z",
-    "summary": "He also revealed that 'Pac's conversations with his mother Afeni Shakur had started to change his perspective.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/watch-aew-dynamite-thanksgiving-eve-livestream-free-online-1236388051/",
-    "source": "billboard",
-    "title": "‘AEW Dynamite & Collision’ Thanksgiving Eve Livestream: Where to Watch the Wrestling Event Online Free",
-    "url": "https://www.billboard.com/culture/product-recommendations/watch-aew-dynamite-thanksgiving-eve-livestream-free-online-1236388051/",
-    "publishedAt": "2026-11-24T23:09:12.000Z",
-    "summary": "The AEW Dynamite Thanksgiving Eve special features the AEW Women’s Tag Team Championships along with an appearance from MJF.",
     "image": null
   },
   {
@@ -77,16 +221,7 @@
     "title": "Pearl Jam Rage Against ‘Unconscionable’ ICE Arrests at Seattle Airport",
     "url": "https://www.rollingstone.com/music/music-news/pearl-jam-seattle-airport-ice-arrests-1235663883/",
     "publishedAt": "2026-11-24T22:38:06.000Z",
-    "summary": "\"We stand firmly against this kind of inhumane treatment,\" the band wrote after masked agents detained a father and daughter",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/pro/disney-lawsuit-unlicensed-social-media-music/",
-    "source": "billboard",
-    "title": "Disney Sued for Allegedly Using Unlicensed Music in Social Media Ads: ‘Never Paid a Dollar’",
-    "url": "https://www.billboard.com/pro/disney-lawsuit-unlicensed-social-media-music/",
-    "publishedAt": "2026-11-24T22:37:16.000Z",
-    "summary": "The new case is one of dozens brought against brands over music on Instagram and TikTok, but none have targeted a media giant like Disney.",
+    "summary": "“We stand firmly against this kind of inhumane treatment,” the band wrote after masked agents detained a father and daughter",
     "image": null
   },
   {
@@ -95,34 +230,7 @@
     "title": "Ninajirachi Throws a Party With All Her Friends on Surprise Remix Album",
     "url": "https://www.rollingstone.com/music/music-news/ninajirachi-i-love-my-computer-remix-album-1235663118/",
     "publishedAt": "2026-11-24T22:32:56.000Z",
-    "summary": "I Love My Computer, All My Friends Are Inside It, a revamped version of the electronic artist's debut album, features Wet Leg, Underscores, Frost Children, and more",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/k-beauty-loved-by-k-pop-stars-black-friday-sale-shop-online-1236387165/",
-    "source": "billboard",
-    "title": "These K-Beauty Products Loved by K-Pop Stars Are Up to 43% Off During Black Friday Sales",
-    "url": "https://www.billboard.com/culture/product-recommendations/k-beauty-loved-by-k-pop-stars-black-friday-sale-shop-online-1236387165/",
-    "publishedAt": "2026-11-24T22:31:25.000Z",
-    "summary": "In the latest K-beauty news, Black Friday retailers are slashing prices on beloved Korean skincare and makeup endorsed by K-pop stars.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/chart-beat/dolly-parton-final-recording-u2-torn-chart-milestones-1236389213/",
-    "source": "billboard",
-    "title": "Dolly Parton’s Final Recording on U2’s ‘Torn’ Marks Chart Milestones for Both Acts",
-    "url": "https://www.billboard.com/music/chart-beat/dolly-parton-final-recording-u2-torn-chart-milestones-1236389213/",
-    "publishedAt": "2026-11-24T22:22:08.000Z",
-    "summary": "“Torn” earns Parton her highest-ever Country Airplay debut and brings U2 to two Billboard country charts for the first time.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/video/mama-awards-2026-recap-ive-enhypen-share-how-they-felt/",
-    "source": "billboard",
-    "title": "MAMA Awards 2026 Recap: IVE, ENHYPEN, CORTIS, & More Share How They Felt at the Awards | All Access",
-    "url": "https://www.billboard.com/video/mama-awards-2026-recap-ive-enhypen-share-how-they-felt/",
-    "publishedAt": "2026-11-24T22:21:21.000Z",
-    "summary": "The 2026 MAMA Awards were full of performances and wins from some of the hottest groups in K-pop. ENHYPEN, CORTIS, KIIIKIII, ZEROBASEONE and more stopped to talk to Billboard’s Tetris Kelly ahead of the show. Keep watching to see what the groups had to say and to see what you missed out on from the […]",
+    "summary": "I Love My Computer, All My Friends Are Inside It, a revamped version of the electronic artist’s debut album, features Wet Leg, Underscores, Frost Children, and more",
     "image": null
   },
   {
@@ -171,6 +279,24 @@
     "image": null
   },
   {
+    "id": "louder-than-war-https://louderthanwar.com/stewart-lee-vs-the-man-wulf-coventry-belgrade-theatre-live-review/",
+    "source": "louder-than-war",
+    "title": "Stewart Lee Vs The Man-Wulf – Coventry, Belgrade Theatre – Live Review",
+    "url": "https://louderthanwar.com/stewart-lee-vs-the-man-wulf-coventry-belgrade-theatre-live-review/",
+    "publishedAt": "2026-11-24T19:07:16.000Z",
+    "summary": "Stewart Lee lets the beast off the leash with his Stewart Lee vs The Man-Wulf tour and parodies the overpaid Netflix comics who are taking bread off his table. Al Maslen was there to review for Louder than War. The post Stewart Lee Vs The Man-Wulf – Coventry, Belgrade Theatre – Live Review appeared first on Louder Than War.",
+    "image": null
+  },
+  {
+    "id": "louder-than-war-https://louderthanwar.com/for-vini-the-music-the-durutti-column-manchester-albert-hall-live-review/",
+    "source": "louder-than-war",
+    "title": "For Vini: The Music/The Durutti Column – Manchester, Albert Hall – Live Review",
+    "url": "https://louderthanwar.com/for-vini-the-music-the-durutti-column-manchester-albert-hall-live-review/",
+    "publishedAt": "2026-11-24T18:31:18.000Z",
+    "summary": "For Vini: The Music/The Durutti Column The Albert Hall, Manchester, Thursday 19th November. We find ourselves in the body of the Albert Hall in Manchester to witness something quite special, the ‘tribute’ concert, For Vini; The Music/The Durutti Column. An astonishing guitarist, Reilly cut his teeth on the Manchester punk scene in Ed Banger and […] The post For Vini: The Music/The Durutti Column – Manchester, Albert Hall – Live Review appeared first on Louder Than War.",
+    "image": null
+  },
+  {
     "id": "pitchfork-https://pitchfork.com/story/tidal-bans-ai-songs/",
     "source": "pitchfork",
     "title": "Tidal Bans AI Songs",
@@ -186,42 +312,6 @@
     "url": "https://loudwire.com/paradise-lost-splitting-up-social-media-speculation/",
     "publishedAt": "2026-11-24T18:05:47.000Z",
     "summary": "Paradise Lost paid off a cryptic social media tease with a tour announcement that is leaving fans with more questions. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/ariana-grande-eternal-sunshine-tour-doc-1235663582/",
-    "source": "rolling-stone",
-    "title": "Ariana Grande Doc to Show the Process Behind ‘Eternal Sunshine’ and ‘Petal’",
-    "url": "https://www.rollingstone.com/music/music-news/ariana-grande-eternal-sunshine-tour-doc-1235663582/",
-    "publishedAt": "2026-11-24T17:58:05.000Z",
-    "summary": "Two-part special event, set for December release, will chronicle a behind-the-scenes look at the run-up to the tour, as well as a concert film",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/nick-carter-backstreet-boys-melissa-schuman-claim-survives-1235663534/",
-    "source": "rolling-stone",
-    "title": "Nick Carter Loses Bid to Dismiss Sexual Battery Claim From Melissa Schuman",
-    "url": "https://www.rollingstone.com/music/music-news/nick-carter-backstreet-boys-melissa-schuman-claim-survives-1235663534/",
-    "publishedAt": "2026-11-24T17:53:26.000Z",
-    "summary": "The judge ruled the claim could proceed to a May 10 trial based on a newly enacted revival window",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/noah-kahan-live-from-the-great-divide-album-1235663532/",
-    "source": "rolling-stone",
-    "title": "See Noah Kahan Captivate Audiences With Extended ‘Orbiter’",
-    "url": "https://www.rollingstone.com/music/music-news/noah-kahan-live-from-the-great-divide-album-1235663532/",
-    "publishedAt": "2026-11-24T17:42:34.000Z",
-    "summary": "Song features on upcoming Live From the Great Divide album, which arrives just in time for the holidays",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/carly-rae-jepsens-run-away-with-me-gta-vi-streaming-bump-1235663046/",
-    "source": "rolling-stone",
-    "title": "Carly Rae Jepsen’s ‘Run Away With Me’ Sees 288 Percent Streaming Bump Thanks to ‘GTA VI’",
-    "url": "https://www.rollingstone.com/music/music-news/carly-rae-jepsens-run-away-with-me-gta-vi-streaming-bump-1235663046/",
-    "publishedAt": "2026-11-24T17:15:59.000Z",
-    "summary": "The 11-year-old song is featured a few times in the video game, which was release on Nov. 20",
     "image": null
   },
   {
@@ -270,6 +360,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ0RMRGlCNEM1c3pSanY1eUlMS3gzY09QZzRBYkJqc2lMY1Jvek54S0RFU1pqRUhIcV9iZ0cyN2JYTHVZNm1QWFVYNEdlLXlUZVBla1RrOF9UZlZWc2xta0RhakRZN2dqOVE0MzQ3WGZBOUd1NEFISkR3V0tHd21ZS0JrVXVucW95QzhZd1FQM213cmkzajE3Sm4wTFpMR0I2RzMyOW9n?oc=5",
+    "source": "nme",
+    "title": "Stevie Wonder addresses conspiracy theory that he's not really blind: \"Get in the car with me and we’ll see\" - NME",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ0RMRGlCNEM1c3pSanY1eUlMS3gzY09QZzRBYkJqc2lMY1Jvek54S0RFU1pqRUhIcV9iZ0cyN2JYTHVZNm1QWFVYNEdlLXlUZVBla1RrOF9UZlZWc2xta0RhakRZN2dqOVE0MzQ3WGZBOUd1NEFISkR3V0tHd21ZS0JrVXVucW95QzhZd1FQM213cmkzajE3Sm4wTFpMR0I2RzMyOW9n?oc=5",
+    "publishedAt": "2026-11-24T14:44:15.000Z",
+    "summary": "Stevie Wonder addresses conspiracy theory that he's not really blind: \"Get in the car with me and we’ll see\" NME",
+    "image": null
+  },
+  {
     "id": "nme-https://news.google.com/rss/articles/CBMirAFBVV95cUxQTDAxUFlhS3F5Tzd5MFhFWks3dktIWF9HYUZlZ0R6aDB2S1ZCUU1qNWRjaVpLM0ZzSnlXVUZWcW1FZkJZd3I4bTJDSTlhUFNYYWdQbW1IUFNGR2Q4dVVOWVY4d2tHWC04SWlHM1VkX1NGOHI2Tk5sc3p5bGoxRHJydGw4VFBvUXZfVFFsTlBRRFBtdHRTU1U2UWNoUm5pM3c0TDRqdEIzczFOelY1?oc=5",
     "source": "nme",
     "title": "Nick Cave & The Bad Seeds share previously unseen live footage from Manchester 1986 gig, as Cave works on lyrics for new album - NME",
@@ -294,6 +393,15 @@
     "url": "https://louderthanwar.com/fontaines-d-c-ao-arena-manchester-live-review/",
     "publishedAt": "2026-11-24T12:45:43.000Z",
     "summary": "Fontaines D.C. | Chalk AO Arena, Manchester 21st November 2026 There is something quite extraordinary about watching a band grow and witnessing their evolution unfold. I’ve followed Fontaines D.C. for several years, but my experience of seeing them live has been through three very different Manchester performances: Aviva Studios in 2024 during the Romance tour, […] The post Fontaines D.C.: AO Arena, Manchester – Live Review appeared first on Louder Than War.",
+    "image": null
+  },
+  {
+    "id": "kerrang-https://news.google.com/rss/articles/CBMijAFBVV95cUxOdGVja1drRjRrdmRFbS1VeHF2YTZja3p0a3poOHpOb2dzUTVBQ0R6VFRmVTFpLURaNkJlNkk5VEdkdFVjOUNQS0VhZWVaLWJlcmJ0OVF4YzJZOVVESGEtN3V1cXVfNW1YaHNwVEF4U3JwRjR2Q0YxUHhvMHJ6SklXSGZGZGctT1hlRGZHVg?oc=5",
+    "source": "kerrang",
+    "title": "Slipknot announce limited-edition collection with Dr Martens - Kerrang!",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdGVja1drRjRrdmRFbS1VeHF2YTZja3p0a3poOHpOb2dzUTVBQ0R6VFRmVTFpLURaNkJlNkk5VEdkdFVjOUNQS0VhZWVaLWJlcmJ0OVF4YzJZOVVESGEtN3V1cXVfNW1YaHNwVEF4U3JwRjR2Q0YxUHhvMHJ6SklXSGZGZGctT1hlRGZHVg?oc=5",
+    "publishedAt": "2026-11-24T12:15:53.000Z",
+    "summary": "Slipknot announce limited-edition collection with Dr Martens Kerrang!",
     "image": null
   },
   {
@@ -342,15 +450,6 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMikwFBVV95cUxQZkFNc1hYS2VLbk1FZk04enRRMkhWYUZ2OVE5YU5VOW1lME9GNnpHeUNZT0JNa21jaXlCT1NqMEVvRGVXUWk1WjU2YWFUQzRMRlJIRlF5S2Y0amhwU2EwY1BZZHVPWGxJOHhjY2JGZmxlREhDaUR5Qmw0WjNWbDJDZUtXdWZXQURLd0dGSEVmVzJVb2M?oc=5",
-    "source": "nme",
-    "title": "‘You Can See Everything’ comes to streaming in the US - NME",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZkFNc1hYS2VLbk1FZk04enRRMkhWYUZ2OVE5YU5VOW1lME9GNnpHeUNZT0JNa21jaXlCT1NqMEVvRGVXUWk1WjU2YWFUQzRMRlJIRlF5S2Y0amhwU2EwY1BZZHVPWGxJOHhjY2JGZmxlREhDaUR5Qmw0WjNWbDJDZUtXdWZXQURLd0dGSEVmVzJVb2M?oc=5",
-    "publishedAt": "2026-11-24T10:40:22.000Z",
-    "summary": "‘You Can See Everything’ comes to streaming in the US NME",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/sex-pistols-and-frank-carter-announce-final-shows-together/",
     "source": "louder-than-war",
     "title": "Sex Pistols and Frank Carter announce final shows together",
@@ -360,39 +459,12 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMGRhbzhtRmd6QjdtVWJSRUJadHdLU1pOYzZOSGVYRjh3MVk4Rlh5aXotRm5GM3VESUJ6anFxbnNGejBtZGFfZjdMR3lCeDZ4aFZ1TXAxRDNuQ1pwel9GUnZSOFB1RFotNFpDUGZHRGlwa3lEOWRuTFR6VUsxUXNzeFVqNWI5Y2cyUzg4cldyRDZ3MXFDUWdDQ2JaZU1WNVlPdDVrWGVXeTlhSmY2Wjc3clNvaTFFOVowVnZlanJZOFo?oc=5",
-    "source": "nme",
-    "title": "Sex Pistols and Frank Carter to end collab after final tour dates: “It’s been a glorious ride” - NME",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMGRhbzhtRmd6QjdtVWJSRUJadHdLU1pOYzZOSGVYRjh3MVk4Rlh5aXotRm5GM3VESUJ6anFxbnNGejBtZGFfZjdMR3lCeDZ4aFZ1TXAxRDNuQ1pwel9GUnZSOFB1RFotNFpDUGZHRGlwa3lEOWRuTFR6VUsxUXNzeFVqNWI5Y2cyUzg4cldyRDZ3MXFDUWdDQ2JaZU1WNVlPdDVrWGVXeTlhSmY2Wjc3clNvaTFFOVowVnZlanJZOFo?oc=5",
-    "publishedAt": "2026-11-24T09:05:22.000Z",
-    "summary": "Sex Pistols and Frank Carter to end collab after final tour dates: “It’s been a glorious ride” NME",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/features/rocks-most-unbelievable-true-stories-157193/",
     "source": "uncut",
     "title": "Rock’s most unbelievable true stories",
     "url": "https://www.uncut.co.uk/features/rocks-most-unbelievable-true-stories-157193/",
     "publishedAt": "2026-11-24T08:00:00.000Z",
     "summary": "From Elvis Presley's White House visit and Gram Parsons' stolen corpse to Keith Richards, Axl Rose and a runaway buffalo, rock history is stranger than fiction",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMirgFBVV95cUxOb1lQN0dzNUlvZlNHZUZkUDF6c2tQU3hkaGtfTzhBUHJZdnoycENZYm5jU2VNbVRlY1dtZTR5SVVoSzEwTzlZLURrMEpQNnR1ckpqbHJ0Q2g4bjJCcVpqVi1uQ1ZQb3VGd2RkRXFQU1RZbEptWlR5ajY0ek5lTWNvR1ozYlRtQUZVUUlwYU1YZExJR1d3SXNBSFNQSGV1MmtwendtRHZMM0Rlb0wtaWc?oc=5",
-    "source": "nme",
-    "title": "‘Focker-In-Law’ review: Even Ariana Grande’s comedy chops can’t save this legacy sequel - NME",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb1lQN0dzNUlvZlNHZUZkUDF6c2tQU3hkaGtfTzhBUHJZdnoycENZYm5jU2VNbVRlY1dtZTR5SVVoSzEwTzlZLURrMEpQNnR1ckpqbHJ0Q2g4bjJCcVpqVi1uQ1ZQb3VGd2RkRXFQU1RZbEptWlR5ajY0ek5lTWNvR1ozYlRtQUZVUUlwYU1YZExJR1d3SXNBSFNQSGV1MmtwendtRHZMM0Rlb0wtaWc?oc=5",
-    "publishedAt": "2026-11-24T00:14:33.000Z",
-    "summary": "‘Focker-In-Law’ review: Even Ariana Grande’s comedy chops can’t save this legacy sequel NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMivgFBVV95cUxNZFVJZHVUeWZVNldibHM0NkI3cVU4RHR6Mm02LURIVGdBd1VYOTJEX2FnVG9BZ01RYmVvTFVUNFVZNkFWVHAzNDJrRmZiV0VsbS04WEhBaU13dEpjdzNUSFRCeENoMEphcWl4eVJGWWEzdWFscy1xRDNzdFU1WDQ3SU93UUplTEtzbVkxVExJSGVEaHFMQ1M4WTJRWjNzUTdfNXVXMjZPRGdRYS01VjlxYzNESUdHbEVIVG5FMzV3?oc=5",
-    "source": "nme",
-    "title": "‘Grand Theft Auto 6: The Album’ gets ‘Deluxe’ version with 23 more tracks - NME",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZFVJZHVUeWZVNldibHM0NkI3cVU4RHR6Mm02LURIVGdBd1VYOTJEX2FnVG9BZ01RYmVvTFVUNFVZNkFWVHAzNDJrRmZiV0VsbS04WEhBaU13dEpjdzNUSFRCeENoMEphcWl4eVJGWWEzdWFscy1xRDNzdFU1WDQ3SU93UUplTEtzbVkxVExJSGVEaHFMQ1M4WTJRWjNzUTdfNXVXMjZPRGdRYS01VjlxYzNESUdHbEVIVG5FMzV3?oc=5",
-    "publishedAt": "2026-11-23T23:52:33.000Z",
-    "summary": "‘Grand Theft Auto 6: The Album’ gets ‘Deluxe’ version with 23 more tracks NME",
     "image": null
   },
   {
@@ -468,39 +540,12 @@
     "image": null
   },
   {
-    "id": "pitchfork-https://pitchfork.com/story/portishead-reportedly-pull-music-from-israeli-streaming-services/",
-    "source": "pitchfork",
-    "title": "Portishead Reportedly Pull Music From Israeli Streaming Services",
-    "url": "https://pitchfork.com/story/portishead-reportedly-pull-music-from-israeli-streaming-services/",
-    "publishedAt": "2026-11-23T16:00:53.000Z",
-    "summary": "The band, long aligned with the Palestinian cause, has not commented on the removal",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/2026-rock-metal-gift-guide/",
-    "source": "loudwire",
-    "title": "2026 Rock + Metal Gift Guide - Vinyl, Merch, Speakers + More",
-    "url": "https://loudwire.com/2026-rock-metal-gift-guide/",
-    "publishedAt": "2026-11-23T15:34:27.000Z",
-    "summary": "A gift guide for rock and metal fans that includes vinyl, box sets, artist merchandise, record players, speakers, books and more. Continue reading…",
-    "image": null
-  },
-  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMickFVX3lxTE1pb1AwSEVHdWVSWDBiMEhQN0lXN3h5cEVKVHRZcEsxdmJ0QXVDYmZySFdLRlNwck5EUEFUb255bWxCanlyVVlJSHAwdElvZy1IcUNaYTg3VllmU3ZjVjhybmc0SW0tUXlnVlRZemRmdUNnUQ?oc=5",
     "source": "kerrang",
     "title": "Album Review: Peeling Flesh – Peeling Flesh - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pb1AwSEVHdWVSWDBiMEhQN0lXN3h5cEVKVHRZcEsxdmJ0QXVDYmZySFdLRlNwck5EUEFUb255bWxCanlyVVlJSHAwdElvZy1IcUNaYTg3VllmU3ZjVjhybmc0SW0tUXlnVlRZemRmdUNnUQ?oc=5",
     "publishedAt": "2026-11-23T15:25:41.000Z",
     "summary": "Album Review: Peeling Flesh – Peeling Flesh Kerrang!",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/iron-maiden-nicko-mcbrain-favorite-album-experience/",
-    "source": "loudwire",
-    "title": "Nicko McBrain Names His Favorite Album Experience in Iron Maiden",
-    "url": "https://loudwire.com/iron-maiden-nicko-mcbrain-favorite-album-experience/",
-    "publishedAt": "2026-11-23T14:04:39.000Z",
-    "summary": "Nicko McBrain shares his love for 'A Matter of Life and Death' as the band were able to play every song off the album live. Continue reading…",
     "image": null
   },
   {
@@ -555,33 +600,6 @@
     "url": "https://louderthanwar.com/david-j-postcards-from-the-afterlife-review-album-of-the-week/",
     "publishedAt": "2026-11-22T12:00:29.000Z",
     "summary": "Legendary bassist and songwriter David J once again channels his energy back into his solo career with his new album Postcards From The Afterlife. As an album crafted from a palette of reflection, vulnerability, sadness and despair but always infused with melody, charm and an uplifting vibe within David’s typical indie-folk styling, Ian Corbridge maintains […] The post David J: Postcards From The Afterlife – Review – ALBUM OF THE WEEK! appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "louder-than-war-https://louderthanwar.com/spam-javelin-i-know-its-only-guacnroll-but-i-hate-it-album-review/",
-    "source": "louder-than-war",
-    "title": "Spam Javelin: I Know It’s Only Guac’N’Roll (But I Hate It) – Album Review",
-    "url": "https://louderthanwar.com/spam-javelin-i-know-its-only-guacnroll-but-i-hate-it-album-review/",
-    "publishedAt": "2026-11-22T11:55:57.000Z",
-    "summary": "Spam Javelin release a live album of their intelligent sarcastic hardcore punk, taking down fascists with their sweary wit. Nathan Brown approves. Our Crud keeps himself busy. When he’s not broadcasting his Neil Crud on Louder Than War radio show, writing reviews or playing with The Crapsons he’s making a racket with Spam Javelin. This […] The post Spam Javelin: I Know It’s Only Guac’N’Roll (But I Hate It) – Album Review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "louder-than-war-https://louderthanwar.com/armitage-shanks-charge-of-the-shite-brigade-album-review/",
-    "source": "louder-than-war",
-    "title": "Armitage Shanks: Charge Of The Shite Brigade – album review",
-    "url": "https://louderthanwar.com/armitage-shanks-charge-of-the-shite-brigade-album-review/",
-    "publishedAt": "2026-11-22T09:59:58.000Z",
-    "summary": "2026 marks the 50th Anniversary of the birth of Punk Rock….blah, blah, blah. Oh FUCK OFF! We know, we know, alright! The focus is ALWAYS on 1976/77, when there have been 48 OTHER years of punk… (to be continued) If you want to experience 1976-77 Punk Rock in one quick easy lesson: then you don’t […] The post Armitage Shanks: Charge Of The Shite Brigade – album review appeared first on Louder Than War.",
-    "image": null
-  },
-  {
-    "id": "louder-than-war-https://louderthanwar.com/the-king-blues-eigar-music-studios-leeds-live-review/",
-    "source": "louder-than-war",
-    "title": "The King Blues: Eigar Music Studios, Leeds – Live Review",
-    "url": "https://louderthanwar.com/the-king-blues-eigar-music-studios-leeds-live-review/",
-    "publishedAt": "2026-11-22T08:29:40.000Z",
-    "summary": "The King Blues Eigar Music Studios, Leeds. Friday 20 November 2026 The King Blues arrive in Leeds for the penultimate date on their A Monkey Could Do That Tour. Iain Key heads over the Pennines to witness… I’ll be honest, tonight’s venue, when it was announced, had me Googling… in my defence, it’s not my […] The post The King Blues: Eigar Music Studios, Leeds – Live Review appeared first on Louder Than War.",
     "image": null
   },
   {
@@ -693,30 +711,12 @@
     "image": null
   },
   {
-    "id": "kerrang-https://news.google.com/rss/articles/CBMib0FVX3lxTE1jdWZqUWFyN1YxVFU3Z1M0Vmx5eVh6dUFQaDhacFNTZkNFRVMzWWJHNWY1dF9lemFZMWlLczV4cFRSR05vZVlRelV3RDQzaDNzemg4YVZjWEJqZGFMUUVoMVZYSTBEbkw3Z09ESVFoUQ?oc=5",
-    "source": "kerrang",
-    "title": "Album review: Suicide Silence - Graceless - Kerrang!",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jdWZqUWFyN1YxVFU3Z1M0Vmx5eVh6dUFQaDhacFNTZkNFRVMzWWJHNWY1dF9lemFZMWlLczV4cFRSR05vZVlRelV3RDQzaDNzemg4YVZjWEJqZGFMUUVoMVZYSTBEbkw3Z09ESVFoUQ?oc=5",
-    "publishedAt": "2026-11-18T11:18:51.000Z",
-    "summary": "Album review: Suicide Silence - Graceless Kerrang!",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/news/the-rolling-stones-unveil-paint-it-black-lava-lamp-157120/",
     "source": "uncut",
     "title": "The Rolling Stones unveil Paint It Black lava lamp",
     "url": "https://www.uncut.co.uk/news/the-rolling-stones-unveil-paint-it-black-lava-lamp-157120/",
     "publishedAt": "2026-11-18T09:00:00.000Z",
     "summary": "It's the second second limited-edition collaboration with lava lamp pioneers Mathmos",
-    "image": null
-  },
-  {
-    "id": "uncut-https://www.uncut.co.uk/features/victor-jara-the-folk-singer-whose-murder-echoed-through-popular-music-157093/",
-    "source": "uncut",
-    "title": "Víctor Jara: The folk singer whose murder echoed through popular music",
-    "url": "https://www.uncut.co.uk/features/victor-jara-the-folk-singer-whose-murder-echoed-through-popular-music-157093/",
-    "publishedAt": "2026-11-18T08:00:00.000Z",
-    "summary": "After the Chilean singer was arrested, tortured and killed following the 1973 coup, he became an enduring symbol of resistance and inspiration to generations of musicians",
     "image": null
   }
 ]
