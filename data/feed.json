@@ -1,5 +1,230 @@
 [
   {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/feid-snoop-dogg-dangelo-songs-you-need-to-know-this-week-1235664989/",
+    "source": "rolling-stone",
+    "title": "Feid, Snoop Dogg, D’Angelo, and All the Songs You Need to Know This Week",
+    "url": "https://www.rollingstone.com/music/music-features/feid-snoop-dogg-dangelo-songs-you-need-to-know-this-week-1235664989/",
+    "publishedAt": "2026-11-27T15:46:02.000Z",
+    "summary": "Looking for the week’s best new music? Check out our Songs You Need to Know playlist",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/phil-barker-buzzcocks-drummer-obituary-1235665168/",
+    "source": "rolling-stone",
+    "title": "Former Buzzcocks Drummer Phil Barker Dead at 65",
+    "url": "https://www.rollingstone.com/music/music-news/phil-barker-buzzcocks-drummer-obituary-1235665168/",
+    "publishedAt": "2026-11-27T15:30:13.000Z",
+    "summary": "The musician performed in the British punk rock band for 14 years and recorded on five of their albums",
+    "image": null
+  },
+  {
+    "id": "pitchfork-https://pitchfork.com/story/pz-recruits-don-toliver-for-new-song-subliminals/",
+    "source": "pitchfork",
+    "title": "Pz’ Recruits Don Toliver for New Song “Subliminals”",
+    "url": "https://pitchfork.com/story/pz-recruits-don-toliver-for-new-song-subliminals/",
+    "publishedAt": "2026-11-27T15:08:48.000Z",
+    "summary": "The Georgia model-turned-rapper seals a big year off the back of No Turning Back",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/sesame-street-mariah-carey-christmas-song-homage-1235665152/",
+    "source": "rolling-stone",
+    "title": "Watch ‘Sesame Street’ Pay Homage to Mariah Carey’s ‘All I Want for Christmas Is You’",
+    "url": "https://www.rollingstone.com/music/music-news/sesame-street-mariah-carey-christmas-song-homage-1235665152/",
+    "publishedAt": "2026-11-27T14:57:04.000Z",
+    "summary": "This year the characters need the letter \"U\" to help the holidays stay festive and bright",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/best-black-friday-deals-coupon-codes-november-2026-1236386835/",
+    "source": "billboard",
+    "title": "From Amazon to Zara, Here Are All the Best Black Friday Deals, Promo Codes & Coupons",
+    "url": "https://www.billboard.com/culture/product-recommendations/best-black-friday-deals-coupon-codes-november-2026-1236386835/",
+    "publishedAt": "2026-11-27T14:45:20.000Z",
+    "summary": "Black Friday is here! Shop Billboard put together a list of deals on audio essentials, fashion, tech and other product categories from retailers across the web.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/justin-timberlake-upcoming-doc-series-interview-fallon-1235665140/",
+    "source": "rolling-stone",
+    "title": "Justin Timberlake Says Making Upcoming Doc Series Was ‘Really Cathartic’",
+    "url": "https://www.rollingstone.com/music/music-news/justin-timberlake-upcoming-doc-series-interview-fallon-1235665140/",
+    "publishedAt": "2026-11-27T14:33:39.000Z",
+    "summary": "The pop star took over The Tonight Show on Thanksgiving with an interview, performances, and sketches",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/taylor-swift-all-too-well-chart-rewind-2021-1236389622/",
+    "source": "billboard",
+    "title": "Chart Rewind: In 2021, Taylor Swift’s Rerecorded ‘All Too Well’ Ruled the Hot 100",
+    "url": "https://www.billboard.com/music/chart-beat/taylor-swift-all-too-well-chart-rewind-2021-1236389622/",
+    "publishedAt": "2026-11-27T14:00:00.000Z",
+    "summary": "The song became the longest No. 1, by run time, among other milestones.",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/new-rock-metal-tours-announced-nov-20-26-2026/",
+    "source": "loudwire",
+    "title": "9 New Rock + Metal Tours Announced This Past Week",
+    "url": "https://loudwire.com/new-rock-metal-tours-announced-nov-20-26-2026/",
+    "publishedAt": "2026-11-27T13:37:45.000Z",
+    "summary": "U2, Kansas, Mod Sun and several others announced new tours during Thanksgiving week. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/metal-subgenre-match-zodiac-sign/",
+    "source": "loudwire",
+    "title": "What Metal Subgenre Are You Based on Your Zodiac Sign?",
+    "url": "https://loudwire.com/metal-subgenre-match-zodiac-sign/",
+    "publishedAt": "2026-11-27T13:30:39.000Z",
+    "summary": "Every sign has its own set of traits and characteristics. What metal subgenres are the best match for all 12? Continue reading…",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMisgFBVV95cUxOa213bWE4TVlXNmhGcnBUVlBvRVJsZWF0Nm1leWk0QWlIUXpwMmhRTjViaHNYZlcxLVMzZnJhNkY1WWhaTUh4bEdlbktROEhXU2hDazZnczBBMExyMzN3TGQtRVdGVk9ISkJYS29XeGJRVDk0Ri1JWkU5VDhLcW1RenJVUVJaeWp2TGJOWTlrYXBQTGNuRmVMYU9tUWxBWmNsa25PcU9PNjI3QmpOUXdXaXJ3?oc=5",
+    "source": "nme",
+    "title": "Echo & The Bunnymen and Happy Mondays announce joint 2027 UK ‘greatest hits’ tour - NME",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa213bWE4TVlXNmhGcnBUVlBvRVJsZWF0Nm1leWk0QWlIUXpwMmhRTjViaHNYZlcxLVMzZnJhNkY1WWhaTUh4bEdlbktROEhXU2hDazZnczBBMExyMzN3TGQtRVdGVk9ISkJYS29XeGJRVDk0Ri1JWkU5VDhLcW1RenJVUVJaeWp2TGJOWTlrYXBQTGNuRmVMYU9tUWxBWmNsa25PcU9PNjI3QmpOUXdXaXJ3?oc=5",
+    "publishedAt": "2026-11-27T12:31:06.000Z",
+    "summary": "Echo & The Bunnymen and Happy Mondays announce joint 2027 UK ‘greatest hits’ tour NME",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/tv-film/sesame-street-mariah-carey-all-i-want-for-christmas-is-you-1236389471/",
+    "source": "billboard",
+    "title": "Watch ‘Sesame Street’ Get Festive With an Adorable Spoof of Mariah Carey’s ‘All I Want for Christmas Is You’",
+    "url": "https://www.billboard.com/culture/tv-film/sesame-street-mariah-carey-all-i-want-for-christmas-is-you-1236389471/",
+    "publishedAt": "2026-11-27T12:30:00.000Z",
+    "summary": "All the fuzzy gang wants this holiday season is ... well ... U!",
+    "image": null
+  },
+  {
+    "id": "loudwire-https://loudwire.com/rock-metal-albums-least-most-likely-find-record-store-day-black-friday/",
+    "source": "loudwire",
+    "title": "11 Rarest Rock + Metal Albums Out Record Store Day: Black Friday",
+    "url": "https://loudwire.com/rock-metal-albums-least-most-likely-find-record-store-day-black-friday/",
+    "publishedAt": "2026-11-27T12:00:22.000Z",
+    "summary": "Record Store Day: Black Friday arrives once again on Nov. 27, and like every year, there's going to be some titles that will be nearly impossible to find. Continue reading…",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMijwFBVV95cUxPZmYzQlRBa2xVSVpQZm12Xy1ieUd0UDVpRFRueEVMemNzVnNDczUxRkc0Tm52amljUlVDeHlKRC1BcE50cHVwNHFWWThYeGZfSXV5NC13el9ZODRKendaaElLVHhzTThfNDRCY1BXdzJBTWI3NUgyaFZCMWRxTHVjOWpVd0VHMUdYcFFqQllIUQ?oc=5",
+    "source": "nme",
+    "title": "Robert Pattinson goes viral with creepy 'Dune: Part 3' voice - NME",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZmYzQlRBa2xVSVpQZm12Xy1ieUd0UDVpRFRueEVMemNzVnNDczUxRkc0Tm52amljUlVDeHlKRC1BcE50cHVwNHFWWThYeGZfSXV5NC13el9ZODRKendaaElLVHhzTThfNDRCY1BXdzJBTWI3NUgyaFZCMWRxTHVjOWpVd0VHMUdYcFFqQllIUQ?oc=5",
+    "publishedAt": "2026-11-27T11:10:43.000Z",
+    "summary": "Robert Pattinson goes viral with creepy 'Dune: Part 3' voice NME",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMi_AFBVV95cUxPSTdmQk9fNjI2VGt4LXA2eXlNOEZpaF90a1k2czlnaUtNRDBPUGZPTmV6MHRzY1BKQjFBNDdBOEJ2bHotNzd4MkFQMjhKaVp3Rm16aHJMNWxXVWVHaEFrblA0V1U5em5OcldkbVkta196eXFaWkhhbkxaaEZDR09xa1lmQmxDYkdnWVlRYnZONlBwYkxnc0MxVXowSlRWN2hVcGM5cEdxMU52UVBOMi1tZWVqaXpUQzF2V0YzN1I3UUM5em1PTW5Sc3ZQRVlNazBIQm4wM1hFRmpYVENLc1pzWGNadHJPaGNJYUtLMjB1dkNqZzJBM3NiWEVESVo?oc=5",
+    "source": "nme",
+    "title": "Courtney Love pays tribute to Kurt Cobain's ex-girlfriend and \"unsung hero of Nirvana\" Tracy Marander as she battles terminal cancer - NME",
+    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPSTdmQk9fNjI2VGt4LXA2eXlNOEZpaF90a1k2czlnaUtNRDBPUGZPTmV6MHRzY1BKQjFBNDdBOEJ2bHotNzd4MkFQMjhKaVp3Rm16aHJMNWxXVWVHaEFrblA0V1U5em5OcldkbVkta196eXFaWkhhbkxaaEZDR09xa1lmQmxDYkdnWVlRYnZONlBwYkxnc0MxVXowSlRWN2hVcGM5cEdxMU52UVBOMi1tZWVqaXpUQzF2V0YzN1I3UUM5em1PTW5Sc3ZQRVlNazBIQm4wM1hFRmpYVENLc1pzWGNadHJPaGNJYUtLMjB1dkNqZzJBM3NiWEVESVo?oc=5",
+    "publishedAt": "2026-11-27T11:08:36.000Z",
+    "summary": "Courtney Love pays tribute to Kurt Cobain's ex-girlfriend and \"unsung hero of Nirvana\" Tracy Marander as she battles terminal cancer NME",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/culture/product-recommendations/best-black-friday-ticket-deals-promo-codes-november-2026-1236389121/",
+    "source": "billboard",
+    "title": "Best Black Friday Ticket Deals 2026: Here’s How to Shop Affordable Concert Tickets Online",
+    "url": "https://www.billboard.com/culture/product-recommendations/best-black-friday-ticket-deals-promo-codes-november-2026-1236389121/",
+    "publishedAt": "2026-11-27T11:00:00.000Z",
+    "summary": "From Vivid Seats to SeatGeek, ShopBillboard has the best promo and coupon codes on concert tickets.",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSDZvUk9sSnFocjBvS01NNk1ZWXdvcFVWa2UwX2g3aV9xSHZHTzJiZG9uajBYX3czWjNuQVdkc09JM2V1VWk1eWNFa2VyNEdwczViT1pQcE9ybTlNUW9PbFVNVEZGVTVZTC1CRXRyMXkyczRvTnNkRlI4bnRheHFONnl0eGx1d3VtcjZwWk84bDY5cUF1WmFjVUJIZkhrM0ZQQ1otNjZ3dHA3MnoxMTZWZ01iOHU5R1dnRmZCR19QMFFDZ3VzaU5XVQ?oc=5",
+    "source": "nme",
+    "title": "Mad Cool 2027 line-up announced with The Strokes, The xx, Tame Impala, Faith No More, ENHYPEN and loads more - NME",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSDZvUk9sSnFocjBvS01NNk1ZWXdvcFVWa2UwX2g3aV9xSHZHTzJiZG9uajBYX3czWjNuQVdkc09JM2V1VWk1eWNFa2VyNEdwczViT1pQcE9ybTlNUW9PbFVNVEZGVTVZTC1CRXRyMXkyczRvTnNkRlI4bnRheHFONnl0eGx1d3VtcjZwWk84bDY5cUF1WmFjVUJIZkhrM0ZQQ1otNjZ3dHA3MnoxMTZWZ01iOHU5R1dnRmZCR19QMFFDZ3VzaU5XVQ?oc=5",
+    "publishedAt": "2026-11-27T10:00:24.000Z",
+    "summary": "Mad Cool 2027 line-up announced with The Strokes, The xx, Tame Impala, Faith No More, ENHYPEN and loads more NME",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/lists/o2-20th-anniversary-celebration-lineup-concerts/",
+    "source": "billboard",
+    "title": "Backstreet Boys Added to The O2 Arena’s 20th Anniversary Celebrations: See Full Lineup",
+    "url": "https://www.billboard.com/lists/o2-20th-anniversary-celebration-lineup-concerts/",
+    "publishedAt": "2026-11-27T10:00:00.000Z",
+    "summary": "Maisie Peters will kick off the celebrations in May 2027.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/music-news/john-farnham-family-rare-update-legendary-singers-health-1236390271/",
+    "source": "billboard",
+    "title": "John Farnham’s Family Gives Rare Update on Legendary Singer’s Health",
+    "url": "https://www.billboard.com/music/music-news/john-farnham-family-rare-update-legendary-singers-health-1236390271/",
+    "publishedAt": "2026-11-27T08:43:22.000Z",
+    "summary": "Farnham continues to stay out of the spotlight after undergoing marathon surgery to remove a cancerous tumor from his throat in 2022.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/rock/nile-rodgers-remembers-duran-duran-andy-taylor-1236390263/",
+    "source": "billboard",
+    "title": "‘True Family’: Nile Rodgers Remembers Duran Duran’s Andy Taylor",
+    "url": "https://www.billboard.com/music/rock/nile-rodgers-remembers-duran-duran-andy-taylor-1236390263/",
+    "publishedAt": "2026-11-27T08:11:10.000Z",
+    "summary": "\"RIP my dear friend. We were always happy when we were together. I love you,\" Rodgers writes.",
+    "image": null
+  },
+  {
+    "id": "nme-https://news.google.com/rss/articles/CBMilAFBVV95cUxQSkd3ZUtKb2xpZkowSTlGRWo2Y0xESE1FUi1xR05TM2ZwWm8zZXJ4a1h0YThaZUNuT3FXOHpTaEo2dkRibHNEOUJFMm8xSUtiamRkRG5ERGhQNl9yUzVDOHRxeUdsdkVZdjYyb2N2dHRPWlV0bU1jVlA1YmIzV3hXcWJ4azVzb3lLa0l1aXJhSFAxTDZQ?oc=5",
+    "source": "nme",
+    "title": "Serge Pizzorno's Soundtrack Of My Life: Oasis, Aphex Twin - NME",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSkd3ZUtKb2xpZkowSTlGRWo2Y0xESE1FUi1xR05TM2ZwWm8zZXJ4a1h0YThaZUNuT3FXOHpTaEo2dkRibHNEOUJFMm8xSUtiamRkRG5ERGhQNl9yUzVDOHRxeUdsdkVZdjYyb2N2dHRPWlV0bU1jVlA1YmIzV3hXcWJ4azVzb3lLa0l1aXJhSFAxTDZQ?oc=5",
+    "publishedAt": "2026-11-27T08:01:02.000Z",
+    "summary": "Serge Pizzorno's Soundtrack Of My Life: Oasis, Aphex Twin NME",
+    "image": null
+  },
+  {
+    "id": "uncut-https://www.uncut.co.uk/features/fela-kuti-the-afrobeat-pioneer-who-fought-a-dictatorship-and-changed-music-157214/",
+    "source": "uncut",
+    "title": "Fela Kuti: the Afrobeat pioneer who fought a dictatorship and changed music",
+    "url": "https://www.uncut.co.uk/features/fela-kuti-the-afrobeat-pioneer-who-fought-a-dictatorship-and-changed-music-157214/",
+    "publishedAt": "2026-11-27T08:00:00.000Z",
+    "summary": "Arrested, beaten and repeatedly targeted by Nigeria's military rulers, he became one of the most influential musicians of the 20th century",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/awards/2027-brit-awards-trophy-designer-1236390153/",
+    "source": "billboard",
+    "title": "2027 BRIT Awards Trophy Designed by ‘One of Britain’s Greatest Living Artists’: See Photos",
+    "url": "https://www.billboard.com/music/awards/2027-brit-awards-trophy-designer-1236390153/",
+    "publishedAt": "2026-11-27T08:00:00.000Z",
+    "summary": "The trophy will be presented to winners at the ceremony on Feb. 27 in Manchester.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/music/chart-beat/grand-theft-auto-vi-soundtrack-no-1-aria-chart-1236390235/",
+    "source": "billboard",
+    "title": "‘Grand Theft Auto VI’ Soundtrack Drives to No. 1 on ARIA Chart",
+    "url": "https://www.billboard.com/music/chart-beat/grand-theft-auto-vi-soundtrack-no-1-aria-chart-1236390235/",
+    "publishedAt": "2026-11-27T06:47:44.000Z",
+    "summary": "\"GTA\" focus track “Flower In A Hurricane” by Justice, Tame Impala, SZA and King Gizzard And The Lizard Wizard roars 17-5 on the national singles chart.",
+    "image": null
+  },
+  {
+    "id": "billboard-https://www.billboard.com/pro/live-nation-adds-venue-australia-gold-coast/",
+    "source": "billboard",
+    "title": "Live Nation Adds Venue on Australia’s Gold Coast",
+    "url": "https://www.billboard.com/pro/live-nation-adds-venue-australia-gold-coast/",
+    "publishedAt": "2026-11-27T05:55:55.000Z",
+    "summary": "Surfers Music Hall will be a 2,500-capacity live music space in Surfers Paradise, with a target to open its doors in mid-2028.",
+    "image": null
+  },
+  {
+    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/olivia-rodrigo-miss-this-christmas-amazon-music-1235664984/",
+    "source": "rolling-stone",
+    "title": "Olivia Rodrigo Drops Official Version of Melancholy ‘Miss This Christmas’ on Amazon Music",
+    "url": "https://www.rollingstone.com/music/music-news/olivia-rodrigo-miss-this-christmas-amazon-music-1235664984/",
+    "publishedAt": "2026-11-27T05:02:00.000Z",
+    "summary": "Earlier this week, the singer debuted the piano ballad at a Nashville concert",
+    "image": null
+  },
+  {
     "id": "rolling-stone-https://www.rollingstone.com/music/music-country/miranda-lambert-dallas-cowboys-halftime-show-performance-1235664551/",
     "source": "rolling-stone",
     "title": "Watch Miranda Lambert Perform Medley of Her Hits at Dallas Cowboys Halftime Show",
@@ -9,57 +234,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/music/latin/anuel-aa-rhlm2-album-1236389833/",
-    "source": "billboard",
-    "title": "Anuel AA’s ‘RHLM2’ Album Is Finally Here: ‘I Made It With My Heart and Soul’",
-    "url": "https://www.billboard.com/music/latin/anuel-aa-rhlm2-album-1236389833/",
-    "publishedAt": "2026-11-27T00:00:00.000Z",
-    "summary": "The long-awaited album is a sequel to his 2018 debut, Real Hasta La Muerte, and his first in four years.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/lana-del-rey-new-albums-stove-spyda-update-1236390186/",
-    "source": "billboard",
-    "title": "Lana Del Rey Says New Albums Are ‘Getting Close’ to Completion: ‘I’m Happy With Them’",
-    "url": "https://www.billboard.com/music/music-news/lana-del-rey-new-albums-stove-spyda-update-1236390186/",
-    "publishedAt": "2026-11-26T22:14:35.000Z",
-    "summary": "The singer-songwriter updated fans on Stove and its companion album, Spyda, while seemingly teasing cryptic lyrics.",
-    "image": null
-  },
-  {
     "id": "nme-https://news.google.com/rss/articles/CBMiuAFBVV95cUxNczZsYnpfUWdRZGNZbFZsOVhJbkhGNnlGRHBkTnZNdmJLWEc3OFFwT3k2UWthNVpkZjE2eDgzdloxUlZCejZHM0lzTWhTdTd2X1ZYOEVpeUw2dDM0ZFJpMDZSRF8yaXFNU3phTmJPdXRTaUlhZjZvME5pMVNWcm44MjNjR0ZCUGdrM0ZXdGF3MVlmRThxQ2toOXpyWFNYRUJTUGp1SHRIWTdLSmFjeTZid3ZjQzY4d3Ut?oc=5",
     "source": "nme",
     "title": "Watch U2 roll through hits and pay tribute to Dolly Parton at NFL Thanksgiving Eve Halftime Show - NME",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNczZsYnpfUWdRZGNZbFZsOVhJbkhGNnlGRHBkTnZNdmJLWEc3OFFwT3k2UWthNVpkZjE2eDgzdloxUlZCejZHM0lzTWhTdTd2X1ZYOEVpeUw2dDM0ZFJpMDZSRF8yaXFNU3phTmJPdXRTaUlhZjZvME5pMVNWcm44MjNjR0ZCUGdrM0ZXdGF3MVlmRThxQ2toOXpyWFNYRUJTUGp1SHRIWTdLSmFjeTZid3ZjQzY4d3Ut?oc=5",
     "publishedAt": "2026-11-26T21:29:52.000Z",
     "summary": "Watch U2 roll through hits and pay tribute to Dolly Parton at NFL Thanksgiving Eve Halftime Show NME",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/goo-goo-dolls-halftime-chiefs-bills-thanksgiving-watch-free-1236389230/",
-    "source": "billboard",
-    "title": "Goo Goo Dolls’ Halftime Show at the Chiefs vs. Bills Thanksgiving Game: Watch Online for Free",
-    "url": "https://www.billboard.com/culture/product-recommendations/goo-goo-dolls-halftime-chiefs-bills-thanksgiving-watch-free-1236389230/",
-    "publishedAt": "2026-11-26T21:00:00.000Z",
-    "summary": "The game will take place on Thanksgiving Night (Nov. 26), with the rock band taking the stage at halftime. Fans can also tune in for a potential Taylor Swift and Hailee Steinfeld spotting.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/how-to-watch-jennifer-lopez-vegas-concert-film-free-online-1236390059/",
-    "source": "billboard",
-    "title": "Where to Watch Jennifer Lopez’s Vegas Concert Film ‘The JLO Show’ Free Online",
-    "url": "https://www.billboard.com/culture/product-recommendations/how-to-watch-jennifer-lopez-vegas-concert-film-free-online-1236390059/",
-    "publishedAt": "2026-11-26T21:00:00.000Z",
-    "summary": "The two-hour concert film documents Jennifer Lopez's Las Vegas residency finale in March of this year and premieres on Thanksgiving at 8:00 p.m. ET/PT.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/feid-snoop-dogg-gracias-x-todo-thanksgiving-song-1236390180/",
-    "source": "billboard",
-    "title": "Feid and Snoop Dogg Drop Thanksgiving Collaboration ‘Gracias x Todo’",
-    "url": "https://www.billboard.com/music/music-news/feid-snoop-dogg-gracias-x-todo-thanksgiving-song-1236390180/",
-    "publishedAt": "2026-11-26T20:25:54.000Z",
-    "summary": "The two stars previewed the song at the 2026 Latin Grammy Awards.",
     "image": null
   },
   {
@@ -87,24 +267,6 @@
     "url": "https://pitchfork.com/story/watch-wu-tang-clan-perform-the-nfl-thanksgiving-day-halftime-show/",
     "publishedAt": "2026-11-26T20:19:29.000Z",
     "summary": "The New York group took the stage in Detroit for the Bears vs. Lions football game",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/music-news/king-crimson-michael-giles-death-obituary-1236390176/",
-    "source": "billboard",
-    "title": "Michael Giles, King Crimson Co-Founder and Original Drummer, Dies at 84",
-    "url": "https://www.billboard.com/music/music-news/king-crimson-michael-giles-death-obituary-1236390176/",
-    "publishedAt": "2026-11-26T18:52:35.000Z",
-    "summary": "\"His unique contribution to the evolution of progressive music will never be forgotten,” the band's label wrote.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/nfl-thanksgiving-phl-dal-miranda-lambert-halftime-watch-free-1236385793/",
-    "source": "billboard",
-    "title": "Miranda Lambert NFL Halftime Show 2026: Where to Watch Philadelphia Eagles vs. Dallas Cowboys Live Online Free",
-    "url": "https://www.billboard.com/culture/product-recommendations/nfl-thanksgiving-phl-dal-miranda-lambert-halftime-watch-free-1236385793/",
-    "publishedAt": "2026-11-26T18:30:00.000Z",
-    "summary": "Livestream the PHL Eagles taking on the DAL Cowboys for Thanksgiving Day. Watch Miranda Lambert perform at halftime.",
     "image": null
   },
   {
@@ -153,39 +315,12 @@
     "image": null
   },
   {
-    "id": "billboard-https://www.billboard.com/culture/product-recommendations/nfl-thanksgiving-chi-det-wu-tang-clan-halftime-watch-free-1236385560/",
-    "source": "billboard",
-    "title": "Wu-Tang Clan Halftime Show 2026: Here’s Where to Watch Chicago Bears vs. Detroit Lions Live Online Free",
-    "url": "https://www.billboard.com/culture/product-recommendations/nfl-thanksgiving-chi-det-wu-tang-clan-halftime-watch-free-1236385560/",
-    "publishedAt": "2026-11-26T15:00:00.000Z",
-    "summary": "Thanksgiving Day Game: Livestream the CHI Bears taking on the DET Lions on Nov. 26. Watch Wu-Tang Clan perform at halftime.",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/latin/chuyin-street-mob-interview-latin-up-and-comer-tour-2027-1236389136/",
-    "source": "billboard",
-    "title": "Inside the Madcap World of Chuyín: ‘Everyone Sings About the Neverending Party. I Sing About the Hangover’",
-    "url": "https://www.billboard.com/music/latin/chuyin-street-mob-interview-latin-up-and-comer-tour-2027-1236389136/",
-    "publishedAt": "2026-11-26T15:00:00.000Z",
-    "summary": "Meet Billboard’s Latin Up-and-Comer Artist of the Month for November.",
-    "image": null
-  },
-  {
     "id": "uncut-https://www.uncut.co.uk/news/send-us-your-questions-for-martin-gore-157249/",
     "source": "uncut",
     "title": "Send us your questions for Martin Gore!",
     "url": "https://www.uncut.co.uk/news/send-us-your-questions-for-martin-gore-157249/",
     "publishedAt": "2026-11-26T14:50:45.000Z",
     "summary": "The Depeche Mode co-founder will field your enquiries in a future issue of Uncut",
-    "image": null
-  },
-  {
-    "id": "billboard-https://www.billboard.com/music/pop/rolling-stones-1973-greatest-pop-stars-podcast-discussion-1236390158/",
-    "source": "billboard",
-    "title": "Was The Rolling Stones’ 1973 Still Part of the Band’s Classic Period, Or the Beginning of the End? (Greatest Pop Stars Podcast)",
-    "url": "https://www.billboard.com/music/pop/rolling-stones-1973-greatest-pop-stars-podcast-discussion-1236390158/",
-    "publishedAt": "2026-11-26T14:47:13.000Z",
-    "summary": "This Vintage Pop Stardom episode of Greatest Pop Stars looks at a year where the World's Greatest Rock and Roll Band was at full power, but maybe moving into a different phase of its career.",
     "image": null
   },
   {
@@ -234,6 +369,15 @@
     "image": null
   },
   {
+    "id": "nme-https://news.google.com/rss/articles/CBMitgFBVV95cUxNZjRwazMyYkFPNnc4Wk9PWFA1TkpTWHpyYncyU0R3QWlmM2F2NThTSk5lLVVIUnhjbzVabEFndDhzQ0tkSGstX3AtU1NDVzMteFl0OE1pVVRLZElpUTlkaU85R1UzRVBGZ2tuNnlnanVJN0dhVGNUZ1NlTmtKVXhrOU1fOEJaWlB4aHd0Qml6cmduek9lc3JBYnlVWklNd01uQTlIYzdDcTVTM0lBbFB1YVFpbXR4Zw?oc=5",
+    "source": "nme",
+    "title": "Amanda Seyfried was worried ‘You Can See Everything’ was going to “ruin her life” - NME",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZjRwazMyYkFPNnc4Wk9PWFA1TkpTWHpyYncyU0R3QWlmM2F2NThTSk5lLVVIUnhjbzVabEFndDhzQ0tkSGstX3AtU1NDVzMteFl0OE1pVVRLZElpUTlkaU85R1UzRVBGZ2tuNnlnanVJN0dhVGNUZ1NlTmtKVXhrOU1fOEJaWlB4aHd0Qml6cmduek9lc3JBYnlVWklNd01uQTlIYzdDcTVTM0lBbFB1YVFpbXR4Zw?oc=5",
+    "publishedAt": "2026-11-26T11:50:16.000Z",
+    "summary": "Amanda Seyfried was worried ‘You Can See Everything’ was going to “ruin her life” NME",
+    "image": null
+  },
+  {
     "id": "uncut-https://www.uncut.co.uk/reviews/live/bob-dylan-live-in-bournemouth-spellbinding-and-immortal-157238/",
     "source": "uncut",
     "title": "Bob Dylan live in Bournemouth – spellbinding and immortal",
@@ -258,15 +402,6 @@
     "url": "https://www.uncut.co.uk/reviews/peter-gabriel-oi-reviewed-confronting-the-present-and-his-own-past-157231/",
     "publishedAt": "2026-11-26T11:17:01.000Z",
     "summary": "The companion album to i/o features Brian Eno, Leo Nocentelli and the Soweto Gospel Choir",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMivwFBVV95cUxNMXAybkYtMVFSZkpkX3JOVEZkclZPcDI2T3Npc0JDcUl2S1pkUVhIVEpPTEZJTmZwTGZGNmIxaUFuUUVSdlg2NnQzbVJDbE1pVVF5LTBBTXJFY2VhTjFxUjQyWjhWbnRoZURpY3d4YkQ2bUxNRm1aMFpNVjFDbW80MWw4N1FMQUZkSmlKcVU2d1J4eW82VWFfM041ZnRHWDJmX0EycDFrYTM3bklZV1FTYm81STloSlBYcU81Ry1maw?oc=5",
-    "source": "nme",
-    "title": "Royal Blood announce huge summer 2027 UK outdoor shows with London Rock N’ Roll Circus headline slot - NME",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMXAybkYtMVFSZkpkX3JOVEZkclZPcDI2T3Npc0JDcUl2S1pkUVhIVEpPTEZJTmZwTGZGNmIxaUFuUUVSdlg2NnQzbVJDbE1pVVF5LTBBTXJFY2VhTjFxUjQyWjhWbnRoZURpY3d4YkQ2bUxNRm1aMFpNVjFDbW80MWw4N1FMQUZkSmlKcVU2d1J4eW82VWFfM041ZnRHWDJmX0EycDFrYTM3bklZV1FTYm81STloSlBYcU81Ry1maw?oc=5",
-    "publishedAt": "2026-11-26T10:45:44.000Z",
-    "summary": "Royal Blood announce huge summer 2027 UK outdoor shows with London Rock N’ Roll Circus headline slot NME",
     "image": null
   },
   {
@@ -315,48 +450,12 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/u2-tribute-dolly-parton-torn-thanksgiving-nfl-halftime-show-1235664834/",
-    "source": "rolling-stone",
-    "title": "U2 Perform Dolly Parton’s Final Recording During NFL Halftime Show",
-    "url": "https://www.rollingstone.com/music/music-news/u2-tribute-dolly-parton-torn-thanksgiving-nfl-halftime-show-1235664834/",
-    "publishedAt": "2026-11-26T05:15:21.000Z",
-    "summary": "The band delivered the moving Parton and Bono duet, \"Torn,\" during Wednesday night's performance",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/ariana-grande-petal-video-reaction-black-mirror-1235664830/",
-    "source": "rolling-stone",
-    "title": "Ariana Grande Says Reaction to ‘Petal’ Video Felt Like ‘Black Mirror’",
-    "url": "https://www.rollingstone.com/music/music-news/ariana-grande-petal-video-reaction-black-mirror-1235664830/",
-    "publishedAt": "2026-11-26T04:13:01.000Z",
-    "summary": "\"I wouldn't change a thing,\" Grande said of the video. \"I would put it out again today, exactly as is\"",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-features/duran-duran-andy-taylor-guitarist-tribute-1235664822/",
-    "source": "rolling-stone",
-    "title": "Duran Duran’s Andy Taylor Was the Wildest of the Wild Boys",
-    "url": "https://www.rollingstone.com/music/music-features/duran-duran-andy-taylor-guitarist-tribute-1235664822/",
-    "publishedAt": "2026-11-26T02:21:58.000Z",
-    "summary": "The late guitarist gave the band an aggressive edge that no other New Romantic act had — which is part of the reason the songs never fade into the past",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/king-crimson-co-founder-michael-giles-dies-at-84/",
     "source": "pitchfork",
     "title": "King Crimson Co-Founder Michael Giles Dies at 84",
     "url": "https://pitchfork.com/story/king-crimson-co-founder-michael-giles-dies-at-84/",
     "publishedAt": "2026-11-25T23:52:08.000Z",
     "summary": "The drummer played an essential role in the recording of In the Court of the Crimson King",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMi9wFBVV95cUxOaVQtODNvSjJqYkdUZmI3VVZnZG9kTGhVOWdKRENPdUJQNktKWEprUFZ0Wl9wT1dfVHhKdjV1NUJBX29qaENaT21YckROdEF0YW05SUIzM0YyR1FnNkpZX1BfX2VsUTZzanRtOW15SVJPcjRBMHZuZ3JmSkhQZzBwd1BuZG1vRDNSTE5hM3hJTHE1WWNPcnlRX2pNdTBxY0pmZk5rNmJCOUgtSFM0QzRvanR1Z3BIZ2pzNy11Mk9Xd1FJSnlBQy1ZdWlrRnhWdnFDWGNQUEZQS0JmYlZPRkpjMmhGNk16WmNDV2NBalY2Yy1FU2xXM2dz?oc=5",
-    "source": "nme",
-    "title": "Duran Duran pay tribute after death of guitarist Andy Taylor, age 65: \"His playing drove the songs that took us around the world\" - NME",
-    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOaVQtODNvSjJqYkdUZmI3VVZnZG9kTGhVOWdKRENPdUJQNktKWEprUFZ0Wl9wT1dfVHhKdjV1NUJBX29qaENaT21YckROdEF0YW05SUIzM0YyR1FnNkpZX1BfX2VsUTZzanRtOW15SVJPcjRBMHZuZ3JmSkhQZzBwd1BuZG1vRDNSTE5hM3hJTHE1WWNPcnlRX2pNdTBxY0pmZk5rNmJCOUgtSFM0QzRvanR1Z3BIZ2pzNy11Mk9Xd1FJSnlBQy1ZdWlrRnhWdnFDWGNQUEZQS0JmYlZPRkpjMmhGNk16WmNDV2NBalY2Yy1FU2xXM2dz?oc=5",
-    "publishedAt": "2026-11-25T23:51:36.000Z",
-    "summary": "Duran Duran pay tribute after death of guitarist Andy Taylor, age 65: \"His playing drove the songs that took us around the world\" NME",
     "image": null
   },
   {
@@ -369,30 +468,12 @@
     "image": null
   },
   {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/king-crimson-michael-giles-dead-obituary-1235664328/",
-    "source": "rolling-stone",
-    "title": "King Crimson Co-Founder Michael Giles Dead at 84",
-    "url": "https://www.rollingstone.com/music/music-news/king-crimson-michael-giles-dead-obituary-1235664328/",
-    "publishedAt": "2026-11-25T22:22:36.000Z",
-    "summary": "As part of Giles, Giles, and Fripp, he'd laid the sound that would change prog rock forever when he helpd form King Crimson to record In the Court of the Crimson King",
-    "image": null
-  },
-  {
     "id": "loudwire-https://loudwire.com/ixp/295/p/andy-taylor-duran-duran-dead/",
     "source": "loudwire",
     "title": "Duran Duran Guitarist Andy Taylor Dead at 65",
     "url": "https://loudwire.com/ixp/295/p/andy-taylor-duran-duran-dead/",
     "publishedAt": "2026-11-25T22:10:35.000Z",
     "summary": "The guitarist had bravely battled cancer for nearly a decade. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "rolling-stone-https://www.rollingstone.com/music/music-news/coachella-walmart-over-trademark-infringement-lawsuit-1235664484/",
-    "source": "rolling-stone",
-    "title": "Coachella Sues Walmart Over Unauthorized Festival Merch, Citing ‘Willful and Repeated Acts’",
-    "url": "https://www.rollingstone.com/music/music-news/coachella-walmart-over-trademark-infringement-lawsuit-1235664484/",
-    "publishedAt": "2026-11-25T21:56:29.000Z",
-    "summary": "“Walmart has intentionally created a likelihood of confusion and false association,\" the new lawsuit claims",
     "image": null
   },
   {
@@ -432,15 +513,6 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMivAFBVV95cUxNMUFJd0xxejJNS3J0eFJvdFpSdHJyUV94UFZfb0UyOC1Pdzd4Z3VIdlJDSF9tNlZ3TjZ5ZWFGWnhlOUpWUkc0YWJFZWhhZ2tQVFJRWHpDZng2b3d1Q0tWVTc5c0RTSjl5bkk5dEVZLWtZS2xSLUU0aDFTWHY2UlkxUzFTU29nOHh6bXNTdExBWFg1Wi1PSkc2VlYzTDR1ZGRIZlc0d1JqckJqTXc1TTdWeGx2ZHlvOVRVbVVEXw?oc=5",
-    "source": "nme",
-    "title": "Getdown Services announce 'The Massive Champion Ship' curated UK Summer 2027 shows - NME",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMUFJd0xxejJNS3J0eFJvdFpSdHJyUV94UFZfb0UyOC1Pdzd4Z3VIdlJDSF9tNlZ3TjZ5ZWFGWnhlOUpWUkc0YWJFZWhhZ2tQVFJRWHpDZng2b3d1Q0tWVTc5c0RTSjl5bkk5dEVZLWtZS2xSLUU0aDFTWHY2UlkxUzFTU29nOHh6bXNTdExBWFg1Wi1PSkc2VlYzTDR1ZGRIZlc0d1JqckJqTXc1TTdWeGx2ZHlvOVRVbVVEXw?oc=5",
-    "publishedAt": "2026-11-25T16:00:25.000Z",
-    "summary": "Getdown Services announce 'The Massive Champion Ship' curated UK Summer 2027 shows NME",
-    "image": null
-  },
-  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMikwFBVV95cUxNOFktd3IyV3hWeXJSSG5NZ1ZMNWRlVlRSYXhScWc2NmtHY1N5SnV4RmNzX0tGQVB6UVVMRXNHbmNRV1lMSk53NFZGZ01Wem1RYkkzYTVjQTdWQ3c3TXVEa1pRRUFKR3I0c0VfSVprT1lESEpsY2Q5akFHeXp3S3lMSy1ZdGNSbExQNU5jeHI2ZTVEX1E?oc=5",
     "source": "kerrang",
     "title": "“I feel like I'm living for the first time in my entire life”: How Matt Heafy reclaimed his crown - Kerrang!",
@@ -477,39 +549,12 @@
     "image": null
   },
   {
-    "id": "nme-https://news.google.com/rss/articles/CBMilgFBVV95cUxNd0c4RzI4UHdfb2gxLV9WTmFqdjhGem05WTVobk83b0tXaUM1NzNWcTNBcTNTLXZ5d1dpZFdkc2tENmdGZFJMSVpjQWJhaHZvREtyRENSdWtzbTNpOG45YWhTdTN2bVlHOC1YZ196U3BqaXFyeE40R2hyTVJkNXFibmJLY21xREp3Ykk4d2hMWVR6ZVBjNVE?oc=5",
-    "source": "nme",
-    "title": "Matthew Perry’s grave headstone ‘Friends’ reference removed - NME",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd0c4RzI4UHdfb2gxLV9WTmFqdjhGem05WTVobk83b0tXaUM1NzNWcTNBcTNTLXZ5d1dpZFdkc2tENmdGZFJMSVpjQWJhaHZvREtyRENSdWtzbTNpOG45YWhTdTN2bVlHOC1YZ196U3BqaXFyeE40R2hyTVJkNXFibmJLY21xREp3Ykk4d2hMWVR6ZVBjNVE?oc=5",
-    "publishedAt": "2026-11-25T12:05:26.000Z",
-    "summary": "Matthew Perry’s grave headstone ‘Friends’ reference removed NME",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMi1wFBVV95cUxQS3R2cWxvOUcwdDBpMU9LMEdJRFZMbXlhTHJhUEhBYVMxdTgybFBKQkFvWWhwQnI3bWhxTkV6V0M4N0JRcFRTazlNaEJxWHhsQnVyMVF2MWpZVm1kVFFJQmc4RUNUai1Zc1pxSWljVTFlQ1dIRXNLYV9Wa09qZExNcGxPUGk4U2ZpS0pTSFRfek5EUkZvWlJ4UkVVODZ2UWk0aU1Ta2Ztb1JZZ3VxUFFWVnI3Vk5NSmp1LXFJOFlWc1NicnJNd0x6YzBveUoya0NuSzV2d2hQcw?oc=5",
-    "source": "nme",
-    "title": "New Order play first full gig without Stephen Morris and Gillian Gilbert in São Paulo: \"We just want them to know how much we’re missing them” - NME",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQS3R2cWxvOUcwdDBpMU9LMEdJRFZMbXlhTHJhUEhBYVMxdTgybFBKQkFvWWhwQnI3bWhxTkV6V0M4N0JRcFRTazlNaEJxWHhsQnVyMVF2MWpZVm1kVFFJQmc4RUNUai1Zc1pxSWljVTFlQ1dIRXNLYV9Wa09qZExNcGxPUGk4U2ZpS0pTSFRfek5EUkZvWlJ4UkVVODZ2UWk0aU1Ta2Ztb1JZZ3VxUFFWVnI3Vk5NSmp1LXFJOFlWc1NicnJNd0x6YzBveUoya0NuSzV2d2hQcw?oc=5",
-    "publishedAt": "2026-11-25T12:05:26.000Z",
-    "summary": "New Order play first full gig without Stephen Morris and Gillian Gilbert in São Paulo: \"We just want them to know how much we’re missing them” NME",
-    "image": null
-  },
-  {
     "id": "kerrang-https://news.google.com/rss/articles/CBMinAFBVV95cUxNVld5RDl6MFhLUHM2M3dtOVdmdERGVlZxdExOc2RqcVBobHR1dDZ1cS1HaVlvMmx3NzhZSU5tQ1k1WDVpYVd3T3ZLWUIxRHJsamgxU0pkS1k3UkJ0Z0ZueXFQaHU2RHNNclU0TV9QNUZDUnRrenp3S1lXdTkxTUxFVi1TdDZ1MnhWTS1sNWZISF9pMGc2TldCNHNHSTk?oc=5",
     "source": "kerrang",
     "title": "Album review: Drag Talk – Drink The Ocean - Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVld5RDl6MFhLUHM2M3dtOVdmdERGVlZxdExOc2RqcVBobHR1dDZ1cS1HaVlvMmx3NzhZSU5tQ1k1WDVpYVd3T3ZLWUIxRHJsamgxU0pkS1k3UkJ0Z0ZueXFQaHU2RHNNclU0TV9QNUZDUnRrenp3S1lXdTkxTUxFVi1TdDZ1MnhWTS1sNWZISF9pMGc2TldCNHNHSTk?oc=5",
     "publishedAt": "2026-11-25T09:56:36.000Z",
     "summary": "Album review: Drag Talk – Drink The Ocean Kerrang!",
-    "image": null
-  },
-  {
-    "id": "nme-https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ3VEUWlQMjE0WEthVUNPNUhVT0tidF9QQV9EYXYyd1libklVNjhnZV9NM0FfUUU1WktzQUxJY2pfSnhpTkpyNTRZaldMWV9RMXRMcHo2NkladjJkMHd4QnRSQ3RsSmMzSGV6OG0xTVlsUXRMSnVtLVlyRTktUXhON1pVLWJ2VHFBVnNjekxBSTYwOXdWdVk0SzFR?oc=5",
-    "source": "nme",
-    "title": "AI music banned on TIDAL as they delete 29million songs - NME",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ3VEUWlQMjE0WEthVUNPNUhVT0tidF9QQV9EYXYyd1libklVNjhnZV9NM0FfUUU1WktzQUxJY2pfSnhpTkpyNTRZaldMWV9RMXRMcHo2NkladjJkMHd4QnRSQ3RsSmMzSGV6OG0xTVlsUXRMSnVtLVlyRTktUXhON1pVLWJ2VHFBVnNjekxBSTYwOXdWdVk0SzFR?oc=5",
-    "publishedAt": "2026-11-25T09:50:26.000Z",
-    "summary": "AI music banned on TIDAL as they delete 29million songs NME",
     "image": null
   },
   {
@@ -540,24 +585,6 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/dropkick-murphs-ken-casey-henry-rollins-car/",
-    "source": "loudwire",
-    "title": "Dropkick Murphys' Ken Casey Once Almost Ran Over Henry Rollins ",
-    "url": "https://loudwire.com/dropkick-murphs-ken-casey-henry-rollins-car/",
-    "publishedAt": "2026-11-24T21:35:55.000Z",
-    "summary": "Henry Rollins was once nearly smashed by a car, and it was a punk musician behind the wheel. Continue reading…",
-    "image": null
-  },
-  {
-    "id": "loudwire-https://loudwire.com/pearl-jam-respond-ice-arrest-seattle/",
-    "source": "loudwire",
-    "title": "Pearl Jam Respond to ‘Inhumane’ ICE Incident in Seattle Airport",
-    "url": "https://loudwire.com/pearl-jam-respond-ice-arrest-seattle/",
-    "publishedAt": "2026-11-24T20:36:59.000Z",
-    "summary": "The band weighed in after witnessing viral footage of ICE agents detaining a father and daughter before boarding a flight. Continue reading…",
-    "image": null
-  },
-  {
     "id": "louder-than-war-https://louderthanwar.com/stewart-lee-vs-the-man-wulf-coventry-belgrade-theatre-live-review/",
     "source": "louder-than-war",
     "title": "Stewart Lee Vs The Man-Wulf – Coventry, Belgrade Theatre – Live Review",
@@ -585,15 +612,6 @@
     "image": null
   },
   {
-    "id": "loudwire-https://loudwire.com/paradise-lost-splitting-up-social-media-speculation/",
-    "source": "loudwire",
-    "title": "Paradise Lost's Cryptic Social Media Tease Leads to 2027 Tour ",
-    "url": "https://loudwire.com/paradise-lost-splitting-up-social-media-speculation/",
-    "publishedAt": "2026-11-24T18:05:47.000Z",
-    "summary": "Paradise Lost paid off a cryptic social media tease with a tour announcement that is leaving fans with more questions. Continue reading…",
-    "image": null
-  },
-  {
     "id": "pitchfork-https://pitchfork.com/story/u2-plot-north-american-stadium-tour/",
     "source": "pitchfork",
     "title": "U2 Plot North American Stadium Tour",
@@ -609,15 +627,6 @@
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUzRUUDh1R0hfeFZWanN5TnpRZW51LV8zWDVkZlBIa0hzYWd0MU01UjNjY21HV2Z1RjFBRnpEX0JjcnVlUjBlN1Z3VEx3aUdmREFHaXZNLWMyaDBkclBWaEttbWh1c1BFQnBVa0lGMkwteGFmc05hN3NEY2RQU2htOUhIQ0JYWW9JRzdESm00Q2UwaGsyVkdFdFBmUngyb2txUmFucDlmTFg?oc=5",
     "publishedAt": "2026-11-24T15:40:56.000Z",
     "summary": "Mastodon announce The Poisonous Weapons UK and Europe tour Kerrang!",
-    "image": null
-  },
-  {
-    "id": "pitchfork-https://pitchfork.com/story/wilco-expand-2027-tour-with-us-dates/",
-    "source": "pitchfork",
-    "title": "Wilco Expand 2027 Tour With U.S. Dates",
-    "url": "https://pitchfork.com/story/wilco-expand-2027-tour-with-us-dates/",
-    "publishedAt": "2026-11-24T15:02:40.000Z",
-    "summary": "The Wilcoworld Tour includes a five-night residency at the San Francisco Fillmore",
     "image": null
   },
   {
@@ -690,15 +699,6 @@
     "url": "https://www.uncut.co.uk/features/the-last-waltz-the-wild-story-behind-rocks-greatest-farewell-concert-157191/",
     "publishedAt": "2026-11-23T08:00:00.000Z",
     "summary": "Bob Dylan, Joni Mitchell, Neil Young, Eric Clapton and more gathered for The Band's final show. Then everything nearly fell apart backstage",
-    "image": null
-  },
-  {
-    "id": "uncut-https://www.uncut.co.uk/features/grand-funk-railroad-the-unbelievable-rise-of-americas-biggest-band-157189/",
-    "source": "uncut",
-    "title": "Grand Funk Railroad: the unbelievable rise of America’s biggest band",
-    "url": "https://www.uncut.co.uk/features/grand-funk-railroad-the-unbelievable-rise-of-americas-biggest-band-157189/",
-    "publishedAt": "2026-11-22T08:00:00.000Z",
-    "summary": "From Jimi Hendrix and Janis Joplin to Frank Zappa and Todd Rundgren, their rise from Michigan bar band to American phenomenon remains one of rock's most improbable success stories",
     "image": null
   },
   {
